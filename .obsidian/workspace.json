@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMT/Conveyors and Scanners/Scanner Issues.md",
+                "file": "Business/Faleth Capital/Faleth Capital Constitution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scanner Issues"
+              "title": "Faleth Capital Constitution"
             }
           }
         ],
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMT/Conveyors and Scanners/Scanner Issues.md",
+                "file": "Business/Faleth Capital/Faleth Capital Constitution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Scanner Issues"
+              "title": "Outline of Faleth Capital Constitution"
             }
           },
           {
@@ -251,6 +251,7 @@
   },
   "active": "1b57f01fdd4d521d",
   "lastOpenFiles": [
+    "SMT/Conveyors and Scanners/Scanner Issues.md",
     "Personal/FAL-OUT Journal/2026-04-06 — Theological Reflection.md",
     "Business/LTD Amway/Info Sessions/2026/2026-04-09 Richard Anderson.md",
     "The Separation Framework.md",
@@ -263,7 +264,6 @@
     "Personal/FAL-OUT Journal",
     "Personal/Church/2026/2026-04-05.md",
     "SMT/SPI/Serial Number Generation Not Allowed.md",
-    "SMT/Conveyors and Scanners/Scanner Issues.md",
     "SMT/SPI/Scan at Operation - Screen Printer.md",
     "SMT/Fuji/Head Cleaning.md",
     "SMT/Conveyors and Scanners",
