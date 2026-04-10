@@ -104,12 +104,11 @@ This framework uses two layers of profit sharing that work together to align inc
 
 ### Layer 3a: Subsidiary Profit Share (20% of Subsidiary Net Profit)
 
-Each quarter, 20% of the subsidiary’s **net profit**... distributed **10% tribe-local** (pro-rata Layer 2 within your container/unit) + **10% sub-wide** (pro-rata across all tribes). Ties skin-in-game to both micro (your tribe) and macro (sub).
+Each quarter, 20% of the subsidiary’s **net profit** (after all operating expenses, COG, COA, COF, fixed costs, and parent company royalties) is distributed to the subsidiary’s team as a local profit share.
 
-**Tribe-Local (10%)**: Pro-rata your Layer 2 within tribe.
-**Sub-Wide (10%)**: Pro-rata Layer 2 across sub.
+Each person’s share of this distribution is determined by their cumulative Layer 2 earnings over that quarter, divided by the total Layer 2 earnings of all participants in that subsidiary. This is the most direct form of long-term incentive: it rewards the team for managing the full P&L of their own business, not just the gross margin.
 
-Container Integration: Encourages intra-tribe optimization + inter-tribe collaboration. This is the most direct form of long-term incentive: it rewards the team for managing the full P&L of their own business, not just the gross margin.
+_In multi-unit subsidiaries, this 20% may be split into two halves — 10% from the unit's own performance and 10% from the subsidiary's consolidated performance — when the team votes to adopt the split structure. This preserves local accountability while maintaining cross-unit alignment. See [[The Unit Framework#Unit-Level Profit Sharing|The Unit Framework, Unit-Level Profit Sharing]] for details._
 
 ### Layer 3b: Family Office Profit Share (20% of Faleth Capital Net Profit)
 
@@ -143,8 +142,6 @@ Both profit share payouts — subsidiary and office level — are distributed si
 ## 3.1 — Processes, Not Roles
 
 This framework does not assign people to fixed roles. Instead, it identifies every process that needs to happen for the business to function, assigns a point value to each process, and lets people decide for themselves what to work on.
-
-**Container Integration**: Points flow across tribe/container boundaries (e.g., 'Parts Delivered' process credits sourcing tribe when assembly accepts).
 
 When someone walks in, they look at what needs to be done and ask: what can I contribute right now? One person might prefer talking to customers and handling front-of-house. Another might prefer to sit down at the bench and grind through repairs. A third might split their time depending on the day. As long as the work gets done, the system does not care who does it. Contribution is tracked. Incentives are aligned. The rest is freedom.
 

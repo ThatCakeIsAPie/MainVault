@@ -126,7 +126,51 @@ The unit structure is not static. It adapts as the subsidiary grows, contracts, 
 
 **A new capability is needed.** When the subsidiary adds a new product line, a new service, or a new stage in the production process, a new unit can be spun up from scratch with its own team, its own Lead election, and its own internal calibration. The existing Leads collectively negotiate the new unit's place in the subsidiary-layer point structure.
 
-# Section 6: What This Is Not
+# Section 6: Unit-Level Profit Sharing
+
+## 6.1 — When This Becomes Relevant
+
+In a single-unit subsidiary, the 20% subsidiary profit share described in [[The Contribution Framework]] works as written — 20% of the subsidiary's net profit, distributed to the team by Layer 2 earnings. There is no need for further subdivision because there is only one team.
+
+When a subsidiary grows into multiple units, a question emerges: should a unit that runs tight margins, controls its costs, and operates efficiently share its profit share equally with a unit across town that is bleeding money? The single-pool model dilutes the connection between a unit's performance and its people's reward. At some point — typically when the subsidiary has enough units that people can no longer see or influence what is happening in the other units — the team may vote to adopt a split profit share structure.
+
+This is not automatic. It is a governance decision, put to a vote by the subsidiary's participants when the scale warrants it. The standard single-pool model remains the default until the team decides otherwise.
+
+## 6.2 — The Split: 10% Unit / 10% Subsidiary
+
+When adopted, the 20% subsidiary profit share splits into two equal halves:
+
+**10% from the unit's own performance.** Each unit tracks its own contribution margin — the revenue attributable to that unit, minus the cost of goods it consumed, minus the COF it paid out, minus any costs that belong exclusively to that unit. Ten percent of this number is distributed to the unit's participants by their Layer 2 earnings within that unit. This is the local incentive: your unit's operational excellence directly affects your payout.
+
+**10% from the subsidiary's consolidated performance.** The subsidiary's full net profit — after all costs, all units, all shared expenses, and the parent company fee — is calculated as usual. Ten percent of this number is distributed to all participants across all units, by total Layer 2 earnings subsidiary-wide. This is the cross-unit incentive: you still benefit from every other unit performing well, and you still feel it when they don't.
+
+The total remains 20%. The split changes where the accountability lives. Half is local. Half is shared. The same pattern that already exists between the subsidiary level (Layer 3a) and the office level (Layer 3b) — just applied one layer down.
+
+## 6.3 — What Counts as Unit-Level Cost
+
+The principle for cost attribution is simple: if an expense belongs entirely to one unit, it is that unit's cost. If it is shared, it stays at the subsidiary level.
+
+A shop that is one full unit pays its own rent, utilities, and insurance out of its unit P&L — those costs are exclusively theirs. A factory floor with multiple units operating in shared space does not try to allocate the rent among them. That rent comes out of the subsidiary P&L, and the subsidiary-level 10% profit share absorbs it.
+
+This mirrors how the office handles costs relative to subsidiaries. The office does not allocate its overhead down to individual subsidiaries — it takes its fee off the top and each subsidiary manages its own costs. The same logic applies one layer down: the subsidiary does not allocate shared overhead to individual units. Shared costs come out of the subsidiary P&L. Unit costs come out of the unit P&L. No allocation formulas. No arguments about who uses more floor space.
+
+## 6.4 — Unit-Level Financial Tracking
+
+Units do not need separate bank accounts or separate legal entities. The subsidiary is still one LLC with one bank account. The unit-level P&L is an accounting view — a way of attributing revenue and costs to the unit that generated or incurred them — not a financial separation.
+
+Revenue is attributed to units based on which unit's work generated it, the same way a restaurant tracks bar revenue and kitchen revenue through the same register. Cost of goods is attributed based on which unit consumed the materials. COF is already tracked per unit through the point system. And unit-exclusive costs (a shop's rent, a production line's maintenance contract) are tagged to that unit in the books.
+
+The Lead does not need to manage a bank account. They need to be able to see their unit's numbers — revenue, COG, COF, unit-level costs, and the resulting contribution margin — clearly enough to make good decisions and to explain the math to their team. The subsidiary's accounting system handles the tracking. The Lead handles the leadership.
+
+## 6.5 — Purchasing Autonomy
+
+Units need the ability to spend money without creating bottlenecks. A Lead who has to route every parts order through a central approval process is a Lead whose unit is slower than it needs to be.
+
+One approach — to be adopted at the subsidiary owner's discretion — is issuing company credit cards with monthly spending limits. Leads receive a higher limit appropriate to their unit's purchasing needs. Individual participants may receive smaller limits for consumables, small tools, and supplies. All spending shows up on the unit's P&L as their cost. If someone misuses the authority, it shows up in the unit's margin, which shows up in the unit's profit share. The accountability is structural. The system does not need an approval workflow because the financial consequences are already doing that job.
+
+The specific limits, policies, and controls are operational decisions made by the subsidiary owner and the Leads collectively. The principle is that purchasing authority should be delegated to the level where the spending decision is made, with transparency and structural accountability replacing centralized approval.
+
+# Section 7: What This Is Not
 
 This framework is not a replacement for [[The Contribution Framework]]. It is an extension of it. The Contribution Framework governs how compensation works within any team. The Unit Framework governs how a subsidiary organizes itself when it has multiple teams. Every principle from the Contribution Framework — processes not roles, pay for value not time, team governance, elected leadership, quarterly recalibration — applies within each unit exactly as written. The Unit Framework adds one thing: a structured way for those teams to interface with each other without resorting to traditional management hierarchy.
 

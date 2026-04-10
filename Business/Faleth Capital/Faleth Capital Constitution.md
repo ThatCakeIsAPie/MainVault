@@ -231,7 +231,7 @@ This is not a concession. It is a structural commitment. People who want to leav
 
 ## 5.2 — Core Principles
 
-**No Trapping.** Conflict will always occur. Disagreements will always occur. If two or more parties cannot agree to work together, they shouldn't be forced to. No participant or group may be forced to remain in a subsidiary against their will. The system is built for people who choose to be here, on the belief that people stay because the value they receive in the system is greater than what they would receive outside of it.
+**No Trapping.** No participant or group may be forced to remain in a subsidiary against their will. The system is built for people who choose to be here.
 
 **Book Value as the Standard.** All separations use the same transparent book-value method — assets minus liabilities — applied consistently regardless of who is leaving or why. There are no subjective multiples, no negotiated premiums, no punitive discounts.
 
@@ -318,4 +318,5 @@ The operational mechanics of Faleth Capital are detailed in the following compan
 - [[The Contribution Framework]] — Process-based compensation, contribution points, the Elected Lead, subsidiary-level governance
 - [[The Financial Framework]] — Parent company fees, subsidiary and office financial flows, the 20/30/50 allocation, structural redundancy, liquidity reserve
 - [[The Equity Framework]] — Share classes, mint-and-burn mechanics, book value pricing, dilution factor, Class C managed capital
+- [[The Unit Framework]] — How subsidiaries organize into modular, self-governing units as they scale beyond a single team
 - [[The Acquisition Transition Framework]] — How existing businesses are brought into the portfolio with dignity and voluntary participation
