@@ -52,7 +52,7 @@ This is where the Unit Framework extends [[The Contribution Framework]] to handl
 
 At the subsidiary level, the entire production process — from raw input to finished output — is broken into major steps. Each step corresponds to a unit. The Leads of each unit negotiate the point values for these major steps collectively. This negotiation determines how the subsidiary's total COF pool is divided among units.
 
-For example, in an electronics manufacturing subsidiary, the major steps might be:
+For an extreme example, in an electronics manufacturing subsidiary, the major steps might be:
 
 |   |   |   |
 |---|---|---|
