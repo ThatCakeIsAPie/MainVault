@@ -42,7 +42,9 @@
       "Bash(mv \"The_Acquisition_Transition_Framework.md\" \"The Acquisition Transition Framework.md\")",
       "Bash(ls *.md)",
       "Bash(xargs ls:*)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(rm \"C:\\\\Users\\\\lylec\\\\Documents\\\\Obsidian Vault\\\\Business\\\\Faleth Capital\\\\Faleth Capital Constitution.md\")",
+      "Bash(mv \"C:\\\\Users\\\\lylec\\\\Documents\\\\Obsidian Vault\\\\Business\\\\Faleth Capital\\\\Faleth_Capital_Constitution.md\" \"C:\\\\Users\\\\lylec\\\\Documents\\\\Obsidian Vault\\\\Business\\\\Faleth Capital\\\\Faleth Capital Constitution.md\")"
     ]
   }
 }
