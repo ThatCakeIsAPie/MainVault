@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Faleth Capital/The Container Framework.md",
+                "file": "Business/Faleth Capital/The Unit Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Container Framework"
+              "title": "The Unit Framework"
             }
           }
         ],
@@ -251,7 +251,10 @@
   },
   "active": "1b57f01fdd4d521d",
   "lastOpenFiles": [
+    "Business/Faleth Capital/The Contribution Framework.md",
+    "Business/Faleth Capital/The Unit Framework.md",
     "Business/Faleth Capital/Faleth Capital Constitution.md",
+    "Business/Faleth Capital/The Financial Framework.md",
     "Business/Faleth Capital/The Container Framework.md",
     "Business/Faleth Capital/Faleth_Capital_Constitution.md",
     "The Separation Framework.md",
@@ -282,11 +285,8 @@
     "SMT/Printer",
     "SMT",
     "Business/Faleth Capital/Free Range Repair/AI Context/Free Range Repair — AI Reference.md",
-    "Business/Faleth Capital/The Contribution Framework.md",
     "Personal/Church/2026/2026-03-31.md",
-    "2026-03-31.md",
     "Business/Faleth Capital/Faleth Capital Constitution.md.tmp.15456.1774979753470",
-    "Business/Faleth Capital/Section_1.5_Revised.md",
     "Untitled.canvas"
   ]
 }
