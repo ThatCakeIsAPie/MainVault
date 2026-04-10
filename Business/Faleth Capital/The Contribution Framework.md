@@ -313,6 +313,24 @@ The Elected Lead position is subject to the following governance rules:
 - The outgoing Lead returns to the standard participant pool with no penalty or change in status. The incoming Lead begins earning Lead Oversight points immediately.
 - The Lead election process, including any eligibility requirements, is documented and agreed upon by the team as part of the initial framework setup.
 
+## 5.5 — Automation, AI, and the Point System
+
+A question that will arise — and should arise — is what happens to this framework when automation and artificial intelligence make existing processes faster, cheaper, or unnecessary.
+
+The short answer is: the system incentivizes it.
+
+The Contribution Framework tracks process completion, not hours worked. If a participant uses AI to complete a diagnosis in five minutes that used to take thirty, they earn the same points. They just earned them faster, which means they can earn more of them in the same day. If a new tool automates a process entirely, that process is removed or reclassified during the next quarterly recalibration. The points that were attached to it are removed, the remaining points are worth more. The team asks "what is the work now?" and adjusts.
+
+This is not a hypothetical. It is the same mechanism that handles any efficiency gain — better tooling, improved techniques, streamlined workflows. The quarterly recalibration exists precisely so that the point system stays calibrated to reality rather than frozen to the way things used to be done. When reality changes, the system changes with it. No reorg. No layoffs. A conversation between peers about what the work looks like today.
+
+The deeper point is philosophical. Every major technological shift in history — the plow, the printing press, the steam engine, the assembly line, the computer — eliminated entire categories of work and created new ones that nobody could have predicted. The industrial revolution did not produce mass permanent unemployment. It produced a world where almost no one farms and yet there is more food than ever. AI will follow the same pattern. It will simply just commoditize once valuable industries. The work will change. The need for people who can think, create, coordinate, and solve problems will not.
+
+The organizations most at risk from automation are the ones built on the assumption that human labor is a cost to be minimized. Those organizations will race to replace people with machines, and they will succeed at the easy parts — the repetitive, measurable, well-defined tasks. What they will not be able to automate is judgment, creativity, leadership, and the ability to identify problems that do not yet have names. Those are the capacities that the Contribution Framework is designed to develop and reward.
+
+A system that pays for value created rather than time spent does not fear efficiency. It feeds on it. The people who learn to use new tools — AI or otherwise — earn more under this model, not less. The COF flywheel turns the same way it always does: simplify the process, reduce total points, increase the dollar value of each remaining point. The person who embraces the new tool thrives. The system recalibrates. The work continues.
+
+We are not building a system that depends on things staying the way they are. We are building a system that adapts, by design, to whatever the work becomes next.
+
 # Section 6: Equity Structure
 
 The equity system participants access through this framework — the Class A/B/C share structure, the mint-and-burn mechanism for acquiring and cashing out Class B shares, book value share pricing, the dilution factor, and the Class C managed capital structure — is governed by Faleth Capital, not by any individual subsidiary. Full details are in [[The Equity Framework]].

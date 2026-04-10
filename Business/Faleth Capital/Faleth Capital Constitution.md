@@ -110,6 +110,20 @@ Faleth Capital is not just a holding company. It is a pathway. The system is des
 
 This is not theoretical. It is the structural intention of every mechanism described in this document. Every rule, every incentive, every allocation is designed to move people along this pipeline from contributor to owner to mentor to managed wealth. The system does not just help people build wealth. It manages it once they have it. The same office that helped you earn it can steward it for the long term.
 
+## 1.7 — The Generative Principle
+
+Every mechanism in this system — the contribution points, the elected Leads, the equity pipeline, the mentoring compensation, the Peaceful Fork — flows from a single idea that is older than business itself: equip people until they no longer need you.
+
+This is the principle of discipleship applied to economic life. A disciple who never leaves is not a disciple. They are a dependent. The entire purpose of development is to produce someone who can go do the thing on their own — and then go produce others who can do the same. The measure of a leader is not how many people report to them. It is how many people they have developed to the point of independence.
+
+The alternative is a trap for everyone involved. A leader who builds an organization that depends on them has built their own prison. They cannot step away, cannot get sick, cannot pursue anything else. Their identity fuses with their control. And the people beneath them learn, correctly, that their advancement depends on the leader's approval rather than their own capability. The result is a system that rewards loyalty over competence and presence over contribution. We reject that outcome.
+
+The Contribution Framework makes you replaceable by design. The Lead can be elected out. The subsidiary can fork. The equity decays without active involvement. Nothing in the system requires any single person to be present for it to function. That is not a weakness. That is the proof that the system is built correctly. A leader who has made themselves unnecessary has done the hardest and most valuable thing a leader can do. The system recognizes that and rewards it — through mentoring compensation, through the pipeline to ownership, and through the knowledge that what they built will outlast their involvement.
+
+This is also why the entire system is an open document. We do not want to be the only organization that operates this way. We want this to become the standard. If someone reads these documents, takes the ideas, and builds something better without Faleth Capital's name on it, that is not a loss. That is the mission working. The goal is not to build an empire. The goal is to prove that there is a better way to organize human effort, and to make that proof so undeniable and so accessible that the old model becomes indefensible.
+
+The principles are designed to propagate. The Peaceful Fork ensures that even internal disagreements produce more instances of the model, not fewer. The open constitution invites scrutiny. The frameworks are designed to be adopted, not licensed. If this system does not eventually spread beyond Faleth Capital and into the broader market, something went wrong — either in the design or in the execution. We are betting on the design.
+
 # Article II: Structure
 
 ## 2.1 — The Family Office

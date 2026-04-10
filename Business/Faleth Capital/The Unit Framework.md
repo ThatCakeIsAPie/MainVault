@@ -70,7 +70,7 @@ Each completed unit of product that passes through a step earns that step's poin
 
 The Lead negotiation is the governance mechanism. Leads are elected by their units, which means each Lead represents the interests of their team. When Leads sit down to negotiate point values for each step, they are negotiating how the total pie is divided among units. This is not top-down allocation. It is peer negotiation between representatives with skin in the game. If the SMT Lead thinks their step is undervalued relative to its complexity, they make that case to the other Leads. The group reaches agreement the same way the Contribution Framework handles any parameter dispute: open discussion, and if consensus fails, a vote.
 
-These inter-unit point values are reviewed quarterly, just like intra-unit point values. If a step becomes significantly easier due to automation or process improvement, its point value should decrease — and the points freed up get redistributed to steps that are still labor-intensive. The system stays calibrated to reality.
+These inter-unit point values are reviewed quarterly, just like intra-unit point values. If a step becomes significantly easier due to automation or process improvement, its point value should decrease — and the points freed up and the pay is redistributed to steps that are still labor-intensive. The system stays calibrated to reality.
 
 ## 3.2 — The Unit Layer
 
@@ -112,7 +112,7 @@ The subsidiary owner and the collective body of Leads together set subsidiary-wi
 
 ## 4.4 — At the Office Level
 
-When the subsidiary interacts with Faleth Capital at the office level, it does so through its owner, just like any other subsidiary. The internal unit structure is invisible to the office. The parent company fee, profit share, and equity mechanics all operate on the subsidiary's consolidated financials, not on individual unit performance. Units are an internal organizational tool, not a separate legal or financial entity.
+When the subsidiary interacts with Faleth Capital at the office level, it does so through its owner, just like any other subsidiary. The parent company fee, profit share, and equity mechanics all operate on the subsidiary's consolidated financials, not on individual unit performance. Units are an internal organizational tool, not a separate legal or financial entity.
 
 # Section 5: Scaling Triggers
 
