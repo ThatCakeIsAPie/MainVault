@@ -15,21 +15,6 @@
   "pinNewInstance": true,
   "preferredRenderer": "webgl",
   "profiles": {
-    "developerConsole": {
-      "followTheme": true,
-      "name": "",
-      "restoreHistory": false,
-      "rightClickAction": "copyPaste",
-      "successExitCodes": [
-        "0",
-        "SIGINT",
-        "SIGTERM"
-      ],
-      "terminalOptions": {
-        "documentOverride": null
-      },
-      "type": "developerConsole"
-    },
     "win32ExternalDefault": {
       "args": [],
       "executable": "C:\\Windows\\System32\\cmd.exe",
@@ -51,15 +36,12 @@
       "type": "external"
     },
     "win32IntegratedDefault": {
-      "args": [
-        "--login"
-      ],
-      "executable": "/bin/bash",
+      "args": [],
+      "executable": "C:\\Windows\\System32\\cmd.exe",
       "followTheme": true,
       "name": "",
       "platforms": {
-        "darwin": true,
-        "linux": true
+        "win32": true
       },
       "pythonExecutable": "python3",
       "restoreHistory": false,
@@ -76,7 +58,7 @@
       "useWin32Conhost": true
     }
   },
-  "defaultProfile": "win32IntegratedDefault",
+  "defaultProfile": null,
   "terminalOptions": {
     "documentOverride": null
   }

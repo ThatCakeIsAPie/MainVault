@@ -44,7 +44,7 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "Terminal: ✳ Review and summarize recent notes"
+              "title": "Terminal: cmd"
             }
           },
           {
@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Faleth Capital/Faleth Capital Constitution.md",
+                "file": "Business/Faleth Capital/Faleth_Capital_Constitution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faleth Capital Constitution"
+              "title": "Faleth_Capital_Constitution"
             }
           }
         ],
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/Faleth Capital/Faleth Capital Constitution.md",
+                "file": "Business/Faleth Capital/Faleth_Capital_Constitution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Faleth Capital Constitution"
+              "title": "Outline of Faleth_Capital_Constitution"
             }
           },
           {
@@ -251,8 +251,9 @@
   },
   "active": "1b57f01fdd4d521d",
   "lastOpenFiles": [
-    "The Separation Framework.md",
+    "Business/Faleth Capital/Faleth_Capital_Constitution.md",
     "Business/Faleth Capital/Faleth Capital Constitution.md",
+    "The Separation Framework.md",
     "SMT/Conveyors and Scanners/Scanner Issues.md",
     "Personal/FAL-OUT Journal/2026-04-06 — Theological Reflection.md",
     "Business/LTD Amway/Info Sessions/2026/2026-04-09 Richard Anderson.md",
@@ -286,7 +287,6 @@
     "Business/Faleth Capital/Faleth Capital Constitution.md.tmp.15456.1774979753470",
     "Business/Faleth Capital/Section_1.5_Revised.md",
     "Business/Faleth Capital/The Financial Framework.md",
-    "2026-03-30.md",
     "Untitled.canvas"
   ]
 }
