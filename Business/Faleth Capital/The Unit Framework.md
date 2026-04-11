@@ -90,7 +90,7 @@ The total internal points for all processes within the unit determine how the un
 
 ## 3.3 — Why Two Layers
 
-This structure exists to make the system feel fair and controllable at every level. At the subsidiary layer, Leads negotiate on behalf of their teams to ensure each unit's share of the pie reflects the actual difficulty and value of their step. At the unit layer, participants set their own internal point values to reflect the actual work they do. Nobody three units away is deciding what your labor is worth. The people closest to the work govern the work — at both levels.
+This structure exists to make the system feel fair and controllable at every level. At the subsidiary layer, Leads negotiate on behalf of their teams using the same point system, simply applied a level higher, to ensure each unit's share of the pie reflects the actual difficulty and value of their step. At the unit layer, participants set their own internal point values to reflect the actual work they do. Nobody three units away is deciding what your labor is worth. The people closest to the work govern the work — at both levels.
 
 It also means that a unit that finds a way to do their step more efficiently — fewer people, better tooling, streamlined processes — keeps the benefit. Their share of the subsidiary pool stays the same (until the next quarterly recalibration), but the pool is divided among fewer internal points, which means each point is worth more. The COF flywheel from [[The Contribution Framework]] operates at the unit level: simplify the process, reduce total points, increase the dollar value of each remaining point. Efficiency is rewarded, not penalized — exactly the same principle, just applied within a modular structure.
 
