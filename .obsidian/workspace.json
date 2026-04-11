@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4e775c0667563748",
+        "id": "58d9be3626980f31",
         "type": "tabs",
         "children": [
           {
-            "id": "0e2805b9c455c618",
+            "id": "bee1caa8ed677758",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business/Faleth Capital/The Equity Framework.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The Equity Framework"
+              "title": "New tab"
             }
           }
         ]
@@ -208,18 +204,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e2805b9c455c618",
+  "active": "bee1caa8ed677758",
   "lastOpenFiles": [
+    "Business/Faleth Capital/The Financial Framework.docx",
     "Business/Faleth Capital/The Financial Framework.md",
-    "Business/Faleth Capital/The Unit Framework.md",
+    "Business/Faleth Capital/The Equity Framework.docx",
     "Business/Faleth Capital/The Equity Framework.md",
+    "Business/Faleth Capital/The_Financial_Framework.md",
+    "Business/Faleth Capital/The_Equity_Framework.md",
+    "Business/Faleth Capital/The Unit Framework.md",
     "Business/Faleth Capital/The Contribution Framework.md",
     "Business/Faleth Capital/The Acquisition Transition Framework.md",
     "Business/Faleth Capital/Faleth Capital Constitution.md",
     "Business/Faleth Capital/The Acquisition Transition Framework.docx",
     "Business/Faleth Capital/The Unit Framework.docx",
-    "Business/Faleth Capital/The Financial Framework.docx",
-    "Business/Faleth Capital/The Equity Framework.docx",
     "Business/Faleth Capital/The Contribution Framework.docx",
     "Business/Faleth Capital/Faleth Capital Constitution.docx",
     "SMT/Fuji/Pickup Issues.md",
@@ -227,7 +225,6 @@
     "Business/Faleth Capital/The Contribution Framework.md.tmp.9972.1775845778781",
     "Business/Faleth Capital/Faleth Capital Constitution.md.tmp.9972.1775845759640",
     "Business/Faleth Capital/The_Unit_Framework.md",
-    "Business/Faleth Capital/The_Financial_Framework.md",
     "Business/Faleth Capital/The_Contribution_Framework.md",
     "Business/Faleth Capital/Faleth_Capital_Constitution.md",
     "Business/Faleth Capital/The Container Framework.md",
@@ -244,7 +241,6 @@
     "Personal/FAL-OUT Journal",
     "Personal/Church/2026/2026-04-05.md",
     "SMT/SPI/Serial Number Generation Not Allowed.md",
-    "SMT/SPI/Scan at Operation - Screen Printer.md",
     "Untitled.canvas"
   ]
 }

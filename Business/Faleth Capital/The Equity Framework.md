@@ -12,9 +12,9 @@ Faleth Capital
 
 Internal Framework Document
 
-Version 1.0 — Draft
+Version 1.1 — Draft
 
-_This document details the equity mechanics summarized in [[Faleth Capital Constitution#Article IV The Equity System|Article IV of the Faleth Capital Constitution]]. For how profit share is generated and distributed, see [[Faleth Capital/The Financial Framework]]. For the contribution-based compensation that generates the profit share used to mint shares, see [[The Contribution Framework]]._
+_This document details the equity mechanics summarized in [[Faleth Capital Constitution#Article IV The Equity System|Article IV of the Faleth Capital Constitution]]. For how profit share is generated and distributed, see [[The Financial Framework]]. For the contribution-based compensation that generates the profit share used to mint shares, see [[The Contribution Framework]]._
 
 # Section 1: The Mint-and-Burn Model
 
@@ -26,8 +26,8 @@ Faleth Capital uses a mint-and-burn equity model. Shares are created when partic
 |---|---|---|---|
 |**Class**|**Holder**|**Rights**|**Transferability**|
 |Class A|Office Members|100% ownership of the firm; voting rights on office-level governance; non-dividend; represents membership and stewardship|Can be sold upon departure; not diluted by Class B minting|
-|Class B|All participants|Non-voting; dividend-participating from the 30% office dividend pool; minted via profit share, burned on cash-out|Not transferable; can only be cashed out (burned) at book value|
-|Class C|External investors|Non-voting; receives returns from the managed fund (separate from office dividend pool); capital managed under PE terms (2 and 20)|Subject to fund terms; not transferable without office approval|
+|Class B|All participants|Non-voting; dividend-participating from the office's share of pool growth; minted via profit share, burned on cash-out|Not transferable; can only be cashed out (burned) at book value|
+|Class C|External investors|Non-voting; owns a proportional share of the unified pool; receives returns on that share net of fees and the 20% employee profit share contribution|Subject to fund terms; not transferable without office approval|
 
 _For how Class A membership is earned, see [[The Membership Framework]]. For governance rights and voting procedures, see [[The Governance Framework]]._
 
@@ -35,9 +35,9 @@ _For how Class A membership is earned, see [[The Membership Framework]]. For gov
 
 The only way to acquire Class B shares is by investing earned profit share (from either the subsidiary or office level) or reinvesting earned dividends. When a participant invests, new shares are minted at the current book value per share:
 
-**_Book Value Per Share = (Total Assets − Total Liabilities) ÷ Total Shares Outstanding_**
+**_Book Value Per Share = (Office Equity − Liabilities) ÷ Total Class B Shares Outstanding_**
 
-This valuation is intentionally simple. Assets minus liabilities is a number on the balance sheet. The share count is a number everyone can see. The math is division. There are no subjective multiples, no trailing averages, no discretionary inputs.
+Book value is calculated from the office's own equity in the pool — not the total pool balance including investor capital. Investor capital belongs to the investors. Class B share pricing reflects what the office itself owns. This valuation is intentionally simple: a number on the balance sheet divided by a number everyone can see. No subjective multiples, no trailing averages, no discretionary inputs.
 
 # Section 4: Burning (Cashing Out)
 
@@ -62,99 +62,98 @@ Each quarter, the dilution factor is calculated and reported in the earnings cal
 
 The dilution factor is information, not judgment. A negative factor during a quarter of heavy investment may be perfectly strategic. A sustained negative trend warrants attention. The point is transparency: everyone sees the number and understands what it means.
 
-# Section 7: Class C — Managed Capital
+# Section 7: Class C — Investor Capital
 
-Faleth Capital's mission is to create and manage generational wealth. Class B shares serve that mission for people inside the contribution pipeline. Class C shares extend it to people outside the pipeline who want access to the portfolio without building a business themselves.
+Faleth Capital's mission is to create and manage generational wealth. Class B shares serve that mission for people inside the contribution pipeline. Class C serves people outside the pipeline who want exposure to the portfolio without building a business themselves.
 
-## 7.1 — Structure
+## 7.1 — The Unified Pool Model
 
-Class C operates as a pooled investment fund managed by the office, entirely separate from the office's own profit and dividend structures:
+Class C investors do not invest into a separate fund that Faleth Capital manages at arm's length. They invest into the same pool the office itself operates from. Think of the total pool as a pie chart: the office's equity is one slice, and each investor's capital is another. The size of each slice is determined by how much was contributed relative to the whole.
 
-- External investors contribute capital to a pooled fund. The office has full discretion over how that capital is deployed across subsidiaries, new ventures, and other investments.
-- Consistent with the office's liquidity philosophy, not all investor capital is deployed into businesses. The managed fund maintains the same half-and-half discipline as the office itself: approximately half of the fund's value is deployed into operating businesses, and the other half is held in liquid capital. This structurally safeguards investor funds by ensuring the fund is never fully committed and always has reserves to weather downturns or capitalize on opportunities.
-- The office charges a 2% annual management fee on assets under management (AUM) and a 20% performance fee on quarterly balance sheet growth of the managed fund.
-- Class C investors receive their returns from the managed fund itself — the investment gains on their contributed capital, net of fees. They do not participate in the office's 30% dividend pool. That pool belongs exclusively to Class B shareholders who invested their earned profit share into the office.
-- Class C shares are non-voting. Governance remains exclusively with Class A members (see [[The Governance Framework]]).
+If the office holds $2 billion and an investor contributes $3 billion, the total pool is $5 billion. The office owns 40%. The investor owns 60%. Every dollar in that pool is deployed by the same people, under the same philosophy, subject to the same 50/50 deployment discipline described in [[The Financial Framework#Section 3 Family Office Financial Flow|Section 3 of the Financial Framework]].
 
-**The principle is straightforward:** if you did not invest into the office, you do not get a cut of the office's profits. Class C investors trusted the office to manage their capital, and they receive returns on that capital. Class B shareholders invested into the office itself, and they receive dividends from the office's own income. These are two separate pools serving two separate groups.
+This is not commingling — it is co-ownership. The distinction matters. The office's share grows through its own equity-building activity: parent company fees earned, performance fees collected, liquidity retained. The investor's share grows through their proportional participation in the pool's overall performance. Both parties benefit when the pool grows. Both feel it when the pool contracts. The incentives are unified because the ownership is unified.
 
-## 7.2 — How Class C Interacts With the Existing System
+## 7.2 — Fees
 
-Class C investor capital is recorded as both an asset (the cash or investments) and a corresponding liability (the obligation to the investor). It nets to zero on the office's own balance sheet and does not inflate Class B book value per share. When calculating book value per share for Class B shareholders, the formula remains: total assets minus total liabilities, divided by total shares. Class C capital cancels itself out.
+The office charges investors for the service of active management. The structure mirrors standard private equity:
 
-The managed fund's growth does appear in total portfolio balance sheet growth, which the 20% employee profit share is calculated on (see [[Faleth Capital/The Financial Framework#Section 3 Family Office Financial Flow|Section 3 of the Financial Framework]]). This is appropriate: that growth happened because the subsidiaries the fund invested in performed well, and they performed well because of the team's work. The employees are being rewarded for the value they created, not for the presence of outside capital.
+**2% annual management fee**, charged as 0.5% per quarter on the investor's total capital in the pool. This fee is charged regardless of performance — it covers the ongoing cost of managing the portfolio. In a quarter where the pool does not grow, the management fee still applies.
 
-The 2% management fee and 20% performance fee the office earns from managing Class C funds are genuine office income. These fees flow into the office's own equity (not the liability side), which means they do contribute to office holdings growth, and therefore to the 30% Class B dividend pool and the 50% liquidity retention. The relationship is symbiotic without being commingled: Class C capital does not inflate Class B share prices, but the fees earned from managing it do grow the office's own holdings over time.
+**20% performance fee**, charged on the investor's proportional share of pool growth in a given quarter. If the pool did not grow, there is no performance fee. The office only collects this when the investor's capital actually increased.
 
-## 7.3 — The Investor Proposition
+Both fees are income to the office. They increase the office's equity in the pool, which means they flow into the 30% Class B dividend pool and the 50% liquidity retention.
 
-From the investor's perspective, Class C offers something unusual: exposure to a portfolio of operating businesses where every employee is compensated based on contribution rather than fixed salary. The incentive alignment runs from the shop floor to the family office. Every dollar of operating profit was generated by people whose income is directly tied to the value they create. This should, over time, produce superior operational performance compared to traditionally-managed companies.
+## 7.3 — The Employee Profit Share Contribution
 
-There is also a structural profitability safeguard built into every subsidiary. Because the largest expense — labor — is paid as a percentage of gross margin through the COF rate, it scales proportionally with revenue. A traditional company with fixed payroll bleeds cash whether it has customers or not. Faleth Capital subsidiaries cannot have that problem. If revenue drops, labor costs drop automatically. The floor is the only fixed labor cost, and it is designed to be modest. This means the managed fund's holdings are operating businesses with structurally limited downside risk.
+Before the investor receives their net return, 20% of total pool growth is distributed to employees as the office-level profit share. This comes off the top of total growth — the investor's slice included — because the team's work is what drove the growth. An investor whose capital represents 60% of the pool contributed 60% of the gross growth, and 20% of that gross growth (along with the other 40%) goes to the people who made it happen.
 
-Additionally, investor capital is never fully deployed. The managed fund maintains the same half-and-half liquidity discipline as the office itself, meaning roughly half of investor capital is held in reserve at all times. This is not timidity — it is the same Talmudic principle applied consistently: always maintain liquid capital alongside business investments. Investors are never in a position where 100% of their money is at risk in operating businesses.
+This is a feature, not a cost to be minimized. Investors are buying into a portfolio where every operator has direct financial skin in the game at the weekly, quarterly, and long-term level. The profit share is the mechanism that makes that true. A portfolio run by people whose income is directly tied to performance will, over time, outperform one that isn't. Investors are paying the team to care, and the team cares because they are paid to care.
 
-Investors are not buying into a fund managed by strangers. They are buying into an ecosystem where the operators have skin in the game at every level — weekly through contribution points, quarterly through profit sharing, and permanently through Class B equity they earned with their own hands. And the office only collects its 20% performance fee on actual quarterly balance sheet growth of the managed fund. If the portfolio does not grow in a given quarter, the office earns nothing beyond the 2% management fee. The incentives are fully aligned: the office only profits when the investors profit.
+## 7.4 — What an Investor Receives
 
-## 7.4 — Worked Example: A Quarter at Maturity
+Each quarter, after the management fee and 20% profit share are accounted for, the investor receives their proportional share of what remains of the pool's growth. In a down quarter, there is no performance fee and no profit share — but the management fee still applies. The investor absorbs their proportional share of the loss, minus the management fee.
+
+The risk profile is asymmetric in the investor's favor. In a growth quarter, the investor keeps the majority of their slice's growth after fees and the profit share contribution. In a loss quarter, the only guaranteed cost is the 0.5% quarterly management fee. The underlying businesses have structurally flexible labor costs — labor scales with revenue through the COF rate, so a revenue decline does not produce a payroll crisis. Subsidiaries naturally contract and preserve capital. This limits the depth of any down quarter without requiring the office to make forced decisions.
+
+Additionally, the 50/50 deployment discipline means investor capital is never fully committed. Approximately half sits in liquid reserves at all times. An investor who withdraws does not trigger asset liquidations — their exit reduces the liquid side of the pool, and if it pushes the deployed-to-liquid ratio out of balance, the office responds by slowing new spending until the ratio normalizes. Existing businesses are never sold to satisfy a withdrawal.
+
+## 7.5 — What Class C Is Not
+
+Class C investors do not participate in the Class B dividend pool. That pool belongs exclusively to people who earned their position by contributing labor, minting shares through profit share, and building the portfolio from the inside. An investor buying a slice of the pool is not the same as a technician who spent three years converting quarterly profit share into equity. The dividend stream is the reward for that path. Investors receive returns on their capital through their proportional share of pool growth — a different mechanism serving a different relationship.
+
+Class C shares are non-voting. Governance of the portfolio remains exclusively with Class A members, who earned their seats by building subsidiaries that generate real income for the office.
+
+## 7.6 — The Investor Proposition
+
+From the investor's perspective, Class C offers exposure to a portfolio of operating businesses where every employee is compensated based on contribution rather than fixed salary. The incentive alignment runs from the shop floor to the family office. Every dollar of operating profit was generated by people whose income is directly tied to the value they create. This should, over time, produce superior operational performance compared to traditionally-managed companies.
+
+There is also a structural profitability safeguard built into every subsidiary. Because the largest expense — labor — is paid as a percentage of gross margin through the COF rate, it scales proportionally with revenue. A traditional company with fixed payroll bleeds cash whether it has customers or not. Faleth Capital subsidiaries cannot have that problem. If revenue drops, labor costs drop automatically. The floor is the only fixed labor cost, and it is designed to be modest.
+
+Investors are not buying into a fund managed by strangers. They are buying into an ecosystem where the operators have skin in the game at every level — weekly through contribution points, quarterly through profit sharing, and permanently through Class B equity they earned with their own hands.
+
+## 7.7 — Worked Example: A Quarter at Maturity
 
 _The following is a hypothetical but realistic example of how the math works across all parties in a single quarter. All numbers are illustrative._
 
 **Setup**
 
-Faleth Capital has three operating subsidiaries (electronics repair, pool cleaning, light manufacturing), a managed fund with $2,000,000 in Class C investor capital (half deployed, half liquid), and 10,000 Class B shares outstanding. The office's own holdings are valued at $3,000,000. Total portfolio: $5,000,000. Book value per share: $300.
+The total pool is $5,000,000. The office owns 40% ($2,000,000) and a single investor owns 60% ($3,000,000). The pool has 10,000 Class B shares outstanding. Book value per share is based on the office's equity: $2,000,000 ÷ 10,000 = $200 per share. The pool is deployed 50/50: $2,500,000 in subsidiary balance sheets, $2,500,000 liquid.
 
 **During the Quarter**
 
-The three subsidiaries collectively generate $600,000 in revenue and $120,000 in combined net profit before the parent company fee. The fee is the higher of 5% of revenue ($30,000) or one-third of net profit ($40,000), so the office collects $40,000.
+The subsidiaries perform well. After all subsidiary-level costs and parent company fees, the total pool grows by $500,000 — meaning the pool ends the quarter at $5,500,000.
 
-The managed fund pays its quarterly management fee first: 0.5% of $2,000,000 = $10,000, deducted from the fund as an operating expense. That $10,000 goes to the office as income. After the fee, the fund's investments and liquid reserves generate $70,000 in growth, bringing the fund to $2,060,000.
+The investor's 60% share of that growth is $300,000. The office's 40% share is $200,000.
 
-**End of Quarter Balance Sheet**
+**Quarterly Allocations (All Simultaneous)**
 
-|   |   |   |   |
-|---|---|---|---|
-||**Start**|**End**|**Growth**|
-|Office Own Holdings|$3,000,000|$3,050,000|$50,000|
-|Managed Fund (post-mgmt fee)|$2,000,000|$2,060,000|$60,000|
-|Total Portfolio|$5,000,000|$5,110,000|$110,000|
-
-**Allocations (All Simultaneous)**
-
-|   |   |   |
-|---|---|---|
-|**Allocation**|**Amount**|**Calculated From**|
-|20% Employee Profit Share|$22,000|20% of total portfolio growth ($110,000)|
-|30% Class B Dividends|$15,000|30% of office own holdings growth ($50,000)|
-|50% Retained in Liquidity Pool|$25,000|50% of office own holdings growth ($50,000)|
-|20% Performance Fee (to office)|$12,000|20% of managed fund growth ($60,000)|
-|Net to Class C Investors|~$36,000|Fund growth minus profit share portion and performance fee|
+| | |
+|---|---|
+|**Allocation**|**Amount**|
+|20% Employee Profit Share (off total growth of $500,000)|$100,000|
+|Management Fee (0.5% of investor's $3,000,000 AUM)|$15,000 → to office|
+|Performance Fee (20% of investor's $300,000 growth)|$60,000 → to office|
+|Net to Investor ($300,000 − $60,000 perf fee − investor's share of profit share)|~$180,000|
+|Office's $200,000 growth + $75,000 in fees = $275,000 → 30% Class B Dividends|$82,500|
+|Office's $275,000 → 50% Liquidity Pool|$137,500|
 
 **What Each Party Receives**
 
-**Employees:** Layer 2 weekly pay continued throughout the quarter (unaffected). Subsidiary-level 20% profit share from their own sub's net profit (separate calculation). Plus $22,000 in office-level profit share split across all participants by Layer 2 pay. A technician who earned $15,000 in Layer 2 pay (10% of $150,000 total) receives $2,200 as their office-level profit share, on top of their subsidiary profit share. They can take either or both in cash, or mint Class B shares with any portion.
+**Employees:** Layer 2 weekly pay continued throughout the quarter, unaffected. Subsidiary-level profit share from their own subsidiary's net profit (separate Layer 3a calculation). Plus $100,000 in office-level profit share split across all participants by Layer 2 pay. A participant who earned 10% of total Layer 2 pay across the portfolio receives $10,000 in office-level profit share, on top of their subsidiary profit share. They can take either or both in cash, or mint Class B shares with any portion.
 
-**Class B Shareholders:** $1.50 per share in dividends. Someone holding 500 shares receives $750. Book value per share also increased because the office retained $25,000 in the liquidity pool plus the $12,000 performance fee flows in as additional office income.
+**Class B Shareholders:** $82,500 distributed across all shares. At 10,000 shares outstanding, that is $8.25 per share. Someone holding 500 shares receives $4,125. Book value per share also increases as the office retains $137,500 in the liquidity pool and adds the fee income to its equity.
 
-**Class C Investors:** Approximately $36,000 in net returns on $2,000,000 invested, or about 1.8% for the quarter (~7.2% annualized). They kept roughly 60% of the fund's growth.
+**Investor:** Approximately $180,000 in net returns on $3,000,000 invested — about 6% for the quarter. After the performance fee and the profit share contribution, they retained the majority of their slice's growth.
 
-## 7.5 — The Asymmetry
-
-The risk profile for Class C investors is structurally asymmetric in their favor:
-
-- In a growth quarter: investors keep approximately 60% of fund growth. Uncapped upside.
-- In a loss quarter: the only cost to the investor is the 0.5% quarterly management fee ($10,000 on $2M). No performance fee is charged (no growth, no fee). No profit share is taken (no growth, nothing to share). Maximum quarterly downside: 0.5%.
-
-This asymmetry exists because the underlying businesses have structurally flexible costs. Labor — the largest expense in most businesses — scales with revenue through the COF rate. A down quarter does not mean the subsidiaries are hemorrhaging cash on fixed payroll. They naturally contract. The fund's holdings are not burning through reserves to stay alive. They are adjusting automatically, preserving capital, and waiting for the next growth cycle.
-
-## 7.6 — Parameters To Be Determined
+## 7.8 — Parameters To Be Determined
 
 _The following Class C parameters are acknowledged as part of the framework but are not yet finalized. They will be established by Class A members before Class C shares are offered and amended into this document at that time:_
 
 - The hurdle rate above which the 20% performance fee applies.
 - Any cap on individual Class C holdings (to prevent concentration risk).
-- Any cap on total Class C capital relative to the office's total assets.
+- Any cap on total Class C capital relative to total pool size.
 - Minimum investment thresholds and lock-up periods.
 - Fund reporting cadence and format for Class C investors.
 
-_This framework is a living document. Its parameters may be adjusted by Class A members through the amendment process described in [[Faleth Capital Constitution#Article IX Amendments|Article IX of the Constitution]]. The principles — earned-only minting, book-value pricing, any-time cash-out, and the separation of Class B and Class C pools — are permanent._
+_This framework is a living document. Its parameters may be adjusted by Class A members through the amendment process described in [[Faleth Capital Constitution#Article IX Amendments|Article IX of the Constitution]]. The principles — earned-only minting for Class B, book-value pricing, any-time cash-out, the unified pool model for Class C, and the separation of Class B dividends from Class C returns — are permanent._
