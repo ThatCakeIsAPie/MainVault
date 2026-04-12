@@ -1,0 +1,9 @@
+Total = The total cost to the customer after everything. Taxes, fees, subtotal, etc.
+Subtotal = The total cost to the customer before taxes and fees.
+Gross Profit = Subtotal - COG
+COG = Cost of Goods
+COA = Cost of Acquisition (Basically CAC, Cost to Acquire the Customer)
+COF = Cost of Fulfillment (Comp plan set aside for all human labor)
+Fixed Costs = Guaranteed monthly expenses
+PCB = Project Completion Bonus (Paid out once the project is completed)
+PC Royalties = Royalties paid out to the parent company

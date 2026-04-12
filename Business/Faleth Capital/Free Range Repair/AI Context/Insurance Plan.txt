@@ -1,0 +1,12 @@
+Customers will be able to pay a set amount per month as insurance on their device
+
+The idea is to turn upsells into samples of this offer, as it creates a recurring revenue stream for the business and offers peace of mind to our customers.
+
+For example, to insure their devices at $20/month gets them full coverage on either restoration or a refurbished device.
+
+On every repair, they get 2 free months of full-coverage insurance by default.
+If they purchase a case or screen protector, they get an additional 2 months.
+If they purchase both, they get 4 months.
+All three combined, they can get up to 6 months of insurance, for free.
+
+For more information regarding our upsells, refer to our upsell offer document.
