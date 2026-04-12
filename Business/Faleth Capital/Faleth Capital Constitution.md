@@ -98,7 +98,17 @@ This is the path to wealth accessible to just about anyone. It does not mean eve
 
 ## 1.6 — The Pipeline
 
-Faleth Capital is not just a holding company. It is a pathway. The system is designed so that a person can:
+Faleth Capital is not just a holding company. It is a pathway. The system is designed so that a person can enter from multiple starting points.
+
+**The builder's path:** A person joins any subsidiary at any level and earns contribution-based pay, builds wealth through layered profit sharing and equity, uses the freedom of the no-time-clock model to develop entrepreneurial skills on the side, and when ready, launches their own subsidiary funded and mentored by the office.
+
+**The investor's path:** A person with capital opens a Managed Capital Account, trusts the office to deploy it into the unified pool, and earns returns managed under the same philosophy that governs every subsidiary.
+
+**The customer's path:** A person uses any Faleth Capital subsidiary, refers their network through the referral program, earns credits on every dollar those referrals spend, and over time converts that income into an MCA contribution — building wealth from consumption alone.
+
+All three paths converge at the same destination: ownership, freedom, and generational wealth. The mechanics differ. The destination does not.
+
+For a participant walking the builder's path, the full sequence looks like this:
 
 1. Join any subsidiary at any level and earn contribution-based pay (Layer 2: weekly value share).
 2. Build wealth through two layers of quarterly profit sharing — one from their subsidiary, one from the family office — with the option to mint equity shares at each.
@@ -106,7 +116,7 @@ Faleth Capital is not just a holding company. It is a pathway. The system is des
 4. When ready, start their own business funded and owned by Faleth Capital, mentored by existing office members.
 5. Once that business generates $1 million per year in collected income for the office, earn Class A membership and a seat at the table.
 6. As a member, mentor the next generation of business builders for a share of the mentoring fees, completing the cycle.
-7. As personal wealth accumulates, have the same family office manage it through the Class C managed capital structure — the same team, the same philosophy, the same structural safeguards, without needing to find an outside wealth manager.
+7. As personal wealth accumulates, have the same family office manage it through the Managed Capital Account (MCA) structure — the same team, the same philosophy, the same structural safeguards, without needing to find an outside wealth manager.
 
 This is not theoretical. It is the structural intention of every mechanism described in this document. Every rule, every incentive, every allocation is designed to move people along this pipeline from contributor to owner to mentor to managed wealth. The system does not just help people build wealth. It manages it once they have it. The same office that helped you earn it can steward it for the long term.
 
@@ -151,7 +161,7 @@ Every subsidiary operates under [[The Contribution Framework]], a process-based 
 
 The financial mechanics of the family office — the parent company fee, subsidiary and office-level financial flows, the 20/30/50 allocation, layered incentive alignment, structural redundancy, and the liquidity reserve policy — are detailed in [[The Financial Framework]].
 
-The equity system — share classes, the mint-and-burn mechanism, book value pricing, the dilution factor, and the Class C managed capital structure — is detailed in [[The Equity Framework]].
+The equity system — share classes, the mint-and-burn mechanism, book value pricing, the dilution factor, and the Managed Capital Account (MCA) structure for external investors — is detailed in [[The Equity Framework]].
 
 # Article III: Membership
 
@@ -331,6 +341,7 @@ The operational mechanics of Faleth Capital are detailed in the following compan
 
 - [[The Contribution Framework]] — Process-based compensation, contribution points, the Elected Lead, subsidiary-level governance
 - [[The Financial Framework]] — Parent company fees, subsidiary and office financial flows, the 20/30/50 allocation, structural redundancy, liquidity reserve
-- [[The Equity Framework]] — Share classes, mint-and-burn mechanics, book value pricing, dilution factor, Class C managed capital
+- [[The Equity Framework]] — Share classes, mint-and-burn mechanics, book value pricing, dilution factor, Managed Capital Account structure
 - [[The Unit Framework]] — How subsidiaries organize into modular, self-governing units as they scale beyond a single team
 - [[The Acquisition Transition Framework]] — How existing businesses are brought into the portfolio with dignity and voluntary participation
+- [[The Marketing and Brand Framework]] — The referral program, the Prosumer principle, brand standards, and how customers can enter the wealth-building pipeline

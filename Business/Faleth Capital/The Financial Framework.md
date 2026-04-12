@@ -10,7 +10,7 @@ Faleth Capital
 
 Internal Framework Document
 
-Version 1.1 — Draft
+Version 1.2 — Draft
 
 _This document details the financial mechanics summarized in [[Faleth Capital Constitution#Article III Financial Structure|Article III of the Faleth Capital Constitution]]. For the philosophical foundation — the One-Third Rule, the Two Buckets, and the mission — see [[Faleth Capital Constitution#Article I Purpose and Mission|Article I]]. For how weekly compensation is calculated at the subsidiary level, see [[The Contribution Framework]]._
 
@@ -33,7 +33,7 @@ Each subsidiary's financial flow follows this sequence:
 |Revenue|Total collected from customers|
 |Cost of Goods (COG)|Direct material and parts costs|
 |Gross Profit|Revenue minus COG; the value the team directly created|
-|Cost of Acquisition (COA)|Marketing and customer acquisition costs|
+|Cost of Acquisition (COA)|Marketing and customer acquisition costs; in consumer-facing subsidiaries, this budget may be deployed as the referral bonus described in [[The Marketing and Brand Framework]]|
 |Cost of Fulfillment (COF)|The team pool for weekly contribution-based pay (Layer 2)|
 |Fixed Costs|Rent, utilities, insurance, software, and other monthly expenses|
 |Parent Company Fee|Higher of 5% of revenue or 1/3 of net profit, paid to Faleth Capital|
@@ -89,7 +89,7 @@ The math is deliberately simple. Each quarter, you look at one pool balance shee
 |20%|Total pool growth|Employee profit share (all participants, by Layer 2 pay)|
 |30%|Office's share of pool growth + fees earned|Class B shareholder dividends|
 |50%|Office's share of pool growth + fees earned|Liquidity pool (retained by Faleth Capital)|
-|Remainder|Investor's share of pool growth, after fees and profit share contribution|Class C investors|
+|Remainder|Investor's share of pool growth, after fees and profit share contribution|MCA holders|
 
 All calculations happen at the same time off the same quarterly snapshot, and all payments go out together — profit share and dividends land in the same quarterly distribution. A fifth grader could audit it.
 
@@ -102,7 +102,7 @@ The office charges investors for the service of managing their capital. The fee 
 
 Both fees flow to the office as genuine income, which means they contribute to the office's share of the pool — and therefore to the 30% Class B dividend pool and the 50% liquidity retention.
 
-_For the full mechanics of how Class C investor capital is structured, how book value per share is calculated, and the investor proposition, see [[The Equity Framework#Section 7 Class C — Managed Capital|Section 7 of the Equity Framework]]._
+_For the full mechanics of how MCA investor capital is structured, how book value per share is calculated, and the investor proposition, see [[The Equity Framework#Section 7 Managed Capital Accounts|Section 7 of the Equity Framework]]._
 
 # Section 4: Layered Incentive Alignment
 
