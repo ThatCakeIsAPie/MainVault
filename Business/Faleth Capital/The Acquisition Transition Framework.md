@@ -58,9 +58,11 @@ Then participants are invited — not required — to spend time at a working Fa
 
 ### The Opt-Out Window
 
-At the conclusion of that observation period, every participant makes a genuine choice: transition into the Contribution Framework, or depart with a severance package. The severance is designed to be generous — enough runway for someone to find their next opportunity without desperation. The specific terms — duration and rate — are set at the time of acquisition based on the size and economics of the business, but the governing principle is that no one should feel financially pressured into staying. The severance is paid at the individual's previous ongoing rate of compensation.
+At the conclusion of that observation period, every participant makes a genuine choice: transition into the Contribution Framework, or depart with a severance package. The severance is designed to be generous — enough runway for someone to find their next opportunity without desperation. Someone from Faleth Capital will work with them personally to get them into another company, purely at our expense. The specific terms — duration and rate — are set at the time of acquisition based on the size and economics of the business, but the governing principle is that no one should feel financially pressured into staying. The severance is paid at the individual's previous ongoing rate of compensation.
 
-This is not a cost to be minimized. It is an investment in the integrity of the team that remains. Every person who stays after a real opt-out window is someone who chose to be here.
+This is not a cost to be minimized. It is an investment in the integrity and confidence of the team that remains. Every person who leaves is treated with respect, as a person with a family, with goals and dreams of their own. Every person who stays after a real opt-out window is someone who chose to be here.
+
+Our aim is to set a first-class standard and expectation for how people are to be treated under Faleth Capital.
 
 ## 3.3 — Phase Three: Department-by-Department Rollout
 
