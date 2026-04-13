@@ -217,11 +217,13 @@ The Lead is also free to perform direct processes and earn direct points like an
 
 ### Election and Accountability
 
-The Lead is elected by the team. The specifics of the election process — frequency, nomination, voting method — are determined during initial setup and documented in the governance section. The critical principle is that the Lead serves at the pleasure of the team. If the Lead acts out of line, underperforms, or loses the confidence of the group, they can be elected out. This is not a title to be hoarded. It is a responsibility to be earned and maintained.
+The Lead is elected by the team. The critical principle is that the Lead serves at the pleasure of the team — if the Lead acts out of line, underperforms, or loses the confidence of the group, they can be voted out. This is not a title to be hoarded. It is a responsibility to be earned and maintained.
 
-When a Lead is replaced, the transition is clean. The outgoing Lead returns to the standard participant pool with no penalty. They continue earning points for whatever processes they complete. The incoming Lead begins earning the per-device indirect rate immediately. There is no severance, no demotion stigma, and no structural change to anyone’s compensation beyond the Lead oversight points. The system absorbs leadership transitions naturally.
+When a Lead is replaced, the transition is clean. The outgoing Lead returns to the standard participant pool with no penalty. They continue earning points for whatever processes they complete. The incoming Lead begins earning the per-device indirect rate immediately. There is no severance, no demotion stigma, and no structural change to anyone’s compensation beyond the Lead oversight points.
 
-If the Lead is absent on a given day — sick, on vacation, or otherwise unavailable — any participant can step into the Lead’s indirect processes and earn those points. The work does not stop because one person is missing. The processes exist independent of any individual.
+If the Lead is absent, any participant can step into the Lead’s indirect processes and earn those points. The processes exist independent of any individual.
+
+_Full election mechanics — the proportional election model, how multiple Leads share the oversight point pool, confidence votes, and scheduled re-elections — are in [[The Governance Framework#Section 2 The Proportional Election Model|The Governance Framework, Sections 2 and 3]]._
 
 # Section 4: Financial Mechanics
 
@@ -284,6 +286,8 @@ This is not a suggestion. It is a governance mechanism. When the team collective
 
 The principle is simple: you cannot complain about a system you helped design.
 
+_Full governance mechanics — election procedures, dispute resolution, the quarterly recalibration process, and how persistent disagreements are handled — are in [[The Governance Framework]]._
+
 ## 5.2 — Quarterly Recalibration
 
 Every quarter, the team convenes to review the framework’s parameters and ask:
@@ -305,13 +309,9 @@ Disputes about framework parameters, process classification, or structural chang
 
 ## 5.4 — Lead Election
 
-The Elected Lead position is subject to the following governance rules:
+The Elected Lead position is established during the framework’s launch and subject to ongoing team governance. The election method, confidence vote procedures, and re-election cadence are determined by the team during setup.
 
-- An initial Lead is elected during the framework’s launch. The team determines the election method (simple majority, ranked choice, or other) during setup.
-- A confidence vote may be called at any time by any participant. If a majority of participants vote to replace the Lead, a new election is held immediately.
-- A scheduled re-election occurs at a regular interval determined by the team (suggested: annually, or at every fourth quarterly recalibration).
-- The outgoing Lead returns to the standard participant pool with no penalty or change in status. The incoming Lead begins earning Lead Oversight points immediately.
-- The Lead election process, including any eligibility requirements, is documented and agreed upon by the team as part of the initial framework setup.
+_Full mechanics — including the proportional election model, threshold setting, how multiple Leads share the oversight point pool, and confidence vote procedures — are in [[The Governance Framework#Section 2 The Proportional Election Model|The Governance Framework, Sections 2 and 3]]._
 
 ## 5.5 — Automation, AI, and the Point System
 
@@ -333,7 +333,7 @@ We are not building a system that depends on things staying the way they are. We
 
 # Section 6: Equity Structure
 
-The equity system participants access through this framework — the Class A/B/C share structure, the mint-and-burn mechanism for acquiring and cashing out Class B shares, book value share pricing, the dilution factor, and the Class C managed capital structure — is governed by Faleth Capital, not by any individual subsidiary. Full details are in [[The Equity Framework]].
+The equity system participants access through this framework — the Class A/B share structure, the mint-and-burn mechanism for acquiring and cashing out Class B shares, book value share pricing, the dilution factor, and the Managed Capital Account structure for external investors — is governed by Faleth Capital, not by any individual subsidiary. Full details are in [[The Equity Framework]].
 
 # Section 7: What This Looks Like
 

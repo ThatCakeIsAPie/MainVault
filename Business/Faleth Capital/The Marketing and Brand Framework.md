@@ -113,9 +113,27 @@ The distinction is that traditional COA buys a transaction. The referral program
 
 This reframes the referral program not as a cost of generosity but as a disciplined deployment of acquisition budget toward the highest-quality customer relationships available.
 
+<<<<<<< HEAD
+## 2.7 — Subsidiary-Level Incentive Programs
+
+The portfolio-level referral program described in this section is one tool, not the only tool. It is designed for a specific context: recurring, ambient household expenses in consumer-facing service businesses where the customer was going to spend the money somewhere regardless — cleaning, landscaping, pool maintenance, meal services. In those businesses, a 20% indefinite referral incentive is compelling because the alternative is paying the same money to a competitor with no benefit to the person who recommended them.
+
+Not every subsidiary fits that mold, and the referral program is explicitly not a mandate. Subsidiaries are encouraged to design their own customer incentive structures that fit their specific business model, customer relationship, and margin structure.
+
+A phone repair shop, for example, has a different customer dynamic: purchases are infrequent, driven by necessity, and the customer acquisition value of a referral is high but the ongoing spend is low. A tiered incentive structure may serve that business better than an indefinite percentage:
+
+- **Tier 1 (refer a friend):** Referred customer receives a free screen protector on their first repair.
+- **Tier 2 (refer three friends):** Referring customer receives a free screen protector and battery replacement credit.
+- **Tier 3 (refer five friends):** Referring customer receives a repair credit bundled with screen protector and battery.
+
+This is one example of many. The principle is the same as the portfolio-level program — customers who generate value should share in it — but the mechanics are calibrated to the actual economics and customer behavior of the specific business.
+
+Subsidiaries designing their own incentive programs should ensure the structure fits within their COA budget, does not create obligations that outlast the revenue they were intended to generate, and remains simple enough to explain clearly to a customer in a single conversation. The office does not approve these programs, but they should be documented and shared at the quarterly conference so the portfolio can learn from what works.
+=======
 ---
 
 # Section 3: Financial Guardrails
+>>>>>>> origin/main
 
 ## 3.1 — Where the Referral Program Applies
 

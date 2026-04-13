@@ -98,33 +98,43 @@ It also means that a unit that finds a way to do their step more efficiently —
 
 ## 4.1 — Within the Unit
 
-Each unit governs itself under [[The Contribution Framework]]. The team sets its internal point values, COF parameters, and floor amount. The team elects its Lead. Disputes are handled internally — by the Lead first, then by team discussion, then by vote if needed. The subsidiary owner does not interfere with unit-level governance unless the unit is violating the framework or creating problems for other units.
+Each unit governs itself. The team sets its own internal point values, COF parameters, floor amount, and Lead structure. The team elects its Leads. Disputes are resolved internally. The subsidiary owner does not reach into unit-level governance unless the unit is violating the framework or creating genuine problems for other units. The unit’s parameters belong to the unit.
+
+_For election mechanics, the proportional election model, dispute resolution procedures, and quarterly recalibration governance, see [[The Governance Framework]]._
 
 ## 4.2 — Between Units
 
-Inter-unit decisions — the subsidiary-layer point values, interface standards, quality thresholds for handoffs, and any disputes about whether a handoff met the agreed specification — are handled by the Leads collectively. Each Lead represents their unit. Decisions are made by discussion and, if needed, majority vote among Leads. The subsidiary owner holds a tiebreaker vote in cases of genuine deadlock, consistent with the dispute resolution process in [[The Contribution Framework]].
+The interface between units — subsidiary-layer point values, handoff standards, quality thresholds, and any disputes about whether a handoff met the agreed specification — is negotiated by the Leads collectively. Each Lead brings the interests and perspective of their unit to that negotiation. They are not representatives appointed from above. They are people the unit chose, people whose own compensation depends on the unit performing well, which means they have every reason to negotiate honestly rather than politically.
 
-This is the republic model applied at the subsidiary level. Unit members elect their Leads. Leads represent their units in inter-unit governance. The people doing the work are represented by someone they chose, someone who has skin in the game because their own compensation depends on the unit's performance.
+Decisions between Leads are made by discussion and, if needed, majority vote. The subsidiary owner holds a tiebreaker in cases of genuine deadlock — but this should be genuinely rare. Leads who share the same pool of consequences tend to find agreement when they have to.
 
 ## 4.3 — At the Subsidiary Level
 
-The subsidiary owner and the collective body of Leads together set subsidiary-wide parameters: total COF rate, profit share percentage, fixed cost management, and strategic decisions like whether to add a new unit or merge existing ones. This mirrors the relationship between subsidiary owners and the office described in the [[Faleth Capital Constitution]] — operational autonomy within a shared framework, with the owner providing direction and the Leads providing ground-level reality.
+Subsidiary-wide parameters — total COF rate, profit share percentage, fixed cost management — are set by the Leads collectively, with the subsidiary owner participating as one voice among them. Strategic decisions like adding a new unit, merging existing ones, or changing how the subsidiary-layer point structure is divided belong to the same group. The owner’s role is to provide direction and context, not to override the people closest to the work.
+
+This mirrors the relationship between subsidiary owners and the office: operational autonomy within a shared framework, with authority flowing from the bottom up wherever possible.
 
 ## 4.4 — At the Office Level
 
-When the subsidiary interacts with Faleth Capital at the office level, it does so through its owner, just like any other subsidiary. The parent company fee, profit share, and equity mechanics all operate on the subsidiary's consolidated financials, not on individual unit performance. Units are an internal organizational tool, not a separate legal or financial entity.
+When the subsidiary interacts with Faleth Capital at the office level, it does so through its owner, just like any other subsidiary. The parent company fee, profit share, and equity mechanics all operate on the subsidiary’s consolidated financials, not on individual unit performance. Units are an internal organizational tool, not a separate legal or financial entity.
 
-# Section 5: Scaling Triggers
+# Section 5: Scaling Signals
 
-The unit structure is not static. It adapts as the subsidiary grows, contracts, or changes what it does. The following are signals — not mandates — that a structural change may be warranted:
+The unit structure is not static. It adapts as the subsidiary grows, contracts, and changes. What follows is not a checklist of conditions that trigger mandatory restructuring. It is a set of symptoms the team itself may start to notice — signals worth paying attention to, whose cause and response belong entirely to the people experiencing them.
 
-**A unit is too large to self-organize.** When coordination drag becomes noticeable — the Lead cannot keep track of everything, disputes increase, people feel disconnected from the pool — the unit should consider splitting into two units with a clear interface between them. The practical ceiling varies, but if a unit is approaching 150 people, it is almost certainly too large.
+No one outside the unit tells it when to split, merge, or restructure. That decision lives with the team.
 
-**A bottleneck exists at an interface.** If work consistently piles up at the handoff between two units — one unit produces faster than the next can absorb — the solution may be a dedicated buffer unit (a quality gate, a staging area, an inspection step) or it may be a capacity expansion within the receiving unit. The Leads diagnose the problem together.
+**The self-organizing accountability starts to feel abstract.** The Contribution Framework works because the people sharing a pool can see each other’s contributions and hold each other accountable naturally. When a unit grows to the point where people can no longer maintain genuine visibility into what their teammates are doing — where the pool feels like a number on a screen rather than a shared stake — the mechanism that makes the system work is under strain. This is not primarily about how many Leads a unit has elected. Multiple Leads can handle coordination overhead. They cannot restore the visibility and mutual accountability that comes from a group small enough to actually know each other’s work. Research on human group dynamics consistently finds that genuine peer accountability becomes difficult to sustain beyond a certain scale — not because people stop caring, but because maintaining real relationships across a very large group exceeds what people can realistically sustain. The team will feel this before any number makes it obvious. That feeling is the signal.
 
-**Two units are doing redundant work.** If the boundary between two units no longer reflects a meaningful division of labor — the processes have converged, the handoff is trivial, the overhead of maintaining two separate pools outweighs the benefit — the units should merge back into one.
+**Disputes increase and feel harder to resolve.** When the Leads are consistently adjudicating situations they did not witness, when the same disagreements keep surfacing, or when the quarterly recalibration feels more like a negotiation between factions than a collective tuning of shared parameters, the unit may have grown past the point where its self-governance is still genuinely self-organizing. This can happen without headcount being the cause — a team that has split into distinct informal factions, regardless of size, produces the same symptoms.
 
-**A new capability is needed.** When the subsidiary adds a new product line, a new service, or a new stage in the production process, a new unit can be spun up from scratch with its own team, its own Lead election, and its own internal calibration. The existing Leads collectively negotiate the new unit's place in the subsidiary-layer point structure.
+**Work consistently piles up at an interface.** If one unit produces faster than an adjacent unit can absorb — and the backlog is chronic rather than occasional — the Leads on both sides are in the best position to diagnose why. Sometimes it is a capacity question inside the receiving unit. Sometimes it warrants a dedicated buffer step between them. The people at the interface see it most clearly.
+
+**Two units are doing the same work.** If the boundary between two units has blurred to the point where the handoff is trivial, the processes have converged, and maintaining two separate pools costs more in overhead than it returns in accountability, a merge may make the structure simpler and more honest. Units exist to serve the work, not the other way around.
+
+**A new capability enters the subsidiary.** When the subsidiary adds a product line, a new service, or a stage in the process that did not exist before, a new unit may be the cleanest way to bring that capability in — its own team, its own election, its own calibration, negotiating its place in the subsidiary-layer point structure alongside the existing Leads. Or it may integrate naturally into an existing unit. The team decides.
+
+The right response to any of these signals is not predetermined. A split, a merge, a new election, a recalibration, or simply a direct conversation may all be the right answer depending on what is actually happening. The value of naming these signals is not to prescribe an outcome. It is to give the team language for patterns that are easy to feel but sometimes hard to articulate — so that the people doing the work can respond to them on their own terms, rather than waiting for someone above them to notice.
 
 # Section 6: Unit-Level Profit Sharing
 

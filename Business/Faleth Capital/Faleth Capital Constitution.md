@@ -42,7 +42,7 @@ The financial architecture of Faleth Capital draws from a principle found in the
 
 The Talmud also teaches that families should gather together — traditionally ten — to form a shared liquidity pool. If one member wants to start a business, the pool provides a zero-interest loan, knowing that when the venture succeeds, a portion of its returns will flow back, replenishing and growing the pool for the next person. It is a system of mutual investment built on trust, long time horizons, and the understanding that collective prosperity compounds faster than individual ambition.
 
-Faleth Capital systematizes this wisdom. The family office covers two of the three thirds: business (through its subsidiaries) and liquid capital (through the shared liquidity pool funded by the 50% retention). The third — land, or more broadly, stable long-term assets like real estate and index funds — is the individual's responsibility, built with the passive income the system generates for them.
+Faleth Capital systematizes this wisdom. The family office covers two of the three thirds: business (through its subsidiaries) and liquid capital (through the shared liquidity pool funded by the 50% retention). The third — land, or more broadly, stable long-term assets like real estate and index funds — is the individual's responsibility, built with passive income discussed in Bucket One.
 
 ## 1.4 — The Two Buckets
 
@@ -64,11 +64,26 @@ Network marketing teaches the first skill beautifully. You start with zero. You 
 
 But network marketing has a structural limitation: the hierarchy is permanent. Your position in the tree is your position forever. If someone joins later who is more capable, more connected, or more effective than the person above them, the structure has no way to reflect that. The upline earns overrides on the downline regardless of who is actually generating the value. The person who plugs into an existing network and makes it dramatically better has no path to recognition proportional to their contribution.
 
-The [[The Contribution Framework|Contribution Framework]] solves this. It rewards both skills. Someone who walks into an existing subsidiary, identifies a gap, and fills it earns contribution points proportional to the value they added. They didn't build the network. They made the network better. The math doesn't care when they arrived or who brought them in. And the Elected Lead system ensures that hierarchy itself is earned and re-earned continuously, not assigned once and frozen in place.
+The [[The Contribution Framework|Contribution Framework]] handles this portion. Someone who walks into an existing subsidiary, identifies a gap, and fills it earns contribution points proportional to the value they added. They didn't build the network. They made the network better. The math doesn't care when they arrived or who brought them in. And the Elected Lead system ensures that hierarchy itself is earned and re-earned continuously, not assigned once and frozen in place.
 
 This is not anti-hierarchy. It is anti-static hierarchy. A hierarchy that evolves based on demonstrated value is meritocracy with accountability. A hierarchy that is frozen in place is feudalism with better marketing. The most natural human systems — from the mammoth hunt to the most effective modern teams — are ones where leadership is earned and re-earned, where the chief is the chief because the group respects them, and where someone who stops earning that respect makes way for someone who will.
 
 Network marketing teaches you to build. The Contribution Framework rewards you for building and for strengthening what others have built. Together, they produce people who can do both. That is the kind of person who is ready to start a subsidiary.
+
+### Why Network Marketing
+The reasoning behind "why network marketing" is remarkably simple. There is simply no other business model on earth that directly compensates you on helping others become successful. In a good network marketing business, you don't earn for recruiting. You earn for product moving. You earn for teach others to move product. You earn for teaching others how to teach others.
+
+But why most who build it don't actually receive passive income is because in order to make it passive, *you must learn how to build others to the point they no longer need you.* They are making money on their own accord, through their own skills, that you helped to teach them. If they are experiencing success, the likelihood they end up leaving your network is low. If you never help them succeed, the likelihood is high.
+
+You must build people through purely positive reinforcement. You hold no leverage over them. You can't fire your downline. You can't withhold a paycheck. They stay in your downline until they quit or you quit. It is a purely voluntary army. When built correctly, through the raising up of others, it produces a reward like no other.
+
+Can it be built incorrectly? Can it be abused? Absolutely. Anything can. Especially a system that allows radical freedom over how you build and manage it. That is the very unfortunate reality of freedom. It will happen eventually to our system as well, no matter how hard we try to systematically remove toxic elements from the culture.
+
+As a side note: The cruel reality is that there are simply toxic people out in the world. A toxic person in a good system will ultimately taint it. No matter how hard you try to keep them out of your culture, they will eventually rear their ugly head. It requires vigilance. Dark is the absence of light. Light is an intentional act. It requires energy to produce light. It requires effort to be a good force in the world, to push back against the forces of evil. This isn't a systemic flaw, it is a worldly flaw. A people flaw. And unfortunately, toxic people are nomads. Despite composing a statistical minority of the population, they get around. Many people experience the few. But we have to be vigilant to not let them make you toxic too.
+
+Back down to earth and network marketing, again: The system isn't perfect. No system is.
+
+As stated previously, you don't get compensated for coming into an existing network and making it better or more efficient. You only get compensated for what you yourself build. But it is for these very reasons that we consider network marketing as the spine of what we do here at Faleth Capital. A self-directed business like ours cannot be built without the intentional effort of personal development and the development of others.
 
 ### The Dividend Bridge
 
@@ -95,6 +110,29 @@ This is where the full vision comes together. Traditionally, network marketing r
 The idea is to start in both systems simultaneously. Build both. By the time one is generating a full-time income, the other should be as well. Once both are producing full-time income, you are ready to start a subsidiary. Your network marketing income covers Bucket One, securing your family regardless of what happens. Your dividends and profit share cover Bucket Two, funding your lifestyle while the subsidiary finds its footing. You are not betting everything on an unproven business. You are building from a position of strength, with two independent income streams already in place, each doing a different job.
 
 This is the path to wealth accessible to just about anyone. It does not mean everyone will walk it. But it lowers the barrier further than any single model can on its own. Network marketing stops being just a "quit your job" side hustle and becomes what it works best as: your true business education and your entry into wealth. And the Contribution Framework stops being just a better paycheck and becomes what it is designed to be: the launchpad for ownership.
+
+### The Five-Step Blueprint
+
+The full vision of how this system is meant to be walked, from nothing to generational wealth, can be distilled into five sequential steps. These are not arbitrary stages. Each one builds the foundation for the next. Each one is designed to be started and developed while the previous one is still in progress.
+
+**Step 1: Start in network marketing.**
+Before anything else, start building a network marketing business. Not because it will make you rich quickly — it won’t. Because it is the only business model on earth that will pay you, from day one, to develop the skills that every other part of this system depends on: leadership, personal development, the ability to build others up, and the discipline of building a business through purely positive reinforcement. It is the foundational education. Start it first.
+
+**Step 2: Maximize active income through work or a Faleth Capital subsidiary.**
+While building your network marketing business, maximize your active income — either through your current work or by joining a Faleth Capital subsidiary under the Contribution Framework. This covers your living expenses, removes desperation from your decisions, and begins building Bucket Two. The no-time-clock model gives you the flexibility to work both simultaneously without one cannibalizing the other.
+
+**Step 3: Build your network marketing business to full-time passive income.**
+Continue building until your network marketing income reaches a level that can fully fund Bucket One on its own — passive overrides flowing into land, index funds, and stable long-term assets regardless of what else is happening in your life. This is your floor. Once this step is complete, your family is covered no matter what. You can now take real risks because the downside is protected.
+
+**Step 4: Maximize active income through your own business.**
+With Bucket One secured and your foundation in place, you are ready to launch your own subsidiary under Faleth Capital. The office funds it. An existing member mentors you. You operate it with full autonomy under the Contribution Framework. Your network marketing income keeps Bucket One covered while the new business finds its footing. Your dividends and profit share fund Bucket Two while the subsidiary grows toward profitability.
+
+**Step 5: Grow both simultaneously and indefinitely.**
+There is no finish line. Both systems compound in parallel — the network marketing business maturing and self-replicating, the subsidiary growing and eventually generating enough income for you to step back and start another. As personal wealth accumulates, the Managed Capital Account structure manages it through the same office, the same philosophy, the same people. The system that helped you build it now stewards it. You begin mentoring the next person through Step 1.
+
+This is the path. Not everyone will walk all five steps. Not everyone needs to. But anyone can, and this system is built so that each step is accessible to someone who has completed the one before it. The barrier at every stage is effort and time, not capital or connections. That is by design.
+
+
 
 ## 1.6 — The Pipeline
 
@@ -221,6 +259,10 @@ Office-level governance procedures will be formalized by the founding Class A me
 
 Each subsidiary governs itself. The subsidiary owner has operational authority, and the team collectively sets its own Contribution Framework parameters (point values, COF rate, floor amount, etc.) as described in [[The Contribution Framework]]. The office does not interfere with subsidiary operations unless the subsidiary is in violation of this constitution.
 
+_The detailed mechanics of subsidiary governance — Lead elections, the proportional election model, confidence votes, dispute resolution, and quarterly recalibration procedures — are in [[The Governance Framework]]._
+
+_The detailed mechanics of subsidiary governance — Lead elections, the proportional election model, confidence votes, dispute resolution, and quarterly recalibration procedures — are in [[The Governance Framework]]._
+
 ## 4.3 — Transparency
 
 Faleth Capital operates with radical transparency. The following are open to all participants across all subsidiaries:
@@ -335,11 +377,60 @@ _The principles are permanent. The parameters are not. This constitution evolves
 
 ---
 
+# Article IX: A Personal Note
+
+_This article is written in my own voice. It is not governance. It is not policy. It is the reason behind everything that came before it._
+
+If you have read this far, I just want to thank you. From the bottom of my heart. You gave me your most valuable resources: your time, your attention, *your mind.*
+
+And for that, I feel it is necessary at the end of this document to at least reveal the motives behind **why** this exists to begin with. It can be easy to read these frameworks and think "this sounds too good to be true, why would anyone do this unless they were trying to get something from me?". But here is the reality:
+
+I, Lyle, am a deeply flawed man. I've done wrong by others. I've hurt others. I've taken advantage of others. And I am deeply regretful of all the wrong I have done. I've let ego and pride rule me. I've let lust lead me astray. I've stolen from others. I've made idols of things I never should have. I've made rash decisions based on nothing but anger. I've yelled at friends, coworkers, and loved ones. Anyone close to me knows that I am flawed. Anyone who gets to know me will learn that I am far from a perfect man.
+
+But Christ saved me.
+
+He showed me grace when I did not deserve it. He paid the price for my sins, for those that I could never repay. Who does that? Who does that, unless there was a genuine love behind His actions? For a stranger? Someone who didn't know Him? But... *He knew me.* And He loved me. Through all my flaws. He saw my heart, my potential, when no one else did. He put a dream in my heart, and a command in my hands.
+
+So if you want to know why I built this? Simple.
+
+***I built this system to be a reflection of the love that Christ has shown me.***
+
+I did not build this system because I had everything figured out. I built it because I encountered a deeply distrustful, selfish business world. Money is their god.
+
+It doesn't have to be this way.
+
+There is nothing wrong with money in of itself. The bible doesn't say "money is the root of all evil", it says "*the love* of money is the root of all evil". Money is a tool. It is a multiplier of one's character. It is a reflection of the value you added to the marketplace. A bad man can add tremendous value to the marketplace for the wrong reasons and make a fortune. But a good man can for the right reasons.
+
+The flaws in the business sector: power, greed, conquest, domination, I don't believe are universal business truths. They are the flaws of toxic people. And those toxic people took advantage of a model, the wage and salary model, that was readily available and accepted at its time, as it genuinely served a purpose. But now? It is a system that only breeds apathy, distrust, resentment, and purely leaves the rewards for those who fought tooth and nail to make it exist. Do I blame them for taking home a massive cut for how hard they fought? The sleepless nights? The vomiting due to stress? Not at all. In my eyes, they earned it. They fought the system and won. However, without realizing it, the biggest capitalists have built a socialist incentive structure inside their own organization. They created the very system they vowed to escape. They simply didn't know any other system. I don't believe this is a universal truth, it is a design flaw. And design flaws can be fixed.
+
+Everything in this document — the Contribution Framework, the equity pipeline, the network marketing spine, the referral program, the MCA structure, the Peaceful Fork — exists to prove that isn't a universal truth. It never was until about 200 years ago. This exists to give someone who starts with nothing a real, honest, structured path to ownership, freedom, and generational wealth. Not a lottery ticket. Not a get-rich-quick scheme. A path. One that rewards effort, develops character, and compounds over time. It is there for those who choose to walk it.
+
+I ultimately want this to be the new standard. Not just a Faleth Capital thing. A way of doing business that spreads because it is undeniably better — better for the people doing the work, better for the customers, better for the investors, better for everyone who touches it. And rather than try and convince shareholders of an unproven idea, we are just going to run with it. We are going to try it out. We are going to iron out the kinks through trial and error. But we have a vision. And if it turns out to be successful? We will get copycats. *That is the point.* I beg of you to copy us. Hell, I'll show you exactly how we did it and what we learned. Why? *Because this is bigger than me.* This is bigger than any one individual organization.
+
+That is why ultimately, this is something that is meant to outlive me. To be bigger than me. I could very easily take this system, make myself the sole owner forever, inherit it to my kids, and they would have a great life for a few generations until one ends up squandering it through resenting everything I built, because they themselves did not build it. I don't just want others working for me for nothing in return but an empty paycheck. For a transaction. *I want a movement.*
+
+I do not require anyone here to share my faith. Your beliefs are your own and they are not a condition of membership, contribution, or belonging. I believe anyone with eyes to see and ears to hear will come to eventually understand what I have experienced. But if we are going to work together, hand in hand, it is going to take radical trust. And radical trust requires radical vulnerability. I cant expect you to be vulnerable with me until I am vulnerable with you first.
+
+That is what this is for. That is the heart of what I do, why I do it, why Faleth Capital exists, why it is so radically different than the norm, why we have so much conviction for what we do. There is a better way to do business. Hell, to do life. How we add value to one another, how we take care of one another, how we love one another. Once we stop tallying the good will we did for others, everything else falls into place. And once the heart is right, everything else is just mechanics.
+
+Once again, thank you for reading this far. I want you to know one last thing...
+
+I love you. I believe in you. And if you are willing to let me, to let this organization into your life, I don't even need to promise you that we will fight tooth and nail to make your dreams come true... as long as you don't stop fighting for them and the dreams of others in return.
+
+Thank you.
+
+God bless.
+
+— Lyle
+
+---
+
 ## Framework Documents
 
 The operational mechanics of Faleth Capital are detailed in the following companion documents:
 
 - [[The Contribution Framework]] — Process-based compensation, contribution points, the Elected Lead, subsidiary-level governance
+- [[The Governance Framework]] — Lead elections, the proportional election model, dispute resolution, and quarterly recalibration procedures
 - [[The Financial Framework]] — Parent company fees, subsidiary and office financial flows, the 20/30/50 allocation, structural redundancy, liquidity reserve
 - [[The Equity Framework]] — Share classes, mint-and-burn mechanics, book value pricing, dilution factor, Managed Capital Account structure
 - [[The Unit Framework]] — How subsidiaries organize into modular, self-governing units as they scale beyond a single team
