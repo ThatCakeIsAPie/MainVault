@@ -55,7 +55,9 @@ If a departed holder later returns to any subsidiary in the portfolio, they reta
 
 # Section 6: The Dilution Factor
 
-Each quarter, the dilution factor is calculated and reported in the earnings call (see [[The Governance Framework#Section 4 The Quarterly Earnings Call|Section 4 of the Governance Framework]]). It measures whether the growth of the dividend pool outpaced the growth of shares outstanding.
+If shares can be minted continuously, the obvious question in any would-be investor's mind is "wouldn't my shares dilute?" The answer is yes. If more people mint shares in a quarter than get burned, your percentage of the overall shares get diluted. That being said, if the book value's growth exceeded the dilution, than even though your shares are diluted, their total value goes up. We don't hide this, we make it front and center. This dynamic is what we call the dilution factor.
+
+Each quarter, the dilution factor is calculated and reported in the earnings call. It measures whether the growth of the dividend pool outpaced the growth of shares outstanding.
 
 |   |   |   |
 |---|---|---|
@@ -122,7 +124,7 @@ Additionally, the 50/50 deployment discipline means investor capital is never fu
 
 ## 7.5 — What an MCA Is Not
 
-MCA holders do not participate in the Class B dividend pool. That pool belongs exclusively to people who earned their position by contributing labor, minting shares through profit share, and building the portfolio from the inside. An investor buying a slice of the pool is not the same as a technician who spent three years converting quarterly profit share into equity. The dividend stream is the reward for that path. MCA holders receive returns on their capital through their proportional share of pool growth — a different mechanism serving a different relationship.
+MCA holders do not participate in the Class B dividend pool. That pool belongs exclusively to people who earned their position by contributing labor, minting shares through profit share, and building the portfolio from the inside. An investor buying a slice of the pool is not the same as a technician who spent three years converting quarterly profit share into equity. The dividend stream is the reward for that path. MCA holders receive returns on their capital through their proportional share of pool growth — a different mechanism serving a different relationship. In fact, investor capital is counted on the balance sheet as both an asset and liability, canceling itself out to not have any effect on office performance.
 
 MCA holders have no voting rights. Governance of the portfolio remains exclusively with Class A members, who earned their seats by building subsidiaries that generate real income for the office.
 
