@@ -42,7 +42,7 @@ The financial architecture of Faleth Capital draws from a principle found in the
 
 The Talmud also teaches that families should gather together — traditionally ten — to form a shared liquidity pool. If one member wants to start a business, the pool provides a zero-interest loan, knowing that when the venture succeeds, a portion of its returns will flow back, replenishing and growing the pool for the next person. It is a system of mutual investment built on trust, long time horizons, and the understanding that collective prosperity compounds faster than individual ambition.
 
-Faleth Capital systematizes this wisdom. The family office covers two of the three thirds: business (through its subsidiaries) and liquid capital (through the shared liquidity pool funded by the 50% retention). The third — land, or more broadly, stable long-term assets like real estate and index funds — is the individual's responsibility, built with the passive income the system generates for them.
+Faleth Capital systematizes this wisdom. The family office covers two of the three thirds: business (through its subsidiaries) and liquid capital (through the shared liquidity pool funded by the 50% retention). The third — land, or more broadly, stable long-term assets like real estate and index funds — is the individual's responsibility, built with passive income discussed in Bucket One.
 
 ## 1.4 — The Two Buckets
 
@@ -64,11 +64,26 @@ Network marketing teaches the first skill beautifully. You start with zero. You 
 
 But network marketing has a structural limitation: the hierarchy is permanent. Your position in the tree is your position forever. If someone joins later who is more capable, more connected, or more effective than the person above them, the structure has no way to reflect that. The upline earns overrides on the downline regardless of who is actually generating the value. The person who plugs into an existing network and makes it dramatically better has no path to recognition proportional to their contribution.
 
-The [[The Contribution Framework|Contribution Framework]] solves this. It rewards both skills. Someone who walks into an existing subsidiary, identifies a gap, and fills it earns contribution points proportional to the value they added. They didn't build the network. They made the network better. The math doesn't care when they arrived or who brought them in. And the Elected Lead system ensures that hierarchy itself is earned and re-earned continuously, not assigned once and frozen in place.
+The [[The Contribution Framework|Contribution Framework]] handles this portion. Someone who walks into an existing subsidiary, identifies a gap, and fills it earns contribution points proportional to the value they added. They didn't build the network. They made the network better. The math doesn't care when they arrived or who brought them in. And the Elected Lead system ensures that hierarchy itself is earned and re-earned continuously, not assigned once and frozen in place.
 
 This is not anti-hierarchy. It is anti-static hierarchy. A hierarchy that evolves based on demonstrated value is meritocracy with accountability. A hierarchy that is frozen in place is feudalism with better marketing. The most natural human systems — from the mammoth hunt to the most effective modern teams — are ones where leadership is earned and re-earned, where the chief is the chief because the group respects them, and where someone who stops earning that respect makes way for someone who will.
 
 Network marketing teaches you to build. The Contribution Framework rewards you for building and for strengthening what others have built. Together, they produce people who can do both. That is the kind of person who is ready to start a subsidiary.
+
+### Why Network Marketing
+The reasoning behind "why network marketing" is remarkably simple. There is simply no other business model on earth that directly compensates you on helping others become successful. In a good network marketing business, you don't earn for recruiting. You earn for product moving. You earn for teach others to move product. You earn for teaching others how to teach others.
+
+But why most who build it don't actually receive passive income is because in order to make it passive, *you must learn how to build others to the point they no longer need you.* They are making money on their own accord, through their own skills, that you helped to teach them. If they are experiencing success, the likelihood they end up leaving your network is low. If you never help them succeed, the likelihood is high.
+
+You must build people through purely positive reinforcement. You hold no leverage over them. You can't fire your downline. You can't withhold a paycheck. They stay in your downline until they quit or you quit. It is a purely voluntary army. When built correctly, through the raising up of others, it produces a reward like no other.
+
+Can it be built incorrectly? Can it be abused? Absolutely. Anything can. Especially a system that allows radical freedom over how you build and manage it. That is the very unfortunate reality of freedom. It will happen eventually to our system as well, no matter how hard we try to systematically remove toxic elements from the culture.
+
+As a side note: The cruel reality is that there are simply toxic people out in the world. A toxic person in a good system will ultimately taint it. No matter how hard you try to keep them out of your culture, they will eventually rear their ugly head. It requires vigilance. Dark is the absence of light. Light is an intentional act. It requires energy to produce light. It requires effort to be a good force in the world, to push back against the forces of evil. This isn't a systemic flaw, it is a worldly flaw. A people flaw. And unfortunately, toxic people are nomads. Despite composing a statistical minority of the population, they get around. Many people experience the few. But we have to be vigilant to not let them make you toxic too.
+
+Back down to earth and network marketing, again: The system isn't perfect. No system is.
+
+As stated previously, you don't get compensated for coming into an existing network and making it better or more efficient. You only get compensated for what you yourself build. But it is for these very reasons that we consider network marketing as the spine of what we do here at Faleth Capital. A self-directed business like ours cannot be built without the intentional effort of personal development and the development of others.
 
 ### The Dividend Bridge
 
