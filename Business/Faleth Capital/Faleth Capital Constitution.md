@@ -381,19 +381,45 @@ _The principles are permanent. The parameters are not. This constitution evolves
 
 _This article is written in my own voice. It is not governance. It is not policy. It is the reason behind everything that came before it._
 
-I did not build this system because I had everything figured out. I built it because I kept encountering a world that seemed designed to keep ordinary people from ever getting ahead — not through malice, but through structure. The wage model. The wealth gap. The way that access to the best investment vehicles, the best mentorship, and the best business models has always been gated behind capital or connections that most people simply do not have.
+If you have read this far, I just want to thank you. From the bottom of my heart. You gave me your most valuable resources: your time, your attention, *your mind.*
 
-I believe that is a design flaw. And I believe design flaws can be fixed.
+And for that, I feel it is necessary at the end of this document to at least reveal the motives behind **why** this exists to begin with. It can be easy to read these frameworks and think "this sounds too good to be true, why would anyone do this unless they were trying to get something from me?". But here is the reality:
 
-Everything in this document — the Contribution Framework, the equity pipeline, the network marketing spine, the referral program, the MCA structure, the Peaceful Fork — exists to lower a barrier that should not have been there in the first place. To give someone who starts with nothing a real, honest, structured path to ownership, freedom, and generational wealth. Not a lottery ticket. Not a get-rich-quick scheme. A path. One that rewards effort, develops character, and compounds over time.
+I, Lyle, am a deeply flawed man. I've done wrong by others. I've hurt others. I've taken advantage of others. And I am deeply regretful of all the wrong I have done. I've let ego and pride rule me. I've let lust lead me astray. I've stolen from others. I've made idols of things I never should have. I've made rash decisions based on nothing but anger. I've yelled at friends, coworkers, and loved ones. Anyone close to me knows that I am flawed. Anyone who gets to know me will learn that I am far from a perfect man.
 
-The people closest to me — my family, the ones who believed in this before it was anything more than a conversation — are who I am ultimately building this for. I want them to be the first proof that it works. I want them to be the first people who walk all five steps and come out the other side with something real and lasting.
+But Christ saved me.
 
-And beyond them, I want this to be the standard. Not just a Faleth Capital thing. A way of doing business that spreads because it is undeniably better — better for the people doing the work, better for the customers, better for the investors, better for everyone who touches it.
+He showed me grace when I did not deserve it. He paid the price for my sins, for those that I could never repay. Who does that? Who does that, unless there was a genuine love behind His actions? For a stranger? Someone who didn't know Him? But... *He knew me.* And He loved me. Through all my flaws. He saw my heart, my potential, when no one else did. He put a dream in my heart, and a command in my hands.
 
-The purpose of all of this, underneath the frameworks and the math and the governance, is simply to reflect the love that has been shown to me. To take what I have been given — the ideas, the opportunities, the relationships, the faith — and multiply it. To leave things better than I found them. To build something that outlasts my involvement and keeps producing long after I have stepped back.
+So if you want to know why I built this? Simple.
 
-That is what this is for. Everything else is mechanics.
+***I built this system to be a reflection of the love that Christ has shown me.***
+
+I did not build this system because I had everything figured out. I built it because I encountered a deeply distrustful, selfish business world. Money is their god.
+
+It doesn't have to be this way.
+
+There is nothing wrong with money in of itself. The bible doesn't say "money is the root of all evil", it says "*the love* of money is the root of all evil". Money is a tool. It is a multiplier of one's character. It is a reflection of the value you added to the marketplace. A bad man can add tremendous value to the marketplace for the wrong reasons and make a fortune. But a good man can for the right reasons.
+
+The flaws in the business sector: power, greed, conquest, domination, I don't believe are universal business truths. They are the flaws of toxic people. And those toxic people took advantage of a model, the wage and salary model, that was readily available and accepted at its time, as it genuinely served a purpose. But now? It is a system that only breeds apathy, distrust, resentment, and purely leaves the rewards for those who fought tooth and nail to make it exist. Do I blame them for taking home a massive cut for how hard they fought? The sleepless nights? The vomiting due to stress? Not at all. In my eyes, they earned it. They fought the system and won. However, without realizing it, the biggest capitalists have built a socialist incentive structure inside their own organization. They created the very system they vowed to escape. They simply didn't know any other system. I don't believe this is a universal truth, it is a design flaw. And design flaws can be fixed.
+
+Everything in this document — the Contribution Framework, the equity pipeline, the network marketing spine, the referral program, the MCA structure, the Peaceful Fork — exists to prove that isn't a universal truth. It never was until about 200 years ago. This exists to give someone who starts with nothing a real, honest, structured path to ownership, freedom, and generational wealth. Not a lottery ticket. Not a get-rich-quick scheme. A path. One that rewards effort, develops character, and compounds over time. It is there for those who choose to walk it.
+
+I ultimately want this to be the new standard. Not just a Faleth Capital thing. A way of doing business that spreads because it is undeniably better — better for the people doing the work, better for the customers, better for the investors, better for everyone who touches it. And rather than try and convince shareholders of an unproven idea, we are just going to run with it. We are going to try it out. We are going to iron out the kinks through trial and error. But we have a vision. And if it turns out to be successful? We will get copycats. *That is the point.* I beg of you to copy us. Hell, I'll show you exactly how we did it and what we learned. Why? *Because this is bigger than me.* This is bigger than any one individual organization.
+
+That is why ultimately, this is something that is meant to outlive me. To be bigger than me. I could very easily take this system, make myself the sole owner forever, inherit it to my kids, and they would have a great life for a few generations until one ends up squandering it through resenting everything I built, because they themselves did not build it. I don't just want others working for me for nothing in return but an empty paycheck. For a transaction. *I want a movement.*
+
+I do not require anyone here to share my faith. Your beliefs are your own and they are not a condition of membership, contribution, or belonging. I believe anyone with eyes to see and ears to hear will come to eventually understand what I have experienced. But if we are going to work together, hand in hand, it is going to take radical trust. And radical trust requires radical vulnerability. I cant expect you to be vulnerable with me until I am vulnerable with you first.
+
+That is what this is for. That is the heart of what I do, why I do it, why Faleth Capital exists, why it is so radically different than the norm, why we have so much conviction for what we do. There is a better way to do business. Hell, to do life. How we add value to one another, how we take care of one another, how we love one another. Once we stop tallying the good will we did for others, everything else falls into place. And once the heart is right, everything else is just mechanics.
+
+Once again, thank you for reading this far. I want you to know one last thing...
+
+I love you. I believe in you. And if you are willing to let me, to let this organization into your life, I don't even need to promise you that we will fight tooth and nail to make your dreams come true... as long as you don't stop fighting for them and the dreams of others in return.
+
+Thank you.
+
+God bless.
 
 — Lyle
 
