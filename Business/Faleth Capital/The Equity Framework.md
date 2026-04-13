@@ -92,6 +92,8 @@ The office charges investors for the service of active management. The structure
 
 Both fees are income to the office. They increase the office's equity in the pool, which means they flow into the 30% Class B dividend pool and the 50% liquidity retention.
 
+These two fees are separate from — and in addition to — the 20% employee profit share described in Section 7.3. An investor in a growth quarter faces three deductions from their slice of growth: the employee profit share contribution, the performance fee, and the management fee. In a down quarter, only the management fee applies. The other two deductions require growth to trigger.
+
 ## 7.3 — The Employee Profit Share Contribution
 
 Before the investor receives their net return, 20% of total pool growth is distributed to employees as the office-level profit share. This comes off the top of total growth — the investor's slice included — because the team's work is what drove the growth. An investor whose capital represents 60% of the pool contributed 60% of the gross growth, and 20% of that gross growth (along with the other 40%) goes to the people who made it happen.
@@ -100,9 +102,21 @@ This is a feature, not a cost to be minimized. Investors are buying into a portf
 
 ## 7.4 — What an Investor Receives
 
-Each quarter, after the management fee and 20% profit share are accounted for, the investor receives their proportional share of what remains of the pool's growth. In a down quarter, there is no performance fee and no profit share — but the management fee still applies. The investor absorbs their proportional share of the loss, minus the management fee.
+The deduction waterfall from an MCA holder's slice of pool growth works as follows:
 
-The risk profile is asymmetric in the investor's favor. In a growth quarter, the investor keeps the majority of their slice's growth after fees and the profit share contribution. In a loss quarter, the only guaranteed cost is the 0.5% quarterly management fee. The underlying businesses have structurally flexible labor costs — labor scales with revenue through the COF rate, so a revenue decline does not produce a payroll crisis. Subsidiaries naturally contract and preserve capital. This limits the depth of any down quarter without requiring the office to make forced decisions.
+**In a growth quarter:**
+1. **20% employee profit share** — taken off total pool growth first, proportional to each party's share of the pool. An investor holding 60% of the pool contributes 60% of this deduction.
+2. **20% performance fee** — taken by the office on the investor's remaining share of growth after the profit share contribution.
+3. **0.5% management fee** — taken on the investor's total capital balance regardless of performance.
+4. **The investor keeps the rest.**
+
+**In a down quarter:**
+1. The employee profit share does not apply — there is no growth to distribute.
+2. The performance fee does not apply — there is no growth to charge against.
+3. **The 0.5% management fee still applies** — it is the only deduction in a loss quarter.
+4. The investor absorbs their proportional share of the loss, net of the management fee.
+
+The risk profile is asymmetric in the investor's favor. In a growth quarter the investor retains the majority of their slice's growth after all deductions. In a loss quarter the only guaranteed cost is the management fee — the two 20% deductions vanish entirely because both require growth to trigger. The underlying businesses reinforce this asymmetry: because labor costs scale with revenue through the COF rate, a revenue decline does not produce a payroll crisis. Subsidiaries naturally contract and preserve capital, limiting the depth of any down quarter without forced decisions.
 
 Additionally, the 50/50 deployment discipline means investor capital is never fully committed. Approximately half sits in liquid reserves at all times. An investor who withdraws does not trigger asset liquidations — their exit reduces the liquid side of the pool, and if it pushes the deployed-to-liquid ratio out of balance, the office responds by slowing new spending until the ratio normalizes. Existing businesses are never sold to satisfy a withdrawal.
 
@@ -134,25 +148,28 @@ The subsidiaries perform well. After all subsidiary-level costs and parent compa
 
 The investor's 60% share of that growth is $300,000. The office's 40% share is $200,000.
 
-**Quarterly Allocations (All Simultaneous)**
+**Quarterly Deduction Waterfall**
 
 | | |
 |---|---|
-|**Allocation**|**Amount**|
-|20% Employee Profit Share (off total growth of $500,000)|$100,000|
-|Management Fee (0.5% of investor's $3,000,000 AUM)|$15,000 → to office|
-|Performance Fee (20% of investor's $300,000 growth)|$60,000 → to office|
-|Net to Investor ($300,000 − $60,000 perf fee − investor's share of profit share)|~$180,000|
-|Office's $200,000 growth + $75,000 in fees = $275,000 → 30% Class B Dividends|$82,500|
-|Office's $275,000 → 50% Liquidity Pool|$137,500|
+|**Step**|**Amount**|
+|Total pool growth|$500,000|
+|Step 1 — 20% Employee Profit Share (off total growth)|−$100,000|
+|Remaining growth after profit share|$400,000|
+|Investor's 60% share of remaining growth|$240,000|
+|Step 2 — 20% Performance Fee (on investor's $240,000)|−$48,000 → to office|
+|Step 3 — Management Fee (0.5% of investor's $3,000,000 AUM)|−$15,000 → to office|
+|**Net to MCA Holder**|**$177,000**|
+|Office's 40% share of remaining growth ($160,000) + fees ($63,000) = $223,000 → 30% Class B Dividends|$66,900|
+|Office's $223,000 → 50% Liquidity Pool|$111,500|
 
 **What Each Party Receives**
 
 **Employees:** Layer 2 weekly pay continued throughout the quarter, unaffected. Subsidiary-level profit share from their own subsidiary's net profit (separate Layer 3a calculation). Plus $100,000 in office-level profit share split across all participants by Layer 2 pay. A participant who earned 10% of total Layer 2 pay across the portfolio receives $10,000 in office-level profit share, on top of their subsidiary profit share. They can take either or both in cash, or mint Class B shares with any portion.
 
-**Class B Shareholders:** $82,500 distributed across all shares. At 10,000 shares outstanding, that is $8.25 per share. Someone holding 500 shares receives $4,125. Book value per share also increases as the office retains $137,500 in the liquidity pool and adds the fee income to its equity.
+**Class B Shareholders:** $66,900 distributed across all shares. At 10,000 shares outstanding, that is $6.69 per share. Someone holding 500 shares receives $3,345. Book value per share also increases as the office retains $111,500 in the liquidity pool and adds the fee income to its equity.
 
-**MCA Holder:** Approximately $180,000 in net returns on $3,000,000 invested — about 6% for the quarter. After the performance fee and the profit share contribution, they retained the majority of their slice's growth.
+**MCA Holder:** $177,000 in net returns on $3,000,000 invested — about 5.9% for the quarter. Three deductions applied in sequence: the employee profit share contribution ($60,000, being 60% of the $100,000 total), the performance fee ($48,000, being 20% of the $240,000 remaining), and the management fee ($15,000). All three required growth to trigger except the management fee.
 
 ## 7.8 — Regulatory Considerations
 
