@@ -33,7 +33,7 @@ Faleth Capital uses a mint-and-burn equity model. Shares are created when partic
 |Class B|All participants|Non-voting; dividend-participating from the office's share of pool growth; minted via profit share, burned on cash-out|Not transferable; can only be cashed out (burned) at book value|
 |Managed Capital Account (MCA)|External investors|Not equity; not shares; not ownership in the office; a proportional co-ownership stake in the unified pool, managed by the office under the 2 and 20 structure; returns flow from pool growth, not from office dividends|Subject to account terms; not transferable without office approval|
 
-_For how Class A membership is earned, see [[The Membership Framework]]. For governance rights and voting procedures, see [[The Governance Framework]]._
+_For governance rights and voting procedures, see [[The Governance Framework]]._
 
 # Section 3: Minting (Acquiring Class B Shares)
 
