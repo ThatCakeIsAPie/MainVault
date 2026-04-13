@@ -111,6 +111,29 @@ The idea is to start in both systems simultaneously. Build both. By the time one
 
 This is the path to wealth accessible to just about anyone. It does not mean everyone will walk it. But it lowers the barrier further than any single model can on its own. Network marketing stops being just a "quit your job" side hustle and becomes what it works best as: your true business education and your entry into wealth. And the Contribution Framework stops being just a better paycheck and becomes what it is designed to be: the launchpad for ownership.
 
+### The Five-Step Blueprint
+
+The full vision of how this system is meant to be walked, from nothing to generational wealth, can be distilled into five sequential steps. These are not arbitrary stages. Each one builds the foundation for the next. Each one is designed to be started and developed while the previous one is still in progress.
+
+**Step 1: Start in network marketing.**
+Before anything else, start building a network marketing business. Not because it will make you rich quickly — it won’t. Because it is the only business model on earth that will pay you, from day one, to develop the skills that every other part of this system depends on: leadership, personal development, the ability to build others up, and the discipline of building a business through purely positive reinforcement. It is the foundational education. Start it first.
+
+**Step 2: Maximize active income through work or a Faleth Capital subsidiary.**
+While building your network marketing business, maximize your active income — either through your current work or by joining a Faleth Capital subsidiary under the Contribution Framework. This covers your living expenses, removes desperation from your decisions, and begins building Bucket Two. The no-time-clock model gives you the flexibility to work both simultaneously without one cannibalizing the other.
+
+**Step 3: Build your network marketing business to full-time passive income.**
+Continue building until your network marketing income reaches a level that can fully fund Bucket One on its own — passive overrides flowing into land, index funds, and stable long-term assets regardless of what else is happening in your life. This is your floor. Once this step is complete, your family is covered no matter what. You can now take real risks because the downside is protected.
+
+**Step 4: Maximize active income through your own business.**
+With Bucket One secured and your foundation in place, you are ready to launch your own subsidiary under Faleth Capital. The office funds it. An existing member mentors you. You operate it with full autonomy under the Contribution Framework. Your network marketing income keeps Bucket One covered while the new business finds its footing. Your dividends and profit share fund Bucket Two while the subsidiary grows toward profitability.
+
+**Step 5: Grow both simultaneously and indefinitely.**
+There is no finish line. Both systems compound in parallel — the network marketing business maturing and self-replicating, the subsidiary growing and eventually generating enough income for you to step back and start another. As personal wealth accumulates, the Managed Capital Account structure manages it through the same office, the same philosophy, the same people. The system that helped you build it now stewards it. You begin mentoring the next person through Step 1.
+
+This is the path. Not everyone will walk all five steps. Not everyone needs to. But anyone can, and this system is built so that each step is accessible to someone who has completed the one before it. The barrier at every stage is effort and time, not capital or connections. That is by design.
+
+
+
 ## 1.6 — The Pipeline
 
 Faleth Capital is not just a holding company. It is a pathway. The system is designed so that a person can enter from multiple starting points.
@@ -238,6 +261,8 @@ Each subsidiary governs itself. The subsidiary owner has operational authority, 
 
 _The detailed mechanics of subsidiary governance — Lead elections, the proportional election model, confidence votes, dispute resolution, and quarterly recalibration procedures — are in [[The Governance Framework]]._
 
+_The detailed mechanics of subsidiary governance — Lead elections, the proportional election model, confidence votes, dispute resolution, and quarterly recalibration procedures — are in [[The Governance Framework]]._
+
 ## 4.3 — Transparency
 
 Faleth Capital operates with radical transparency. The following are open to all participants across all subsidiaries:
@@ -349,6 +374,28 @@ This document is our fix. It is a draft. It will evolve. But the principles will
 One thing worth noting: the layers of this system — contribution-based pay, subsidiary profit sharing, office-level profit sharing, dividends, network marketing, the two buckets — were each designed to solve a specific, separate problem. None of them were designed as backups for the others. But because each was built honestly, they naturally create redundancy. The safety in this system was not bolted on. It emerged from the structure itself. We take that as evidence that the architecture is right.
 
 _The principles are permanent. The parameters are not. This constitution evolves through the collective judgment of its members, within the boundaries of what cannot be changed._
+
+---
+
+# Article IX: A Personal Note
+
+_This article is written in my own voice. It is not governance. It is not policy. It is the reason behind everything that came before it._
+
+I did not build this system because I had everything figured out. I built it because I kept encountering a world that seemed designed to keep ordinary people from ever getting ahead — not through malice, but through structure. The wage model. The wealth gap. The way that access to the best investment vehicles, the best mentorship, and the best business models has always been gated behind capital or connections that most people simply do not have.
+
+I believe that is a design flaw. And I believe design flaws can be fixed.
+
+Everything in this document — the Contribution Framework, the equity pipeline, the network marketing spine, the referral program, the MCA structure, the Peaceful Fork — exists to lower a barrier that should not have been there in the first place. To give someone who starts with nothing a real, honest, structured path to ownership, freedom, and generational wealth. Not a lottery ticket. Not a get-rich-quick scheme. A path. One that rewards effort, develops character, and compounds over time.
+
+The people closest to me — my family, the ones who believed in this before it was anything more than a conversation — are who I am ultimately building this for. I want them to be the first proof that it works. I want them to be the first people who walk all five steps and come out the other side with something real and lasting.
+
+And beyond them, I want this to be the standard. Not just a Faleth Capital thing. A way of doing business that spreads because it is undeniably better — better for the people doing the work, better for the customers, better for the investors, better for everyone who touches it.
+
+The purpose of all of this, underneath the frameworks and the math and the governance, is simply to reflect the love that has been shown to me. To take what I have been given — the ideas, the opportunities, the relationships, the faith — and multiply it. To leave things better than I found them. To build something that outlasts my involvement and keeps producing long after I have stepped back.
+
+That is what this is for. Everything else is mechanics.
+
+— Lyle
 
 ---
 
