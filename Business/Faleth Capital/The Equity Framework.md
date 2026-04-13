@@ -177,7 +177,7 @@ The investor's 60% share of that growth is $300,000. The office's 40% share is $
 
 **This section contains an important legal flag. It is not legal advice. A qualified securities attorney must be consulted before MCAs are offered to any investor.**
 
-Renaming this structure from "Class C shares" to "Managed Capital Accounts" reflects the correct conceptual reality — MCA holders are not equity owners in Faleth Capital. However, the name change does not alter the legal analysis. The SEC evaluates economic substance, not terminology. Under the **Howey Test**, an arrangement constitutes a security if it involves: (1) an investment of money, (2) in a common enterprise, (3) with an expectation of profits, (4) derived primarily from the efforts of others. An MCA meets all four prongs. Accordingly, offering MCAs without appropriate registration or a qualifying exemption likely violates federal securities law regardless of how the relationship is described.
+The SEC evaluates economic substance, not terminology. Under the **Howey Test**, an arrangement constitutes a security if it involves: (1) an investment of money, (2) in a common enterprise, (3) with an expectation of profits, (4) derived primarily from the efforts of others. An MCA meets all four prongs. Accordingly, offering MCAs without appropriate registration or a qualifying exemption likely violates federal securities law regardless of how the relationship is described.
 
 In practical terms, this means that until the appropriate legal structure is in place, MCAs should not be offered or marketed to anyone. The following are the primary legal pathways worth evaluating with counsel:
 
