@@ -1,0 +1,15 @@
+A win-win referral program based around a small, personalized business card.
+
+The program itself is based on the number of referrals. Each referral gives a referral point.
+
+1 point: Free screen protector + 2 months of insurance
+2 points: Free case and screen protector + 4 months of insurance
+3 points: Free restoration, case and screen protector + 6 months of insurance
+
+The referred: Free screen protector + 4 total months of insurance on first restoration
+
+There is no cap to how many points a referrer can receive.
+
+Each business card has two sides: one for the referrer and one for the referred.
+The side for the referred has a QR code with the referee's QR code printed on a blank square and their name above it. It also tells them what they can get by redeeming the card.
+The other side has the referral program on it to remind the referrer what they can receive by handing them out. It also serves as a subtle nod to the referred what they can get if they too get a repair done and refer their friends.
