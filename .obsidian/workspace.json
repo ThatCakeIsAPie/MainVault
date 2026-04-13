@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "4dc99d5bec0d4681",
+    "id": "4fc789165d65d9a2",
     "type": "split",
     "children": [
       {
-        "id": "0cb31c072a765bc2",
+        "id": "a09d8a9efcc092ab",
         "type": "tabs",
         "children": [
           {
-            "id": "db181f30e46f8b1e",
+            "id": "bebfa9ce7808cfd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Faleth Capital/Faleth Capital Constitution.md",
+                "file": "Business/Faleth Capital/The Contribution Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faleth Capital Constitution"
+              "title": "The Contribution Framework"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d02c9f3aa2c953bb",
+    "id": "fb38253af2146777",
     "type": "split",
     "children": [
       {
-        "id": "a64666c2c54432d9",
+        "id": "4ca347522263c76d",
         "type": "tabs",
         "children": [
           {
-            "id": "365143d76ef3ac42",
+            "id": "e9b0fe4d30c16436",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "42df1f680fca597e",
+            "id": "dc011984a7a8ca77",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "6b042d3514c45a9c",
+            "id": "d52491ea0ddd4e4f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 300
   },
   "right": {
-    "id": "3a92d6996951cde3",
+    "id": "470b47d8d5d3f7a8",
     "type": "split",
     "children": [
       {
-        "id": "37f0362d9b58dbbd",
+        "id": "4ff42b3473c39925",
         "type": "tabs",
         "children": [
           {
-            "id": "9e3dde9b540013b8",
+            "id": "dee1becf99b42a7e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faleth Capital Constitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Faleth Capital Constitution"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "dddd15ef8f807336",
+            "id": "ed43b99ea8f85312",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faleth Capital Constitution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Faleth Capital Constitution"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "d1c9b464976150c3",
+            "id": "5197323882f12a6a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +135,7 @@
             }
           },
           {
-            "id": "466271425ad9a7c7",
+            "id": "2a7862861aaea23e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,22 +149,21 @@
             }
           },
           {
-            "id": "7dc287360e0f5ef2",
+            "id": "a8c6d8a64c911eb9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/Faleth Capital/Faleth Capital Constitution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Faleth Capital Constitution"
+              "title": "Outline"
             }
           },
           {
-            "id": "7841a49bed96a498",
+            "id": "76bae343f9778f76",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -174,19 +171,8 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "8d18185a1fa97523",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,43 +194,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db181f30e46f8b1e",
+  "active": "bebfa9ce7808cfd2",
   "lastOpenFiles": [
     "Business/Faleth Capital/The Acquisition Transition Framework.md",
-    "Business/Faleth Capital/Faleth Capital Constitution.md",
-    "Business/Faleth Capital/The Governance Framework.md",
-    "Business/Faleth Capital/The Financial Framework.md",
-    "Business/Faleth Capital/The Equity Framework.md",
-    "Business/Faleth Capital/The Contribution Framework.md",
     "Business/Faleth Capital/The Unit Framework.md",
     "Business/Faleth Capital/The Unit Framework.docx",
     "Business/Faleth Capital/The Marketing and Brand Framework.docx",
     "Business/Faleth Capital/The Marketing and Brand Framework.md",
+    "Business/Faleth Capital/The Governance Framework.md",
     "Business/Faleth Capital/The Governance Framework.docx",
     "Business/Faleth Capital/The Financial Framework.docx",
+    "Business/Faleth Capital/The Financial Framework.md",
     "Business/Faleth Capital/The Equity Framework.docx",
+    "Business/Faleth Capital/The Equity Framework.md",
     "Business/Faleth Capital/The Contribution Framework.docx",
-    "Business/Faleth Capital/Faleth Capital Constitution.docx",
+    "Business/Faleth Capital/The Contribution Framework.md",
     "Business/Faleth Capital/The Acquisition Transition Framework.docx",
-    "Business/Faleth Capital/Faleth_Capital_Constitution.md",
-    "conflict-files-obsidian-git.md",
-    "Business/Faleth Capital/Free Range Repair/AI Context/Upsell Offer.txt",
-    "Business/Faleth Capital/Free Range Repair/AI Context/Terminology.txt",
-    "Personal/Church/2026/2026-04-12.md",
-    "Business/Faleth Capital/The_Financial_Framework.md",
-    "Business/Faleth Capital/The_Equity_Framework.md",
-    "SMT/Fuji/Pickup Issues.md",
-    "Business/Faleth Capital/Constitution_and_Contribution_Inserts.md",
-    "Business/Faleth Capital/The_Unit_Framework.md",
+    "Business/Faleth Capital/Faleth Capital Constitution.docx",
+    "Business/Faleth Capital/Faleth Capital Constitution.md",
     "Business/Faleth Capital/The_Contribution_Framework.md",
-    "Business/Faleth Capital/The Container Framework.md",
-    "The Separation Framework.md",
-    "SMT/Conveyors and Scanners/Scanner Issues.md",
+    "Business/Faleth Capital/Faleth_Capital_Constitution.md",
+    "Business/Faleth Capital/The_Marketing_and_Brand_Framework.md",
+    "Business/Faleth Capital/The_Unit_Framework.md",
+    "Business/Faleth Capital/The_Governance_Framework.md",
+    "Business/Faleth Capital/The_Equity_Framework.md",
+    "Business/Faleth Capital/Faleth Capital_Constitution.md",
+    "Business/Faleth Capital/The_Financial_Framework.md",
+    "Personal/Church/2026/2026-04-12.md",
     "Personal/FAL-OUT Journal/2026-04-06 — Theological Reflection.md",
-    "Business/LTD Amway/Info Sessions/2026/2026-04-09 Richard Anderson.md",
-    "Personal/Church/2026/2026-04-07.md",
     "Personal/FAL-OUT Journal/2026-04-06 — Testing Sync.md",
+    "Personal/Church/2026/2026-04-07.md",
+    "Business/LTD Amway/Info Sessions/2026/2026-04-09 Richard Anderson.md",
     "Personal/FAL-KON/Working On.md",
-    "Untitled.canvas"
+    "Personal/FAL-KON/Progress.md",
+    "Personal/FAL-KON/Goals.md",
+    "Personal/FAL-KON",
+    "Personal/FAL-OUT Journal",
+    "Personal/Church/2026/2026-04-05.md"
   ]
 }
