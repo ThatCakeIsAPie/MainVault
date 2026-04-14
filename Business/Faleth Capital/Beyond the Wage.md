@@ -19,4 +19,14 @@ But notice how there is something missing from the entire line of thinking? I di
 
 *How does this contribute to helping the company make more money?*
 
-This isn't a bootlicking of the corporate execs in suits and private jets. This is simply the observation of a business owner working in the corporate arena. If the company doesn't make more money, it can't grow. If the company loses money quarter after quarter, it must shrink its fixed expenses. Guess the biggest expense in any corporation? Labor. Human labor. So what happens? Layoffs. The company's bottom line matters.
+This isn't a bootlicking of the corporate execs in suits and private jets. This is simply the observation of a business owner working in the corporate arena. If the company doesn't make more money, it can't grow. If the company loses money quarter after quarter, it must shrink its fixed expenses. Guess the biggest expense in any corporation? Labor. Human labor. So what happens? Layoffs. The company's bottom line matters. Profit, quite simply, is the oxygen of a business. If it doesn't flow, the company dies. If it is in short supply, the company will start to suffocate and panic. If it flows in great supply, the company can run faster, jump higher, grow larger. I repeat: *The bottom line matters.*
+
+So why does no one care?
+
+Simple. Unlike the execs, they don't reap the rewards. They don't take a pay cut when the company struggles. People are treated as mindless machines, as cattle. When the herd gets too large for the supply, the herd's numbers gets cut. They want you for your meat, that is it. They want you to get big and fat for them. And when their use for you expires? You expire. You are cut. When money is your god, everyone serves to that end. But... money is not a good god. Our God is a good god, but not money. So what is the solution?
+
+I'm going to say the most complicated thing you will ever hear: share a portion of the profits. Give them a reason to care.
+
+Shocking, I know. What a complicated philosophy.
+
+But all joking aside, treat people like adults. Give them back their autonomy. When it comes to motivation, someone who is merely running from something, for a time, will run harder than towards something. But that has its limit. After enough time, the mouse running from the cat will tire. The only question is who will tire first? The cat, if it does not feed, dies. The mouse, if caught by the cat, dies. It is a mortal battle of survival for both. Unfortunately, the vast majority of humankind sees people, our brothers and sisters in Christ, who are all equal in the eyes of God, as somehow being a cat and a mouse. The reality? It is just cannibalism. And just like mad cow disease, the only outcome for sacrificing others for your own personal gain is madness. Stalin was perpetually terrified of the people he was overseeing, because he knew how he treated them. They would backstab him the moment the opportunity arose. He was 
