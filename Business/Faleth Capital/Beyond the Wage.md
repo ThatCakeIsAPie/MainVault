@@ -176,3 +176,5 @@ Lastly, our customers can get involved too.
 Not every subsidiary will operate this way, however, we strongly encourage our subsidiaries to operate on the Prosumer referral program outlined in the [[The Marketing and Brand Framework]]. Put simply, customers receive 20% of the topline revenue paid to us by customers they refer to us. If they send us 5 equivalent customers, their service is effectively free. Beyond that, they can get paid for it, or they can divert it into an MCA (legal regulations apply).
 
 This is how we plan to move beyond the hourly wage.
+
+It won't be pretty. It will take a lot of work. But as God is my bloody witness, we will certainly try.
