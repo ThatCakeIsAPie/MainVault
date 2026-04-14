@@ -55,23 +55,15 @@ People need to know, primally, they won't die if a risk they take goes bad, even
 
 All three are required in order to replace the wage and salary model. Alternatives have been tried, but they were missing one or more of these key distinctions. *That* is what is required.
 
-=======
->>>>>>> origin/main
 And im not saying our model wont have flaws either, it absolutely will. We are hyper vigilant about the flaws in our system and are radically committed to making it work as best as possible for all involved. But it will still have flaws unique to itself.
 
 But we believe that the system contained within the documents is the best alternative that can be applied to any industry, regardless of scale. A small 5 person shop can implement it just as much as a 1 million+ headcount titan. Because ultimately, we need to dissolve what we know about business, tear it all down to its root, first principle components, if we are going to build it back up from scratch, better.
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> origin/main
 ## What is a Business?
 A business, truly, is nothing more than an organization that uses money as its primary incentive to achieving its desired outcome. That is it.
 
 An organization is merely an organized group of individuals, working together to accomplish a shared, united outcome. Businesses, charities, churches, grandma's bingo club, every form of organization boils down to the same exact thing.
 
-<<<<<<< HEAD
 Individuals are, ultimately, looking for something out of their life, whether they know it or not. They have a *direction* they are going in life. Some want to club, others want to create things, others want a family, we all have our own core desires that make us, us. When we find others who share our vision, we naturally gravitate towards them, because we instinctively know we are more likely to get it when we work together. You have your strengths and weaknesses, I have mine. Where we are weakest, the other is strongest. This doesn't add, but multiply our output.
 
 Money is simply a tangible form of created value. If one person wants what you have more than what they have, and vice versa, you do an exchange. This is a transaction. If they want your shoes you made more than their money, they give you their money for your shoes. Each receives what they wanted more than what they had. Value was created. You then use that money to buy more materials for more shoes, spend it on living expenses, store it for a rainy day, etc. But instinctively we know, as money is a universal, exchange of value, the more we have of it, the more we can get out of life.
@@ -98,11 +90,9 @@ Simply put, since its inception, people hated it. It was ineffective. They wante
 
 Because of this reality, they couldn't "teach an old dog new tricks", so they turned to the school system. If they couldn't get people who were used to autonomy to fit into this machine-first paradigm, they had to condition a more moldable people: children. Kids didn't know any better. They didn't know anything different. Thus... they came for our kids.
 
-<<<<<<< HEAD
 Why do you think schools have bells between classes? Why are kids are set in rows, taught go be quiet and respect authority? Why the questions are convergent in nature, having one right answer, rather than divergent, having many right answers? We have been trained to believe a good human is a *compliant* human.
-=======
+
 Why do you think schools have bells between classes? Kids are set in rows, taught go be quiet and respect authority? That the questions are convergent in nature, having one right answer, rather than divergent, having many right answers. We have been trained to believe a good human is a *compliant* human.
->>>>>>> origin/main
 
 *We don't know any different because we were trained that way from birth, by parents who themselves didn't know any different.*
 
@@ -149,7 +139,6 @@ For full details on this, read [[The Contribution Framework]].
 
 But to explain it simply:
 
-<<<<<<< HEAD
 Layer 1- A floor prevents people from operating in financial anxiety.
 Layer 2- Immediate feedback loop between effort and reward.
 Layer 3- Employer/Employee alignment and long term wealth creation.
@@ -187,8 +176,3 @@ Lastly, our customers can get involved too.
 Not every subsidiary will operate this way, however, we strongly encourage our subsidiaries to operate on the Prosumer referral program outlined in the [[The Marketing and Brand Framework]]. Put simply, customers receive 20% of the topline revenue paid to us by customers they refer to us. If they send us 5 equivalent customers, their service is effectively free. Beyond that, they can get paid for it, or they can divert it into an MCA (legal regulations apply).
 
 This is how we plan to move beyond the hourly wage.
-=======
-Layer 1- A floor prevents people from operating in financial anxiety. People operating with this frame do not make good, long term decisions.
-Layer 2- Immediate feedback loop between effort and reward.
-Layer 3- Employer/Employee alignment and wealth creation
->>>>>>> origin/main
