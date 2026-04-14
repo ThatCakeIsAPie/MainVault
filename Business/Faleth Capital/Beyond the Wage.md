@@ -1,0 +1,8 @@
+Imagine if you will, coming into work one day and being called into a mandatory, all-hands meeting. Your stomach drops with dread, as any time this occurs, it is never good news. You understand the company has fallen onto hard times, so you walk into the conference room expecting today to be your last day of comfortable employment at your day job.
+
+Everyone gathers around, and a man you don't recognize is standing next to the owner. Immediately, you come to the conclusion your company just got bought out by private equity, this has happened to you before. Some private equity company fills the company coffers with new cash, fires half of everybody, "restructures" it with other companies and resells it to the highest bidder... Dread fills your ears, so you only hear the gist of it: "We have just been acquired by Faleth Capital. Starting today, no one is receiving a typical wage or salary anymore." Well... you were right. Panic fills the room. "That being said, until the transition is complete, you will still receive compensation equivalent to your previous ongoing rate. However, shortly thereafter, your compensation will no longer be tied to how many hours you but in, rather, it will be tied to the work you actually get done." I knew it. Some trick to pay us even less than we barely get paid, and make it feel all "freeing." Same old, corporate tricks. "No more shall you resent your coworker slacking off for the same wage you are getting paid. If you get your work done by noon, you can either stick around and double your takehome for the day, or go home to your families early."
+
+So... you were half right. But what does this mean for me?
+
+## Modern Work is Broken
+We are taught to work hard.
