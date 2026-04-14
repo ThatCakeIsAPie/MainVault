@@ -125,4 +125,22 @@ But to explain it simply:
 
 Layer 1- A floor prevents people from operating in financial anxiety. People operating with this frame do not make good, long term decisions.
 Layer 2- Immediate feedback loop between effort and reward.
-Layer 3- Employer/Employee alignment and wealth creation
+Layer 3- Employer/Employee alignment and long term wealth creation.
+
+.
+
+Additionally, we function as a bottom-up republic, rather than a top-down feudal empire.
+
+When a business grows, it splits into "units" that looks like a cell undergoing mitosis from a single-celled organism to a multi-celled organism.
+
+The leads of those cells debate and discuss with each other how to split the COF on a macro level, and how the cells should interface.
+
+Leads are elected through an STV election system, allowing one or multiple leads per unit that more accurately represents the whole.
+
+Again, the full details on these are inside the [[The Governance Framework]] and [[The Unit Framework]].
+
+These three frameworks on their own allow the companies within the firm to be far more efficient than any traditional business and compensation structure.
+
+However, the goal was to build the most stable coalition of self-governing businesses. When one is struggling, the others can bear the burden. When one succeeds, all succeed.
+
+This is handled in [[The Financial Framework]], as well as handling how outside investment works 
