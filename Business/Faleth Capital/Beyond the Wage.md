@@ -70,4 +70,10 @@ Before the industrial revolution, most people were a farmer or small business ow
 
 Then, came the assembly line. You were compensated for the amount of time you were turning a wrench. You needed to be interchangeable. It made sense, it was simple enough to track, and their work was simple enough that it didnt really matter who did it or how hard they worked. If they werent performing, it was obvious and they were cut from the line if they didnt improve. However, even back then, they had a glaring turnover problem. People simply didn't like the work, it felt inhuman. Ford paid his workers more so that they would actually show up and stay, but that higher pay came with its own stipulations.
 
-Simply put, since its inception, people hated it. It was ineffective.
+Simply put, since its inception, people hated it. It was ineffective. They wanted machines, but all they had were people. And because the technology of the time didn't allow for those machines to exist, they had to treat people like machines. They needed them to be reliable, replaceable, and uniform. Why do you think your work clothes are called a "uniform"?
+
+*The system wasn't made for you and I.*
+
+Because of this reality, they couldn't "teach an old dog new tricks", so they turned to the school system. If they couldn't get people who were used to autonomy to fit into this machine-first paradigm, they had to condition a more moldable people: children. Kids didn't know any better. They didn't know anything different. Thus... they came for our kids.
+
+Why do you think schools have bells between classes? Kids are set in rows, taught go be quiet and respect authority? That the questions are convergent in nature, having one right answer, rather than divergent, having many right answers. We have been trained to believe a good human is a *compliant* human.
