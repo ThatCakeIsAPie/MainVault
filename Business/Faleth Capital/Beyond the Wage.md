@@ -107,11 +107,11 @@ It is a philosophy built on equivalent exchange and value creation, not value ex
 
 You are made in the image of God. Handcrafted by the Almighty. So are your family, your friends, your neighbors, those in your community, nation, and on this planet. It is time we start treating each other with the love and respect we were commanded in Matthew 7:12.
 
-## How we Did This
+## How We Did This
 To summarize the documents in as digestible a framework as possible, it is simply this:
 
 You are paid through three core layers:
-1. A credited guarantee of income to prevent survival anxiety
+1. A credited guarantee of income
 2. Per process/task completed
 3. Profit share and Equity
 
@@ -119,50 +119,10 @@ You are paid for the work you do, not the time it takes to do it.
 
 There are no time clocks, no schedule obligations. You work when and how you wish to work. But as well, your income must be easily calculable.
 
-For each transaction, there is a flow chart associated with it. That flow chart breaks down all the necessary steps to make that transaction happen. From the marketing, to checking the customer in, to doing the work, to checking them out, to doing customer service for when they encounter problems, to organizing the parts and tools, etc.
+For full details on this, read [[The Contribution Framework]].
 
-Every business has a flow chart of the steps required. Every business has clear inputs and outputs. If you do not know them, you do not know how your own business functions.
+But to explain it simply:
 
-We just assign point values to each step, based on the total value of the step to the completion of the transaction.
-
-Anything that directly produces revenue for the company is considered a "direct" process.
-Anything that indirectly produces revenue, or supports the revenue generation, is considered an "indirect" process.
-
-Each direct or indirect task or process has a point value assigned.
-
-You can complete as many, or as few, processes as you would like.
-
-Your pay is determined by:
-Your points / total points = Your share
-COF x Your share = Your pay
-
-The Cost of Fulfillment (COF) is the percentage set aside in the gross profit of each transaction.
-
-In a repair shop example:
-
-| Revenue               | $300    |
-| --------------------- | ------- |
-| Cost of Goods (COG)   | $100    |
-| Gross Profit          | $200    |
-| COF (%)               | 20%     |
-| COF ($)               | $40     |
-| Your share of COF (%) | 40%     |
-| Your share of COF ($) | $16     |
-| **Your Income**       | $**16** |
-It is that simple.
-
-If you earn less than the pre-designated cost of living in your area, the floor kicks in and covers the rest. If you earn more, but have an outstanding credit, it takes that out first and hands you the rest (unless it goes under the floor, then it just deducts from the total).
-
-
-| Week 1 Income    | $600   |     | Week 2 Income    | $1,200 |     | Week 3 Income    | $1,500 |
-| ---------------- | ------ | --- | ---------------- | ------ | --- | ---------------- | ------ |
-| Local Floor      | $1,000 |     | Floor            | $1,000 |     | Floor            | $1,000 |
-| Credited         | $-400  |     | Credited         | $200   |     | Credited         | $200   |
-| Your Take Home   | $1,000 |     | Your Take Home   | $1,000 |     | Your Take Home   | $1,300 |
-| Remaining Credit | $400   |     | Remaining Credit | $200   |     | Remaining Credit | $0     |
-The floor isn't a charity, nor is it a wage. It is a simple safety net for those new to the concept and system, and can be opted out of at any time.
-
-We set a cap determined by the team, typically at 4 week, to prevent runaway debt in case of emergency.
-
-It is a soft advance, meaning if you cant repay it by the time you decide to leave the company, we won't send collections after you. We won't bill you monthly for it. But if you come back, we won't forget it. It is designed to protect both the individual from financial anxiety, and the company from recreating the very problem we are trying to solve.
-
+Layer 1- A floor prevents people from operating in financial anxiety. People operating with this frame do not make good, long term decisions.
+Layer 2- Immediate feedback loop between effort and reward.
+Layer 3- Employer/Employee alignment and wealth creation
