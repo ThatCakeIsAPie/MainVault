@@ -29,4 +29,45 @@ I'm going to say the most complicated thing you will ever hear: share a portion 
 
 Shocking, I know. What a complicated philosophy.
 
-But all joking aside, treat people like adults. Give them back their autonomy. When it comes to motivation, someone who is merely running from something, for a time, will run harder than towards something. But that has its limit. After enough time, the mouse running from the cat will tire. The only question is who will tire first? The cat, if it does not feed, dies. The mouse, if caught by the cat, dies. It is a mortal battle of survival for both. Unfortunately, the vast majority of humankind sees people, our brothers and sisters in Christ, who are all equal in the eyes of God, as somehow being a cat and a mouse. The reality? It is just cannibalism. And just like mad cow disease, the only outcome for sacrificing others for your own personal gain is madness. Stalin was perpetually terrified of the people he was overseeing, because he knew how he treated them. They would backstab him the moment the opportunity arose. As a result, he isolated himself.
+But all joking aside, treat people like adults. Give them back their autonomy. When it comes to motivation, someone who is merely running from something, for a time, will run harder than towards something. But that has its limit. After enough time, the mouse running from the cat will tire. The only question is who will tire first? The cat, if it does not feed, dies. The mouse, if caught by the cat, dies. It is a mortal battle of survival for both. Unfortunately, the vast majority of humankind sees people, our brothers and sisters in Christ, who are all equal in the eyes of God, as somehow being a cat and a mouse. The reality? It is just cannibalism. And just like mad cow disease, the only outcome for sacrificing others for your own personal gain is madness. Stalin was perpetually terrified of the people he was overseeing, because he knew how he treated them. They would backstab him the moment the opportunity arose. As a result, he isolated himself. He trusted no one. He couldn't leave or go on a relaxed vacation without the fear that everything would break by the time he came back. Everything relied on him.
+
+This is how tyrants rule.
+
+And it is a reality for many modern business owners.
+
+Their people dont care about their success. And that is a lonely place in life to be.
+
+Many will build a round table of A-player executives who they do pay based on the performance of the business. This is great for those in the ivory tower, and it helps mitigate the loneliness factor slightly and help the owner rest easier, but it is just addressing the symptoms, not the root disease.
+
+Many business owners live in fear of the very people they lead and pay a livelihood.
+
+## Alternatives have been Tried
+I dont want to make this document sound like we are the only ones to have ever noticed this dynamic either. FAR from it. Companies such as Semco in Brazil. Amway in America. Many organizations have attempted to change this dynamic, many have created phenomenal success for themselves, but they all have flaws that keep them from becoming the titans of industry to replace the standard of work across the world.
+
+Cooperatives, usually have little margin to continue expansion and get capped around Dunbar's number of 150-250 people before administrative drag grinds everything to a halt.
+
+Network marketing, most companies have non-compete clauses inside of their contracts. Meaning, you are limited purely to the products within the system. Additionally, you have little control over the products being created and sold, just over what you choose to sell. You cannot come into an existing networn and improve it dramatically and receive compensation for doing so. For many, they don't mind these. They actually see them as features, as it means it is less to worry about. I dont blame them for that. Ive had phenomenal results with network marketing, im an advocate for the industry. But, there is something structural holding it back from becoming the new standard of work.
+
+And im not saying our model wont have flaws either, it absolutely will. We are hyper vigilant about the flaws in our system and are radically committed to making it work as best as possible for all involved. But it will still have flaws unique to itself.
+
+But we believe that the system contained within the documents is the best alternative that can be applied to any industry, regardless of scale. A small 5 person shop can implement it just as much as a 1 million+ headcount titan. Because ultimately, we need to dissolve what we know about business, tear it all down to its root, first principle components, if we are going to build it back up from scratch, better.
+
+## What is a Business?
+A business, truly, is nothing more than an organization that uses money as its primary incentive to achieving its desired outcome. That is it.
+
+An organization is merely an organized group of individuals, working together to accomplish a shared, united outcome. Businesses, charities, churches, grandma's bingo club, every form of organization boils down to the same exact thing.
+
+Individuals are, ultimately, looking for something out of their life, whether they know it or not. They have a *direction* they are going in life. Some want to club, others want to create things, others want a family, we all have our own core desires that make us, us. When we find others who share our vision, we naturally gravitate towards them, because we instinctively know we are more likely to get it when we work together. You have your strengths and weaknesses, I have mine. Where we are weakest, the other is strongest. This multiplies, not adds our output.
+
+Money is simply a tangible form of created value. If one person wants what you have more than what they have, and vice versa, you do an exchange. This is a transaction. If they want your shoes you made more than their money, they give you their money for your shoes. Each receives what they wanted more than what they had. Value was created. You then use that money to buy more materials for more shoes, spend it on living expenses, store it for a rainy day, etc. But instinctively we know, as money is a universal, exchange of value, the more we have of it, the more we can get out of life.
+
+When individuals going a similar direction band together, they make an organization. When they find a way to collectively make money, they can distribute it so they can focus on just the task at hand. That is the foundation of a business. As more work needs done, they bring on more people. That is how a business grows. A business is just transactions at scale, with individual contributors getting their individual cuts.
+
+If that is the foundation, where did we go wrong?
+
+## Where it went Wrong
+Before the industrial revolution, most people were a farmer or small business owner. They owned their own shop, they had a farm, and if there was no one to buy their products or services or they couldn't produce them, they couldn't get their other essentials. Effort and reward was tangible.
+
+Then, came the assembly line. You were compensated for the amount of time you were turning a wrench. You needed to be interchangeable. It made sense, it was simple enough to track, and their work was simple enough that it didnt really matter who did it or how hard they worked. If they werent performing, it was obvious and they were cut from the line if they didnt improve. However, even back then, they had a glaring turnover problem. People simply didn't like the work, it felt inhuman. Ford paid his workers more so that they would actually show up and stay, but that higher pay came with its own stipulations.
+
+Simply put, since its inception, people hated it. It was ineffective.
