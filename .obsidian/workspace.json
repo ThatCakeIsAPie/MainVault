@@ -35,7 +35,8 @@
               "title": "Beyond the Wage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db181f30e46f8b1e",
+  "active": "b7609ad9ac4c62b0",
   "lastOpenFiles": [
-    "Business/Faleth Capital/Beyond the Wage.md",
     "Business/Faleth Capital/Faleth Capital Constitution.md",
+    "Business/Faleth Capital/Beyond the Wage.md",
     "Business/Faleth Capital/The Acquisition Transition Framework.md",
     "Business/Faleth Capital/The Governance Framework.md",
     "Business/Faleth Capital/The Financial Framework.md",

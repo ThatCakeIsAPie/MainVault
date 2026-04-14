@@ -5,4 +5,18 @@ Everyone gathers around, and a man you don't recognize is standing next to the o
 So... you were half right. But what does this mean for me?
 
 ## Modern Work is Broken
-We are taught to work hard.
+We are taught to work hard. We always hear "work smarter, not harder" growing up. But rarely is either advice followed. Why?
+
+Let me ask you a simple question: If you get all your work done by noon, do you get paid for the full day and get to go home early? Of course not. You either get your hours cut for that day, or you are given the work of the guy taking his time who is "doing his best". You are actively "rewarded" for doing your work well, with more work.
+
+At a point in time, that worked out great, when you could negotiate your wage with your employer. However, as companies grew, systems became standardized, and if you were getting paid more than anyone else in the same job, that was seen as a problem. So... everyone gets paid the same. Makes sense, right? We are doing the same work, we should get paid the same, right? Except, that guy over there is now getting paid the same, and is doing just enough, while everyone else is picking up the slack. But he is good friends with the supervisor, so he would never chew him out. So, what gives? Why should I work harder?
+
+*What is in it for me?*
+
+Feel familiar? Feel like the every day life of any employee ever? This is the pain for just about everyone. It all just feels... unfair.
+
+But notice how there is something missing from the entire line of thinking? I did.
+
+*How does this contribute to helping the company make more money?*
+
+This isn't a bootlicking of the corporate execs in suits and private jets. This is simply the observation of a business owner working in the corporate arena. If the company doesn't make more money, it can't grow. If the company loses money quarter after quarter, it must shrink its fixed expenses. Guess the biggest expense in any corporation? Labor. Human labor. So what happens? Layoffs. The company's bottom line matters.
