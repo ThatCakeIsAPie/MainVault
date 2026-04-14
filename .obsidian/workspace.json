@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Beyond the Wage"
             }
+          },
+          {
+            "id": "02ebe4044599278d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bebfa9ce7808cfd2",
+  "active": "02ebe4044599278d",
   "lastOpenFiles": [
-    "Business/Faleth Capital/Faleth Capital Constitution.md",
     "Business/Faleth Capital/Beyond the Wage.md",
+    "conflict-files-obsidian-git.md",
+    "Business/Faleth Capital/Faleth Capital Constitution.md",
     "Business/Faleth Capital/The Contribution Framework.md",
     "Business/Faleth Capital/The Unit Framework.md",
     "Business/Faleth Capital/The Marketing and Brand Framework.md",
@@ -230,7 +246,6 @@
     "Personal/FAL-KON/Progress.md",
     "Personal/FAL-KON/Goals.md",
     "Personal/FAL-KON",
-    "Personal/FAL-OUT Journal",
-    "Personal/Church/2026/2026-04-05.md"
+    "Personal/FAL-OUT Journal"
   ]
 }
