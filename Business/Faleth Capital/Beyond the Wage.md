@@ -117,6 +117,8 @@ You are paid through three core layers:
 
 You are paid for the work you do, not the time it takes to do it.
 
+There are no time clocks, no schedule obligations. You work when and how you wish to work. But as well, your income must be easily calculable.
+
 For each transaction, there is a flow chart associated with it. That flow chart breaks down all the necessary steps to make that transaction happen. From the marketing, to checking the customer in, to doing the work, to checking them out, to doing customer service for when they encounter problems, to organizing the parts and tools, etc.
 
 Every business has a flow chart of the steps required. Every business has clear inputs and outputs. If you do not know them, you do not know how your own business functions.
@@ -158,3 +160,9 @@ If you earn less than the pre-designated cost of living in your area, the floor 
 | Credited         | $-400  |     | Credited         | $200   |     | Credited         | $200   |
 | Your Take Home   | $1,000 |     | Your Take Home   | $1,000 |     | Your Take Home   | $1,300 |
 | Remaining Credit | $400   |     | Remaining Credit | $200   |     | Remaining Credit | $0     |
+The floor isn't a charity, nor is it a wage. It is a simple safety net for those new to the concept and system, and can be opted out of at any time.
+
+We set a cap determined by the team, typically at 4 week, to prevent runaway debt in case of emergency.
+
+It is a soft advance, meaning if you cant repay it by the time you decide to leave the company, we won't send collections after you. We won't bill you monthly for it. But if you come back, we won't forget it. It is designed to protect both the individual from financial anxiety, and the company from recreating the very problem we are trying to solve.
+
