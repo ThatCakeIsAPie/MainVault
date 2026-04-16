@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9245794e565d9c0d",
+        "id": "b773d63d2dcd795f",
         "type": "tabs",
         "children": [
           {
-            "id": "e1cea25baa2fd8f0",
+            "id": "9aab0c18385c3ff2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
         ]
@@ -208,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1cea25baa2fd8f0",
+  "active": "9aab0c18385c3ff2",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Business/Faleth Capital/Faleth Capital Constitution.md",
