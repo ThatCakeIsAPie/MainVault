@@ -51,7 +51,7 @@ Compensation under this framework operates across three distinct layers, each se
 |---|---|---|---|
 |**Layer**|**Mechanism**|**Frequency**|**Purpose**|
 |Layer 1: The Minimum Pay Guarantee|Guaranteed weekly floor; shortfall credited against future earnings, with opt-out available for supplemental earners|Weekly|Security and stability|
-|Layer 2: The Value Share|Contribution points × share of gross margin pool|Weekly|Direct reward for productivity|
+|Layer 2: The Value Share|Per-transaction points × share of that transaction’s gross margin|Weekly|Direct reward for productivity|
 |Layer 3: The Ownership Stake|Quarterly profit share + Class B dividends (paid in the same quarterly distribution), with option to mint equity shares via investment|Quarterly|Long-term alignment and compounding wealth|
 
 ## 2.1 — Layer 1: The Minimum Pay Guarantee
@@ -75,20 +75,27 @@ This is a legitimate choice. Someone treating this as flexible, on-demand income
 
 ## 2.2 — Layer 2: The Value Share (Weekly Pay)
 
-This is the primary compensation mechanism and the engine of the entire model. It directly links each person’s earnings to the measurable value they created that week.
+This is the primary compensation mechanism and the engine of the entire model. It directly links each person’s earnings to the measurable value they personally created on every transaction they touched.
 
 ### The Formula
 
-Each week, the shop’s **gross margin** (Subtotal minus Cost of Goods) is calculated. A predetermined percentage of that gross margin is allocated to the **team pool**. This percentage is the Cost of Fulfillment (COF) rate and is set collaboratively by the team.
+Layer 2 pay is calculated **per transaction, not as a weekly pool divided among everyone**. Each completed transaction generates its own labor pool from its own gross margin. Each participant earns from each transaction based on the specific points they earned on that specific transaction. Weekly pay is simply the sum of those per-transaction earnings across the week.
+
+This distinction is structurally important. A weekly pool model would reward participants based on the weekly average rather than their individual performance on each job. A per-transaction model rewards the specific person who created the specific value on the specific ticket.
 
 |   |   |
 |---|---|
 |**Component**|**Calculation**|
-|Gross Margin|Subtotal − Cost of Goods|
-|Weekly Team Pool|Gross Margin × COF Rate|
-|Individual Share|(Your Points ÷ Total Points) × Weekly Team Pool|
+|Transaction Gross Margin|Transaction Subtotal − Transaction Cost of Goods|
+|Transaction Labor Pool|Transaction Gross Margin × COF Rate|
+|Individual Share of Transaction|(Your Points on This Transaction ÷ Total Points on This Transaction) × Transaction Labor Pool|
+|Weekly Pay|Sum of your individual shares across all transactions that week|
 
-The dollar value of a single contribution point is not fixed. It floats based on how the business actually performed that week. A great week makes every point worth more. A slow week makes every point worth less. This is self-regulating: labor costs scale proportionally with revenue, and everyone intuitively understands the connection between shop performance and personal income.
+The dollar value of a single contribution point is not fixed. It floats based on the actual gross margin of each individual transaction. A high-margin ticket makes every point on that ticket worth more. A low-margin ticket makes every point on that ticket worth less. This is self-regulating: labor costs scale proportionally with each transaction’s revenue, and every participant intuitively understands the connection between each specific job they work on and what they personally earn from it.
+
+### Why Per-Transaction
+
+A participant who consistently handles larger, more complex, or more profitable tickets earns proportionally more than one who handles smaller ones, even if they complete the same number of jobs. A participant who adds value to a ticket — by successfully recommending an additional service, diagnosing a secondary issue the customer didn’t know about, or converting a walk-in into a full repair — directly benefits from that added value on that specific ticket, rather than seeing it diluted across everyone who worked that week. The incentive to grow individual transactions is structural, not aspirational.
 
 ### Why Gross Margin
 
@@ -107,6 +114,8 @@ This framework uses two layers of profit sharing that work together to align inc
 Each quarter, 20% of the subsidiary’s **net profit** (after all operating expenses, COG, COA, COF, fixed costs, and parent company royalties) is distributed to the subsidiary’s team as a local profit share.
 
 Each person’s share of this distribution is determined by their cumulative Layer 2 earnings over that quarter, divided by the total Layer 2 earnings of all participants in that subsidiary. This is the most direct form of long-term incentive: it rewards the team for managing the full P&L of their own business, not just the gross margin.
+
+**Why Layer 2 earnings, not raw points.** Profit share at every layer — unit, subsidiary, and office — is calculated using Layer 2 dollar earnings as the divisor, not raw point totals. This is a deliberate design decision that matters once the system operates across multiple units or subsidiaries. Different teams will calibrate their point values differently based on their own internal logic. One unit might assign 7 points to a standard repair; another might assign 100 points to the same work. If profit share were divided by raw point totals, the unit with inflated point values would claim a disproportionate share of the pool — not because they did more valuable work, but because of how they calibrated their internal system. Layer 2 dollar earnings normalize this automatically. The dollars reflect the actual value produced and the actual pool share earned, regardless of the underlying point system. This allows every team full autonomy to calibrate points however makes sense for their work while keeping the profit share distribution honest across the portfolio.
 
 _In multi-unit subsidiaries, this 20% may be split into two halves — 10% from the unit's own performance and 10% from the subsidiary's consolidated performance — when the team votes to adopt the split structure. This preserves local accountability while maintaining cross-unit alignment. See [[The Unit Framework#Unit-Level Profit Sharing|The Unit Framework, Unit-Level Profit Sharing]] for details._
 
@@ -158,8 +167,7 @@ Processes are separated into two categories:
 |Diagnosis|Identifying the specific fault, determining required parts, estimating repair scope|[Set by team]|
 |Repair / Restoration|Performing the board swap, screen replacement, or other physical repair work|[Set by team]|
 |Quality Check|Testing device functionality post-repair, verifying all systems operational|[Set by team]|
-|Customer Check-Out|Presenting completed device, collecting payment, offering upsells and insurance|[Set by team]|
-|Upsell Completed|Successfully selling a case, screen protector, or insurance enrollment|[Set by team]|
+|Customer Check-Out|Presenting completed device, collecting payment, and offering accessories, insurance, or related services. Successful upsells naturally increase the transaction size, which increases the gross margin pool that check-out points earn from on that ticket|[Set by team]|
 
 **Indirect Processes** protect revenue. They maintain the conditions that allow direct processes to happen effectively. Without them, the shop degrades, customers leave, and direct producers suffer.
 
@@ -242,21 +250,29 @@ _Full election mechanics — the proportional election model, how multiple Leads
 |Net Profit|What remains after all costs, royalties, and profit share are deducted|
 |PC Royalties|Royalties paid to the parent company|
 
-## 4.2 — Weekly Payout Walkthrough
+## 4.2 — Per-Transaction Payout Walkthrough
 
-The following example illustrates how weekly pay is calculated under this framework. All numbers are illustrative.
+The following example illustrates how Layer 2 pay is calculated on a single transaction. All numbers are illustrative.
 
-**Scenario:** The shop completes 6 restorations in a day at $300 average price, with a 50% COG rate and a 15% COF rate.
+**Scenario:** A customer brings in a phone for a screen replacement at $300, with $150 in parts cost. The shop’s COF rate is 30% of gross margin.
 
 |   |   |
 |---|---|
 |**Step**|**Amount**|
-|Daily Revenue (6 jobs × $300)|$1,800|
-|Cost of Goods (50%)|$900|
-|Gross Profit|$900|
-|Team Pool / COF (15% of Subtotal, or 30% of Gross)|$270|
+|Transaction Subtotal|$300|
+|Cost of Goods|$150|
+|Gross Margin|$150|
+|Transaction Labor Pool (Gross Margin × 30% COF)|$45|
 
-If there are 7.2 total points across all processes for a completed project and a technician earned 6 of those points through direct work, their share would be 6 / 7.2 = 83.3% of the team pool, or approximately $225 for that day’s work. Over a five-day week with similar volume, that’s roughly $1,125 in Layer 2 earnings alone.
+Suppose the total points for this transaction across all processes involved sum to 7.2, and a technician who performed the diagnosis and repair earned 6 of those points. Their share of this transaction is:
+
+- 6 ÷ 7.2 = 83.3% of the $45 pool = **$37.50 earned on this ticket**
+
+A second participant who handled the check-in and check-out earned the remaining 1.2 points, or **$7.50** from the same transaction.
+
+A larger ticket produces a larger pool. If the same customer also buys a case and screen protector, bringing the subtotal to $360 with $180 in total COG, the transaction labor pool grows to $54 instead of $45. Whoever earns points on that larger ticket earns proportionally more from it. This is how the system rewards behaviors that grow individual transactions: the person who added the accessories to the ticket directly benefits from the larger pool on that specific job.
+
+Weekly pay is simply the sum of these per-transaction earnings across every transaction the participant touched during the week. There is no separate weekly pool calculation. The weekly total emerges from the individual transactions.
 
 ## 4.3 — Quarterly Profit Share Walkthrough
 
