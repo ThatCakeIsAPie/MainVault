@@ -21,4 +21,4 @@ When he thought about starting a business, he looked at his wage and didn't know
 If it is for the right reason, he is excited
 Amway says "we will pay you 20-41% of what you buy and sell"
 It is ok to ask stupid questions.
-How do you get so good you can "shoot the ball and walk off before it goes in the hoop"? You just have to practice. A lot.
+How do you get so good you can "shoot the ball and walk off before it goes in the hoop"? You have to miss the ball a bunch of times. How do you get to the point where you make a full time income passively? You have to have months where you only make $37
