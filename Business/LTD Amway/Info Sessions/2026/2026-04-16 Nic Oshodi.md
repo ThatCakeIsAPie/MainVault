@@ -7,7 +7,6 @@ No matter how much money I make, in a job, I can't give my job to my son. That's
 "It doesn't just look good. It produces good." That sentence changed his life.
 What takes more up front work? Bringing a bucket back and forth? Or installing plumbing? What about back end work?
 He doesn't decorate his bucket, he is building his plumbing. He doesn't decorate his cubicle, he keeps a duffle bag under his drawer so he can leave when someone wants to talk to him.
-<<<<<<< HEAD
 He thought that his method was beating the system by buying discount $25 tires. But how long did those last? He kept having to replace tires.
 He had to have mentors teach him things, but he had to unlearn things too.
 He went from buying $20 tires, to buying $200 tires.
@@ -23,3 +22,6 @@ If it is for the right reason, he is excited
 Amway says "we will pay you 20-41% of what you buy and sell"
 It is ok to ask stupid questions.
 How do you get so good you can "shoot the ball and walk off before it goes in the hoop"? You have to miss the ball a bunch of times. How do you get to the point where you make a full time income passively? You have to have months where you only make $37
+"What if we get bought out and get fired?" "Get another job?"
+Why is building a team important? If you are the method and the madness, you are capped.
+You are going to have to learn and unlearn some things
