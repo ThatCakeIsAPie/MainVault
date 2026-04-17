@@ -138,13 +138,13 @@ The referral program is available to subsidiaries that meet both of the followin
 
 The target financial structure for participating subsidiaries is roughly:
 
-| Line Item | Target % of Topline |
-|---|---|
-| Cost of Goods (COG) | ~33% |
-| Cost of Acquisition (COA / Referral) | ~20% |
-| Cost of Fulfillment (COF / Team Pool) | ~20% |
-| Fixed Costs + Parent Company Fee | ~10–15% |
-| Net Margin (pre profit share) | ~12–17% |
+| Line Item                             | Target % of Topline |
+| ------------------------------------- | ------------------- |
+| Cost of Goods (COG)                   | ~33%                |
+| Cost of Acquisition (COA / Referral)  | ~20%                |
+| Cost of Fulfillment (COF / Team Pool) | ~13.33%             |
+| Parent Company Fee                    | ~11.11%             |
+| Net Margin (pre profit share)         | ~22.56%             |
 
 These are benchmarks, not mandates. Every subsidiary's economics are different. The governing principle is that the referral program should be funded from the COA budget — it should replace paid acquisition spend, not stack on top of it. A subsidiary already spending 20% on marketing that adds a 20% referral program on top has a problem. A subsidiary that redirects its acquisition budget from platforms to customers has a better business.
 
