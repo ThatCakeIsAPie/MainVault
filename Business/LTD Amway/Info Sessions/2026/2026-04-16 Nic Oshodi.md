@@ -20,4 +20,5 @@ The path you are up against is retiring at 67
 When he thought about starting a business, he looked at his wage and didn't knowhow to get it started with what he had. He had to sell his Xbox to get started
 If it is for the right reason, he is excited
 Amway says "we will pay you 20-41% of what you buy and sell"
-It is ok to ask 
+It is ok to ask stupid questions.
+How do you get so good you can "shoot the ball and walk off before it goes in the hoop"? You just have to practice. A lot.
