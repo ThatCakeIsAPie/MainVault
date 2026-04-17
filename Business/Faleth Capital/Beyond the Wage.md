@@ -46,7 +46,7 @@ I dont want to make this document sound like we are the only ones to have ever n
 
 Cooperatives, usually have little margin to continue expansion and get capped around Dunbar's number of 150-250 people before administrative drag grinds everything to a halt.
 
-Network marketing, most companies have non-compete clauses inside of their contracts. Meaning, you are limited purely to the products within the system. Additionally, you have little control over the products being created and sold, just over what you choose to sell. You cannot come into an existing networn and improve it dramatically and receive compensation for doing so. For many, they don't mind these. They actually see them as features, as it means it is less to worry about. I dont blame them for that. Ive had phenomenal results with network marketing, im an advocate for the industry. But, there is something structural holding it back from becoming the new standard of work.
+Network marketing, most companies have non-compete clauses inside of their contracts. Meaning, you are limited purely to the products within the system. Additionally, you have little control over the products being created and sold, just over what you choose to sell. You cannot come into an existing network and improve it dramatically and receive compensation for doing so. For many, they don't mind these. They actually see them as features, as it means it is less to worry about. I dont blame them for that. Ive had phenomenal results with network marketing, im an advocate for the industry. But, there is something structural holding it back from becoming the new standard of work.
 
 We identified that if a system is going to replace the old system, it must address three key areas.
 
@@ -69,12 +69,6 @@ Money is simply a tangible form of created value. If one person wants what you h
 
 When individuals going a similar direction band together, they make an organization. When they find a way to collectively make money, they can distribute it so they can focus on just the task at hand rather than do other things to earn a living. That is the foundation of a business. As more work needs done, they bring on more people. That is how a business grows. A business is just transactions at scale, with individual contributors getting their individual cuts.
 
-Individuals are, ultimately, looking for something out of their life, whether they know it or not. They have a *direction* they are going in life. Some want to club, others want to create things, others want a family, we all have our own core desires that make us, us. When we find others who share our vision, we naturally gravitate towards them, because we instinctively know we are more likely to get it when we work together. You have your strengths and weaknesses, I have mine. Where we are weakest, the other is strongest. This multiplies, not adds our output.
-
-Money is simply a tangible form of created value. If one person wants what you have more than what they have, and vice versa, you do an exchange. This is a transaction. If they want your shoes you made more than their money, they give you their money for your shoes. Each receives what they wanted more than what they had. Value was created. You then use that money to buy more materials for more shoes, spend it on living expenses, store it for a rainy day, etc. But instinctively we know, as money is a universal, exchange of value, the more we have of it, the more we can get out of life.
-
-When individuals going a similar direction band together, they make an organization. When they find a way to collectively make money, they can distribute it so they can focus on just the task at hand. That is the foundation of a business. As more work needs done, they bring on more people. That is how a business grows. A business is just transactions at scale, with individual contributors getting their individual cuts.
-
 If that is the foundation, where did we go wrong?
 
 ## Where it went Wrong
@@ -88,9 +82,7 @@ Simply put, since its inception, people hated it. It was ineffective. They wante
 
 Because of this reality, they couldn't "teach an old dog new tricks", so they turned to the school system. If they couldn't get people who were used to autonomy to fit into this machine-first paradigm, they had to condition a more moldable people: children. Kids didn't know any better. They didn't know anything different. Thus... they came for our kids.
 
-Why do you think schools have bells between classes? Why are kids are set in rows, taught go be quiet and respect authority? Why the questions are convergent in nature, having one right answer, rather than divergent, having many right answers? We have been trained to believe a good human is a *compliant* human.
-
-Why do you think schools have bells between classes? Kids are set in rows, taught go be quiet and respect authority? That the questions are convergent in nature, having one right answer, rather than divergent, having many right answers. We have been trained to believe a good human is a *compliant* human.
+Why do you think schools have bells between classes? Why are kids are set in rows, taught to be quiet and respect authority? Why the questions are convergent in nature, having one right answer, rather than divergent, having many right answers? We have been trained to believe a good human is a *compliant* human.
 
 *We don't know any different because we were trained that way from birth, by parents who themselves didn't know any different.*
 
@@ -153,7 +145,7 @@ The leads of those cells debate and discuss with each other how to split the COF
 
 Leads are elected through an STV election system, allowing one or multiple leads per unit that more accurately represents the whole.
 
-Again, the full details on these are inside the [[The Governance Framework]] and [[The Unit Framework]].
+Again, the full details on these are inside the [[The Governance Framework]] and [[The Cell Framework]].
 
 These three frameworks on their own allow the companies within the firm to be far more efficient than any traditional business and compensation structure.
 

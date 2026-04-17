@@ -51,7 +51,7 @@ Compensation under this framework operates across three distinct layers, each se
 |---|---|---|---|
 |**Layer**|**Mechanism**|**Frequency**|**Purpose**|
 |Layer 1: The Minimum Pay Guarantee|Guaranteed weekly floor; shortfall credited against future earnings, with opt-out available for supplemental earners|Weekly|Security and stability|
-|Layer 2: The Value Share|Per-transaction points × share of that transaction’s gross margin|Weekly|Direct reward for productivity|
+|Layer 2: The Value Share|Per-unit points × share of that unit’s gross margin|Weekly|Direct reward for productivity|
 |Layer 3: The Ownership Stake|Quarterly profit share + Class B dividends (paid in the same quarterly distribution), with option to mint equity shares via investment|Quarterly|Long-term alignment and compounding wealth|
 
 ## 2.1 — Layer 1: The Minimum Pay Guarantee
@@ -79,23 +79,23 @@ This is the primary compensation mechanism and the engine of the entire model. I
 
 ### The Formula
 
-Layer 2 pay is calculated **per transaction, not as a weekly pool divided among everyone**. Each completed transaction generates its own labor pool from its own gross margin. Each participant earns from each transaction based on the specific points they earned on that specific transaction. Weekly pay is simply the sum of those per-transaction earnings across the week.
+Layer 2 pay is calculated **per unit of work, not as a weekly pool divided among everyone**. Each completed unit of work generates its own labor pool from its own gross margin. Each participant earns from each unit based on the specific points they earned on that specific unit. Weekly pay is simply the sum of those per-unit earnings across the week.
 
-This distinction is structurally important. A weekly pool model would reward participants based on the weekly average rather than their individual performance on each job. A per-transaction model rewards the specific person who created the specific value on the specific ticket.
+This distinction is structurally important. A weekly pool model would reward participants based on the weekly average rather than their individual performance on each job. A per-unit model rewards the specific person who created the specific value on the specific ticket.
 
 |   |   |
 |---|---|
 |**Component**|**Calculation**|
-|Transaction Gross Margin|Transaction Subtotal − Transaction Cost of Goods|
-|Transaction Labor Pool|Transaction Gross Margin × COF Rate|
-|Individual Share of Transaction|(Your Points on This Transaction ÷ Total Points on This Transaction) × Transaction Labor Pool|
-|Weekly Pay|Sum of your individual shares across all transactions that week|
+|Unit Gross Margin|Unit Subtotal − Unit Cost of Goods|
+|Unit Labor Pool|Unit Gross Margin × COF Rate|
+|Individual Share of Transaction|(Your Points on This Unit ÷ Total Points on This Unit) × Unit Labor Pool|
+|Weekly Pay|Sum of your individual shares across all units that week|
 
-The dollar value of a single contribution point is not fixed. It floats based on the actual gross margin of each individual transaction. A high-margin ticket makes every point on that ticket worth more. A low-margin ticket makes every point on that ticket worth less. This is self-regulating: labor costs scale proportionally with each transaction’s revenue, and every participant intuitively understands the connection between each specific job they work on and what they personally earn from it.
+The dollar value of a single contribution point is not fixed. It floats based on the actual gross margin of each individual unit. A high-margin ticket makes every point on that unit worth more. A low-margin ticket makes every point on that unit worth less. This is self-regulating: labor costs scale proportionally with each unit’s revenue, and every participant intuitively understands the connection between each specific unit they work on and what they personally earn from it.
 
-### Why Per-Transaction
+### Why Per-Unit
 
-A participant who consistently handles larger, more complex, or more profitable tickets earns proportionally more than one who handles smaller ones, even if they complete the same number of jobs. A participant who adds value to a ticket — by successfully recommending an additional service, diagnosing a secondary issue the customer didn’t know about, or converting a walk-in into a full repair — directly benefits from that added value on that specific ticket, rather than seeing it diluted across everyone who worked that week. The incentive to grow individual transactions is structural, not aspirational.
+A participant who consistently handles larger, more complex, or more profitable units of work earns proportionally more than one who handles smaller ones, even if they complete the same number of jobs. A participant who adds value to a unit of work — by successfully recommending an additional service, diagnosing a secondary issue the customer didn’t know about, or converting a walk-in into a full repair — directly benefits from that added value on that specific unit, rather than seeing it diluted across everyone who worked that week. The incentive to grow individual transactions is structural, not aspirational.
 
 ### Why Gross Margin
 
@@ -115,9 +115,9 @@ Each quarter, 20% of the subsidiary’s **net profit** (after all operating expe
 
 Each person’s share of this distribution is determined by their cumulative Layer 2 earnings over that quarter, divided by the total Layer 2 earnings of all participants in that subsidiary. This is the most direct form of long-term incentive: it rewards the team for managing the full P&L of their own business, not just the gross margin.
 
-**Why Layer 2 earnings, not raw points.** Profit share at every layer — unit, subsidiary, and office — is calculated using Layer 2 dollar earnings as the divisor, not raw point totals. This is a deliberate design decision that matters once the system operates across multiple units or subsidiaries. Different teams will calibrate their point values differently based on their own internal logic. One unit might assign 7 points to a standard repair; another might assign 100 points to the same work. If profit share were divided by raw point totals, the unit with inflated point values would claim a disproportionate share of the pool — not because they did more valuable work, but because of how they calibrated their internal system. Layer 2 dollar earnings normalize this automatically. The dollars reflect the actual value produced and the actual pool share earned, regardless of the underlying point system. This allows every team full autonomy to calibrate points however makes sense for their work while keeping the profit share distribution honest across the portfolio.
+**Why Layer 2 earnings, not raw points.** Profit share at every layer — cell, subsidiary, and office — is calculated using Layer 2 dollar earnings as the divisor, not raw point totals. This is a deliberate design decision that matters once the system operates across multiple cells or subsidiaries. Different teams will calibrate their point values differently based on their own internal logic. One cell might assign 7 points to a standard repair; another might assign 100 points to the same work. If profit share were divided by raw point totals, the cell with inflated point values would claim a disproportionate share of the pool — not because they did more valuable work, but because of how they calibrated their internal system. Layer 2 dollar earnings normalize this automatically. The dollars reflect the actual value produced and the actual pool share earned, regardless of the underlying point system. This allows every team full autonomy to calibrate points however makes sense for their work while keeping the profit share distribution honest across the portfolio.
 
-_In multi-unit subsidiaries, this 20% may be split into two halves — 10% from the unit's own performance and 10% from the subsidiary's consolidated performance — when the team votes to adopt the split structure. This preserves local accountability while maintaining cross-unit alignment. See [[The Unit Framework#Unit-Level Profit Sharing|The Unit Framework, Unit-Level Profit Sharing]] for details._
+_In multi-cell subsidiaries, this 20% may be split into two halves — 10% from the cell's own performance and 10% from the subsidiary's consolidated performance — when the team votes to adopt the split structure. This preserves local accountability while maintaining cross-cell alignment. See [[The Cell Framework#Cell-Level Profit Sharing|The Cell Framework, Cell-Level Profit Sharing]] for details._
 
 ### Layer 3b: Family Office Profit Share (20% of Faleth Capital Net Profit)
 
@@ -125,7 +125,7 @@ Separately, 20% of Faleth Capital’s **consolidated net profit** is distributed
 
 This second layer means that everyone benefits from the health of every subsidiary, not just their own. A technician at Free Range Repair has a financial interest in whether the pool cleaning division is running efficiently, because it affects the consolidated profit that drives their office-level payout. The incentive to care about the whole enterprise is structural, not aspirational.
 
-Consolidated net profit includes growth generated by Managed Capital Accounts — the returns produced by outside investors’ money count toward the pool from which all participants are paid. This is a deliberate inversion of the standard private equity arrangement, where performance fees and fund returns flow exclusively to the managing partners. Here, the logic runs the other way: outside capital performs well because the subsidiaries perform well, and the subsidiaries perform well because the team performs well. The profit share reflects that chain of cause and effect. The people doing the work earn from the full scope of what they built, not just the slice of it that lives inside their own subsidiary.
+Consolidated net profit includes growth generated by Class C managed capital — the returns produced by outside investors’ money count toward the pool from which all participants are paid. This is a deliberate inversion of the standard private equity arrangement, where performance fees and fund returns flow exclusively to the managing partners. Here, the logic runs the other way: outside capital performs well because the subsidiaries perform well, and the subsidiaries perform well because the team performs well. The profit share reflects that chain of cause and effect. The people doing the work earn from the full scope of what they built, not just the slice of it that lives inside their own subsidiary.
 
 ### The Remaining Faleth Capital Allocation
 
@@ -250,29 +250,29 @@ _Full election mechanics — the proportional election model, how multiple Leads
 |Net Profit|What remains after all costs, royalties, and profit share are deducted|
 |PC Royalties|Royalties paid to the parent company|
 
-## 4.2 — Per-Transaction Payout Walkthrough
+## 4.2 — Per-Unit Payout Walkthrough
 
-The following example illustrates how Layer 2 pay is calculated on a single transaction. All numbers are illustrative.
+The following example illustrates how Layer 2 pay is calculated on a single unit of work. All numbers are illustrative.
 
 **Scenario:** A customer brings in a phone for a screen replacement at $300, with $150 in parts cost. The shop’s COF rate is 30% of gross margin.
 
 |   |   |
 |---|---|
 |**Step**|**Amount**|
-|Transaction Subtotal|$300|
+|Unit Subtotal|$300|
 |Cost of Goods|$150|
 |Gross Margin|$150|
-|Transaction Labor Pool (Gross Margin × 30% COF)|$45|
+|Unit Labor Pool (Gross Margin × 30% COF)|$45|
 
-Suppose the total points for this transaction across all processes involved sum to 7.2, and a technician who performed the diagnosis and repair earned 6 of those points. Their share of this transaction is:
+Suppose the total points for this unit of work across all processes involved sum to 7.2, and a technician who performed the diagnosis and repair earned 6 of those points. Their share of this unit of work is:
 
-- 6 ÷ 7.2 = 83.3% of the $45 pool = **$37.50 earned on this ticket**
+- 6 ÷ 7.2 = 83.3% of the $45 pool = **$37.50 earned on this unit**
 
-A second participant who handled the check-in and check-out earned the remaining 1.2 points, or **$7.50** from the same transaction.
+A second participant who handled the check-in and check-out earned the remaining 1.2 points, or **$7.50** from the same unit of work.
 
-A larger ticket produces a larger pool. If the same customer also buys a case and screen protector, bringing the subtotal to $360 with $180 in total COG, the transaction labor pool grows to $54 instead of $45. Whoever earns points on that larger ticket earns proportionally more from it. This is how the system rewards behaviors that grow individual transactions: the person who added the accessories to the ticket directly benefits from the larger pool on that specific job.
+A larger ticket produces a larger pool. If the same customer also buys a case and screen protector, bringing the subtotal to $360 with $180 in total COG, the unit labor pool grows to $54 instead of $45. Whoever earns points on that larger unit of work earns proportionally more from it. This is how the system rewards behaviors that grow individual transactions: the person who added the accessories to the ticket directly benefits from the larger pool on that specific job.
 
-Weekly pay is simply the sum of these per-transaction earnings across every transaction the participant touched during the week. There is no separate weekly pool calculation. The weekly total emerges from the individual transactions.
+Weekly pay is simply the sum of these per-unit earnings across every unit of work the participant touched during the week. There is no separate weekly pool calculation. The weekly total emerges from the individual units of work.
 
 ## 4.3 — Quarterly Profit Share Walkthrough
 

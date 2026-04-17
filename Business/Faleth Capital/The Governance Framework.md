@@ -2,7 +2,7 @@
 
 **FRAMEWORK**
 
-_How Subsidiaries, Units, and the Office_
+_How Subsidiaries, Cells, and the Office_
 
 _Make Decisions, Resolve Disputes,_
 
@@ -14,7 +14,7 @@ Internal Framework Document
 
 Version 1.0 — Draft
 
-_This document governs the election of Leads, the resolution of disputes, and the quarterly recalibration process across all subsidiaries and units. For the compensation mechanics that governance parameters control, see [[The Contribution Framework]]. For how units govern themselves relative to each other, see [[The Unit Framework]]. For office-level governance — Class A voting, amendments, and the quarterly earnings call — see [[Faleth Capital Constitution#Article IV Governance|Article IV of the Constitution]]._
+_This document governs the election of Leads, the resolution of disputes, and the quarterly recalibration process across all subsidiaries and cells. For the compensation mechanics that governance parameters control, see [[The Contribution Framework]]. For how cells govern themselves relative to each other, see [[The Cell Framework]]. For office-level governance — Class A voting, amendments, and the quarterly earnings call — see [[Faleth Capital Constitution#Article IV Governance|Article IV of the Constitution]]._
 
 ---
 
@@ -40,14 +40,14 @@ The proportional election model solves this by giving every meaningful faction o
 
 Lead elections use **Ranked Choice Voting** — specifically the multi-winner form known as the Single Transferable Vote (STV). Rather than casting a single vote for one candidate, each participant ranks as many candidates as they want in order of preference: first choice, second choice, third, and so on. Ranking only one candidate is perfectly valid. No one is required to rank anyone they don’t want to support.
 
-The team sets an **election threshold** during initial setup, reviewed at each re-election. Any candidate whose vote share meets or exceeds the threshold is elected. The threshold determines how many Leads tend to emerge.
+The team sets an **election threshold** during initial setup, reviewed at each annual re-election. Any candidate whose vote share meets or exceeds the threshold is elected. The threshold determines how many Leads tend to emerge.
 
 **The mechanics:**
 
 1. Each participant submits a ranked ballot. Write-in candidates are permitted.
 2. First-choice votes are tallied and expressed as percentages of total votes cast.
 3. Any candidate meeting or exceeding the threshold is elected immediately.
-4. The candidate with the fewest first-choice votes is eliminated. Each of their voters’ ballots transfers to whoever that voter ranked next, to the remaining candidates.
+4. The candidate with the fewest first-choice votes is eliminated. Each of their voters’ ballots transfers to whoever that voter ranked next among the remaining candidates.
 5. Percentages are recalculated. Any candidate now meeting the threshold is elected.
 6. Repeat steps 4–5 until no remaining candidate can reach the threshold.
 
@@ -111,7 +111,7 @@ The confidence vote is a low-friction accountability mechanism. Its existence ma
 
 ## 3.2 — Scheduled Re-Elections
 
-In addition to confidence votes, the team holds scheduled re-elections at a regular interval. Suggested cadence: annually, or at every quarterly conference. The team sets this interval during initial setup.
+In addition to confidence votes, the team holds scheduled re-elections at a regular interval. Suggested cadence: annually, or at every fourth quarterly recalibration. The team sets this interval during initial setup.
 
 Re-elections are not disciplinary. They are routine. Every participant — including current Leads — stands for re-election. The threshold is re-evaluated at this time. If the team's composition or dynamics have changed, the threshold may need to change too.
 
@@ -137,7 +137,7 @@ Most disagreements resolve through open discussion. When they do not, a simple m
 
 **Option 1 — The Parallel Trial.** Run both proposed values simultaneously for one quarter. Track the actual outcomes: how many completions, what impact on weekly earnings, what effect on behavior. At the end of the quarter, the data makes the case better than any argument. The team votes again with real evidence rather than competing intuitions. This approach is slower but more durable — a decision the minority helped make tends to stick.
 
-**Option 2 — Unit Split.** If the disagreement is persistent and deep enough that it cannot be resolved by data — if it reflects a genuine difference in how two factions understand the work — it may be evidence that the two factions are doing work that the current structure is not capturing cleanly. A unit split divides them into separate pools with separate governance, where each can calibrate their own economics. The split does not end the relationship between them. It gives each group ownership over their own parameters while the subsidiary-layer point negotiation between Leads handles the interface. See [[The Unit Framework#Section 5 Scaling Triggers|Section 5 of the Unit Framework]] for when a unit split is structurally warranted.
+**Option 2 — Cell Split.** If the disagreement is persistent and deep enough that it cannot be resolved by data — if it reflects a genuine difference in how two factions understand the work — it may be evidence that the two factions are doing work that the current structure is not capturing cleanly. A cell split divides them into separate pools with separate governance, where each can calibrate their own economics. The split does not end the relationship between them. It gives each group ownership over their own parameters while the subsidiary-layer point negotiation between Leads handles the interface. See [[The Cell Framework#Section 5 Scaling Triggers|Section 5 of the Cell Framework]] for when a cell split is structurally warranted.
 
 ## 4.3 — Baseline Expectations vs. Pointed Activities
 
@@ -149,7 +149,7 @@ The boundary between what gets a point value and what is simply expected of ever
 
 ## 5.1 — Purpose
 
-The quarterly recalibration is the primary governance event for every subsidiary and unit. It is not optional. It is built into the operating rhythm of the business as the mechanism by which the team keeps the framework calibrated to reality.
+The quarterly recalibration is the primary governance event for every subsidiary and cell. It is not optional. It is built into the operating rhythm of the business as the mechanism by which the team keeps the framework calibrated to reality.
 
 Markets change. The team composition changes. Technology changes. A framework that cannot adapt will eventually break. The recalibration is how it adapts.
 
@@ -207,8 +207,8 @@ _The governance mechanics in this document interact with the following sections 
 | What point values are and how they work | [[The Contribution Framework#Section 3 The Contribution Point System\|Contribution Framework, Section 3]] |
 | What the Lead does operationally | [[The Contribution Framework#3.5 — The Elected Lead\|Contribution Framework, Section 3.5]] |
 | Quarterly recalibration questions | [[The Contribution Framework#Section 5 Governance\|Contribution Framework, Section 5]] |
-| Unit-level vs. subsidiary-level governance | [[The Unit Framework#Section 4 Governance Across Units\|Unit Framework, Section 4]] |
-| Unit split as structural resolution | [[The Unit Framework#Section 5 Scaling Triggers\|Unit Framework, Section 5]] |
+| Cell-level vs. subsidiary-level governance | [[The Cell Framework#Section 4 Governance Across Cells\|Cell Framework, Section 4]] |
+| Cell split as structural resolution | [[The Cell Framework#Section 5 Scaling Triggers\|Cell Framework, Section 5]] |
 | Office-level decisions and Class A voting | [[Faleth Capital Constitution#Article IV Governance\|Constitution, Article IV]] |
 | Quarterly earnings call structure | [[Faleth Capital Constitution#4.4 — Quarterly Earnings Call\|Constitution, Section 4.4]] |
 

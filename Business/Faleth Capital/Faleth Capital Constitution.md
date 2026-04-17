@@ -62,16 +62,16 @@ There are two distinct skills in business that most systems treat as one. The fi
 
 Network marketing teaches the first skill beautifully. You start with zero. You learn to build through positive reinforcement rather than negative. Your income compounds through overrides on the sales of the network you created. It is one of the few business models where anyone, regardless of background or capital, can enter and build something real. We value it for exactly that reason, and it is a deliberate part of the participant pipeline.
 
-But network marketing has a structural limitation: the hierarchy is permanent. Your position in the tree is your position forever. The person who plugs into an existing network and makes it dramatically better has no path to recognition proportional to their contribution. You can earn based on the volume flowing through the network you create, but there is no incentive (outside of goodwill) for your team to strengthen your overall network.
+But network marketing has a structural limitation: the hierarchy is permanent. Your position in the tree is your position forever. If someone joins later who is more capable, more connected, or more effective than the person above them, the structure has no way to reflect that. The upline earns overrides on the downline regardless of who is actually generating the value. The person who plugs into an existing network and makes it dramatically better has no path to recognition proportional to their contribution.
 
 The [[The Contribution Framework|Contribution Framework]] handles this portion. Someone who walks into an existing subsidiary, identifies a gap, and fills it earns contribution points proportional to the value they added. They didn't build the network. They made the network better. The math doesn't care when they arrived or who brought them in. And the Elected Lead system ensures that hierarchy itself is earned and re-earned continuously, not assigned once and frozen in place.
 
-This is not anti-hierarchy. It is anti-static hierarchy. A hierarchy that evolves based on demonstrated value is meritocracy with accountability. The most natural human systems — from the mammoth hunt to the most effective modern teams — are ones where leadership is earned and re-earned, where the chief is the chief because the group respects them, and where someone who stops earning that respect makes way for someone who will.
+This is not anti-hierarchy. It is anti-static hierarchy. A hierarchy that evolves based on demonstrated value is meritocracy with accountability. A hierarchy that is frozen in place is feudalism with better marketing. The most natural human systems — from the mammoth hunt to the most effective modern teams — are ones where leadership is earned and re-earned, where the chief is the chief because the group respects them, and where someone who stops earning that respect makes way for someone who will.
 
 Network marketing teaches you to build. The Contribution Framework rewards you for building and for strengthening what others have built. Together, they produce people who can do both. That is the kind of person who is ready to start a subsidiary.
 
 ### Why Network Marketing
-The reasoning behind "why network marketing" is remarkably simple. There is simply no other business model on earth that directly compensates you on helping others become successful. In a good network marketing business, with a good compensation plan, you don't earn for recruiting (if you do, I encourage you to walk away slowly). You earn for product moving. You earn for teach others to move product. You earn for teaching others how to teach others.
+The reasoning behind "why network marketing" is remarkably simple. There is simply no other business model on earth that directly compensates you on helping others become successful. In a good network marketing business, you don't earn for recruiting. You earn for product moving. You earn for teach others to move product. You earn for teaching others how to teach others.
 
 But why most who build it don't actually receive passive income is because in order to make it passive, *you must learn how to build others to the point they no longer need you.* They are making money on their own accord, through their own skills, that you helped to teach them. If they are experiencing success, the likelihood they end up leaving your network is low. If you never help them succeed, the likelihood is high.
 
@@ -79,7 +79,7 @@ You must build people through purely positive reinforcement. You hold no leverag
 
 Can it be built incorrectly? Can it be abused? Absolutely. Anything can. Especially a system that allows radical freedom over how you build and manage it. That is the very unfortunate reality of freedom. It will happen eventually to our system as well, no matter how hard we try to systematically remove toxic elements from the culture.
 
-As a side note: The cruel reality is that there are simply toxic people out in the world. A toxic person in a good system will ultimately taint it. No matter how hard you try to keep them out of your culture, they will eventually rear their ugly head. It requires vigilance. Dark is the absence of light. Light is an intentional act. It requires energy to produce light. It requires effort to be a good force in the world, to push back against the forces of evil. This isn't a systemic flaw, it is a worldly flaw. A people flaw. And unfortunately, toxic people are nomads. Despite composing a statistical minority of the population, they get around. Many experience the few. But we have to be vigilant to not let them make you toxic too.
+As a side note: The cruel reality is that there are simply toxic people out in the world. A toxic person in a good system will ultimately taint it. No matter how hard you try to keep them out of your culture, they will eventually rear their ugly head. It requires vigilance. Dark is the absence of light. Light is an intentional act. It requires energy to produce light. It requires effort to be a good force in the world, to push back against the forces of evil. This isn't a systemic flaw, it is a worldly flaw. A people flaw. And unfortunately, toxic people are nomads. Despite composing a statistical minority of the population, they get around. Many people experience the few. But we have to be vigilant to not let them make you toxic too.
 
 Back down to earth and network marketing, again: The system isn't perfect. No system is.
 
@@ -111,6 +111,29 @@ The idea is to start in both systems simultaneously. Build both. By the time one
 
 This is the path to wealth accessible to just about anyone. It does not mean everyone will walk it. But it lowers the barrier further than any single model can on its own. Network marketing stops being just a "quit your job" side hustle and becomes what it works best as: your true business education and your entry into wealth. And the Contribution Framework stops being just a better paycheck and becomes what it is designed to be: the launchpad for ownership.
 
+### The Five-Step Blueprint
+
+The full vision of how this system is meant to be walked, from nothing to generational wealth, can be distilled into five sequential steps. These are not arbitrary stages. Each one builds the foundation for the next. Each one is designed to be started and developed while the previous one is still in progress.
+
+**Step 1: Start in network marketing.**
+Before anything else, start building a network marketing business. Not because it will make you rich quickly — it won’t. Because it is the only business model on earth that will pay you, from day one, to develop the skills that every other part of this system depends on: leadership, personal development, the ability to build others up, and the discipline of building a business through purely positive reinforcement. It is the foundational education. Start it first.
+
+**Step 2: Maximize active income through work or a Faleth Capital subsidiary.**
+While building your network marketing business, maximize your active income — either through your current work or by joining a Faleth Capital subsidiary under the Contribution Framework. This covers your living expenses, removes desperation from your decisions, and begins building Bucket Two. The no-time-clock model gives you the flexibility to work both simultaneously without one cannibalizing the other.
+
+**Step 3: Build your network marketing business to full-time passive income.**
+Continue building until your network marketing income reaches a level that can fully fund Bucket One on its own — passive overrides flowing into land, index funds, and stable long-term assets regardless of what else is happening in your life. This is your floor. Once this step is complete, your family is covered no matter what. You can now take real risks because the downside is protected.
+
+**Step 4: Maximize active income through your own business.**
+With Bucket One secured and your foundation in place, you are ready to launch your own subsidiary under Faleth Capital. The office funds it. An existing member mentors you. You operate it with full autonomy under the Contribution Framework. Your network marketing income keeps Bucket One covered while the new business finds its footing. Your dividends and profit share fund Bucket Two while the subsidiary grows toward profitability.
+
+**Step 5: Grow both simultaneously and indefinitely.**
+There is no finish line. Both systems compound in parallel — the network marketing business maturing and self-replicating, the subsidiary growing and eventually generating enough income for you to step back and start another. As personal wealth accumulates, the Managed Capital Account structure manages it through the same office, the same philosophy, the same people. The system that helped you build it now stewards it. You begin mentoring the next person through Step 1.
+
+This is the path. Not everyone will walk all five steps. Not everyone needs to. But anyone can, and this system is built so that each step is accessible to someone who has completed the one before it. The barrier at every stage is effort and time, not capital or connections. That is by design.
+
+
+
 ## 1.6 — The Five-Step Personal Blueprint
 
 The organizational pipeline describes how Faleth Capital works. This is the personal roadmap for how an individual moves through that system from nothing to financial freedom. It is not the only way to walk this path. It is the most direct one we know of.
@@ -130,7 +153,7 @@ With Bucket One secured and a growing equity stake from years of contribution-ba
 **Step 5: Grow both simultaneously, indefinitely.**
 There is no finish line. Both systems continue to grow. The subsidiary matures, generates profit share, expands. The network marketing business compounds, feeds Bucket One, grows toward a legacy that outlasts your involvement. The equity stake appreciates and throws off dividends. Each system makes the other more durable. Each year that passes, the floor gets higher and the ceiling gets further away.
 
-This is not a sequence to rush through. Each step is designed to be completed fully before the next is attempted. The people who skip steps — who try to launch a subsidiary before Bucket One is built, or who never start network marketing because it feels slow — are starting from desperation rather than strength. The blueprint is patient by design. The rewards compound accordingly. For what this looks like practically is precisely what the next section covers.
+This is not a sequence to rush through. Each step is designed to be completed fully before the next is attempted. The people who skip steps — who try to launch a subsidiary before Bucket One is built, or who never start network marketing because it feels slow — are starting from desperation rather than strength. The blueprint is patient by design. The rewards compound accordingly.
 
 ## 1.7 — The Pipeline
 
@@ -149,7 +172,7 @@ For a participant walking the builder's path, the full sequence looks like this:
 1. Join any subsidiary at any level and earn contribution-based pay (Layer 2: weekly value share).
 2. Build wealth through two layers of quarterly profit sharing — one from their subsidiary, one from the family office — with the option to mint equity shares at each.
 3. Use the freedom of a no-time-clock model to build a network marketing business or other venture on the side, developing entrepreneurial skills.
-4. Once their dividend income and network marketing income are both returning enough to cover all their living expenses with margin, they can start their own business funded and owned by Faleth Capital, mentored by existing office members.
+4. When ready, start their own business funded and owned by Faleth Capital, mentored by existing office members.
 5. Once that business has sustained meaningful profitability for the office over time (see Section 3.1), earn Class A membership and a seat at the table.
 6. As a member, mentor the next generation of business builders for a share of the mentoring fees, completing the cycle.
 7. As personal wealth accumulates, have the same family office manage it through the Managed Capital Account (MCA) structure — the same team, the same philosophy, the same structural safeguards, without needing to find an outside wealth manager.
@@ -250,7 +273,7 @@ When a member mentors a new subsidiary founder, they receive 20% of the parent c
 
 Faleth Capital's office-level decisions are made by Class A members. These include:
 
-- Approval of new subsidiary funding.
+- Approval of new subsidiary funding and acquisitions.
 - Amendments to this constitution.
 - Changes to the parent company fee structure.
 - Changes to the 20/30/50 allocation split.
@@ -453,6 +476,6 @@ The operational mechanics of Faleth Capital are detailed in the following compan
 - [[The Governance Framework]] — Lead elections, the proportional election model, dispute resolution, and quarterly recalibration procedures
 - [[The Financial Framework]] — Parent company fees, subsidiary and office financial flows, the 20/30/50 allocation, structural redundancy, liquidity reserve
 - [[The Equity Framework]] — Share classes, mint-and-burn mechanics, book value pricing, dilution factor, Managed Capital Account structure
-- [[The Unit Framework]] — How subsidiaries organize into modular, self-governing units as they scale beyond a single team
+- [[The Cell Framework]] — How subsidiaries organize into modular, self-governing cells as they scale beyond a single team
 - [[The Acquisition Transition Framework]] — How existing businesses are brought into the portfolio with dignity and voluntary participation
 - [[The Marketing and Brand Framework]] — The referral program, the Prosumer principle, brand standards, and how customers can enter the wealth-building pipeline

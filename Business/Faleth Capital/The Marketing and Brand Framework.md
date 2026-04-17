@@ -113,7 +113,6 @@ The distinction is that traditional COA buys a transaction. The referral program
 
 This reframes the referral program not as a cost of generosity but as a disciplined deployment of acquisition budget toward the highest-quality customer relationships available.
 
-<<<<<<< HEAD
 ## 2.7 — Subsidiary-Level Incentive Programs
 
 The portfolio-level referral program described in this section is one tool, not the only tool. It is designed for a specific context: recurring, ambient household expenses in consumer-facing service businesses where the customer was going to spend the money somewhere regardless — cleaning, landscaping, pool maintenance, meal services. In those businesses, a 20% indefinite referral incentive is compelling because the alternative is paying the same money to a competitor with no benefit to the person who recommended them.
@@ -129,11 +128,6 @@ A phone repair shop, for example, has a different customer dynamic: purchases ar
 This is one example of many. The principle is the same as the portfolio-level program — customers who generate value should share in it — but the mechanics are calibrated to the actual economics and customer behavior of the specific business.
 
 Subsidiaries designing their own incentive programs should ensure the structure fits within their COA budget, does not create obligations that outlast the revenue they were intended to generate, and remains simple enough to explain clearly to a customer in a single conversation. The office does not approve these programs, but they should be documented and shared at the quarterly conference so the portfolio can learn from what works.
-=======
----
-
-# Section 3: Financial Guardrails
->>>>>>> origin/main
 
 ## 3.1 — Where the Referral Program Applies
 
@@ -199,7 +193,7 @@ The structure is designed to serve multiple functions simultaneously:
 
 **Governance first.** The shareholder meeting opens the conference. Office-level decisions are made, financials are presented, the dilution factor is reported, and amendments are voted on. This is not buried or minimized — it is the foundation that makes everything else credible.
 
-**Cross-pollination.** Subsidiaries gather, either by industry cluster or portfolio-wide, to share what they have learned. The repair shop that cracked upsell conversion presents to the group. The cleaning subsidiary that found a better parts sourcing model shares the approach. Knowledge that stays siloed inside one unit stops compounding. The conference is where it escapes.
+**Cross-pollination.** Subsidiaries gather, either by industry cluster or portfolio-wide, to share what they have learned. The repair shop that cracked upsell conversion presents to the group. The cleaning subsidiary that found a better parts sourcing model shares the approach. Knowledge that stays siloed inside one cell stops compounding. The conference is where it escapes.
 
 **Recognition.** Rising stars and rising subsidiaries are recognized publicly. The keynote format — whether internal rising leaders or occasional outside speakers — centers contribution and growth rather than tenure or title. What gets celebrated here signals what the system actually values.
 

@@ -101,3 +101,39 @@ Manipulation is a version of fear, because you are afraid of being honest
 *The better your people skills, the more tempted you are to manipulate*
 All good things come from God. He blessed you with what you have got. The enemy wants you to use your skills to glorify him instead.
 This business, this room is incredible, it needs no manipulation
+
+# Night Owl
+The business is so hard when you are working with the wrong people, but you can get down because of your downline's energy. You have to protect your own energy. Right people run with you.
+## Justin Gorby
+If you dont know what you are looking for, what you want, you cant have a harvest mindset, a long term mentality. Then, it becomes a laborer mentality
+People get in a relationship, and when there isnt a common purpose to begin with, it blows up in their face
+If the man isnt in the presence of God, he isnt qualified to date you yet. Adam was placed in the garden in the presence of God. Work means to become in Hebrew. God told him to go become, He gave him purpose. THEN God gave him Eve. THEN He saw that he was alone and that was not good.
+You have to be in the presence of God, becoming yourself, then God gives you your Eve (Sabrina)
+You need to know what you want so you can get into agreement. With Jesus, your wife, your coaches. With this, you can get into a harvesting mindset.
+People tie work to pain, they dread work. They dont know what they want and haven't gotten into agreement on it.
+If a farmer sows seed out of fear, he wont plant much. If he goes with a harvest mindset, he will plant as much as he can.
+You need a common purpose with your wife.
+You are a liar if you are withholding truth, they can smell it from a mile away
+People are attracted to people like Alex Hormozi or Andy Elliott because they dont care, they will tell the truth
+Your fear of man is the cause of your revolving door in your business
+When you feel it in your gut to call out your guest, but you dont, and he is gone...
+"Crucial Accountability" -book
+"Is this going to be a consistent habit? Cause if so i don't want you on my team." That confidence is attractive to people. If it is unsettling, they know they will grow.
+*Respond to negativity with confidence and what you are doing is a good thing. Question them, not yourself.*
+He texted the prospect, said "i havent heard from you, I cancelled the meeting"
+You cant get defensive about the business, they are being negative. There is no negative business, there is just something to be negative on.
+If you dont express your opinions, no one will get on your team
+When was the last time you expressed an honest opinion? Be direct.
+If they dont like them? Eff them.
+People follow you for being authentic. If you aren't authentic, you are a liar.
+When was the last time you were direct with someone like that? We cant disagree with someone and remain friends.
+Let me have a healthy relationship with death to let me be authentic
+If i smell something, im gonna say something
+A lot of you are just afraid.
+*The fruit of being direct is impact*
+Are you willing to have the conversation and care?
+When you are honest, you give someone an opportunity to commit to you long term.
+The very thing you fear is the thing you need to attack. Massive exposure to fear, to rejection. To go through all the crap.
+Stop doing things for the wrong reasons, trying to earn someone's respect, and they dont give it the way you want.
+"Screw me doing it for anyone other than God"
+"I've always built something to make someone else proud. Have you ever done that?" "No. Ive only just wondered what God thinks." He just wanted mens respect, but it is a little B mentality. What if he leaves in 3 years? What then?

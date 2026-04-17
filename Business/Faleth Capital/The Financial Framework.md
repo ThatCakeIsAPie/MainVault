@@ -112,13 +112,13 @@ The system creates three layers of financial incentive, each operating at a diff
 |---|---|---|---|
 |**Layer**|**Source**|**Frequency**|**Scope of Alignment**|
 |Layer 2|Gross margin × COF rate|Weekly|Your direct work, this week|
-|Layer 3a|20% of subsidiary net profit (or 10%/10% unit/subsidiary split in multi-unit subsidiaries)|Quarterly|Your unit and your subsidiary's overall health|
+|Layer 3a|20% of subsidiary net profit (or 10%/10% cell/subsidiary split in multi-cell subsidiaries)|Quarterly|Your cell and your subsidiary's overall health|
 |Layer 3b|20% of total pool growth|Quarterly|The entire portfolio's health|
 |Dividends|30% of office's share of pool growth + fees earned|Quarterly|Long-term enterprise value|
 
 Both profit share distributions (3a and 3b) are paid simultaneously each quarter. At each level, the participant independently chooses: take cash, mint Class B shares, or any combination. This means every quarter, a participant has four separate allocation decisions to make — two profit share payouts and two cash-or-mint choices. The flexibility is total.
 
-_In multi-unit subsidiaries, Layer 3a may be split into a 10% unit-level profit share and a 10% subsidiary-level profit share when the team votes to adopt the split structure. This adds a fourth scope of alignment — your unit's direct performance — without changing the total percentage. See [[The Unit Framework#Unit-Level Profit Sharing|The Unit Framework, Unit-Level Profit Sharing]] for details._
+_In multi-cell subsidiaries, Layer 3a may be split into a 10% cell-level profit share and a 10% subsidiary-level profit share when the team votes to adopt the split structure. This adds a fourth scope of alignment — your cell's direct performance — without changing the total percentage. See [[The Cell Framework#Cell-Level Profit Sharing|The Cell Framework, Cell-Level Profit Sharing]] for details._
 
 _For the mechanics of minting Class B shares with profit share, see [[The Equity Framework#Section 3 Minting|Section 3 of the Equity Framework]]._
 
