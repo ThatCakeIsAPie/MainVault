@@ -55,9 +55,13 @@ If a departed holder later returns to any subsidiary in the portfolio, they reta
 
 # Section 6: The Dilution Factor
 
-If shares can be minted continuously, the obvious question in any would-be investor's mind is "wouldn't my shares dilute?" The answer is yes. If more people mint shares in a quarter than get burned, your percentage of the overall shares get diluted. That being said, if the book value's growth exceeded the dilution, than even though your shares are diluted, their total value goes up. We don't hide this, we make it front and center. This dynamic is what we call the dilution factor.
+If shares can be minted continuously, the obvious question in any would-be investor's mind is "wouldn't my shares dilute?" The answer is yes. If more people mint shares in a quarter than get burned, your percentage of the overall shares get diluted.
 
-Each quarter, the dilution factor is calculated and reported in the earnings call. It measures whether the growth of the dividend pool outpaced the growth of shares outstanding.
+That being said, because of how the minting mechanism operates in the balance sheet, the price of your shares are completely unaffected by who is minting and burning. This is because if someone chooses to mint new shares, the cash stays in the asset column, and the value of the shares are simply added to the liability column, effectively zeroing out. If they choose to cash out instead, the cash is simply removed from the asset column. If they burn existing shares, the value of the shares are removed from both columns. No matter which way you cut it, it always totals to the same amount. Your shares only grow in value when the overall pool grows. They shrink if the pool shrinks. This single mechanism protects the value of the shares from speculation.
+
+However, what is worth stating explicitly is that what does get diluted is your share of the 30% quarterly dividend pool. If the office's total pool grew faster than shares were minted this quarter from last, the dilution factor is positive. If not, it is negative. We don't hide this, we make it front and center. It is effectively the firm's velocity measure. It measures the change in the rate of growth. This dynamic is what we call the dilution factor.
+
+Each quarter, the dilution factor is calculated and reported in the earnings call.
 
 |   |   |   |
 |---|---|---|
@@ -67,6 +71,11 @@ Each quarter, the dilution factor is calculated and reported in the earnings cal
 |Neutral|Both grew at the same rate|Per-share dividend is flat|
 
 The dilution factor is information, not judgment. A negative factor during a quarter of heavy investment may be perfectly strategic. A sustained negative trend warrants attention. The point is transparency: everyone sees the number and understands what it means.
+
+## Always Growing
+Something else worth noting about a negative dilution factor during heavy reinvestment quarters. Investors may even see that they receive zero dividends during these quarters. However, because the cash turned into hard assets, instead of it getting paid out as dividends, that slice of growth stays in the pool.
+
+Put simply: if the office grew, what doesn't get paid out in dividends gets paid out through increased share price.
 
 # Section 7: Managed Capital Accounts (MCAs)
 
@@ -187,6 +196,11 @@ In practical terms, this means that until the appropriate legal structure is in 
 - **Registered Investment Advisor (RIA):** Registering the office as an RIA with the SEC or applicable state regulator may be the most straightforward path for the managed capital relationship, as it is explicitly designed for entities that manage money on behalf of clients.
 
 The long-term vision of opening MCAs to any investor willing to consent to the fee structure is consistent with the direction regulatory trends are moving — the 2020 accredited investor expansion is evidence of that. But that vision requires legal infrastructure to execute properly. The parameters below are not finalized until that infrastructure is in place.
+
+## 7.9 — Book Value vs. Market Value
+There is one other thing worth noting about the unique dynamic of everything in this system being inherently anti-speculative.
+
+The ratio of cash flow to the dollar amount invested is significantly higher. One million dollars invested into a business in the open market might be closer to about $400k in hard assets and $100k in annual profit with a 6x multiple. With us, by those same numbers, that would be $1 Million in hard assets with $250k in annual profit, assuming our margins are equivalent. Because we avoid all speculation, one million invested with us goes much farther than one million invested in traditional market valuation.
 
 ## 7.9 — Parameters To Be Determined
 
