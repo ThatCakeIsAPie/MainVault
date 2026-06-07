@@ -1,0 +1,88 @@
+---
+version: "2.0"
+
+services:
+  hermes:
+    image: nousresearch/hermes-agent:latest
+    env:
+      - OPENROUTER_API_KEY=sk-or-...5486
+      - TELEGRAM_BOT_TOKEN=8979270286:***
+    command:
+      - sh
+      - "-c"
+      - >-
+        mkdir -p /opt/data &&
+
+        printf "OPENROUTER_API_KEY=%s\nTELEGRAM_BOT_TOKEN=%s\n" "$OPENROUTER_API_KEY" "$TELEGRAM_BOT_TOKEN" > /opt/data/.env &&
+
+        echo "[setup] Installing Node.js if needed..." &&
+        if ! command -v node >/dev/null 2>&1; then
+          (apt-get update && apt-get install -y nodejs npm) 2>/dev/null
+          || (curl -fsSL https://deb.nodesource.com/setup_22.x | bash - && apt-get install -y nodejs)
+          || echo "[setup] Node install failed - agentmemory will not be available";
+        fi &&
+
+        echo "[setup] Installing agentmemory..." &&
+        npm install -g @agentmemory/agentmemory 2>/dev/null
+        || echo "[setup] agentmemory install failed - continuing without it" &&
+
+        echo "[setup] Configuring agentmemory..." &&
+        mkdir -p /root/.agentmemory &&
+        printf 'AGENTMEMORY_AGENTS=hermes\nAGENTMEMORY_URL=http://localhost:3111\n' > /root/.agentmemory/.env &&
+        mkdir -p /opt/data/agentmemory &&
+
+        echo "[setup] Starting agentmemory..." &&
+        agentmemory --no-engine --data-dir /opt/data/agentmemory &
+        sleep 3 &&
+
+        echo "[setup] Configuring Hermes MCP for agentmemory..." &&
+        if [ -f /opt/data/config.yaml ]; then
+          if ! grep -q "agentmemory" /opt/data/config.yaml; then
+            printf '\nmcp_servers:\n  agentmemory:\n    command: agentmemory\n    args:\n    - mcp\n    enabled: true\n    env:\n      AGENTMEMORY_URL: http://localhost:3111\n' >> /opt/data/config.yaml
+          fi
+        fi &&
+
+        echo "[setup] Starting Hermes gateway..." &&
+        exec hermes gateway run
+    params:
+      storage:
+        data:
+          mount: /opt/data
+    expose:
+      - port: 8642
+        as: 80
+        to:
+          - global: true
+      - port: 3113
+        as: 3113
+        to:
+          - global: true
+
+profiles:
+  compute:
+    hermes:
+      resources:
+        cpu:
+          units: 2
+        memory:
+          size: 3Gi
+        storage:
+          - name: data
+            size: 50Gi
+            attributes:
+              persistent: true
+              class: beta3
+  placement:
+    akash:
+      attributes:
+        host: akash
+      pricing:
+        hermes:
+          denom: uact
+          amount: 1000000  # Increased to attract bids (adjust down once working)
+
+deployment:
+  hermes:
+    akash:
+      profile: hermes
+      count: 1

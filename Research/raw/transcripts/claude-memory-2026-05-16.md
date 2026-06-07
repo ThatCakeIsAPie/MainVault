@@ -1,0 +1,31 @@
+---
+source_url: 
+ingested: 2026-05-16
+sha256: a125b7b07e2cdf497c68ee47a1376f5fd34c71e7ee94117f3bf7f85af07b1f87
+---
+
+**Work context**
+
+Lyle is a 27-year-old entrepreneur building Faleth Capital, a family office structured as a diversified portfolio of subsidiaries functioning as a private index fund, where operators, investors, and customers all participate in upside. He also runs a government contracts business with his brother and a partner experienced in business-to-government contracting, focused on high bid volume with certifications and relationships as long-term competitive moats. He is active in an Amway network marketing business, which he frames primarily as a leadership incubator and foundational on-ramp within the Faleth Capital architecture.
+
+**Personal context**
+
+Lyle operates from a faith-centered framework that integrates biblical principles with business strategy and economic theory — he sees these as unified rather than separate domains. His overarching mission is discipleship, with all business ventures understood as vehicles serving that purpose. He recently ended a courtship relationship due to a fundamental values misalignment and has processed it with notable clarity and forward orientation.
+
+**Top of mind**
+
+Lyle is actively developing the philosophical and structural foundations of Faleth Capital, including its economic philosophy (revenue as a reflection of value delivered, building through downturns as proof of real value), its operator development model, and its grounding in biblical principles such as Ecclesiastes on diversified income streams. He is in Step 2 of his five-step sequencing framework — maximizing active income through the government contracts business before redirecting bandwidth toward network marketing and eventually launching Faleth subsidiaries. He is also evaluating a laptop purchase (Framework 13 with Ryzen AI 5 340 is his leading candidate) to replace a dying Surface Pro 7.
+
+**Brief history**
+
+_Recent months_
+
+Lyle's government contracting work has involved active bid strategy, small-business positioning, and navigating Navy solicitations (NAVSUP/NECO). His network marketing group has three members including himself, with his brother in a parallel holding pattern and a friend named Clutch navigating a difficult personal season — Lyle has been intentionally maintaining that friendship independent of business performance. His upline Richard has been less available, with Richard's wife taking a more active leadership role in the interim. Lyle values late-night "night owl" sessions after regular meetings as where real leadership relationships are built. He attended the Spring Forward 2026 LTD conference and connected its insights to the Faleth Capital architecture, confirming that network marketing functions as the structural spine of the entire model. He has run the experiment of pursuing all major commitments simultaneously and concluded it fragments attention too severely, grounding his sequencing logic in lived experience. He built a document-to-audio web app (grok-narrate.html) using xAI's Grok TTS API with chunking, parallel processing, wake lock, and voice selection. He also troubleshot an industrial PCB cleaner (Shenzhen Xiuya STC-2301-0002) stuck in a maintenance threshold lockout at his day job, with a Samkoon HMI password blocking the reset.
+
+_Earlier context_
+
+Lyle was building out Free Range Repair (a mobile iPhone repair business) as a planned first Faleth subsidiary — this included a Notion-based CRM and compensation system, Google Business Profile setup, SEO assessment of freerangerepair.com, PPC and landing page strategy, and a Supabase/Google Cloud backend. This is no longer an active focus. He was also developing a personal AI OS concept (JARVIS-like system); this has been abandoned as lacking practical use case. He set up OpenClaw on a Google Cloud VM using Gemini as the LLM provider, building toward an executive assistant agent architecture with specialized sub-agents. He explored RAG systems, local LLM inference hardware (with strong understanding of memory bandwidth vs. compute tradeoffs), and the Framework Desktop vs. Mac Mini comparison for AI workloads. He has a home desktop with a GTX 1070 Ti and firsthand experience running local LLMs including video generation models.
+
+_Long-term background_
+
+Lyle has a background in game design and VFX, giving him frontend and UI/UX instincts along with HTML/CSS experience. He uses Obsidian as a second brain and has explored Claude Code, Git-backed vault workflows, and MCP integrations. He thinks in systems and architecture metaphors that bridge business strategy and technical infrastructure naturally, demonstrates strong first-principles reasoning, and has been influenced by Alex Hormozi, Robert Kiyosaki, and Tony Robbins while maintaining his own integrated framework. He has a comfort with terminal-based tooling, Fusion 360 (light CAD work), and PLC programming.
