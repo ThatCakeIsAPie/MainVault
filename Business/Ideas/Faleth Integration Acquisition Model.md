@@ -94,7 +94,7 @@ Possible buyback mechanics:
 - Faleth ongoing economics during the repair period: **5% of top-line revenue or 1/3 of bottom-line profit**, depending on the agreed subsidiary model
 - Milestone-based option vesting
 - Seller/operator repayment schedule
-- Possible profit-share crediting/offset treatment only if explicitly agreed; default assumption should be that operating distributions are separate from the book-value buyback price
+- Operating distributions are not credited against the buyback price; the original economics continue until the relationship is changed or ended
 - Partial buyback only, with Faleth retaining a steward/minority/golden-share position
 - Reversion clauses if compliance, debt, reporting, or performance standards are violated
 
@@ -159,7 +159,11 @@ Therefore Faleth has two separate economic channels:
 1. **Operating yield:** 5% top-line revenue or 1/3 bottom-line profit while the business remains inside the Faleth system.
 2. **Balance-sheet recovery:** buyback at current book value if the operator later wants to repurchase the business.
 
-These should not be automatically blended together. Unless the agreement explicitly says otherwise, operating distributions are not a discount against the buyback price. They are the cost of being inside the system while Faleth is actively stewarding and repairing the company.
+These should not be blended together. Operating distributions are not a discount against the buyback price. They are the cost of being inside the system while Faleth is actively stewarding and repairing the company.
+
+The original terms are effectively **until further notice**: indefinite until changed or ended. If the operator later decides they want to buy back, or even if they knew from the beginning that buyback was a possibility, that does not change the buyback output price. Faleth's terms are Faleth's terms: ongoing subsidiary economics continue while the business is inside the system, and buyback is priced at current book value.
+
+If the operator does not want those terms, they do not have to integrate with Faleth. Faleth's documents, systems, and frameworks can remain open source; outside operators can implement the ideas themselves as they see fit. What they cannot do is use Faleth's capital, systems, stewardship, and balance-sheet repair while retroactively treating operating distributions as prepaid buyback consideration.
 
 This matters because Faleth is not merely waiting for a buyback event to make money. It can be profitable throughout the repair period based on the subsidiary's actual revenue or profit.
 
