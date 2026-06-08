@@ -94,13 +94,12 @@ Possible buyback mechanics:
 - Faleth ongoing economics during the repair period: **5% of top-line revenue or 1/3 of bottom-line profit**, depending on the agreed subsidiary model
 - Milestone-based option vesting
 - Seller/operator repayment schedule
-- Operating distributions are not credited against the buyback price; the original economics continue until the relationship is changed or ended
 - Partial buyback only, with Faleth retaining a steward/minority/golden-share position
 - Reversion clauses if compliance, debt, reporting, or performance standards are violated
 
 ### Book-Value Buyback Principle
 
-Because Faleth prefers buying **and** selling at book value, the buyback price should generally be book value itself, not book value plus a separate speculative premium. The return comes from the fact that Faleth changes the book value.
+Faleth buys at book value and sells at book value. The framework should stay simple: no speculative multiple, no special loophole, and no extra valuation theory attached.
 
 Book value is not merely the historical cost of equipment. It includes the company's balance-sheet reality:
 
@@ -152,18 +151,14 @@ Faleth receives either:
 - 1/3 of bottom-line profit
 ```
 
-This means Faleth can earn operating profit during the turnaround period even before any eventual buyback occurs. The buyback price protects Faleth's balance-sheet investment; the revenue/profit participation compensates Faleth for ongoing stewardship, systems, capital coordination, governance, and turnaround work.
+This gives Faleth two plain economic rules:
 
-Therefore Faleth has two separate economic channels:
-
-1. **Operating yield:** 5% top-line revenue or 1/3 bottom-line profit while the business remains inside the Faleth system.
-2. **Balance-sheet recovery:** buyback at current book value if the operator later wants to repurchase the business.
-
-These should not be blended together. Operating distributions are not a discount against the buyback price. They are the cost of being inside the system while Faleth is actively stewarding and repairing the company.
+1. **Buy/sell rule:** buy at book value and sell at book value.
+2. **Operating cash-flow rule:** collect 5% top-line revenue or 1/3 bottom-line profit while the business remains inside the Faleth system.
 
 The original terms are effectively **until further notice**: indefinite until changed or ended. If the operator later decides they want to buy back, or even if they knew from the beginning that buyback was a possibility, that does not change the buyback output price. Faleth's terms are Faleth's terms: ongoing subsidiary economics continue while the business is inside the system, and buyback is priced at current book value.
 
-If the operator does not want those terms, they do not have to integrate with Faleth. Faleth's documents, systems, and frameworks can remain open source; outside operators can implement the ideas themselves as they see fit. What they cannot do is use Faleth's capital, systems, stewardship, and balance-sheet repair while retroactively treating operating distributions as prepaid buyback consideration.
+If the operator does not want those terms, they do not have to integrate with Faleth. Faleth's documents, systems, and frameworks can remain open source; outside operators can implement the ideas themselves as they see fit.
 
 This matters because Faleth is not merely waiting for a buyback event to make money. It can be profitable throughout the repair period based on the subsidiary's actual revenue or profit.
 
