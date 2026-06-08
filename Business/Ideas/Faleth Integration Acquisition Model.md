@@ -87,6 +87,9 @@ Non-negotiables:
 
 Possible buyback mechanics:
 
+- Buy/sell framework anchored to **book value**, not speculative market multiple
+- Book value includes assets on hand, cash on hand, inventory, equipment, receivables, and other balance-sheet value, adjusted for liabilities
+- Faleth capital injections that increase assets, working capital, inventory, equipment, systems, or other balance-sheet value must be reflected in the buyback price
 - Predefined valuation formula
 - Minimum return hurdle for Faleth
 - Milestone-based option vesting
@@ -94,6 +97,36 @@ Possible buyback mechanics:
 - Profit-share offset against buyback price
 - Partial buyback only, with Faleth retaining a steward/minority/golden-share position
 - Reversion clauses if compliance, debt, reporting, or performance standards are violated
+
+### Book-Value Buyback Principle
+
+Because Faleth prefers buying and selling at book value, the buyback is not a free reset to the owner's original position. If Faleth improved the balance sheet, funded assets, added cash, purchased equipment, built inventory, paid down liabilities, or otherwise strengthened the company, that value must be repaid or priced into the buyback.
+
+Simplified formula:
+
+```text
+Buyback Price = Operator's Repurchased Ownership % × Adjusted Book Value
+              + Faleth Return / Profit Hurdle
+              + Any agreed unpaid support, fees, or protected capital items
+```
+
+Adjusted book value should consider:
+
+- cash on hand
+- inventory
+- equipment
+- receivables
+- owned assets
+- working capital added by Faleth
+- liabilities/debt assumed or paid down
+- asset improvements funded by Faleth
+- any agreed valuation treatment for systems/process improvements
+
+Core rule:
+
+> If Faleth puts value into the business, Faleth gets that value back before or during any buyback.
+
+This prevents Faleth from becoming a sugar daddy with governance paperwork. The turnaround candidate can regain ownership, but only by buying back the strengthened position, not by reclaiming Faleth-funded improvements for free.
 
 ## Key Distinction
 
