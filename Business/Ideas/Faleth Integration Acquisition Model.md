@@ -91,42 +91,83 @@ Possible buyback mechanics:
 - Book value includes assets on hand, cash on hand, inventory, equipment, receivables, and other balance-sheet value, adjusted for liabilities
 - Faleth capital injections that increase assets, working capital, inventory, equipment, systems, or other balance-sheet value must be reflected in the buyback price
 - Predefined valuation formula
-- Minimum return hurdle for Faleth
+- Faleth ongoing economics during the repair period: **5% of top-line revenue or 1/3 of bottom-line profit**, depending on the agreed subsidiary model
 - Milestone-based option vesting
 - Seller/operator repayment schedule
-- Profit-share offset against buyback price
+- Possible profit-share crediting/offset treatment only if explicitly agreed; default assumption should be that operating distributions are separate from the book-value buyback price
 - Partial buyback only, with Faleth retaining a steward/minority/golden-share position
 - Reversion clauses if compliance, debt, reporting, or performance standards are violated
 
 ### Book-Value Buyback Principle
 
-Because Faleth prefers buying and selling at book value, the buyback is not a free reset to the owner's original position. If Faleth improved the balance sheet, funded assets, added cash, purchased equipment, built inventory, paid down liabilities, or otherwise strengthened the company, that value must be repaid or priced into the buyback.
+Because Faleth prefers buying **and** selling at book value, the buyback price should generally be book value itself, not book value plus a separate speculative premium. The return comes from the fact that Faleth changes the book value.
 
-Simplified formula:
+Book value is not merely the historical cost of equipment. It includes the company's balance-sheet reality:
 
 ```text
-Buyback Price = Operator's Repurchased Ownership % × Adjusted Book Value
-              + Faleth Return / Profit Hurdle
-              + Any agreed unpaid support, fees, or protected capital items
+Book Value = Assets - Liabilities
 ```
 
-Adjusted book value should consider:
+Assets include cash in the company bank account, receivables, inventory, equipment, and other owned assets. Liabilities include debt, payables, loans, and obligations.
 
-- cash on hand
-- inventory
-- equipment
-- receivables
-- owned assets
-- working capital added by Faleth
-- liabilities/debt assumed or paid down
-- asset improvements funded by Faleth
-- any agreed valuation treatment for systems/process improvements
+This creates a clean turnaround logic:
+
+1. Faleth buys in at current book value.
+2. If the company is debt-heavy, the buy-in price may be low because liabilities subtract from assets.
+3. Faleth then improves the balance sheet by paying down liabilities, adding cash, buying productive assets, improving working capital, or otherwise strengthening the business.
+4. If the operator wants to buy back later, they buy back at the new book value.
+
+Example:
+
+```text
+Initial assets:      $200,000
+Initial liabilities: $180,000
+Initial book value:   $20,000
+
+Faleth buy-in price:  $20,000
+
+Faleth later clears liabilities and adds $200,000 of assets:
+
+Post-turnaround assets:      $400,000
+Post-turnaround liabilities:       $0
+Post-turnaround book value:  $400,000
+
+Buyback price at book value: $400,000
+```
+
+So the operator may have received only $20,000 on the way in, but if Faleth repaired the balance sheet, the operator must buy back the repaired balance sheet, not the distressed one. In this example, the difference is $380,000 of balance-sheet improvement.
+
+### Operating Economics During the Repair Period
+
+The book-value buyback is not Faleth's only economic protection.
+
+While Faleth is repairing the books, cleaning up liabilities, adding assets, installing systems, and stabilizing the company, Faleth still receives ongoing economics from the operating subsidiary.
+
+Default subsidiary economics:
+
+```text
+Faleth receives either:
+
+- 5% of top-line revenue, or
+- 1/3 of bottom-line profit
+```
+
+This means Faleth can earn operating profit during the turnaround period even before any eventual buyback occurs. The buyback price protects Faleth's balance-sheet investment; the revenue/profit participation compensates Faleth for ongoing stewardship, systems, capital coordination, governance, and turnaround work.
+
+Therefore Faleth has two separate economic channels:
+
+1. **Operating yield:** 5% top-line revenue or 1/3 bottom-line profit while the business remains inside the Faleth system.
+2. **Balance-sheet recovery:** buyback at current book value if the operator later wants to repurchase the business.
+
+These should not be automatically blended together. Unless the agreement explicitly says otherwise, operating distributions are not a discount against the buyback price. They are the cost of being inside the system while Faleth is actively stewarding and repairing the company.
+
+This matters because Faleth is not merely waiting for a buyback event to make money. It can be profitable throughout the repair period based on the subsidiary's actual revenue or profit.
 
 Core rule:
 
-> If Faleth puts value into the business, Faleth gets that value back before or during any buyback.
+> Faleth does not need to add a speculative multiple if the book-value framework is honored. Faleth's value is recovered because the company itself becomes more valuable on the books, while Faleth also earns operating economics during the repair period.
 
-This prevents Faleth from becoming a sugar daddy with governance paperwork. The turnaround candidate can regain ownership, but only by buying back the strengthened position, not by reclaiming Faleth-funded improvements for free.
+This prevents Faleth from becoming a sugar daddy with governance paperwork. The turnaround candidate can regain ownership, but only by buying back the strengthened book-value position, not by reclaiming Faleth-funded improvements for free.
 
 ## Key Distinction
 
