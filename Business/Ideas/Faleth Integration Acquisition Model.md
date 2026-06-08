@@ -42,6 +42,14 @@ Best-fit seller profile:
 - Is open to contribution-based upside rather than absolute standalone ownership
 - Has a business that strengthens an existing Faleth vertical or subsidiary thesis
 
+Secondary-fit seller profile: turnaround / rescue-to-buyback candidate.
+
+- Owner has a viable business but needs systems, capital, discipline, or operational repair
+- They may want Faleth to step in as a turnaround partner rather than permanent owner
+- Faleth can acquire/control-steward the business temporarily, inject cash/process/support, restore health, and potentially allow the owner/operator to buy back some or all ownership later
+- This is acceptable only if Faleth earns back its value, risk, capital, and time, with profit upside in the process
+- The buyback option should be structured, not assumed: clear valuation formula, timeline, performance milestones, repayment/profit hurdle, and what happens if milestones are missed
+
 ## Possible Deal Logic
 
 The transaction should not be framed as "we buy you and you become an employee."
@@ -58,6 +66,34 @@ Potential components:
 - Faleth takes legal/control ownership or majority stewardship position
 - Business gets access to shared services: automation, finance/admin, marketing, proposal systems, vendor network, leadership development
 - Clear rules for operator accountability, distributions, reinvestment, and exit
+- Optional buyback path where appropriate, priced to ensure Faleth recovers capital, risk, time, systems value, and profit
+
+## Turnaround-to-Buyback Variant
+
+This variant is for owners who are not ready to permanently integrate but need Faleth's system to recover, stabilize, or professionalize the business.
+
+Core logic:
+
+> Faleth steps in, takes enough control to fix the business, injects cash/process/systems, and may later sell some or all ownership back to the operator if the operator proves they can steward it well.
+
+Non-negotiables:
+
+- Faleth cannot be merely cheap rescue capital
+- Faleth must control enough to actually fix the business
+- Faleth's downside must be protected
+- Faleth must recover capital plus a risk-adjusted return
+- Buyback rights must be earned through performance, not emotionally promised
+- If the turnaround fails, Faleth keeps the right to restructure, replace the operator, sell, wind down, or integrate permanently
+
+Possible buyback mechanics:
+
+- Predefined valuation formula
+- Minimum return hurdle for Faleth
+- Milestone-based option vesting
+- Seller/operator repayment schedule
+- Profit-share offset against buyback price
+- Partial buyback only, with Faleth retaining a steward/minority/golden-share position
+- Reversion clauses if compliance, debt, reporting, or performance standards are violated
 
 ## Key Distinction
 
