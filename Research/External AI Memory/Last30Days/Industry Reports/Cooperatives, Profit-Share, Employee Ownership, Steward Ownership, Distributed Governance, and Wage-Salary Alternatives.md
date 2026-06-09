@@ -1,37 +1,30 @@
 # Cooperatives, Profit-Share, Employee Ownership, Steward Ownership, Distributed Governance, and Wage/Salary Alternatives
 
-Purpose: rolling industry report informed by the daily Last30Days debriefs. This file should capture the distilled direction of the industry over time, not merely archive daily notes.
+Purpose: rolling industry report informed by daily Last30Days debriefs. This file captures the distilled direction of the industry over time, not merely daily notes.
 
 ## Current Direction
-- To be refined as more debriefs accumulate.
+- Employee ownership and profit-sharing models are increasingly discussed as succession, retention, and regional economic-development tools.
+- ESOPs remain the most visible U.S. structure; EOTs, cooperatives, steward ownership, perpetual purpose trusts, and profit-share models serve different legal/governance purposes.
+- The strategic distinction that matters for Faleth: labor compensation, bonuses/profit share, equity-like upside, governance/control rights, and mission/asset lock are separate levers.
 
 ## Major Shifts to Watch
-- To be refined as more debriefs accumulate.
+- State-level and regional programs helping retiring owners transition to employee ownership.
+- ESOP transaction financing: seller notes, debt capacity, outside capital, and governance implications.
+- Steward ownership and perpetual-purpose trust adoption outside niche impact/startup circles.
+- Confusion or marketing abuse where “ownership” language is used without real governance/control rights.
 
 ## Faleth Relevance
-- To be refined as more debriefs accumulate.
+- Faleth’s Contribution Framework should use precise language: pay, performance bonus, profit share, equity/control, and mission lock should not be blurred.
+- Steward-ownership concepts can help define what cannot be sold away and what obligations leadership has to mission/community.
+- Profit-share can create alignment without pretending every participant has control rights. Clarity here prevents future resentment — which is cheaper than buying everyone therapy and a lawyer.
 
 ## Running Source Debrief Notes
-
-
-Purpose: rolling Last30Days timeline for this industry. Entries are timestamped so shifts can be tracked over time.
-
-## 2026-06-08
-
-### Major events / signals
+### 2026-06-08
 - Recent X signal was more educational than news-driven: employee ownership, worker cooperatives, steward ownership, and profit sharing were contrasted as distinct mechanisms for wealth sharing, governance, mission lock, and compensation alignment.
 - Web search surfaced US Federation of Worker Cooperatives content about shared ownership and a Spencer West item about an Employee Ownership Trust transition for Culbert Ellis ([USFWC shared ownership](https://www.usworker.coop/blog/reimagining-work-through-a-shared-ownership-model/), [Spencer West EOT transition](https://www.spencer-west.com/news/spencer-west-advises-on-employee-ownership-trust-transition-for-culbert-ellis/)).
-- Rutgers/CLEO remains a useful source for employee ownership and profit-sharing research context ([Rutgers CLEO](https://cleo.rutgers.edu/source/institute-for-the-study-of-employee-ownership-and-profit-sharing/)).
+- Rutgers/CLEO remains useful background for employee ownership and profit-sharing research context ([Rutgers CLEO](https://cleo.rutgers.edu/source/institute-for-the-study-of-employee-ownership-and-profit-sharing/)).
 
-### How the industry is shifting
-Faleth’s Contribution Framework/COF model should explicitly distinguish four things that often get blurred: (1) labor compensation, (2) profit share, (3) equity/control, and (4) mission/asset lock. That distinction helps avoid both employee confusion and founder-control headaches.
-
-### Signal strength
-**Weak for last-24-hour news; medium for strategic relevance.**
-
-### Opportunity / risk
-- **Opportunity:** Use steward-ownership concepts to refine Faleth’s governance language: who controls mission, who receives profit, who earns equity-like upside, and what cannot be sold away.
-- **Risk:** Calling every bonus “ownership” creates trust problems. If people do not receive governance/control rights, say “profit share,” not “owner.”
-
-### Sources
-[USFWC](https://www.usworker.coop/blog/reimagining-work-through-a-shared-ownership-model/), [Spencer West EOT](https://www.spencer-west.com/news/spencer-west-advises-on-employee-ownership-trust-transition-for-culbert-ellis/), [Rutgers CLEO](https://cleo.rutgers.edu/source/institute-for-the-study-of-employee-ownership-and-profit-sharing/).
+### 2026-06-09
+- X activity centered on ESOP as IPO/startup compensation disclosure, ESOP transitions, policy, events, and financing. Examples included Illicit Gardens transitioning to an ESOP, New Jersey Senate Democrats highlighting a bill to help retiring owners transition to employee ownership, and ESOP transaction financing discussion ([Illicit Gardens ESOP signal](https://x.com/KCBizJournal/status/2064246239231705095), [NJ employee-ownership bill signal](https://x.com/NJSenDems/status/2064037507570839842), [ESOP financing signal](https://x.com/normprovvidenza/status/2064065691423293718)).
+- Web snippets surfaced a June 8 Central Coast employee-ownership article and a June 9 steward-ownership article in African agribusiness ([Pacific Coast Business Times snippet](https://www.pacbiztimes.com/2026/06/07/central-coast-embraces-employee-ownership/), [Kilimo Kwanza steward-ownership snippet](https://kilimokwanza.org/steward-ownership-the-quiet-revolution-in-how-african-agribusiness-is-owned/)).
+- Signal strength: medium for ESOP activity; weak for steward-ownership activity.

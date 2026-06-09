@@ -1,37 +1,30 @@
 # Private Equity / Family Offices / Rollups / Small Business Acquisition
 
-Purpose: rolling industry report informed by the daily Last30Days debriefs. This file should capture the distilled direction of the industry over time, not merely archive daily notes.
+Purpose: rolling industry report informed by daily Last30Days debriefs. This file captures the distilled direction of the industry over time, not merely daily notes.
 
 ## Current Direction
-- To be refined as more debriefs accumulate.
+- The practical conversation is moving toward operator-led acquisition, small-fund math, fragmented legacy industries, and AI/process leverage after acquisition.
+- Family offices and patient capital continue to be positioned as more culturally aligned for founder/seller transitions than short-hold PE in many small-business contexts.
+- Rollup enthusiasm is real, but the hard part is integration capacity: systems, people, bookkeeping, customer concentration, management replacement, and operating cadence.
 
 ## Major Shifts to Watch
-- To be refined as more debriefs accumulate.
+- Rollups in dated/traditional industries using automation as the post-acquisition value lever.
+- Search/ETA tooling: deal pipeline dashboards, LP tracking, diligence automation, target monitoring, and operator benches.
+- Seller preference for patient/permanent capital and aligned ownership.
+- Warning signs of overheated rollup logic or multiple-arbitrage dependency.
 
 ## Faleth Relevance
-- To be refined as more debriefs accumulate.
+- Preserve Faleth’s strategic framing: **build-first, acquire-selectively**. Acquisitions are useful when they accelerate an operating system, not when they become the thesis.
+- Build the micro-rollup operating system around FRR-like operations before buying complexity: bookkeeping, CRM, SOPs, recruiting, incentives, quality control, and dashboards.
+- For inbound seller conversations, emphasize stewardship, continuity, operator development, and practical improvement over financial engineering.
 
 ## Running Source Debrief Notes
-
-
-Purpose: rolling Last30Days timeline for this industry. Entries are timestamped so shifts can be tracked over time.
-
-## 2026-06-08
-
-### Major events / signals
+### 2026-06-08
 - X signal focused on lower-middle-market rollups, operator-led acquisition strategies, creative financing stacks, SBA + seller notes, and family offices as patient/permanent capital providers ([PrivatEquityGuy rollup thread](https://x.com/PrivatEquityGuy/status/2063652635362648456), [mrfundible financing thread](https://x.com/mrfundible/status/2063619396136992957)).
-- Family offices continue to be framed as more seller-friendly and culturally aligned than traditional PE for founder-operated small businesses ([KingSirdave family office signal](https://x.com/KingSirdave/status/2063629476538270012), [Permanent Equity-style signal](https://x.com/kristinnsms/status/2063606907668213971)).
-- Web search for private equity professional sources was low-signal for the last 24 hours, surfacing mostly generic/current-site pages and older fund-close news ([PE Professional](https://peprofessional.com/)).
+- Family offices continued to be framed as more seller-friendly and culturally aligned than traditional PE for founder-operated small businesses ([KingSirdave family office signal](https://x.com/KingSirdave/status/2063629476538270012), [Permanent Equity-style signal](https://x.com/kristinnsms/status/2063606907668213971)).
+- Web search for professional sources was low-signal for the last 24 hours, surfacing mostly generic/current-site pages and older fund-close news ([PE Professional](https://peprofessional.com/)).
 
-### How the industry is shifting
-Faleth’s family-office model is aligned with patient ownership and operator-first acquisition, not classic churn-and-burn rollup extraction. The opportunity is to design systems that make small acquisitions operable: bookkeeping, CRM, SOPs, recruiting, compliance, and incentive plans.
-
-### Signal strength
-**Medium for strategy sentiment; weak for hard last-24-hour news.**
-
-### Opportunity / risk
-- **Opportunity:** Start building a “micro-rollup operating system” internally around FRR: intake, referral, insurance, upsells, process-point compensation, quarterly profit share, and standardized dashboards.
-- **Risk:** Acquisition enthusiasm without integration capacity. Buying a business is easy compared to not turning it into a haunted spreadsheet goblin.
-
-### Sources
-[PrivatEquityGuy](https://x.com/PrivatEquityGuy/status/2063652635362648456), [mrfundible](https://x.com/mrfundible/status/2063619396136992957), [KingSirdave](https://x.com/KingSirdave/status/2063629476538270012), [PE Professional](https://peprofessional.com/).
+### 2026-06-09
+- X discussion was niche but practical: rollups in dated industries, 7-10x entry valuation outcomes in some cases, small fund sizes where math still works, acquisition pipeline dashboards for searchers, operator benches before deal sourcing, and red flags such as customer concentration or owner-is-the-business targets ([Nichole Wischoff rollup signal](https://x.com/NWischoff/status/2064078984468697553), [search dashboard signal](https://x.com/polsia/status/2064067362949931234), [operator-bench signal](https://x.com/stavenka/status/2064073405087801835), [owner-is-business warning](https://x.com/daniel_askew/status/2063969270636102104)).
+- Web snippets for June 8/9 were weaker and mostly generic professional/finance pages.
+- Signal strength: medium for operator sentiment; weak for hard news.
