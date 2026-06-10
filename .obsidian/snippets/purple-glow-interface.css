@@ -198,6 +198,10 @@
 .theme-dark .view-header .view-actions button[aria-label*='source'],
 .theme-dark .view-header .view-actions button[aria-label*='Live Preview'],
 .theme-dark .view-header .view-actions button[aria-label*='live preview'],
+.theme-dark .view-header .view-actions button[aria-label*='Reading view'],
+.theme-dark .view-header .view-actions button[aria-label*='reading view'],
+.theme-dark .view-header .view-actions button[aria-label*='Current view'],
+.theme-dark .view-header .view-actions button[aria-label*='current view'],
 .theme-dark .view-header .view-actions .clickable-icon[aria-label*='Editing'],
 .theme-dark .view-header .view-actions .clickable-icon[aria-label*='editing'],
 .theme-dark .view-header .view-actions .clickable-icon[aria-label*='Source'],
@@ -221,12 +225,31 @@
 .theme-dark .view-header .view-actions button[aria-label*='source'] svg,
 .theme-dark .view-header .view-actions button[aria-label*='Live Preview'] svg,
 .theme-dark .view-header .view-actions button[aria-label*='live preview'] svg,
+.theme-dark .view-header .view-actions button[aria-label*='Reading view'] svg,
+.theme-dark .view-header .view-actions button[aria-label*='reading view'] svg,
+.theme-dark .view-header .view-actions button[aria-label*='Current view'] svg,
+.theme-dark .view-header .view-actions button[aria-label*='current view'] svg,
 .theme-dark .view-header .view-actions .clickable-icon[aria-label*='Editing'] svg,
 .theme-dark .view-header .view-actions .clickable-icon[aria-label*='editing'] svg,
 .theme-dark .view-header .view-actions .clickable-icon[aria-label*='Source'] svg,
 .theme-dark .view-header .view-actions .clickable-icon[aria-label*='source'] svg,
 .theme-dark .view-header .view-actions .clickable-icon[aria-label*='Live Preview'] svg,
 .theme-dark .view-header .view-actions .clickable-icon[aria-label*='live preview'] svg,
+.theme-dark .view-header .view-actions svg.lucide-pencil,
+.theme-dark .view-header .view-actions svg.lucide-pencil-line,
+.theme-dark .view-header .view-actions svg.lucide-square-pen,
+.theme-dark .view-header .view-actions svg.lucide-edit,
+.theme-dark .view-header .view-actions svg.lucide-edit-2,
+.theme-dark .view-header .view-actions svg[data-icon='pencil'],
+.theme-dark .view-header .view-actions svg[data-icon='pencil-line'],
+.theme-dark .view-header .view-actions svg[data-icon='square-pen'],
+.theme-dark .view-header .view-actions svg[data-icon='edit'],
+.theme-dark .view-header .view-actions svg[data-icon='edit-2'],
+.theme-dark .view-header .view-actions .lucide-pencil,
+.theme-dark .view-header .view-actions .lucide-pencil-line,
+.theme-dark .view-header .view-actions .lucide-square-pen,
+.theme-dark .view-header .view-actions .lucide-edit,
+.theme-dark .view-header .view-actions .lucide-edit-2,
 .theme-dark .view-header .view-actions button[aria-label*='Editing'] svg *,
 .theme-dark .view-header .view-actions button[aria-label*='editing'] svg *,
 .theme-dark .view-header .view-actions button[aria-label*='Source'] svg *,
@@ -241,4 +264,68 @@
 .theme-dark .view-header .view-actions .clickable-icon[aria-label*='live preview'] svg * {
   color: var(--pg-icon-blue) !important;
   stroke: var(--pg-icon-blue) !important;
+  fill: none !important;
+}
+
+/*
+  Nuclear-but-contained override for Obsidian's top-right edit/reading toggle.
+  In current Obsidian builds this appears as the first view-action in the note header,
+  and may ignore normal icon variables/classes.
+*/
+.theme-dark .view-header .view-actions > .view-action:first-child,
+.theme-dark .view-header .view-actions > .clickable-icon:first-child,
+.theme-dark .view-header .view-actions > button:first-child,
+.theme-dark .view-header .view-actions > .view-action:first-child *,
+.theme-dark .view-header .view-actions > .clickable-icon:first-child *,
+.theme-dark .view-header .view-actions > button:first-child *,
+.theme-dark .view-header .view-action[aria-label*='switch to reading'],
+.theme-dark .view-header .view-action[aria-label*='Switch to reading'],
+.theme-dark .view-header .view-action[aria-label*='editing'],
+.theme-dark .view-header .view-action[aria-label*='Editing'],
+.theme-dark .view-header .view-action[aria-label*='Current view'],
+.theme-dark .view-header .view-action[aria-label*='current view'],
+.theme-dark .view-header .view-action[aria-label*='reading view'],
+.theme-dark .view-header .view-action[aria-label*='Reading view'],
+.theme-dark .view-header .view-action[aria-label*='source mode'],
+.theme-dark .view-header .view-action[aria-label*='Source mode'] {
+  color: var(--pg-icon-blue) !important;
+  stroke: var(--pg-icon-blue) !important;
+  fill: none !important;
+  --icon-color: var(--pg-icon-blue) !important;
+  --icon-color-hover: var(--pg-icon-blue-bright) !important;
+  --icon-color-active: var(--pg-icon-blue) !important;
+  --icon-color-focused: var(--pg-icon-blue) !important;
+  --interactive-accent: var(--pg-icon-blue) !important;
+  --text-accent: var(--pg-icon-blue) !important;
+}
+
+.theme-dark .view-header .view-actions > .view-action:first-child svg,
+.theme-dark .view-header .view-actions > .view-action:first-child svg *,
+.theme-dark .view-header .view-actions > .clickable-icon:first-child svg,
+.theme-dark .view-header .view-actions > .clickable-icon:first-child svg *,
+.theme-dark .view-header .view-actions > button:first-child svg,
+.theme-dark .view-header .view-actions > button:first-child svg *,
+.theme-dark .view-header .view-action[aria-label*='switch to reading'] svg,
+.theme-dark .view-header .view-action[aria-label*='Switch to reading'] svg,
+.theme-dark .view-header .view-action[aria-label*='editing'] svg,
+.theme-dark .view-header .view-action[aria-label*='Editing'] svg,
+.theme-dark .view-header .view-action[aria-label*='Current view'] svg,
+.theme-dark .view-header .view-action[aria-label*='current view'] svg,
+.theme-dark .view-header .view-action[aria-label*='reading view'] svg,
+.theme-dark .view-header .view-action[aria-label*='Reading view'] svg,
+.theme-dark .view-header .view-action[aria-label*='source mode'] svg,
+.theme-dark .view-header .view-action[aria-label*='Source mode'] svg,
+.theme-dark .view-header .view-action[aria-label*='switch to reading'] svg *,
+.theme-dark .view-header .view-action[aria-label*='Switch to reading'] svg *,
+.theme-dark .view-header .view-action[aria-label*='editing'] svg *,
+.theme-dark .view-header .view-action[aria-label*='Editing'] svg *,
+.theme-dark .view-header .view-action[aria-label*='Current view'] svg *,
+.theme-dark .view-header .view-action[aria-label*='current view'] svg *,
+.theme-dark .view-header .view-action[aria-label*='reading view'] svg *,
+.theme-dark .view-header .view-action[aria-label*='Reading view'] svg *,
+.theme-dark .view-header .view-action[aria-label*='source mode'] svg *,
+.theme-dark .view-header .view-action[aria-label*='Source mode'] svg * {
+  color: var(--pg-icon-blue) !important;
+  stroke: var(--pg-icon-blue) !important;
+  fill: none !important;
 }
