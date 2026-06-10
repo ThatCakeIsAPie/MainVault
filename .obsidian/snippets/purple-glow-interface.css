@@ -1,0 +1,150 @@
+/*
+  Purple Glow Interface for Obsidian / Blue Topaz
+  Purpose: dark purple UI background + lighter purple glowing icons/accents.
+  Toggle in Settings → Appearance → CSS snippets → purple-glow-interface.
+*/
+
+.theme-dark {
+  /* Core palette */
+  --pg-bg-deep: #100918;
+  --pg-bg-main: #171020;
+  --pg-bg-elevated: #21142f;
+  --pg-bg-hover: #2d1a42;
+  --pg-border: #59307c;
+  --pg-purple: #c084fc;
+  --pg-purple-bright: #e9d5ff;
+  --pg-purple-soft: #a855f7;
+  --pg-purple-rgb: 192, 132, 252;
+
+  /* Obsidian / Blue Topaz background variables */
+  --background-primary: var(--pg-bg-main) !important;
+  --background-primary-alt: #1c1228 !important;
+  --background-secondary: var(--pg-bg-deep) !important;
+  --background-secondary-alt: #150d1f !important;
+  --background-modifier-border: rgba(var(--pg-purple-rgb), 0.28) !important;
+  --background-modifier-hover: rgba(var(--pg-purple-rgb), 0.12) !important;
+  --background-modifier-active-hover: rgba(var(--pg-purple-rgb), 0.20) !important;
+
+  /* Accent variables */
+  --interactive-accent: var(--pg-purple) !important;
+  --interactive-accent-hover: var(--pg-purple-bright) !important;
+  --interactive-accent-rgb: var(--pg-purple-rgb) !important;
+  --color-accent: var(--pg-purple) !important;
+  --color-accent-1: var(--pg-purple-soft) !important;
+  --color-accent-2: var(--pg-purple-bright) !important;
+  --text-accent: var(--pg-purple-bright) !important;
+  --text-accent-hover: #ffffff !important;
+
+  /* Icons */
+  --icon-color: #b88cff !important;
+  --icon-color-hover: var(--pg-purple-bright) !important;
+  --icon-color-focused: #f3e8ff !important;
+  --icon-color-active: #f3e8ff !important;
+}
+
+/* App chrome: sidebars, ribbons, tabs, titlebar */
+.theme-dark .workspace,
+.theme-dark .workspace-ribbon,
+.theme-dark .mod-sidedock,
+.theme-dark .workspace-split.mod-left-split,
+.theme-dark .workspace-split.mod-right-split,
+.theme-dark .workspace-tabs,
+.theme-dark .workspace-tab-header-container,
+.theme-dark .titlebar,
+.theme-dark .status-bar {
+  background: linear-gradient(180deg, #160d20 0%, #100918 100%) !important;
+  border-color: rgba(192, 132, 252, 0.24) !important;
+}
+
+/* Editor/readable surfaces */
+.theme-dark .markdown-source-view,
+.theme-dark .markdown-reading-view,
+.theme-dark .workspace-leaf-content,
+.theme-dark .view-content,
+.theme-dark .cm-editor,
+.theme-dark .cm-scroller {
+  background-color: var(--pg-bg-main) !important;
+}
+
+/* File explorer rows, search results, settings rows */
+.theme-dark .nav-file-title,
+.theme-dark .nav-folder-title,
+.theme-dark .tree-item-self,
+.theme-dark .vertical-tab-nav-item,
+.theme-dark .suggestion-item {
+  color: #d8c7ff !important;
+}
+
+.theme-dark .nav-file-title:hover,
+.theme-dark .nav-folder-title:hover,
+.theme-dark .tree-item-self:hover,
+.theme-dark .vertical-tab-nav-item:hover,
+.theme-dark .suggestion-item:hover {
+  background: rgba(192, 132, 252, 0.13) !important;
+  color: #f3e8ff !important;
+  text-shadow: 0 0 8px rgba(192, 132, 252, 0.50);
+}
+
+/* Icons: ribbon, file explorer, tabs, settings, status */
+.theme-dark svg.svg-icon,
+.theme-dark .clickable-icon,
+.theme-dark .workspace-tab-header-inner-icon,
+.theme-dark .nav-folder-collapse-indicator,
+.theme-dark .collapse-icon,
+.theme-dark .status-bar-item-icon {
+  color: #c084fc !important;
+  stroke: #c084fc !important;
+  filter: drop-shadow(0 0 4px rgba(192, 132, 252, 0.45));
+}
+
+.theme-dark .clickable-icon:hover,
+.theme-dark .workspace-tab-header:hover svg.svg-icon,
+.theme-dark .workspace-ribbon .clickable-icon:hover,
+.theme-dark .status-bar-item:hover svg.svg-icon {
+  color: #f3e8ff !important;
+  stroke: #f3e8ff !important;
+  filter: drop-shadow(0 0 7px rgba(233, 213, 255, 0.80));
+}
+
+/* Active tabs and selected nav items */
+.theme-dark .workspace-tab-header.is-active,
+.theme-dark .nav-file-title.is-active,
+.theme-dark .nav-folder-title.is-active,
+.theme-dark .tree-item-self.is-active,
+.theme-dark .vertical-tab-nav-item.is-active {
+  background: rgba(168, 85, 247, 0.18) !important;
+  color: #f3e8ff !important;
+  box-shadow: inset 0 0 0 1px rgba(192, 132, 252, 0.25), 0 0 14px rgba(168, 85, 247, 0.18);
+}
+
+/* Buttons, toggles, sliders */
+.theme-dark button.mod-cta,
+.theme-dark .mod-cta,
+.theme-dark .checkbox-container.is-enabled,
+.theme-dark .slider-thumb,
+.theme-dark input[type='range']::-webkit-slider-thumb {
+  background-color: var(--pg-purple) !important;
+  box-shadow: 0 0 10px rgba(192, 132, 252, 0.55) !important;
+}
+
+/* Links and selected text */
+.theme-dark a,
+.theme-dark .cm-hmd-internal-link,
+.theme-dark .internal-link,
+.theme-dark .external-link {
+  color: #d8b4fe !important;
+  text-shadow: 0 0 5px rgba(192, 132, 252, 0.28);
+}
+
+.theme-dark ::selection {
+  background: rgba(192, 132, 252, 0.30) !important;
+}
+
+/* Nested list guide glow — pairs with vertical lines of list-1 */
+.theme-dark ul ul::before,
+.theme-dark ol ul::before,
+.theme-dark ul ol::before,
+.theme-dark ol ol::before {
+  border-left-color: rgba(192, 132, 252, 0.45) !important;
+  filter: drop-shadow(0 0 4px rgba(192, 132, 252, 0.35));
+}
