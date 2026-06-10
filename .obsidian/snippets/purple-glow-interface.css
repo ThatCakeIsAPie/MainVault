@@ -35,11 +35,14 @@
   --text-accent: #cdb9ff !important;
   --text-accent-hover: #eee7ff !important;
 
-  /* Icons */
-  --icon-color: #a996d6 !important;
-  --icon-color-hover: #d8c7ff !important;
-  --icon-color-focused: #e6dcff !important;
-  --icon-color-active: #e6dcff !important;
+  /* Icons: VS Code-inspired light blue against the purple chrome */
+  --pg-icon-blue: #75beff;
+  --pg-icon-blue-bright: #b7dcff;
+  --pg-icon-blue-rgb: 117, 190, 255;
+  --icon-color: var(--pg-icon-blue) !important;
+  --icon-color-hover: var(--pg-icon-blue-bright) !important;
+  --icon-color-focused: #d6ecff !important;
+  --icon-color-active: #d6ecff !important;
 }
 
 /* App chrome: sidebars, ribbons, tabs, titlebar */
@@ -92,18 +95,18 @@
 .theme-dark .nav-folder-collapse-indicator,
 .theme-dark .collapse-icon,
 .theme-dark .status-bar-item-icon {
-  color: #a996d6 !important;
-  stroke: #a996d6 !important;
-  filter: drop-shadow(0 0 2px rgba(159, 122, 234, 0.20));
+  color: var(--pg-icon-blue) !important;
+  stroke: var(--pg-icon-blue) !important;
+  filter: drop-shadow(0 0 2px rgba(var(--pg-icon-blue-rgb), 0.22));
 }
 
 .theme-dark .clickable-icon:hover,
 .theme-dark .workspace-tab-header:hover svg.svg-icon,
 .theme-dark .workspace-ribbon .clickable-icon:hover,
 .theme-dark .status-bar-item:hover svg.svg-icon {
-  color: #e6dcff !important;
-  stroke: #e6dcff !important;
-  filter: drop-shadow(0 0 5px rgba(216, 199, 255, 0.42));
+  color: var(--pg-icon-blue-bright) !important;
+  stroke: var(--pg-icon-blue-bright) !important;
+  filter: drop-shadow(0 0 5px rgba(var(--pg-icon-blue-rgb), 0.42));
 }
 
 /* Active tabs and selected nav items */
