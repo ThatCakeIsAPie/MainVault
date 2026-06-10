@@ -181,6 +181,18 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "ff218a46625ad90b",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Business/Ideas/GovCon Proposal Automation Operating System.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ],
         "currentTab": 6
@@ -203,7 +215,12 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "5270cec8d0f70362",
