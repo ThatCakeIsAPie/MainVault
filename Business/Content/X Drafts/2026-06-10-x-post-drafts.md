@@ -1,7 +1,7 @@
 # X Post Drafts - 2026-06-10
 
 ## Source Material Used
-- Recent @LyleBCole X timeline scan via `x_search` for `from:LyleBCole since:2026-06-03`.
+- Recent @LyleBCole X timeline scan via `x_search` for `from:LyleBCole since:2026-06-01`.
 - `Business/Ideas/2026-06-09-overengineered-inventory-rack.md`
 - `Business/Ideas/GovCon Proposal Automation Operating System.md`
 - `Business/Ideas/GovCon Prime Subcontractor Outbound Sprint.md`
