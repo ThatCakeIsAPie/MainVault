@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Ideas/GovCon Proposal Automation Operating System.md",
+                "file": "Personal/Church/2026/2026-06-09 MYA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GovCon Proposal Automation Operating System"
+              "title": "2026-06-09 MYA"
             }
           }
         ]
@@ -188,7 +188,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Business/Ideas/GovCon Proposal Automation Operating System.md"
+                "file": "Personal/Church/2026/2026-06-09 MYA.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -220,11 +220,14 @@
       "zk-prefixer:Create new unique note": false,
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "5270cec8d0f70362",
   "lastOpenFiles": [
+    "Business/Ideas/GovCon Proposal Automation Operating System.md",
+    "Personal/Church/2026/2026-06-09 MYA.md",
     "Research/External AI Memory/Last30Days/Daily Debriefs/Past Debriefs/2026-06-08-daily-industry-landscape-debrief.md",
     "Research/External AI Memory/Last30Days/Daily Debriefs/2026-06-09-daily-industry-landscape-debrief.md",
     "Business/Ideas/2026-06-09-overengineered-inventory-rack.md",
@@ -245,7 +248,6 @@
     "Business/Content/X Drafts/2026-06-08-x-post-drafts.md",
     "Business/Content/X Drafts",
     "Business/Content",
-    "Business/Ideas/GovCon Proposal Automation Operating System.md",
     "Research/External AI Memory/Last30Days/Daily Debriefs/2026-06-08-30-day-industry-landscape-review.md",
     "Personal/Church/2026/2026-06-07.md",
     "Research/External AI Memory/Last30Days/Daily Debriefs/2026-06-08-daily-industry-landscape-debrief.md",
@@ -257,7 +259,6 @@
     "Business/Ideas/2026-06-08 - GovCon Opportunity Radar.md",
     "Business/Ideas",
     "Business/LTD Amway/Info Sessions/2026/2026-06-04 Tyler Sheridan.md",
-    "Untitled Kanban.md",
     "Untitled.base",
     "Excalidraw",
     "Research/raw/transcripts/Unconfirmed 641089.crdownload"
