@@ -1,29 +1,29 @@
 /*
   Purple Glow Interface for Obsidian / Blue Topaz
-  Purpose: dark purple UI background + lighter purple glowing icons/accents.
+  Style target: elegant, professional, slightly eccentric.
   Toggle in Settings → Appearance → CSS snippets → purple-glow-interface.
 */
 
 .theme-dark {
-  /* Core palette */
-  --pg-bg-deep: #100918;
-  --pg-bg-main: #171020;
-  --pg-bg-elevated: #21142f;
-  --pg-bg-hover: #2d1a42;
-  --pg-border: #59307c;
-  --pg-purple: #c084fc;
-  --pg-purple-bright: #e9d5ff;
-  --pg-purple-soft: #a855f7;
-  --pg-purple-rgb: 192, 132, 252;
+  /* Core palette: deep aubergine + muted violet accents */
+  --pg-bg-deep: #0f0b14;
+  --pg-bg-main: #15111c;
+  --pg-bg-elevated: #1d1727;
+  --pg-bg-hover: #282034;
+  --pg-border: #3f3154;
+  --pg-purple: #9f7aea;
+  --pg-purple-bright: #d8c7ff;
+  --pg-purple-soft: #8b5cf6;
+  --pg-purple-rgb: 159, 122, 234;
 
   /* Obsidian / Blue Topaz background variables */
   --background-primary: var(--pg-bg-main) !important;
-  --background-primary-alt: #1c1228 !important;
+  --background-primary-alt: #191320 !important;
   --background-secondary: var(--pg-bg-deep) !important;
-  --background-secondary-alt: #150d1f !important;
-  --background-modifier-border: rgba(var(--pg-purple-rgb), 0.28) !important;
-  --background-modifier-hover: rgba(var(--pg-purple-rgb), 0.12) !important;
-  --background-modifier-active-hover: rgba(var(--pg-purple-rgb), 0.20) !important;
+  --background-secondary-alt: #120e18 !important;
+  --background-modifier-border: rgba(var(--pg-purple-rgb), 0.18) !important;
+  --background-modifier-hover: rgba(var(--pg-purple-rgb), 0.08) !important;
+  --background-modifier-active-hover: rgba(var(--pg-purple-rgb), 0.13) !important;
 
   /* Accent variables */
   --interactive-accent: var(--pg-purple) !important;
@@ -32,14 +32,14 @@
   --color-accent: var(--pg-purple) !important;
   --color-accent-1: var(--pg-purple-soft) !important;
   --color-accent-2: var(--pg-purple-bright) !important;
-  --text-accent: var(--pg-purple-bright) !important;
-  --text-accent-hover: #ffffff !important;
+  --text-accent: #cdb9ff !important;
+  --text-accent-hover: #eee7ff !important;
 
   /* Icons */
-  --icon-color: #b88cff !important;
-  --icon-color-hover: var(--pg-purple-bright) !important;
-  --icon-color-focused: #f3e8ff !important;
-  --icon-color-active: #f3e8ff !important;
+  --icon-color: #a996d6 !important;
+  --icon-color-hover: #d8c7ff !important;
+  --icon-color-focused: #e6dcff !important;
+  --icon-color-active: #e6dcff !important;
 }
 
 /* App chrome: sidebars, ribbons, tabs, titlebar */
@@ -52,8 +52,8 @@
 .theme-dark .workspace-tab-header-container,
 .theme-dark .titlebar,
 .theme-dark .status-bar {
-  background: linear-gradient(180deg, #160d20 0%, #100918 100%) !important;
-  border-color: rgba(192, 132, 252, 0.24) !important;
+  background: linear-gradient(180deg, #17111f 0%, #0f0b14 100%) !important;
+  border-color: rgba(159, 122, 234, 0.16) !important;
 }
 
 /* Editor/readable surfaces */
@@ -72,7 +72,7 @@
 .theme-dark .tree-item-self,
 .theme-dark .vertical-tab-nav-item,
 .theme-dark .suggestion-item {
-  color: #d8c7ff !important;
+  color: #cbc2dd !important;
 }
 
 .theme-dark .nav-file-title:hover,
@@ -80,9 +80,9 @@
 .theme-dark .tree-item-self:hover,
 .theme-dark .vertical-tab-nav-item:hover,
 .theme-dark .suggestion-item:hover {
-  background: rgba(192, 132, 252, 0.13) !important;
-  color: #f3e8ff !important;
-  text-shadow: 0 0 8px rgba(192, 132, 252, 0.50);
+  background: rgba(159, 122, 234, 0.09) !important;
+  color: #e6dcff !important;
+  text-shadow: 0 0 5px rgba(159, 122, 234, 0.22);
 }
 
 /* Icons: ribbon, file explorer, tabs, settings, status */
@@ -92,18 +92,18 @@
 .theme-dark .nav-folder-collapse-indicator,
 .theme-dark .collapse-icon,
 .theme-dark .status-bar-item-icon {
-  color: #c084fc !important;
-  stroke: #c084fc !important;
-  filter: drop-shadow(0 0 4px rgba(192, 132, 252, 0.45));
+  color: #a996d6 !important;
+  stroke: #a996d6 !important;
+  filter: drop-shadow(0 0 2px rgba(159, 122, 234, 0.20));
 }
 
 .theme-dark .clickable-icon:hover,
 .theme-dark .workspace-tab-header:hover svg.svg-icon,
 .theme-dark .workspace-ribbon .clickable-icon:hover,
 .theme-dark .status-bar-item:hover svg.svg-icon {
-  color: #f3e8ff !important;
-  stroke: #f3e8ff !important;
-  filter: drop-shadow(0 0 7px rgba(233, 213, 255, 0.80));
+  color: #e6dcff !important;
+  stroke: #e6dcff !important;
+  filter: drop-shadow(0 0 5px rgba(216, 199, 255, 0.42));
 }
 
 /* Active tabs and selected nav items */
@@ -112,9 +112,9 @@
 .theme-dark .nav-folder-title.is-active,
 .theme-dark .tree-item-self.is-active,
 .theme-dark .vertical-tab-nav-item.is-active {
-  background: rgba(168, 85, 247, 0.18) !important;
-  color: #f3e8ff !important;
-  box-shadow: inset 0 0 0 1px rgba(192, 132, 252, 0.25), 0 0 14px rgba(168, 85, 247, 0.18);
+  background: rgba(139, 92, 246, 0.13) !important;
+  color: #eee7ff !important;
+  box-shadow: inset 0 0 0 1px rgba(159, 122, 234, 0.18), 0 0 9px rgba(139, 92, 246, 0.10);
 }
 
 /* Buttons, toggles, sliders */
@@ -124,7 +124,7 @@
 .theme-dark .slider-thumb,
 .theme-dark input[type='range']::-webkit-slider-thumb {
   background-color: var(--pg-purple) !important;
-  box-shadow: 0 0 10px rgba(192, 132, 252, 0.55) !important;
+  box-shadow: 0 0 6px rgba(159, 122, 234, 0.32) !important;
 }
 
 /* Links and selected text */
@@ -132,12 +132,12 @@
 .theme-dark .cm-hmd-internal-link,
 .theme-dark .internal-link,
 .theme-dark .external-link {
-  color: #d8b4fe !important;
-  text-shadow: 0 0 5px rgba(192, 132, 252, 0.28);
+  color: #c4b5fd !important;
+  text-shadow: 0 0 3px rgba(159, 122, 234, 0.16);
 }
 
 .theme-dark ::selection {
-  background: rgba(192, 132, 252, 0.30) !important;
+  background: rgba(159, 122, 234, 0.24) !important;
 }
 
 /* Nested list guide glow — pairs with vertical lines of list-1 */
@@ -145,6 +145,6 @@
 .theme-dark ol ul::before,
 .theme-dark ul ol::before,
 .theme-dark ol ol::before {
-  border-left-color: rgba(192, 132, 252, 0.45) !important;
-  filter: drop-shadow(0 0 4px rgba(192, 132, 252, 0.35));
+  border-left-color: rgba(159, 122, 234, 0.34) !important;
+  filter: drop-shadow(0 0 2px rgba(159, 122, 234, 0.18));
 }
