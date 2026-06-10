@@ -3,8 +3,8 @@
 Purpose: rolling industry report informed by daily Last30Days debriefs. This file captures the distilled direction of the industry over time, not merely daily notes.
 
 ## Current Direction
-- The industry is moving from chatbot/one-shot prompt demos toward **governed agentic workflows**: agents with scoped tools, planning loops, memory, validation, observability, human handoff, and rollback.
-- The useful buyer language is shifting from “autonomous magic” to “managed work units” that execute bounded missions inside a permissioned operating system.
+- The industry is moving from chatbot/one-shot prompt demos toward **governed agentic workflows**: agents with scoped tools, planning loops, shared memory, validation, observability, human handoff, and rollback.
+- The useful buyer language is shifting from “autonomous magic” to **managed work units** and **agent teams** coordinated by orchestrators inside permissioned operating systems.
 - Enterprise adoption pressure is creating demand for orchestration, audit trails, authorization, and evaluation harnesses more than for yet another toy multi-agent framework.
 
 ## Major Shifts to Watch
@@ -12,6 +12,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Authorization design for agents that can spend money, send messages, deploy code, modify records, or trigger irreversible actions.
 - The split between simple deterministic automation and genuinely agentic tasks; over-agentifying boring workflows remains the obvious foot-gun.
 - Persistent-memory / multi-agent team patterns becoming operationally useful rather than merely demo-friendly.
+- Observability tooling for agent decisions, tool calls, errors, and cost drift.
 
 ## Faleth Relevance
 - Build Faleth agents as scoped internal workers: daily opportunity monitoring, proposal intake, customer follow-up, repair intake triage, compliance review, and leadership workflow reminders.
@@ -29,3 +30,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - X discussion emphasized the practical deployment stack: non-agentic prompting vs single-task agents vs full agentic workflows, orchestration platforms decomposing missions, and authorization design for agents with real-world side effects ([Twendee](https://x.com/Twendee_/status/2064240865485410486), [AutomatosAI](https://x.com/AutomatosAI/status/2064230184782303486), [authorization-design thread](https://x.com/dreamwisedomain/status/2064183240361930945)).
 - Web snippets surfaced a June 9 TrueFoundry post on agent harnesses for managed/governed agents and a June 8 MIT CSAIL item on teaching agents to ask better questions ([TrueFoundry snippet](https://www.truefoundry.com/blog/agent-harness-managed-ai-agents), [MIT CSAIL](https://www.eecs.mit.edu/teaching-ai-agents-to-ask-better-questions-by-playing-battleship/)).
 - Signal strength: medium. Fresh discussion is strong; some web detail is snippet-level due extraction limits.
+
+### 2026-06-10
+- X signal reinforced the move toward **agent teams + orchestrator agents**, with discussion of coordination, QA layers, shared memory, and enterprise vertical use cases ([orchestrator-agent signal](https://x.com/RoundtableSpace/status/2064365904578703473), [Field Memory signal](https://x.com/AutomatosAI/status/2064592797349367842)).
+- Web snippets dated June 10 surfaced enterprise/observability coverage: Automation Anywhere arguing agentic AI needs orchestration/process reliability, and Honeycomb publishing agent observability guidance ([Automation Today snippet](https://automationtoday.net/featuredarticles/automation-anywheres-kuruganti-says-agentic-ai-needs-more-than-just-agents/), [Honeycomb snippet](https://www.honeycomb.io/resources/getting-started/agent-observability)).
+- Signal strength: medium. Current discussion is broad; some benchmark claims remain social-level until independently verified.

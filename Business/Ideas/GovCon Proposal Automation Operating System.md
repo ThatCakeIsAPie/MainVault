@@ -75,3 +75,4 @@ Map the current manual solicitation workflow end-to-end and identify the first a
 
 - 2026-06-08 daily debrief: GovCon proposal automation demand across SAM.gov monitoring, compliance matrices, and proposal drafting.
 - 2026-06-09 daily debrief: “shadow AI” in government proposal evaluations surfaced as a potential bid-protest risk; preserve clean records and post-award review discipline.
+- 2026-06-10 daily debrief: narrow last-24-hour launch signal was quiet, but repeated legal/news reposting of the June 8 shadow-AI evaluation issue reinforced that the OS should include an evidence locker, debrief log, evaluator-note capture, and counsel/escalation flag rather than just proposal drafting.

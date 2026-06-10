@@ -5,13 +5,14 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ## Current Direction
 - GovCon AI is moving toward vertical workflow automation: SAM.gov discovery, fit scoring, solicitation parsing, compliance matrices, pricing support, proposal drafting, and audit-ready review queues.
 - The market is also developing a second risk frontier: **government-side AI use in proposal evaluation**. Contractors need to watch not only how they use AI, but how agencies may use AI to evaluate them.
-- Vendor consolidation and capability expansion are likely as proposal automation firms add deeper compliance, data-room, CRM, and past-performance memory features.
+- Vendor consolidation and capability expansion are likely as proposal automation firms add deeper compliance, data-room, CRM, source-grounding, and past-performance memory features.
 
 ## Major Shifts to Watch
 - “Shadow AI” in government evaluations becoming a protest/disclosure issue.
 - GovCon proposal-AI vendors acquiring or integrating specialized drafting/compliance tools.
 - Shift from generic AI writing to source-grounded proposal operations: compliance matrices, clause extraction, audit trails, human signoff, and win-theme libraries.
 - SAM.gov/opportunity watchers becoming agentic capture assistants for small contractors.
+- Whether agencies publish procurement guidance on AI-assisted evaluation transparency.
 
 ## Faleth Relevance
 - VXE and LibreTech should build a lightweight internal GovCon Opportunity Radar before committing to external SaaS: opportunity watcher, NAICS/PSC filters, bid/no-bid score, compliance matrix, capture notes, vendor/sub outreach, and proposal outline.
@@ -29,3 +30,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - X found limited contractor-side launch chatter but a high-value legal/compliance signal around “shadow AI” in government proposal evaluations as a potential bid-protest issue ([Bradley legal post](https://x.com/bradleylegal/status/2064102923731128370), [National Law Review amplification](https://x.com/natlawreview/status/2064025913533300837)).
 - Web snippets surfaced June 8 coverage of Procurement Sciences acquiring Rogue AI and Deltek Clarity coverage noting AI-driven proposal development and pricing analysis under margin pressure ([ExecutiveBiz snippet](https://www.executivebiz.com/articles/procurement-sciences-acquires-rogue-ai-govcon-ai), [GovConWire snippet](https://www.govconwire.com/articles/clarity-report-2026-deltek-govcon-kevin-plexico)).
 - Signal strength: medium. The legal risk is source-specific but strategically important; vendor/acquisition evidence is snippet-level.
+
+### 2026-06-10
+- Narrow X search found no exact last-24-hour GovCon proposal automation launch, but broader recent activity still points to SAM.gov monitoring, opportunity scoring, compliant drafting, and pipeline agents ([GovCon X synthesis](https://x.com/polsia/status/2057281466808377431)).
+- Web search again surfaced the June 8 “shadow AI in proposal evaluations” legal analysis and several reposts, reinforcing that evaluation-side AI transparency is now a strategic watch item, not just writer-side automation ([GovCon Source Blog](https://www.govconsourceblog.com/2026/06/shadow-ai-in-government-contract-proposal-evaluations-emerging-bid-protest-risks-for-federal-contractors/), [JD Supra snippet](https://www.jdsupra.com/legalnews/shadow-ai-in-government-contract-2822764/)).
+- Signal strength: medium for strategic risk; weak for brand-new daily events.

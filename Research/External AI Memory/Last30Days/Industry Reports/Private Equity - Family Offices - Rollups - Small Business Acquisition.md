@@ -6,12 +6,14 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - The practical conversation is moving toward operator-led acquisition, small-fund math, fragmented legacy industries, and AI/process leverage after acquisition.
 - Family offices and patient capital continue to be positioned as more culturally aligned for founder/seller transitions than short-hold PE in many small-business contexts.
 - Rollup enthusiasm is real, but the hard part is integration capacity: systems, people, bookkeeping, customer concentration, management replacement, and operating cadence.
+- AI is increasingly used as a post-acquisition modernization thesis: buy old-industry customer bases, then improve operations with automation.
 
 ## Major Shifts to Watch
 - Rollups in dated/traditional industries using automation as the post-acquisition value lever.
 - Search/ETA tooling: deal pipeline dashboards, LP tracking, diligence automation, target monitoring, and operator benches.
 - Seller preference for patient/permanent capital and aligned ownership.
 - Warning signs of overheated rollup logic or multiple-arbitrage dependency.
+- Whether AI-rollup platforms publish real operating metrics or remain narrative-first financing wrappers.
 
 ## Faleth Relevance
 - Preserve Faleth’s strategic framing: **build-first, acquire-selectively**. Acquisitions are useful when they accelerate an operating system, not when they become the thesis.
@@ -28,3 +30,9 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - X discussion was niche but practical: rollups in dated industries, 7-10x entry valuation outcomes in some cases, small fund sizes where math still works, acquisition pipeline dashboards for searchers, operator benches before deal sourcing, and red flags such as customer concentration or owner-is-the-business targets ([Nichole Wischoff rollup signal](https://x.com/NWischoff/status/2064078984468697553), [search dashboard signal](https://x.com/polsia/status/2064067362949931234), [operator-bench signal](https://x.com/stavenka/status/2064073405087801835), [owner-is-business warning](https://x.com/daniel_askew/status/2063969270636102104)).
 - Web snippets for June 8/9 were weaker and mostly generic professional/finance pages.
 - Signal strength: medium for operator sentiment; weak for hard news.
+
+### 2026-06-10
+- X signal highlighted AI-powered rollups and VC comfort with buy-and-build models: acquire fragmented legacy customer bases first, modernize with AI later ([AI-rollup signal](https://x.com/PrivatEquityGuy/status/2064354586995904734)).
+- A related X thread discussed a serial acquirer/holdco with small add-ons, low EBITDA purchase multiples, and seller/operator retention ([serial acquirer signal](https://x.com/PrivatEquityGuy/status/2064316417403445637)).
+- Web snippets surfaced accounting-firm PE consolidation and Foresight backing Vestd, a sharetech/equity platform ([Philadelphia Inquirer snippet](https://www.inquirer.com/business/isdaner-co-accounting-firms-private-equity-sales-philadelphia-region-20260609.html), [Foresight/Vestd snippet](https://foresight.group/news-insights/news/2026/foresight-backs-sharetech-platform-vestd/)).
+- Signal strength: medium for market sentiment; weak-to-medium for hard news.
