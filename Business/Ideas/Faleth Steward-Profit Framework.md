@@ -60,6 +60,16 @@ Create a plain-language model that answers:
 - Governance rights becoming emotional instead of operational
 - Misaligned expectations if contribution is not measured clearly
 
+## Current Case Studies / Signals
+
+### 2026-06-11 — P. Terry's EOT + Profit Share
+
+P. Terry's Burger Stand is a useful live case study for Faleth's thinking: founders transferred controlling ownership to an Employee Ownership Trust and paired it with profit sharing for eligible employees, starting at 5% of operating income and aiming toward 20% over time. The important lesson is not "copy the legal wrapper tomorrow." The lesson is that ownership/control, mission continuity, tenure, profit participation, and liquidity can be designed as separate levers.
+
+Useful sources:
+- [Yahoo Finance / announcement](https://finance.yahoo.com/markets/stocks/articles/p-terrys-burger-stand-transitions-133000017.html)
+- [KUT local reporting](https://www.kut.org/business/2026-06-09/austin-tx-p-terrys-restaurant-employee-worker-ownership-profit)
+
 ## Next Step
 
-Draft a one-page Faleth Steward-Profit Framework v0.1 that is explicitly non-legal, operational, and testable inside one subsidiary or project before formalizing.
+Draft a one-page Faleth Steward-Profit Framework v0.1 that is explicitly non-legal, operational, and testable inside one subsidiary or project before formalizing. Include a small appendix comparing simple profit share, phantom equity, operator equity, ESOP, EOT, and steward trust concepts.

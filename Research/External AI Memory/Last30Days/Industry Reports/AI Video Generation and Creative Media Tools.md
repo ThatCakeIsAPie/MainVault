@@ -35,3 +35,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - X signal says the current creator bottleneck is consistency: character identity, face, silhouette, style, and continuity across shots ([consistency signal](https://x.com/WeirdW3Nerd/status/2064661760854851904)).
 - Web search found a June 10 YouTube result introducing **Buzzy Canvas** as an “AI co-director” infinite canvas for storylines, moodboards, drafts, and multi-model generation across Seedance/Kling/Veo-style tools ([Buzzy Canvas YouTube result](https://www.youtube.com/watch?v=80R89-7E2DY)).
 - Signal strength: medium. Tool launch claims are promotional, but the consistency/orchestration pattern repeats across creator discussion.
+
+### 2026-06-11
+- X creator testing in the last day favored **Seedance 2.0** for complex motion/action and **Kling 3.0 / Kling 4K image-to-video** as a strong practical option, while Veo 3/3.1 and Runway appeared less dominant in raw physics/action tests ([Seedance/Kling test](https://x.com/YourAlphaMom/status/2065002571148779843), [Veo/Runway ranking discussion](https://x.com/spaisee_com/status/2065001089313689944), [Kling 4K I2V test](https://x.com/laszlogaal_/status/2065019476165398675)).
+- Web search found mostly June 11 roundup/YouTube items rather than clean official releases, so the model-ranking signal remains creator/community-led ([Daily AI Show result](https://www.youtube.com/watch?v=i1LSyWO--14)).
+- Signal strength: medium. Useful for workflow benchmarking; volatile for any permanent ranking.

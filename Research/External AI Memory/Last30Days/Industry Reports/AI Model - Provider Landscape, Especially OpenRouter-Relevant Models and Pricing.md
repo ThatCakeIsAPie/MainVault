@@ -7,6 +7,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Cheap/open high-performing models are increasingly credible for classification, extraction, draft generation, and coding assistance; premium models should be reserved for high-stakes reasoning/review.
 - Prompt caching and effective price are becoming central to long-context agent economics.
 - Premium long-context agent models are getting powerful but expensive; stable reusable context plus cache-aware prompt design is now an operating discipline, not a nerd tax footnote.
+- Provider dashboards and activity analytics are becoming part of the model-selection loop: usage-weighted cost, cache-hit rate, and provider reliability matter as much as headline benchmark scores.
 
 ## Major Shifts to Watch
 - OpenRouter model availability/deprecation churn, especially free/cheap models and image/video-adjacent providers.
@@ -37,3 +38,9 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - The same official API check listed `minimax/minimax-m3` at about **$0.30/M input, $1.20/M output, $0.06/M cache read** with very large context/token limits ([OpenRouter models API](https://openrouter.ai/api/v1/models)).
 - X signal reported cache-hit-rate visibility in OpenRouter pricing and builder discussion around Chinese-model price/performance share ([cache visibility signal](https://x.com/ainews_24_7/status/2063600862925320426), [Chinese-model traffic signal](https://x.com/kokasync/status/2064446387555860506)).
 - Signal strength: strong for official pricing; medium for social interpretation.
+
+### 2026-06-11
+- X signal reported OpenRouter launched **Activity Explorer** for spend, token usage, cache hit rates, agents, models, users, providers, and trends ([OpenRouter Activity Explorer X post](https://x.com/OpenRouter/status/2064732886750699961)).
+- OpenRouter also reported Fable seeing roughly twice the usage volume of Opus 4.8 in a recent comparison; treat this as provider-reported social signal, not an independent benchmark ([OpenRouter Fable usage X post](https://x.com/OpenRouter/status/2064788002606309723)).
+- Official API check listed 338 models. Recent entries included `anthropic/claude-fable-5` and `~anthropic/claude-fable-latest` dated 2026-06-09 at **$10/M input, $50/M output, $1/M cache read, $12.50/M cache write**, plus `nvidia/nemotron-3-ultra-550b-a55b` dated 2026-06-04 at **$0.50/M input, $2.50/M output, $0.15/M cache read** ([OpenRouter models API](https://openrouter.ai/api/v1/models)).
+- Signal strength: strong for official pricing/API evidence; medium for usage interpretation.

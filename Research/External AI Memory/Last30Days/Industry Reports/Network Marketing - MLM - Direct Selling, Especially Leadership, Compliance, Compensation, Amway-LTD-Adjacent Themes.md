@@ -34,3 +34,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - X search found no notable Amway/MLM income-disclosure compliance development since June 9. One recent Amway mention concerned an Indian tax appeal and was unrelated to recruitment, earnings claims, or IDS practice ([TaxScan X item](https://x.com/tax_scan/status/2064653457387331796)).
 - Web search again surfaced Amway’s official income-disclosure page and 2026 business reference material as background/context, not a new daily change ([Amway income disclosure](https://www.amway.com/en_US/income-disclosure), [Amway Business Reference Guide PDF](https://www.amway.com/media-location/AmwayBusinessReferenceGuide_USEN.pdf)).
 - Signal strength: weak for new events; durable compliance backdrop remains strong.
+
+### 2026-06-11
+- No meaningful new Amway/LTD-specific compensation, income-disclosure, or leadership compliance event surfaced in the last 24 hours.
+- Web search again points to durable official context: Amway’s income disclosure and FTC MLM guidance on earnings claims, retail sales, and disclosure practices ([Amway Income Disclosure](https://www.amway.com/en_US/income-disclosure), [FTC MLM guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing), [FTC MLM disclosure alert background](https://consumer.ftc.gov/consumer-alerts/2024/09/what-are-multi-level-marketing-mlm-disclosure-statements-really-telling-you)).
+- Signal strength: weak for new events; strong for compliance backdrop.

@@ -14,6 +14,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Steward ownership and perpetual-purpose trust adoption outside niche impact/startup circles.
 - Confusion or marketing abuse where “ownership” language is used without real governance/control rights.
 - EOT + profit-sharing examples in consumer/local businesses, where culture preservation matters to founders.
+- Practical EOT case studies where founders explicitly choose employee/steward continuity over private-equity exits.
 
 ## Faleth Relevance
 - Faleth’s Contribution Framework should use precise language: pay, performance bonus, profit share, equity/control, and mission lock should not be blurred.
@@ -36,3 +37,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - X also surfaced New Jersey legislation activity around an Employee Ownership Transition Program supporting ESOPs, worker co-ops, EOTs, and other employee-ownership models ([ICA Group signal](https://x.com/TheICAGroup/status/2064426114877931644)).
 - Web search found background/context on steward ownership vs employee ownership and Aspen’s 2026 overview of employee ownership research ([NCEO background](https://www.nceo.org/employee-ownership-blog/when-steward-ownership-and-employee-ownership-meet-a-dialogue-between-two-traditions), [Aspen Institute background](https://www.aspeninstitute.org/publications/employee-ownership-and-esops-what-we-know-from-recent-research-2026/)).
 - Signal strength: medium. Good recent example; primary transition documents still worth finding.
+
+### 2026-06-11
+- P. Terry’s remained the strongest current ownership-design example, though the announcement is June 9 background/context rather than a strict last-24-hour change: 38 locations, 1,800+ employees, controlling ownership moved to an EOT, eligible employees receive 5% of operating income initially, with a stated path toward 20% ([Yahoo Finance / announcement](https://finance.yahoo.com/markets/stocks/articles/p-terrys-burger-stand-transitions-133000017.html), [KUT local reporting](https://www.kut.org/business/2026-06-09/austin-tx-p-terrys-restaurant-employee-worker-ownership-profit), [KUT X discussion](https://x.com/KUT/status/2064459385544302980), [DallasAptGP X discussion](https://x.com/DallasAptGP/status/2064597136478454028)).
+- The case reinforces EOT + profit sharing as a simpler, culture-preserving alternative to PE sale or classic ESOP complexity for some local operating businesses.
+- Signal strength: medium. Good practical example; still needs deeper primary/legal-structure detail before copying any mechanics.
