@@ -25,7 +25,7 @@ His overhead per year is $20 million. If he doesn't make $20 million a year in p
 He just didn't want to worry about money, about what his boss would think of him
 He wasn't excited about laundry detergent, skincare and supplements. But he was excited about an opportunity to grow.
 
-## Nick Oshodi Tangents
+## Nic Oshodi Tangents
 Shame doesnt build this business
 Stress vs pressure: pressure is internal
 I can cheer for others in excitement knowing im just as good. Dont let the down weeks let your self image down.
@@ -57,4 +57,8 @@ How to Sell It -
 - When we get old, we probably actually want to be around our kids in the future
 - Joints and lifestyle
 
-# Training - 
+# Training - Ethan Ellenberg and Nic Oshodi
+Q: How do you recover when you don't hit your goal?
+A: It starts in your mindset. It is easy to have a positive mental attitude when you hit your goals. But what happens when you do not? Anything happens, good. When people quit because you blow them out, good. When you get laid off 15 times, good. "Stephen Curry knows he is still Stephen Curry when he misses a shot." You can't look at you right now and think "when I get to X, Y, Z spot, then ill be a certain way" wrong, you bounce back, because that is who you are.
+Q: How to foster accountability in every area of your life?
+A: Are you accountable to it? Are you the example? You got to talk about it. People are gonna do what you talk about. If you talk about doing 150PV, people do 150PV. Go help them sell products. You are in a business to go serve people. What is stopping them? Sometimes, the way they think about some things.
