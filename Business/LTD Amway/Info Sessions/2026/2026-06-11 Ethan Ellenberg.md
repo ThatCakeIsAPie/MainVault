@@ -12,3 +12,7 @@ This was the hardest thing he did, not even running Moonshot which is going to d
 What makes the business hard? You.
 Most people won't succeed because they don't want to do what it takes. Most want to have the outcome, but not put in the effort it requires to make it happen.
 Just because you are a doctor doesn't guarantee you success.
+*The hardest thing he ever did was overcome the 6 inches between his ears*
+An LLC costs around $500. Does that guarantee you success?
+"Don't get your hopes up" What are you supposed to do without hope?
+What is the opposite of success? Failure? No. Quitting.
