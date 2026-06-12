@@ -13,6 +13,10 @@ Lyle described a clear three-layer motivation stack behind Faleth Capital, trigg
 
 The immediate pain is the absence of agency in modern work: people are treated like their time does not matter, as if adulthood and personal commitments are subordinate to arbitrary employer control. This is a major pain-driver behind Faleth Capital.
 
+Lyle clarified that the deepest sting is not merely inconvenience. It is the moral trade forced by paycheck-dependence. When an employer can say, in effect, “I know you made obligations to your family, but this matters more now — work overtime or lose your job,” the worker is pressured to act as though the paycheck is more important than family. That does not sit right with him.
+
+A major personal root is that Lyle refuses to become the kind of husband who puts a job above his family. If he marries, he does not want his household governed by employment coercion. He wants work to be chosen, not compulsory — not a fantasy of never working, but the freedom to choose what to work on.
+
 Lyle described the deeper purpose as building businesses that employ people in a way that respects their agency: adults are given freedom over their time and income, and the core standard is whether the work gets done. If someone produces twice the work in the same time, they should be paid twice as much. If they finish by noon, they should be free to go home early and see their family.
 
 He framed his motivations as:
