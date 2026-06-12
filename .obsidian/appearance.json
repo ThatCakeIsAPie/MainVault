@@ -3,6 +3,7 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "vertical lines of list-1",
-    "purple-glow-interface"
+    "purple-glow-interface",
+    "zzz-edit-toggle-blue"
   ]
 }

@@ -1,0 +1,44 @@
+/*
+  Final override for Obsidian's top-right edit/read toggle.
+  Kept separate and alphabetically last so it wins the cascade after theme/snippet rules.
+*/
+
+body.theme-dark button.clickable-icon.view-action[aria-label^="Current view: editing"],
+body.theme-dark button.clickable-icon.view-action[aria-label*="Click to read"] {
+  color: #75beff !important;
+  --icon-color: #75beff !important;
+  --icon-color-hover: #b7dcff !important;
+  --icon-color-active: #75beff !important;
+  --icon-color-focused: #75beff !important;
+}
+
+/* Blue Topaz replaces this icon with a CSS mask, so the visible color is background-color, not stroke. */
+body.theme-dark:not(.remove-custom-svg-icons) .workspace-leaf-content .view-header .view-actions button.clickable-icon.view-action[aria-label^="Current view: editing"] svg.svg-icon.lucide-book-open,
+body.theme-dark:not(.remove-custom-svg-icons) .workspace-leaf-content .view-header .view-actions button.clickable-icon.view-action[aria-label*="Click to read"] svg.svg-icon.lucide-book-open,
+body.theme-dark button.clickable-icon.view-action[aria-label^="Current view: editing"] svg.svg-icon.lucide-book-open,
+body.theme-dark button.clickable-icon.view-action[aria-label*="Click to read"] svg.svg-icon.lucide-book-open {
+  color: #75beff !important;
+  stroke: #75beff !important;
+  background-color: #75beff !important;
+  --icon-color: #75beff !important;
+}
+
+body.theme-dark button.clickable-icon.view-action[aria-label^="Current view: editing"] svg.svg-icon.lucide-book-open path,
+body.theme-dark button.clickable-icon.view-action[aria-label*="Click to read"] svg.svg-icon.lucide-book-open path {
+  stroke: #75beff !important;
+}
+
+body.theme-dark button.clickable-icon.view-action[aria-label^="Current view: editing"]:hover,
+body.theme-dark button.clickable-icon.view-action[aria-label^="Current view: editing"]:hover svg,
+body.theme-dark button.clickable-icon.view-action[aria-label^="Current view: editing"]:hover path,
+body.theme-dark button.clickable-icon.view-action[aria-label*="Click to read"]:hover,
+body.theme-dark button.clickable-icon.view-action[aria-label*="Click to read"]:hover svg,
+body.theme-dark button.clickable-icon.view-action[aria-label*="Click to read"]:hover path {
+  color: #b7dcff !important;
+  stroke: #b7dcff !important;
+}
+
+body.theme-dark button.clickable-icon.view-action[aria-label^="Current view: editing"]:hover svg.svg-icon.lucide-book-open,
+body.theme-dark button.clickable-icon.view-action[aria-label*="Click to read"]:hover svg.svg-icon.lucide-book-open {
+  background-color: #b7dcff !important;
+}

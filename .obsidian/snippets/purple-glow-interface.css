@@ -151,32 +151,3 @@
   border-left-color: rgba(159, 122, 234, 0.34) !important;
   filter: drop-shadow(0 0 2px rgba(159, 122, 234, 0.18));
 }
-
-/* Exact edit/read mode toggle from DOM inspection.
-   Minimal on purpose: only set color/stroke; do not touch display, fill, size, or layout. */
-.theme-dark button.clickable-icon.view-action[aria-label^='Current view: editing'],
-.theme-dark button.clickable-icon.view-action[aria-label^='Current view: editing'] svg,
-.theme-dark button.clickable-icon.view-action[aria-label^='Current view: editing'] path,
-.theme-dark button.clickable-icon.view-action[aria-label*='Click to read'],
-.theme-dark button.clickable-icon.view-action[aria-label*='Click to read'] svg,
-.theme-dark button.clickable-icon.view-action[aria-label*='Click to read'] path,
-.theme-dark button.clickable-icon.view-action svg.lucide-book-open,
-.theme-dark button.clickable-icon.view-action svg.lucide-book-open path {
-  color: #75beff !important;
-  stroke: #75beff !important;
-  --icon-color: #75beff !important;
-  --icon-color-hover: #b7dcff !important;
-  --icon-color-active: #75beff !important;
-  --icon-color-focused: #75beff !important;
-}
-
-.theme-dark button.clickable-icon.view-action[aria-label^='Current view: editing']:hover,
-.theme-dark button.clickable-icon.view-action[aria-label^='Current view: editing']:hover svg,
-.theme-dark button.clickable-icon.view-action[aria-label^='Current view: editing']:hover path,
-.theme-dark button.clickable-icon.view-action[aria-label*='Click to read']:hover,
-.theme-dark button.clickable-icon.view-action[aria-label*='Click to read']:hover svg,
-.theme-dark button.clickable-icon.view-action[aria-label*='Click to read']:hover path {
-  color: #b7dcff !important;
-  stroke: #b7dcff !important;
-}
-
