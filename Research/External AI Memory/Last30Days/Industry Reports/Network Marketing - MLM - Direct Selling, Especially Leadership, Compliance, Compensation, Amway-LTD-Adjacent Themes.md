@@ -39,3 +39,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - No meaningful new Amway/LTD-specific compensation, income-disclosure, or leadership compliance event surfaced in the last 24 hours.
 - Web search again points to durable official context: Amway’s income disclosure and FTC MLM guidance on earnings claims, retail sales, and disclosure practices ([Amway Income Disclosure](https://www.amway.com/en_US/income-disclosure), [FTC MLM guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing), [FTC MLM disclosure alert background](https://consumer.ftc.gov/consumer-alerts/2024/09/what-are-multi-level-marketing-mlm-disclosure-statements-really-telling-you)).
 - Signal strength: weak for new events; strong for compliance backdrop.
+
+### 2026-06-12
+- X search found no meaningful current Amway/LTD compensation, income-disclosure, or compliance development since 2026-06-11.
+- Web search again surfaced durable official/background context rather than a new daily event: Amway’s Income Disclosure page and January 2026 Business Reference Guide, plus FTC consumer/compliance framing on MLM income disclosures ([Amway Income Disclosure](https://www.amway.com/en_US/income-disclosure), [Amway Business Reference Guide PDF](https://www.amway.com/media-location/AmwayBusinessReferenceGuide_USEN.pdf), [FTC MLM disclosure alert](https://consumer.ftc.gov/consumer-alerts/2024/09/what-are-multi-level-marketing-mlm-disclosure-statements-really-telling-you)).
+- Signal strength: weak for new events; strong for the compliance backdrop. Keep focusing on language discipline, retail/customer-value framing, and IDS-backed earnings discussions.
