@@ -7,7 +7,7 @@ tags: [faleth-capital, motivation, agency, work-model, raw]
 
 # 2026-06-12 — Faleth Motivation, Agency, and Work Model
 
-Lyle described a clear three-layer motivation stack behind Faleth Capital, triggered by a date-night conflict where his girlfriend's employer imposed last-minute work despite prior obligations.
+Lyle described a clear three-layer motivation stack behind Faleth Capital, triggered by a date-night conflict where his girlfriend's employer imposed last-minute work despite prior obligations. He later sharpened the model into the **three Ps of motivation: push, pull, and process**.
 
 ## Raw Claim
 
@@ -19,17 +19,23 @@ A major personal root is that Lyle refuses to become the kind of husband who put
 
 Lyle described the deeper purpose as building businesses that employ people in a way that respects their agency: adults are given freedom over their time and income, and the core standard is whether the work gets done. If someone produces twice the work in the same time, they should be paid twice as much. If they finish by noon, they should be free to go home early and see their family.
 
-He framed his motivations as:
+He first framed his motivations as:
 
 1. **Pain motivation:** anger/frustration at people being treated like slaves to someone else's schedule, where their personal time and agency do not matter.
 2. **Process motivation:** enjoyment of automating, compressing workflows, shortening the path from inputs to outputs, and containerizing systems into modular “Lego pieces” that can be connected into larger machines.
 3. **Purpose motivation:** building companies that treat high-achieving people like adults, give them freedom over how they work, and let them soar through autonomy tied to measurable contribution.
 
-Lyle later refined the metaphor: pain is like **nitrous oxide** — powerful, useful for bursts, but short-term and not something to build the whole engine around. Purpose is closer to **rocket fuel** — it can sustain the long arc because it pulls toward something meaningful. But process is the **bedrock/foundation** that makes large work possible at all. A person can have enormous drive and noble purpose, but if they do not learn to enjoy the discipline, craft, and actual day-to-day process, they will not build anything truly large. Process is where motivation becomes repeatable.
+Lyle later refined the model using Tony Robbins' language of **push and pull motivation**. Pain is **push**: circumstances pushing you into action because something is wrong and must be escaped or corrected. Purpose is **pull**: the mission, future, and people you care about drawing you forward. Push is like **nitrous oxide** — powerful, useful for bursts, but short-term and not something to build the whole engine around. Pull is closer to **rocket fuel** — it can sustain the long arc because it aims toward something meaningful. But **process** is the bedrock/foundation that makes large work possible at all. A person can have enormous drive and noble purpose, but if they do not learn to enjoy the discipline, craft, automation, workflow compression, and actual day-to-day process, they are unlikely to build anything truly large.
 
 ## Distilled Model
 
 Faleth Capital is not merely anti-wage. It is pro-agency: compensation, process design, and ownership exist to restore adult freedom while still holding a high standard that the work must actually get done.
+
+In Faleth language, the three Ps are:
+
+1. **Push:** the short-term force of pain — lost agency, paycheck dependence, and the moral injury of ranking work above family.
+2. **Pull:** the long-term force of purpose — building companies where people can choose meaningful work without sacrificing family or adulthood.
+3. **Process:** the foundation — enjoying the discipline, systems, automation, and modular work that make that purpose operational.
 
 The core operational promise is:
 
