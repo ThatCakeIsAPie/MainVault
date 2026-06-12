@@ -33,6 +33,14 @@ The core operational promise is:
 
 > The work matters. The clock does not, unless time itself is the value being sold.
 
+## Source Influence
+
+Lyle identified Leon Hendrix's YouTube video **“The Success vs. Happiness Dilemma”** as the source that originally planted the three layers of motivation idea in him.
+
+- Video: [The Success vs. Happiness Dilemma](https://youtu.be/j2_zU2oUZHI)
+- Author/channel: Leon Hendrix
+- Lyle's adaptation: pain → process → purpose, applied to Faleth Capital, agency, family-first work, output-based compensation, and modular automation.
+
 ## Related Notes
 
 - [[Beyond the Wage]]
