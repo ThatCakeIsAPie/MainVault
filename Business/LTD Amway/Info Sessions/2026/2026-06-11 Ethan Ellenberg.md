@@ -53,5 +53,8 @@ Turmeric -
 		- Blood Sugar Regulation
 - Who would benefit?
 - Success story
+How to Sell It -
+- When we get old, we probably actually want to be around our kids in the future
+- Joints and lifestyle
 
 # Training - 
