@@ -16,3 +16,6 @@ Just because you are a doctor doesn't guarantee you success.
 An LLC costs around $500. Does that guarantee you success?
 "Don't get your hopes up" What are you supposed to do without hope?
 What is the opposite of success? Failure? No. Quitting.
+He learned business ownership, conflict resolution, how to inspire and motivate people, all of that through LTD. *You can take it all away, he can still make millions of dollars in a few months. It is a mindset.*
+I'd rather be wealthy in my mind rather than on paper
+How many people are gifted wealth, and have no idea what to do with it?
