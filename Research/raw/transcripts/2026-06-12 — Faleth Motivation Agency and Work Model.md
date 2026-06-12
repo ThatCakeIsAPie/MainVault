@@ -25,6 +25,8 @@ He framed his motivations as:
 2. **Process motivation:** enjoyment of automating, compressing workflows, shortening the path from inputs to outputs, and containerizing systems into modular “Lego pieces” that can be connected into larger machines.
 3. **Purpose motivation:** building companies that treat high-achieving people like adults, give them freedom over how they work, and let them soar through autonomy tied to measurable contribution.
 
+Lyle later refined the metaphor: pain is like **nitrous oxide** — powerful, useful for bursts, but short-term and not something to build the whole engine around. Purpose is closer to **rocket fuel** — it can sustain the long arc because it pulls toward something meaningful. But process is the **bedrock/foundation** that makes large work possible at all. A person can have enormous drive and noble purpose, but if they do not learn to enjoy the discipline, craft, and actual day-to-day process, they will not build anything truly large. Process is where motivation becomes repeatable.
+
 ## Distilled Model
 
 Faleth Capital is not merely anti-wage. It is pro-agency: compensation, process design, and ownership exist to restore adult freedom while still holding a high standard that the work must actually get done.
