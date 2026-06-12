@@ -25,6 +25,7 @@ His overhead per year is $20 million. If he doesn't make $20 million a year in p
 He just didn't want to worry about money, about what his boss would think of him
 He wasn't excited about laundry detergent, skincare and supplements. But he was excited about an opportunity to grow.
 
+## Nick Oshodi Tangents
 Shame doesnt build this business
 Stress vs pressure: pressure is internal
 I can cheer for others in excitement knowing im just as good. Dont let the down weeks let your self image down.
@@ -40,8 +41,17 @@ People always feel like they had more when they spoke to Larry Winters. They wou
 Conferences are like playing Mario Kart and hitting a speed boost, like having the wind on your back when you are running
 Do not take counsel on stage, even if your coach is on stage
 When people take a basic level conversation or talking point, and they take it to the extreme to make their point
-"Texas gets hot sometimes" "Yeah, but it gets cold sometimes"
+"Texas gets hot sometimes" "Yeah, but it gets cold sometimes" That is a low IQ point ***Preach!!!***
 
-# Top 5 Ditto - 
+# Top 5 Ditto - Josh Rodriguez
+Turmeric -
+- What is Turmeric?
+	- It is a spice known for its strong flavor
+	- Benefits:
+		- Anti-Inflammatory
+		- Improves Blood Flow
+		- Blood Sugar Regulation
+- Who would benefit?
+- Success story
 
 # Training - 
