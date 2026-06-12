@@ -11,14 +11,12 @@
             "id": "5270cec8d0f70362",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "audio",
               "state": {
-                "file": "Business/LTD Amway/Info Sessions/2026/2026-06-11 Ethan Ellenberg.md",
-                "mode": "source",
-                "source": false
+                "file": "Research/raw/audio/Recording 20260611220952.m4a"
               },
-              "icon": "lucide-file",
-              "title": "2026-06-11 Ethan Ellenberg"
+              "icon": "lucide-file-audio",
+              "title": "Recording 20260611220952"
             }
           }
         ]
@@ -226,12 +224,13 @@
   },
   "active": "5270cec8d0f70362",
   "lastOpenFiles": [
+    "Research/raw/transcripts/2026-06-11 — LTD Amway Info Session — Ethan Ellenberg — transcript.md",
+    "Business/LTD Amway/Info Sessions/2026/2026-06-11 Ethan Ellenberg.md",
     "Research/raw/audio/Recording 20260611220952.m4a",
     "Research/raw/audio",
     "Recording 20260611212703.m4a",
     "Business/Content/X Drafts/2026-06-12-x-post-drafts.md",
     "Business/LTD Amway/Info Sessions/2026/2026-06-04 Tyler Sheridan.md",
-    "Business/LTD Amway/Info Sessions/2026/2026-06-11 Ethan Ellenberg.md",
     "Research/raw/transcripts/2026-04-06 — Theological Reflection.md",
     "Personal/Journal/Process-Focused Mindset.md",
     "Personal/FAL-OUT Journal/2026-04-06 — Testing Sync.md",
@@ -260,7 +259,6 @@
     "Business/Content",
     "Research/External AI Memory/Last30Days/Daily Debriefs",
     "Research/External AI Memory/Last30Days",
-    "Business/Ideas",
-    "Untitled.base"
+    "Business/Ideas"
   ]
 }
