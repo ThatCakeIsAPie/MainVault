@@ -19,3 +19,7 @@ What is the opposite of success? Failure? No. Quitting.
 He learned business ownership, conflict resolution, how to inspire and motivate people, all of that through LTD. *You can take it all away, he can still make millions of dollars in a few months. It is a mindset.*
 I'd rather be wealthy in my mind rather than on paper
 How many people are gifted wealth, and have no idea what to do with it?
+If your team sucks, it means you sucked at leading them
+If you are doing $300 a month in profit, you just gave yourself a $3,600/yr raise
+His overhead per year is $20 million. If he doesn't make $20 million a year in profit, he doesn't make any money.
+He just didn't want to worry about money, about what his boss would think of him
