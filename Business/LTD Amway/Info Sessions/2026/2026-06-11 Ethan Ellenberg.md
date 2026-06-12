@@ -23,3 +23,25 @@ If your team sucks, it means you sucked at leading them
 If you are doing $300 a month in profit, you just gave yourself a $3,600/yr raise
 His overhead per year is $20 million. If he doesn't make $20 million a year in profit, he doesn't make any money.
 He just didn't want to worry about money, about what his boss would think of him
+He wasn't excited about laundry detergent, skincare and supplements. But he was excited about an opportunity to grow.
+
+Shame doesnt build this business
+Stress vs pressure: pressure is internal
+I can cheer for others in excitement knowing im just as good. Dont let the down weeks let your self image down.
+Dont fake yourself out for being great doing nothing, but dont translate the stress of life into the business
+The results are not magical. If the business is not predictable, it means something needs to change.
+The ongoing conversations between you and your coach will see results
+When you get frustrated, you need to see if you are putting in enough inputs
+There are things you might not see. If it is important to you, you get a coach. In this business, you dont pay with money, but with action and attention.
+Serious people elect a coach.
+This helps you build not just a team, but multiple teams
+*Don't look at the lack*
+People always feel like they had more when they spoke to Larry Winters. They would talk about what they didn't have, he would talk about what they did have.
+Conferences are like playing Mario Kart and hitting a speed boost, like having the wind on your back when you are running
+Do not take counsel on stage, even if your coach is on stage
+When people take a basic level conversation or talking point, and they take it to the extreme to make their point
+"Texas gets hot sometimes" "Yeah, but it gets cold sometimes"
+
+# Top 5 Ditto - 
+
+# Training - 
