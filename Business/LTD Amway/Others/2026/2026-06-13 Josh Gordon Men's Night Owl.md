@@ -181,4 +181,11 @@ If you are taking action and you aren't getting results, it is down to WKRP:
 	- Most of us aren't trying to talk to more confident people
 	- He had low confidence when he stared in business. he had to challenge himself to talk to more confident people
 - P- Personality
-	- 
+	- Just assume if you talk to 10 people, 2 will be hungry. It is an acknowledgement that you will speak to 8 people who are not.
+	- His defensiveness led him to fear the 8 people, and it will lead to no longer thinking "you aren't looking? Why?"
+	- If you talk to 20, sometimes, it is the last 4 who are hungry. Like, why can't it be the first 4?
+	- Maybe it is what it creates in us?
+	- God doesn't want you to be happy to be the number one objective. That doesn't help create you into the person God wants you to truly be.
+"Go for No: The Sequel" -Book
+The sequel book is great. It talks about limiting beliefs and more mindset things.
+The best people in sales don't spend their time convincing someone, rather, determining if the person they are speaking to is hungry. It doesn't matter what they say, you are going to frustrate yourself trying to convince them rather than talking to the peopl
