@@ -101,4 +101,12 @@ You might pursue something that shouldnt be pursued because you just want the nu
 Garbage truck mentality: people have so much trash they are filled with throughout the day, so when you have a bad interaction with them, it might have nothing to do with you.
 *It is not my judgement call to get upset with that person when i dont know what is going on with their life. But I might make their day by having an interaction with them.*
 It is customer service either way.
-Her parents made her go through customer service and retail, because it gave her 
+Her parents made her go through customer service and retail, because it gave her the experience of what it is like.
+*"If Jesus could wash Judas' feet, I can turn the other cheek"*
+Having the right thing to say, doesn't work. What is going to connect with someone is someone who wants to connect with you. They are meant to be in your business or not.
+*I only have 45 minutes, and sometimes, it isn't always a win. If you go into a conversation trying to get a win, it gets muddy, because now you have an agenda for the interaction.*
+She felt like she needed to get in the chat and that she was performing because she was getting numbers. But now, her win is she is going into the marketplace and meeting people.
+If you are a friendly enough person, sometimes that person wants to be connected.
+Contacting as a couple, you have to learn how to make the contact a priority at moments.
+What has helped him has been to find what specifically moves him to sponsor
+We all want to go platinum
