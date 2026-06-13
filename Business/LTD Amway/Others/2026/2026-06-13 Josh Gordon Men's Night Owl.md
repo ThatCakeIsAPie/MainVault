@@ -34,5 +34,17 @@ lt is hard to grow if you arent tracking. You track what you actually care about
 	- Can I find 30-40 minutes every day to sit down with somebody?
 	- It is the easiest time ever in the business for building a list. Go into social media, phone contacts, just export those contacts and you have your list.
 	- If you don't explain anything else in this business, just explain meeting 2 people a week
-	- 
+	- If you haven't visited your list in a while, it might be worthwhile. No for now doesn't mean no forever.
+	- Even if you went through your list, you might have to refresh your list.
+	- It is important to keep your mind fresh, everyone is looking for something.
+	- If you put Amway in the same section as FBA, dropshipping, etc., people are open to talk about that kind of stuff, something that they can do that doesn't take all of their time.
+	- Nobody wants to get a 50 year job and that is it. Everyone is always trying to do something.
+	- What are you trying to do with your free time?
+- Finding customers
+	- All of an old IBOs customers were originally "no"s
+	- Customer sales takes time to create it
+	- Just get the customers, and when you get them, protect them. It costs more to get a customer than to keep them.
+	- Keeping those customers is vital. You shouldn't really need more than like 10.
+	- Send a handwritten card to your customers.
+	- At one point, it is just a reminder in your calendar, but it takes less calendar time.
 - 
