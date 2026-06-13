@@ -24,3 +24,15 @@ How do you be friendly? How do you be warm and open and inviting?
 If you are dressed up, people assume you are confident and treat you as such
 
 # Meeting
+lt is hard to grow if you arent tracking. You track what you actually care about
+3 main time blocks:
+- Action blocks
+	- What actually advances the business
+	- If you are honoring the partnership, the difficulty is the 9 core action steps for 2 years
+	- If you do this for one full year, you will take steps towards platinum
+	- These blocks are sitting down and meeting people. Sit down with 2 new people every week.
+	- Can I find 30-40 minutes every day to sit down with somebody?
+	- It is the easiest time ever in the business for building a list. Go into social media, phone contacts, just export those contacts and you have your list.
+	- If you don't explain anything else in this business, just explain meeting 2 people a week
+	- 
+- 
