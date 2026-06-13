@@ -117,4 +117,12 @@ If you just looked at yourself through your upline's eyes, you might have more b
 
 ## Josh and Jess Gordon
 The business is pretty simple
-They didn't have a lot to do with their su
+They didn't have a lot to do with their success
+You keep talking to people, you keep serving people.
+It is just fun to think "what does the next 20 years look like?"
+There are unlimited spaces, it is fun to see who is going to earn it
+They are here to help you hit your goals
+Their mission is to help build strong families
+Joe Markiewicz is Choleric. Larry Winters is basically pure Sanguine. Brent Harris is Phlegmatic. Different personalities, huge teams.
+*You get breakthroughs through adversity*
+No matter where 
