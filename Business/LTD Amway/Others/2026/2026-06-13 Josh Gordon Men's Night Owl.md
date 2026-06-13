@@ -133,5 +133,9 @@ You can get big breakthroughs even through creating a customer, you get the most
 If you create a new customer, you are gonna feel better about yourself, you are gonna feel more confident about your business
 You probably aren't going to sponsor as many people if your win is you sponsored someone. Rather, you want to make your win just meeting people.
 Adam Ladenburger took a couple years to incubate
+Creating another customer will help you more than you think
+Creatine could help more women than men, with hormones and mental clarity, it wont bulk them up because they dont have as much testosterone
+If you put a couple hundred more bucks in your pocket, you talk different to people
 
 ### Cierra Dowker
+Her structure currently is 2/6, she went 3/10 at the winter conference and she went back a bit, but still doing good
