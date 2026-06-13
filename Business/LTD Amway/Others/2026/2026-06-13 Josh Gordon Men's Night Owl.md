@@ -91,3 +91,14 @@ Going back into it, they are refreshed, because they are just working with peopl
 They are really excited, and if someone doesn't match their excitement, they don't invite them back
 In the past, he would have been like "you dont get it". But now, he is like "we are going to table this for now, because this probably isn't the season for you"
 To have that posture, that much fun with your pipeline, you get peace in a full pipeline
+People see where they are at now and think "you must love doing it" and they are like "No, not really, i still have to hype myself up every day"
+Sometimes, your long term goals don't pull you necessarily
+What pulls her is what they don't want for their future
+Their schedules are so different, and they don't want that forever.
+The more excited you are about your future, the more convicted you are in your day to day actions
+She just tries to talk to as many people as possible
+You might pursue something that shouldnt be pursued because you just want the number
+Garbage truck mentality: people have so much trash they are filled with throughout the day, so when you have a bad interaction with them, it might have nothing to do with you.
+*It is not my judgement call to get upset with that person when i dont know what is going on with their life. But I might make their day by having an interaction with them.*
+It is customer service either way.
+Her parents made her go through customer service and retail, because it gave her 
