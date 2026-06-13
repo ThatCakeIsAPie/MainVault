@@ -25,7 +25,7 @@ If you are dressed up, people assume you are confident and treat you as such
 
 # Meeting
 lt is hard to grow if you arent tracking. You track what you actually care about
-3 main time blocks:
+3 main things:
 - Action blocks
 	- What actually advances the business
 	- If you are honoring the partnership, the difficulty is the 9 core action steps for 2 years
@@ -47,4 +47,11 @@ lt is hard to grow if you arent tracking. You track what you actually care about
 	- Keeping those customers is vital. You shouldn't really need more than like 10.
 	- Send a handwritten card to your customers.
 	- At one point, it is just a reminder in your calendar, but it takes less calendar time.
-- 
+- Personal use
+	- It is hard to have customers and a team without personal use
+	- It is important to financially discipline yourself for a company
+	- Business people have a calendar and protect their time. You need to do the same with your money.
+	- Everything you buy at platinum is 25% off, because you get that back.
+Bringing up business every chance you get is a great way to just get exposure
+Designer brands are successful because someone is modeling it. A celebrity gives it status.
+You don't see the results in yourself, but over time, in a family event, you become the model as you exude better relationship skills, leadership skills, you model it
