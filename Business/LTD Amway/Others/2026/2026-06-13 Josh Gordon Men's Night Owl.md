@@ -24,6 +24,7 @@ How do you be friendly? How do you be warm and open and inviting?
 If you are dressed up, people assume you are confident and treat you as such
 
 # Meeting
+## Richard and Monica Anderson
 lt is hard to grow if you arent tracking. You track what you actually care about
 3 main things:
 - Step one: Action blocks
@@ -74,4 +75,13 @@ Step 2 is reading, listening, associating
 Step 3 having a feedback loop with upline
 *A loop implies it always comes back to you, but for it to come back to you, it must first leave you*
 Seeking and pursuing coaching, not just receiving. If you only receiving coaching, it probably is going to end it.
-Very few leaders only pursue their people. Their b
+Very few leaders only pursue their people. Their people have to pursue them.
+Doing a core run, for the sake of sending a message every day.
+A core run is great for when it is 10PM and you havent listened or read, and in your shame, you read or listen just for that. Some days, it will look like that.
+Everyone else pushes a bit more in the gym when someone else is looking.
+*You are less likely to snooze when someone is waiting for you. Some of the highest level leaders do that because they know someone is looking.*
+She never wants to be the student or mentee who doesn't allow feedback to come in, she invites it in.
+If you aren't opening the feedback loop, allowing it in, then if they give any correction, it becomes just criticism they didnt ask for
+*Communication is what is going to allow you to communicate in the long run. How else are you going to know what the loop looks like in the long run if you don't communicate with your upline?*
+
+## Tyler and Meredith Hadden
