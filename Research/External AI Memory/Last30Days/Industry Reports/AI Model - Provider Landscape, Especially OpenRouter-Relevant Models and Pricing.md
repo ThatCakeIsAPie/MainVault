@@ -8,6 +8,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Prompt caching and effective price are becoming central to long-context agent economics.
 - Premium long-context agent models are getting powerful but expensive; stable reusable context plus cache-aware prompt design is now an operating discipline, not a nerd tax footnote.
 - Provider dashboards and activity analytics are becoming part of the model-selection loop: usage-weighted cost, cache-hit rate, and provider reliability matter as much as headline benchmark scores.
+- Cache-aware routing now matters at the model-selection level: some credible long-context models have cache-read prices that radically change effective cost for repeated research, agent loops, and standing system prompts.
 
 ## Major Shifts to Watch
 - OpenRouter model availability/deprecation churn, especially free/cheap models and image/video-adjacent providers.
@@ -49,3 +50,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Official OpenRouter API inspection returned 337 models. Recent relevant entries included `anthropic/claude-fable-5` at 1M context and **$10/M input, $50/M output, $1/M cache read, $12.50/M cache write**; `qwen/qwen3.7-plus` at 1M context and **$0.32/M input, $1.28/M output, $0.064/M cache read**; `minimax/minimax-m3` at ~1.05M context and **$0.30/M input, $1.20/M output, $0.06/M cache read**; `anthropic/claude-opus-4.8` at 1M context and **$5/M input, $25/M output, $0.50/M cache read**; and `google/gemini-3.5-flash` at ~1.05M context and **$1.50/M input, $9/M output, $0.15/M cache read** ([OpenRouter models API](https://openrouter.ai/api/v1/models)).
 - X signal found no major new model announcement in the last 24 hours; OpenRouter’s current operational story remains Activity Explorer/cache telemetry and visible cache-hit rates ([OpenRouter Activity Explorer](https://x.com/OpenRouter/status/2064730079872381392), [pricing/cache tab signal](https://x.com/OpenRouter/status/2063504950429147376)).
 - Signal strength: strong for official API pricing; medium for cache-usage/social interpretation.
+
+### 2026-06-13
+- Official OpenRouter API inspection again returned 337 models. Relevant entries included `anthropic/claude-opus-4.8` at **$5/M input, $25/M output, $0.50/M cache read, $6.25/M cache write**; `openai/gpt-5.5` at **$5/M input, $30/M output, $0.50/M cache read**; `qwen/qwen3.7-plus` at **$0.32/M input, $1.28/M output, $0.064/M cache read**; `deepseek/deepseek-v4-pro` at **$0.435/M input, $0.87/M output, $0.003625/M cache read**; and `x-ai/grok-4.20` at **$1.25/M input, $2.50/M output, $0.20/M cache read** ([OpenRouter models API](https://openrouter.ai/api/v1/models)).
+- Fresh X/current discussion reinforced prompt caching as the key cost lever and cache-aware prompt structuring as an operating practice ([cache implementation signal](https://x.com/vela_gao/status/2065459874348384512), [cache savings signal](https://x.com/akashgohil10/status/2065319124201574691)).
+- Signal strength: strong for official API pricing; medium for real-world cache-savings interpretation. Faleth should design standing prompts and agent loops so stable prefixes can actually be cached.

@@ -12,6 +12,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - GovCon proposal-AI vendors acquiring or integrating specialized drafting/compliance tools.
 - Shift from generic AI writing to source-grounded proposal operations: compliance matrices, clause extraction, audit trails, human signoff, and win-theme libraries.
 - SAM.gov/opportunity watchers becoming agentic capture assistants for small contractors.
+- Bid/no-bid scoring and fit triage becoming the first monetizable wedge before full proposal drafting.
 - Whether agencies publish procurement guidance on AI-assisted evaluation transparency.
 
 ## Faleth Relevance
@@ -45,3 +46,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Fresh X signal found Polsia announcing **AwardEdge**, scoring 2,847 SAM.gov opportunities for set-aside match quality; this reinforces opportunity scoring and bid/no-bid triage as the front door of GovCon automation ([AwardEdge / Polsia](https://x.com/polsia/status/2064931787017752678)).
 - Broader current signal continues around SAM.gov monitoring, compliant drafting, fast clause/compliance checking, and proposal agents, but much of the web landscape remains vendor-authored comparison content ([GovDash](https://www.govdash.com/blog/proposal-automation-tools-government-contractors), [ProposalConnect](https://proposalconnect.io/blog/best-proposal-automation-tools-government-contractors), [McCarren AI](https://www.mccarren.ai/blogs/winning-proposals/government-proposal-automation-software-mid-market-contractors/)).
 - Signal strength: medium. The daily novelty is real but social-level; the durable Faleth implication is to build an internal Opportunity Radar before full proposal drafting.
+
+### 2026-06-13
+- Fresh X/current signal highlighted RFP-Copilot-style RFP/RFQ/grant/bid evaluation and drafting, SAM.gov matching demos, and SAM.gov/API integration as current GovCon automation patterns ([RFP-Copilot](https://x.com/RFPCopilot/status/2065418853258240040), [SAM.gov matching demo signal](https://x.com/i/status/2065479510762369222), [SAM.gov/API signal](https://x.com/RFPCopilot/status/2065577388050952576)).
+- Web search surfaced an Army Contracting Command Smart Contracting Initiative opportunity seeking AI/automation for procurement modernization; extraction was unavailable, so keep this as snippet-level until inspected more deeply ([SAM.gov opportunity](https://sam.gov/opp/cbfaf032e14743ebb2ea9511f908678a/view)).
+- Signal strength: medium. Today's reinforcement is that the best internal wedge remains opportunity discovery + capability-profile fit + bid/no-bid triage before proposal drafting.
