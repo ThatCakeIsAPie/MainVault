@@ -110,3 +110,11 @@ If you are a friendly enough person, sometimes that person wants to be connected
 Contacting as a couple, you have to learn how to make the contact a priority at moments.
 What has helped him has been to find what specifically moves him to sponsor
 We all want to go platinum
+Richard doesn't "remember" what someones flaws were when they started, because he only thinks about where they are going
+If you just looked at yourself through your upline's eyes, you might have more belief in yourself
+"How can I serve you?" "Same as every upline's answer: grow. ***Fill the room with souls to serve.***"
+***Personal note: I think I'm finally getting it with filling the room. The room is a light in the darkness, one where when they get plugged in, they can be elevated. And the longer they are in it, the better they become and more of a light they become out in the marketplace.***
+
+## Josh and Jess Gordon
+The business is pretty simple
+They didn't have a lot to do with their su
