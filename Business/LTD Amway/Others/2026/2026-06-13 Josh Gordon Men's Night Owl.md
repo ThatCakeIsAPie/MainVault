@@ -159,4 +159,9 @@ If you are excited to sit down with people, it is lighter
 We have enough time to conference to bring someone on before it
 The lifestyle of an Emerald or Diamond is the best lifestyle he has ever seen
 Couples make enough where one or both don't have to work and they do it part time
-Almost no cash investment
+Almost no cash investments outside of maybe VIP subscription
+Not too many diamonds are stressed out, the lifestyle is low stress, they have finances coming in, $500-1,500k per year coming in.
+Financially, the business was the best thing he saw for time and money
+Impact, hanging out with the people and his coaches changed his life
+The business changed his life, he is excited to find people who want the same impact
+A breakthrough he had recently is he was playing defensive, he was trying to defend the business. He had only so many people on his team and he wasnt a multi millionaire, he had to defend that it was worth it. But when he was off of work for 8 weeks on maternity leave, it was the first time he didn't have to be anywhere, and it was really nice. He started realizing after walking out of the hospital, he met a couple where the guy had to take a bus home because they didnt have a car, it was a tight situation, he just thought "if you put your finances together, he is not in that situation" and it made him more thankful for this business. Even a few hundred a month coming in would take so much stress off of that couple's shoulders. Even though he didn't have to be anywhere, he wanted to be somewhere. First time he had that feeling.
