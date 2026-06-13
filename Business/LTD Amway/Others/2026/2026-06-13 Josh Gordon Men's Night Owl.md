@@ -188,4 +188,14 @@ If you are taking action and you aren't getting results, it is down to WKRP:
 	- God doesn't want you to be happy to be the number one objective. That doesn't help create you into the person God wants you to truly be.
 "Go for No: The Sequel" -Book
 The sequel book is great. It talks about limiting beliefs and more mindset things.
-The best people in sales don't spend their time convincing someone, rather, determining if the person they are speaking to is hungry. It doesn't matter what they say, you are going to frustrate yourself trying to convince them rather than talking to the peopl
+The best people in sales don't spend their time convincing someone, rather, determining if the person they are speaking to is hungry. It doesn't matter what they say, you are going to frustrate yourself trying to convince them rather than talking to the people who are actually hungry.
+He already decided he is going emerald and diamond, he decided he is going to go longer than shorter.
+The two people who show up, how do they see him?
+How do i want to present myself to the 2 people who are hungry? He is excited about this, you are going to see that he is excited about the business and the people he is working with.
+If they say something stupid, no worries, they are just part of the 8. But how is he going to be portrayed to the 2?
+How do you want to show up for the hungry person?
+So many people want someone who is going to be friendly with them
+If you want to have friendly people in your business, be friendly with people
+Be you. Don't try to be someone else.
+Kevin Schweres (a diamond) was sponsored within the 2 weeks before a conference
+Maybe you wont grow the fastest, but you can sponsor the fastest person. Josh took a while to go 7500, but Richard took 12 months, and he is on his team.
