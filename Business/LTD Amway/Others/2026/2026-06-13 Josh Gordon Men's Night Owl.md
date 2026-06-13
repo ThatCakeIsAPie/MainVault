@@ -53,5 +53,15 @@ lt is hard to grow if you arent tracking. You track what you actually care about
 	- Business people have a calendar and protect their time. You need to do the same with your money.
 	- Everything you buy at platinum is 25% off, because you get that back.
 Bringing up business every chance you get is a great way to just get exposure
-Designer brands are successful because someone is modeling it. A celebrity gives it status.
-You don't see the results in yourself, but over time, in a family event, you become the model as you exude better relationship skills, leadership skills, you model it
+*Designer brands are successful because someone is modeling it. A celebrity gives it status.*
+*You don't see the results in yourself, but over time, in a family event, you become the model as you exude better relationship skills, leadership skills, you model it*
+Listen to more audios and less music, associate as much as you can, in every way you can
+This is the only place where he has no fear because of the level of trust with the people here
+4 conferences a year
+The reason people dont do meetings is because you dont yet have the desire, the burning fire to just go for it "I should have the desire but I just dont". That battle, the only cure, is to read more. You just dont read enough.
+Physical paper books are the hardest for him which is why it is the most important for him.
+If you arent around people who are building big things, you wont have the desire. But if you read, you can associate with the author.
+You listen to enough Matt Grotewold audios, you cant help but get fired up.
+***You don't have the desire because you aren't associating with people who are building***
+***We all know what we need to do, but this is the fuel, the gas in the tank***
+We all know how a magnet works, there are different
