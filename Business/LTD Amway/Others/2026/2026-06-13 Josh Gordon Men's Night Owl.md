@@ -125,4 +125,12 @@ They are here to help you hit your goals
 Their mission is to help build strong families
 Joe Markiewicz is Choleric. Larry Winters is basically pure Sanguine. Brent Harris is Phlegmatic. Different personalities, huge teams.
 *You get breakthroughs through adversity*
-No matter where 
+No matter where you are at in business, people are going to stick with you, some are not.
+They have had probably around 10 breakthrough conversations since being a couple in the past 12 years, and they had to earn each breakthrough.
+Who you become in that process is so worth it. There are people who are counting on you in the future, and to put that person in play.
+The only thing special about them is that they have done it for longer.
+You can get big breakthroughs even through creating a customer, you get the most just building the business
+If you create a new customer, you are gonna feel better about yourself, you are gonna feel more confident about your business
+You probably aren't going to sponsor as many
+
+### Cierra Dowker
