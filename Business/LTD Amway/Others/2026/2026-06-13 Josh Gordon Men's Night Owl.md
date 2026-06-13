@@ -165,3 +165,20 @@ Financially, the business was the best thing he saw for time and money
 Impact, hanging out with the people and his coaches changed his life
 The business changed his life, he is excited to find people who want the same impact
 A breakthrough he had recently is he was playing defensive, he was trying to defend the business. He had only so many people on his team and he wasnt a multi millionaire, he had to defend that it was worth it. But when he was off of work for 8 weeks on maternity leave, it was the first time he didn't have to be anywhere, and it was really nice. He started realizing after walking out of the hospital, he met a couple where the guy had to take a bus home because they didnt have a car, it was a tight situation, he just thought "if you put your finances together, he is not in that situation" and it made him more thankful for this business. Even a few hundred a month coming in would take so much stress off of that couple's shoulders. Even though he didn't have to be anywhere, he wanted to be somewhere. First time he had that feeling.
+He is not wasting 10 minutes with someone who is not hungry. He wants to find out even in a 2 minute call whether or not someone is actually hungry.
+He has a different attitude now.
+Instead of just getting the number, he starts qualifying them, asking "well, why are you looking? what have you looked into so far?"
+Platinum is pretty cool, an extra $3-5k per month coming in. Paying someone to clean your house so you dont have to, put some cash in the bank.
+Platinum is good extra. It is worth fighting for breakthroughs.
+If you are taking action and you aren't getting results, it is down to WKRP:
+- W- Work
+	- If you arent doing enough work, it is going to feel frustrating and complicated
+	- If you talk to someone, and it doesnt work out, you are going to think "is it me?" Maybe, but you cant know.
+	- Volume reveals patterns
+- K- Knowledge
+	- Usually only takes like a week to get this
+- R- Right People
+	- Most of us aren't trying to talk to more confident people
+	- He had low confidence when he stared in business. he had to challenge himself to talk to more confident people
+- P- Personality
+	- 
