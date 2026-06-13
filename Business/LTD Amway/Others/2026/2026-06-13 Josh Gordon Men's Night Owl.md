@@ -85,3 +85,9 @@ If you aren't opening the feedback loop, allowing it in, then if they give any c
 *Communication is what is going to allow you to communicate in the long run. How else are you going to know what the loop looks like in the long run if you don't communicate with your upline?*
 
 ## Tyler and Meredith Hadden
+They are in the mode of doing 2 meetings a week, and had 4 guests at last week's meeting
+They were initially the people who were thinking "we are going to have a baby, and let nothing slow us down or stop us"
+Going back into it, they are refreshed, because they are just working with people who are hungry
+They are really excited, and if someone doesn't match their excitement, they don't invite them back
+In the past, he would have been like "you dont get it". But now, he is like "we are going to table this for now, because this probably isn't the season for you"
+To have that posture, that much fun with your pipeline, you get peace in a full pipeline
