@@ -145,4 +145,18 @@ Cierra has seasons where things arent going great in her business, she reaches o
 She had to ask "what do I have eyes on while in the marketplace? Needy more than greedy?" versus her ambition level and above
 *You can still talk to everyone, but if you are looking to find people at your ambition level or above, you will find it works*
 Because of her effort, her results are predictable
-To get results you want, you might need to do more work than you are currently doing
+To get results you want, you might need to do more work than you are currently doing.
+If you have all Saturday open, and you go home after getting one contact, what are you doing? Saturday should be your day to hammer this thing and play to the maximums. That is what will pay you in this business.
+If you are fighting for "how can I be a little bit better today than i was yesterday?"
+
+If you are trying to create more customers, a great question could be "what are your goals?"
+If you show up to the gym and have no goals, they probably wont get it.
+Have some tools in your tool belt
+A normal introduction in the gym is "what are you hitting today?" and that can lead to "what are your goals?"
+If you have someone at conference who wants to be there, it could change your business.
+It is way more fun to talk to people who you want to sit down with
+If you are excited to sit down with people, it is lighter
+We have enough time to conference to bring someone on before it
+The lifestyle of an Emerald or Diamond is the best lifestyle he has ever seen
+Couples make enough where one or both don't have to work and they do it part time
+Almost no cash investment
