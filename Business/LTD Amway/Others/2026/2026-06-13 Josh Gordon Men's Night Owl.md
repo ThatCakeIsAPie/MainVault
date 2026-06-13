@@ -131,6 +131,7 @@ Who you become in that process is so worth it. There are people who are counting
 The only thing special about them is that they have done it for longer.
 You can get big breakthroughs even through creating a customer, you get the most just building the business
 If you create a new customer, you are gonna feel better about yourself, you are gonna feel more confident about your business
-You probably aren't going to sponsor as many
+You probably aren't going to sponsor as many people if your win is you sponsored someone. Rather, you want to make your win just meeting people.
+Adam Ladenburger took a couple years to incubate
 
 ### Cierra Dowker
