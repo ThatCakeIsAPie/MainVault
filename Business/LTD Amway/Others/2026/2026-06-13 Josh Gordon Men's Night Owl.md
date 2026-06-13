@@ -140,3 +140,9 @@ If you put a couple hundred more bucks in your pocket, you talk different to peo
 ### Cierra Dowker
 Her structure currently is 2/6, she went 3/10 at the winter conference and she went back a bit, but still doing good
 Being in the gym is pretty easy to bring up products
+Through being in the mode, she was able to meet a guy named Troy, who is currently going 3/10 himself.
+Cierra has seasons where things arent going great in her business, she reaches out for help and takes the time to reflect.
+She had to ask "what do I have eyes on while in the marketplace? Needy more than greedy?" versus her ambition level and above
+*You can still talk to everyone, but if you are looking to find people at your ambition level or above, you will find it works*
+Because of her effort, her results are predictable
+To get results you want, you might need to do more work than you are currently doing
