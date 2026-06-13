@@ -139,3 +139,4 @@ If you put a couple hundred more bucks in your pocket, you talk different to peo
 
 ### Cierra Dowker
 Her structure currently is 2/6, she went 3/10 at the winter conference and she went back a bit, but still doing good
+Being in the gym is pretty easy to bring up products
