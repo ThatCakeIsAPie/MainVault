@@ -26,7 +26,7 @@ If you are dressed up, people assume you are confident and treat you as such
 # Meeting
 lt is hard to grow if you arent tracking. You track what you actually care about
 3 main things:
-- Action blocks
+- Step one: Action blocks
 	- What actually advances the business
 	- If you are honoring the partnership, the difficulty is the 9 core action steps for 2 years
 	- If you do this for one full year, you will take steps towards platinum
@@ -40,14 +40,14 @@ lt is hard to grow if you arent tracking. You track what you actually care about
 	- If you put Amway in the same section as FBA, dropshipping, etc., people are open to talk about that kind of stuff, something that they can do that doesn't take all of their time.
 	- Nobody wants to get a 50 year job and that is it. Everyone is always trying to do something.
 	- What are you trying to do with your free time?
-- Finding customers
+	- Finding customers
 	- All of an old IBOs customers were originally "no"s
 	- Customer sales takes time to create it
 	- Just get the customers, and when you get them, protect them. It costs more to get a customer than to keep them.
 	- Keeping those customers is vital. You shouldn't really need more than like 10.
 	- Send a handwritten card to your customers.
 	- At one point, it is just a reminder in your calendar, but it takes less calendar time.
-- Personal use
+	- Personal use
 	- It is hard to have customers and a team without personal use
 	- It is important to financially discipline yourself for a company
 	- Business people have a calendar and protect their time. You need to do the same with your money.
@@ -64,4 +64,14 @@ If you arent around people who are building big things, you wont have the desire
 You listen to enough Matt Grotewold audios, you cant help but get fired up.
 ***You don't have the desire because you aren't associating with people who are building***
 ***We all know what we need to do, but this is the fuel, the gas in the tank***
-We all know how a magnet works, there are different
+We all know how a magnet works, there are different levels of strength to a magnet. With those three things combined, you become a magnet
+You are polished in every way, your ability to observe and assess situations because of the environment you are in. Those are all features independently, but together, it makes a higher caliber of humans and leaders.
+The hang up is that only you can do it.
+*Some people are going to do one thing more than others, but can you level everything as much as possible to make yourself more magnetic?*
+We all run low on this, comfort creeps in. You are supposed to feel good about yourself, it happens, comfort creeps in. But the only way to keep fueled is association.
+Does Paul Kopecky listen to audios? 100%. Does he "need" to, to learn something new from it? Probably not.
+Step 2 is reading, listening, associating
+Step 3 having a feedback loop with upline
+*A loop implies it always comes back to you, but for it to come back to you, it must first leave you*
+Seeking and pursuing coaching, not just receiving. If you only receiving coaching, it probably is going to end it.
+Very few leaders only pursue their people. Their b
