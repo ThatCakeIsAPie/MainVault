@@ -1,0 +1,6 @@
+
+# Raw audio recordings (kept outside vault or compressed)
+Research/raw/audio/*.m4a
+Research/raw/audio/*.wav
+Research/raw/audio/*.ogg
+Research/raw/audio/*.opus
