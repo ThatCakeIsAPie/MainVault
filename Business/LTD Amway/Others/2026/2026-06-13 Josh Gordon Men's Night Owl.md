@@ -1,3 +1,11 @@
+## Audio and Transcript
+
+- Audio: ![[Recording-20260613-16k-32k.mp3]]
+- Transcript: [[2026-06-13 — Josh Gordon Mens Night Owl — transcript]]
+- Transcription model: xAI Grok STT (`grok-stt`)
+
+## Notes
+
 The world is set up for you to learn from it
 Get really good at figuring out if someone is curious or hungry
 If you want to get more confident, talk to people who are more confident than you

@@ -140,3 +140,9 @@
 - Verified AgentMemory MCP wiring; `hermes mcp test agentmemory` discovered 7 tools.
 - Added daily systemd timer `gbrain-obsidian-sync.timer` using `/root/.hermes/scripts/gbrain-obsidian-sync.sh` to keep GBrain current.
 - Documented status in `External AI Memory/memory-system-bakeoff-baseline-2026-06-11.md`.
+
+## [2026-06-14] ingest | Josh Gordon Men's Night Owl audio transcript
+- Source audio: `Research/raw/audio/Recording-20260613-16k-32k.mp3`.
+- Created transcript: `Research/raw/transcripts/2026-06-13 — Josh Gordon Mens Night Owl — transcript.md`.
+- Linked transcript/audio from `Business/LTD Amway/Others/2026/2026-06-13 Josh Gordon Men's Night Owl.md`.
+- Transcription model: xAI Grok STT (`grok-stt`).
