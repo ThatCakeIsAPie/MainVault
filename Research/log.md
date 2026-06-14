@@ -132,3 +132,11 @@
 - Created query syntheses: queries/how-ltd-amway-functions-as-leadership-incubator.md, queries/faleth-capital-operating-philosophy.md, queries/trust-as-root-of-business-systems.md
 - Rebuilt index.md with sections for entities, concepts, comparisons, and queries
 - Purpose: shift wiki from concept pile toward cross-linked knowledge map / strategic second brain
+
+## [2026-06-14] update | Memory stack wiring and full Obsidian GBrain source
+- Registered GBrain source `obsidian` for `/home/lylecole4/Documents/Main Vault`.
+- Synced 318 Obsidian Markdown pages; post-sync GBrain totals: 403 pages, 1239 chunks, 354 links, 55 tags, 6 timeline entries.
+- Verified Honcho local server health and Hermes Honcho tools-only provider status.
+- Verified AgentMemory MCP wiring; `hermes mcp test agentmemory` discovered 7 tools.
+- Added daily systemd timer `gbrain-obsidian-sync.timer` using `/root/.hermes/scripts/gbrain-obsidian-sync.sh` to keep GBrain current.
+- Documented status in `External AI Memory/memory-system-bakeoff-baseline-2026-06-11.md`.
