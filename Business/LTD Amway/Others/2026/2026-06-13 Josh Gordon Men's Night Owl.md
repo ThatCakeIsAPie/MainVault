@@ -199,3 +199,31 @@ If you want to have friendly people in your business, be friendly with people
 Be you. Don't try to be someone else.
 Kevin Schweres (a diamond) was sponsored within the 2 weeks before a conference
 Maybe you wont grow the fastest, but you can sponsor the fastest person. Josh took a while to go 7500, but Richard took 12 months, and he is on his team.
+
+## Men's Breakout
+You can either learn from your own mistakes, which takes years or decades of pain. Or you can learn from someone else's, and go on the offensive now, not having to go through the pain of having a daughter.
+You can wait for it, or act as if it is already happening to you.
+The first battle when your kid is born is to just get them back to weight. Until the baby is back at their weight, you are in an emergency state. Imagine hearing your kid may not make it at day 9. You cant not feed them every 2 hours, fall asleep.
+He remembered having the pain of going to the meeting with a downline, and those were the hardest meetings he ever had because of complications with his son.
+He remembers going through the pain and told himself he is never going to go through it again
+Cierra's best leg is someone who was first a customer and God decides to just flip it around
+Sometimes, it is so underneath your nose and you just dont see it
+Tyler has a good job (his traditional business), but no one in his traditional company would plan so diligently that he would have a soft landing for his family (after getting off of a plane)
+We can tend to let the enemy in our minds and think "this is just for the stage", but Josh has never heard Joe more excited about the business than he is now
+"If i would have known" Types of people, like the "if i would have known, i would have done differently"
+The people most excited to go to the event are those who prepared for it before they knew about it, like working out for a pool party
+There are going to be people going platinum with few people with the new product lines. It is time to dust the rust off
+When you miss stuff, it makes you negative.
+Richard continues to build the business, because it is just the right thing to do. It helps his marriage, and nothing helps it more than being around accountable dudes. He also wants his kids to grow up around these people's kids.
+He hasnt seen a community of better people. It keeps him really sharp.
+Very few people have the courage to come up and help him, because of how successful he is. He gets sad, frustrated. Good leaders know others go through that.
+He believes in the people of the business, Amway happens to be the distributor.
+He doesnt do it for money, though it is the easiest he makes. He goes to places and does meetings, but that is it.
+The hardest days in Amway are when you have 2-3 meetings a day in depth, but that is like 1-3 hours.
+3 meetings a day would be the fastest growing person in any info session, and it is like 1-3 hours a day.
+You know what you have to do, you just have to do more.
+You probably dont have to contact much, you just need to reach out to your list with enough confidence.
+If you arent building it, you just dont have the desire, the association you are consuming isnt pulling you to be better.
+Put yourself in a spot where you are associating enough that you are practically forced to grow. If you are fat, hang around body builders.
+You want to be around people who dont look at the price of anything, just get it because their wife wants it.
+Money could be a 
