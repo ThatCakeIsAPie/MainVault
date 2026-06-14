@@ -226,4 +226,4 @@ You probably dont have to contact much, you just need to reach out to your list 
 If you arent building it, you just dont have the desire, the association you are consuming isnt pulling you to be better.
 Put yourself in a spot where you are associating enough that you are practically forced to grow. If you are fat, hang around body builders.
 You want to be around people who dont look at the price of anything, just get it because their wife wants it.
-Money could be a 
+Money could be a good spark, but it wont be the main thing
