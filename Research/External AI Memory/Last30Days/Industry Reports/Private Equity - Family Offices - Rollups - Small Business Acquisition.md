@@ -5,6 +5,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ## Current Direction
 - The practical conversation is moving toward operator-led acquisition, small-fund math, fragmented legacy industries, and AI/process leverage after acquisition.
 - Family offices and patient capital continue to be positioned as more culturally aligned for founder/seller transitions than short-hold PE in many small-business contexts.
+- Permanent/patient services rollups are emphasizing seller continuity and retained ownership because client trust and relationship transfer are the actual assets.
 - Rollup enthusiasm is real, but the hard part is integration capacity: systems, people, bookkeeping, customer concentration, management replacement, and operating cadence.
 - AI is increasingly used as a post-acquisition modernization thesis: buy old-industry customer bases, then improve operations with automation.
 
@@ -51,3 +52,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Fresh X/current signal emphasized ex-PE operators leaving firms to run smaller rollups and seeking family-office-style capital partners, plus continuing fragmented-industry rollup activity ([operator-rollup signal](https://x.com/PrivatEquityGuy/status/2065509377948123366), [smaller acquisition/deal-flow signal](https://x.com/kenmackshow/status/2065329399151358050), [rollup activity signal](https://x.com/hutsalak/status/2065466649071788279)).
 - Web results were mostly broader 2026 context on rollup strategy, search funds, and AI-driven rollup theses rather than strict daily hard news ([CTA rollup guide](https://ctacquisitions.com/private-equity-roll-up-strategy/), [AI rollup survey](https://www.ai-rollup.fyi/investor-survey-report-2026.pdf)).
 - Signal strength: medium for market sentiment; weak for hard-news novelty. Faleth should keep emphasizing operator capability, stewardship, and build-first/selective-acquire discipline.
+
+### 2026-06-14
+- Current X signal was light but pointed to professional-services rollups with long-term hold/permanent-capital features: Kelly Partners’ acquisition history and Thrive Holdings’ accounting/IT-services approach were discussed as examples of seller-retention/economic-participation models where client trust is hard to replace ([professional-services rollup signal](https://x.com/PrivatEquityGuy/status/2065898484968939755)).
+- Another current signal argued newer $10–100M family offices often lack deal-flow networks, creating a niche for curated lower-middle-market origination ([family-office origination signal](https://x.com/luagaroz/status/2065585011772752324)).
+- Signal strength: medium for market sentiment; weak for hard-news novelty. Faleth should maintain build-first/acquire-selectively discipline and only buy when seller continuity and operating integration are realistic.

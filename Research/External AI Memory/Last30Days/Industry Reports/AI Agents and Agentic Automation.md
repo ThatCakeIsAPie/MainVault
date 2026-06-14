@@ -9,6 +9,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ## Major Shifts to Watch
 - Agent harnesses and orchestration layers that standardize permissions, tool access, logs, sandboxes, retries, and HITL escalation.
+- Dedicated agent benchmarks that test real tool-call trajectories rather than single-turn chat performance.
 - Authorization design for agents that can spend money, send messages, deploy code, modify records, or trigger irreversible actions.
 - The split between simple deterministic automation and genuinely agentic tasks; over-agentifying boring workflows remains the obvious foot-gun.
 - Persistent-memory / multi-agent team patterns becoming operationally useful rather than merely demo-friendly.
@@ -50,3 +51,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Fresh X/current signal reinforced that agentic automation is becoming an operations/control problem: benchmark realism for coding agents, workflow graphs for supervision/failure paths, and enterprise/industrial deployments with guardrails ([AgentPerf/hardware signal](https://x.com/rohanpaul_ai/status/2065576558312710584), [enterprise systems signal](https://x.com/CRudinschi/status/2065403991589003282), [workflow graph signal](https://x.com/aryan_xv/status/2065539906223702211)).
 - Web search surfaced governance-oriented agentic AI material; extraction was unavailable, so treat web detail as snippet-level ([TrendAI governance result](https://www.trendaisecurity.com/en-us/resources-insights/research/from-anarchy-to-authority-closing-the-governance-gap-in-agentic-ai)).
 - Signal strength: medium. Direction continues to favor scoped tools, permissions, logs, evals, budget limits, and rollback over unconstrained autonomy.
+
+### 2026-06-14
+- Fresh X/current signal reinforced the move from agent hype to infrastructure: clearer distinctions between deterministic automation and real agentic systems, AgentPerf-style real-world tool-call/coding trajectories, MCP-connected agentic RAG, and enterprise orchestration ([agent definition signal](https://x.com/CanvasPirate/status/2065917927589601595), [AgentPerf signal](https://x.com/tunguz/status/2065775689626780108), [MCP/RAG signal](https://x.com/Twendee_/status/2065840115189260580), [agent orchestration signal](https://x.com/AllenTanCheeHoe/status/2065752457494384909)).
+- Signal strength: medium. Durable takeaway: Faleth agents should be benchmarked, permissioned, observable work units rather than vague autonomous blobs.

@@ -4,6 +4,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ## Current Direction
 - GovCon AI is moving toward vertical workflow automation: SAM.gov discovery, fit scoring, solicitation parsing, compliance matrices, pricing support, proposal drafting, and audit-ready review queues.
+- Practical implementation is tilting toward **model routing**: cheaper models for high-volume triage/extraction/drafting, with frontier models and human reviewers reserved for final judgment.
 - The market is also developing a second risk frontier: **government-side AI use in proposal evaluation**. Contractors need to watch not only how they use AI, but how agencies may use AI to evaluate them.
 - Vendor consolidation and capability expansion are likely as proposal automation firms add deeper compliance, data-room, CRM, source-grounding, and past-performance memory features.
 
@@ -51,3 +52,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Fresh X/current signal highlighted RFP-Copilot-style RFP/RFQ/grant/bid evaluation and drafting, SAM.gov matching demos, and SAM.gov/API integration as current GovCon automation patterns ([RFP-Copilot](https://x.com/RFPCopilot/status/2065418853258240040), [SAM.gov matching demo signal](https://x.com/i/status/2065479510762369222), [SAM.gov/API signal](https://x.com/RFPCopilot/status/2065577388050952576)).
 - Web search surfaced an Army Contracting Command Smart Contracting Initiative opportunity seeking AI/automation for procurement modernization; extraction was unavailable, so keep this as snippet-level until inspected more deeply ([SAM.gov opportunity](https://sam.gov/opp/cbfaf032e14743ebb2ea9511f908678a/view)).
 - Signal strength: medium. Today's reinforcement is that the best internal wedge remains opportunity discovery + capability-profile fit + bid/no-bid triage before proposal drafting.
+
+### 2026-06-14
+- Fresh current signal was sparse but highly relevant: a practitioner post argued small GovCon firms should use cheaper models for bid/no-bid support, outlines, compliance matrices, past-performance mapping, and dashboards, reserving frontier models for final proposal polish; claimed result was 3x more proposal submissions at flat AI spend ([small GovCon AI bottleneck signal](https://x.com/mideenigmA/status/2065820349682332136)).
+- SAM.gov search surfaced AI-related opportunities including USPTO automated AI tools and an Advancing AI multiple-award contract; treat as searched/source-level leads rather than fully inspected solicitations ([USPTO AI tools SAM.gov result](https://sam.gov/opp/325520a29f764f0a93eaf134e412e6b1/view), [Advancing AI MAC result](https://sam.gov/opp/41cb7e34478d42b6b337a03ecf1ad7c0/view)).
+- Signal strength: medium. Faleth/VXE/LibreTech implication: add explicit cheap-model/premium-model routing and evidence-locker fields to the Opportunity Radar before full proposal drafting.
