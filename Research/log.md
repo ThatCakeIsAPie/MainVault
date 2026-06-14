@@ -146,3 +146,8 @@
 - Created transcript: `Research/raw/transcripts/2026-06-13 — Josh Gordon Mens Night Owl — transcript.md`.
 - Linked transcript/audio from `Business/LTD Amway/Others/2026/2026-06-13 Josh Gordon Men's Night Owl.md`.
 - Transcription model: xAI Grok STT (`grok-stt`).
+
+## [2026-06-14] update | Josh Gordon Men's Night Owl notes processed
+- Updated: `Business/LTD Amway/Others/2026/2026-06-13 Josh Gordon Men's Night Owl.md`.
+- Added frontmatter, processed takeaways, speaker-specific synthesis, Lyle-specific synthesis, and practical next actions.
+- Preserved original raw notes under `## Raw Notes`.
