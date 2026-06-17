@@ -35,3 +35,5 @@ It tells you how many offers were received
 *80% of the people doing government contracting arent using USASpending.gov*
 ***Get on the contract vehicle before the next contract comes up***
 "Only companies ready on the vehicle can bid" which is why only 3 companies bid on a contract
+*Find 5 opportunities, we will probably win 1. Find 20 even, you wont be able to handle them all.*
+If you have an industry keyword that makes sense, and it isn't niche, use thebkey
