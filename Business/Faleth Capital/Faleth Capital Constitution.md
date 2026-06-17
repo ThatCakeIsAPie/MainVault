@@ -18,11 +18,11 @@ It was designed for an industrial era that needed interchangeable human parts, n
 
 Faleth Capital exists to prove there is a better way.
 
-This is a family office built on a single conviction: that when people own their results, share in the upside and the downside, and are free to work in the way that suits their strengths and their life, they will outperform any system built on control, surveillance, and fixed compensation. Not because they are forced to. Because the structure makes it obvious that their effort matters.
+This is a family office built on a single conviction: that when people are given total agency, can work how they want, when they want, and share in the upside, they will outperform any system built on control, surveillance, and fixed compensation. Not because they are forced to. Because the structure makes it obvious that their effort matters.
 
 This constitution establishes the principles, structures, and mechanisms by which Faleth Capital operates. It is an open document. We are not big on secrets. Anyone — team member, subsidiary owner, prospective partner, or curious outsider — is welcome to read it, question it, and judge us by whether we live up to it.
 
-This is a document of governing philosophy. It communicates the spirit of the law, not the letter. Detailed mechanics for each area of the system live in their respective framework documents. The principles here are fixed. The parameters in the frameworks are not.
+The purpose of this document is to outline the structure and philosophy behind how we operate. The specific mechanics live in their respective frameworks, i.e. compensation is handled in the [[The Contribution Framework]]. This document outlines the spirit of the law, not the letter.
 
 # Article I: Purpose and Mission
 
@@ -32,48 +32,52 @@ Faleth Capital is a family office that owns, funds, and mentors operating busine
 
 ## 1.2 — The Mission
 
-**_Create and manage generational wealth._**
+**_Create and steward generational wealth._**
 
 That is the mission in its simplest form. Faleth Capital exists to make generational wealth accessible to people who have never had a path to it, and to manage and grow that wealth by reinvesting into those just getting started. It does this by building a portfolio of thriving businesses, each operated by people who have genuine ownership over their results, and by proving that the contribution-based model — where compensation is tied to value created rather than time spent — is superior to wages and salaries in every measurable dimension: productivity, retention, innovation, and human dignity.
 
 ## 1.3 — Philosophical Foundation: The One-Third Rule
 
-The financial architecture of Faleth Capital draws from a principle found in the Jewish Talmud: divide your wealth into thirds. One-third in land. One-third in business. One-third in liquid capital.
+Faleth Capital has two major operating financial philosophies.
 
-The Talmud also teaches that families should gather together — traditionally ten — to form a shared liquidity pool. If one member wants to start a business, the pool provides a zero-interest loan, knowing that when the venture succeeds, a portion of its returns will flow back, replenishing and growing the pool for the next person. It is a system of mutual investment built on trust, long time horizons, and the understanding that collective prosperity compounds faster than individual ambition.
+The first is that our financial architecture draws from a principle found in the Jewish Talmud: divide your wealth into thirds. One-third in land. One-third in business. One-third in liquid capital.
 
-Faleth Capital systematizes this wisdom. The family office covers two of the three thirds: business (through its subsidiaries) and liquid capital (through the shared liquidity pool funded by the 50% retention). The third — land, or more broadly, stable long-term assets like real estate and index funds — is the individual's responsibility, built with passive income discussed in Bucket One.
+The Talmud also teaches that families should gather together — traditionally about ten — to form a shared liquidity pool. If one member wants to start a business, the pool provides a zero-interest loan, knowing that when the venture succeeds, a portion of its returns will flow back, replenishing and growing the pool for the next person. It is a system of mutual investment built on trust, long time horizons, and the understanding that collective prosperity compounds faster than individual ambition.
+
+Faleth Capital systematizes this wisdom. The family office covers two of the three thirds: business and liquid capital. We accomplish this through keeping a liquid capital holding equivalent to the book value of our operating subsidiaries. The last third, land, is to be handled by the individual participant, with encouragement to follow the philosophy in Article I, Section 1.4.
 
 ## 1.4 — The Two Buckets
 
-We encourage every participant to think about their finances in terms of two buckets:
+The other major financial philosophy is that we encourage you to think about your finances in terms of two buckets:
 
-**Bucket One: The X Factor.** This is your safety net. Your "if I get X'd out, my family will be covered" bucket. It is untouched, invested in stable, long-term assets: land, index funds, bonds. It grows quietly and exists so that you never have to make decisions from a place of fear. This is the individual's "land" third.
+**Bucket One: The X Factor.** This is your safety net. Your "if I get X'd out, my family will be covered" bucket. It is untouched, invested in stable, long-term assets: land ideally, or real estate,index funds and bonds. It grows quietly and exists so that you never have to make decisions from a place of fear. This is the individual's "land" third.
 
-**Bucket Two: Active Income.** This is everything else — your contribution-based pay, your profit shares, your dividends, your side ventures. Because Bucket One is untouched and growing, Bucket Two gives you freedom to be aggressive: reinvest in your business, mint more shares, fund a new venture, or spend on lifestyle. The security of Bucket One makes the risk tolerance of Bucket Two possible.
+**Bucket Two: Active Income.** This is everything else — your primary income, contribution-based pay, your profit shares, your dividends, your side ventures. Because Bucket One is untouched and growing, Bucket Two gives you freedom to be aggressive: reinvest in your business, mint more shares, fund a new venture, or spend on lifestyle. The security of Bucket One makes the risk tolerance of Bucket Two possible.
 
-The structure of Faleth Capital is designed to help people build both buckets simultaneously. Weekly Layer 2 pay covers living expenses. Quarterly profit shares and dividends build Bucket Two and, when invested wisely, Bucket One. A side network marketing business — made possible by the no-time-clock model — adds an additional passive income stream through overrides on team sales, building Bucket One through the network effect while teaching the participant how to build a business through positive reinforcement rather than negative.
+The structure of Faleth Capital is designed to help people build both buckets simultaneously. Bucket 2 is covered through the weekly pay and quarterly shares and dividends. Bucket 1 is fueled by building a side network marketing business, made practical through a no-time-clock model. Once a participant is making a full time income through both their network marketing income in bucket 1, and their dividends in bucket 2, they are eligible to start their own subsidiary funded by Faleth Capital.
 
-By the time someone is ready to launch their own subsidiary under Faleth Capital, they should have a meaningful safety net in Bucket One and a growing active income in Bucket Two. They are not starting a business out of desperation. They are starting from a position of strength. That is by design.
+By the time someone is ready to launch their own subsidiary under Faleth Capital, they are not starting a business out of desperation. They are starting from a position of strength. They have built a business of their own that runs without their direct, 24/7 involvement, and secured a significant enough stake in the family office so that no matter what happens to their subsidiary, their family will be fine. That is by design.
+
+Our aim is to build and back indestructible business leaders.
 
 ## 1.5 — Building Networks and Strengthening Them
 
-There are two distinct skills in business that most systems treat as one. The first is building a network from nothing: recruiting, leading, creating relationships, and learning that your income is a direct function of your ability to generate value through other people. The second is integrating into an existing network and making it more valuable: identifying gaps, filling them, strengthening what already works, and expanding the reach of something larger than yourself.
+There are two distinct skills in business that most systems treat as one. The first is building a network from nothing: recruiting, leading, creating relationships, and learning that your income is a direct function of your ability to generate value through uplifting other people. The second is integrating into an existing network and making it more valuable: identifying gaps, filling them, strengthening what already works, and expanding the reach of something larger than yourself.
 
 Network marketing teaches the first skill beautifully. You start with zero. You learn to build through positive reinforcement rather than negative. Your income compounds through overrides on the sales of the network you created. It is one of the few business models where anyone, regardless of background or capital, can enter and build something real. We value it for exactly that reason, and it is a deliberate part of the participant pipeline.
 
-But network marketing has a structural limitation: the hierarchy is permanent. Your position in the tree is your position forever. If someone joins later who is more capable, more connected, or more effective than the person above them, the structure has no way to reflect that. The upline earns overrides on the downline regardless of who is actually generating the value. The person who plugs into an existing network and makes it dramatically better has no path to recognition proportional to their contribution.
+But network marketing has a structural limitation: the hierarchy is permanent. Your position in the tree is your position forever. The person who plugs into an existing network and makes it dramatically better has no path to recognition proportional to their contribution, as the value flows only upline. It is great for learning how to build your own network, but there is no financial incentive for making an existing one drastically better.
 
-The [[The Contribution Framework|Contribution Framework]] handles this portion. Someone who walks into an existing subsidiary, identifies a gap, and fills it earns contribution points proportional to the value they added. They didn't build the network. They made the network better. The math doesn't care when they arrived or who brought them in. And the Elected Lead system ensures that hierarchy itself is earned and re-earned continuously, not assigned once and frozen in place.
+The [[The Contribution Framework|Contribution Framework]] handles this portion. Someone who walks into an existing subsidiary, identifies a gap, and fills it earns proportionally to the value they add. They didn't build the network, they made the network better. The math doesn't care when they arrived or who brought them in. And by operating leadership under a more representative republic system, ensures that hierarchy itself is earned and re-earned continuously, not assigned once and frozen in place.
 
 This is not anti-hierarchy. It is anti-static hierarchy. A hierarchy that evolves based on demonstrated value is meritocracy with accountability. A hierarchy that is frozen in place is feudalism with better marketing. The most natural human systems — from the mammoth hunt to the most effective modern teams — are ones where leadership is earned and re-earned, where the chief is the chief because the group respects them, and where someone who stops earning that respect makes way for someone who will.
 
-Network marketing teaches you to build. The Contribution Framework rewards you for building and for strengthening what others have built. Together, they produce people who can do both. That is the kind of person who is ready to start a subsidiary.
+Network marketing teaches you to build from nothing. The Contribution Framework rewards you for building upon and strengthening what others have built. Together, they produce people who can do both. That is the kind of person who is ready to start a subsidiary.
 
 ### Why Network Marketing
-The reasoning behind "why network marketing" is remarkably simple. There is simply no other business model on earth that directly compensates you on helping others become successful. In a good network marketing business, you don't earn for recruiting. You earn for product moving. You earn for teach others to move product. You earn for teaching others how to teach others.
+The reasoning behind "why network marketing" is remarkably simple. There is simply no other business model on earth that directly compensates you for helping others become successful. In a good network marketing business, you don't earn for recruiting, you earn for product moving. You earn by teaching others to move product. You earn for teaching others how to teach others.
 
-But why most who build it don't actually receive passive income is because in order to make it passive, *you must learn how to build others to the point they no longer need you.* They are making money on their own accord, through their own skills, that you helped to teach them. If they are experiencing success, the likelihood they end up leaving your network is low. If you never help them succeed, the likelihood is high.
+But why most who build it don't actually receive passive income is because in order to make it passive, *you must learn how to build others to the point they no longer need you.* One leader calls it "leveraged leadership income". They are making money on their own accord, through their own skills, that you helped to teach them. If they are experiencing success, the likelihood they end up leaving your network is low. If you never help them succeed, the likelihood is high.
 
 You must build people through purely positive reinforcement. You hold no leverage over them. You can't fire your downline. You can't withhold a paycheck. They stay in your downline until they quit or you quit. It is a purely voluntary army. When built correctly, through the raising up of others, it produces a reward like no other.
 
@@ -89,7 +93,7 @@ As stated previously, you don't get compensated for coming into an existing netw
 
 There is an elegant symmetry between the two systems that is worth stating explicitly, because it is by design.
 
-Class B dividends are strongest in your early years, when you are actively contributing to a subsidiary and minting shares every quarter. Network marketing income is weakest in those same early years, when the business is still being built and the network has not yet reached the scale where it compounds on its own. As time passes and you step back from active subsidiary work, your shares naturally dilute and your dividend income gradually fades. But by then, if you have been building, the network marketing business is doing the opposite — maturing, self-replicating, compounding without your direct involvement.
+Class B dividends are strongest in your early years, when you are actively contributing to a subsidiary and minting shares every quarter. Network marketing income is weakest in those same early years, when the business is still being built and the network has not yet reached the scale where it compounds on its own. As time passes and you step back from active subsidiary work, your dividend income gradually fades because of dilution. But by then, if you have been building, the network marketing business is doing the opposite — maturing, self-replicating, compounding without your direct involvement.
 
 One is designed to decay without active involvement. The other is designed to grow without it. They cross in the middle. If you have built both, you never have a gap.
 
@@ -101,7 +105,7 @@ These two income streams are not interchangeable, and they are not both meant to
 
 **Dividends and profit share → Bucket Two (active lifestyle and runway).** This is what funds your life. It covers your expenses, gives you room to reinvest, and — critically — provides the runway you need while building a subsidiary in its unprofitable early years. A new business may take years to become meaningfully profitable. Without Bucket Two income, those early years put you into survival mode. With it, you can think long-term and actually build rather than scrambling to keep the lights on.
 
-In the early phase, while you are still working inside a subsidiary and your Layer 2 pay covers daily life, both streams may be going into reinvestment — minting more shares with profit share, feeding early network marketing earnings into Bucket One. That is fine. The structure is flexible in the early days. But the mature design is two streams, two buckets, two purposes. Network marketing builds the floor under your feet. Dividends and profit share keep the engine running while you build. When your subsidiary starts generating its own income, that takes over Bucket Two, and the dividends can go wherever you choose — reinvest, mint more shares, or redirect alongside your network marketing income into Bucket One.
+In the early phase, while you are still working inside a subsidiary and your Layer 2 pay covers daily life, both streams may be going into reinvestment — minting more shares with profit share and dividends, feeding early network marketing earnings into Bucket One. That is fine. The structure is flexible in the early days. But the mature design is two streams, two buckets, two purposes. Network marketing builds the floor under your feet. Dividends and profit share keep the engine running while you build. When your subsidiary starts generating its own income, that takes over Bucket Two, and the dividends can go wherever you choose — reinvest, mint more shares, or redirect alongside your network marketing income into Bucket One.
 
 ### The Accessible Path to Wealth
 
@@ -111,49 +115,26 @@ The idea is to start in both systems simultaneously. Build both. By the time one
 
 This is the path to wealth accessible to just about anyone. It does not mean everyone will walk it. But it lowers the barrier further than any single model can on its own. Network marketing stops being just a "quit your job" side hustle and becomes what it works best as: your true business education and your entry into wealth. And the Contribution Framework stops being just a better paycheck and becomes what it is designed to be: the launchpad for ownership.
 
-### The Five-Step Blueprint
+## 1.6 — The Five-Step Personal Blueprint
 
 The full vision of how this system is meant to be walked, from nothing to generational wealth, can be distilled into five sequential steps. These are not arbitrary stages. Each one builds the foundation for the next. Each one is designed to be started and developed while the previous one is still in progress.
 
 **Step 1: Start in network marketing.**
-Before anything else, start building a network marketing business. Not because it will make you rich quickly — it won’t. Because it is the only business model on earth that will pay you, from day one, to develop the skills that every other part of this system depends on: leadership, personal development, the ability to build others up, and the discipline of building a business through purely positive reinforcement. It is the foundational education. Start it first.
+Before anything else, start building a network marketing business. Not because it will make you rich quickly — it won’t. Because it is the only business model on earth that will pay you, from day one, to develop the skills that every other part of this system depends on: leadership, personal development, the ability to build others up, and the discipline of building a business through purely positive reinforcement. It is the foundational education. Get around the leaders, start your personal development journey. This is the part that will take the longest, as if done right, is a 2-10 year process. Start it first. 
 
 **Step 2: Maximize active income through work or a Faleth Capital subsidiary.**
-While building your network marketing business, maximize your active income — either through your current work or by joining a Faleth Capital subsidiary under the Contribution Framework. This covers your living expenses, removes desperation from your decisions, and begins building Bucket Two. The no-time-clock model gives you the flexibility to work both simultaneously without one cannibalizing the other.
+While building your network marketing business, maximize your active income; either through your current work or by joining a Faleth Capital subsidiary. This covers your living expenses, removes desperation from your decisions, and begins building Bucket Two. The no-time-clock model gives you the flexibility to work both simultaneously without one cannibalizing the other. This step shouldn't take more than a year or two.
 
 **Step 3: Build your network marketing business to full-time passive income.**
-Continue building until your network marketing income reaches a level that can fully fund Bucket One on its own — passive overrides flowing into land, index funds, and stable long-term assets regardless of what else is happening in your life. This is your floor. Once this step is complete, your family is covered no matter what. You can now take real risks because the downside is protected.
+Continue building until your network marketing income reaches a level that can fully fund Bucket One on its own — passive overrides flowing into land, index funds, and stable long-term assets regardless of what else is happening in your life. This is your floor. Once your 2-10 year process is complete, your family is covered no matter what. You can now take real risks because the downside is protected.
 
 **Step 4: Maximize active income through your own business.**
-With Bucket One secured and your foundation in place, you are ready to launch your own subsidiary under Faleth Capital. The office funds it. An existing member mentors you. You operate it with full autonomy under the Contribution Framework. Your network marketing income keeps Bucket One covered while the new business finds its footing. Your dividends and profit share fund Bucket Two while the subsidiary grows toward profitability.
+With Bucket One secured and your foundation in place, you are ready to launch your own subsidiary under Faleth Capital. The office funds it. An existing class A member mentors you. You operate it with full autonomy under the Contribution Framework. Your network marketing income keeps Bucket One covered while the new business finds its footing. Your dividends and profit share fund Bucket Two while the subsidiary grows toward profitability.
 
 **Step 5: Grow both simultaneously and indefinitely.**
 There is no finish line. Both systems compound in parallel — the network marketing business maturing and self-replicating, the subsidiary growing and eventually generating enough income for you to step back and start another. As personal wealth accumulates, the Managed Capital Account structure manages it through the same office, the same philosophy, the same people. The system that helped you build it now stewards it. You begin mentoring the next person through Step 1.
 
 This is the path. Not everyone will walk all five steps. Not everyone needs to. But anyone can, and this system is built so that each step is accessible to someone who has completed the one before it. The barrier at every stage is effort and time, not capital or connections. That is by design.
-
-
-
-## 1.6 — The Five-Step Personal Blueprint
-
-The organizational pipeline describes how Faleth Capital works. This is the personal roadmap for how an individual moves through that system from nothing to financial freedom. It is not the only way to walk this path. It is the most direct one we know of.
-
-**Step 1: Start in network marketing.**
-Before anything else, begin building a network marketing business. Not later. Now. Alongside whatever else you are doing. This is the business education most people never get — you learn to build through positive reinforcement, to develop people, to earn through others’ success rather than at their expense. It is the foundational education. Start it first.
-
-**Step 2: Maximize your active income.**
-Work inside a Faleth Capital subsidiary — or another high-margin active income source — while your network marketing business is still in its early building phase. Contribution-based work pays you for output, not hours, and generates profit share you can mint into equity. Your active income covers your life. Your growing equity stake builds your net worth. Your network marketing business builds quietly alongside it.
-
-**Step 3: Build your network marketing business to full-time passive income.**
-Keep building until the overrides from your network marketing business can cover your living expenses independently. This is Bucket One maturing. When this happens, your active income is no longer a survival requirement — it is fully available for reinvestment and equity minting. You are no longer working because you have to. You are working because you are building something.
-
-**Step 4: Maximize your active income through your own business.**
-With Bucket One secured and a growing equity stake from years of contribution-based work, you are ready to launch your own subsidiary. You are not betting everything on an unproven business. You are building from a position of genuine strength: passive income securing your family, equity growing your wealth, and Faleth Capital’s capital and mentorship backing your next move.
-
-**Step 5: Grow both simultaneously, indefinitely.**
-There is no finish line. Both systems continue to grow. The subsidiary matures, generates profit share, expands. The network marketing business compounds, feeds Bucket One, grows toward a legacy that outlasts your involvement. The equity stake appreciates and throws off dividends. Each system makes the other more durable. Each year that passes, the floor gets higher and the ceiling gets further away.
-
-This is not a sequence to rush through. Each step is designed to be completed fully before the next is attempted. The people who skip steps — who try to launch a subsidiary before Bucket One is built, or who never start network marketing because it feels slow — are starting from desperation rather than strength. The blueprint is patient by design. The rewards compound accordingly.
 
 ## 1.7 — The Pipeline
 
@@ -183,7 +164,7 @@ This is not theoretical. It is the structural intention of every mechanism descr
 
 Every mechanism in this system — the contribution points, the elected Leads, the equity pipeline, the mentoring compensation, the Peaceful Fork — flows from a single idea that is older than business itself: equip people until they no longer need you.
 
-This is the principle of discipleship applied to economic life. A disciple who never leaves is not a disciple. They are a dependent. The entire purpose of development is to produce someone who can go do the thing on their own — and then go produce others who can do the same. The measure of a leader is not how many people report to them. It is how many people they have developed to the point of independence.
+This is the principle of discipleship applied to economic life. A disciple who never leaves is not a disciple, they are a dependent. The entire purpose of development is to produce someone who can go do the thing on their own — and then go produce others who can do the same. The measure of a leader is not how many people report to them. It is how many people they have developed to the point of independence.
 
 The alternative is a trap for everyone involved. A leader who builds an organization that depends on them has built their own prison. They cannot step away, cannot get sick, cannot pursue anything else. Their identity fuses with their control. And the people beneath them learn, correctly, that their advancement depends on the leader's approval rather than their own capability. The result is a system that rewards loyalty over competence and presence over contribution. We reject that outcome.
 
