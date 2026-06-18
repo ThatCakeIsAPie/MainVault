@@ -36,4 +36,21 @@ It tells you how many offers were received
 ***Get on the contract vehicle before the next contract comes up***
 "Only companies ready on the vehicle can bid" which is why only 3 companies bid on a contract
 *Find 5 opportunities, we will probably win 1. Find 20 even, you wont be able to handle them all.*
-If you have an industry keyword that makes sense, and it isn't niche, use thebkey
+If you have an industry keyword that makes sense, and it isn't niche, use the keyword filter. If it is niche, dont.
+If you dont win an award, find it on USASpending.
+Use it to find realistic future opportunities to bid on
+Location can be good for identifying contracts from specific areas like Tobyhana Army Depot
+Funding agency *can* be helpful, as the funding agency often pays for other agencies in similar industries
+Contract tab can help you find IDIQ contracts
+Grants are usually custom stuff. If you have a custom solution, they can sponsor you and pay you before you do it, but it is way harder and a deeper relationship process.
+Direct payments are small, less than $5-10k purchases, government pay cards basically
+Award description could be useful for if you are looking for something specific, but generally not useful
+Start broad, narrow only when needed (5,000+)
+Broaden if results are thin (fewer than 10 contracts on a 4 digit code)
+Cross check what incumbents use
+If you find an award you like, ask AI for keywords like it so you can find similar contracts
+Find the agency, look it up on LinkedIn, find who works there, and reach out
+Homework:
+- 5 opportunities (2 hail mary's, 2 possibilities)
+- Opportunities must have history on USASpending, timeline, and a person you can get in touch with
+Next time, we will cover how to reach out to them, how to talk to them and build t
