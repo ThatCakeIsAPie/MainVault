@@ -77,3 +77,13 @@ Who cares? Just go sell products. Go tell people about your business. Yes, you n
 People aren't taking enough action to really be coached.
 *Do not wait for things to be perfect before starting, that time is never going to come. You are only going to get more responsibility, more sick, more tired. If you don't learn to work in chaos, you will never move forward. Your life will never have less chaos.*
 On your worst day, I want you to show up to the gym. If you are just here, we can walk and talk.
+What were they doing when their business was growing? They were just running and gunning. They had nothing to compare it to.
+We are so positioned to win, as with AI, we are becoming less authentic. By admitting you aren't perfect, you will attract people.
+If you don't transform your mind, you will not come along. You've got to choose to tap in.
+"I'm not going to try to understand all the factors, but I'm going to choose for it to be true that we are going into the golden age of Amway"
+When you adopt that attitude, the right people start showing up.
+I will take the person who is doing it over the person who is trying to do it right
+You are going to have to be used to looking silly, doing it wrong.
+*Try, fail, adjust*
+***0-7500PV is work ethic and attitude***
+Most people do just enough work to have something to analyze, 
