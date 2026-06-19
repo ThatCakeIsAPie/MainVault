@@ -23,4 +23,8 @@ What have you done that shows me you are going to take care of this vehicle? Tha
 *In school, you either pass or fail. In corporate america, if you fail, you get fired. That is why so many people are incompatible with entrepreneurship, they have been taught their entire lives that failure is not good.*
 *The opposite of success is not failure, but quitting.*
 *He remembered rich people would hand him keys to lamborghinis and ferraris without thinking, not because they trusted him, but they trusted the company he worked for.*
-Everything i
+Everything in our business regarding fulfillment is handled online, you just have to find the people
+Amway doesn't pay us a salary, they pay their employees a salary.
+Rather than buying a brand that doesn't pay you, buy a brand that does.
+Celebrities tell you to buy their protein, because they get paid for it. Buy your own, because you get paid for it.
+Amway pays me 3-25% for shopping with them. Imagine if Kroger gave you a check once a month for 
