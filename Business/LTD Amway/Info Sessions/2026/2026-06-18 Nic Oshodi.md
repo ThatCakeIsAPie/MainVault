@@ -37,4 +37,6 @@ If you get hit by a bus, your job will post a job posting the next day. They don
 Only his loser friends asked "how much money are you making?" If you have only been in the gym for 2 months and they ask "how much weight have you lost?" Do you know more about marriage in 6 months, or 6 years?
 I hope people laugh at you for making $37 your first month. You have to have the attitude of "if I can make $37, I can make $37k."
 If you are making an additional $300/month, that may not be exciting, but it is nice.
-***Personal note: Amway is a great example of having a complex compensation plan with simple execution. People can read how Faleth operates on the backend, think it is complex, but in rea***
+***Personal note: Amway is a great example of having a complex compensation plan with simple execution. People can read how Faleth operates on the back-end, think it is complex, but in reality, the execution is simple.***
+The average person will never have $100k in investments in their 20s/30s. But he had an asset in his 20s that paid him $100k/yr.
+***Personal note: I think one reason why a lot of IBOs tend to not want to think about the customer sales much is that they want to just be able to focus on one process. Customer sales doesn't add as much as building a team ultimately does, so it feels like a lot of effort, not much reward. It feels easier to just buy your own products and show others how to do the same.***
