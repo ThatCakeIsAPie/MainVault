@@ -18,3 +18,9 @@ You drive what you can afford. What if you could afford anything? What would you
 You have to have an open mind, and ability to actually be mentored.
 *It doesn't matter what vehicle you drive if you don't know how to drive it.*
 "How many people succeed in that business?" How many people are in shape? How many people pay for the gym and don't go, and say "it is the gym's fault"
+What have you done that shows me you are going to take care of this vehicle? That is the purpose of the interview process.
+*He learned how to drive stick shift through trial and error. Entrepreneurship is trial and error.*
+*In school, you either pass or fail. In corporate america, if you fail, you get fired. That is why so many people are incompatible with entrepreneurship, they have been taught their entire lives that failure is not good.*
+*The opposite of success is not failure, but quitting.*
+*He remembered rich people would hand him keys to lamborghinis and ferraris without thinking, not because they trusted him, but they trusted the company he worked for.*
+Everything i
