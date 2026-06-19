@@ -10,4 +10,5 @@ You are here because you are looking for something in addition to what you are d
 If he went to college and pursued a degree in PT, he would have had money, but not time. In the typical route, you either have time or money, but rarely both. Only here, only in independent entrepreneurship can you get both.
 ***Personal note: Network marketing income is great not because it is a ton of money, but the lifestyle it creates, the type of money it makes is so unique.***
 Ethan Ellenberg was an engineer, making great money, but he said he was doing this because if something happened to him, he couldn't pass his job down to his kids.
-*If n*
+*If nothing changes, nothing changes*
+"If you hang out with people who take drugs, you will probably start taking drugs." "If you hang out with broke people, you will probably be broke." Hang out with people who make you uncomfortable.
