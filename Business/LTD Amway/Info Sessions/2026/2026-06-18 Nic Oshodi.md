@@ -60,3 +60,11 @@ What stops belief?
 	- Going for your goals, tuff as an ox, GOD'S IMAGE
 Your self image shouldn't matter much. The only image that matters is God's Image.
 If you have a crappy attitude, your goals don't get completed. If you are going for your goals, you don't have room for a crappy attitude.
+
+One of my favorite things is a family business...
+If you have a business, your household has a business. Your family may not have an IBO number, but your household has a business if you have a business.
+
+# Training - Nic Oshodi
+*You are not going to go 7500 pretty. You cannot finesse your way to your goals.*
+He gets decision fatigue, because he gets all these ideas. But the longer he was in business, the more he would try to improve his messaging, he would start to get fatigued because of it, and he wouldn't message.
+He doesn't like shallow stuff.
