@@ -31,4 +31,10 @@ Amway pays me 3-25% for shopping with them. Imagine if Kroger gave you a check o
 *I am not loyal to a brand that is not loyal to me*
 If you get hit by a bus, your job will post a job posting the next day. They don't care about you. You have to watch out for yourself.
 1. Change your buying habits from companies that don't pay you to companies that do.
-2. Double what 
+2. Double what you are buying in customer sales
+3. Build a team of people to do the same
+5 years from now, are you making a strong income? Are you in a spot where you never have to worry about money ever again?
+Only his loser friends asked "how much money are you making?" If you have only been in the gym for 2 months and they ask "how much weight have you lost?" Do you know more about marriage in 6 months, or 6 years?
+I hope people laugh at you for making $37 your first month. You have to have the attitude of "if I can make $37, I can make $37k."
+If you are making an additional $300/month, that may not be exciting, but it is nice.
+***Personal note: Amway is a great example of having a complex compensation plan with simple execution. People can read how Faleth operates on the backend, think it is complex, but in rea***
