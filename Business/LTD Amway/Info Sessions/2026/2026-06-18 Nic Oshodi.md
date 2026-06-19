@@ -27,4 +27,8 @@ Everything in our business regarding fulfillment is handled online, you just hav
 Amway doesn't pay us a salary, they pay their employees a salary.
 Rather than buying a brand that doesn't pay you, buy a brand that does.
 Celebrities tell you to buy their protein, because they get paid for it. Buy your own, because you get paid for it.
-Amway pays me 3-25% for shopping with them. Imagine if Kroger gave you a check once a month for 
+Amway pays me 3-25% for shopping with them. Imagine if Kroger gave you a check once a month for everything you bought from them?
+*I am not loyal to a brand that is not loyal to me*
+If you get hit by a bus, your job will post a job posting the next day. They don't care about you. You have to watch out for yourself.
+1. Change your buying habits from companies that don't pay you to companies that do.
+2. Double what 
