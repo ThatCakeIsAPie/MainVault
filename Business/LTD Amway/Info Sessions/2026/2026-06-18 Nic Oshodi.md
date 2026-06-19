@@ -40,3 +40,23 @@ If you are making an additional $300/month, that may not be exciting, but it is 
 ***Personal note: Amway is a great example of having a complex compensation plan with simple execution. People can read how Faleth operates on the back-end, think it is complex, but in reality, the execution is simple.***
 The average person will never have $100k in investments in their 20s/30s. But he had an asset in his 20s that paid him $100k/yr.
 ***Personal note: I think one reason why a lot of IBOs tend to not want to think about the customer sales much is that they want to just be able to focus on one process. Customer sales doesn't add as much as building a team ultimately does, so it feels like a lot of effort, not much reward. It feels easier to just buy your own products and show others how to do the same.***
+We try to filter out the average person because the average person wants everything, yet wants to do nothing. They want none of the risk yet all the reward.
+Most people who will make fun of you for taking 5-10 years to get a full time income in this business will work a job their entire life. I don't care if it takes me 20 years, I am still ahead.
+*My kids won't care about a deal I closed 30 years ago. But they will care about the couple I helped get debt-free.*
+You live in one of the free-est countries in the world, yet live paycheck to paycheck
+
+# Ditto - Patrick and Angie Salgado's
+XS Brand - Energy drinks, ultra focus, sports nutrition
+Repetitive customer is what keeps the business going.
+His success story is his mom. His mom was a non-believer in the business at first. She didn't have belief in the products, but she was struggling with sleep. He sampled her the sweet dreams and the ashwagandha (and magnesium). Now, she is energized and ready and never stressed. Also, she is recommending the business to his brothers.
+What stops belief?
+- Outside Noise
+	- Doubters, haters = losers
+- Belief Builders
+	- Upline, kids, family
+- You vs you
+	- Mindset, cry baby attitude, self image
+- Flip the switch
+	- Going for your goals, tuff as an ox, GOD'S IMAGE
+Your self image shouldn't matter much. The only image that matters is God's Image.
+If you have a crappy attitude, your goals don't get completed. If you are going for your goals, you don't have room for a crappy attitude.
