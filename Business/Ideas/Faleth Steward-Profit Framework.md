@@ -62,6 +62,14 @@ Create a plain-language model that answers:
 
 ## Current Case Studies / Signals
 
+### 2026-06-19 — Lyle's Profit Share Accounting Thesis
+
+Source: [[2026-06-19 — Profit Share Incentive Alignment Reflection]]
+
+Lyle's current thesis is that profit share is underused less because the incentive logic is weak and more because the accounting/fairness mechanics are confusing. Business owners worry about doing it wrong, preventing free riders, and making the distribution feel legitimate. That difficulty is real, but it is also the reason solving it may be so valuable: a clear profit-share system gives workers a direct reason to care about company performance. If the company does well, they do well.
+
+Implication for Faleth: the competitive advantage is not merely "offer profit share." It is building the accounting layer that makes profit share legible, fair, and hard to game.
+
 ### 2026-06-11 — P. Terry's EOT + Profit Share
 
 P. Terry's Burger Stand is a useful live case study for Faleth's thinking: founders transferred controlling ownership to an Employee Ownership Trust and paired it with profit sharing for eligible employees, starting at 5% of operating income and aiming toward 20% over time. The important lesson is not "copy the legal wrapper tomorrow." The lesson is that ownership/control, mission continuity, tenure, profit participation, and liquidity can be designed as separate levers.
