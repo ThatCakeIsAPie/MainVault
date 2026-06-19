@@ -67,4 +67,13 @@ If you have a business, your household has a business. Your family may not have 
 # Training - Nic Oshodi
 *You are not going to go 7500 pretty. You cannot finesse your way to your goals.*
 He gets decision fatigue, because he gets all these ideas. But the longer he was in business, the more he would try to improve his messaging, he would start to get fatigued because of it, and he wouldn't message.
-He doesn't like shallow stuff.
+He once spent 8 hours talking to Claude to make the perfect email.
+*Most people are unaware of the thing that is holding them back*
+We aren't going to wait to be perfect to talk about this
+What did he do going 7500? He was willing to make mistakes, because he didn't know different, he didn't have the heaviness of trying to get it right.
+So many of us aren't where we want to be because we don't feel like we are where we want to be yet.
+You can't wait to be a platinum to talk about your business.
+Who cares? Just go sell products. Go tell people about your business. Yes, you need attitude and posture, but that is done through taking action with proper coaching.
+People aren't taking enough action to really be coached.
+*Do not wait for things to be perfect before starting, that time is never going to come. You are only going to get more responsibility, more sick, more tired. If you don't learn to work in chaos, you will never move forward. Your life will never have less chaos.*
+On your worst day, I want you to show up to the gym. If you are just here, we can walk and talk.
