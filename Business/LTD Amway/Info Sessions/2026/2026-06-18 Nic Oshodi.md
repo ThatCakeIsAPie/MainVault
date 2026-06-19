@@ -12,3 +12,9 @@ If he went to college and pursued a degree in PT, he would have had money, but n
 Ethan Ellenberg was an engineer, making great money, but he said he was doing this because if something happened to him, he couldn't pass his job down to his kids.
 *If nothing changes, nothing changes*
 "If you hang out with people who take drugs, you will probably start taking drugs." "If you hang out with broke people, you will probably be broke." Hang out with people who make you uncomfortable.
+*What would you do if you didn't have to have a job?* Would you wake up at the time you usually do during the week?
+You adjust to what you have to. But what if you didn't have to?
+You drive what you can afford. What if you could afford anything? What would you actually drive?
+You have to have an open mind, and ability to actually be mentored.
+*It doesn't matter what vehicle you drive if you don't know how to drive it.*
+"How many people succeed in that business?" How many people are in shape? How many people pay for the gym and don't go, and say "it is the gym's fault"
