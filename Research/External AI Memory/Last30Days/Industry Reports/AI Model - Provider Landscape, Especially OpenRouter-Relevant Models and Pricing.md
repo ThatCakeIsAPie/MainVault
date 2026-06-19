@@ -10,6 +10,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Premium long-context agent models are getting powerful but expensive; stable reusable context plus cache-aware prompt design is now an operating discipline, not a nerd tax footnote.
 - Provider dashboards and activity analytics are becoming part of the model-selection loop: usage-weighted cost, cache-hit rate, and provider reliability matter as much as headline benchmark scores.
 - Cache-aware routing now matters at the model-selection level: some credible long-context models have cache-read prices that radically change effective cost for repeated research, agent loops, and standing system prompts.
+- Response caching and compound/panel routing add a second layer of economics beyond provider prompt caching: identical requests, reusable context, and multi-model calls must be logged separately.
 
 ## Major Shifts to Watch
 - OpenRouter model availability/deprecation churn, especially free/cheap models and image/video-adjacent providers.
@@ -17,6 +18,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Independent verification of new open-weight benchmark claims.
 - Reliability differences under tool use, long context, structured output, and coding-agent workloads.
 - Whether Chinese/open models continue gaining traffic share among builders due to price/performance.
+- Whether compound/router products such as Fusion expose clear effective cost, underlying model mix, and cache-hit accounting.
 
 ## Faleth Relevance
 - Create a Faleth/OpenRouter routing policy: cheap model for classification/extraction, mid-tier model for draft generation, premium cached model for final reasoning and review, multimodal only when required.
@@ -61,3 +63,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - OpenRouter launched/discussed **Fusion** (`openrouter/fusion`), a server-side compound model/panel workflow priced as the sum of underlying model calls plus OpenRouter fees; OpenRouter explicitly noted its cost comparison included cache hits ([Fusion launch](https://x.com/OpenRouter/status/2065856860435988482), [cache-inclusive comparison note](https://x.com/OpenRouter/status/2065864932155920534)).
 - Official OpenRouter API inspection returned 337 models. Relevant entries included `openrouter/fusion` with placeholder negative pricing fields, `moonshotai/kimi-k2.7-code` at **$0.75/M input, $3.50/M output, $0.16/M cache read**, `anthropic/claude-fable-5` at **$10/M input, $50/M output, $1/M cache read, $12.50/M cache write**, `qwen/qwen3.7-plus` at **$0.32/M input, $1.28/M output, $0.064/M cache read**, `minimax/minimax-m3` at **$0.30/M input, $1.20/M output, $0.06/M cache read**, and `deepseek/deepseek-v4-flash` at **$0.09/M input, $0.18/M output, $0.02/M cache read** ([OpenRouter models API](https://openrouter.ai/api/v1/models)).
 - Signal strength: strong for API pricing, medium for Fusion quality/cost claims. Faleth should test Fusion only on bounded synthesis tasks with budget caps.
+
+### 2026-06-19
+- Official OpenRouter API inspection returned 341 models. Selected rows: `openai/gpt-5.5` at **$5/M input, $30/M output, $0.50/M cache read**; `openai/gpt-5.5-pro` at **$30/M input, $180/M output**; `anthropic/claude-opus-4.5` at **$5/M input, $25/M output, $0.50/M cache read, $6.25/M cache write**; `google/gemini-3-pro-image` at **$2/M input, $12/M output, $0.20/M cache read, $0.375/M cache write**; `openrouter/fusion` still exposed placeholder negative pricing fields ([OpenRouter models API](https://openrouter.ai/api/v1/models)).
+- X/current signal discussed Opus/GPT-5.5 cost tradeoffs, prompt caching, and routing/Fusion strategies; treat social pricing claims as secondary to the API ([OpenRouter cost signal](https://x.com/AndreBuckingham/status/2067748188602200074), [Fusion/routing signal](https://x.com/kirillk_web3/status/2067602480620536078)).
+- Signal strength: strong for official API pricing; medium for social cost/quality interpretation. Faleth should separate provider prompt caching, OpenRouter response caching, and compound-model call costs in logs.

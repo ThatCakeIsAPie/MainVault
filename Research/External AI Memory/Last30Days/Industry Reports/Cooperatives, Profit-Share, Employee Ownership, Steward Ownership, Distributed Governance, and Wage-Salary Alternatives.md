@@ -7,6 +7,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - ESOPs remain the most visible U.S. structure; EOTs, cooperatives, steward ownership, perpetual purpose trusts, and profit-share models serve different legal/governance purposes.
 - The strategic distinction that matters for Faleth: labor compensation, bonuses/profit share, equity-like upside, governance/control rights, and mission/asset lock are separate levers.
 - Founder succession stories are increasingly contrasting employee/steward ownership with private-equity exits.
+- Ownership infrastructure tooling is emerging around communication, transparency, engagement, and administration for broad-based employee ownership plans.
 
 ## Major Shifts to Watch
 - State-level and regional programs helping retiring owners transition to employee ownership.
@@ -15,6 +16,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Confusion or marketing abuse where “ownership” language is used without real governance/control rights.
 - EOT + profit-sharing examples in consumer/local businesses, where culture preservation matters to founders.
 - Practical EOT case studies where founders explicitly choose employee/steward continuity over private-equity exits.
+- Software/platform providers that make broad-based ownership more understandable and administrable for frontline workers, not just executives and lawyers.
 
 ## Faleth Relevance
 - Faleth’s Contribution Framework should use precise language: pay, performance bonus, profit share, equity/control, and mission lock should not be blurred.
@@ -57,3 +59,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Current X signal was mostly ESOP-oriented: personal ESOP payout/success stories, basic explainers, and tech stock/options being loosely framed as employee ownership; fresh EOT/steward-ownership discussion was minimal ([ESOP payout signal](https://x.com/MattCla94774883/status/2065920548559880444), [ESOP explainer signal](https://x.com/Fundaileyatirim/status/2065684648861036689), [tech employee-ownership framing](https://x.com/DennisH40517200/status/2065940961528574015)).
 - Web results were stronger as background/context than daily novelty, including a 2026 EOT policy report comparing ESOPs, worker co-ops, and EOTs ([RMEOC EOT policy report - background](https://www.rmeoc.org/content-rmeoc/media-upload/2026/01/employee-ownership-trusts-policy-report.pdf), [NCEO five-country report - background](https://www.nceo.org/hubfs/Expanding-Employee-Ownership-Models-Five-Countries-NCEO-2025.pdf)).
 - Signal strength: weak for new events; medium for continuing trend. Faleth should keep separating wages, profit share, upside economics, governance/control, and mission lock.
+
+### 2026-06-19
+- Blach Construction completed a 30% ESOP transition on June 18, while NCEO posted ESOP suitability education and Equity Shift/SteadyTrail surfaced as employee-ownership infrastructure tooling ([Menke / Blach snippet-level](https://www.menke.com/esop-archives/blach-construction-30-percent-employee-owned-menke-guidance/), [NCEO ESOP suitability snippet-level](https://www.nceo.org/employee-ownership-blog/is-an-esop-right-for-you-a-look-back-at-columbus), [Equity Shift announcement snippet-level](https://equityshift.com/equity-shift-completes-strategic-asset-acquisition-with-steadytrail-tech/), [GrepBeat coverage snippet-level](https://grepbeat.com/2026/06/18/raleighs-equity-shift-acquires-steadytrail-to-enhance-employee-ownership-play/)).
+- X/current signal continued around ESOP communication, EOT tax/legacy benefits, steward ownership/purpose trusts, and profit-sharing mechanics ([NCEO X](https://x.com/theNCEO/status/2067628455856947270), [EOT signal](https://x.com/Doyle_Clayton/status/2067503331983897013), [purpose trust signal](https://x.com/startup_smart/status/2067636136277881331)).
+- Signal strength: medium. Faleth should borrow the precision, not the jargon: distinguish wages, bonus/profit share, equity-like economics, governance/control, liquidity, and mission lock.

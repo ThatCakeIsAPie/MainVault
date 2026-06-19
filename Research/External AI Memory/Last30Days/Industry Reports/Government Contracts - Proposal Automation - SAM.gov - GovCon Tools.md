@@ -7,6 +7,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Practical implementation is tilting toward **model routing**: cheaper models for high-volume triage/extraction/drafting, with frontier models and human reviewers reserved for final judgment.
 - The market is also developing a second risk frontier: **government-side AI use in proposal evaluation**. Contractors need to watch not only how they use AI, but how agencies may use AI to evaluate them.
 - Vendor consolidation and capability expansion are likely as proposal automation firms add deeper compliance, data-room, CRM, source-grounding, and past-performance memory features.
+- LLM data-safeguarding is becoming part of the proposal/procurement AI operating model, especially where Government Data, CUI, flowdowns, and model retention policies are involved.
 
 ## Major Shifts to Watch
 - “Shadow AI” in government evaluations becoming a protest/disclosure issue.
@@ -15,6 +16,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - SAM.gov/opportunity watchers becoming agentic capture assistants for small contractors.
 - Bid/no-bid scoring and fit triage becoming the first monetizable wedge before full proposal drafting.
 - Whether agencies publish procurement guidance on AI-assisted evaluation transparency.
+- GSA/FAR/agency clauses governing LLM processing of Government Data and contractor disclosure/flowdown obligations.
 
 ## Faleth Relevance
 - VXE and LibreTech should build a lightweight internal GovCon Opportunity Radar before committing to external SaaS: opportunity watcher, NAICS/PSC filters, bid/no-bid score, compliance matrix, capture notes, vendor/sub outreach, and proposal outline.
@@ -57,3 +59,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Fresh current signal was sparse but highly relevant: a practitioner post argued small GovCon firms should use cheaper models for bid/no-bid support, outlines, compliance matrices, past-performance mapping, and dashboards, reserving frontier models for final proposal polish; claimed result was 3x more proposal submissions at flat AI spend ([small GovCon AI bottleneck signal](https://x.com/mideenigmA/status/2065820349682332136)).
 - SAM.gov search surfaced AI-related opportunities including USPTO automated AI tools and an Advancing AI multiple-award contract; treat as searched/source-level leads rather than fully inspected solicitations ([USPTO AI tools SAM.gov result](https://sam.gov/opp/325520a29f764f0a93eaf134e412e6b1/view), [Advancing AI MAC result](https://sam.gov/opp/41cb7e34478d42b6b337a03ecf1ad7c0/view)).
 - Signal strength: medium. Faleth/VXE/LibreTech implication: add explicit cheap-model/premium-model routing and evidence-locker fields to the Opportunity Radar before full proposal drafting.
+
+### 2026-06-19
+- The main fresh context was GSA's June 17 proposed GSAR clause 552.239-7001 for safeguarding Government Data within LLM systems; not strictly last-24-hour, but still the most important near-current procurement AI rulemaking signal ([Federal Register / govinfo PDF](https://www.govinfo.gov/content/pkg/FR-2026-06-17/pdf/2026-12205.pdf), [Venable analysis snippet-level](https://www.venable.com/insights/publications/2026/06/gsa-proposes-revisions-to-clause-on-basic)).
+- X/current signal continued around SAM.gov discovery, compliance matrices, RAG-grounded drafts, human review, and CUI/security discipline ([GW Law GovCon](https://x.com/GWLawGovCon/status/2067621134078562779), [JTillipman](https://x.com/JTillipman/status/2067625194840023363), [James LaRocca GovCon AI signal](https://x.com/JamesJLaRocca/status/2067683480633229688)).
+- Signal strength: medium. Update GovCon automation MVP fields for government-data category, LLM/tool used, retention/flowdown concern, human reviewer, and evidence-locker path.

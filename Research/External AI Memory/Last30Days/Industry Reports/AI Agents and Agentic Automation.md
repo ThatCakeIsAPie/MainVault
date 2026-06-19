@@ -6,6 +6,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - The industry is moving from chatbot/one-shot prompt demos toward **governed agentic workflows**: agents with scoped tools, planning loops, shared memory, validation, observability, human handoff, and rollback.
 - The useful buyer language is shifting from “autonomous magic” to **managed work units** and **agent teams** coordinated by orchestrators inside permissioned operating systems.
 - Enterprise adoption pressure is creating demand for orchestration, audit trails, authorization, and evaluation harnesses more than for yet another toy multi-agent framework.
+- MCP and A2A are becoming the practical protocol pair to watch: MCP for governed tool/data access, A2A for agent-to-agent delegation and discovery.
 
 ## Major Shifts to Watch
 - Agent harnesses and orchestration layers that standardize permissions, tool access, logs, sandboxes, retries, and HITL escalation.
@@ -14,6 +15,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - The split between simple deterministic automation and genuinely agentic tasks; over-agentifying boring workflows remains the obvious foot-gun.
 - Persistent-memory / multi-agent team patterns becoming operationally useful rather than merely demo-friendly.
 - Observability tooling for agent decisions, tool calls, errors, and cost drift.
+- Enterprise authentication and discovery patterns for MCP/A2A: OAuth, registries, signed agent cards, gateway policy, and action-layer audit.
 
 ## Faleth Relevance
 - Build Faleth agents as scoped internal workers: daily opportunity monitoring, proposal intake, customer follow-up, repair intake triage, compliance review, and leadership workflow reminders.
@@ -55,3 +57,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ### 2026-06-14
 - Fresh X/current signal reinforced the move from agent hype to infrastructure: clearer distinctions between deterministic automation and real agentic systems, AgentPerf-style real-world tool-call/coding trajectories, MCP-connected agentic RAG, and enterprise orchestration ([agent definition signal](https://x.com/CanvasPirate/status/2065917927589601595), [AgentPerf signal](https://x.com/tunguz/status/2065775689626780108), [MCP/RAG signal](https://x.com/Twendee_/status/2065840115189260580), [agent orchestration signal](https://x.com/AllenTanCheeHoe/status/2065752457494384909)).
 - Signal strength: medium. Durable takeaway: Faleth agents should be benchmarked, permissioned, observable work units rather than vague autonomous blobs.
+
+### 2026-06-19
+- Google published June 18 A2A anniversary coverage and DeepMind published an AI Control Roadmap; X/HN signal centered on MCP + A2A, OAuth, registries, and action-layer governance ([Google A2A snippet-level](https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/), [DeepMind AI Control Roadmap snippet-level](https://deepmind.google/blog/securing-the-future-of-ai-agents/), [A2A/MCP X signal](https://x.com/i/status/2067741339501166772), [Salt Security action-layer signal](https://x.com/SaltSecurity/status/2067647064591257804), [HN 2026-06-18](https://news.ycombinator.com/front?day=2026-06-18)).
+- Signal strength: strong for direction, medium for social details. Faleth/Hermes agent builds should prioritize scoped credentials, logs, budget limits, and rollback before broader autonomy.

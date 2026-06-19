@@ -7,6 +7,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Current creator attention rotates among Seedance, Kling, Veo, Runway, Sora, Luma, Grok Imagine, and other fast-moving models. The durable workflow matters more than the daily model crown.
 - Integration into agent/chat/dev environments is an important shift: video generation is becoming callable creative infrastructure rather than a separate destination app.
 - Consistency across shots — character, silhouette, style, camera language — is emerging as the practical moat.
+- API-packaged creative workflows, such as one-call product ads or multi-shot video recipes, are shifting value from individual prompting to repeatable production systems.
 
 ## Major Shifts to Watch
 - MCP/API/infinite-canvas integrations that let agents call image/video models inside Claude, ChatGPT, Cursor, or internal creative tools.
@@ -14,6 +15,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Rights/licensing, watermarking, and commercial-use rules for business marketing assets.
 - Cost/quality tradeoffs for short-form content, especially “fast” variants vs premium tiers.
 - Whether “AI co-director” tools can preserve continuity across full scenes, not just generate flashy isolated clips.
+- Which providers turn recipes/templates into reliable commercial media APIs for e-commerce, training, and paid social content.
 
 ## Faleth Relevance
 - Free Range Repair can use AI video for repair explainers, before/after clips, replacement-vs-repair education, warranty/referral explainers, and paid social creative.
@@ -54,3 +56,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ### 2026-06-14
 - Current creator signal emphasized specialization over a single winner: Seedance 2.0 for complex cinematic/storyboarded scenes, Kling for scalable UGC/ad iteration, Runway for directorial control, and Veo for realism/physics ([multi-model tier signal](https://x.com/type_kshitij/status/2065659709084795039), [Seedance/PixVerse example](https://x.com/i/status/2065938559203185060), [Kling volume workflow signal](https://x.com/__spekulator__/status/2065918630429098016), [Runway/Veo comparison signal](https://x.com/i/status/2065619975570935959)).
 - Signal strength: medium. Faleth/FRR should treat this as a benchmark-prompt/workflow problem, not a daily model-crown problem.
+
+### 2026-06-19
+- AnyMind launched AnyAI Video on June 18 for scalable social-commerce/e-commerce AIGC video, while Runway Recipes surfaced as one-call API endpoints for product ads, product swaps, and multi-shot video workflows ([AnyMind snippet-level](https://anymindgroup.com/news/press-release/anyai-video-launch-2026/), [Runway API snippet-level](https://runwayml.com/api), [Runway developer portal snippet-level](https://dev.runwayml.com/), [Runway multi-shot docs snippet-level](https://docs.dev.runwayml.com/recipes/multi-shot-video/)).
+- X/current signal emphasized unified multi-model creative workspaces, character/product consistency, and structured director-style prompts ([Runway Recipes X signal](https://x.com/aiseomastery/status/2067663633429991484), [aggregator workflow signal](https://x.com/i/status/2067584526654767581)).
+- Signal strength: medium. Faleth/FRR should define repeatable product/repair education workflows, then benchmark tools against those workflows.
