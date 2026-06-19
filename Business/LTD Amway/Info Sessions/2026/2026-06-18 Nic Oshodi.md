@@ -86,4 +86,14 @@ I will take the person who is doing it over the person who is trying to do it ri
 You are going to have to be used to looking silly, doing it wrong.
 *Try, fail, adjust*
 ***0-7500PV is work ethic and attitude***
-Most people do just enough work to have something to analyze, 
+Most people do just enough work to have something to analyze, and nothing more
+If you have 10-15 meetings, you should be having conversations. But are YOU at enough work to have good enough conversations to make drastic changes?
+There is a lot of chaos coming, do you know when the enemy attacks the most? When we are on the precipice of something great coming up.
+The enemy wants us to believe "we cant be going into the golden age"
+You know the best thing you can do during this time? Have a good work ethic, a good attitude, go build an army.
+*The enemy is trying to play chess, it happens in a battle. We are in a battle, it is in your mind.*
+***God put me in this place to bring more people to the kingdom. Is the best move I can make to gossip about the changes going on? Or to go be the change I want to see?***
+Despite what anyone does, there are changed lives because of what we do.
+Doesn't mean there aren't times to have a legitimate conversation, but have it and go back to the mission.
+If you really do love people, there is a lack in the ministry of reconciliation. People are so quick to fight for what they believe in, but not to unify. We need to be fighting for the right thing.
+Unity doesn't mean "I agree with everything they say". But it means we keep the main thing, the main thing. The mission is still the mission. And the only way it gets done is if we don't overthin
