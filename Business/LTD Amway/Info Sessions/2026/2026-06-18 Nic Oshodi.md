@@ -96,4 +96,10 @@ You know the best thing you can do during this time? Have a good work ethic, a g
 Despite what anyone does, there are changed lives because of what we do.
 Doesn't mean there aren't times to have a legitimate conversation, but have it and go back to the mission.
 If you really do love people, there is a lack in the ministry of reconciliation. People are so quick to fight for what they believe in, but not to unify. We need to be fighting for the right thing.
-Unity doesn't mean "I agree with everything they say". But it means we keep the main thing, the main thing. The mission is still the mission. And the only way it gets done is if we don't overthin
+Unity doesn't mean "I agree with everything they say". But it means we keep the main thing, the main thing. The mission is still the mission. And the only way it gets done is if we don't overthink it.
+The enemy wants us to sit down and try and figure everything out.
+The people who left and are complaining have still been blessed by this team. Their receiving of the healing may not be today, but it will happen.
+After 18 years, this is still a good thing
+We are coming to unify our teams to bless other people in service of our mission.
+All the leaders are talking how to navigate the best way to move possible. We love to hear all the chaos stories from 15 years ago, but how do they become epics? By keeping your head high and a great attitude.
+![[Recording 20260618220245.m4a]]
