@@ -58,3 +58,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ### 2026-06-19
 - No meaningful new Amway/LTD-specific compensation, income-disclosure, or leadership-compliance event surfaced. Search again returned durable official context: Amway's 2025 U.S. Income Disclosure and Rules of Conduct on truthful compensation-plan statements and disclosure use ([Amway Income Disclosure snippet-level](https://www.amway.com/en_US/income-disclosure), [Amway Rules of Conduct snippet-level](https://www.amway.com/en_US/rules-of-conduct), [Amway X background](https://x.com/Amway)).
 - Signal strength: weak for new events; strong for compliance backdrop. Continue building compliance-safe leadership scripts and product/customer-value-first language.
+
+### 2026-06-20
+- Targeted X search found no meaningful Amway/LTD-specific income-disclosure, compensation, or compliance event in the last 24 hours. Web search again surfaced Amway's official 2025 U.S. Income Disclosure and FTC background on MLM income disclosures ([Amway Income Disclosure](https://www.amway.com/en_US/income-disclosure), [Amway disclosure document](https://www.amway.com/media-location/AmwayIncomeDisclosure_USEN), [FTC MLM disclosure alert](https://consumer.ftc.gov/consumer-alerts/2024/09/what-are-multi-level-marketing-mlm-disclosure-statements-really-telling-you)).
+- Signal strength: weak for new events; strong for durable compliance backdrop. Keep leadership scripts IDS-backed, product/customer-value-first, and careful around implied typical earnings.
