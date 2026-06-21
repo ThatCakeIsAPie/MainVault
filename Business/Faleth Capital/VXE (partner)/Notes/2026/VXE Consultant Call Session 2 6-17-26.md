@@ -53,4 +53,4 @@ Find the agency, look it up on LinkedIn, find who works there, and reach out
 Homework:
 - 5 opportunities (2 hail mary's, 2 possibilities)
 - Opportunities must have history on USASpending, timeline, and a person you can get in touch with
-Next time, we will cover how to reach out to them, how to talk to them and build t
+Next time, we will cover how to reach out to them, how to talk to them and build trust with them
