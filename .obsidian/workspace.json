@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMT/Fuji/Head Cleaning.md",
+                "file": "Business/LTD Amway/Info Sessions/2026/2026-06-18 Nic Oshodi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Head Cleaning"
+              "title": "2026-06-18 Nic Oshodi"
             }
           }
         ]
@@ -199,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,6 +226,8 @@
   },
   "active": "5270cec8d0f70362",
   "lastOpenFiles": [
+    "Personal/Church/2026/2026-06-21 Father's Day.md",
+    "SMT/Fuji/Head Cleaning.md",
     "Research/External AI Memory/Last30Days/Daily Debriefs/Past Debriefs/2026-06-20-daily-industry-landscape-debrief.md",
     "Research/External AI Memory/Last30Days/Daily Debriefs/2026-06-21-daily-industry-landscape-debrief.md",
     "Business/Content/X Drafts/2026-06-21-x-post-drafts.md",
@@ -253,8 +256,6 @@
     "Research/External AI Memory/Last30Days/Daily Debriefs/Past Debriefs/2026-06-14-daily-industry-landscape-debrief.md",
     "Business/Ideas/VXE - Canady Investments Location and Employment Capital.md",
     "Business/Ideas/Faleth Capital - Investable Wedge and Capital Confidence.md",
-    "Business/Content/X Drafts/2026-06-16-x-post-drafts.md",
-    "Personal/Dream Compound Vision.md",
     "Research/raw/audio/Recording-20260613-16k-32k.mp3",
     "Research/raw/audio/Recording-20260611-16k-32k.mp3",
     "Research/raw/audio/Recording 20260613173632.m4a",
