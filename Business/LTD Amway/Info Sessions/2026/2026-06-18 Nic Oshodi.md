@@ -102,4 +102,4 @@ The people who left and are complaining have still been blessed by this team. Th
 After 18 years, this is still a good thing
 We are coming to unify our teams to bless other people in service of our mission.
 All the leaders are talking how to navigate the best way to move possible. We love to hear all the chaos stories from 15 years ago, but how do they become epics? By keeping your head high and a great attitude.
-![[Recording 20260618220245.m4a]]
+![[Recording-20260618-220245-16k-32k.mp3]]
