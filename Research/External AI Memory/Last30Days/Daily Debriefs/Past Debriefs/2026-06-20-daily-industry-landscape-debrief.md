@@ -82,7 +82,7 @@ Coverage window: last 24 hours where available; older items are labeled backgrou
 - X/current discussion: yes
 - Reddit/community: limited/no dedicated Reddit hit today
 - YouTube/video: limited/search-level only
-- GitHub/technical: limited/search-level only; GitHub agentic workflows appeared via X signal
+- GitHub/technical: limited/search-level only; GitHub agentic workflows appeared via X/Twitter signal
 - Official docs/changelog: yes for OpenRouter API/pricing/docs search-level, Runway changelog search-level, Amway official income-disclosure search-level; extraction backend unavailable, so some official pages are snippet/search-level.
 
 Confidence: **medium** overall. Strongest evidence: OpenRouter API pricing and repeated cross-source social patterns. Weakest evidence: daily novelty in MLM/direct selling and hard-news novelty in PE/search funds. Web extraction was unavailable, so several web claims are snippet-level unless backed by direct API/X results.
