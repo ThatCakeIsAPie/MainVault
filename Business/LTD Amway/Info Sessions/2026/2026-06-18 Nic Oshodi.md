@@ -1,3 +1,74 @@
+---
+type: meeting-note
+date: 2026-06-18
+event: LTD Amway Info Session — Nic Oshodi
+processed_date: 2026-06-21
+tags:
+  - ltd-amway
+  - info-session
+  - leadership
+  - mentorship
+  - business-building
+  - personal-development
+---
+
+# Info Session — Nic Oshodi
+
+## Audio and Transcript
+
+- Audio: ![[Recording-20260618-220245-16k-32k.mp3]]
+- Transcript: [[2026-06-18 — LTD Amway Info Session — Nic Oshodi — transcript]]
+- Transcription model: xAI Grok STT (`grok-stt`)
+
+## Processed Takeaways
+
+### One-sentence thesis
+
+Nic framed the business as a vehicle that rewards imperfect, coachable action: the people who move, fail, adjust, and stay unified around the mission beat the people who wait to understand everything perfectly.
+
+### Core ideas
+
+1. **You do not hit 7,500 PV “pretty.”** Nic’s strongest theme was that goals are reached through work ethic and attitude, not finesse, perfect scripts, or waiting until the business looks impressive enough to talk about.
+2. **Failure is feedback, not identity.** School and corporate life train people to treat failure as disqualification; entrepreneurship requires treating failure as trial-and-error until the skill is learned.
+3. **The interview process protects the vehicle.** The question is not merely whether the opportunity works, but whether the person has shown they will steward it with humility, coachability, and action.
+4. **Association shapes belief.** The meeting repeatedly returned to environment: uncomfortable mentors, belief builders, family, and teams that raise standards matter more than outside noise.
+5. **Customer and consumption economics are simple execution on top of complex back-end mechanics.** The plan may look complicated, but the action path is straightforward: redirect buying habits, build repeat customers, and duplicate the same behavior through a team.
+6. **Unity keeps the mission from being swallowed by chaos.** Nic’s training section treated gossip, over-analysis, and internal noise as distractions from changed lives, reconciliation, and building an army.
+
+### Speaker-specific takeaways
+
+#### Nic Oshodi
+
+- He positioned the business as an agency vehicle: time, money, family, legacy, and transferable value instead of a job that cannot be passed down.
+- His practical challenge was blunt: stop trying to sound like a Platinum before doing Platinum-level activity. Talk, sell, invite, adjust, and let coaching refine the action.
+- His spiritual frame was that the work is tied to reconciliation and changed lives; legitimate conversations can happen, but the mission must remain the mission.
+
+#### Patrick and Angie Salgado / Ditto segment
+
+- The XS/customer story reinforced that repeat customers and belief in the products are not side issues; they are what keep the business real.
+- Patrick’s family example showed how sampling can create belief before someone believes in “the business.” Product experience can precede business belief.
+- The self-image thread boiled down to choosing God’s image and goals over a “cry baby attitude” or outside noise.
+
+## Personal Synthesis for Lyle
+
+### What this meeting is really saying to you
+
+- **Push:** the job path creates a brittle life — income may be decent, but time, legacy, and agency stay constrained. Nic’s “if you get hit by a bus” and retirement-age framing hit the exact pain point you already recognize.
+- **Pull:** the deeper aim is not just money; it is helping couples, families, and teams become free, unified, and mission-oriented. Your raw note about the couple helped get debt-free captures the durable “why.”
+- **Process:** the action loop is brutally simple: do not perfect the message, increase the reps, let mentorship correct the reps, and keep the main thing the main thing. Very inconvenient for the part of you that wants an eight-hour Claude-optimized email, naturally.
+- **Faleth connection:** your note about complex compensation with simple execution is important. Faleth can have sophisticated back-end economics if the human-facing behavior is simple enough to duplicate.
+- **Leadership doctrine connection:** Nic’s unity/reconciliation section maps cleanly to your “standards with grace” frame. Correction and legitimate conversations are allowed, but criticism has to serve mission and people, not become a substitute for action.
+
+### Practical next actions
+
+- Pick one product/customer story from the meeting and turn it into a simple outreach message — no “perfect email” ceremony.
+- Track activity before analyzing messaging quality. If there are not enough conversations, there is not enough data to optimize.
+- Convert “customer sales feel like lower leverage” into a process question: what is the smallest repeatable product-sampling/customer habit that supports team duplication without becoming a second business?
+- Keep the “complex back-end, simple execution” insight available for Faleth docs and future compensation design.
+- When team noise or criticism appears, ask: “Does this help reconciliation and mission, or is it just analysis replacing obedience/action?”
+
+## Raw Notes
+
 # Info Session - Nic Oshodi
 Just because the business plan is impressive doesn't mean I am trying to impress you
 Just because someone isnt a fan of soccer doesn't mean something is wrong with soccer. Just because you may not be a fan of what we do doesn't mean something is wrong with what we do.
