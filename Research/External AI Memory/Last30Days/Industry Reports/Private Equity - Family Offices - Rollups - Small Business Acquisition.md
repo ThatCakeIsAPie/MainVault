@@ -72,3 +72,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ### 2026-06-21
 - X signal was quiet but one detailed HVAC rollup thread reinforced common diligence levers: recurring maintenance revenue is valued, while heavy new-construction exposure, customer concentration, and owner-dependent operations are deal killers ([HVAC rollup thread](https://x.com/ryanraysr/status/2068438266680868915)). Additional fresh signals included family-office private-investment chatter and small acquisition marketplace activity ([Acquire.com listing](https://x.com/microacquire/status/2068403262538015044), [family-office signal](https://x.com/StopLossLagaKe/status/2068245040904933668)).
 - Signal strength: medium for market sentiment; weak for hard-news novelty. Add owner-dependency/customer-concentration checks to any Faleth inbound acquisition screen.
+
+### 2026-06-22
+- No strong hard-news item surfaced in the strict window. Web results were mostly current/evergreen search-fund, rollup, family-office, and marketplace context ([SMB Investor Network search fund guide](https://resources.smbinvestornetwork.com/learn/search-fund-investing), [CTA rollup guide](https://ctacquisitions.com/private-equity-roll-up-strategy/), [Axial search funds](https://www.axial.net/forum/companies/search-funds/)).
+- Signal strength: weak for daily novelty; medium for continuing direction. Faleth should keep build-first/acquire-selectively and screen for owner dependency, recurring revenue, customer concentration, and integration capacity.

@@ -73,3 +73,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ### 2026-06-21
 - Fresh X signal included Birkey's Farm Store announcing it is now 100% employee-owned via ESOP, plus discussion of restaurant employee-ownership transitions, Huawei's virtual-share plan as ESOP-like rather than cooperative, and profit-sharing anecdotes ([Birkey's ESOP](https://x.com/Birkeys/status/2068369546403061906), [restaurant employee ownership](https://x.com/26thAndGuad/status/2068464550425346458), [Huawei ESOP-like analysis](https://x.com/yesidteacher/status/2068458148873064871), [profit-share story](https://x.com/Spilly1173358/status/2068381906383888638)).
 - Signal strength: medium. Reinforces ESOP as the mainstream U.S. succession/retention vehicle and the need to distinguish economics from governance/control.
+
+### 2026-06-22
+- Smith Scott Mullan Architects transitioned shares to an Employee Ownership Trust on 2026-06-22 for succession, culture preservation, independence, and employee stake while retaining existing leadership ([Urban Realm](https://www.urbanrealm.com/news/2026/06/22/smith-scott-mullan-makes-the-switch-to-employee-ownership/)). ESOP Association listings showed active June 22 employee-ownership education events ([ESOP Association events](https://www.esopassociation.org/events)).
+- Signal strength: medium. Reinforces EOT/employee ownership as succession and independence infrastructure; keep distinguishing wages, bonus/profit share, equity-like economics, governance/control, liquidity, and mission lock.
