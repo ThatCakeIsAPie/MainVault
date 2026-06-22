@@ -1,8 +1,19 @@
+---
+title: Deploy Hermes Agent to Akash Network
+created: 2026-05-16
+updated: 2026-06-22
+type: plan
+tags: [hermes-agent, akash, deployment, infrastructure]
+sources:
+  - "[[SOURCE-MANIFEST]]"
+  - "[[OKF-COMPATIBILITY]]"
+---
+
 # Deploy Hermes Agent to Akash Network
 
 > **For Hermes:** Use subagent-driven-development skill to implement this plan task-by-task.
 
-**Goal:** Run Hermes Agent (Telegram gateway) on Akash Network so Lyle's bot stays online 24/7, independent of his laptop.
+**Goal:** Run Hermes Agent (Telegram gateway) on Akash Network so Lyle's bot stays online 24/7, independent of his laptop. Vault memory stack context: see [[SOURCE-MANIFEST]] and [[OKF-COMPATIBILITY]].
 
 **Architecture:** Official Hermes Docker image (`nousresearch/hermes-agent:latest`) deployed via Akash Console. Persistent 50GB volume at `/opt/data` for all user data (config, sessions, skills, memory). No custom Dockerfile, no Docker installation needed on Lyle's machine.
 

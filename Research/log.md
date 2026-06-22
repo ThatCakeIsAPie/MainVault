@@ -158,3 +158,11 @@
 - Created: `_tools/validate_vault.py` (read-only vault validator; stdlib only)
 - Created: `Research/VALIDATION-REPORT.md` (baseline 2026-06-22: 351 files, 46 warnings)
 - Updated: `Research/index.md` (meta/schema section for manifest, OKF, validator, report)
+
+## [2026-06-22] update | Vault validation fixes (audio, links, provenance)
+- Replaced M4A wikilinks with compressed MP3 (`Recording-20260611-16k-32k.mp3`) in LTD Amway info-session note and 2026-06-11 transcript.
+- Extended `_tools/validate_vault.py` with audio asset index and `processed-sources.md` provenance skip.
+- Repaired Research wikilinks (Faleth Capital, five-step model, Lyle Cole, 2026-06-08 daily debrief).
+- Frontmatter: `Research/Ideas/Faleth Capital — System Overview & Takeaways.md`, `Research/Plans/akash-hermes-deployment.md`.
+- Raw provenance on 2026-06-11/13/18 transcripts, 2026-06-12/19 reflections, `claude-memory-2026-05-16.md`.
+- Refreshed `Research/VALIDATION-REPORT.md` (352 files, 2 info issues).

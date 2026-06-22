@@ -2,6 +2,7 @@
 type: raw-transcript
 source_url: conversation://telegram/2026-06-12/faleth-motivation-agency-work-model
 ingested: 2026-06-12
+sha256: 15cff12c30b2ef0c32705a8446d97702a0773c233a5533a6218367e28cff73b1
 tags: [faleth-capital, motivation, agency, work-model, raw]
 ---
 

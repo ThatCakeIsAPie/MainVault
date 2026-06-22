@@ -5,6 +5,9 @@ date: 2026-06-13
 event: Josh Gordon Men's Night Owl
 speaker: Josh Gordon
 audio_file: Recording-20260613-16k-32k.mp3
+source_url: Research/raw/audio/Recording-20260613-16k-32k.mp3
+ingested: 2026-06-13
+sha256: 1717cb3204aeeaa75507c337c261a4d346ab2656de487ad0478beef2c4fea7de
 transcription_model: xAI Grok STT (`grok-stt`)
 tags: [ltd-amway, transcript, audio, leadership, mentorship]
 ---

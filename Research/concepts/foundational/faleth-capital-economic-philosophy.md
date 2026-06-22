@@ -10,7 +10,7 @@ confidence: high
 
 # Faleth Capital Economic Philosophy
 
-The philosophical foundation underlying [[Faleth Capital]]'s structure.
+The philosophical foundation underlying [[faleth-capital|Faleth Capital]]'s structure.
 
 ## Core Principles
 
@@ -31,6 +31,6 @@ The Faleth architecture treats the family office as a private index fund where o
 
 ## Related
 
-- [[Faleth Capital]]
-- [[Five-Step Sequencing Model]]
-- [[Lyle Cole]]
+- [[faleth-capital|Faleth Capital]]
+- [[foundational/five-step-sequencing-model|Five-Step Sequencing Model]]
+- [[lyle-cole|Lyle Cole]]

@@ -31,7 +31,7 @@ sources: [raw/transcripts/claude-memory-2026-05-16.md]
 
 ## Sequencing Framework
 
-Currently in **Step 2** of a five-step sequencing model: maximize active income through government contracts before redirecting bandwidth toward network marketing and eventually launching Faleth subsidiaries. Ran the experiment of pursuing all major commitments simultaneously — concluded it fragments attention too severely. Sequencing logic is grounded in lived experience. See [[Five-Step Sequencing Model]].
+Currently in **Step 2** of a five-step sequencing model: maximize active income through government contracts before redirecting bandwidth toward network marketing and eventually launching Faleth subsidiaries. Ran the experiment of pursuing all major commitments simultaneously — concluded it fragments attention too severely. Sequencing logic is grounded in lived experience. See [[foundational/five-step-sequencing-model|Five-Step Sequencing Model]].
 
 ## Personal
 

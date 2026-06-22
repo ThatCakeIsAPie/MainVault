@@ -1,64 +1,50 @@
 ---
-title: Validation Report
+title: Vault Validation Report
 created: 2026-06-22
 updated: 2026-06-22
-type: summary
-tags: [meta, framework]
-sources: []
+type: meta
+tags: [validation, okf, hygiene]
 ---
 
 # Vault Validation Report
 
-**Date:** 2026-06-22  
-**Tool:** `_tools/validate_vault.py` (read-only, exit 0)  
-**Vault:** `/home/lylecole4/Documents/Main Vault`
+**Date:** 2026-06-22
+**Vault:** `Main Vault` (Research wiki + OKF hygiene)
+**Tool:** `_tools/validate_vault.py` (read-only; exit 0)
+
+## Summary
+
+| Metric | Value |
+|--------|-------|
+| Files scanned | 352 |
+| Issues | 2 |
+| Severity | info only |
+
+### By category
+
+- **raw_frontmatter:** 2 (info — notes without YAML provenance blocks)
 
 ## Interpretation
 
-Refreshed pass after validator noise reduction (metadata docs skip unresolved-link checks; inline/fenced code stripped before wikilink extraction). **352** markdown files scanned; **37** findings (35 warnings, 2 info). No secret-scan hits.
+This pass cleared prior **warnings** from audio embeds, unresolved Research wikilinks, missing wiki frontmatter, and incomplete raw provenance on dated transcripts. Remaining items are **informational**: two legacy raw transcripts under `Research/raw/transcripts/` still lack frontmatter (`Theological Reflection`, `Trust_Effective_Effort_and_The_Factory`). No secrets, unresolved links, or wiki frontmatter gaps were reported on this run.
 
-Remaining gaps are substantive, not self-referential: **raw/transcripts** provenance fields still need backfill (19), **unresolved wikilinks** (14) mostly audio recording embeds and title-case Business/Research links that do not match slug-style note names, plus three **frontmatter** gaps on Research Ideas/Plans and one **wikilinks** threshold warning on a plan note with no outbound links.
+### Fixes applied (2026-06-22)
 
-**Top categories:** raw_frontmatter (19), unresolved_link (14), frontmatter (3), wikilinks (1).
+1. **Audio links** — Replaced `Recording 20260611220952.m4a` with `Recording-20260611-16k-32k.mp3` in info-session notes and transcripts; validator now resolves common audio asset basenames (`.mp3`, `.m4a`, `.wav`, `.ogg`, `.opus`).
+2. **Wikilinks** — Aliased links to `faleth-capital`, `foundational/five-step-sequencing-model`, `lyle-cole`, and `2026-06-08-daily-industry-landscape-debrief`.
+3. **Frontmatter** — Completed Research wiki fields on Faleth system overview and Akash Hermes deployment plan.
+4. **Raw provenance** — Added `source_url`, `ingested`, and `sha256` on audio-backed and conversation-backed transcripts; excluded `processed-sources.md` from raw provenance requirements.
 
-Optional follow-ups: add source_url / ingested / sha256 on transcript raw notes; align display-title links to existing slugs (e.g. five-step sequencing model, Faleth Capital entity); use embed syntax for audio assets if resolution warnings are unwanted.
+## Sample issues (current run)
 
----
-
-# Vault Validation Report (tool output)
-
-**Vault:** `/home/lylecole4/Documents/Main Vault`
-**Files scanned:** 352
-**Issues:** 37
-
-## Summary by severity
-
-- **info:** 2
-- **warning:** 35
-
-## Summary by category
-
-- **raw_frontmatter:** 19
-- **unresolved_link:** 14
-- **frontmatter:** 3
-- **wikilinks:** 1
-
-## Sample issues
-
-- [warning] **unresolved_link** — `Business/Ideas/2026-06-08 - GovCon Opportunity Radar.md`: Unresolved wikilink target: [[Daily Industry Landscape Debrief - 2026-06-08]]
-- [warning] **unresolved_link** — `Business/LTD Amway/Info Sessions/2026/2026-06-11 Ethan Ellenberg.md`: Unresolved wikilink target: [[Recording 20260611220952.m4a]]
-- [warning] **unresolved_link** — `Business/LTD Amway/Info Sessions/2026/2026-06-18 Nic Oshodi.md`: Unresolved wikilink target: [[Recording-20260618-220245-16k-32k.mp3]]
-- [warning] **unresolved_link** — `Business/LTD Amway/Others/2026/2026-06-13 Josh Gordon Men's Night Owl.md`: Unresolved wikilink target: [[Recording-20260613-16k-32k.mp3]]
-- [warning] **frontmatter** — `Research/Ideas/Faleth Capital — System Overview & Takeaways.md`: Missing or empty frontmatter key: title
-- [warning] **frontmatter** — `Research/Ideas/Faleth Capital — System Overview & Takeaways.md`: Missing or empty frontmatter key: updated
-- [warning] **frontmatter** — `Research/Plans/akash-hermes-deployment.md`: Missing YAML frontmatter
-- [warning] **wikilinks** — `Research/Plans/akash-hermes-deployment.md`: Fewer than 2 wikilinks (found 0)
-- [warning] **unresolved_link** — `Research/concepts/foundational/faleth-capital-economic-philosophy.md`: Unresolved wikilink target: [[Faleth Capital]]
-- [warning] **unresolved_link** — `Research/entities/lyle-cole.md`: Unresolved wikilink target: [[Five-Step Sequencing Model]]
-- [warning] **raw_frontmatter** — `Research/raw/processed-sources.md`: Missing or empty raw field: source_url, ingested, sha256
 - [info] **raw_frontmatter** — `Research/raw/transcripts/2026-04-06 — Theological Reflection.md`: No frontmatter on raw note
-- [warning] **raw_frontmatter** — Multiple `Research/raw/transcripts/*.md`: Missing source_url / ingested / sha256 (2026-06-11 through 2026-06-19 batch)
-- [warning] **raw_frontmatter** — `Research/raw/transcripts/claude-memory-2026-05-16.md`: Missing or empty raw field: source_url
 - [info] **raw_frontmatter** — `Research/raw/transcripts/Trust_Effective_Effort_and_The_Factory.md`: No frontmatter on raw note
 
-_(Full machine run: `python3 _tools/validate_vault.py . --format markdown`)_
+## How to re-run
+
+From vault root:
+
+```bash
+python3 _tools/validate_vault.py . --format text
+python3 _tools/validate_vault.py . --format markdown --max-list 80
+```

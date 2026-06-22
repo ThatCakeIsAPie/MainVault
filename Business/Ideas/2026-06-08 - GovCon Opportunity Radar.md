@@ -1,7 +1,7 @@
 # GovCon Opportunity Radar
 
 Created: 2026-06-08
-Source: [[Daily Industry Landscape Debrief - 2026-06-08]]
+Source: [[2026-06-08-daily-industry-landscape-debrief|Daily Industry Landscape Debrief - 2026-06-08]]
 Tags: #business-idea #govcon #proposal-automation #ai-agents #vxe #libretech
 
 ## Core Idea

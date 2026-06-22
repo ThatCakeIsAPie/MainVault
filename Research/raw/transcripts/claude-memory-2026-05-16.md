@@ -1,5 +1,5 @@
 ---
-source_url: 
+source_url: file://Research/External AI Memory/Claude Memory.md
 ingested: 2026-05-16
 sha256: a125b7b07e2cdf497c68ee47a1376f5fd34c71e7ee94117f3bf7f85af07b1f87
 ---

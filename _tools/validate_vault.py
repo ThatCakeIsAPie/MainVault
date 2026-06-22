@@ -59,6 +59,13 @@ SECRET_PATTERNS: list[tuple[str, re.Pattern[str]]] = [
 WIKI_REQUIRED_KEYS = ("title", "created", "updated", "type", "tags")
 RAW_REQUIRED_KEYS = ("source_url", "ingested", "sha256")
 
+# Registry / tracker notes under Research/raw — not ingest provenance sources
+RAW_PROVENANCE_SKIP_PATHS = {
+    "Research/raw/processed-sources.md",
+}
+
+ASSET_EXTENSIONS = {".mp3", ".m4a", ".wav", ".ogg", ".opus"}
+
 
 @dataclass
 class Issue:
@@ -198,6 +205,30 @@ def build_note_index(root: Path) -> dict[str, set[str]]:
     return by_name
 
 
+def build_asset_index(root: Path) -> dict[str, set[str]]:
+    """Map lowercase asset basenames (with ext) for wikilink/embed resolution."""
+    by_name: dict[str, set[str]] = defaultdict(set)
+    for path in root.rglob("*"):
+        if not path.is_file():
+            continue
+        if path.suffix.lower() not in ASSET_EXTENSIONS:
+            continue
+        rel = rel_posix(path, root)
+        if is_excluded_path(Path(rel)):
+            continue
+        by_name[path.name.lower()].add(rel)
+        by_name[path.stem.lower()].add(rel)
+    return by_name
+
+
+def merge_indexes(*indexes: dict[str, set[str]]) -> dict[str, set[str]]:
+    merged: dict[str, set[str]] = defaultdict(set)
+    for idx in indexes:
+        for key, paths in idx.items():
+            merged[key].update(paths)
+    return merged
+
+
 def resolve_link(target: str, by_name: dict[str, set[str]]) -> bool:
     t = target.strip()
     if not t:
@@ -267,7 +298,7 @@ def validate_file(
                         )
                     )
 
-    if is_raw_note(rel):
+    if is_raw_note(rel) and rel not in RAW_PROVENANCE_SKIP_PATHS:
         if fm is None:
             report.add(
                 Issue("info", "raw_frontmatter", rel, "No frontmatter on raw note")
@@ -389,7 +420,7 @@ def main() -> int:
         return 0
 
     report = Report(vault_root=str(root))
-    by_name = build_note_index(root)
+    by_name = merge_indexes(build_note_index(root), build_asset_index(root))
 
     for path in sorted(root.rglob("*.md")):
         rel = rel_posix(path, root)

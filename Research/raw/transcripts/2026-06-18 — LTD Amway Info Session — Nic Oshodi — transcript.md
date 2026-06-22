@@ -6,6 +6,9 @@ event: LTD Amway Info Session
 speaker: Nic Oshodi
 transcription_model: xAI Grok STT (grok-stt)
 audio: Recording-20260618-220245-16k-32k.mp3
+source_url: Research/raw/audio/Recording-20260618-220245-16k-32k.mp3
+ingested: 2026-06-18
+sha256: 44b2deb05b652ac4bab94d743de53d9ba6645af3f7b681d26e92c801d79b7166
 related_note: 2026-06-18 Nic Oshodi
 tags:
   - ltd-amway

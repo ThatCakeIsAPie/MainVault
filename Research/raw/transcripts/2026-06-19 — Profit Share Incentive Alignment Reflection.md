@@ -1,5 +1,8 @@
 ---
 created: 2026-06-19
+source_url: conversation://telegram/lyle-profit-share-incentive-alignment
+ingested: 2026-06-19
+sha256: 671f7e75bfda5db6a3546d791f3b3ebbf3cc36eff1051815f74a85f2412ac8ad
 source: conversation://telegram/lyle-profit-share-incentive-alignment
 speaker: Lyle Cole
 tags:

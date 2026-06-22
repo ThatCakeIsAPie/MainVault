@@ -5,7 +5,10 @@ business: LTD Amway
 event_type: Info Session
 speaker: Ethan Ellenberg
 date: 2026-06-11
-audio: "[[Recording 20260611220952.m4a]]"
+audio: "[[Recording-20260611-16k-32k.mp3]]"
+source_url: Research/raw/audio/Recording-20260611-16k-32k.mp3
+ingested: 2026-06-11
+sha256: 56aa1e9f41b31a9e1dfaaf8bf831ba233d9be4dd9e1366cf18287acc29008c0c
 related_note: "[[2026-06-11 Ethan Ellenberg]]"
 tags: [ltd-amway, info-session, transcript, raw]
 ---
@@ -14,7 +17,7 @@ tags: [ltd-amway, info-session, transcript, raw]
 
 ## Source
 
-- Audio: ![[Recording 20260611220952.m4a]]
+- Audio: ![[Recording-20260611-16k-32k.mp3]]
 - Related note: [[2026-06-11 Ethan Ellenberg]]
 - Transcription model: xAI Grok STT (`grok-stt`)
 - Detected language: en

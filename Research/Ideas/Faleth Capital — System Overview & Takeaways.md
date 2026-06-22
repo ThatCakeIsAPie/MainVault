@@ -1,5 +1,7 @@
 ---
+title: Faleth Capital — System Overview & Takeaways
 created: 2026-05-14
+updated: 2026-06-22
 type: analysis
 tags: [faleth-capital, philosophy, business-architecture]
 ---
