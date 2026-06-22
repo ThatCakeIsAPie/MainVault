@@ -74,7 +74,7 @@ Work here should have clear scope, acceptance criteria, and verification.
 Track delegated work here only after a worker has been assigned.
 
 ### 2026-06-22 — Display subsidiary COF rate and make labor pool use subsidiary COF × gross profit
-- Status: In Progress
+- Status: Interrupted / needs verification
 - Type: feature
 - Area: backend | frontend | seed | admin UI | payout
 - Priority: high
@@ -83,6 +83,7 @@ Track delegated work here only after a worker has been assigned.
 - Expected behavior: Each subsidiary shows its COF rate in org view. Default COF rate is 20% of gross margin. Ticket labor pool preview = subsidiary COF rate × ticket gross profit. Node payout previews are calculated from that labor pool.
 - Evidence: Telegram feature request, 2026-06-22.
 - Triage notes: Existing code has `ContributionConfig.cof_rate`, seed/defaults often use 30%, and payout preview already has a labor-pool calculation path; implementation should make the 20% default consistent and verify node payouts derive from the new labor pool.
+- Interruption note: The Telegram gateway was OOM-killed during build/verification at 2026-06-22T19:42Z, so the delegate session did not finish cleanly. Repo has dirty changes and must be reviewed/verified before this can be treated as done.
 - Parallel safety: Single worker only; touches payout economics + org display.
 - Verification required: Backend tests for default/config math, frontend build, API sanity on preview/dev data showing COF rate displayed in org data and payout preview labor pool/node payouts using 20%.
 
