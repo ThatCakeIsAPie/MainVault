@@ -31,6 +31,17 @@ WIKI_SKIP_BASENAMES = {
     "processed-sources",
 }
 
+# Docs with example wikilinks / self-referential noise — still secret-scanned, no unresolved_link
+LINK_RESOLUTION_SKIP_PATHS = {
+    "CLAUDE.md",
+    "Research/SCHEMA.md",
+    "Research/SOURCE-MANIFEST.md",
+    "Research/OKF-COMPATIBILITY.md",
+    "Research/VALIDATION-REPORT.md",
+    "Research/log.md",
+    "Research/index.md",
+}
+
 WIKILINK_RE = re.compile(r"\[\[([^\]]+)\]\]")
 FRONTMATTER_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n", re.DOTALL)
 
@@ -103,6 +114,18 @@ def normalize_wikilink_target(raw: str) -> str:
     target = raw.split("|", 1)[0].strip()
     target = target.split("#", 1)[0].strip()
     return target
+
+
+def strip_code_for_wikilink_scan(text: str) -> str:
+    """Remove fenced and inline code so documentation examples do not count as links."""
+    out = text
+    out = re.sub(r"```[\s\S]*?```", "", out)
+    out = re.sub(r"`[^`\n]+`", "", out)
+    return out
+
+
+def should_skip_link_resolution(rel: str) -> bool:
+    return rel in LINK_RESOLUTION_SKIP_PATHS
 
 
 def is_excluded_path(rel: Path) -> bool:
@@ -261,7 +284,8 @@ def validate_file(
                         )
                     )
 
-    wikilinks = WIKILINK_RE.findall(text)
+    link_scan_text = strip_code_for_wikilink_scan(text)
+    wikilinks = WIKILINK_RE.findall(link_scan_text)
     if is_link_threshold_note(rel):
         outbound = len(wikilinks)
         if outbound < 2:
@@ -274,19 +298,20 @@ def validate_file(
                 )
             )
 
-    for raw_link in wikilinks:
-        target = normalize_wikilink_target(raw_link)
-        if not target:
-            continue
-        if not resolve_link(target, by_name):
-            report.add(
-                Issue(
-                    "warning",
-                    "unresolved_link",
-                    rel,
-                    f"Unresolved wikilink target: [[{raw_link}]]",
+    if not should_skip_link_resolution(rel):
+        for raw_link in wikilinks:
+            target = normalize_wikilink_target(raw_link)
+            if not target:
+                continue
+            if not resolve_link(target, by_name):
+                report.add(
+                    Issue(
+                        "warning",
+                        "unresolved_link",
+                        rel,
+                        f"Unresolved wikilink target: [[{raw_link}]]",
+                    )
                 )
-            )
 
 
 def summarize(report: Report) -> dict[str, Any]:

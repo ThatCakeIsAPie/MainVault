@@ -2,7 +2,14 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-06-06 | Total pages: 46
+> Last updated: 2026-06-22 | Total pages: 46
+
+## Meta / schema
+
+- [[SCHEMA]] — Wiki conventions, frontmatter, tags, raw provenance
+- [[SOURCE-MANIFEST]] — Where knowledge lives (Obsidian, GBrain, Hermes, AgentMemory, Honcho, External AI Memory)
+- [[OKF-COMPATIBILITY]] — Open Knowledge Format v0.1 alignment and gaps
+- [[VALIDATION-REPORT]] — Latest `_tools/validate_vault.py` baseline (2026-06-22)
 
 ## Entities
 

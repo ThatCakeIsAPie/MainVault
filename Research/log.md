@@ -151,3 +151,10 @@
 - Updated: `Business/LTD Amway/Others/2026/2026-06-13 Josh Gordon Men's Night Owl.md`.
 - Added frontmatter, processed takeaways, speaker-specific synthesis, Lyle-specific synthesis, and practical next actions.
 - Preserved original raw notes under `## Raw Notes`.
+
+## [2026-06-22] lint | OKF / second-brain hardening pass
+- Created: `Research/SOURCE-MANIFEST.md` (source systems and memory stack roles, no secrets)
+- Created: `Research/OKF-COMPATIBILITY.md` (vault ↔ OKF v0.1 mapping and gaps)
+- Created: `_tools/validate_vault.py` (read-only vault validator; stdlib only)
+- Created: `Research/VALIDATION-REPORT.md` (baseline 2026-06-22: 351 files, 46 warnings)
+- Updated: `Research/index.md` (meta/schema section for manifest, OKF, validator, report)
