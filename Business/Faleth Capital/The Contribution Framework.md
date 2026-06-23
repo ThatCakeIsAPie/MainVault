@@ -37,9 +37,10 @@ _The financial architecture behind this framework draws from the Jewish Talmud�
 1. We pay for value created, not time spent. There is no time clock. If someone can generate the same value in 10 hours that another generates in 40, they earn the same. Efficiency is rewarded, not penalized.
 2. We think in processes, not roles. Work is organized around what needs to get done, not around rigid job descriptions. People flow to where they can contribute, and contribution is tracked at the process level.
 3. Compensation is transparent and calculable. Every person can see the formula, verify the math, and calculate their own earnings at any time. No black boxes. No discretionary bonuses decided behind closed doors.
-4. Everyone shares in the upside and the downside. When the business thrives, everyone earns more. When it struggles, everyone feels it. This is the same risk-reward profile that business owners experience, extended to everyone who contributes.
-5. Long-term thinking is structurally rewarded. A portion of everyone’s earnings is tied to the sustained health of the enterprise, not just this week’s output. People who invest in the organization’s future are investing in their own.
-6. The team governs itself. Point values, payout ratios, and structural decisions are made collectively by the people doing the work. You cannot complain about a system you helped design.
+4. Everyone is rewarded for adding value to the whole. The system does not compensate people only for value created inside a personal lineage, silo, or reporting chain. If someone strengthens the organism — by improving a process, training across teams, removing a bottleneck, reducing risk, building automation, or helping another subsidiary perform better — the framework should recognize that contribution.
+5. Everyone shares in the upside and the downside. When the business thrives, everyone earns more. When it struggles, everyone feels it. This is the same risk-reward profile that business owners experience, extended to everyone who contributes.
+6. Long-term thinking is structurally rewarded. A portion of everyone’s earnings is tied to the sustained health of the enterprise, not just this week’s output. People who invest in the organization’s future are investing in their own.
+7. The team governs itself. Point values, payout ratios, and structural decisions are made collectively by the people doing the work. You cannot complain about a system you helped design.
 
 # Section 2: The Three-Layer Structure
 

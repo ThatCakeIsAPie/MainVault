@@ -374,6 +374,12 @@ Every fork — subsidiary or office level — produces more instances of the mod
 This is not a failure mode. It is the system working exactly as designed. The goal was never to build an empire. It was to prove there is a better way to organize human effort and make that proof spread. Every fork is evidence that the model produces people capable of building independently. Every new organization that emerges from a fork is the mission propagating.
 
 The Peaceful Fork ensures that even the hardest disagreements produce more of the model, not less of it.
+
+## 6.6 — Reunification
+
+A fork is not exile. It is an honest recognition that voluntary alignment no longer exists under the current structure. If circumstances change, trust is restored, or purpose realigns, previously separated parties may choose to reunify through a new agreement.
+
+Reunification should be treated the same way separation is treated: by consent, by book value, by transparent accounting, and without humiliation. The goal is not to make leaving shameful or returning politically expensive. The goal is to keep alignment real. If the parties are stronger together again, they should be free to become together again.
 # Article VII: Amendments
 
 This constitution may be amended by a two-thirds majority vote of active Class A members. Proposed amendments must be distributed to all Class A members at least 30 days before the vote. Amendments take effect at the start of the following quarter.
