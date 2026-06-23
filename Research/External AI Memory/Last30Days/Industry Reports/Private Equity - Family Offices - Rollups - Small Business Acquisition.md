@@ -76,3 +76,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ### 2026-06-22
 - No strong hard-news item surfaced in the strict window. Web results were mostly current/evergreen search-fund, rollup, family-office, and marketplace context ([SMB Investor Network search fund guide](https://resources.smbinvestornetwork.com/learn/search-fund-investing), [CTA rollup guide](https://ctacquisitions.com/private-equity-roll-up-strategy/), [Axial search funds](https://www.axial.net/forum/companies/search-funds/)).
 - Signal strength: weak for daily novelty; medium for continuing direction. Faleth should keep build-first/acquire-selectively and screen for owner dependency, recurring revenue, customer concentration, and integration capacity.
+
+### 2026-06-23
+- Current X signal was light but practical: a CPA/accounting rollup thread described small-firm acquisitions, strong cash-at-close, $1M-$3M revenue targets, tech-operational integration, COO/operator bench building, and 4-6 year exit expectations; additional acquisition chatter focused on pass/pursue diligence and SBA-friendly deals ([CPA rollup signal](https://x.com/i/status/2069043299512386040), [Pass/Pursue diligence signal](https://x.com/JonMStoddard/status/2069158276374143012)).
+- Signal strength: medium for market sentiment; weak for hard-news novelty. Faleth should use these as operating-system comparables, not proof that rollup math works without integration capacity.

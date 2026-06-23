@@ -77,3 +77,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ### 2026-06-22
 - Fresh X signal surfaced ProposeFlow, positioned as an RFP-reading agent that flags FAR/DFARS requirements and drafts proposals; web results continued to surface CLEATUS, Sweetspot, GovDash, SamSearch, and GovCon Giants as active vendor landscape ([ProposeFlow](https://x.com/polsia/status/2068525224828797190), [CLEATUS](https://www.cleat.ai/), [Sweetspot](https://www.sweetspot.so/), [GovDash](https://www.govdash.com/), [SamSearch](https://samsearch.co/)).
 - Signal strength: medium for product/competitor chatter; weak for buyer validation. Update MVP/competitor-watch fields around autonomy claims, FAR/DFARS coverage, CUI/data controls, and named-human approval gates.
+
+### 2026-06-23
+- Fresh X signal surfaced Ivorycom's GovCon CRM vertical with SCOUT/ANALYST/DRAFTER/INTEL/TRACKER-style agents for SAM.gov monitoring, solicitation analysis, grounded capability drafts, incumbent/pricing intel, and deadlines; Polsia also posted GovSprint/SAM.gov and proposal-generator signals ([Ivorycom GovCon agents](https://x.com/fredkonan86/status/2069188055869595921), [Polsia proposal generator](https://x.com/polsia/status/2069053849407762857), [Polsia GovSprint](https://x.com/polsia/status/2068931545277374562)).
+- Signal strength: medium. Update the internal Opportunity Radar with agent-role fields, competitor-watch fields, CUI/government-data controls, evidence-locker paths, and named-human approval gates before any filing/submission behavior.
