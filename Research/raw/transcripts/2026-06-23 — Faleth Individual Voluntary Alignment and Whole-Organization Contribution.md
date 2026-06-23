@@ -58,9 +58,9 @@ A second weakness in MLM structures is that the Line of Sponsorship can create s
 
 This can cause people to optimize for their lineage rather than the health of the whole organization. It can make leadership authority too positional and compensation too branch-bound.
 
-Faleth's model is different: contributors are compensated for adding value to the whole. Someone who improves a system, trains across subsidiaries, fixes a bottleneck, builds automation, reduces risk, or strengthens another team should be rewarded because the entire organism is stronger.
+Faleth's model is different: contributors are compensated for adding value to both their local branch and the whole. The answer is not to ignore the health of a particular team, subsidiary, or silo; local ownership and accountability matter. The answer is to layer the incentives so someone is paid for strengthening their immediate arena and also for strengthening the larger organism. Someone who improves a system, trains across subsidiaries, fixes a bottleneck, builds automation, reduces risk, or strengthens another team should be rewarded because the entire organism is stronger.
 
-**Distilled line:** Faleth rewards contribution to the organism, not merely production inside the branch.
+**Distilled line:** Faleth rewards contribution to the branch and the organism, instead of forcing one to cannibalize the other.
 
 ## Related Canonical Docs
 
