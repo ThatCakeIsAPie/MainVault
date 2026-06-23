@@ -14,9 +14,9 @@ tags:
 
 ## Context
 
-Lyle was processing concern over a network marketing parent company reportedly removing respected leaders after they created independent Spotify audios for their team that could be shared to non-IBOs. The concern was not whether to quit the business, but whether the parent company still deserved mission-level commitment if it will not defend its stated values under compliance pressure.
+Lyle was processing concern over a network marketing parent company reportedly suspending respected leaders after they created independent Spotify audios for their team that could be shared to non-IBOs. Initial information made the event sound like a potential permanent ousting. Later information suggested the business was suspended but not permanently, and that Tristan did not seem especially concerned — pointing more toward a temporary compliance issue around approved business material provider rules than a final expulsion. The concern was not whether to quit the business, but whether the parent company still deserved mission-level commitment if it will not defend its stated values under compliance pressure.
 
-This conversation clarified why Faleth Capital's structure needs voluntary alignment, peaceful separation, and whole-organization contribution economics.
+This conversation clarified why Faleth Capital's structure needs voluntary alignment, peaceful separation, and whole-organization contribution economics. The later clarification reduces the severity of the immediate network-marketing situation, but does not remove the structural lesson: organizations need clean, trust-preserving ways to handle compliance-versus-principles conflict.
 
 ## Raw Captured Thesis
 
