@@ -30,11 +30,15 @@ The purpose of this document is to outline the structure and philosophy behind h
 
 Faleth Capital is a family office that owns, funds, and mentors operating businesses across any industry. It is a holding entity, a shared liquidity pool, and a governance body. It is not an employer in the traditional sense. It is an economic ecosystem designed to create business owners, not employees.
 
+The name Faleth comes from _Fah Leth_, meaning "individual." That is not ornamental branding. It is the root of the model. Faleth begins with the individual contributor: the person whose agency, skill, judgment, and productive capacity should be strengthened by the organization rather than swallowed by it. The goal is not isolated individualism. The goal is voluntary alignment — sovereign contributors choosing to work together because together they can build, protect, and multiply more than they can alone.
+
 ## 1.2 — The Mission
 
 **_Create and steward generational wealth._**
 
 That is the mission in its simplest form. Faleth Capital exists to make generational wealth accessible to people who have never had a path to it, and to manage and grow that wealth by reinvesting into those just getting started. It does this by building a portfolio of thriving businesses, each operated by people who have genuine ownership over their results, and by proving that the contribution-based model — where compensation is tied to value created rather than time spent — is superior to wages and salaries in every measurable dimension: productivity, retention, innovation, and human dignity.
+
+The original mission beneath that structure remains: to empower the individual. The family office is the container that makes the mission scalable. It lets individuals build within a shared system without becoming property of the system, and it lets the system compound their contribution without reducing them to interchangeable labor.
 
 ## 1.3 — Philosophical Foundation: The One-Third Rule
 
