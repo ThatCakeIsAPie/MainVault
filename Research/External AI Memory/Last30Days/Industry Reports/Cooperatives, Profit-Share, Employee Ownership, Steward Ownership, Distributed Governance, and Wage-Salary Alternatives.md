@@ -3,25 +3,20 @@
 Purpose: rolling industry report informed by daily Last30Days debriefs. This file captures the distilled direction of the industry over time, not merely daily notes.
 
 ## Current Direction
-- Employee ownership and profit-sharing models are increasingly discussed as succession, retention, and regional economic-development tools.
-- ESOPs remain the most visible U.S. structure; EOTs, cooperatives, steward ownership, perpetual purpose trusts, and profit-share models serve different legal/governance purposes.
-- The strategic distinction that matters for Faleth: labor compensation, bonuses/profit share, equity-like upside, governance/control rights, and mission/asset lock are separate levers.
-- Founder succession stories are increasingly contrasting employee/steward ownership with private-equity exits.
-- Ownership infrastructure tooling is emerging around communication, transparency, engagement, and administration for broad-based employee ownership plans.
+- Employee ownership and alternative compensation remain driven by succession, retention, culture preservation, and alignment — not merely “nice capitalism.”
+- ESOPs/EOTs/cooperatives/steward ownership/profit-share solve different problems; precision matters because economics, governance, liquidity, and control are not the same thing.
+- Ownership culture requires management training and communication practices, not just a transaction document.
 
 ## Major Shifts to Watch
-- State-level and regional programs helping retiring owners transition to employee ownership.
-- ESOP transaction financing: seller notes, debt capacity, outside capital, and governance implications.
-- Steward ownership and perpetual-purpose trust adoption outside niche impact/startup circles.
-- Confusion or marketing abuse where “ownership” language is used without real governance/control rights.
-- EOT + profit-sharing examples in consumer/local businesses, where culture preservation matters to founders.
-- Practical EOT case studies where founders explicitly choose employee/steward continuity over private-equity exits.
-- Software/platform providers that make broad-based ownership more understandable and administrable for frontline workers, not just executives and lawyers.
+- EOT and ESOP transitions continue appearing as founder-exit alternatives to PE/strategic sale.
+- Institutional support and state-level employee-ownership centers are becoming more visible.
+- Recruitment/retention and new-manager ownership-culture training are moving from soft topics to measurable operating practices.
+- Steward/profit-share language risks becoming vague unless tied to explicit rights, formulas, and governance boundaries.
 
 ## Faleth Relevance
-- Faleth’s Contribution Framework should use precise language: pay, performance bonus, profit share, equity/control, and mission lock should not be blurred.
-- Steward-ownership concepts can help define what cannot be sold away and what obligations leadership has to mission/community.
-- Profit-share can create alignment without pretending every participant has control rights. Clarity here prevents future resentment — which is cheaper than buying everyone therapy and a lawyer.
+- Faleth’s Contribution Framework should explicitly separate wage, bonus, profit share, equity economics, governance control, liquidity, and mission lock.
+- Borrow from employee-ownership culture-building without copying structures blindly.
+- Use ownership/profit-share language only where the legal/economic mechanism supports the expectation created.
 
 ## Running Source Debrief Notes
 ### 2026-06-08
@@ -81,3 +76,5 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ### 2026-06-23
 - Fresh X signal surfaced multiple employee-ownership transitions and reinforcement examples: Keena Healthcare Technology to ESOP, ACC Aviation and NG Security to EOTs, Normandeau's 25-year ESOP anniversary, and ICON Facilitators approving an employee stock option scheme ([Keena ESOP](https://x.com/IndianaCEO/status/2069047471766982859), [ACC Aviation EOT](https://x.com/IndianaCEO/status/2069049169583423581), [NG Security EOT](https://x.com/IndianaCEO/status/2069046001944387710), [Normandeau ESOP](https://x.com/normandeauassoc/status/2069053327321477569), [ICON ESOS](https://x.com/Sharemarketinf/status/2069017754829717645)).
 - Signal strength: medium. Reinforces succession/culture-preservation logic and the need for Faleth to distinguish wages, bonus/profit share, equity-like economics, governance/control, liquidity, and mission lock.
+### 2026-06-24
+- Fresh signal included Smith Scott Mullan moving to an EOT, ESOP succession/advisor discussion, employee-ownership advocacy, and NCEO context on manager training and retention/recruitment ([Smith Scott Mullan EOT](https://x.com/EmployeeBenefit/status/2069380485042561319), [ESOP advisor signal](https://x.com/HellmuthJohnson/status/2069505126847349029), [EmployeesOwn](https://x.com/EmployeesOwn/status/2069506713737117825), [NCEO manager workshop](https://www.nceo.org/employee-ownership-blog/reflections-from-the-nceo-new-manager-workshop-building-the-newest-generation-of-ownership-leaders), [NCEO retention report](https://www.nceo.org/research/data/retention-and-recruitment-survey)). Signal strength: medium.

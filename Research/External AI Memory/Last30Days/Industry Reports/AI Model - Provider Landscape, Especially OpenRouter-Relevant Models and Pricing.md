@@ -3,28 +3,21 @@
 Purpose: rolling industry report informed by daily Last30Days debriefs. This file captures the distilled direction of the industry over time, not merely daily notes.
 
 ## Current Direction
-- The model market is becoming a routing problem, not a single-best-model problem. OpenRouter-style aggregation makes it practical to select models by task, cost, latency, cache economics, context length, and reliability.
-- OpenRouter is adding higher-order routing products such as compound/panel models, making prompt caching and panel composition central to effective price.
-- Cheap/open high-performing models are increasingly credible for classification, extraction, draft generation, and coding assistance; premium models should be reserved for high-stakes reasoning/review.
-- Prompt caching and effective price are becoming central to long-context agent economics.
-- Premium long-context agent models are getting powerful but expensive; stable reusable context plus cache-aware prompt design is now an operating discipline, not a nerd tax footnote.
-- Provider dashboards and activity analytics are becoming part of the model-selection loop: usage-weighted cost, cache-hit rate, and provider reliability matter as much as headline benchmark scores.
-- Cache-aware routing now matters at the model-selection level: some credible long-context models have cache-read prices that radically change effective cost for repeated research, agent loops, and standing system prompts.
-- Response caching and compound/panel routing add a second layer of economics beyond provider prompt caching: identical requests, reusable context, and multi-model calls must be logged separately.
+- The model market is a routing and caching market: select by task, context, price, latency, cache behavior, multimodal needs, and reliability.
+- OpenRouter-style aggregation makes cheap long-context models practical for triage/extraction/drafting, while premium models remain useful for final reasoning and high-stakes review.
+- Compound/router products such as Fusion need separate cost accounting because headline placeholder rows do not equal effective cost.
+- Prompt-cache and response-cache visibility should become part of every recurring agent workflow budget.
 
 ## Major Shifts to Watch
-- OpenRouter model availability/deprecation churn, especially free/cheap models and image/video-adjacent providers.
-- Cache-hit-rate visibility, cache read/write pricing, context-window pricing cliffs, and provider-specific cache rules.
-- Independent verification of new open-weight benchmark claims.
-- Reliability differences under tool use, long context, structured output, and coding-agent workloads.
-- Whether Chinese/open models continue gaining traffic share among builders due to price/performance.
-- Whether compound/router products such as Fusion expose clear effective cost, underlying model mix, and cache-hit accounting.
+- Promotional cache pricing and cheap large-context models are becoming decisive for agent loops and recurring research jobs.
+- Provider/model churn remains high; workflows need fallbacks rather than hard dependency on any one free or discounted model.
+- Activity/cost dashboards, cache-hit rate, provider reliability, and routing telemetry are becoming operational infrastructure.
+- Chinese/open models continue pressuring pricing and expanding viable cheap-agent choices.
 
 ## Faleth Relevance
-- Create a Faleth/OpenRouter routing policy: cheap model for classification/extraction, mid-tier model for draft generation, premium cached model for final reasoning and review, multimodal only when required.
-- Track actual cost and quality per workflow: daily research, GovCon parsing, proposal drafting, FRR marketing content, and Hermes agent tasks.
-- Avoid building workflows around volatile free models unless fallback routing exists.
-- Use expensive 1M-context models only when the problem actually requires long-horizon synthesis, coding, or ambiguous reasoning.
+- Maintain a Faleth/OpenRouter routing policy: cheap model for classification/extraction, mid-tier for drafting, premium cached model for final reasoning/review, multimodal only when required.
+- Log model ID, provider, input/output tokens, cache read/write, response-cache hit, cost, workflow, and quality outcome.
+- Use budget caps for compound models and recurring agents; do not assume OpenRouter Fusion placeholder pricing is meaningful.
 
 ## Running Source Debrief Notes
 ### 2026-06-08
@@ -86,3 +79,5 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ### 2026-06-23
 - Official OpenRouter API inspection returned 340 models. Recent relevant rows included `google/gemini-3.1-flash-image` / Nano Banana 2 at **$0.50/M input, $3/M output**; `google/gemini-3-pro-image` / Nano Banana Pro at **$2/M input, $12/M output**; `moonshotai/kimi-k2.7-code` at about **$0.68/M input, $3.41/M output**; `qwen/qwen3.7-plus` at **$0.32/M input, $1.28/M output**; `anthropic/claude-opus-4.8` at **$5/M input, $25/M output**; and `anthropic/claude-fable-5` at **$10/M input, $50/M output** ([OpenRouter models API](https://openrouter.ai/api/v1/models)).
 - X/current discussion compared OpenRouter Fusion with Sakana Fugu as compound/orchestrator systems. Treat this as medium-confidence social signal; Fusion's API row still exposes placeholder negative pricing, so effective cost must be logged as underlying model calls plus platform economics, not headline placeholder pricing.
+### 2026-06-24
+- Official OpenRouter API fetch returned 339 models at 2026-06-24T11:02Z; selected rows included Claude Opus 4.8 at $5/M input and $25/M output, Grok 4.20 at $1.25/M and $2.50/M, Qwen3.7 Plus at $0.32/M and $1.28/M, DeepSeek V4 Flash at $0.09/M and $0.18/M, Kimi K2.7 Code at $0.74/M and $3.50/M, Gemini 3.1 Flash Image at $0.50/M and $3/M, and Fusion with placeholder negative pricing ([OpenRouter API](https://openrouter.ai/api/v1/models)). X signal highlighted AntLing/Ring 2.6 promotional cache prices and Nex N2 Pro paid transition with cached prompt pricing ([AntLing/Ring](https://x.com/SakethR93178495/status/2069326928549380524), [Nex N2 Pro](https://x.com/NexEcosystem/status/2069386516737216543)). Signal strength: strong for API, medium for X pricing claims.

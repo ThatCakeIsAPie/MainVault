@@ -3,20 +3,20 @@
 Purpose: rolling industry report informed by daily Last30Days debriefs. This file captures the distilled direction of the industry over time, not merely daily notes.
 
 ## Current Direction
-- The durable industry pressure is compliance around earnings claims, income disclosures, retail-sales-first language, and distributor monitoring.
-- Amway/LTD-adjacent leadership should assume every income/lifestyle statement may be interpreted as an earnings claim unless properly framed and disclosed.
-- There was no meaningful last-24-hour Amway/LTD-specific news in this run, so the useful work remains operational: script discipline, leadership training, and review of prospecting language.
+- Strict daily public signal is usually sparse; durable operating discipline matters more than daily hype.
+- Amway/LTD-adjacent leadership should stay product/customer-value-first and IDS/rules-backed whenever earnings, lifestyle, or business opportunity are discussed.
+- Compliance-safe leadership systems are a real leverage point: scripts, training, examples, and review habits that let enthusiasm survive without becoming implied income claims.
 
 ## Major Shifts to Watch
-- FTC enforcement and self-regulatory action around deceptive earnings claims.
-- Income Disclosure Statement updates and how field leaders communicate them.
-- Social-media lifestyle claims from distributors that imply typical success.
-- Compensation-plan explanations that sound recruitment-first instead of retail/customer-value-first.
+- Earnings-claim scrutiny remains the dominant risk theme for direct selling and MLM-adjacent communications.
+- Official income disclosures/rules are the anchor; social chatter is secondary and often noisy.
+- Leadership content that implies lifestyle or typical earnings without disclosure remains the danger zone.
+- Field training systems should evolve toward documented, compliant language patterns rather than personality-driven motivation.
 
 ## Faleth Relevance
-- Build a compliance-safe leadership script library: prospecting language, income-disclosure disclaimers, “what not to say,” product-first framing, and coaching examples.
-- For LTD/Amway-adjacent work, leadership should be measured by durable habits and customer value, not hype cycles or screenshot theology.
-- Use compliance constraints as a forcing function for clearer, more honest leadership.
+- Build LTD/Amway-adjacent scripts and coaching templates around official Amway IDS/rules and customer-value language.
+- Avoid promises, typicality confusion, or lifestyle implication. If earnings are mentioned, cite official disclosure and context.
+- Treat compliance-safe communication as leadership infrastructure, not legalistic nuisance paperwork.
 
 ## Running Source Debrief Notes
 ### 2026-06-08
@@ -74,3 +74,5 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ### 2026-06-23
 - Targeted X search found no meaningful Amway/LTD-specific income-disclosure, compensation, or leadership-compliance development in the strict window. Web search again returned official Amway Income Disclosure, Business Reference Guide, Rules of Conduct, and FTC MLM disclosure context as background rather than new change ([Amway Income Disclosure](https://www.amway.com/en_US/income-disclosure), [Business Reference Guide PDF](https://www.amway.com/media-location/AmwayBusinessReferenceGuide_USEN.pdf), [Amway Rules of Conduct](https://www.amway.com/en_US/rules-of-conduct), [FTC MLM disclosure alert](https://consumer.ftc.gov/consumer-alerts/2024/09/what-are-multi-level-marketing-mlm-disclosure-statements-really-telling-you)).
 - Signal strength: weak for new events; strong for durable compliance backdrop. Continue IDS-backed, typical-results-aware, product/customer-value-first script discipline.
+### 2026-06-24
+- No meaningful Amway/LTD compensation, IDS, or compliance event surfaced in the strict X window. Official durable context remains Amway’s Rules of Conduct definition of earnings claims and web-search surfaced Income Disclosure/Business Reference Guide materials ([Rules of Conduct](https://www.amway.com/en_US/rules-of-conduct), [Income Disclosure](https://www.amway.com/en_US/income-disclosure), [Business Reference Guide PDF](https://www.amway.com/media-location/AmwayBusinessReferenceGuide_USEN.pdf)). Signal strength: weak for new events, strong for durable compliance backdrop.

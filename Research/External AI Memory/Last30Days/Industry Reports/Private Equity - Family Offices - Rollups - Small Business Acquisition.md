@@ -3,25 +3,20 @@
 Purpose: rolling industry report informed by daily Last30Days debriefs. This file captures the distilled direction of the industry over time, not merely daily notes.
 
 ## Current Direction
-- The practical conversation is moving toward operator-led acquisition, small-fund math, fragmented legacy industries, and AI/process leverage after acquisition.
-- Family offices and patient capital continue to be positioned as more culturally aligned for founder/seller transitions than short-hold PE in many small-business contexts.
-- Permanent/patient services rollups are emphasizing seller continuity and retained ownership because client trust and relationship transfer are the actual assets.
-- Rollup enthusiasm is real, but the hard part is integration capacity: systems, people, bookkeeping, customer concentration, management replacement, and operating cadence.
-- AI is increasingly used as a post-acquisition modernization thesis: buy old-industry customer bases, then improve operations with automation.
-- Family-office direct deals and SPV-backed search/ETA strategies are increasingly discussed as alternatives to traditional fund exposure, but sourcing and operator capacity remain the constraints.
+- Lower-middle-market investing continues to center on owner transition, founder-dependence reduction, operational maturity, and credible operator benches.
+- Search funds and family offices are increasingly visible as acquisition paths, but the hard part remains sourcing, integration, management, and value creation.
+- Faleth’s strongest stance remains build-first, acquire-selectively: buy only where operational improvement and mission-aligned governance are real, not because “rollup” sounds fancy in a pitch deck.
 
 ## Major Shifts to Watch
-- Rollups in dated/traditional industries using automation as the post-acquisition value lever.
-- Search/ETA tooling: deal pipeline dashboards, LP tracking, diligence automation, target monitoring, and operator benches.
-- Seller preference for patient/permanent capital and aligned ownership.
-- Warning signs of overheated rollup logic or multiple-arbitrage dependency.
-- Whether AI-rollup platforms publish real operating metrics or remain narrative-first financing wrappers.
-- Micro-PE/search stress signals: employee loss, customer concentration, weak operator benches, and expensive lead generation after acquisition.
+- Search fund models spreading geographically and educating sellers as an alternative to strategic/PE buyers.
+- Massive SMB succession narrative remains a deal-flow backdrop, but clean financials, recurring revenue, and reduced owner dependency are what buyers reward.
+- Family offices continue showing direct private-deal appetite, but execution quality and tax/structure sophistication vary widely.
+- Rollup interest persists in home/commercial services and professional services, but integration capacity is the constraint.
 
 ## Faleth Relevance
-- Preserve Faleth’s strategic framing: **build-first, acquire-selectively**. Acquisitions are useful when they accelerate an operating system, not when they become the thesis.
-- Build the micro-rollup operating system around FRR-like operations before buying complexity: bookkeeping, CRM, SOPs, recruiting, incentives, quality control, and dashboards.
-- For inbound seller conversations, emphasize stewardship, continuity, operator development, and practical improvement over financial engineering.
+- Use acquisition language that emphasizes continuity, stewardship, operations, and leadership development rather than pure financial engineering.
+- Build systems that reduce owner dependence inside Faleth/FRR first; that becomes both operating leverage and acquisition-readiness discipline.
+- Do not rely on multiple arbitrage. Real value is earnings quality, process, people, automation, customer trust, and aligned incentives.
 
 ## Running Source Debrief Notes
 ### 2026-06-08
@@ -80,3 +75,5 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ### 2026-06-23
 - Current X signal was light but practical: a CPA/accounting rollup thread described small-firm acquisitions, strong cash-at-close, $1M-$3M revenue targets, tech-operational integration, COO/operator bench building, and 4-6 year exit expectations; additional acquisition chatter focused on pass/pursue diligence and SBA-friendly deals ([CPA rollup signal](https://x.com/i/status/2069043299512386040), [Pass/Pursue diligence signal](https://x.com/JonMStoddard/status/2069158276374143012)).
 - Signal strength: medium for market sentiment; weak for hard-news novelty. Faleth should use these as operating-system comparables, not proof that rollup math works without integration capacity.
+### 2026-06-24
+- Current X signal covered search-fund momentum in Spain/Japan, seller-facing search-buyer arguments, the brutal 1–2 year sourcing reality, SMB ownership-transition framing, and family-office direct-deal/tax-structure posts ([Spain search fund](https://x.com/LuisMiguelValue/status/2069495847172149497), [Japan conference](https://x.com/FundYmfg/status/2069285194516079057), [search realities](https://x.com/RepeGent/status/2069257294378864845), [SMB transition](https://x.com/hobbsbizguide/status/2069454780460605486), [family office direct deals](https://x.com/konzortia_c/status/2069456264191435007)). Signal strength: medium for market sentiment, weak for hard new data.

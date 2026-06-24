@@ -3,24 +3,20 @@
 Purpose: rolling industry report informed by daily Last30Days debriefs. This file captures the distilled direction of the industry over time, not merely daily notes.
 
 ## Current Direction
-- The industry is moving from chatbot/one-shot prompt demos toward **governed agentic workflows**: agents with scoped tools, planning loops, shared memory, validation, observability, human handoff, and rollback.
-- The useful buyer language is shifting from “autonomous magic” to **managed work units** and **agent teams** coordinated by orchestrators inside permissioned operating systems.
-- Enterprise adoption pressure is creating demand for orchestration, audit trails, authorization, and evaluation harnesses more than for yet another toy multi-agent framework.
-- MCP and A2A are becoming the practical protocol pair to watch: MCP for governed tool/data access, A2A for agent-to-agent delegation and discovery.
+- Agentic automation is moving from demo bots to governed enterprise work units: scoped permissions, operational metrics, human handoff, and audit logs.
+- The strongest buying context is still vertical operational pain — contact centers, telecom operations, ERP/document workflows, internal admin, and regulated workflows.
+- Practical differentiation is shifting from raw model ability to orchestration quality: tool access, policy, evals, replay, escalation, and incident response.
 
 ## Major Shifts to Watch
-- Agent harnesses and orchestration layers that standardize permissions, tool access, logs, sandboxes, retries, and HITL escalation.
-- Dedicated agent benchmarks that test real tool-call trajectories rather than single-turn chat performance.
-- Authorization design for agents that can spend money, send messages, deploy code, modify records, or trigger irreversible actions.
-- The split between simple deterministic automation and genuinely agentic tasks; over-agentifying boring workflows remains the obvious foot-gun.
-- Persistent-memory / multi-agent team patterns becoming operationally useful rather than merely demo-friendly.
-- Observability tooling for agent decisions, tool calls, errors, and cost drift.
-- Enterprise authentication and discovery patterns for MCP/A2A: OAuth, registries, signed agent cards, gateway policy, and action-layer audit.
+- Enterprise platforms bundling agent builders, performance dashboards, and outcome pricing.
+- Agentic security, zero-trust permissions, and human-in-the-loop checkpoints becoming mandatory.
+- Multi-agent coordination moving from research idea to production architecture.
+- Regulated-industry deployments becoming the proof standard for credible agent products.
 
 ## Faleth Relevance
-- Build Faleth agents as scoped internal workers: daily opportunity monitoring, proposal intake, customer follow-up, repair intake triage, compliance review, and leadership workflow reminders.
-- Start with auditable workflows and narrow tools; add autonomy only when the manual process is understood.
-- For subsidiaries, the moat is not “we use agents.” It is repeatable process, permissions, judgment, and records that make agents safe enough to matter.
+- Hermes/Faleth agents should be designed as accountable recurring workers with budgets, permissions, logs, replay, and review gates.
+- The near-term Faleth opportunity is internal operating leverage before external SaaS: research agents, GovCon scouts, CRM/admin workers, and FRR marketing/ops helpers.
+- Avoid autonomous authority until the manual process, escalation path, and evidence requirements are mapped.
 
 ## Running Source Debrief Notes
 ### 2026-06-08
@@ -77,3 +73,5 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ### 2026-06-23
 - Nokia/Google Cloud announced Gemini-powered telecom assurance agents on 2026-06-22, while current X signal emphasized evals, agentic workflow injection/security, scoped authority, and human review loops ([Google Cloud press release snippet-level](https://www.googlecloudpresscorner.com/2026-06-22-Nokia-and-Google-Cloud-Partner-to-Embed-AI-Agents,-Built-with-Googles-Gemini-Models,-Into-Nokias-Autonomous-Network-Product-Suite), [AgentX eval signal](https://x.com/AgentX_AI/status/2069208060191531449), [security signal](https://x.com/CyberSecurityQA/status/2069205560713486340)).
 - Signal strength: medium-to-strong. Reinforces that Faleth/Hermes agents should be governed scheduled workers with permissions, logs, evals, budget caps, and rollback rather than vague autonomous blobs.
+### 2026-06-24
+- Enterprise/current signal showed M-Files document agents, Verint contact-center agentic products, NVIDIA trusted telecom agents, and SAP governed ERP automation as the dominant direction ([M-Files](https://www.m-files.com/press-releases/m-files-ai-agents/), [No Jitter](https://www.nojitter.com/contact-centers/verint-launches-four-agentic-ai-powered-products), [NVIDIA](https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/), [SAP](https://www.sap.com/blogs/erp-automation-at-scale)). X reinforced production deployment, agent workforces, and governance/security themes ([Santander/Copilot](https://x.com/TurnStack_ai/status/2069464141283107059), [RingCentral](https://x.com/miladantonio/status/2069518607910949305), [DeepMind agent economy](https://x.com/deployedmind/status/2069465838386581619)). Signal strength: medium-to-strong.

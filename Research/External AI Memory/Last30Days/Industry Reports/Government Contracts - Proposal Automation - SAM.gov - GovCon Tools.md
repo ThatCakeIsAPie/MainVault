@@ -3,25 +3,20 @@
 Purpose: rolling industry report informed by daily Last30Days debriefs. This file captures the distilled direction of the industry over time, not merely daily notes.
 
 ## Current Direction
-- GovCon AI is moving toward vertical workflow automation: SAM.gov discovery, fit scoring, solicitation parsing, compliance matrices, pricing support, proposal drafting, and audit-ready review queues.
-- Practical implementation is tilting toward **model routing**: cheaper models for high-volume triage/extraction/drafting, with frontier models and human reviewers reserved for final judgment.
-- The market is also developing a second risk frontier: **government-side AI use in proposal evaluation**. Contractors need to watch not only how they use AI, but how agencies may use AI to evaluate them.
-- Vendor consolidation and capability expansion are likely as proposal automation firms add deeper compliance, data-room, CRM, source-grounding, and past-performance memory features.
-- LLM data-safeguarding is becoming part of the proposal/procurement AI operating model, especially where Government Data, CUI, flowdowns, and model retention policies are involved.
+- GovCon AI is moving toward vertical capture/proposal operating systems: SAM.gov discovery, bid alerts, fit scoring, solicitation parsing, compliance matrices, grounded drafting, pipeline tracking, and human review.
+- The most practical first wedge remains Opportunity Radar before full proposal drafting: score opportunities, extract requirements, preserve sources, and route human decisions.
+- Government-data safeguards, CUI posture, model-retention settings, and audit trails are part of the product, not optional plumbing.
 
 ## Major Shifts to Watch
-- “Shadow AI” in government evaluations becoming a protest/disclosure issue.
-- GovCon proposal-AI vendors acquiring or integrating specialized drafting/compliance tools.
-- Shift from generic AI writing to source-grounded proposal operations: compliance matrices, clause extraction, audit trails, human signoff, and win-theme libraries.
-- SAM.gov/opportunity watchers becoming agentic capture assistants for small contractors.
-- Bid/no-bid scoring and fit triage becoming the first monetizable wedge before full proposal drafting.
-- Whether agencies publish procurement guidance on AI-assisted evaluation transparency.
-- GSA/FAR/agency clauses governing LLM processing of Government Data and contractor disclosure/flowdown obligations.
+- Small-contractor tools marketing 24/7 SAM.gov monitoring plus compliant drafting as a lightweight alternative to GovWin-style platforms.
+- Vendor claims moving from generic proposal writing toward vertical CRM/capture-agent roles.
+- Shadow-AI evaluation, LLM data safeguarding, and autonomous-submission claims becoming protest/compliance watch items.
+- Bid/no-bid triage and evidence lockers likely monetizable before end-to-end proposal automation.
 
 ## Faleth Relevance
-- VXE and LibreTech should build a lightweight internal GovCon Opportunity Radar before committing to external SaaS: opportunity watcher, NAICS/PSC filters, bid/no-bid score, compliance matrix, capture notes, vendor/sub outreach, and proposal outline.
-- Add an award/post-award review checklist for signs of AI-assisted evaluation irregularities or unclear evaluation process.
-- Human review remains mandatory; hallucinated compliance is how you manufacture paperwork confetti and then call it strategy.
+- VXE/LibreTech should continue building a lightweight internal Opportunity Radar: SAM.gov scout, capability-profile fit score, compliance matrix, evidence locker, deadline tracker, and human signoff.
+- Add competitor-watch fields for TenderField/ContractPulse-style claims and CUI/government-data posture.
+- Keep autonomous filing/submission disabled unless a named human reviewer approves and the evidence locker is complete.
 
 ## Running Source Debrief Notes
 ### 2026-06-08
@@ -81,3 +76,5 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ### 2026-06-23
 - Fresh X signal surfaced Ivorycom's GovCon CRM vertical with SCOUT/ANALYST/DRAFTER/INTEL/TRACKER-style agents for SAM.gov monitoring, solicitation analysis, grounded capability drafts, incumbent/pricing intel, and deadlines; Polsia also posted GovSprint/SAM.gov and proposal-generator signals ([Ivorycom GovCon agents](https://x.com/fredkonan86/status/2069188055869595921), [Polsia proposal generator](https://x.com/polsia/status/2069053849407762857), [Polsia GovSprint](https://x.com/polsia/status/2068931545277374562)).
 - Signal strength: medium. Update the internal Opportunity Radar with agent-role fields, competitor-watch fields, CUI/government-data controls, evidence-locker paths, and named-human approval gates before any filing/submission behavior.
+### 2026-06-24
+- Polsia promoted TenderField for 24/7 SAM.gov monitoring, compliant proposal drafts, and pipeline tracking, and ContractPulse for small-business bid alerts/proposal automation as a cheaper GovWin alternative ([TenderField](https://x.com/polsia/status/2069318725715841030), [ContractPulse](https://x.com/polsia/status/2069226708746842199)). SAM.gov search also surfaced the Advancing Artificial Intelligence Multiple Award Contract draft RFP as a current AI-procurement context lead ([SAM.gov AAMAC](https://sam.gov/opp/41cb7e34478d42b6b337a03ecf1ad7c0/view)). Signal strength: medium for direction, weaker for buyer proof.

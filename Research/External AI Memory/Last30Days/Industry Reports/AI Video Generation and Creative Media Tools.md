@@ -3,24 +3,20 @@
 Purpose: rolling industry report informed by daily Last30Days debriefs. This file captures the distilled direction of the industry over time, not merely daily notes.
 
 ## Current Direction
-- AI video is moving from “impressive clip generator” toward a composable creative stack: script → character/style lock → storyboard → image/style frame → video model → voice/music/SFX → edit → distribution.
-- Current creator attention rotates among Seedance, Kling, Veo, Runway, Sora, Luma, Grok Imagine, and other fast-moving models. The durable workflow matters more than the daily model crown.
-- Integration into agent/chat/dev environments is an important shift: video generation is becoming callable creative infrastructure rather than a separate destination app.
-- Consistency across shots — character, silhouette, style, camera language — is emerging as the practical moat.
-- API-packaged creative workflows, such as one-call product ads or multi-shot video recipes, are shifting value from individual prompting to repeatable production systems.
+- AI video is now a production-stack problem: model choice, prompt structure, shot planning, character consistency, editing control, and distribution workflow.
+- Seedance, Veo, Kling, Runway, Luma, and similar tools are being compared by role rather than as a single winner.
+- Aggregator/workflow platforms such as Runway are gaining strategic value by giving creators access to multiple top models in one controlled environment.
 
 ## Major Shifts to Watch
-- MCP/API/infinite-canvas integrations that let agents call image/video models inside Claude, ChatGPT, Cursor, or internal creative tools.
-- Prompt portability across Seedance/Kling/Veo/Runway/Sora and repeatable benchmark prompt packs.
-- Rights/licensing, watermarking, and commercial-use rules for business marketing assets.
-- Cost/quality tradeoffs for short-form content, especially “fast” variants vs premium tiers.
-- Whether “AI co-director” tools can preserve continuity across full scenes, not just generate flashy isolated clips.
-- Which providers turn recipes/templates into reliable commercial media APIs for e-commerce, training, and paid social content.
+- Native 4K, longer coherent clips, and character/object consistency becoming expected rather than miraculous.
+- Structured/JSON-style prompting and shot orchestration becoming a creator advantage.
+- Benchmarking moving toward editing/control tasks and prompt-to-production reliability.
+- Multi-model subscriptions and platform aggregation may matter more than individual model hype.
 
 ## Faleth Relevance
-- Free Range Repair can use AI video for repair explainers, before/after clips, replacement-vs-repair education, warranty/referral explainers, and paid social creative.
-- LTD/leadership work can use short, compliance-safe training clips rather than hype videos.
-- Standardize a prompt pack and benchmark 2-3 tools before spending time chasing every shiny video toy like a raccoon with Wi-Fi.
+- FRR/Faleth should build repeatable content recipes: repair education, before/after shorts, product/service explainers, and founder/operator story clips.
+- Treat model selection like a creative routing table: Seedance/Kling for motion/control, Veo for cinematic realism, Runway for editing/orchestration, etc.
+- Do not waste strategic time worshiping daily leaderboards; ship assets and measure lead/customer response.
 
 ## Running Source Debrief Notes
 ### 2026-06-08
@@ -78,3 +74,5 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ### 2026-06-23
 - Fresh creator signal reinforced multi-tool production stacks: Midjourney for style/frames, Runway for controllable image-to-video/editing, Veo 3.1 for realism/physics/audio, and Kling/Seedance for specialized motion/characters; Artificial Analysis' Video Editing Arena emerged as a useful benchmark watch item ([creator workflow](https://x.com/creatorslop/status/2069042979084619820), [Runway/editing signal](https://x.com/jamescoder12/status/2068989217741607313), [Veo signal](https://x.com/MuteeAutomation/status/2069164258219491487), [arena signal](https://x.com/i/status/2069093656070627356)).
 - Signal strength: medium. FRR/Faleth should benchmark finished content recipes and editing-control workflows rather than daily model rankings.
+### 2026-06-24
+- Fresh X discussion centered on Seedance 2.0/2.5, native 4K, motion/character consistency, and Runway aggregating Seedance 4K/Mini plus Kling 3.0 Turbo ([Seedance buzz](https://x.com/Gen_AINews/status/2069568687141740556), [Seedance/TopviewAI](https://x.com/EonWeaveLabs/status/2069565109882773889), [Veo/Kling/Seedance comparison](https://x.com/ZentrixHQ/status/2069516255384797597), [Runway integration](https://x.com/yining_shi/status/2069542125331497092)). Signal strength: medium.
