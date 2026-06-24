@@ -2,40 +2,27 @@
 type: principle
 title: Peaceful Fork and Voluntary Alignment (2026)
 status: active
+ingested_via: 'mcp:put_page'
+ingested_at: '2026-06-24T17:28:21.567Z'
+source_kind: 'mcp:put_page'
 tags:
+  - compensation
   - faleth
   - governance
-  - compensation
-  - network-marketing
-effective_date: 2026-06-23
-source_session: telegram/2026-06-23/network-marketing-leadership
+  - voluntary-alignment
 ---
 
 # Peaceful Fork and Voluntary Alignment (2026)
 
-**Sources:** [[raw/transcripts/2026-06-23-faleth-individual-voluntary-alignment-and-whole-organization-contribution]], Telegram session *Network-Marketing-Leadership-Concerns* (2026-06-23).
+**Core Principle**: Faleth’s mission is to empower the individual. A peaceful fork means voluntary alignment without perpetual upline rent or coercive structures.
 
-## Core thesis
+## Key Ideas
 
-Faleth's original mission: **empower the individual.** Lyle is not abandoning that mission when he critiques MLM parent-company leadership — he is stress-testing whether structures still serve contributors.
+- Balance local accountability with whole-organization contribution.
+- Amway-style network marketing is reframed as side income and skills development rather than the primary vehicle.
+- People should be able to leave or fork without losing everything they built.
+- Compensation and governance should reward contribution while preserving agency.
 
-## Peaceful fork
+## Application
 
-- Structural answer to compliance-heavy, top-down network marketing orgs: contributors can align **voluntarily** without forced line-of-sponsorship dependency for all upside.
-- Contrasts with MLM weakness: even "rising tide" models can trap people under sponsors who add little value but capture override economics.
-
-## Voluntary alignment + whole-organization contribution
-
-- **Local accountability** (your pod, your clients, your measurable output) must coexist with **whole-organization contribution** (shared infrastructure, brand, tooling).
-- Compensation design should not require pretending every upline deserves perpetual rent on downstream effort.
-- Lyle reframed Amway/network marketing as **useful side income and skill practice**, not identity — while Faleth remains the primary build.
-
-## Operating style signal
-
-- When external orgs disrespect contributors (e.g. leadership treating downline as disposable), Lyle updates loyalty calculus quickly — respect and agency are non-negotiable filters.
-- Philosophy conversations are not abstract: they feed CRM/governance specs and compensation experiments.
-
-## Links
-
-- [[faleth-capital/beyond-the-wage]]
-- [[faleth/mindset/three-ps-motivation-2026]]
+This principle directly influences how Faleth structures equity, profit share, and contributor relationships. It rejects models that trap people and favors systems where alignment is chosen and maintained through value, not obligation.
