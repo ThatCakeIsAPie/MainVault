@@ -120,4 +120,10 @@ Being a bold steward:
 	- You should have had a significant increase in your income because of this environment
 	- Track your finances and communicate with your upline about your finances and how they are progressing
 - How are you managing and stewarding the relationships in the room?
-- His crossline moves him more
+- His crossline moves him more than almost anyone else. You should have that person in your head. if you don't you need to find a person. You can't keep associating with the same people and expect exponential results. You need a variety of mindsets. He picks the brains of everyone on the team to learn about what they do, so he can pass it on to others and honor those original people by saying who he heard it from.
+- "What you fail to manage today may be the same thing God cannot multiply for you tomorrow"
+- You may not be stewarding your relationship with your upline well. Utilize to the fullest degree your mentor and coach. Don't just be a taker, but a giver. Refresh your upline.
+- Some of you only talk to upline to dump negative about the next bad thing happening in your life. If the only thing you share is bad things, no one really cares. We want your mindset to improve, but we aren't here to be your personal therapist who you can call every time you are about to cry.
+- You aren't the only person who has stuff going on. He remembers coming to one of these info sessions and his car was getting repossessed in the parking lot. The only ones who knew were his upline. He pressed into the environment.
+- Some of us have a spirit on us, when we haven't really sold out to the environment.
+- Some of us have a spirit of chaos, you thrive in it. But it is the opposite of peace. Are you seeking the drama? Or, are you finding the people who are sponsoring?
