@@ -138,4 +138,14 @@ Being a bold sower:
 - Some of us are not tithing. You need to tithe. Your finances suck because you aren't tithing.
 - For him, he didn't believe in tithing. He remembers tithing and being negative by over $1k.
 - He remembers a speaker being short by a certain amount, tithing anyway, and God heard him and provided exactly what he needed.
-- He tithed anyway, despite it, basically challenging God on it, and 2 months later, they were negative $1800 or so, literally got a check in the mail a few days later for the exact amount, he never saw the company again that gave him the money.
+- *He tithed anyway, despite it, basically challenging God on it, and 2 months later, they were negative $1800 or so, literally got a check in the mail a few days later for the exact amount, he never saw the company again that gave him the money. In that situation, God came through for him.*
+- You have to have faith. Some of us have lost faith.
+- Some of us go to church, but don't know God. If He feels distant, He is never the one who moved.
+- Farmers don't plant seed because they dont expect a harvest, but because they do.
+- Some of us have forgotten the power of prayer.
+- He will always sacrifice the relationship for truth, he always prioritized truth.
+- Seed time, progression time, harvest time
+- That progression time is your preparation season.
+- We can't live off of yesterday's success. You have to constantly update your resume. If you rely on the things you did back then, you become a jaded person in the environment.
+- When you compromise on the standard, you spit in the face of those who built it. That isn't honoring the environment.
+- At the beginning of the info session, there were no platinums. But how do you see yourself? Are you a leader in the room? Many of us need to improve our self image, not just our business image. Your self image needs to be rooted in Christ, not in this business. He isn't building it for one event, he is building it for the team that he has.
