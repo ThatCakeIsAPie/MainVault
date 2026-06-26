@@ -154,4 +154,4 @@ Being a bold sower:
 Which one of these is the hardest for you right now?
 Reach out to your growing upline and let them know which one you are struggling in, with an answer and ask for counsel. Your upline can either confirm or tweak the mindset you approach them with. Once you learn the mindset, you can take it to your job, your marriage, your parenthood.
 As you influence more people, you will have a bigger following. "This guy *blank*, something is different about them"
-![[Recording 20260625215917.m4a]]
+![[Recording-20260625-215917-16k-32k.mp3]]
