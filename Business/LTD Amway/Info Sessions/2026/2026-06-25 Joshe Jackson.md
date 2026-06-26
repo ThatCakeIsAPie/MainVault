@@ -102,4 +102,22 @@ Being a bold servant:
 - Serve with excellence, the best of your possible possibilities
 - Serve from a frame of conviction
 	- There are times he has had a downline call him and he didnt want to talk to them. But he chose the relationship rather than his feelings.
-	- Some of us dont feel like being here, but 
+	- Some of us dont feel like being here, but you are here anyway
+- You can never outgrow serving, this will be a part of your every day life
+- "If no one ever thanked me, would I still serve with the same passion?"
+- People are going to quit in your business, the environment, but you serve because it is the right thing to do
+- Adding value to people and serving them without an agenda
+	- I.e. having a conversation with someone and leaving without their number
+- Can God trust me with influence, or do I only serve when I'm noticed?
+- You need to make sure your heart is in the right place when you do these things
+- Serve at your job, your family
+- Not one thing is more important than the other, but when you have God at the helm, it is easy to pick what you need to do first
+Being a bold steward:
+- Everything I have is a gift and what I do with it is my responsibility
+- You can be a good or bad steward at your job. Some of us have been fired so many times because they were bad stewards. He is the best person at his job, because he chose to be, and it makes him a good ambassador for the team and environment
+- How are you stewarding your finances?
+	- If you have been in this environment for at least a year and your finances still suck, you have been a bad steward with your finances
+	- You should have had a significant increase in your income because of this environment
+	- Track your finances and communicate with your upline about your finances and how they are progressing
+- How are you managing and stewarding the relationships in the room?
+- His crossline moves him more
