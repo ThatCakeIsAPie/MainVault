@@ -148,4 +148,10 @@ Being a bold sower:
 - That progression time is your preparation season.
 - We can't live off of yesterday's success. You have to constantly update your resume. If you rely on the things you did back then, you become a jaded person in the environment.
 - When you compromise on the standard, you spit in the face of those who built it. That isn't honoring the environment.
-- At the beginning of the info session, there were no platinums. But how do you see yourself? Are you a leader in the room? Many of us need to improve our self image, not just our business image. Your self image needs to be rooted in Christ, not in this business. He isn't building it for one event, he is building it for the team that he has.
+- At the beginning of the info session, there were no platinums. But how do you see yourself? Are you a leader in the room? Many of us need to improve our self image, not just our business image. Your self image needs to be rooted in Christ, not in this business. He isn't building it for one event, he is building it for the team that he has, for God. This destination is just a bump in the road.
+- Am I sowing based on what I can see, or based on what I can believe?
+- *Walk by faith, not by sight*
+Which one of these is the hardest for you right now?
+Reach out to your growing upline and let them know which one you are struggling in, with an answer and ask for counsel. Your upline can either confirm or tweak the mindset you approach them with. Once you learn the mindset, you can take it to your job, your marriage, your parenthood.
+As you influence more people, you will have a bigger following. "This guy *blank*, something is different about them"
+![[Recording 20260625215917.m4a]]
