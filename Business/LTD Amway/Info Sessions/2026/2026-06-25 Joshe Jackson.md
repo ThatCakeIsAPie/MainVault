@@ -46,3 +46,11 @@ Amway takes care of their customers. Check with the BBB and see WHY they have an
 The products are irrelevant, people are buying you
 Why should they buy from you versus walmart? Because the difference *is* you.
 Amway takes care of the logistics of the business, the fulfillment, essentially.
+This is a relationship business
+There is always a cost. But your first year is actually complimentary, and $76/yr after that, like Sam's Club.
+His business paid itself back within its first 3 months
+There are 3 ways we make income:
+- Customer sales
+- Personal orders
+- Team overrides
+Why would I support Monster? They don't pay me. XS does.
