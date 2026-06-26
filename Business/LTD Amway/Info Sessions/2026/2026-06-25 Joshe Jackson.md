@@ -1,3 +1,75 @@
+---
+type: meeting-note
+date: 2026-06-25
+event: LTD Amway Info Session — Joshe Jackson
+processed_date: 2026-06-26
+tags:
+  - ltd-amway
+  - info-session
+  - leadership
+  - mentorship
+  - business-building
+  - personal-development
+---
+
+# Info Session — Joshe Jackson
+
+## Audio and Transcript
+
+- Audio: ![[Recording-20260625-215917-16k-32k.mp3]]
+- Transcript: [[2026-06-25 — LTD Amway Info Session — Joshe Jackson — transcript]]
+- Transcription model: xAI Grok STT (`grok-stt`)
+
+## Processed Takeaways
+
+### One-sentence thesis
+
+Joshe framed growth as character before cash: servant–steward–sower alignment is what keeps money, teams, and faith durable—especially as the room enters a new environment where attitude, stewardship, and sowing discipline matter more than hype.
+
+### Core ideas
+
+1. **Environment builds the person, not just the paycheck.** LTD attracted him because it develops leaders and transferable skills; if uplines are “products of the system,” the path is duplicable—not reserved for special personalities.
+2. **Money without mindset leaks.** You can enter lacking entrepreneur traits, but you will not stay without independent thought, resilience, coachability, and long-term vision.
+3. **The business is relationship-first logistics.** Amway handles fulfillment; the buyer difference is *you*—product quality matters, but trust and presence close the loop.
+4. **Income is simple on the surface.** Customer sales, personal volume, and team overrides—redirect spend to brands that pay you, repeat customers (Ditto), and duplicate the habit through others.
+5. **The three S’s diagnose drift.** Unappreciative or chaotic attitudes usually mean servant, steward, or sower is off—each with concrete room, job, family, finance, and upline/downline behaviors.
+6. **Standards honor the builders.** Compromising dress, gossip, drama-seeking, or living on yesterday’s wins disrespects the environment Chase, Tyler, Tristan, Nick, Ethan, and others built.
+
+### Speaker-specific takeaways
+
+#### Joshe Jackson (info session + training)
+
+- Personal story: corporate layoff, divorce, family deaths—positioned the team as a “change maker” when Chase spoke family/country into a life surrounded by party culture.
+- “Let's Think Together” stats underscored retirement fragility ($83k median household income, thin Social Security, rising 401(k) hardship withdrawals)—complimentary events are the on-ramp to complimentary coaching.
+- Training anchor: **bold servant** (serve without agenda—leave conversations without needing a number; serve when unthanked), **bold steward** (job excellence as proof of system; finances and upline relationships managed; crossline variety for exponential thinking), **bold sower** (seed time → progression → harvest; tithe/faith story; walk by faith not sight).
+- Closing challenge: name your weakest S, reach upline with *your* proposed fix so they can confirm or tweak—not dump problems without solutions.
+
+#### Tauriah Stubbs (Top 5 Ditto)
+
+- Ditto = scheduled ordering for IBOs/customers—recurring PV, “Core 300” clarity at month start, Buy–Repeat–Earn for registered customers.
+- Vanessa “Day 1 customer” story: fitness lifestyle, restored friendship, 18+ months of monthly orders—relationship investment returns as loyalty, not just PV.
+- Practical: find *your* Day 1 customer; genuine friendship beats treating people as volume.
+
+## Personal Synthesis for Lyle
+
+### What this meeting is really saying to you
+
+- **Push:** median American retirement math is a trap—Social Security and savings barely cover rent. Your raw notes on hardship withdrawals and “complimentary coaching requires showing up” reinforce why passive job-only paths feel brittle.
+- **Pull:** the deeper win is people becoming free—wife home, debt relief, teams that serve customers and each other. Your Day-1-customer / genuine-friendship note is the right Pull: relationships are the business, not a lead funnel disguise.
+- **Process:** duplicate simple behaviors (150 PV baseline, customer redirection, Ditto rhythm) while LTD sharpens communication, stewardship, and independent thought. Maps to your Faleth insight: complex back-end, simple human execution.
+- **Faleth leadership:** Joshe’s “standards with grace” shows up as honor the room, correct with truth even at relationship cost, but serve without recognition-chasing—aligned with voluntary alignment when it is *genuine* (conviction-led service, not stage hunger).
+- **Environment before merger:** with Sheridan crossover coming, the three S’s are the anti-chaos doctrine—gossip and drama are opposite of peace; sponsor activity is the signal to follow, not social-media outrage.
+
+### Practical next actions
+
+- Identify which S is loudest (servant / steward / sower) and message upline with one concrete correction you will run for 30 days.
+- Name one “Day 1 customer” candidate and one non-business friendship you will invest in without an IBO agenda.
+- Track whether Core 300 / Ditto habits are clearing mental bandwidth for prospecting (month-start PV clarity).
+- Convert the retirement-stats block into one outreach question for job-complainers in your circle—not a lecture, one curious invite.
+- For Faleth docs: keep “people buy you; logistics can be abstracted” as a design constraint for anything customer-facing.
+
+## Raw Notes
+
 # Info Session - Joshe Jackson
 He was able to get a corporate job early into his tenure, and got laid off, was going through a divorce, and had multiple deaths in his family.
 The Lord will always put you in the right places at the right time to meet the right people
