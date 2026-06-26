@@ -2,12 +2,12 @@
 type: principle
 title: Anti Charismatic Exceptional Work 2026
 related:
-  - faleth/mindset/three-ps-motivation-2026
+  - research/faleth/mindset/three-ps-motivation-2026
   - concepts/offshoots/alignment-as-voluntary-shared-direction
   - concepts/offshoots/purpose-and-vision-as-focusing-mechanisms
   - concepts/offshoots/identity-and-belief-drive-behavior
 ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-25T16:42:58.061Z'
+ingested_at: '2026-06-26T01:34:40.992Z'
 source_kind: 'mcp:put_page'
 tags:
   - deep-work

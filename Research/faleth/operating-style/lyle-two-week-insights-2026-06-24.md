@@ -1,12 +1,15 @@
 ---
 type: reference
-title: Lyle Operating Profile — Two-Week Insight Synthesis (Jun 10–24, 2026)
+title: 'Lyle Operating Profile — Two-Week Insight Synthesis (Jun 10–24, 2026)'
 status: active
+effective_date: '2026-06-24T00:00:00.000Z'
+ingested_via: put_page
+ingested_at: '2026-06-26T01:33:59.478Z'
+source_kind: put_page
 tags:
   - lyle
-  - operating-style
   - memory-audit
-effective_date: 2026-06-24
+  - operating-style
 ---
 
 # Lyle Operating Profile — Two-Week Insight Synthesis (Jun 10–24, 2026)
@@ -19,7 +22,7 @@ Audit of Telegram/Hermes conversations and vault transcripts for goals, mindset,
 2. **Ship Faleth CRM + governance** that embodies agency, voluntary alignment, and contribution-based pay.
 3. **Monetize GovCon automation** (email → qualify → proposal pipeline) as near-term revenue engine.
 4. **Public learning** on X — authority and aligned leads, not generic creator grind.
-5. **Biography Operating System** — compress lived wisdom from biographies into queryable personal knowledge ([[faleth/biography-operating-system]]).
+5. **Biography Operating System** — compress lived wisdom from biographies into queryable personal knowledge ([[research/faleth/biography-operating-system]]).
 
 ## Mindset shifts (Jun 2026)
 
@@ -52,9 +55,9 @@ Audit of Telegram/Hermes conversations and vault transcripts for goals, mindset,
 
 ## Canonical GBrain pages (this audit)
 
-- [[faleth/mindset/transition-agency-2026]]
-- [[faleth/bridge-strategy/automation-services-2026]]
-- [[faleth/mindset/three-ps-motivation-2026]]
-- [[faleth/governance/peaceful-fork-voluntary-alignment-2026]]
-- [[faleth/biography-operating-system]]
-- [[faleth/content/twitter-drafting-system-2026]]
+- [[research/faleth/mindset/transition-agency-2026]]
+- [[research/faleth/bridge-strategy/automation-services-2026]]
+- [[research/faleth/mindset/three-ps-motivation-2026]]
+- [[research/faleth/governance/peaceful-fork-voluntary-alignment-2026]]
+- [[research/faleth/biography-operating-system]]
+- [[research/faleth/content/twitter-drafting-system-2026]]

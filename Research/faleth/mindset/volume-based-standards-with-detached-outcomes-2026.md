@@ -2,13 +2,13 @@
 type: principle
 title: Volume Based Standards With Detached Outcomes 2026
 related:
-  - faleth/mindset/three-ps-motivation-2026
-  - faleth/mindset/uncertainty-tolerance-as-quality-of-life-2026
-  - faleth/mindset/do-it-for-fun-anxiety-reframe-2026
-  - faleth/mindset/anti-charismatic-exceptional-work-2026
-ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-25T17:10:42.881Z'
-source_kind: 'mcp:put_page'
+  - research/faleth/mindset/three-ps-motivation-2026
+  - research/faleth/mindset/uncertainty-tolerance-as-quality-of-life-2026
+  - research/faleth/mindset/do-it-for-fun-anxiety-reframe-2026
+  - research/faleth/mindset/anti-charismatic-exceptional-work-2026
+ingested_via: put_page
+ingested_at: '2026-06-26T01:34:27.432Z'
+source_kind: put_page
 tags:
   - anxiety
   - faleth

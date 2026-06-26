@@ -2,10 +2,10 @@
 type: reference
 title: Twitter / X Drafting System (2026)
 status: active
+ingested_at: '2026-06-26T01:34:01.029Z'
+source_kind: put_page
+ingested_via: put_page
 effective_date: '2026-06-24T00:00:00.000Z'
-ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-24T17:27:21.790Z'
-source_kind: 'mcp:put_page'
 tags:
   - content
   - faleth

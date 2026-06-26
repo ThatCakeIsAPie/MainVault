@@ -2,9 +2,9 @@
 type: strategy
 title: Automation Services Bridge Strategy (2026)
 status: active
-ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-24T17:21:12.242Z'
-source_kind: 'mcp:put_page'
+ingested_at: '2026-06-26T01:34:05.725Z'
+source_kind: put_page
+ingested_via: put_page
 tags:
   - automation
   - bridge

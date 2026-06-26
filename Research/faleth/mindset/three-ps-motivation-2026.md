@@ -2,13 +2,14 @@
 type: principle
 title: Three Ps Motivation Model (2026)
 status: active
-ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-24T17:28:16.511Z'
-source_kind: 'mcp:put_page'
+ingested_at: '2026-06-26T01:33:57.863Z'
+source_kind: put_page
+ingested_via: put_page
 tags:
   - agency
   - faleth
   - motivation
+  - push-pull-process
   - three-ps
 ---
 

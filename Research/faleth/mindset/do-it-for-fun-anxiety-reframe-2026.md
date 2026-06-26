@@ -2,11 +2,11 @@
 type: principle
 title: Do It For Fun Anxiety Reframe 2026
 related:
-  - faleth/mindset/uncertainty-tolerance-as-quality-of-life-2026
-  - faleth/mindset/three-ps-motivation-2026
-  - faleth/mindset/transition-agency-2026
+  - research/faleth/mindset/uncertainty-tolerance-as-quality-of-life-2026
+  - research/faleth/mindset/three-ps-motivation-2026
+  - research/faleth/mindset/transition-agency-2026
 ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-25T17:01:57.075Z'
+ingested_at: '2026-06-26T01:34:37.112Z'
 source_kind: 'mcp:put_page'
 tags:
   - anxiety

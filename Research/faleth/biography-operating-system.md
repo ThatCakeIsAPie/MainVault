@@ -2,9 +2,9 @@
 type: system
 title: Biography Operating System
 status: active
-ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-24T17:21:21.709Z'
-source_kind: 'mcp:put_page'
+ingested_at: '2026-06-26T01:34:02.519Z'
+source_kind: put_page
+ingested_via: put_page
 tags:
   - biographies
   - faleth

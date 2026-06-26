@@ -2,9 +2,9 @@
 type: principle
 title: Transition Mindset - Agency Over Waiting (2026)
 status: active
-ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-24T17:21:16.762Z'
-source_kind: 'mcp:put_page'
+ingested_at: '2026-06-26T01:34:04.102Z'
+source_kind: put_page
+ingested_via: put_page
 tags:
   - agency
   - faleth
@@ -32,5 +32,5 @@ tags:
 
 ## Related
 
-- [[faleth/bridge-strategy/automation-services-2026]]
+- [[research/faleth/bridge-strategy/automation-services-2026]]
 - [[Biography Operating System]]
