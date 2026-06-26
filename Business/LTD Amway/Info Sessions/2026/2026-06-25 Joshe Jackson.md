@@ -62,3 +62,10 @@ Failure is a part of success. Quitting is not.
 Amway doesn't teach you how to do anything. But they pay you for showing others how to do it.
 He was attracted to the idea that he could make more money by showing others how to make more money
 If each person serves 10 customers, and it is you and 3 other people, that is 40 customers being served. Nothing happens in business if sales aren't happening.
+There is a lot of money to be made in this especially if you have good structure
+What can an extra $4-5k do for you? Might be able to bring your wife home. Or if you make a lot in your job, put all of this into the right places, and you could be a millionaire in a few decades.
+
+# Top 5 Ditto - 
+
+
+# Training - Joshe Jackson
