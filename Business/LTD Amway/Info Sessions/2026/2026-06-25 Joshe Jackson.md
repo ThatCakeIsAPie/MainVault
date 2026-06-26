@@ -39,3 +39,7 @@ Let's Think Together:
 	- Pre 2020: Around 2%
 	- 2024: Around 5%
 	- 2025 6%, the highest Vanguard has ever reported
+If people aren't attending complimentary events, it is hard for them to receive complimentary coaching
+LTD is what he was most attracted to, because they focus on actually growing the person and building business leaders. The skills all came from LTD, his mentors and coaches. They are all just products of the system.
+If they are products of the system, you can be one too. There is nothing they are doing that you can't do yourself.
+Amway takes care of their customers. Check with the BBB and see WHY they have an A+ rating.
