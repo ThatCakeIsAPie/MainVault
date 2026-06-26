@@ -127,3 +127,15 @@ Being a bold steward:
 - You aren't the only person who has stuff going on. He remembers coming to one of these info sessions and his car was getting repossessed in the parking lot. The only ones who knew were his upline. He pressed into the environment.
 - Some of us have a spirit on us, when we haven't really sold out to the environment.
 - Some of us have a spirit of chaos, you thrive in it. But it is the opposite of peace. Are you seeking the drama? Or, are you finding the people who are sponsoring?
+- You have got to choose to grow
+- If God audited today, would he find stewardship or neglect?
+- You cant expect God to give you more when you aren't already handling what you have properly.
+- He was stuck making $35k. It wasn't until he started to tithe and the things God put in his life. He was stuck with 10 people exactly for a long time.
+Being a bold sower:
+- You cant reap a harvest from seeds you never planted.
+- Your job is just to plant the seed.
+- This has more to do than just talking to a person.
+- Some of us are not tithing. You need to tithe. Your finances suck because you aren't tithing.
+- For him, he didn't believe in tithing. He remembers tithing and being negative by over $1k.
+- He remembers a speaker being short by a certain amount, tithing anyway, and God heard him and provided exactly what he needed.
+- He tithed anyway, despite it, basically challenging God on it, and 2 months later, they were negative $1800 or so, literally got a check in the mail a few days later for the exact amount, he never saw the company again that gave him the money.
