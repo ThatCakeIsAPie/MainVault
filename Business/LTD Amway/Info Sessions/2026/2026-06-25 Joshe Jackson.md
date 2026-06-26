@@ -54,3 +54,7 @@ There are 3 ways we make income:
 - Personal orders
 - Team overrides
 Why would I support Monster? They don't pay me. XS does.
+If you just keep doing the 150PV, the bare minimum, for a year, you earn an extra $1k
+Your ideal candidates might be those who are complaining about their jobs every day, they might be looking for more.
+If you are doing 150PV, and you help others do the same thing, how much will they make? The same as you were at that level.
+You need to become a student of business
