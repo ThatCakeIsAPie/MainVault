@@ -89,3 +89,17 @@ Your customers should be more than just PV, have an actual relationship with the
 Go find your Day 1 Customer
 
 # Training - Joshe Jackson
+The three S's: Servant, steward, sower
+When we have an unappreciated attitude, it is because one of the S's is off
+*How many times has the Holy Spirit talked to you lately, and you ignored Him?*
+Being a bold servant:
+- How are you managing the small things?
+- You can serve the environment, your job, your family, your crossline...
+- If this is off, and you arent serving your downline, and you are just doing it for recognition versus doing it because it is the right thing to do
+- Doing it because it is the right thing to do, not because of getting noticed
+- Are you serving the environment by engaging in gossip? That doesn't serve.
+- A part of this is making sure you are honoring other people, the alignment.
+- Serve with excellence, the best of your possible possibilities
+- Serve from a frame of conviction
+	- There are times he has had a downline call him and he didnt want to talk to them. But he chose the relationship rather than his feelings.
+	- Some of us dont feel like being here, but 
