@@ -59,3 +59,4 @@ Your ideal candidates might be those who are complaining about their jobs every 
 If you are doing 150PV, and you help others do the same thing, how much will they make? The same as you were at that level.
 You need to become a student of business
 Failure is a part of success. Quitting is not.
+Amway doesn't teach you how to do anything. But they pay you for showing others how to do it.
