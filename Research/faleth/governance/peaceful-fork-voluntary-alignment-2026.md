@@ -2,13 +2,14 @@
 type: principle
 title: Peaceful Fork and Voluntary Alignment (2026)
 status: active
-ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-24T17:28:21.567Z'
-source_kind: 'mcp:put_page'
+ingested_at: '2026-06-26T01:33:56.295Z'
+source_kind: put_page
+ingested_via: put_page
 tags:
   - compensation
   - faleth
   - governance
+  - network-marketing
   - voluntary-alignment
 ---
 

@@ -2,12 +2,12 @@
 type: principle
 title: Uncertainty Tolerance As Quality Of Life 2026
 related:
-  - faleth/mindset/three-ps-motivation-2026
-  - faleth/mindset/anti-charismatic-exceptional-work-2026
-  - faleth/mindset/transition-agency-2026
+  - research/faleth/mindset/three-ps-motivation-2026
+  - research/faleth/mindset/anti-charismatic-exceptional-work-2026
+  - research/faleth/mindset/transition-agency-2026
   - concepts/offshoots/purpose-and-vision-as-focusing-mechanisms
 ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-25T16:48:15.399Z'
+ingested_at: '2026-06-26T01:34:39.726Z'
 source_kind: 'mcp:put_page'
 tags:
   - agency

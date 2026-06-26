@@ -4,11 +4,11 @@ title: Make More Than You Take 2026
 related:
   - concepts/offshoots/asset-creation-over-linear-income
   - concepts/offshoots/systems-and-duplication-as-leverage
-  - faleth/mindset/three-ps-motivation-2026
-  - faleth/mindset/uncertainty-tolerance-as-quality-of-life-2026
-  - faleth/mindset/anti-charismatic-exceptional-work-2026
+  - research/faleth/mindset/three-ps-motivation-2026
+  - research/faleth/mindset/uncertainty-tolerance-as-quality-of-life-2026
+  - research/faleth/mindset/anti-charismatic-exceptional-work-2026
 ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-25T16:57:10.656Z'
+ingested_at: '2026-06-26T01:34:38.416Z'
 source_kind: 'mcp:put_page'
 tags:
   - asset-creation
