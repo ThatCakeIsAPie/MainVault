@@ -60,3 +60,5 @@ If you are doing 150PV, and you help others do the same thing, how much will the
 You need to become a student of business
 Failure is a part of success. Quitting is not.
 Amway doesn't teach you how to do anything. But they pay you for showing others how to do it.
+He was attracted to the idea that he could make more money by showing others how to make more money
+If each person serves 10 customers, and it is you and 3 other people, that is 40 customers being served. Nothing happens in business if sales aren't happening.
