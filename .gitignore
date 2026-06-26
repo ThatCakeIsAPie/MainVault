@@ -4,3 +4,6 @@ Research/raw/audio/*.m4a
 Research/raw/audio/*.wav
 Research/raw/audio/*.ogg
 Research/raw/audio/*.opus
+
+# GBrain local obsidian write-through mirror (not canonical vault layout)
+.sources/
