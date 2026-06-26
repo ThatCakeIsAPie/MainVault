@@ -3,9 +3,9 @@ type: business
 title: VXE Full-Time Transition — 5 Paths Research (June 2026)
 date: '2026-06-16T00:00:00.000Z'
 source: deep-research-dive
-ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-16T13:42:00.997Z'
-source_kind: 'mcp:put_page'
+ingested_at: '2026-06-26T01:38:07.575Z'
+source_kind: put_page
+ingested_via: put_page
 tags:
   - faleth
   - grants
