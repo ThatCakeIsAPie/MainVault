@@ -58,3 +58,4 @@ If you just keep doing the 150PV, the bare minimum, for a year, you earn an extr
 Your ideal candidates might be those who are complaining about their jobs every day, they might be looking for more.
 If you are doing 150PV, and you help others do the same thing, how much will they make? The same as you were at that level.
 You need to become a student of business
+Failure is a part of success. Quitting is not.
