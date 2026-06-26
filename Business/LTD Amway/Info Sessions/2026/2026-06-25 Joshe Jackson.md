@@ -73,6 +73,19 @@ What is Ditto?
 - A simple way to be sure that you never run out of products
 - Recurring PV
 If you are Core 300 at the start of the month, it clears your mind for the rest of the month
-
+If you are a smoothie person, if you dont like a flavor of XS, put it in your smoothie, it will change your game
+Buy, Repeat, Earn
+- Designed to keep customers coming back
+- Applies to Registered Customers only
+My Day 1 Customer: Vanessa
+- Fitness lifestyle
+- A-list -> B-list -> A-list
+	- They used to be great friends, they didnt talk for 4 years, she reached back out and they are great friends again.
+- She has been buying ever month for over a year and a half
+- Orders the carb blocker, slimmetry, ignite powder and muscle multiplier
+If you invest in your customers, your customers will invest back into you
+Your customers should be more than just PV, have an actual relationship with them, actual bonds
+***Personal Note: Have a genuine relationship with others, have friendships. Not everyone in your close circle has to be in your business.***
+Go find your Day 1 Customer
 
 # Training - Joshe Jackson
