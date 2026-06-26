@@ -65,7 +65,14 @@ If each person serves 10 customers, and it is you and 3 other people, that is 40
 There is a lot of money to be made in this especially if you have good structure
 What can an extra $4-5k do for you? Might be able to bring your wife home. Or if you make a lot in your job, put all of this into the right places, and you could be a millionaire in a few decades.
 
-# Top 5 Ditto - 
+# Top 5 Ditto - Tauriah Stubbs
+What is Ditto?
+- Scheduled ordering program
+- Convenient shopping and shipping option available
+- For IBOs and registered customers
+- A simple way to be sure that you never run out of products
+- Recurring PV
+If you are Core 300 at the start of the month, it clears your mind for the rest of the month
 
 
 # Training - Joshe Jackson
