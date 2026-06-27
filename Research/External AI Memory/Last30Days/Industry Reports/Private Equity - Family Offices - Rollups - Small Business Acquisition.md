@@ -77,3 +77,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Signal strength: medium for market sentiment; weak for hard-news novelty. Faleth should use these as operating-system comparables, not proof that rollup math works without integration capacity.
 ### 2026-06-24
 - Current X signal covered search-fund momentum in Spain/Japan, seller-facing search-buyer arguments, the brutal 1–2 year sourcing reality, SMB ownership-transition framing, and family-office direct-deal/tax-structure posts ([Spain search fund](https://x.com/LuisMiguelValue/status/2069495847172149497), [Japan conference](https://x.com/FundYmfg/status/2069285194516079057), [search realities](https://x.com/RepeGent/status/2069257294378864845), [SMB transition](https://x.com/hobbsbizguide/status/2069454780460605486), [family office direct deals](https://x.com/konzortia_c/status/2069456264191435007)). Signal strength: medium for market sentiment, weak for hard new data.
+
+### 2026-06-27
+- **ETA Search Sentiment Study** recruitment for 2026 searchers and searcher tooling posts (CIM volume, DSCR, funnel discipline) ([Sam_Rosati](https://x.com/Sam_Rosati/status/2070520308914602164), [Searcher_OS](https://x.com/Searcher_OS/status/2070536880974966790)). Signal strength: weak–medium (sentiment/tools).

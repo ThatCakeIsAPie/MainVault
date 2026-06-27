@@ -76,3 +76,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Signal strength: weak for new events; strong for durable compliance backdrop. Continue IDS-backed, typical-results-aware, product/customer-value-first script discipline.
 ### 2026-06-24
 - No meaningful Amway/LTD compensation, IDS, or compliance event surfaced in the strict X window. Official durable context remains Amway’s Rules of Conduct definition of earnings claims and web-search surfaced Income Disclosure/Business Reference Guide materials ([Rules of Conduct](https://www.amway.com/en_US/rules-of-conduct), [Income Disclosure](https://www.amway.com/en_US/income-disclosure), [Business Reference Guide PDF](https://www.amway.com/media-location/AmwayBusinessReferenceGuide_USEN.pdf)). Signal strength: weak for new events, strong for durable compliance backdrop.
+
+### 2026-06-27
+- No Amway/LTD-specific last-24h change; X restated FTC earnings-claim scrutiny and official Amway IDS as anchors ([RoJo202588](https://x.com/RoJo202588/status/2070610598631456892), [FTC MLM guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing)). Signal strength: weak (24h), strong (backdrop).

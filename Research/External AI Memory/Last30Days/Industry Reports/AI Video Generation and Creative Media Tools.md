@@ -76,3 +76,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Signal strength: medium. FRR/Faleth should benchmark finished content recipes and editing-control workflows rather than daily model rankings.
 ### 2026-06-24
 - Fresh X discussion centered on Seedance 2.0/2.5, native 4K, motion/character consistency, and Runway aggregating Seedance 4K/Mini plus Kling 3.0 Turbo ([Seedance buzz](https://x.com/Gen_AINews/status/2069568687141740556), [Seedance/TopviewAI](https://x.com/EonWeaveLabs/status/2069565109882773889), [Veo/Kling/Seedance comparison](https://x.com/ZentrixHQ/status/2069516255384797597), [Runway integration](https://x.com/yining_shi/status/2069542125331497092)). Signal strength: medium.
+
+### 2026-06-27
+- Creator X re-accelerated: **Seedance 2.x** 4K/cinematic buzz, **Veo 3.1** “best overall” promotion, **Kling 3** motion/VFX, **Runway** as multi-model edit hub ([NewsFromGoogle](https://x.com/NewsFromGoogle/status/2070588586357842116), [SimplyAnnisa](https://x.com/SimplyAnnisa/status/2070561774953496688), [defaiscope](https://x.com/defaiscope/status/2070442757022171207)). Signal strength: medium (creator/social).

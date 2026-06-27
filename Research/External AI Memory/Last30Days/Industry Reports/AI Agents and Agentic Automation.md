@@ -78,3 +78,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-06-26
 - X/current signal emphasized **defense agent networks** (MAVEN-adjacent battle management), **Gemini Enterprise Agent Marketplace**, agent **infrastructure funding** (governance/testing/decisioning), and **open-source harnesses with OpenRouter** ([PLTRs_Palantir](https://x.com/PLTRs_Palantir/status/2070263257118511278), [MCO_News](https://x.com/MCO_News/status/2070221739871580361), [mycomradio roundup](https://x.com/mycomradio/status/2070388200535662616), [dogquie](https://x.com/dogquie/status/2070330195589169261)). Routing/latency in long agent loops noted as operational constraint ([MaatWorkX](https://x.com/MaatWorkX/status/2070323404792545570)). Signal strength: medium.
+
+### 2026-06-27
+- Last-24h signal centered on **event-driven ambient agents** with staged HITL→HOTL, idempotency/DLQ/async patterns ([event-driven guide](https://x.com/i/status/2070695612803363299)), open-source **SkillOpt** and **Vercel Eve**, and **Salesforce Agentforce Help** pay-per-resolution pricing ([SkillOpt](https://x.com/XAMTO_AI/status/2070814394876035555), [Agentforce Futurum](https://futurumgroup.com/insights/salesforces-agentforce-help-agent-bets-on-pay-per-resolution-will-enterprises-trust-the-model/)). Signal strength: medium.
