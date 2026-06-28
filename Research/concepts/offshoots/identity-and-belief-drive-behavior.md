@@ -53,6 +53,16 @@ A compact metaphor for this principle: religion tries to force fruit onto a tree
 
 Behavior monitoring has value because repeated action can shape identity over time. But if the behavior is performed consistently while the heart still does not crave or love the thing, the action remains an uphill battle. The person may be doing the behavior, but the root system is still fighting it. Durable change requires heart-level desire to be transformed so identity and behavior flow from the same source instead of being dragged forward by willpower alone.
 
+### Scoreboard identity vs Christ (founder / builder)
+
+Lyle connected founder "mental diet" work to a sharper rule: **do not tie identity to anything external** — not only negative self-talk after a bad week, but also letting metrics, deals, or career status become the seat of self-worth.
+
+- **Healthy conviction:** Strive absolutely; hold that you will win on the mission timescale even when this pitch, quarter, or job week says no. That requires a kind of "healthy delusion" — telos-level certainty without fusing identity to today's scoreboard.
+- **Theological anchor:** Identity in Christ, not of this world — God's love, faith in His plan, obedience in action. Outcomes are feedback; they are not lord.
+- **Idol mechanism:** When an external (startup outcome, paycheck, recognition) becomes what validates you, it functionally replaces God. Then variance doesn't just hurt — it **shakes identity**, and negative narration follows. The fix is upstream (heart/identity), not a positivity hack.
+
+^[research/raw/transcripts/lyle-telegram-identity-christ-not-scoreboard-2026-06-28.md]
+
 ### Why It Matters
 
 This principle explains why the same tactical instructions can produce different outcomes in different people. Skill matters, but identity sets the ceiling on which skills a person will consistently practice under pressure. Goals can temporarily pull someone forward, and repeated behavior can help train identity, but identity tends to pull people back to the level they believe is "like them" unless the identity itself changes. The theological version is even deeper: external conduct cannot outrun the heart indefinitely, because the heart supplies the cravings that make behavior feel natural or forced.

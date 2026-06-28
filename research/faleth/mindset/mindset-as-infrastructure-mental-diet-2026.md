@@ -33,7 +33,7 @@ Founders and builders face high-variance outcomes: lost deals, competitor wins, 
 
 1. **Mental diet compounds** — Daily narration (what you allow yourself to repeat) shapes next week’s courage and clarity more than one motivational spike.
 2. **Only you can kill the mission** — Competitors, markets, and employers can wound you; surrender is a voluntary act.
-3. **Separate event from identity** — Lost customer ≠ “I am failing.” Attach identity to [[concepts/offshoots/identity-and-belief-drive-behavior|who you are building toward]], not to volatile externals.
+3. **Separate event from identity** — Lost customer ≠ “I am failing.” Do not anchor identity on **any external scoreboard** (deal, raise, job title, week's revenue). See [[#Identity anchored in Christ (Lyle refinement)]].
 4. **Long-term frame under short-term pain** — Most problems are temporary; **pull** (purpose) and **process** (systems craft) outlast **push** (nitrous from pain).
 5. **Performance tax** — Negative thought patterns impose a real cognitive tariff (slower decisions, worse tradeoffs, avoidance). Treat that tax like technical debt: measure it, pay it down deliberately.
 
@@ -46,6 +46,18 @@ Founders and builders face high-variance outcomes: lost deals, competitor wins, 
 ## 2026 transition implication
 
 While GovCon and bridge builds run on 2–3 month clocks, the mind will try to fill the gap with catastrophe. Default response: externalize the loop (vault, Delta, concrete next ship), reject founder self-pity as non-contributing output, and return to the next modular win.
+
+## Identity anchored in Christ (Lyle refinement)
+
+**2026-06-28 (Telegram):** The key is not positive thinking — it is **where identity lives**.
+
+- Do not tie identity to anything external. That includes this week's wins *and* this week's losses.
+- Operational founder mindset still needs a **healthy degree of conviction**: know you are going to win; if not this time, you will win. That is not denial of facts; it is refusing to let variance rewrite who you are.
+- **Christian frame:** Identity rooted in Christ, not of this world. God's love + faith in His plan + **obedience** (strive fully, hold outcomes loosely before God).
+- **Idol check:** When Faleth, the day job, GovCon, or a single deal becomes what *validates* you, it has become a god. Negative self-talk is often the symptom of that swap — the scoreboard stole Christ's place.
+- **Both/and:** Absolutely strive. Do not let striving hand your identity to the result.
+
+Raw source: [[research/raw/transcripts/lyle-telegram-identity-christ-not-scoreboard-2026-06-28]]
 
 ## References
 
