@@ -12,7 +12,7 @@ sources:
     raw/transcripts/lyle-theological-horticulture-heart-upstream-identity-2026-06-04.md
   - >-
     raw/transcripts/lyle-religion-as-behavior-collection-churchianity-2026-06-04.md
-updated: '2026-06-04T00:00:00.000Z'
+updated: '2026-06-28T00:00:00.000Z'
 confidence: medium
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-06-28T13:29:13.842Z'
@@ -41,6 +41,10 @@ The healthier version is not blind submission. It connects directly to [[offshoo
 - "God moves in those willing and obedient."
 - "Your obedience is someone else's breakthrough."
 - Men's leadership notes frame private obedience, humility, correction, and responsibility as prerequisites for public leadership.
+- Obed-Edom welcomed the ark without resistance; blessing followed active honor, not passive proximity to sacred things.
+- Spirit-filled life series: believe the Spirit's work is available, **ask**, **receive**—ongoing obedience to Ephesians 5:18, not a one-time event.
+- Breakthrough notes: seek God before the breakthrough; "my sheep hear my voice and follow me."
+- CTRL series: "follow me" as a twenty-one-times refrain in John—calling is constant pursuit, not a single decision.
 
 ### Heart Shift Over Mere Behavior Compliance
 
@@ -73,3 +77,7 @@ This principle supplies the spiritual engine underneath [[offshoots/persistent-c
 - [[Business/LTD Amway/Conferences & Events/2025/Harris Fall Leadership 2025]]
 - [[Business/LTD Amway/Conferences & Events/2025/Summit 2025]]
 - [[Business/LTD Amway/Others/2026/FNL Men_s Leadership 3_7_26]]
+- [[Personal/Church/2026/2026-06-21 Father's Day]]
+- [[Personal/Church/2026/2026-06-14]]
+- [[Personal/Church/2026/1_4_26]]
+- [[Personal/Church/2026/2026-06-23 MYA]]

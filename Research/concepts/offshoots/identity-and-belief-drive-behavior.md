@@ -13,7 +13,7 @@ sources:
     raw/transcripts/lyle-theological-horticulture-heart-upstream-identity-2026-06-04.md
   - >-
     raw/transcripts/lyle-religion-as-behavior-collection-churchianity-2026-06-04.md
-updated: '2026-06-04T00:00:00.000Z'
+updated: '2026-06-28T00:00:00.000Z'
 confidence: medium
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-06-28T13:26:53.409Z'
@@ -42,7 +42,10 @@ This gives a deeper mechanism underneath [[offshoots/awareness-as-agent-for-chan
 - "The business side has nothing to do with your value. If your identity is attached to something that moves, it will go up and down."
 - Stories and "epics" are used to keep belief high and normalize success.
 - New people raise team belief because they reintroduce visible possibility into the environment.
-
+- CTRL / transition teaching: **the one thing tested in uncertainty is your identity**—pressure reveals what was already inside; make Jesus the source, not role or success.
+- "It has less to do with what you do and instead who you are"—career and calling questions often mistake activity for identity.
+- Father's Day: the world tries to rob identity; true identity is discovered **in Jesus**.
+- Easter thread: performance culture projects strength; weakness is where His power begins—you are weaker than you think, He is stronger than you imagine.
 
 ### External Corroboration: Identity as Thermostat
 
@@ -89,3 +92,7 @@ This principle explains why the same tactical instructions can produce different
 - [[Business/LTD Amway/Others/2026/FNL Men_s Leadership 3_7_26]]
 - [[Business/LTD Amway/Conferences & Events/2025/Spring Forward 2025]]
 - [[Business/LTD Amway/Conferences & Events/2025/Fearless 2025]]
+- [[Personal/Church/2026/2026-06-16 MYA]]
+- [[Personal/Church/2026/2026-06-23 MYA]]
+- [[Personal/Church/2026/2026-06-21 Father's Day]]
+- [[Personal/Church/2026/2026-04-05]]

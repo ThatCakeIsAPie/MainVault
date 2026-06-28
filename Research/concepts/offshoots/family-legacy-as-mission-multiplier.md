@@ -1,7 +1,7 @@
 ---
 title: Family Legacy as Mission Multiplier
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-28
 type: concept
 tags: [business, theology, philosophy, framework]
 sources:
@@ -28,6 +28,10 @@ This principle extends [[offshoots/purpose-and-vision-as-focusing-mechanisms]] b
 - Breakthrough 26 personal reflections include wanting parents to see the fruit and wanting people to feel fulfilled and proud of their legacy.
 - FNL Men's Leadership frames the mission as building a dynasty: a family that maintains power, responsibility, and position for generations.
 - Several notes warn not to neglect marriage and family while building.
+- Obed-Edom: honoring God's presence in the home blessed the household and extended into gatekeeping and multi-generational leadership (six to seven generations of pastors in one family line).
+- Parenting as arrows: train children toward independence and their own families, not perpetual dependence.
+- Vision Weekend: "What if it wasn't just about us? What if we show it to the next generation?"
+- Let's Talk Family: don't raise kids **religiously** but **relationally**—legacy is caught in atmosphere, not slogans.
 
 ### Why It Matters
 
@@ -46,3 +50,7 @@ This principle is the guardrail against business becoming self-centered ambition
 - [[Business/LTD Amway/Conferences & Events/2026/Breakthrough 26]]
 - [[Business/LTD Amway/Others/2026/FNL Men_s Leadership 3_7_26]]
 - [[Business/LTD Amway/Others/2025/5_9_25 FNL]]
+- [[Personal/Church/2026/2026-06-21 Father's Day]]
+- [[Personal/Church/2026/2026-05-17]]
+- [[Personal/Church/2026/2026-04-26]]
+- [[Personal/Church/2026/2026-05-31]]

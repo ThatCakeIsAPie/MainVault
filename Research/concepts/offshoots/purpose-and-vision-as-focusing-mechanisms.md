@@ -1,7 +1,7 @@
 ---
 title: Purpose and Vision as Focusing Mechanisms
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-06-28
 type: principle
 tags: [business, vision, purpose, leadership]
 confidence: high
@@ -19,6 +19,10 @@ Without vision, people lack direction and become distracted by non-essential act
 - "The more your focus is on impact, the less you care about profit. When you chase profit, you will lose purpose."
 - HOAL and other major events are positioned as environments where purpose, cause, and mission are clarified and reinforced.
 - Off-stage conversations and relationships often deliver more lasting impact than stage presentations.
+- Vision Weekend: sustain vision by **not complicating it**—join God where He is working; availability over raw ability.
+- "Lift up your eyes"—temporal flash distracts; sustained vision integrates job, family, and gifts into one Kingdom picture.
+- CTRL: insecurity battles are won by focusing on **what God called you to do**; "follow me" as daily mission, not envy of another's lane.
+- Great Commission framing: church exists for witness empowered by the Spirit—not a peripheral social club.
 
 ### Related Principles
 
@@ -31,3 +35,7 @@ Without vision, people lack direction and become distracted by non-essential act
 - Spring Forward 2026 (multiple sections on vision and purpose)
 - HOAL references across 2025–2026 conferences
 - Consistent emphasis in keynotes on impact, significance, and long-term focus
+- [[Personal/Church/2026/2026-05-31]]
+- [[Personal/Church/2026/2026-06-23 MYA]]
+- [[Personal/Church/2026/2026-06-07]]
+- [[Personal/Church/2026/2026-06-16 MYA]]

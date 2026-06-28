@@ -55,3 +55,51 @@ This file tracks which source notes and folders have already been reviewed for p
   - Added six missing recurring offshoot principles: faith-anchored action and obedience; identity and belief drive behavior; pipeline abundance through repetition; family legacy as mission multiplier; calendar as proof of priorities; honor/edification/communication rhythm
   - Source files remain in original locations; only principle pages updated
 
+## Personal / Church
+
+- **2026-06-28** — Personal/Church/2026/ (full batch, 40 markdown notes)
+  - Patched: faith-anchored-action-and-obedience; identity-and-belief-drive-behavior; family-legacy-as-mission-multiplier; character-assessment-through-fruit-inspection; purpose-and-vision-as-focusing-mechanisms
+  - New offshoots: ongoing-spirit-filling-and-gifts-for-common-good; transition-comparison-insecurity-and-surrendered-control; spiritual-gatekeeping-in-the-home
+  - Processed files:
+    - Personal/Church/2026/2026-06-28.md
+    - Personal/Church/2026/2026-06-23 MYA.md
+    - Personal/Church/2026/2026-06-21 Father's Day.md
+    - Personal/Church/2026/2026-06-16 MYA.md
+    - Personal/Church/2026/2026-06-14.md
+    - Personal/Church/2026/2026-06-09 MYA.md
+    - Personal/Church/2026/3_21_26 Mighty Men.md
+    - Personal/Church/2026/3_8_26.md
+    - Personal/Church/2026/3_15_26.md
+    - Personal/Church/2026/3_22_26.md
+    - Personal/Church/2026/2_15_26.md
+    - Personal/Church/2026/2026-04-26.md
+    - Personal/Church/2026/2026-04-28 MYA Encounter Night.md
+    - Personal/Church/2026/2026-04-19.md
+    - Personal/Church/2026/2_3_26 MYA.md
+    - Personal/Church/2026/2026-05-17.md
+    - Personal/Church/2026/2026-05-03.md
+    - Personal/Church/2026/2026-04-30 Brandon Dominic.md
+    - Personal/Church/2026/2026-05-12 MYA.md
+    - Personal/Church/2026/2_22_26.md
+    - Personal/Church/2026/2026-05-19 MYA.md
+    - Personal/Church/2026/2026-05-05 MYA.md
+    - Personal/Church/2026/2_10_26 MYA.md
+    - Personal/Church/2026/2026-05-24.md
+    - Personal/Church/2026/2026-05-31.md
+    - Personal/Church/2026/2026-06-07.md
+    - Personal/Church/2026/2026-04-21 MYA.md
+    - Personal/Church/2026/2_8_26.md
+    - Personal/Church/2026/2026-05-10.md
+    - Personal/Church/2026/03_01_26.md
+    - Personal/Church/2026/1_4_26.md
+    - Personal/Church/2026/2026-04-05.md
+    - Personal/Church/2026/1_11_26.md
+    - Personal/Church/2026/2026-04-12.md
+    - Personal/Church/2026/2026-04-14.md
+    - Personal/Church/2026/1_18_26.md
+    - Personal/Church/2026/2026-03-31.md
+    - Personal/Church/2026/2026-03-29.md
+    - Personal/Church/2026/2026-04-07.md
+    - Personal/Church/2026/1_13_26 MYA.md
+  - Low-signal (reviewed, no new principles): thin encounter-night logs (2026-04-28 MYA Encounter Night, some MYA dates), 2026-04-30 Brandon Dominic (personal one-off), sparse calendar stubs where content duplicated a series sermon already captured above
+
