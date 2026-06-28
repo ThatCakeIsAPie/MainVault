@@ -1,10 +1,10 @@
 ---
 type: note
 title: Lyle Telegram X Shares Log
-updated: '2026-06-27T00:00:00.000Z'
-effective_date: '2026-06-27T00:00:00.000Z'
+updated: '2026-06-28T00:00:00.000Z'
+effective_date: '2026-06-28T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-27T13:09:31.658Z'
+ingested_at: '2026-06-28T13:14:23.075Z'
 source_kind: 'mcp:put_page'
 tags:
   - external-ai-memory
@@ -15,12 +15,13 @@ tags:
 
 # Lyle Telegram → X Shares Log
 
-Index of X posts Lyle forwarded via Telegram (**2026-06-22 → 2026-06-27**). Each row links to raw ingest under `research/raw/transcripts/` and any distilled Faleth principle.
+Index of X posts Lyle forwarded via Telegram (**2026-06-22 → 2026-06-28**). Each row links to raw ingest under `research/raw/transcripts/` and any distilled Faleth principle.
 
 ## Share table
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-06-28 | [2071182764695507403](https://x.com/i/status/2071182764695507403) | mindset signal (default) | [[research/raw/transcripts/lyle-x-share-2071182764695507403]] | [[research/faleth/mindset/mindset-as-infrastructure-mental-diet-2026]] |
 | 2026-06-27 | [2070507497480454303](https://x.com/i/status/2070507497480454303) | neat fascinations policy | [[research/raw/transcripts/lyle-x-share-2070507497480454303]] | [[research/faleth/mindset/bezos-wandering-rule-invention-2026]] |
 | 2026-06-26 | [2070485489929334892](https://x.com/i/status/2070485489929334892) | act-as-if Electra | [[research/raw/transcripts/lyle-x-share-2070485489929334892]] | — |
 | 2026-06-26 | [2069870222648176764](https://x.com/i/status/2069870222648176764) | leitorpsique anxiety for fun | [[research/raw/transcripts/lyle-x-share-2069870222648176764]] | [[research/faleth/mindset/do-it-for-fun-anxiety-reframe-2026]] |
@@ -35,6 +36,7 @@ Index of X posts Lyle forwarded via Telegram (**2026-06-22 → 2026-06-27**). Ea
 
 ## Ingest policy
 
+- **Default (2026-06-28):** Telegram X links are mindset/strategy signal — raw ingest + principle distillation + Honcho/GBrain unless Lyle says otherwise.
 - **neat fascinations** (2026-06-27): curated shares worth full GBrain/Obsidian capture and optional principle distillation.
 - Tags on ingest pages: `lyle-x-share`, `x-ingest`; mindset distillations also `faleth`.
 
