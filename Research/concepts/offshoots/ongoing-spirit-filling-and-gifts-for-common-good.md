@@ -10,6 +10,8 @@ sources:
   - Personal/Church/2026/2026-06-14.md
   - Personal/Church/2026/2026-06-28.md
   - Personal/Church/2026/2026-04-21 MYA.md
+  - Personal/Church/2025/6_15_25.md
+  - Personal/Church/2025/04_21_25 301.md
 ---
 
 # Ongoing Spirit-Filling and Gifts for the Common Good
@@ -30,6 +32,8 @@ This connects to [[offshoots/faith-anchored-action-and-obedience]] (ask, believe
 - "The fruit is a sign of spiritual maturity, not the gifts."
 - Mentally assenting to the Holy Spirit without engaging Him is a recurring failure mode; participation is required.
 - The flesh **drives**; the Holy Spirit **leads**—including in business decisions and presence.
+- 2025 Stronger series: present imperative, passive voice, plural audience—**keep being filled**; Acts journey from John 20 breath to Acts 4 room shaking.
+- Values 301: Para / En / Epi progression; Milestone serve qualifications are **fruits**, not flashy gifts; believe, ask, receive like salvation.
 
 ### Why It Matters
 
@@ -48,3 +52,7 @@ Without ongoing filling, people substitute externals (status, substances, contro
 - [[Personal/Church/2026/2026-06-14]]
 - [[Personal/Church/2026/2026-06-28]]
 - [[Personal/Church/2026/2026-04-21 MYA]]
+- [[Personal/Church/2025/6_15_25]]
+- [[Personal/Church/2025/04_21_25 301]]
+- [[Personal/Church/2025/04_27_25]]
+- [[Personal/Church/2025/8_24_25 Serve Team Vision Night]]

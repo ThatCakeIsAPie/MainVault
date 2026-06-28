@@ -45,6 +45,9 @@ The healthier version is not blind submission. It connects directly to [[offshoo
 - Spirit-filled life series: believe the Spirit's work is available, **ask**, **receive**—ongoing obedience to Ephesians 5:18, not a one-time event.
 - Breakthrough notes: seek God before the breakthrough; "my sheep hear my voice and follow me."
 - CTRL series: "follow me" as a twenty-one-times refrain in John—calling is constant pursuit, not a single decision.
+- Easter 2025: religion kills relationship and hope; Jesus already did the work—hope grows in relationship, not performance religion.
+- Values 301 discipleship: Great Co-mission strategy—be a disciple to make a disciple; reproduction, not information exchange.
+- Surrender frame (2025): "You don't have a Bible understanding problem, you have a surrender problem."
 
 ### Heart Shift Over Mere Behavior Compliance
 
@@ -81,3 +84,7 @@ This principle supplies the spiritual engine underneath [[offshoots/persistent-c
 - [[Personal/Church/2026/2026-06-14]]
 - [[Personal/Church/2026/1_4_26]]
 - [[Personal/Church/2026/2026-06-23 MYA]]
+- [[Personal/Church/2025/4_20_25 Easter]]
+- [[Personal/Church/2025/04_06_25]]
+- [[Personal/Church/2025/5_12_25 Values 301]]
+- [[Personal/Church/2025/10_28_25 MYA]]

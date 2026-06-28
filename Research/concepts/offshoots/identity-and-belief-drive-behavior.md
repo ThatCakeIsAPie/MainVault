@@ -46,6 +46,9 @@ This gives a deeper mechanism underneath [[offshoots/awareness-as-agent-for-chan
 - "It has less to do with what you do and instead who you are"—career and calling questions often mistake activity for identity.
 - Father's Day: the world tries to rob identity; true identity is discovered **in Jesus**.
 - Easter thread: performance culture projects strength; weakness is where His power begins—you are weaker than you think, He is stronger than you imagine.
+- After Hours MYA (2025): whatever you put identity into most will fail you most; insecurity tells you what you are **not**—anchor in "I AM."
+- Ambassador identity: one Christ-centered identity should carry into workplace and friendships ([[Personal/Church/2025/9_30_25 MYA]]).
+- Joy Bomb: stop harvesting someone else's field—sow your own seeds; spiritual happiness is the seal the other six categories cannot fill.
 
 ### External Corroboration: Identity as Thermostat
 
@@ -96,3 +99,8 @@ This principle explains why the same tactical instructions can produce different
 - [[Personal/Church/2026/2026-06-23 MYA]]
 - [[Personal/Church/2026/2026-06-21 Father's Day]]
 - [[Personal/Church/2026/2026-04-05]]
+- [[Personal/Church/2025/10_14_25 MYA]]
+- [[Personal/Church/2025/9_30_25 MYA]]
+- [[Personal/Church/2025/8_24_25]]
+- [[Personal/Church/2025/10_19_25]]
+- [[Personal/Church/2025/6_29_25]]

@@ -30,6 +30,9 @@ In church notes, **fruit is the metric Jesus gave for winning**—not giftedness
 - Good fruit requires **integration** (same character in boardroom and home), is revealed **under pressure**, and is **experienced in relationships**—especially with people unlike you.
 - Fruitful relationships: "You tell me you are so spiritual, but your relationships are a dumpster fire" is a valid inspection.
 - If there is no breakthrough, the notes ask whether you have been **with Jesus**—fruitlessness traces to the vine, not only tactics.
+- Faith That Works (James 2025): "Show me your fruit—show me the fruit of your relationships"; wisdom from heaven is full of mercy and good fruit.
+- Values 301 Week 5: serving qualifications are **fruits of the Spirit**, not gift showmanship.
+- Words-of-life MYA: those who speak life bear fruit; integration under pressure is the honest mirror.
 
 ### Related Principles
 
@@ -47,3 +50,7 @@ In church notes, **fruit is the metric Jesus gave for winning**—not giftedness
 - [[Personal/Church/2026/2_15_26]]
 - [[Personal/Church/2026/2026-06-28]]
 - [[Personal/Church/2026/3_15_26]]
+- [[Personal/Church/2025/11_2_25]]
+- [[Personal/Church/2025/08_12_25 MYA]]
+- [[Personal/Church/2025/04_21_25 301]]
+- [[Personal/Church/2025/10_12_25]]

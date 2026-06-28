@@ -10,6 +10,8 @@ sources:
   - Personal/Church/2026/2026-06-16 MYA.md
   - Personal/Church/2026/2026-06-09 MYA.md
   - Personal/Church/2026/2_8_26.md
+  - Personal/Church/2025/12_7_25.md
+  - Personal/Church/2025/6_29_25.md
 ---
 
 # Transition, Comparison, Insecurity, and Surrendered Control
@@ -33,6 +35,8 @@ This extends [[offshoots/identity-and-belief-drive-behavior]] (scoreboard vs Chr
 - "You don't have patience because you don't trust God; you think you are in control of the ship."
 - Design / Definition / Desire as three confirmations of calling—run **your** race, not another's.
 - Trust: "You are exactly where He wants you to be."
+- Christmas Moments 2025: in the waiting, don't get bitter, **don't fall into comparison**—no win and no fruit in it.
+- Joy Bomb: confusing another's harvested field with your calling—sow your own seeds instead of envy.
 
 ### Why It Matters
 
@@ -51,3 +55,6 @@ Founders, young adults, and leaders in transition all hit the same trap: measuri
 - [[Personal/Church/2026/2026-06-16 MYA]]
 - [[Personal/Church/2026/2026-06-09 MYA]]
 - [[Personal/Church/2026/2_8_26]]
+- [[Personal/Church/2025/12_7_25]]
+- [[Personal/Church/2025/6_29_25]]
+- [[Personal/Church/2025/11_2_25]]

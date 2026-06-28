@@ -32,6 +32,9 @@ This principle extends [[offshoots/purpose-and-vision-as-focusing-mechanisms]] b
 - Parenting as arrows: train children toward independence and their own families, not perpetual dependence.
 - Vision Weekend: "What if it wasn't just about us? What if we show it to the next generation?"
 - Let's Talk Family: don't raise kids **religiously** but **relationally**—legacy is caught in atmosphere, not slogans.
+- Mother's Day 2025: faith, prayer, praise over children; "never put a period where God puts a comma."
+- Joy Bomb / family rhythms: intentional one-on-one trips with each child every five years—legacy through presence, not slogans.
+- 6_22_25: "The whole thing is relationships; the rest is details"—destiny tied to relational investment.
 
 ### Why It Matters
 
@@ -54,3 +57,6 @@ This principle is the guardrail against business becoming self-centered ambition
 - [[Personal/Church/2026/2026-05-17]]
 - [[Personal/Church/2026/2026-04-26]]
 - [[Personal/Church/2026/2026-05-31]]
+- [[Personal/Church/2025/5_11_25 Mothers Day]]
+- [[Personal/Church/2025/6_22_25]]
+- [[Personal/Church/2025/6_29_25]]

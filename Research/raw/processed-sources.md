@@ -103,3 +103,9 @@ This file tracks which source notes and folders have already been reviewed for p
     - Personal/Church/2026/1_13_26 MYA.md
   - Low-signal (reviewed, no new principles): thin encounter-night logs (2026-04-28 MYA Encounter Night, some MYA dates), 2026-04-30 Brandon Dominic (personal one-off), sparse calendar stubs where content duplicated a series sermon already captured above
 
+- **2026-06-28** — Personal/Church/2025/ (full batch, all 66 markdown notes)
+  - Patched: faith-anchored-action-and-obedience; identity-and-belief-drive-behavior; family-legacy-as-mission-multiplier; character-assessment-through-fruit-inspection; purpose-and-vision-as-focusing-mechanisms; ongoing-spirit-filling-and-gifts-for-common-good; spiritual-gatekeeping-in-the-home; transition-comparison-insecurity-and-surrendered-control; honor-edification-and-communication-rhythm
+  - New offshoot: generosity-as-stewardship-time-talent-treasure (Values 301 generosity + fall James/giving thread)
+  - Recurring 2025 themes: Values 301 (Holy Spirit, generosity, discipleship); Spirit-Filled / Stronger (Ephesians 5:18, witness power); Faith That Works (James fruit, peace, humility); Vision Weekend & Serve Team (Great Commission, eternal mission); MYA (identity, relationships, spiritual family, words-of-life); Easter/religion-vs-relationship; comparison in waiting seasons (Christmas Moments, Joy Bomb)
+  - Processed: all 66 files in Personal/Church/2025/
+

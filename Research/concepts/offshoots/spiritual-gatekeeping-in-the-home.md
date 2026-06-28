@@ -10,6 +10,8 @@ sources:
   - Personal/Church/2026/2026-05-17.md
   - Personal/Church/2026/2026-04-12.md
   - Personal/Church/2026/2026-05-24.md
+  - Personal/Church/2025/5_11_25 Mothers Day.md
+  - Personal/Church/2025/04_27_25.md
 ---
 
 # Spiritual Gatekeeping in the Home
@@ -31,6 +33,8 @@ This extends [[offshoots/family-legacy-as-mission-multiplier]] and [[offshoots/f
 - Six (now seven) generations of pastors traced to one ancestor who prioritized God.
 - "As for me and my house, we will honor and serve the Lord."
 - House-on-rock family teaching: first commitment to God, covenant marriage, roles from Ephesians, repair after rupture—not sand of optional truth.
+- Marriage as sanctifying picture (2025): Spirit-led speech in the home—"talk in the Spirit, not in the flesh."
+- Mother's Day: invite Jesus into the boat; model storm faith for the next generation.
 
 ### Why It Matters
 
@@ -49,3 +53,5 @@ Business and ministry success without home gatekeeping produces visible achievem
 - [[Personal/Church/2026/2026-05-17]]
 - [[Personal/Church/2026/2026-04-12]]
 - [[Personal/Church/2026/2026-05-24]]
+- [[Personal/Church/2025/5_11_25 Mothers Day]]
+- [[Personal/Church/2025/04_27_25]]

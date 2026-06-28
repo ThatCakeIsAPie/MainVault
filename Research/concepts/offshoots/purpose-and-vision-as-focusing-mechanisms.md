@@ -23,6 +23,8 @@ Without vision, people lack direction and become distracted by non-essential act
 - "Lift up your eyes"—temporal flash distracts; sustained vision integrates job, family, and gifts into one Kingdom picture.
 - CTRL: insecurity battles are won by focusing on **what God called you to do**; "follow me" as daily mission, not envy of another's lane.
 - Great Commission framing: church exists for witness empowered by the Spirit—not a peripheral social club.
+- Vision Weekend 2025: re-commit to Jesus' original vision (Commit / Contribute / Care); integrate life—don't compartmentalize.
+- Serve Team Vision Night: harvest is plentiful; eternal stakes motivate serve—not cruise-ship activity.
 
 ### Related Principles
 
@@ -39,3 +41,7 @@ Without vision, people lack direction and become distracted by non-essential act
 - [[Personal/Church/2026/2026-06-23 MYA]]
 - [[Personal/Church/2026/2026-06-07]]
 - [[Personal/Church/2026/2026-06-16 MYA]]
+- [[Personal/Church/2025/6_1_25]]
+- [[Personal/Church/2025/8_24_25 Serve Team Vision Night]]
+- [[Personal/Church/2025/5_12_25 Values 301]]
+- [[Personal/Church/2025/6_24_25 MYA]]
