@@ -1,10 +1,11 @@
 ---
 type: strategy
 title: Automation Services Bridge Strategy (2026)
-status: active
-ingested_at: '2026-06-26T01:34:05.725Z'
-source_kind: put_page
-ingested_via: put_page
+status: on_hold
+updated: '2026-06-28T00:00:00.000Z'
+ingested_via: 'mcp:put_page'
+ingested_at: '2026-06-28T13:49:37.752Z'
+source_kind: 'mcp:put_page'
 tags:
   - automation
   - bridge
@@ -15,7 +16,7 @@ tags:
 
 # Automation Services Bridge Strategy (2026)
 
-**Context**: Lyle is building a temporary bridge to replace his day job income (~$800/week) while the government contracts pipeline matures. He has decided to stop waiting on external timelines that have repeatedly slipped.
+**Context**: Lyle built a temporary bridge plan to replace day job income (~$800/week) while government contracts pipeline matured. **Update 2026-06-28:** Day job ended (layoff); **2 GovCon deals closed** with payment ~2–3 months out; **primary bridge pivot** → finish indie game ([[faleth/bridge-strategy/game-finish-bridge-2026]]). This automation track remains **valid but on hold** unless runway requires faster linear income.
 
 ## Model
 
@@ -36,10 +37,10 @@ Clients own the full setup. They only pay the monthly retainer for peace of mind
 
 ## Constraints
 
-- Limited energy after day job + relationship + Amway + counseling
+- ~~Limited energy after day job~~ Calendar cleared post-layoff; still bounded by God → wife → kids → business.
 - Must remain a bridge, not become the main business
 - High-ticket local setups (e.g. Deepseek + multiple Nvidia Spark machines) can cover a full month on their own
 
 ## Status
 
-Active bridge strategy as of June 2026. Goal is to generate enough cash flow and time freedom to go full-time on Faleth without relying on government contract timelines.
+**On hold** as of 2026-06-28 — superseded for gap period by game-finish bridge + incoming GovCon payments + unemployment filing.

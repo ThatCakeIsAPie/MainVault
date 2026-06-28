@@ -7,16 +7,18 @@ related:
   - research/faleth/mindset/transition-agency-2026
   - concepts/offshoots/purpose-and-vision-as-focusing-mechanisms
 ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-26T01:34:39.726Z'
+ingested_at: '2026-06-27T13:08:51.394Z'
 source_kind: 'mcp:put_page'
 tags:
   - agency
   - faleth
+  - lyle-x-share
   - mindset
   - motivation
   - resilience
   - three-ps
   - transition
+  - x-ingest
 ---
 
 # Uncertainty Tolerance as a Core Quality-of-Life Lever
@@ -40,3 +42,8 @@ Frontier work (deep systems building, GovCon pipelines, automation services) req
 The shift from day-job frustration to building a bridge via automation services while GovCon cycles run 2–3 months is an exercise in uncertainty tolerance. Protecting and strengthening this trait is strategic — it allows consistent process execution without the emotional tax of constant ambiguity aversion.
 
 This trait is not passive acceptance; it is active agency in the face of incomplete information.
+
+## Provenance
+
+- Lyle shared via Telegram: **2026-06-26** — [X post](https://x.com/i/status/2070148107124285692) (PromptLLM / uncertainty tolerance thread).
+- Raw ingest: [[research/raw/transcripts/lyle-x-share-2070148107124285692]]

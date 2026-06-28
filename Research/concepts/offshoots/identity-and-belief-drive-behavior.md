@@ -1,9 +1,7 @@
 ---
-title: Identity and Belief Drive Behavior
-created: 2026-06-04
-updated: 2026-06-04
 type: concept
-tags: [business, philosophy, mental-model, framework]
+title: Identity and Belief Drive Behavior
+created: '2026-06-04T00:00:00.000Z'
 sources:
   - Business/LTD Amway/Info Sessions/2025/2_13_25 Gator Moore.md
   - Business/LTD Amway/Others/2026/FNL Men_s Leadership 3_7_26.md
@@ -11,9 +9,20 @@ sources:
   - Business/LTD Amway/Conferences & Events/2025/Fearless 2025.md
   - raw/transcripts/lyle-tony-robbins-identity-thermostat-2026-06-04.md
   - raw/transcripts/lyle-heart-shift-religion-vs-relationship-2026-06-04.md
-  - raw/transcripts/lyle-theological-horticulture-heart-upstream-identity-2026-06-04.md
-  - raw/transcripts/lyle-religion-as-behavior-collection-churchianity-2026-06-04.md
+  - >-
+    raw/transcripts/lyle-theological-horticulture-heart-upstream-identity-2026-06-04.md
+  - >-
+    raw/transcripts/lyle-religion-as-behavior-collection-churchianity-2026-06-04.md
+updated: '2026-06-04T00:00:00.000Z'
 confidence: medium
+ingested_via: 'mcp:put_page'
+ingested_at: '2026-06-28T13:26:53.409Z'
+source_kind: 'mcp:put_page'
+tags:
+  - business
+  - framework
+  - mental-model
+  - philosophy
 ---
 
 # Identity and Belief Drive Behavior

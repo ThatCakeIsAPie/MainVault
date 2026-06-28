@@ -8,15 +8,17 @@ related:
   - research/faleth/mindset/uncertainty-tolerance-as-quality-of-life-2026
   - research/faleth/mindset/anti-charismatic-exceptional-work-2026
 ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-26T01:34:38.416Z'
+ingested_at: '2026-06-27T13:08:52.751Z'
 source_kind: 'mcp:put_page'
 tags:
   - asset-creation
   - faleth
+  - lyle-x-share
   - mindset
   - three-ps
   - transition
   - value-creation
+  - x-ingest
 ---
 
 # Make More Than You Take
@@ -30,7 +32,7 @@ The core orientation of a value creator is to produce more value than they consu
 
 ## Connection to Three Ps
 - **Push**: Staying in extractive or zero-leverage environments (day job) often means taking more than one contributes over time.
-- **Pull**: Building automation services, GovCon systems, and scalable infrastructure is the practical expression of “make more than you take.”
+- **Pull**: Building automation services, GovCon systems, and scalable infrastructure is the practical expression of "make more than you take."
 - **Process**: The willingness to grind through uncertainty while focusing on net output is what makes long-term process motivation sustainable.
 
 ## Connection to Recent Principles
@@ -40,3 +42,8 @@ The core orientation of a value creator is to produce more value than they consu
 
 ## 2026 Transition Implication
 The shift from a zero-leverage day job to building an automation services bridge and GovCon pipeline is a direct application of this principle. The goal is not to optimize for short-term comfort or social perception, but to become a clear net contributor through systems that multiply impact.
+
+## Provenance
+
+- Lyle shared via Telegram: **2026-06-26** — [X post](https://x.com/i/status/2070172666301141018) (Musk — make more than you take).
+- Raw ingest: [[research/raw/transcripts/lyle-x-share-2070172666301141018]]

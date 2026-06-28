@@ -1,18 +1,27 @@
 ---
-title: Faith-Anchored Action and Obedience
-created: 2026-06-04
-updated: 2026-06-04
 type: concept
-tags: [business, theology, philosophy, framework]
+title: Faith-Anchored Action and Obedience
+created: '2026-06-04T00:00:00.000Z'
 sources:
   - Business/LTD Amway/Conferences & Events/2025/Free Enterprise Day 2025.md
   - Business/LTD Amway/Conferences & Events/2025/Harris Fall Leadership 2025.md
   - Business/LTD Amway/Conferences & Events/2025/Summit 2025.md
   - Business/LTD Amway/Others/2026/FNL Men_s Leadership 3_7_26.md
   - raw/transcripts/lyle-heart-shift-religion-vs-relationship-2026-06-04.md
-  - raw/transcripts/lyle-theological-horticulture-heart-upstream-identity-2026-06-04.md
-  - raw/transcripts/lyle-religion-as-behavior-collection-churchianity-2026-06-04.md
+  - >-
+    raw/transcripts/lyle-theological-horticulture-heart-upstream-identity-2026-06-04.md
+  - >-
+    raw/transcripts/lyle-religion-as-behavior-collection-churchianity-2026-06-04.md
+updated: '2026-06-04T00:00:00.000Z'
 confidence: medium
+ingested_via: 'mcp:put_page'
+ingested_at: '2026-06-28T13:29:13.842Z'
+source_kind: 'mcp:put_page'
+tags:
+  - business
+  - framework
+  - philosophy
+  - theology
 ---
 
 # Faith-Anchored Action and Obedience
