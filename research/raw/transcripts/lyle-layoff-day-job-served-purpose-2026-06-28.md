@@ -4,7 +4,7 @@ title: Lyle — Mass layoff; day job served its purpose (2026-06-28)
 shared: '2026-06-28T00:00:00.000Z'
 source: telegram
 ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-28T13:39:47.158Z'
+ingested_at: '2026-06-28T13:44:52.253Z'
 source_kind: 'mcp:put_page'
 tags:
   - career
@@ -35,6 +35,17 @@ tags:
 - No longer bound to **fixed bedtime** for next-day employer wake-up.
 - Priority: **get the work done**; sleep is **secondary** to output — can work around the clock, **quick nap**, **energy drink**, back to work.
 - Genuine **excitement** about the flexibility.
+
+## Life priority stack (Lyle, 2026-06-28)
+
+**Order:** 1) God → 2) wife → 3) kids → 4) business → everything else.
+
+Builder schedule and GovCon ramp sit **under** family and faith — not above them. (Earlier message said "work" as 4th; clarified as **business** in the ordered list.)
+
+## Admin next steps
+
+- **Unemployment:** Filing **tomorrow morning** (2026-06-29) to start the process.
+- **Health benefits:** Covered via **LTD** (partner company for most benefits) — no layoff-driven benefits scramble.
 
 ## Implications (distilled)
 

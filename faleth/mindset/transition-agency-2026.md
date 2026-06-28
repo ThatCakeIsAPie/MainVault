@@ -4,7 +4,7 @@ title: Transition Mindset - Agency Over Waiting (2026)
 status: active
 updated: '2026-06-28T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-28T13:39:40.844Z'
+ingested_at: '2026-06-28T13:44:50.939Z'
 source_kind: 'mcp:put_page'
 tags:
   - agency
@@ -50,8 +50,17 @@ Raw: [[research/raw/transcripts/lyle-layoff-day-job-served-purpose-2026-06-28]]
 - [[research/faleth/mindset/mindset-as-infrastructure-mental-diet-2026]]
 - [[Biography Operating System]]
 
+## Life priority stack (2026-06-28)
+
+God → wife → kids → business → everything else. GovCon/Faleth **business** is fourth — not first, despite founder-hour flexibility.
+
+## Admin (2026-06-28)
+
+- Unemployment filing planned **morning of 2026-06-29**.
+- Medical benefits via **LTD partner company** — not dependent on ex-employer COBRA for core coverage.
+
 ## Operating reminders (Delta)
 
 - **Work like it all depends on you:** GovCon email pipeline, proposals, Zoho, Hermes automation — first 30-day KPIs worth naming explicitly.
 - **Pray like it all depends on God:** Excitement is fuel; don't let hustle schedule become the new scoreboard god.
-- Protect **relationship / family** blocks even without an employer alarm clock.
+- Protect **wife/kids** blocks even without an employer alarm clock — priorities 2–3 stay above business.
