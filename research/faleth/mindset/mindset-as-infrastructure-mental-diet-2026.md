@@ -7,9 +7,9 @@ related:
   - research/faleth/mindset/transition-agency-2026
   - research/faleth/mindset/make-more-than-you-take-2026
   - research/faleth/mindset/uncertainty-tolerance-as-quality-of-life-2026
-ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-28T13:14:21.783Z'
+ingested_at: '2026-06-28T13:29:19.645Z'
 source_kind: 'mcp:put_page'
+ingested_via: 'mcp:put_page'
 tags:
   - faleth
   - lyle-x-share
@@ -56,6 +56,8 @@ While GovCon and bridge builds run on 2–3 month clocks, the mind will try to f
 - **Christian frame:** Identity rooted in Christ, not of this world. God's love + faith in His plan + **obedience** (strive fully, hold outcomes loosely before God).
 - **Idol check:** When Faleth, the day job, GovCon, or a single deal becomes what *validates* you, it has become a god. Negative self-talk is often the symptom of that swap — the scoreboard stole Christ's place.
 - **Both/and:** Absolutely strive. Do not let striving hand your identity to the result.
+
+**Shorthand (Lyle, 2026-06-28):** *Work like it all depends on you. Pray like it all depends on God.* — same bifocal: full operational ownership + identity/outcomes held before God. See [[concepts/offshoots/faith-anchored-action-and-obedience]].
 
 Raw source: [[research/raw/transcripts/lyle-telegram-identity-christ-not-scoreboard-2026-06-28]]
 

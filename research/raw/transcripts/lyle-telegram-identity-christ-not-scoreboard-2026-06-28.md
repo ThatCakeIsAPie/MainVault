@@ -25,6 +25,8 @@ As a Christian, this is what we mean by identity rooted in **Christ**, not of th
 
 **Operate rule:** Absolutely strive — but don't let identity be taken away from Christ. If that external thing becomes your new god and not God, you are in trouble.
 
+**Resonant shorthand (same thread):** *Work like it all depends on you. Pray like it all depends on God.*
+
 ## Mechanism (distilled)
 
 | Failure mode | Symptom | Root |

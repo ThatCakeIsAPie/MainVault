@@ -39,6 +39,14 @@ This principle should not be reduced to religious rule-following. Lyle uses "rel
 
 That means faith-anchored action is not simply forcing oneself to act correctly. It is becoming the kind of person whose heart naturally produces congruent action. To use Lyle's theological horticulture metaphor: duct-taping apples to a dead branch does not make it an apple tree; relationship changes the root so the fruit becomes natural. ^[raw/transcripts/lyle-theological-horticulture-heart-upstream-identity-2026-06-04.md]
 
+### Work / pray bifocal (founder-builder)
+
+Classic operational summary (often quoted in Christian leadership; attribution varies):
+
+> **Work like it all depends on you. Pray like it all depends on God.**
+
+Lyle linked this to the 2026 mental-diet thread: **process** and **obedience** run at full throttle (Hermes, GovCon, bridge, LTD) while **identity** stays in Christ — not on the week's scoreboard. Work is your lane; ultimate dependence is not on the metric. ^[research/raw/transcripts/lyle-telegram-identity-christ-not-scoreboard-2026-06-28.md]
+
 ### Why It Matters
 
 This principle supplies the spiritual engine underneath [[offshoots/persistent-consistent-action]]. Without faith, consistent action collapses into mechanical hustle. With faith but no inspection of authority, it can decay into subjugation. The mature form is faith-led action under tested counsel.
