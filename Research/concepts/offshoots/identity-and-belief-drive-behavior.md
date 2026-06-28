@@ -49,6 +49,7 @@ This gives a deeper mechanism underneath [[offshoots/awareness-as-agent-for-chan
 - After Hours MYA (2025): whatever you put identity into most will fail you most; insecurity tells you what you are **not**—anchor in "I AM."
 - Ambassador identity: one Christ-centered identity should carry into workplace and friendships ([[Personal/Church/2025/9_30_25 MYA]]).
 - Joy Bomb: stop harvesting someone else's field—sow your own seeds; spiritual happiness is the seal the other six categories cannot fill.
+- Encounter Night (John 3): war against the flesh so **"B.C. Lyle"** does not come back in; *the heart wants what you feed it*—Instagram feed as appetite diagnostic; two dogs, the one you feed wins.
 
 ### External Corroboration: Identity as Thermostat
 
@@ -95,6 +96,7 @@ This principle explains why the same tactical instructions can produce different
 - [[Business/LTD Amway/Others/2026/FNL Men_s Leadership 3_7_26]]
 - [[Business/LTD Amway/Conferences & Events/2025/Spring Forward 2025]]
 - [[Business/LTD Amway/Conferences & Events/2025/Fearless 2025]]
+- [[Personal/Church/2026/2026-04-28 MYA Encounter Night]]
 - [[Personal/Church/2026/2026-06-16 MYA]]
 - [[Personal/Church/2026/2026-06-23 MYA]]
 - [[Personal/Church/2026/2026-06-21 Father's Day]]
