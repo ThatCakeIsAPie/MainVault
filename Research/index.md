@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-06-22 | Total pages: 46
+> Last updated: 2026-06-28 | Total pages: 46+
 
 ## Meta / schema
 
@@ -57,6 +57,36 @@
 - [[offshoots/systems-building-through-training-and-delegation]] — True systems emerge from training others until they can execute independently at a high level.
 - [[offshoots/traditions-and-experiences-build-teams]] — Traditions and shared experiences turn a group into a real team with heart, belonging, and loyalty.
 - [[offshoots/trust-as-coordination-infrastructure]] — Trust is the invisible infrastructure that lets people coordinate effort without every interaction becoming expensive or defensive.
+- [[offshoots/generosity-as-stewardship-time-talent-treasure]] — Generosity as steward identity over time, talent, and treasure—not occasional overflow.
+- [[offshoots/ongoing-spirit-filling-and-gifts-for-common-good]] — Spirit-filled life and gifts exercised for the body, not gatekept performance.
+- [[offshoots/transition-comparison-insecurity-and-surrendered-control]] — Waiting seasons: comparison, insecurity, and surrendering control without losing agency.
+- [[offshoots/spiritual-gatekeeping-in-the-home]] — Household faith without performance-based spiritual gatekeeping.
+
+## Faleth mindset & transition
+
+**Mindset (2026)**
+- [[faleth/mindset/transition-agency-2026]] — Agency over waiting on external timelines; post-layoff GovCon + bridge focus.
+- [[faleth/mindset/three-ps-motivation-2026]] — Push, pull, and process as durable motivation model for Faleth transition.
+- [[faleth/mindset/mindset-as-infrastructure-mental-diet-2026]] — Mental diet as operational infrastructure; Christ-anchored identity vs scoreboards.
+- [[faleth/mindset/make-more-than-you-take-2026]] — Contribution ethic: create more value than you extract.
+- [[faleth/mindset/uncertainty-tolerance-as-quality-of-life-2026]] — Tolerating variance without degrading daily quality of life.
+- [[faleth/mindset/volume-based-standards-with-detached-outcomes-2026]] — High-volume standards with outcomes held loosely.
+- [[faleth/mindset/do-it-for-fun-anxiety-reframe-2026]] — Reframe performance anxiety through “for fun” execution frame.
+- [[faleth/mindset/bezos-wandering-rule-invention-2026]] — Wandering/invention time as disciplined exploration, not distraction.
+- [[faleth/mindset/anti-charismatic-exceptional-work-2026]] — Exceptional work over charismatic positioning.
+
+**Bridge & strategy**
+- [[faleth/bridge-strategy/game-finish-bridge-2026]] — Indie game ship as cash-timing bridge alongside GovCon deals.
+- [[faleth/bridge-strategy/automation-services-2026]] — Automation services bridge (on hold unless runway forces linear income).
+
+**Governance & operating style**
+- [[faleth/governance/peaceful-fork-voluntary-alignment-2026]] — Voluntary alignment and peaceful fork without coercive upline rent.
+- [[faleth/operating-style/lyle-two-week-insights-2026-06-24]] — Jun 10–24 operating profile synthesis (goals, constraints, patterns).
+- [[faleth/biography-operating-system]] — Biographies compressed into queryable strategic intelligence for Faleth.
+
+## Personal vision
+
+- [[Personal/Dream Compound Vision]] — Long-term sovereign compound: remote businesses, family presence, advanced manufacturing and AI “brain” (dream-building, not church sermon).
 
 ## Comparisons
 

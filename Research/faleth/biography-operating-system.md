@@ -39,3 +39,8 @@ All extracted notes are tagged #faleth-relevant and linked into Faleth documents
 ## Status
 
 System created June 2026. Template available. First biographies to process TBD.
+
+## Related
+
+- [[faleth/mindset/three-ps-motivation-2026]]
+- [[faleth/mindset/transition-agency-2026]]

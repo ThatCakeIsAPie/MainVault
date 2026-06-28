@@ -137,3 +137,9 @@ tags:
 - Preference on taking on debt vs. grant timelines vs. internal capital?
 
 This report is saved to your vault for ongoing updates. We can deep-dive any single path or run additional research on specific grants/loans/facility options.
+
+## Related
+
+- [[faleth/mindset/transition-agency-2026]]
+- [[Business/Faleth Capital/VXE (partner)/AI Context/VXE — AI Reference]]
+- [[faleth/bridge-strategy/game-finish-bridge-2026]]

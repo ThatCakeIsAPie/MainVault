@@ -43,7 +43,7 @@ This file tracks which source notes and folders have already been reviewed for p
 
 ## Other Areas
 
-- (none yet)
+- **2026-06-28** — Vault linking pass (discretionary, high-signal only): `Research/index.md` (offshoots, Faleth mindset & transition, Personal vision); cross-links among `Research/faleth/` mindset and bridge pages; `Personal/Dream Compound Vision.md`; subsidiary AI Reference wiki sections; `Research/business/vxe/full-time-transition-research-2026.md`; transcript backlinks from transition/game-bridge pages. **Not** full principle extraction; **did not** bulk-link Last30Days daily industry debriefs.
 
 ## Notes
 - Source files remain in their original locations.

@@ -48,9 +48,14 @@ Raw: [[research/raw/transcripts/lyle-layoff-day-job-served-purpose-2026-06-28]]
 
 ## Related
 
+- [[faleth/mindset/three-ps-motivation-2026]]
+- [[faleth/bridge-strategy/game-finish-bridge-2026]]
 - [[faleth/bridge-strategy/automation-services-2026]]
-- [[research/faleth/mindset/mindset-as-infrastructure-mental-diet-2026]]
-- [[Biography Operating System]]
+- [[faleth/mindset/mindset-as-infrastructure-mental-diet-2026]]
+- [[faleth/biography-operating-system]]
+- [[offshoots/transition-comparison-insecurity-and-surrendered-control]]
+- [[research/raw/transcripts/lyle-layoff-day-job-served-purpose-2026-06-28]]
+- [[research/raw/transcripts/lyle-govcon-gap-game-bridge-2026-06-28]]
 
 ## Life priority stack (2026-06-28)
 

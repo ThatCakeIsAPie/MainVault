@@ -61,6 +61,12 @@ While GovCon and bridge builds run on 2–3 month clocks, the mind will try to f
 
 Raw source: [[research/raw/transcripts/lyle-telegram-identity-christ-not-scoreboard-2026-06-28]]
 
+## See also
+
+- [[offshoots/identity-and-belief-drive-behavior]] — Identity and belief as upstream of behavior; pairs with mental-diet and Christ-not-scoreboard frame.
+- [[faleth/mindset/three-ps-motivation-2026]]
+- [[faleth/mindset/transition-agency-2026]]
+
 ## References
 
 - Lyle shared via Telegram: **2026-06-28** — [X post @GRITCULT](https://x.com/i/status/2071182764695507403) (quotes @lmrankhan; reply theme @Hiraweb3).

@@ -44,3 +44,8 @@ Clients own the full setup. They only pay the monthly retainer for peace of mind
 ## Status
 
 **On hold** as of 2026-06-28 — superseded for gap period by game-finish bridge + incoming GovCon payments + unemployment filing.
+
+## Related
+
+- [[faleth/mindset/transition-agency-2026]]
+- [[faleth/bridge-strategy/game-finish-bridge-2026]]

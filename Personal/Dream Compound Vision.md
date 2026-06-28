@@ -49,3 +49,10 @@
 ---
 
 *This note was created from a long dream-building conversation. Feel free to expand, reorganize, or add details as the vision evolves.*
+
+## Related principles
+
+- [[offshoots/family-legacy-as-mission-multiplier]] — Compound as family-integrated mission, not isolated wealth display.
+- [[offshoots/factory-over-product-thinking]] — Build the repeatable system (manufacturing + AI factory), not one-off projects.
+- [[offshoots/asset-creation-over-linear-income]] — Assets and optionality over trading time for paychecks.
+- [[foundational/five-step-sequencing-model]] — Sequence major commitments; compound vision is downstream of current sequencing.

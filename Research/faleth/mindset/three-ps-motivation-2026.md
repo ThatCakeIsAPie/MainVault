@@ -26,3 +26,9 @@ tags:
 Lyle is currently experiencing strong **Push** from his day job (zero leverage, repeated timeline slippage on GovCon). He is deliberately shifting energy toward building an **automation services bridge** so he can increase **Process** capacity while moving closer to the **Pull** of full-time Faleth work.
 
 The model explains why pure waiting feels draining and why building something (even as a bridge) restores motivation.
+
+## Related
+
+- [[faleth/mindset/transition-agency-2026]]
+- [[faleth/biography-operating-system]]
+- [[faleth/bridge-strategy/game-finish-bridge-2026]]

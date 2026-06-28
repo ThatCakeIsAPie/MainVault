@@ -113,3 +113,13 @@ For full process breakdowns and point value examples, see `Comp Plan Examples.xl
 | Fixed Costs | Guaranteed recurring monthly expenses |
 | PCB | Project Completion Bonus — paid when project is completed |
 | PC Royalties | Royalties paid to the parent company (Faleth Capital) |
+
+---
+
+## Wiki links
+
+- [[faleth-capital]] — Parent family office entity.
+- [[offshoots/contribution-over-wage-compensation]] — FRR compensation aligns with contribution, not wage logic.
+- [[offshoots/factory-over-product-thinking]] — Repair/restoration as repeatable operating system.
+- [[offshoots/self-governance-by-contributors]] — Contributor-facing governance in Faleth portfolio companies.
+- [[foundational/five-step-sequencing-model]] — FRR sits in Lyle's active-income sequencing path.

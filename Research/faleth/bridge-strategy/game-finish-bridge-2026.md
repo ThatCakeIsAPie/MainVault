@@ -55,6 +55,9 @@ Finish and ship the **in-progress game** in parallel with **light-touch GovCon u
 
 ## Related
 
-- [[faleth/bridge-strategy/automation-services-2026]]
 - [[faleth/mindset/transition-agency-2026]]
+- [[faleth/mindset/three-ps-motivation-2026]]
+- [[offshoots/asset-creation-over-linear-income]]
+- [[faleth/bridge-strategy/automation-services-2026]]
 - [[research/raw/transcripts/lyle-govcon-gap-game-bridge-2026-06-28]]
+- [[research/raw/transcripts/lyle-layoff-day-job-served-purpose-2026-06-28]]

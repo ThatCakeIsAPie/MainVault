@@ -55,3 +55,13 @@ LibreTech is the brother's primary focus while Lyle focuses on Free Range Repair
 |---|---|
 | Faleth Capital | Parent / family office partner |
 | VXE (partner) | Related government contracts business — see [[VXE — AI Reference]] |
+
+---
+
+## Wiki links
+
+- [[faleth-capital]] — Parent family office entity.
+- [[offshoots/contribution-over-wage-compensation]] — Intended comp alignment with Faleth contribution model.
+- [[offshoots/self-governance-by-contributors]] — Operator agency and contributor governance.
+- [[offshoots/earned-equity-through-contribution]] — Equity earned through contribution, not passive buy-in alone.
+- [[Business/Faleth Capital/VXE (partner)/AI Context/VXE — AI Reference]] — Sibling GovCon portfolio company.
