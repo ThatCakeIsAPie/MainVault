@@ -84,3 +84,5 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-06-27
 - Official API returned **339** models; Lyle-relevant pricing unchanged: Grok 4.20 **$1.25/$2.50** (cache read $0.20/M), Opus 4.8 **$5/$25**, GPT-5.5 **$5/$30**, DeepSeek V4 Flash **$0.09/$0.18**; recent adds include **sakana/fugu-ultra** and **z-ai/glm-5.2**; Fusion still placeholder -1 ([OpenRouter API](https://openrouter.ai/api/v1/models)). X: model-wave + **OpenRouter MCP** routing ([OpenRouter MCP](https://x.com/OpenRouter/status/2070630667663163875)). Signal strength: strong (API), medium (social).
+### 2026-06-28
+- Official API **2026-06-28T11:01Z**: **339** models; Grok 4.20 **$1.25/$2.50** (cache read $0.20/M), Opus 4.8 **$5/$25**, GPT-5.5 **$5/$30**, DeepSeek V4 Flash **$0.09/$0.18**; Fusion placeholder -1; newest tail includes sakana/fugu-ultra, z-ai/glm-5.2 ([API](https://openrouter.ai/api/v1/models)). Jun 27 blog on open-weight agentic production ([blog](https://openrouter.ai/blog/insights/the-open-weight-models-that-matter-june-2026/)). Signal: strong (API).

@@ -6,6 +6,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Agentic automation is moving from demo bots to governed enterprise work units: scoped permissions, operational metrics, human handoff, and audit logs.
 - The strongest buying context is still vertical operational pain — contact centers, telecom operations, ERP/document workflows, internal admin, and regulated workflows.
 - Practical differentiation is shifting from raw model ability to orchestration quality: tool access, policy, evals, replay, escalation, and incident response.
+- **Live model routing** (e.g. OpenRouter MCP) is becoming part of the agent stack—not optional for cost-aware production cron/delegate loops.
 
 ## Major Shifts to Watch
 - Enterprise platforms bundling agent builders, performance dashboards, and outcome pricing.
@@ -81,3 +82,5 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-06-27
 - Last-24h signal centered on **event-driven ambient agents** with staged HITL→HOTL, idempotency/DLQ/async patterns ([event-driven guide](https://x.com/i/status/2070695612803363299)), open-source **SkillOpt** and **Vercel Eve**, and **Salesforce Agentforce Help** pay-per-resolution pricing ([SkillOpt](https://x.com/XAMTO_AI/status/2070814394876035555), [Agentforce Futurum](https://futurumgroup.com/insights/salesforces-agentforce-help-agent-bets-on-pay-per-resolution-will-enterprises-trust-the-model/)). Signal strength: medium.
+### 2026-06-28
+- OpenRouter [open-weight production blog](https://openrouter.ai/blog/insights/the-open-weight-models-that-matter-june-2026/) and [MCP server](https://openrouter.ai/blog/announcements/openrouter-mcp-server/) reinforce agents choosing models from live cost/latency data; X synthesis on governance gaps and multi-tenant isolation ([OpenRouter X](https://x.com/OpenRouter/status/2070955518772834479), [governance](https://x.com/YuHelenYu/status/2070672290665123868)). Signal: medium.

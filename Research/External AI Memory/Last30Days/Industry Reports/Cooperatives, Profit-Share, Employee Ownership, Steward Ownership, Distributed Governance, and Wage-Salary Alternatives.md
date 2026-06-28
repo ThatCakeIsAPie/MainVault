@@ -81,3 +81,5 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-06-27
 - X reinforced ESOP research/performance themes and co-op vs ESOP control distinctions ([ACT_HQ](https://x.com/ACT_HQ/status/2070497064580972999), [Surferonx777](https://x.com/Surferonx777/status/2070509821938581522)); DOL Feb 2026 employee-ownership report remains background ([DOL](https://beta.dol.gov/research-data/surveys-reports-publications/employee-ownership-initiative-report-congress)). Signal strength: medium.
+### 2026-06-28
+- No breaking 24h federal action; DOL **Jan 2026** Employee Ownership Initiative report remains anchor ([DOL](https://beta.dol.gov/research-data/report/employee-ownership-initiative-report-congress)). Signal: weak (news), medium (policy doc).
