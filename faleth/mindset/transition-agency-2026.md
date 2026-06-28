@@ -43,6 +43,8 @@ Raw: [[research/raw/transcripts/lyle-layoff-day-job-served-purpose-2026-06-28]]
 - ~~Day job provides zero leverage~~ **Day job ended 2026-06-28** via mass layoff.
 - Automation services bridge remains **optional accelerator** if runway or cash-flow needs it — not the only path now that time is unlocked.
 - Finances: job era credited with **catch-up**; monitor runway as GovCon ramps.
+- **GovCon cash (2026-06-28):** **2 deals closed**; payment in **~2–3 months** after vendor completes work (trusted vendor from prior company). Gap = **bridge**, not pipeline panic.
+- **Bridge focus:** Finish **indie game** in parallel (see [[faleth/bridge-strategy/game-finish-bridge-2026]]); automation-services bridge deprioritized unless runway demands it.
 
 ## Related
 
