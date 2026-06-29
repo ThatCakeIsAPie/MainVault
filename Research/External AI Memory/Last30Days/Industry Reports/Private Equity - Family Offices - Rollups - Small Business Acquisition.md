@@ -82,3 +82,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - **ETA Search Sentiment Study** recruitment for 2026 searchers and searcher tooling posts (CIM volume, DSCR, funnel discipline) ([Sam_Rosati](https://x.com/Sam_Rosati/status/2070520308914602164), [Searcher_OS](https://x.com/Searcher_OS/status/2070536880974966790)). Signal strength: weak–medium (sentiment/tools).
 ### 2026-06-28
 - No hard 24h deal headline; background on search funds targeting larger EBITDA and family-office searcher backing ([Mineola Mar 2026](https://mineolasearchpartners.com/2026/03/05/are-search-funds-moving-up-market/)). Signal: weak.
+
+### 2026-06-29
+- No hard M&A tape in 24h; continued ETA/search-fund and SMB+AI positioning in market sites as background ([Search Fund Ventures](https://www.searchfundventures.co/)). Signal: weak.

@@ -81,3 +81,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Creator X re-accelerated: **Seedance 2.x** 4K/cinematic buzz, **Veo 3.1** “best overall” promotion, **Kling 3** motion/VFX, **Runway** as multi-model edit hub ([NewsFromGoogle](https://x.com/NewsFromGoogle/status/2070588586357842116), [SimplyAnnisa](https://x.com/SimplyAnnisa/status/2070561774953496688), [defaiscope](https://x.com/defaiscope/status/2070442757022171207)). Signal strength: medium (creator/social).
 ### 2026-06-28
 - Jun 28 comparison content ranks Veo 3.1 / Kling / Runway / Seedance for ads and creator workflows ([Pixflow](https://pixflow.net/blog/best-ai-video-generator/)); no major verified launch in strict 24h. Signal: weak–medium.
+
+### 2026-06-29
+- No strict-24h flagship release; production routing narrative unchanged (Veo/Kling/Runway/Seedance tiering). Signal: weak.

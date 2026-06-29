@@ -86,3 +86,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - **Official SAM.gov Jun 26 alert**: ISR workspace may show increased contract/subcontract volume after June 9 eligibility logic changes; mid-year **ISRs due July 14, 2026** ([ISR alert](https://sam.gov/alerts/isr-workspace-increased-contract-volume), [SAM eSRS](https://sam.gov/esrs)). X: heavy BidForge/Polsia SAM.gov agent promotion—vendor/creator signal ([Polsia](https://x.com/polsia/status/2070534479966531628)). Signal strength: medium (official), weak–medium (automation hype).
 ### 2026-06-28
 - SAM.gov **Jun 26** ISR workspace volume alert remains active after June 9 eligibility logic; contractors must evaluate whether new rows require ISR; **mid-year ISRs due July 14, 2026** ([alert](https://sam.gov/announcements/isr-workspace-increased-contract-volume), [esrs](https://sam.gov/esrs)). Signal: strong (official).
+
+### 2026-06-29
+- **SAM.gov Jun 26 ISR alert** still live; July 14 mid-year ISR deadline unchanged ([alert](https://sam.gov/announcements/isr-workspace-increased-contract-volume)). X bearish GovCon market pulse on award/legislation velocity ([iconcapture](https://x.com/iconcapture/status/2071549300681609598))—weak evidence, monitor for corroboration. Signal: strong (official), weak (market social).

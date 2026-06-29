@@ -81,3 +81,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - No Amway/LTD-specific last-24h change; X restated FTC earnings-claim scrutiny and official Amway IDS as anchors ([RoJo202588](https://x.com/RoJo202588/status/2070610598631456892), [FTC MLM guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing)). Signal strength: weak (24h), strong (backdrop).
 ### 2026-06-28
 - No LTD/Amway 24h headline; compliance floor remains Amway **2025 IDS** and FTC earnings-claim scrutiny ([IDS](https://www.amway.com/en_US/income-disclosure)). Signal: weak (daily), strong (backdrop).
+
+### 2026-06-29
+- Routine X promo/education; AmCham Mongolia membership mention for Amway ([by_Aluna](https://x.com/by_Aluna/status/2071544937322045878)); no compensation/IDS change. Signal: weak.
