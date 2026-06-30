@@ -89,3 +89,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-06-29
 - **SAM.gov Jun 26 ISR alert** still live; July 14 mid-year ISR deadline unchanged ([alert](https://sam.gov/announcements/isr-workspace-increased-contract-volume)). X bearish GovCon market pulse on award/legislation velocity ([iconcapture](https://x.com/iconcapture/status/2071549300681609598))—weak evidence, monitor for corroboration. Signal: strong (official), weak (market social).
+
+### 2026-06-30
+- **SAM.gov** ISR/July 14 messaging unchanged ([announcements](https://sam.gov/announcements)). **Operational deadline:** DHS **SAVER** survey response **Jun 30, 2026 4:00 PM EDT** on at least one active opportunity ([SAVER opp](https://sam.gov/workspace/contract/opp/4c8e98192d0648719093e6a942f49483/view)). No verified GovCon AI product launch in 24h; vendor listicles continue SAM.gov + drafting narrative (snippet-level). Signal: strong (official deadlines), weak (vendor noise).

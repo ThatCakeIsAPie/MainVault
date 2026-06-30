@@ -7,6 +7,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - The strongest buying context is still vertical operational pain — contact centers, telecom operations, ERP/document workflows, internal admin, and regulated workflows.
 - Practical differentiation is shifting from raw model ability to orchestration quality: tool access, policy, evals, replay, escalation, and incident response.
 - **Live model routing** (e.g. OpenRouter MCP) is becoming part of the agent stack—not optional for cost-aware production cron/delegate loops.
+- **Hosted MCP + security baselines** are now part of the default production conversation—not experimental add-ons.
 
 ## Major Shifts to Watch
 - Enterprise platforms bundling agent builders, performance dashboards, and outcome pricing.
@@ -87,3 +88,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-06-29
 - **GPT-5.6 Sol** limited preview (Jun 26–27) emphasizes long-horizon **agentic coding**, `ultra` sub-agent mode, and explicit safety guidance to supervise agent work ([OpenAI preview](https://openai.com/index/previewing-gpt-5-6-sol/), [safety card](https://deploymentsafety.openai.com/gpt-5-6-preview)). X: free/high-context agent models on OpenRouter (OWL/LongCat-class) and token-volume vs margin narrative ([johnseach](https://x.com/johnseach/status/2071186558670266533), [milkroaddaily](https://x.com/milkroaddaily/status/2071262095795257754))—treat volume stats as social-level. Signal: medium.
+
+### 2026-06-30
+- Last-24h X signal emphasized **production agent loops** (trace/eval/diagnose/fix), **hosted MCP** for live tool/data access, **enterprise auditability** in regulated workflows, and **security/HITL** as mandatory—not optional ([MCP access](https://x.com/Essa_Almazroei/status/2071911661242384510), [production loop](https://x.com/EngMoElgaraihy/status/2071911657337401523), [finance agents](https://x.com/LFGAction/status/2071911638970823071), [HITL caution](https://x.com/grantcrawley/status/2071911629600547290)). OpenAI’s Jun 25 Codex usage post remains cited background for **>60 agent-hours/day** at heavy percentiles ([OpenAI](https://openai.com/index/how-agents-are-transforming-work/)). Signal: medium.

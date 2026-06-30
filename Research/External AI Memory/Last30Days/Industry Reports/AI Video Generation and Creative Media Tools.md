@@ -84,3 +84,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-06-29
 - No strict-24h flagship release; production routing narrative unchanged (Veo/Kling/Runway/Seedance tiering). Signal: weak.
+
+### 2026-06-30
+- No strict-24h flagship release; **PCMag Jun 25** update left 2026 lineup unchanged with **Veo 3.1** as editor’s pick ([PCMag](https://uk.pcmag.com/ai/161294/the-best-ai-video-generators)). Signal: weak (daily novelty).

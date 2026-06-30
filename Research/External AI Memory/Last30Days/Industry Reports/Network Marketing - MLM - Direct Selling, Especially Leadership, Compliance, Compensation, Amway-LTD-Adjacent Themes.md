@@ -84,3 +84,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-06-29
 - Routine X promo/education; AmCham Mongolia membership mention for Amway ([by_Aluna](https://x.com/by_Aluna/status/2071544937322045878)); no compensation/IDS change. Signal: weak.
+
+### 2026-06-30
+- No Amway/LTD corporate compensation or IDS change in 24h targeted sweep; FTC **Apr 2026** Merritt earnings-claim order remains enforcement backdrop ([FTC](https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-against-high-level-mlm-participants-who-deceived-workers-about-amount-money-they)). Signal: weak (daily), strong (backdrop).

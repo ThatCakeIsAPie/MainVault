@@ -85,3 +85,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-06-29
 - No hard M&A tape in 24h; continued ETA/search-fund and SMB+AI positioning in market sites as background ([Search Fund Ventures](https://www.searchfundventures.co/)). Signal: weak.
+
+### 2026-06-30
+- No hard deal tape in 24h; **Mar 2026** search-fund upmarket survey and **~4.3x EBITDA** SMB multiple commentary remain background ([Mineola](https://mineolasearchpartners.com/2026/03/05/are-search-funds-moving-up-market/), [Search Fund Ventures](https://www.searchfundventures.co/)). Signal: weak.
