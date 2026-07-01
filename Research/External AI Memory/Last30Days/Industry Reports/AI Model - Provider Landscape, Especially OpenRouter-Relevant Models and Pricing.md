@@ -92,3 +92,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-06-30
 - Official API pull: **338** models; Lyle-relevant pricing **stable**—Grok 4.20 **$1.25/$2.50** (cache read **$0.20/M**), GPT-5.5 **$5/$30**, Opus 4.7 **$5/$25**, DeepSeek V4 Flash **$0.09/$0.18** (cache **$0.02/M**); Fusion placeholder pricing; **no gpt-5.6 / grok-composer IDs** in catalog ([API](https://openrouter.ai/api/v1/models)). Newest `created` entries include **sakana/fugu-ultra** (Jun 30) and Gemini image models (Jun 23). X: OpenRouter cited for near-zero agent experimentation ([0xJeff](https://x.com/0xJeff/status/2071881103409901807)). Signal: strong (API), medium (social).
+
+### 2026-07-01
+- Official API **2026-07-01**: **338** models; Lyle stack **stable**—Grok 4.20, GPT-5.5, DeepSeek V4 Flash cache economics unchanged; **`anthropic/claude-sonnet-5`** newest Anthropic listing (**$2/$10**, cache read **$0.20/M**); Fusion placeholder; no grok-composer in catalog ([API](https://openrouter.ai/api/v1/models)). OpenRouter June open-weight insights + X on agent routing/volume share ([blog](https://openrouter.ai/blog/insights/the-open-weight-models-that-matter-june-2026/), [OpenRouter Sonnet 5](https://x.com/OpenRouter/status/2072020173872325088)). Signal: strong (API), medium (social).

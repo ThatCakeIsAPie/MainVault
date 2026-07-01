@@ -88,3 +88,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-06-30
 - No hard deal tape in 24h; **Mar 2026** search-fund upmarket survey and **~4.3x EBITDA** SMB multiple commentary remain background ([Mineola](https://mineolasearchpartners.com/2026/03/05/are-search-funds-moving-up-market/), [Search Fund Ventures](https://www.searchfundventures.co/)). Signal: weak.
+
+### 2026-07-01
+- Continuity only—search-fund directories and rollup explainers; no verified new closings in 24h ([SearchFund.org](https://www.searchfund.org/), [Axial](https://www.axial.net/forum/companies/search-funds/)). Signal: weak.
