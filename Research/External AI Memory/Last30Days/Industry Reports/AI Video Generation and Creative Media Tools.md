@@ -90,3 +90,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-01
 - **Runway API changelog (Jun 26)** added **Veo 3.1** text-to-image and image-to-video with **1080p** outputs—distribution integration, not a new foundation model ([changelog](https://docs.dev.runwayml.com/api-details/api_changelog/)). No strict-24h flagship launch. Signal: medium (official changelog), weak (daily novelty).
+
+### 2026-07-02
+- No verified strict-24h flagship launch; comparison roundups continue ranking **Kling 3.0 / Veo 3.1 / Runway** with **Sora shutdown** as migration backdrop (**snippet-level**, background) ([tech-insider roundup](https://tech-insider.org/best-ai-video-generator-2026/)). Signal: weak (daily novelty).

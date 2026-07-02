@@ -92,3 +92,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-01
 - No new US federal action in 24h; **Aspen May 2026** EO/ESOP synthesis and **DOL Feb 2026** congressional report remain authoritative background (~15.1M ESOP participants) ([Aspen](https://www.aspeninstitute.org/publications/employee-ownership-and-esops-what-we-know-from-recent-research-2026/), [DOL](https://beta.dol.gov/research-data/surveys-reports-publications/employee-ownership-initiative-report-congress)). Signal: weak (news), medium (policy docs).
+
+### 2026-07-02
+- No new US federal rulemaking in 24h; **Aspen May 2026** / **DOL Jan 2026** reports and **ESOP Association Jul 14** chapter event remain background ([Aspen](https://www.aspeninstitute.org/publications/employee-ownership-and-esops-what-we-know-from-recent-research-2026/), [ESOP events](https://www.employeeownershipfoundation.org/events)). Signal: weak (news).

@@ -91,3 +91,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-01
 - Continuity only—search-fund directories and rollup explainers; no verified new closings in 24h ([SearchFund.org](https://www.searchfund.org/), [Axial](https://www.axial.net/forum/companies/search-funds/)). Signal: weak.
+
+### 2026-07-02
+- Continuity—**Search Funds News Jun 29** succession-search launches (Perennis, AJD Partners) and ETA education; no verified new US closing tape in 24h ([Search Funds News](https://searchfundsnews.com/)). Signal: weak (daily).

@@ -94,3 +94,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-01
 - X signal sharpened the **production trust gap** (wide “has agents” vs narrow “trusts agents in production”), **silent-failure observability**, and **data-foundation readiness** as gating items ([production gap](https://x.com/scaiado/status/2070568434627133721), [silent failures](https://x.com/nechmads/status/2072265486826447100), [Fivetran readiness index chatter](https://x.com/fivetran/status/2069854933642260491)). OpenAI Codex long-task usage remains background anchor ([OpenAI](https://openai.com/index/how-agents-are-transforming-work/)). Signal: medium.
+
+### 2026-07-02
+- X/current discussion emphasized **agent governance as architecture**: least-privilege identities, audit trails, policy-as-code, tiered human gates, and **EU AI Act Aug 2026** high-risk readiness as buyer language ([governance synthesis](https://x.com/rnagulapalle/status/2072311484009599051), [permissions model](https://x.com/LearnWithBrij/status/2072293853517017288), [EU timing](https://x.com/SPrebenda/status/2072348863944368310)). **Background:** [MIT News Jun 30](https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630) on agents taking actions in the world. Signal: medium (social synthesis).

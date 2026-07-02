@@ -90,3 +90,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-01
 - No corporate compensation/IDS delta in 24h; durable anchors remain **Amway IDS** and **FTC MLM disclosure analysis** ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC staff report](https://www.ftc.gov/business-guidance/blog/2024/09/ftc-staff-report-analyzes-70-mlm-income-disclosure-statements)). Signal: weak (daily), strong (backdrop).
+
+### 2026-07-02
+- No Amway/LTD corporate delta in 24h; **2025 Amway IDS** page and **FTC Apr 2026** high-level participant enforcement remain backdrop ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC Apr 2026](https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-against-high-level-mlm-participants-who-deceived-workers-about-amount-money-they)). Signal: weak (daily), strong (backdrop).

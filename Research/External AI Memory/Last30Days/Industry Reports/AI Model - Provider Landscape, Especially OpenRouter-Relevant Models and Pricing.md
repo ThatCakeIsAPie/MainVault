@@ -95,3 +95,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-01
 - Official API **2026-07-01**: **338** models; Lyle stack **stable**—Grok 4.20, GPT-5.5, DeepSeek V4 Flash cache economics unchanged; **`anthropic/claude-sonnet-5`** newest Anthropic listing (**$2/$10**, cache read **$0.20/M**); Fusion placeholder; no grok-composer in catalog ([API](https://openrouter.ai/api/v1/models)). OpenRouter June open-weight insights + X on agent routing/volume share ([blog](https://openrouter.ai/blog/insights/the-open-weight-models-that-matter-june-2026/), [OpenRouter Sonnet 5](https://x.com/OpenRouter/status/2072020173872325088)). Signal: strong (API), medium (social).
+
+### 2026-07-02
+- Official API **2026-07-02**: **338** models; **`anthropic/claude-fable-5`** confirmed **$10/$50/M** (cache read **$1/M**); Sonnet 5 and Lyle core IDs unchanged; Fusion placeholder ([API](https://openrouter.ai/api/v1/models)). X on Fable redeploy/routing (**secondary to API**) ([Fable chatter](https://x.com/i/status/2072405997289877846)). Signal: strong (API), medium (social).

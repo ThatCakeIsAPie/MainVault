@@ -95,3 +95,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-01
 - **July 14, 2026** mid-year **ISR** deadline is now **13 days out**—dominant operational signal; SAM **Jun 26** workspace alert still directs subcontracting review ([SAM announcements](https://sam.gov/announcements/modernized-reps-certs-coming-samgov-march-24th-2026)). No verified GovCon AI SKU in 24h; vendor SEO continues (snippet-level). Signal: strong (official), weak (vendor).
+
+### 2026-07-02
+- **ISR due July 14** now **12 days out**; active SAM **Jun 26** alert on increased ISR-eligible workspace volume after eligibility-logic changes—contractors must evaluate plan-by-plan ([SAM esrs](https://sam.gov/esrs), [ISR workspace](https://sam.gov/announcements/isr-workspace-increased-contract-volume)). X: **GSA LLM/data-use clause** and NIST AI RMF-aligned proposal expectations in GovCon AI chatter ([Wiley Rein](https://x.com/WileyRein/status/2072402386358841679)). Signal: strong (official), medium (social).
