@@ -14,4 +14,9 @@ He asked: what are some economic concerns for people between the ages of 18 and 
 - Cost of Living and Inflation
 - Student Debt and Education Costs
 - Job Insecurity and Underemployment
-	- 
+In the last 30 years, income has only increased by about 20%, but housing has increased by 70% and rent price has increased by 35%
+The student loans and housing are set up to where you will be in debt forever
+The amount owed for people under 24 is $110 billion for 7.6 million borrowers
+25-34 is $500 billion for 14.9 million borrowers
+35-49 is $622 billion for 12 million borrowers
+Not much difference in the number of borrowers, but the debt is higher
