@@ -36,3 +36,5 @@ There is no plan in corporate america that is further ahead than getting you to 
 Imagine just starting a job and they just handed you a handbook and say "good luck". Tons of people get a business started and never ask questions of what next to do.
 There are a lot of choices we make every day that reflect our character. We look for people with good characteristics.
 *The people I work with is far more important than what I am doing*
+If there is a product you dont like, there are 300 other options, just sell what you do like. You dont need to be a slave to every item
+If someone has no idea what their products are, it is hard to have a business
