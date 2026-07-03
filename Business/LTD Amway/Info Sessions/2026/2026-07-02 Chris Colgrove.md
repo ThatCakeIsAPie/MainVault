@@ -76,4 +76,11 @@ You don't have to be actively listening while listening to an audiobook, that is
 Night owls are where we learn the most
 You get to hear about someone's breakthrough at the night owls
 Don't sleep on the night owls, that is where you learn and grow the most
-If you are doing these things, but not actually building the business by going out and meeting people, it i
+If you are doing these things, but not actually building the business by going out and meeting people, it is null and void.
+The focal point is in the name: Leadership Team Development
+The role of Amway is not to teach you how to build it, they just provide the fulfillment. Your style, goals, work ethic, comes from working with your upline.
+The meetings get redundant because you don't have new people.
+Every time you have a guest out, you are excited for the plan being shown. If you are building, you are excited for every opportunity.
+You can't get a $1 coke if you have 4 quarters and don't put them all in.
+I'm not looking for motivation, it can be motivating, but I'm listening for skills and equipping
+You plug into the system because you want to duplicate what got you success. But no one can guarantee you success, because no one can guarantee that you will do the work
