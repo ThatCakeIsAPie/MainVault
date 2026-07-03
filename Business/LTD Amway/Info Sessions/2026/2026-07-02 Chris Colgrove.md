@@ -83,4 +83,9 @@ The meetings get redundant because you don't have new people.
 Every time you have a guest out, you are excited for the plan being shown. If you are building, you are excited for every opportunity.
 You can't get a $1 coke if you have 4 quarters and don't put them all in.
 I'm not looking for motivation, it can be motivating, but I'm listening for skills and equipping
-You plug into the system because you want to duplicate what got you success. But no one can guarantee you success, because no one can guarantee that you will do the work
+You plug into the system because you want to duplicate what got you success. But no one can guarantee you success, because no one can guarantee that you will do the work.
+Coleman Orr's stats: he had 25 platinums, moving 3 million in revenue per month
+They didn't have system functions at the time. John Crowe came in, did a talk, he went from 25 platinums to 80, then 250, then 400. They noticed they started to get a system being built.
+Less than 1% of people are going to go platinum. The FTC says 99% of people lose money in the industry. But there is something called "zero inflated data", there are a ton of people who sign up and don't do anything at all. Those numbers get mixed into the statistics.
+Within 30 days, 50% of people quit. Those people get figured into that number. Over the course of a calendar year, 100 sign up, 10-15 stay. The other 85-90 people scew the statistics.
+The statistics don't take into account how many people actually build the business.
