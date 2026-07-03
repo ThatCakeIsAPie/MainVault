@@ -35,3 +35,4 @@ He is in a position where he will only get promoted if his boss dies
 There is no plan in corporate america that is further ahead than getting you to the next step. There is no plan to help you accomplish your goals.
 Imagine just starting a job and they just handed you a handbook and say "good luck". Tons of people get a business started and never ask questions of what next to do.
 There are a lot of choices we make every day that reflect our character. We look for people with good characteristics.
+*The people I work with is far more important than what I am doing*
