@@ -20,3 +20,13 @@ The amount owed for people under 24 is $110 billion for 7.6 million borrowers
 25-34 is $500 billion for 14.9 million borrowers
 35-49 is $622 billion for 12 million borrowers
 Not much difference in the number of borrowers, but the debt is higher
+Mentorship is a buzzword nowadays. People online are not mentors, unless they give you 1 on 1 coaching
+Because of being part of an MLM team, I have been able to have 1 on 1 coaching and mentorship to fill in the gaps
+Young people often value a sense of belonging
+He asked how can network marketing be a fix for those concerns? It said "That's an important question because network marketing is often presented as a solution to many of the financial pressures young adults face"
+- Income Opportunities and Flexibility
+- Entrepreneurship and Skill Development
+	- Provides experience in sales, communication, marketing and leadership, all transferable career skills
+	- Encourages self-motivation and discipline
+	- Some participants gain confidence and networking experience
+- Community and Mentorship
