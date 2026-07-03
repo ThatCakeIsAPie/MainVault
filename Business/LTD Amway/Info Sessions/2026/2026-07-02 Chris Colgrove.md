@@ -38,3 +38,42 @@ There are a lot of choices we make every day that reflect our character. We look
 *The people I work with is far more important than what I am doing*
 If there is a product you dont like, there are 300 other options, just sell what you do like. You dont need to be a slave to every item
 If someone has no idea what their products are, it is hard to have a business
+Corporate america is running a business like everyone else is. However, how many of them are giving a $42k/yr increase in your salary? Not many.
+
+# Training - Zach and Ana Matsumoto
+## LTD
+### Plugging into the education system
+#### The system is what turns exposure into duplication
+We are all here to grow our network marketing business
+The common denominator with those who are successful are those who plug in to the education system
+The system to go platinum-
+1. Listening
+	1. 2-3 audios every day
+	2. Not podcasts or YouTubers
+	3. Choose content that develops your mindset and leadership
+2. Affirmations
+	1. 2-3 times per day
+	2. Write and speak specific business goals
+	3. Include clear time markers (e.g. "I will achieve $100k by Dec 31, 2025")
+3. Reading
+	1. 30 minutes or 30 pages daily
+	2. Finish about 2 physical books per month
+	3. Read printed books - not audio books
+4. Radical Association
+	1. Attend everything possible
+	2. Never miss meetings or events (including Night Owls)
+	3. Stay consistently around people who are growing and succeeding
+You will have to be radical to be good at anything
+*A system is built on motivation - It's built on a system followed consistently*
+She didn't venture out of the LTD audios until after platinum/ruby
+You will need a certain faith element for business before you see the results
+They had to make sure they were writing specific things in their affirmations and would say them multiple times per day
+Affirmations aren't magic, but you are programming your mind. Your self-talk and speaking does affect your play
+If you want to be more friendly, you speak that
+If she forgot to speak her affirmations before she went out, she noticed
+She can't read for too long without falling asleep
+You don't have to be actively listening while listening to an audiobook, that is why she doesn't like audiobooks as much
+Night owls are where we learn the most
+You get to hear about someone's breakthrough at the night owls
+Don't sleep on the night owls, that is where you learn and grow the most
+If you are doing these things, but not actually building the business by going out and meeting people, it i
