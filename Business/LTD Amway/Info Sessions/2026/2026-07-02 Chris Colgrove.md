@@ -89,3 +89,11 @@ They didn't have system functions at the time. John Crowe came in, did a talk, h
 Less than 1% of people are going to go platinum. The FTC says 99% of people lose money in the industry. But there is something called "zero inflated data", there are a ton of people who sign up and don't do anything at all. Those numbers get mixed into the statistics.
 Within 30 days, 50% of people quit. Those people get figured into that number. Over the course of a calendar year, 100 sign up, 10-15 stay. The other 85-90 people scew the statistics.
 The statistics don't take into account how many people actually build the business.
+*A platinum team is usually about 50 IBOs running volume. 3-4 people actively showing the plan, 1-2 getting results, 1 two-year commitment.*
+That means out of an entire team, only 1-2 people are getting results.
+Because how someone does something doesn't mean you should question your own conviction on how you build it. Get together with your upline on your plan and stick to that.
+What does going platinum look like? Working hard on yourself. It is a lot of work.
+If you want your business to go platinum, you are going to have to work hard. It is going to take a lot of the 4 skills mentioned earlier to build the skills needed to gain momentum for your activity.
+Someone going platinum thinks "how much can I serve?"
+Going platinum is an unapologetic work habit. Many try to shortcut and ring-around-the-rosy, but it is just sitting down eyeball to eyeball
+You learn the skillset throu
