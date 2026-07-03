@@ -94,3 +94,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-02
 - Continuity—**Search Funds News Jun 29** succession-search launches (Perennis, AJD Partners) and ETA education; no verified new US closing tape in 24h ([Search Funds News](https://searchfundsnews.com/)). Signal: weak (daily).
+
+### 2026-07-03
+- No verified new closing tape in 24h; **search-fund upmarket bias** (future searchers targeting **$3M+ EBITDA**) and **AI-upside SMB PE** positioning remain background ([Mineola Mar 2026](https://mineolasearchpartners.com/2026/03/05/are-search-funds-moving-up-market/), [Search Fund Ventures](https://www.searchfundventures.co/)). Signal: weak (daily).

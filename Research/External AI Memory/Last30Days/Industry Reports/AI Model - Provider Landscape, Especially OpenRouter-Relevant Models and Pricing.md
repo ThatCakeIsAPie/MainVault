@@ -98,3 +98,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-02
 - Official API **2026-07-02**: **338** models; **`anthropic/claude-fable-5`** confirmed **$10/$50/M** (cache read **$1/M**); Sonnet 5 and Lyle core IDs unchanged; Fusion placeholder ([API](https://openrouter.ai/api/v1/models)). X on Fable redeploy/routing (**secondary to API**) ([Fable chatter](https://x.com/i/status/2072405997289877846)). Signal: strong (API), medium (social).
+
+### 2026-07-03
+- Official API **2026-07-03**: **340** models; **new `poolside/laguna-xs-2.1`** agentic coding model **$0.06/$0.12/M** plus **`:free`** variant (**262K** ctx, Jul 2 created stamp); Sonnet 5 **$2/$10/M**, GPT-5.5 **$5/$30/M**, DeepSeek V3.2 **$0.23/$0.34/M**; Fusion placeholder negatives ([API](https://openrouter.ai/api/v1/models)). X: open-weight/Chinese models dominate token economics; planner+judge vs cheap worker routing ([GotoNathan](https://x.com/GotoNathan/status/2072681740439617922), [stretchcloud Fusion cost](https://x.com/stretchcloud/status/2072632626268037373)). Signal: strong (API), medium (social).

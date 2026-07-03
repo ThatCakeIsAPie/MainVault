@@ -95,3 +95,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-02
 - No new US federal rulemaking in 24h; **Aspen May 2026** / **DOL Jan 2026** reports and **ESOP Association Jul 14** chapter event remain background ([Aspen](https://www.aspeninstitute.org/publications/employee-ownership-and-esops-what-we-know-from-recent-research-2026/), [ESOP events](https://www.employeeownershipfoundation.org/events)). Signal: weak (news).
+
+### 2026-07-03
+- No new US federal rulemaking detected in 24h; **DOL Feb 2026** congressional WORK report and **Aspen May 2026** EO synthesis remain authoritative references ([DOL report](https://beta.dol.gov/research-data/surveys-reports-publications/employee-ownership-initiative-report-congress), [Aspen](https://www.aspeninstitute.org/publications/employee-ownership-and-esops-what-we-know-from-recent-research-2026/)). Signal: weak (news), medium (policy docs).

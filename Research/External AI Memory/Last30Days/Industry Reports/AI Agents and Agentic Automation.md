@@ -5,7 +5,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ## Current Direction
 - Agentic automation is moving from demo bots to governed enterprise work units: scoped permissions, operational metrics, human handoff, and audit logs.
 - The strongest buying context is still vertical operational pain — contact centers, telecom operations, ERP/document workflows, internal admin, and regulated workflows.
-- Practical differentiation is shifting from raw model ability to orchestration quality: tool access, policy, evals, replay, escalation, and incident response.
+- Practical differentiation is shifting from raw model ability to orchestration quality: tool access, policy, evals, replay, escalation, incident response, and **enterprise agent inventory** (shadow agents, daily sprawl).
 - **Live model routing** (e.g. OpenRouter MCP) is becoming part of the agent stack—not optional for cost-aware production cron/delegate loops.
 - **Hosted MCP + security baselines** are now part of the default production conversation—not experimental add-ons.
 
@@ -97,3 +97,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-02
 - X/current discussion emphasized **agent governance as architecture**: least-privilege identities, audit trails, policy-as-code, tiered human gates, and **EU AI Act Aug 2026** high-risk readiness as buyer language ([governance synthesis](https://x.com/rnagulapalle/status/2072311484009599051), [permissions model](https://x.com/LearnWithBrij/status/2072293853517017288), [EU timing](https://x.com/SPrebenda/status/2072348863944368310)). **Background:** [MIT News Jun 30](https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630) on agents taking actions in the world. Signal: medium (social synthesis).
+
+### 2026-07-03
+- X signal emphasized **sovereign agentic enterprise** scaling: engineered guardrails, accountable ownership, CIO/product-team co-leadership, and **shadow-agent visibility** as enterprises add dozens of business-built agents daily ([Deliverance event](https://x.com/i/status/2072997110140612637), [Kanopy security](https://x.com/KanopySecurity/status/2072992032180605323), [CIO role](https://x.com/i/status/2072775132360343916)). Vertical launches/chatter: **Oracle Fusion SCM agentic apps**, **HeyAdmin** ([Oracle SCM](https://x.com/PrabhuKumars14/status/2072991458508915038), [HeyAdmin](https://x.com/AiThority/status/2072693905036824858)). Gartner-style **agentic arbitrage** spend-risk posts circulated—treat $ claims as unverified until primary report opened ([Hindu Biz X](https://x.com/thehindubiz/status/2072532938973941900)). Signal: medium.
