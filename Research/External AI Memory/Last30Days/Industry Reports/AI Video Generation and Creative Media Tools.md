@@ -96,3 +96,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-03
 - Still no verified strict-24h flagship launch; **Sora API sunset Sep 24, 2026** and **Veo/Kling/Runway** enterprise-vs-value framing unchanged in recent comparison content (**background**, snippet-level) ([tech-insider](https://tech-insider.org/best-ai-video-generator-2026/)). Signal: weak (daily novelty).
+
+### 2026-07-04
+- No strict-24h flagship launch; **tech-insider** comparison (crawled ~early Jul 2026) still routes production to **Veo 3.1 / Kling 3.0 / Runway** and flags **Sora API retirement Sep 24, 2026** (**background**, snippet-level) ([tech-insider](https://tech-insider.org/best-ai-video-generator-2026/)). Signal: weak (daily novelty).

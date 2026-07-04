@@ -101,3 +101,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-03
 - Official API **2026-07-03**: **340** models; **new `poolside/laguna-xs-2.1`** agentic coding model **$0.06/$0.12/M** plus **`:free`** variant (**262K** ctx, Jul 2 created stamp); Sonnet 5 **$2/$10/M**, GPT-5.5 **$5/$30/M**, DeepSeek V3.2 **$0.23/$0.34/M**; Fusion placeholder negatives ([API](https://openrouter.ai/api/v1/models)). X: open-weight/Chinese models dominate token economics; planner+judge vs cheap worker routing ([GotoNathan](https://x.com/GotoNathan/status/2072681740439617922), [stretchcloud Fusion cost](https://x.com/stretchcloud/status/2072632626268037373)). Signal: strong (API), medium (social).
+
+### 2026-07-04
+- Official API **2026-07-04**: **340** models—**stable vs prior day**; Lyle stack pricing unchanged; **Poolside Laguna XS 2.1** still newest paid coding entry; Fusion placeholder negatives ([API](https://openrouter.ai/api/v1/models)). OpenRouter **Jun 30** blog item on **DeepSeek V4 agentic token share** ([blog](https://openrouter.ai/blog/all/)). Signal: strong (API), weak (24h catalog delta).

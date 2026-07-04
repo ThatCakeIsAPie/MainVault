@@ -8,6 +8,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Practical differentiation is shifting from raw model ability to orchestration quality: tool access, policy, evals, replay, escalation, incident response, and **enterprise agent inventory** (shadow agents, daily sprawl).
 - **Live model routing** (e.g. OpenRouter MCP) is becoming part of the agent stack—not optional for cost-aware production cron/delegate loops.
 - **Hosted MCP + security baselines** are now part of the default production conversation—not experimental add-ons.
+- **Vendor governance kits** (e.g. Microsoft Agent Governance Toolkit, ServiceNow control tower) are normalizing agent inventory, policy, and kill-switch language in enterprise RFPs.
 
 ## Major Shifts to Watch
 - Enterprise platforms bundling agent builders, performance dashboards, and outcome pricing.
@@ -100,3 +101,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-03
 - X signal emphasized **sovereign agentic enterprise** scaling: engineered guardrails, accountable ownership, CIO/product-team co-leadership, and **shadow-agent visibility** as enterprises add dozens of business-built agents daily ([Deliverance event](https://x.com/i/status/2072997110140612637), [Kanopy security](https://x.com/KanopySecurity/status/2072992032180605323), [CIO role](https://x.com/i/status/2072775132360343916)). Vertical launches/chatter: **Oracle Fusion SCM agentic apps**, **HeyAdmin** ([Oracle SCM](https://x.com/PrabhuKumars14/status/2072991458508915038), [HeyAdmin](https://x.com/AiThority/status/2072693905036824858)). Gartner-style **agentic arbitrage** spend-risk posts circulated—treat $ claims as unverified until primary report opened ([Hindu Biz X](https://x.com/thehindubiz/status/2072532938973941900)). Signal: medium.
+
+### 2026-07-04
+- X emphasized **AI Agent Control Framework** elements (inventory, risk tiers, IAM, audit, kill switches) and named **Microsoft Agent Governance Toolkit** + **ServiceNow AI Control Tower** ([Dawgen](https://x.com/dawgenja/status/2072863850781704488), [Microsoft toolkit](https://x.com/gilgoldstein/status/2073332243024478489), [ServiceNow](https://x.com/pdurdenj/status/2073210506253377799)). **Gartner Jul 1** newsroom headlines on agentic AI vs enterprise software spend visible on site—primary PDF not opened ([Gartner newsroom](https://www.gartner.com/en/newsroom/press-releases/)). Signal: medium (social + snippet).

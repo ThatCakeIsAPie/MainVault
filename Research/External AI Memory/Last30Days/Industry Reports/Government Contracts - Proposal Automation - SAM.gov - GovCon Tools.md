@@ -6,6 +6,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - GovCon AI is moving toward vertical capture/proposal operating systems: SAM.gov discovery, bid alerts, fit scoring, solicitation parsing, compliance matrices, grounded drafting, pipeline tracking, and human review.
 - The most practical first wedge remains Opportunity Radar before full proposal drafting: score opportunities, extract requirements, preserve sources, and route human decisions.
 - Government-data safeguards, CUI posture, model-retention settings, and audit trails are part of the product, not optional plumbing.
+- **Third-party model routers** (OpenRouter-class) are discussed for **non-CUI** GovCon prototyping; sensitive bid/CUI paths should stay on self-hosted or gov-grade clouds.
 
 ## Major Shifts to Watch
 - Small-contractor tools marketing 24/7 SAM.gov monitoring plus compliant drafting as a lightweight alternative to GovWin-style platforms.
@@ -101,3 +102,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-03
 - **ISR due July 14** now **11 days out**; GSA **Jun 10** “SPR issues resolved” alert still active—workspace dry-run before deadline ([SAM alert](https://sam.gov/alerts/subcontracting-plan-reporting-system-issues-resolved), [esrs](https://sam.gov/esrs)). SAM opportunity snippet: **EMB Building Automation** quotes due **July 13, 2026** ([opp](https://sam.gov/opp/53db6ea88c224b4bbdf9dc17612708fa/view))—snippet-level. No verified federal AI-procurement headline in 24h; vendor GovCon automation SEO continues (background). Signal: strong (official), weak (24h vendor news).
+
+### 2026-07-04
+- **ISR due July 14** now **10 days out**; **Jun 26** increased-workspace and **Jun 10** SPR-fix alerts remain on [SAM.gov](https://sam.gov/) ([esrs](https://sam.gov/esrs), [ISR volume](https://sam.gov/alerts/isr-workspace-increased-contract-volume)). X: **OpenRouter + agent orchestration** for public-data GovCon workflows with explicit **no-CUI** boundary ([Derek Colley](https://x.com/DerekColley_/status/2073323824427184212)). Signal: strong (official), medium (architecture social).
