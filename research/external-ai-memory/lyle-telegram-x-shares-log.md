@@ -1,10 +1,10 @@
 ---
 type: note
 title: Lyle Telegram X Shares Log
-updated: '2026-07-04T00:00:00.000Z'
-effective_date: '2026-07-04T00:00:00.000Z'
+updated: '2026-07-05T00:00:00.000Z'
+effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
-ingested_at: '2026-07-04T17:51:41.044Z'
+ingested_at: '2026-07-05T13:23:59.041Z'
 source_kind: 'mcp:put_page'
 tags:
   - external-ai-memory
@@ -21,6 +21,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-07-05 | [2073037005051642038](https://x.com/i/status/2073037005051642038) | ambient; proactive steal order | [[research/raw/transcripts/lyle-x-share-2073037005051642038]] | [[research/faleth/content/segmented-buyer-psychology-sell-outcome-2026]] |
 | 2026-07-04 | [2073218889446728183](https://x.com/i/status/2073218889446728183) | @0xSero payout / ambient | [[research/raw/transcripts/lyle-x-share-2073218889446728183]] | [[research/faleth/content/x-creator-payout-impressions-signal-2026]] |
 | 2026-06-28 | [2071182764695507403](https://x.com/i/status/2071182764695507403) | mindset signal (default) | [[research/raw/transcripts/lyle-x-share-2071182764695507403]] | [[research/faleth/mindset/mindset-as-infrastructure-mental-diet-2026]] |
 | 2026-06-27 | [2070507497480454303](https://x.com/i/status/2070507497480454303) | neat fascinations policy | [[research/raw/transcripts/lyle-x-share-2070507497480454303]] | [[research/faleth/mindset/bezos-wandering-rule-invention-2026]] |
@@ -37,9 +38,10 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 ## Ingest policy
 
-- **Default (2026-07-04):** Any ambient Telegram `x.com` / Twitter link → `x_search` → raw `lyle-x-share-{id}` + **principle distillation when fascinating** + index row + short Delta takeaways in reply. No “should I save?” unless chat-only.
+- **Default (2026-07-05):** Any ambient Telegram `x.com` link → `x_search` → raw `lyle-x-share-{id}` + principle distillation when useful + index row + **Delta takeaways in reply**. **Proactive capture:** do not ask “should I save?” — steal into vault/GBrain/Honcho/AgentMemory in the same turn unless Lyle said chat-only.
+- **2026-07-04:** Log principles on fascinating/ambient shares.
 - **2026-06-28:** Mindset/strategy signal by default.
-- Tags: `lyle-x-share`, `x-ingest`; content principles under `research/faleth/content/` or `research/faleth/mindset/`.
+- Tags: `lyle-x-share`, `x-ingest`; content under `research/faleth/content/` or `research/faleth/mindset/`.
 
 ## Maintenance
 
