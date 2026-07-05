@@ -12,9 +12,9 @@ VXE is a government contracts business. It is run by Leonard (external business 
 
 | Person | Role |
 |---|---|
-| Leonard | Operator — runs the business day-to-day |
-| Brother (Lyle's) | Partner — primary liaison for Faleth Capital side; currently treating VXE as his main focus |
-| Lyle | Partner — passive; focused on Free Range Repair |
+| Leonard | Operator — runs the business day-to-day; **2026-07-05** Lyle reports pipeline picking up (commercial + gov) |
+| Brother (Lyle's) | Partner — primary liaison; **~$60k** contract pending budget pass (with Lyle) |
+| Lyle | Partner — **active on VXE again** post-layoff (~2026-06-27); **~$10k** awarded contract; runway focus ~2 months until pay |
 
 ---
 
