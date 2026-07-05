@@ -1,10 +1,10 @@
 ---
 type: note
 title: Lyle Telegram X Shares Log
-updated: '2026-07-05T00:00:00.000Z'
+updated: '2026-07-05T13:30:00.000Z'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
-ingested_at: '2026-07-05T13:23:59.041Z'
+ingested_at: '2026-07-05T13:54:55.046Z'
 source_kind: 'mcp:put_page'
 tags:
   - external-ai-memory
@@ -21,6 +21,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-07-05 | [2073649355882443207](https://x.com/i/status/2073649355882443207) | ambient; @eagleseyeinc man-to-man | [[research/raw/transcripts/lyle-x-share-2073649355882443207]] | [[research/faleth/mindset/discipline-presentation-faith-daily-stack-2026]] |
 | 2026-07-05 | [2073037005051642038](https://x.com/i/status/2073037005051642038) | ambient; proactive steal order | [[research/raw/transcripts/lyle-x-share-2073037005051642038]] | [[research/faleth/content/segmented-buyer-psychology-sell-outcome-2026]] |
 | 2026-07-04 | [2073218889446728183](https://x.com/i/status/2073218889446728183) | @0xSero payout / ambient | [[research/raw/transcripts/lyle-x-share-2073218889446728183]] | [[research/faleth/content/x-creator-payout-impressions-signal-2026]] |
 | 2026-06-28 | [2071182764695507403](https://x.com/i/status/2071182764695507403) | mindset signal (default) | [[research/raw/transcripts/lyle-x-share-2071182764695507403]] | [[research/faleth/mindset/mindset-as-infrastructure-mental-diet-2026]] |
