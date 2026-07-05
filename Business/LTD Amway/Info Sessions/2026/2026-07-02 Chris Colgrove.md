@@ -103,4 +103,4 @@ He has a fanatical fascination with growing this. He sees the growth it can prov
 There are plenty of ways to make money. But we like this way. We get to make money with our best friends. When we help our friend make money, we get a little because of that. It is nice to be part of a rising tide raising all ships.
 He is more excited about his career now, his mission now, the landscape out there to build this now.
 You can be a part of this or watch it pass you by
-![[Recording 20260702222518.m4a]]
+![[Recording-20260702-222518-16k-32k.mp3]]
