@@ -101,3 +101,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-04
 - No new US federal rulemaking in 24h; **NCEO Jan 2026** stats (~6,609 ESOPs / 15.1M participants) and **ESOP Association Jul 14** chapter event remain calendar/reference (**background**) ([NCEO](https://www.nceo.org/research/employee-ownership-by-the-numbers), [events](https://www.employeeownershipfoundation.org/events)). Signal: weak (news).
+
+### 2026-07-05
+- No new US federal rulemaking in 24h; **NCEO/DOL/Aspen** references and **ESOP Association Jul 14** event remain calendar-only (**background**) ([NCEO](https://www.nceo.org/research/employee-ownership-by-the-numbers), [events](https://www.employeeownershipfoundation.org/events)). Signal: weak (news).

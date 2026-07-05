@@ -99,3 +99,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-04
 - No corporate delta in 24h; **FTC Jan 2025** proposed **Earnings Claim Rule** for MLMs and **Apr 2026** individual-promoter enforcement remain anchors ([FTC NPRM](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-proposes-rule-changes-new-rule-deter-deceptive-earnings-claims-multilevel-marketers-money-making), [FTC Apr 2026](https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-against-high-level-mlm-participants-who-deceived-workers-about-amount-money-they)). Signal: weak (daily), strong (backdrop).
+
+### 2026-07-05
+- No Amway/LTD corporate or regulatory headline in 24h; **FTC earnings-claim rulemaking + Apr 2026 promoter order** remain compliance anchors (**background**) ([FTC NPRM](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-proposes-rule-changes-new-rule-deter-deceptive-earnings-claims-multilevel-marketers-money-making), [FTC Apr 2026](https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-against-high-level-mlm-participants-who-deceived-workers-about-amount-money-they)). Signal: weak (daily).

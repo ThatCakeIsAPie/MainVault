@@ -100,3 +100,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-04
 - No verified closing tape in 24h; **Mineola** upmarket survey and **Search Fund Ventures** SMB multiple commentary remain **background** only ([Mineola](https://mineolasearchpartners.com/2026/03/05/are-search-funds-moving-up-market/), [SFV](https://www.searchfundventures.co/)). Signal: weak (daily).
+
+### 2026-07-05
+- No verified US closing tape in 24h; **search-fund upmarket** and **AI-upside SMB PE** narratives unchanged (**background**) ([Mineola](https://mineolasearchpartners.com/2026/03/05/are-search-funds-moving-up-market/), [Search Fund Ventures](https://www.searchfundventures.co/)). Signal: weak (daily).

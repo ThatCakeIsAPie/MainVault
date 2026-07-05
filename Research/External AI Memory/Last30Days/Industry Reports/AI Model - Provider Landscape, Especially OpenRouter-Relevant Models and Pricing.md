@@ -13,6 +13,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Provider/model churn remains high; workflows need fallbacks rather than hard dependency on any one free or discounted model.
 - Activity/cost dashboards, cache-hit rate, provider reliability, and routing telemetry are becoming operational infrastructure.
 - Chinese/open models continue pressuring pricing and expanding viable cheap-agent choices.
+- **Usage mix can shift faster than catalog churn**—OpenRouter token share moving toward Chinese/open routes even when model count is flat (social telemetry).
 
 ## Faleth Relevance
 - Maintain a Faleth/OpenRouter routing policy: cheap model for classification/extraction, mid-tier for drafting, premium cached model for final reasoning/review, multimodal only when required.
@@ -104,3 +105,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-04
 - Official API **2026-07-04**: **340** models—**stable vs prior day**; Lyle stack pricing unchanged; **Poolside Laguna XS 2.1** still newest paid coding entry; Fusion placeholder negatives ([API](https://openrouter.ai/api/v1/models)). OpenRouter **Jun 30** blog item on **DeepSeek V4 agentic token share** ([blog](https://openrouter.ai/blog/all/)). Signal: strong (API), weak (24h catalog delta).
+
+### 2026-07-05
+- Official API **2026-07-05**: **340** models, **26** free variants—**stable**; Lyle stack + Laguna XS 2.1 pricing unchanged; Fusion placeholder negatives ([API](https://openrouter.ai/api/v1/models)). X: **Chinese-model token share** growth on OpenRouter and **LongCat 2.0 / “Alpha”** leaderboard chatter—**social-level** ([token share](https://x.com/ddkarakullukcu/status/2073722739924312212), [LongCat](https://x.com/JulianGoldieSEO/status/2073723031344849225)). Signal: strong (API), medium (usage narrative).

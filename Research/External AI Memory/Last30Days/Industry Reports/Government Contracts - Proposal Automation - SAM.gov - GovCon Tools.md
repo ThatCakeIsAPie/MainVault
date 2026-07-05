@@ -105,3 +105,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-04
 - **ISR due July 14** now **10 days out**; **Jun 26** increased-workspace and **Jun 10** SPR-fix alerts remain on [SAM.gov](https://sam.gov/) ([esrs](https://sam.gov/esrs), [ISR volume](https://sam.gov/alerts/isr-workspace-increased-contract-volume)). X: **OpenRouter + agent orchestration** for public-data GovCon workflows with explicit **no-CUI** boundary ([Derek Colley](https://x.com/DerekColley_/status/2073323824427184212)). Signal: strong (official), medium (architecture social).
+
+### 2026-07-05
+- **ISR due July 14** now **9 days out**; SAM **Jun 26** / **Jun 10** alerts unchanged ([SAM](https://sam.gov/), [esrs](https://sam.gov/esrs)). X: **Polsia/BidForge** contract-matching automation and **CMMC/secure AI** contractor messaging—no verified federal rule change ([BidForge](https://x.com/polsia/status/2073271764155810221), [Greypike CMMC](https://x.com/GreypikeCMMC/status/2073422330810839410)). Signal: strong (official), medium (social).

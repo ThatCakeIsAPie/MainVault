@@ -104,3 +104,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-04
 - X emphasized **AI Agent Control Framework** elements (inventory, risk tiers, IAM, audit, kill switches) and named **Microsoft Agent Governance Toolkit** + **ServiceNow AI Control Tower** ([Dawgen](https://x.com/dawgenja/status/2072863850781704488), [Microsoft toolkit](https://x.com/gilgoldstein/status/2073332243024478489), [ServiceNow](https://x.com/pdurdenj/status/2073210506253377799)). **Gartner Jul 1** newsroom headlines on agentic AI vs enterprise software spend visible on site—primary PDF not opened ([Gartner newsroom](https://www.gartner.com/en/newsroom/press-releases/)). Signal: medium (social + snippet).
+
+### 2026-07-05
+- X reinforced **production agent primitives**: tiered memory, permissions, audit logs, circuit breakers/budget limits, and **MCP/OpenConnector-class** integrations over prompt-only agents ([guardrails](https://x.com/0XBLOK1/status/2073715826167783647), [memory](https://x.com/ai_nikusha/status/2073723642119110819), [OpenConnector](https://x.com/OomolStudio/status/2073241137880404175)). Viral **OpenAI/U.S. government equity** discussion on X—**unverified** ([Ric_RTP](https://x.com/Ric_RTP/status/2073402010452320344)). Signal: medium (builder theme); weak (gov-equity rumor).
