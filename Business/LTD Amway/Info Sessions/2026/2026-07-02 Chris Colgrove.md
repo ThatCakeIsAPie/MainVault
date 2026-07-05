@@ -96,4 +96,11 @@ What does going platinum look like? Working hard on yourself. It is a lot of wor
 If you want your business to go platinum, you are going to have to work hard. It is going to take a lot of the 4 skills mentioned earlier to build the skills needed to gain momentum for your activity.
 Someone going platinum thinks "how much can I serve?"
 Going platinum is an unapologetic work habit. Many try to shortcut and ring-around-the-rosy, but it is just sitting down eyeball to eyeball
-You learn the skillset throu
+You learn the skillset through sheer blunt force trauma
+"You mean I have to do all of this?" What were you expecting? Where else are you going to learn the skillset of networking and sales without actually doing it and replace your income?
+You think reading and attending alone is going to do it? You need those to make the work effective, and the work to make those things meaningful.
+He has a fanatical fascination with growing this. He sees the growth it can provide.
+There are plenty of ways to make money. But we like this way. We get to make money with our best friends. When we help our friend make money, we get a little because of that. It is nice to be part of a rising tide raising all ships.
+He is more excited about his career now, his mission now, the landscape out there to build this now.
+You can be a part of this or watch it pass you by
+![[Recording 20260702222518.m4a]]
