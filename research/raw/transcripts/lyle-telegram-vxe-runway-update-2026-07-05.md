@@ -28,3 +28,16 @@ Lyle had not previously told Delta he no longer works the day job. **Laid off** 
 ## Delta note
 
 Reconciles with 2026-06-28 layoff transcript (mass reduction) — Lyle clarifies **exact Friday** and emphasizes **Leonard conversation + deal acceleration** vs prior “game bridge” emphasis.
+
+## Follow-on (same day) — pipeline upside + bridge framing
+
+**In flight (two additional deals):**
+- Deal A: **~$150k** if closed (Lyle estimate).
+- Deal B: value **TBD**; **BOM ~3×** the reference deal; Lyle speculates **~2×** revenue vs that reference because **no large equipment rentals** (margin/structure different from rental-heavy deal).
+
+**Runway:** Lyle has **ways to cover enough runway** — treats that income as **temporary**; **primary play** = VXE/GovCon payments landing (not building a parallel long-term income engine right now).
+
+## Follow-on — ~$150k deal win thesis + fulfillment cost
+
+- **~$150k deal:** Team **expects to win** — edge = **extremely tight deadlines** + **sheer volume of work** (competitors likely pass or fail).
+- **Cost:** Lyle anticipates **~1 month of hell** during fulfillment (intensity spike, not a new lifestyle).
