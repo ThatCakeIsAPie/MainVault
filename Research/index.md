@@ -101,3 +101,12 @@
 - [[heart-upstream-of-identity-theological-horticulture]] — Theological horticulture metaphor: heart/root upstream of identity and behavior/fruit.
 - [[how-ltd-amway-functions-as-leadership-incubator]] — Explains how LTD Amway develops leadership through mentorship, duplication, environment, and sweat equity.
 - [[trust-as-root-of-business-systems]] — Synthesizes trust as the root asset beneath compensation, mentorship, delegation, governance, sales, and culture.
+
+## X bookmark principles (2026-07-09)
+
+- [[faleth/process/frontier-model-cost-speed-tradeoff-2026]] — SWE-1.7 cost/speed signal for agent stacks
+- [[faleth/process/hermes-agent-long-horizon-codebases-2026]] — Hermes on huge legacy codebases
+- [[faleth/content/hermes-grok-x-content-machine-2026]] — automated X content machine packaging
+- [[faleth/process/llm-foundations-skill-stack-2026]] — CS229 foundations as future curriculum
+- [[faleth/process/agentic-loops-design-2026]] — Anthropic four loop types (prior + re-indexed)
+

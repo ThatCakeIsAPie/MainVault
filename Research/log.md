@@ -166,3 +166,13 @@
 - Frontmatter: `Research/Ideas/Faleth Capital — System Overview & Takeaways.md`, `Research/Plans/akash-hermes-deployment.md`.
 - Raw provenance on 2026-06-11/13/18 transcripts, 2026-06-12/19 reflections, `claude-memory-2026-05-16.md`.
 - Refreshed `Research/VALIDATION-REPORT.md` (352 files, 2 info issues).
+
+
+## [2026-07-09] ingest | X bookmarks top-5 (post-OAuth)
+
+- Channel: xurl bookmarks API as @LyleBCole
+- Raw: research/raw/transcripts/lyle-x-share-{5 ids} + research/raw/x-bookmarks/2026-07-09/
+- Principles created: faleth/process/frontier-model-cost-speed-tradeoff-2026, hermes-agent-long-horizon-codebases-2026, llm-foundations-skill-stack-2026; faleth/content/hermes-grok-x-content-machine-2026
+- Existing principle linked: faleth/process/agentic-loops-design-2026
+- Index: external-ai-memory/lyle-telegram-x-shares-log updated
+- Ledger: ~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json
