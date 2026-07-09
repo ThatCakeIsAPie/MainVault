@@ -181,3 +181,7 @@
 ## [2026-07-09] ingest | UX psychology video (uxpeak, ambient YT)
 - Raw: research/raw/transcripts/lyle-yt-ux-psychology-apps-2TlIg3VokY8.md (partial — bot-blocked full captions)
 - Principle: research/faleth/process/ux-psychology-decision-defaults-progress-2026.md
+## [2026-07-09] ingest | Faleth document review + sanctioning architecture (Fable 5 session)
+- Business: Business/Faleth Capital/2026-07-09 Faleth Document Review and Sanctioning Architecture.md
+- Research: Research/faleth/governance/document-review-sanctioning-architecture-2026-07-09.md
+- Status: open decisions (removal key, warranty, employment counsel)
