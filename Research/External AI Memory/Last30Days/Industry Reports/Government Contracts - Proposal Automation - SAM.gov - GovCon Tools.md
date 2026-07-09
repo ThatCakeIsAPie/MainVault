@@ -108,3 +108,15 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-05
 - **ISR due July 14** now **9 days out**; SAM **Jun 26** / **Jun 10** alerts unchanged ([SAM](https://sam.gov/), [esrs](https://sam.gov/esrs)). X: **Polsia/BidForge** contract-matching automation and **CMMC/secure AI** contractor messaging—no verified federal rule change ([BidForge](https://x.com/polsia/status/2073271764155810221), [Greypike CMMC](https://x.com/GreypikeCMMC/status/2073422330810839410)). Signal: strong (official), medium (social).
+
+### 2026-07-06
+- **ISR due July 14** now **8 days out**; [SAM.gov/esrs](https://sam.gov/esrs) messaging unchanged ([announcements](https://sam.gov/announcements)). X (Jul 5): **Polsia/BidForge** SAM/RFP monitoring + draft automation; **Mesh API** zero-fee agentic routing positioned vs OpenRouter ([Polsia](https://x.com/polsia/status/2073748275564564654), [Mesh](https://x.com/meshapi_ai/status/2073836355487174685)). Signal: strong (official), medium (vendor social).
+
+### 2026-07-07
+- **ISR due July 14** now **7 days out**; SAM **Jun 10/Jun 26** subcontracting alerts unchanged ([esrs](https://sam.gov/esrs), [announcements](https://sam.gov/announcements)). No verified federal rule change in 24h; vendor proposal-automation SEO continues (**background**). Signal: strong (official deadline); weak (new policy).
+
+### 2026-07-08
+- **ISR due July 14** now **6 days out**; [SAM.gov/esrs](https://sam.gov/esrs) messaging unchanged; SAM home re-crawled **2026-07-08** ([announcements](https://sam.gov/announcements)). No verified federal rule change in 24h. Signal: strong (official deadline); weak (new policy).
+
+### 2026-07-09
+- **ISR due July 14** now **5 days out**; SAM home re-crawled **2026-07-09**; Jun 10/Jun 26 subcontracting alerts unchanged ([esrs](https://sam.gov/esrs), [announcements](https://sam.gov/announcements)). X: **bid-monitoring agents**, **Arkenstone $35M** public-sector AI, **Senate DoD/big-tech AI contract transparency** chatter—**social-level** ([Polsia](https://x.com/polsia/status/2074799888588853537), [Ventureburn](https://x.com/Ventureburn/status/2074835538746732988), [tokenizedwolf](https://x.com/tokenizedwolf/status/2075011630694371506)). Signal: strong (official); medium (social).

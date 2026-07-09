@@ -104,3 +104,15 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-05
 - No new US federal rulemaking in 24h; **NCEO/DOL/Aspen** references and **ESOP Association Jul 14** event remain calendar-only (**background**) ([NCEO](https://www.nceo.org/research/employee-ownership-by-the-numbers), [events](https://www.employeeownershipfoundation.org/events)). Signal: weak (news).
+
+### 2026-07-06
+- No new US federal rulemaking in 24h; **Jul 14** PA/DE ESOP chapter event approaches; **DOL Jan 2026** congressional report remains reference (**background**) ([events](https://www.employeeownershipfoundation.org/events), [DOL report](https://beta.dol.gov/system/files/research-data/2026-02/employee-ownership-report-to-congress.pdf)). Signal: weak (news).
+
+### 2026-07-07
+- No new US federal rulemaking in 24h; **DOL WORK** initiative materials and **Aspen May 2026** EO research remain reference (**background**) ([DOL](https://beta.dol.gov/research-data/surveys-reports-publications/employee-ownership-initiative-report-congress), [Aspen](https://www.aspeninstitute.org/publications/employee-ownership-and-esops-what-we-know-from-recent-research-2026/)). **Jul 14** regional ESOP event on calendar. Signal: weak (news).
+
+### 2026-07-08
+- **Menke Group Jul 6** article on **ESOP lender flexibility** re-crawled Jul 7—**background**, not new federal rulemaking ([Menke](https://www.menke.com/esop-archives/esop-financing-lending-legislation-2026/)). Signal: weak (news); medium (financing trend).
+
+### 2026-07-09
+- **Menke Jul 6** ESOP financing flexibility narrative still active (**Jul 9** crawl); **Jul 14** PA/DE ESOP chapter event on calendar ([Menke](https://www.menke.com/esop-archives/esop-financing-lending-legislation-2026/), [events](https://www.employeeownershipfoundation.org/events)). No new US federal rulemaking in 24h. Signal: weak (news); medium (calendar).

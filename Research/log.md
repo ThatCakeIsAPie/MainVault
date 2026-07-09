@@ -176,3 +176,8 @@
 - Existing principle linked: faleth/process/agentic-loops-design-2026
 - Index: external-ai-memory/lyle-telegram-x-shares-log updated
 - Ledger: ~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json
+
+
+## [2026-07-09] ingest | UX psychology video (uxpeak, ambient YT)
+- Raw: research/raw/transcripts/lyle-yt-ux-psychology-apps-2TlIg3VokY8.md (partial — bot-blocked full captions)
+- Principle: research/faleth/process/ux-psychology-decision-defaults-progress-2026.md

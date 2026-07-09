@@ -102,3 +102,15 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-05
 - No verified strict-24h flagship launch; **tech-insider** roundup (crawled 2026-07-05) continues **Kling 3.0 / Veo 3.1 / Runway** production framing and **Sora wind-down** (**background**, snippet-level) ([tech-insider](https://tech-insider.org/best-ai-video-generator-2026/)). Signal: weak (daily novelty).
+
+### 2026-07-06
+- No verified strict-24h flagship launch; comparison crawlers refreshed through early Jul 2026; **Sora API Sep 24, 2026** sunset remains migration pressure (**background**, snippet-level) ([tech-insider](https://tech-insider.org/best-ai-video-generator-2026/)). Signal: weak (daily novelty).
+
+### 2026-07-07
+- No verified strict-24h flagship launch; **Kling VIDEO 3.0 Omni** vendor positioning (Jun 26) and **Jul 6–7** comparison crawls still default to **Kling / Veo / Runway** (**background**, snippet-level) ([Kling blog](https://kling.ai/blog/best-ai-video-generator-2026-kling-ai), [tech-insider](https://tech-insider.org/best-ai-video-generator-2026/)). Signal: weak (daily novelty).
+
+### 2026-07-08
+- **Jul 7 X** claims **Meta Muse Video** strong text-to-video arena placement—**social-level** ([arena chatter](https://x.com/ml_angelopoulos/status/2074594440413634758)); no verified API/tier change in 24h. **Sora API Sep 24, 2026** sunset remains **background**. Signal: weak (verified launches); medium (social competitive narrative).
+
+### 2026-07-09
+- **Kling** and **diyai** comparison crawls refreshed **2026-07-09**; production routing still **Veo 3.1 / Kling 3.0 / Runway**; **Sora discontinuation** guidance unchanged (**background**, snippet-level) ([Kling](https://kling.ai/blog/best-ai-video-generator-2026-kling-ai), [diyai](https://diyai.io/ai-tools/video-generation/best-ai-video-tools/)). No verified strict-24h flagship launch. Signal: weak (daily novelty).

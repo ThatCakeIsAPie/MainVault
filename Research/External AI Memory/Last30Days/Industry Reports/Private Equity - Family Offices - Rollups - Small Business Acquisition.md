@@ -103,3 +103,15 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-05
 - No verified US closing tape in 24h; **search-fund upmarket** and **AI-upside SMB PE** narratives unchanged (**background**) ([Mineola](https://mineolasearchpartners.com/2026/03/05/are-search-funds-moving-up-market/), [Search Fund Ventures](https://www.searchfundventures.co/)). Signal: weak (daily).
+
+### 2026-07-06
+- No verified closing tape in 24h; **Stanford 2026 Search Fund Study** and **search-fund upmarket** survey remain reference-only (**background**) ([Stanford CES](https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds), [Mineola](https://mineolasearchpartners.com/2026/03/05/are-search-funds-moving-up-market/)). Signal: weak (daily).
+
+### 2026-07-07
+- No verified closing tape in 24h; **family-office direct acquire** guides refreshed Jun–Jul 2026 (**background**) ([CT Acquisitions](https://ctacquisitions.com/guides/family-offices-acquiring-businesses-2026/)). Signal: weak (daily).
+
+### 2026-07-08
+- **Jul 7 X** operator stories: **HVAC roll-up platform** and **micro-acquisition** persistence—**social-level**, no verified closing tape ([HVAC](https://x.com/PrivatEquityGuy/status/2074633812399857778), [laundromat](https://x.com/Codie_Sanchez/status/2074487136691142980)). Signal: weak (verified deals); medium (narrative).
+
+### 2026-07-09
+- **Search-fund upmarket** survey and **2026 ETA primer** content refreshed **Jul 9** crawls—**background**; no verified US closing tape in 24h ([Mineola](https://mineolasearchpartners.com/2026/03/05/are-search-funds-moving-up-market/), [Search Funds News](https://searchfundsnews.com/the-sf-model-in-2026-a-modern-path-to-eta/)). Signal: weak (daily).

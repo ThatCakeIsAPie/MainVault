@@ -45,10 +45,11 @@ This file tracks which source notes and folders have already been reviewed for p
 
 - **2026-06-28** — Vault linking pass (discretionary, high-signal only): `Research/index.md` (offshoots, Faleth mindset & transition, Personal vision); cross-links among `Research/faleth/` mindset and bridge pages; `Personal/Dream Compound Vision.md`; subsidiary AI Reference wiki sections; `Research/business/vxe/full-time-transition-research-2026.md`; transcript backlinks from transition/game-bridge pages. **Not** full principle extraction; **did not** bulk-link Last30Days daily industry debriefs.
 
-## Notes
-- Source files remain in their original locations.
-- Only high-signal patterns are extracted into principles.
-- Tracker is append-only for future extractions.
+- **2026-07-05** — `Business/LTD Amway/Info Sessions/2026/2026-07-02 Chris Colgrove.md` + audio `Recording 20260702222518.m4a` (Chris Colgrove + Zach/Ana Matsumoto); distillate `Research/ltd-amway/info-sessions/2026-07-02-chris-colgrove-zach-ana-distillate.md`; full ASR transcript delegated.
+
+## Vault hygiene
+
+- **2026-07-05** — Merged root `faleth/` → `Research/faleth/` (newer mtimes); removed root `faleth/` + `research/` (GBrain write-through orphans). Re-spawn from `mcp_gbrain_put_page` requires immediate mv to `Research/`.
 - **2026-06-04** — Business/LTD Amway full corpus review (Info Sessions + Conferences & Events + Others)
   - Re-checked 98 LTD Amway notes against the current principle wiki
   - Confirmed existing hierarchy: leadership development, mentorship, duplication, sweat equity, asset creation, purpose/vision, environment, character, awareness

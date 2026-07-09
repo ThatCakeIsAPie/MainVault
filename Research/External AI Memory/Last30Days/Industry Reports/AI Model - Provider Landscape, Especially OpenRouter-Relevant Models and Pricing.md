@@ -7,6 +7,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - OpenRouter-style aggregation makes cheap long-context models practical for triage/extraction/drafting, while premium models remain useful for final reasoning and high-stakes review.
 - Compound/router products such as Fusion need separate cost accounting because headline placeholder rows do not equal effective cost.
 - Prompt-cache and response-cache visibility should become part of every recurring agent workflow budget.
+- **MCP-native routing** on aggregators (OpenRouter-class) is becoming the default interface for agent tool loops—not a side integration.
 
 ## Major Shifts to Watch
 - Promotional cache pricing and cheap large-context models are becoming decisive for agent loops and recurring research jobs.
@@ -108,3 +109,15 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-05
 - Official API **2026-07-05**: **340** models, **26** free variants—**stable**; Lyle stack + Laguna XS 2.1 pricing unchanged; Fusion placeholder negatives ([API](https://openrouter.ai/api/v1/models)). X: **Chinese-model token share** growth on OpenRouter and **LongCat 2.0 / “Alpha”** leaderboard chatter—**social-level** ([token share](https://x.com/ddkarakullukcu/status/2073722739924312212), [LongCat](https://x.com/JulianGoldieSEO/status/2073723031344849225)). Signal: strong (API), medium (usage narrative).
+
+### 2026-07-06
+- Official API **2026-07-06**: **340** models—**stable**; Lyle stack unchanged (Sonnet 5 **$2/$10/M**, GPT-5.5 **$5/$30/M**, DeepSeek V3.2 **$0.23/$0.34/M**, Laguna XS 2.1 **$0.06/$0.12/M**); **26** free variants; Fusion placeholder negatives ([API](https://openrouter.ai/api/v1/models)). X: OpenRouter **MCP routing** promo (up to **24×** savings cited) plus **GLM-5.2** / **Fugu Ultra** pricing chatter—**social-level** until API IDs appear ([OpenRouter](https://x.com/OpenRouter/status/2073811537567867029), [GLM](https://x.com/grok/status/2073565912179847296), [Fugu](https://x.com/PonderoAI/status/2073772739827990624)). Signal: strong (API), medium (MCP narrative).
+
+### 2026-07-07
+- Official API **2026-07-07**: **343** models (**+3**); **new** `tencent/hy3` **$0.20/$0.80/M** and **`tencent/hy3:free`**; **`sakana/fugu-ultra`** listed **$5/$30/M**; Lyle stack pricing **unchanged** ([API](https://openrouter.ai/api/v1/models)). X: Chinese-model **volume share** on OpenRouter—**social-level** ([thread](https://x.com/thehypedotnews/status/2074244462478303740)). Signal: strong (API delta); medium (usage narrative).
+
+### 2026-07-08
+- Official API **2026-07-08**: **343** models—**stable**; Lyle stack unchanged; **`tencent/hy3:free`** still **$0/$0** per API ([API](https://openrouter.ai/api/v1/models)). X: **`hy3:free`** promo chatter (Jul 21 end cited—**social-level**) ([HY3](https://x.com/i/status/2074766296596525121)). Signal: strong (API); medium (promo narrative).
+
+### 2026-07-09
+- Official API **2026-07-09**: **343** models—**stable**; Lyle stack unchanged (`claude-sonnet-5` **$2/$10/M**, `gpt-5.5` **$5/$30/M**, `deepseek-v3.2` **$0.23/$0.34/M**, `laguna-xs-2.1` **$0.06/$0.12/M**, `hy3:free` **$0/$0**); **`deepseek/deepseek-v4-flash`** **$0.09/$0.18/M** ([API](https://openrouter.ai/api/v1/models)). X: **agentic token share** and **HY3:free** tool-calling recommendations—**social-level** ([TeksCreate](https://x.com/TeksCreate/status/2075116705102061722), [SingularLab](https://x.com/SingularLabNews/status/2075161901558886498)). Signal: strong (API); medium (usage narrative).

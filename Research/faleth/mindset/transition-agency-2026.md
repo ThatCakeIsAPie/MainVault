@@ -2,9 +2,9 @@
 type: principle
 title: Transition Mindset - Agency Over Waiting (2026)
 status: active
-updated: '2026-06-28T00:00:00.000Z'
+updated: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
-ingested_at: '2026-06-28T13:44:50.939Z'
+ingested_at: '2026-07-05T14:07:58.697Z'
 source_kind: 'mcp:put_page'
 tags:
   - agency
@@ -13,61 +13,56 @@ tags:
   - leverage
   - mindset
   - transition
+  - vxe
 ---
 
 # Transition Mindset - Agency Over Waiting (2026)
 
 **Core Decision**: After repeated delays ("2-3 months away" for over a year) on the government contracts timeline, Lyle chose to stop relying on external processes and build his own path.
 
+## Status update — 2026-07-05 (employment + VXE runway)
+
+- **No longer at day job.** Layoff ~**2026-06-27** (mass reduction).
+- **Leonard / VXE:** Commercial + government deals active.
+- **Awarded / queued:** **~$10k** awarded (Lyle); **~$60k** Lyle + brother (budget queue).
+- **In flight:**
+  - **~$150k deal** — **high win confidence**: extreme **deadline tightness** + **volume of work** screens out weaker bidders. **Fulfillment:** Lyle expects **~1 month “hell”** sprint if won — bounded intensity, not permanent grind.
+  - **Large BOM deal** — TBD $; BOM ~3× reference; ~2× revenue guess (less rental-heavy).
+- **Unemployment:** Applied; waiting.
+- **Bridge income:** Temporary runway only; **main play** = VXE/GovCon pay.
+- **Frame:** Win the ugly work; don’t let hell-month erase God → wife → kids ordering.
+
+Raw: [[research/raw/transcripts/lyle-telegram-vxe-runway-update-2026-07-05]]
+
 ## Status update — 2026-06-28 (mass layoff)
 
-- Lyle was laid off in a **company-wide reduction** (not a performance exit).
-- **Theological / personal read:** Day job **served its purpose** (helped catch up on finances); feels like confirmation of the transition already planned.
-- Was intending to go **full-time on government contracts** within a few months — layoff **accelerates** the calendar, not a new direction.
-- **Emotional state:** Not worried; **excited**; told brother; describes feeling **free**.
-- **Schedule shift:** Employer-mandated sleep/wake rhythm no longer applies. Priority = **ship GovCon/Faleth work**; sleep flex (naps, irregular hours, caffeine) as tools — founder-owned clock.
-
-Raw: [[research/raw/transcripts/lyle-layoff-day-job-served-purpose-2026-06-28]]
+- Company-wide reduction; job **served its purpose** (finances catch-up); planned GovCon full-time anyway — layoff **accelerates** calendar.
+- **Excited / free**; told brother; founder-owned schedule.
 
 ## Key Beliefs
 
-- Waiting on slow external timelines has become demotivating and unsustainable.
-- Building something himself (even with risk) is preferable to continued dependence.
-- Past failures at going independent do not disqualify future attempts — willingness to swing hard is part of the process.
-- The goal is to create leverage and optionality, not to build a permanent services business.
-- **2026-06-28:** External employer constraint removed; obedience = full effort on GovCon pipeline + systems, identity still in Christ (not this week's contract wins).
+- Agency over waiting on external timelines.
+- Temporary runway fillers = **nitrous**; VXE settlement = **rocket** — don’t spawn a second company from bridge gigs.
+- **Process bedrock:** Willingness to absorb **volume + deadline pain** is the moat — but sprint must **end** (hell-month is a phase).
+- **Identity in Christ**, not contract wins as thermostat.
 
 ## Context
 
-- Multiple competing obligations still apply (relationship, Amway, counseling, church).
-- ~~Day job provides zero leverage~~ **Day job ended 2026-06-28** via mass layoff.
-- Automation services bridge remains **optional accelerator** if runway or cash-flow needs it — not the only path now that time is unlocked.
-- Finances: job era credited with **catch-up**; monitor runway as GovCon ramps.
-- **GovCon cash (2026-06-28):** **2 deals closed**; payment in **~2–3 months** after vendor completes work (trusted vendor from prior company). Gap = **bridge**, not pipeline panic.
-- **Bridge focus:** Finish **indie game** in parallel (see [[faleth/bridge-strategy/game-finish-bridge-2026]]); automation-services bridge deprioritized unless runway demands it.
+- Obligations: relationship, Amway, counseling, church.
+- **Pipeline (rough):** ~$70k near + **$150k** likely + large BOM upside — fulfillment lag still applies.
+- Automation services bridge **on hold**.
 
-## Related
+## Life priority stack
 
-- [[faleth/mindset/three-ps-motivation-2026]]
-- [[faleth/bridge-strategy/game-finish-bridge-2026]]
-- [[faleth/bridge-strategy/automation-services-2026]]
-- [[faleth/mindset/mindset-as-infrastructure-mental-diet-2026]]
-- [[faleth/biography-operating-system]]
-- [[offshoots/transition-comparison-insecurity-and-surrendered-control]]
-- [[research/raw/transcripts/lyle-layoff-day-job-served-purpose-2026-06-28]]
-- [[research/raw/transcripts/lyle-govcon-gap-game-bridge-2026-06-28]]
-
-## Life priority stack (2026-06-28)
-
-God → wife → kids → business → everything else. GovCon/Faleth **business** is fourth — not first, despite founder-hour flexibility.
-
-## Admin (2026-06-28)
-
-- Unemployment filing planned **morning of 2026-06-29**.
-- Medical benefits via **LTD partner company** — not dependent on ex-employer COBRA for core coverage.
+God → wife → kids → business → everything else.
 
 ## Operating reminders (Delta)
 
-- **Work like it all depends on you:** GovCon email pipeline, proposals, Zoho, Hermes automation — first 30-day KPIs worth naming explicitly.
-- **Pray like it all depends on God:** Excitement is fuel; don't let hustle schedule become the new scoreboard god.
-- Protect **wife/kids** blocks even without an employer alarm clock — priorities 2–3 stay above business.
+- **Pre-hell-month:** pre-negotiate wife/kids **non-negotiable blocks** before award drops.
+- **During hell-month:** systems + Leonard + brother delegation — Lyle is throughput, not sole hero.
+- **After:** mandatory decompression week; don’t stack bridge gigs on the back of the sprint without counting the cost.
+
+## Related
+
+- [[faleth/bridge-strategy/automation-services-2026]]
+- [[research/business/vxe/full-time-transition-research-2026]]

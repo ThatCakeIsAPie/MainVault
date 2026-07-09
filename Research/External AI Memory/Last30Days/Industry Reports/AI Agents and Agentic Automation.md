@@ -9,6 +9,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - **Live model routing** (e.g. OpenRouter MCP) is becoming part of the agent stack—not optional for cost-aware production cron/delegate loops.
 - **Hosted MCP + security baselines** are now part of the default production conversation—not experimental add-ons.
 - **Vendor governance kits** (e.g. Microsoft Agent Governance Toolkit, ServiceNow control tower) are normalizing agent inventory, policy, and kill-switch language in enterprise RFPs.
+- **Hyperscaler “embedded deployment” units** (e.g. Microsoft’s Jul 2026 Frontier program) treat agent rollout as measurable onsite services—not just software licenses.
 
 ## Major Shifts to Watch
 - Enterprise platforms bundling agent builders, performance dashboards, and outcome pricing.
@@ -107,3 +108,15 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-05
 - X reinforced **production agent primitives**: tiered memory, permissions, audit logs, circuit breakers/budget limits, and **MCP/OpenConnector-class** integrations over prompt-only agents ([guardrails](https://x.com/0XBLOK1/status/2073715826167783647), [memory](https://x.com/ai_nikusha/status/2073723642119110819), [OpenConnector](https://x.com/OomolStudio/status/2073241137880404175)). Viral **OpenAI/U.S. government equity** discussion on X—**unverified** ([Ric_RTP](https://x.com/Ric_RTP/status/2073402010452320344)). Signal: medium (builder theme); weak (gov-equity rumor).
+
+### 2026-07-06
+- **Microsoft $2.5B Frontier** implementation unit (Jul 4) embeds deployment specialists inside enterprises for measurable AI outcomes ([coininsider](https://www.coininsider.com/news/microsoft-launches-2-5-billion-frontier-company-for-ai-deployment), [agentic.ai](https://agentic.ai/news)). Week **Jun 29–Jul 5** launch cadence includes **MCP builders**, **Jamf AI Governance**, **SnapLogic MCP Builder GA**, and **agent payments** products. Signal: medium (week window); incremental in strict 24h.
+
+### 2026-07-07
+- **Thin strict-24h launch tape** on [agentic.ai](https://agentic.ai/news) (Jul 6 week section light); Jul 7 crawls reinforce **MCP as enterprise USB** and **Forrester 30% vendor MCP server** prediction (**snippet-level**) ([Insentra](https://www.insentragroup.com/us/insights/not-geek-speak/generative-ai/agentic-ai-takes-the-wheel-a-deep-dive-into-2026/)). **Background:** Microsoft Frontier deployment unit (Jul 4). Signal: weak (24h launches); medium (governance continuity).
+
+### 2026-07-08
+- **Automation Anywhere A3.9** documents **MCP inbound** (cloud) for triggering task bots/API tasks with RBAC + audit (**snippet-level**) ([AA MCP inbound](https://community.automationanywhere.com/pathfinder-blog-85009/march-2026-product-club-mcp-inbound-support-91245)); refreshed **MCP enterprise security** analysis (**Jul 8** crawl) ([LangProtect](https://www.langprotect.com/blog/mcp-security-enterprise-guide)). [agentic.ai](https://agentic.ai/news) Jul 6–12 week still **Jul 6-dated** launches. Signal: medium (MCP production narrative); weak (strict-24h launches).
+
+### 2026-07-09
+- X (**Jul 8–9**) emphasized **OpenRouter-backed agentic loops** (cost-per-loop routing) and **GovCon bid/permit monitoring agents** ([Polsia](https://x.com/polsia/status/2074799888588853537), [TeksCreate](https://x.com/TeksCreate/status/2075116705102061722)); **open contracting** reminder that structured data + human review still gate procurement AI ([opencontracting](https://x.com/opencontracting/status/2074890183271420412)). No verified strict-24h enterprise agent SKU launch. Signal: medium (social); weak (24h launches).
