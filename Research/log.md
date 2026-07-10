@@ -185,3 +185,21 @@
 - Business: Business/Faleth Capital/2026-07-09 Faleth Document Review and Sanctioning Architecture.md
 - Research: Research/faleth/governance/document-review-sanctioning-architecture-2026-07-09.md
 - Status: open decisions (removal key, warranty, employment counsel)
+
+
+## [2026-07-10] ingest | X bookmarks daily batch (25)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collect_x_bookmarks.py)
+- Fetched 50; already in ledger 5; new available 45; processed this run **25** (output cap); truncated remainder 20
+- Raw: `Research/raw/x-bookmarks/2026-07-10/<id>.md` × 25
+- Principles **created**:
+  - faleth/mindset/open-loops-cognitive-drain-2026
+  - faleth/mindset/first-step-fear-to-problem-solving-2026
+  - faleth/mindset/post-hardship-quantum-leaps-2026
+  - faleth/process/hermes-cloud-and-x-mcp-2026
+  - faleth/process/local-model-ownership-agency-2026
+- Principles **updated**: faleth/process/llm-foundations-skill-stack-2026 (+ free practitioner course source)
+- Index: Research/index.md (mindset + process sections)
+- Shares log: external-ai-memory/lyle-telegram-x-shares-log.md
+- Skipped wiki (raw only): jokes/memes, pure media, romance, contested Fable-5 leak, short reply, hype RE video; re-bookmarks of existing buyer psych / discipline stack / X payout
+- Ledger: ~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json (+25 IDs)

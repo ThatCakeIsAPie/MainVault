@@ -1,7 +1,7 @@
 ---
 type: note
 title: Lyle Telegram X Shares Log
-updated: '2026-07-09T17:30:00.000Z'
+updated: '2026-07-10T05:35:00.000Z'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -21,6 +21,13 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-07-10 | [2075058629301198853](https://x.com/i/status/2075058629301198853) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-07-10/2075058629301198853]] | [[research/faleth/mindset/open-loops-cognitive-drain-2026]] |
+| 2026-07-10 | [2074878754485043333](https://x.com/i/status/2074878754485043333) + [2071752389183647758](https://x.com/i/status/2071752389183647758) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-07-10/2074878754485043333]] · [[research/raw/x-bookmarks/2026-07-10/2071752389183647758]] | [[research/faleth/process/hermes-cloud-and-x-mcp-2026]] |
+| 2026-07-10 | [2072808215298117931](https://x.com/i/status/2072808215298117931) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-07-10/2072808215298117931]] | [[research/faleth/mindset/first-step-fear-to-problem-solving-2026]] |
+| 2026-07-10 | [2071263156148519319](https://x.com/i/status/2071263156148519319) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-07-10/2071263156148519319]] | [[research/faleth/mindset/post-hardship-quantum-leaps-2026]] |
+| 2026-07-10 | [2070980335157047691](https://x.com/i/status/2070980335157047691) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-07-10/2070980335157047691]] | [[research/faleth/process/local-model-ownership-agency-2026]] |
+| 2026-07-10 | [2071529847189582018](https://x.com/i/status/2071529847189582018) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-07-10/2071529847189582018]] | [[research/faleth/process/llm-foundations-skill-stack-2026]] (update) |
+| 2026-07-10 | batch 25 IDs | raw-only / already-distilled / skip | `Research/raw/x-bookmarks/2026-07-10/` | re: buyer psych, discipline stack, X payout already in wiki |
 | 2026-07-09 | [2074574493486649651](https://x.com/i/status/2074574493486649651) | X bookmark ingest (top 5) | [[research/raw/transcripts/lyle-x-share-2074574493486649651]] | [[research/faleth/process/hermes-agent-long-horizon-codebases-2026]] |
 | 2026-07-09 | [2074882968770728416](https://x.com/i/status/2074882968770728416) | X bookmark ingest (top 5) | [[research/raw/transcripts/lyle-x-share-2074882968770728416]] | [[research/faleth/process/frontier-model-cost-speed-tradeoff-2026]] |
 | 2026-07-09 | [2075226801920499826](https://x.com/i/status/2075226801920499826) | X bookmark ingest (top 5) | [[research/raw/transcripts/lyle-x-share-2075226801920499826]] | [[research/faleth/content/hermes-grok-x-content-machine-2026]] |

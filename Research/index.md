@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-06-28 | Total pages: 46+
+> Last updated: 2026-07-10 | Total pages: 50+
 
 ## Meta / schema
 
@@ -74,6 +74,9 @@
 - [[faleth/mindset/do-it-for-fun-anxiety-reframe-2026]] — Reframe performance anxiety through “for fun” execution frame.
 - [[faleth/mindset/bezos-wandering-rule-invention-2026]] — Wandering/invention time as disciplined exploration, not distraction.
 - [[faleth/mindset/anti-charismatic-exceptional-work-2026]] — Exceptional work over charismatic positioning.
+- [[faleth/mindset/open-loops-cognitive-drain-2026]] — Fatigue from unfinished social/decision loops, not only workload.
+- [[faleth/mindset/first-step-fear-to-problem-solving-2026]] — “What’s the first step?” reframe over global “this is hard.”
+- [[faleth/mindset/post-hardship-quantum-leaps-2026]] — Multi-domain leaps after prolonged uncertainty if self-trust holds.
 
 **Bridge & strategy**
 - [[faleth/bridge-strategy/game-finish-bridge-2026]] — Indie game ship as cash-timing bridge alongside GovCon deals.
@@ -102,11 +105,13 @@
 - [[how-ltd-amway-functions-as-leadership-incubator]] — Explains how LTD Amway develops leadership through mentorship, duplication, environment, and sweat equity.
 - [[trust-as-root-of-business-systems]] — Synthesizes trust as the root asset beneath compensation, mentorship, delegation, governance, sales, and culture.
 
-## X bookmark principles (2026-07-09)
+## X bookmark principles (2026-07)
 
 - [[faleth/process/frontier-model-cost-speed-tradeoff-2026]] — SWE-1.7 cost/speed signal for agent stacks
 - [[faleth/process/hermes-agent-long-horizon-codebases-2026]] — Hermes on huge legacy codebases
 - [[faleth/content/hermes-grok-x-content-machine-2026]] — automated X content machine packaging
 - [[faleth/process/llm-foundations-skill-stack-2026]] — CS229 foundations as future curriculum
 - [[faleth/process/agentic-loops-design-2026]] — Anthropic four loop types (prior + re-indexed)
+- [[faleth/process/hermes-cloud-and-x-mcp-2026]] — Hermes Cloud + hosted X MCP agent surface
+- [[faleth/process/local-model-ownership-agency-2026]] — Ownership agency of local weights vs API rental
 
