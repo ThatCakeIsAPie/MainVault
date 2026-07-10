@@ -5,9 +5,11 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ## Current Direction
 - The model market is a routing and caching market: select by task, context, price, latency, cache behavior, multimodal needs, and reliability.
 - OpenRouter-style aggregation makes cheap long-context models practical for triage/extraction/drafting, while premium models remain useful for final reasoning and high-stakes review.
+- **GPT-5.6 tiering (Sol / Terra / Luna)** on OpenAI + OpenRouter (Jul 9–10, 2026) codifies a three-layer everyday stack: flagship long-horizon agentic (Sol $5/$30), balanced everyday/agent mid-tier (Terra $2.50/$15, marketed near GPT-5.5 quality at ~half cost), and high-volume cheap (Luna $1/$6).
 - Compound/router products such as Fusion need separate cost accounting because headline placeholder rows do not equal effective cost.
-- Prompt-cache and response-cache visibility should become part of every recurring agent workflow budget.
+- Prompt-cache and response-cache visibility should become part of every recurring agent workflow budget (OpenAI notes more predictable prompt caching / cache breakpoints on GPT-5.6).
 - **MCP-native routing** on aggregators (OpenRouter-class) is becoming the default interface for agent tool loops—not a side integration.
+- Free/promo Chinese routes (**tencent/hy3:free**) and cheap coding workers (**poolside/laguna-xs-2.1**) remain critical for cron/volume economics until promos end.
 
 ## Major Shifts to Watch
 - Promotional cache pricing and cheap large-context models are becoming decisive for agent loops and recurring research jobs.
@@ -15,9 +17,10 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Activity/cost dashboards, cache-hit rate, provider reliability, and routing telemetry are becoming operational infrastructure.
 - Chinese/open models continue pressuring pricing and expanding viable cheap-agent choices.
 - **Usage mix can shift faster than catalog churn**—OpenRouter token share moving toward Chinese/open routes even when model count is flat (social telemetry).
+- **Tiered frontier families** (Sol/Terra/Luna pattern) will force explicit Hermes routing policies, not a single “default model.”
 
 ## Faleth Relevance
-- Maintain a Faleth/OpenRouter routing policy: cheap model for classification/extraction, mid-tier for drafting, premium cached model for final reasoning/review, multimodal only when required.
+- Maintain a Faleth/OpenRouter routing policy: cheap model for classification/extraction (HY3:free / Luna / Laguna), mid-tier for drafting/orchestration (Terra A/B vs Sonnet 5 / GPT-5.5), premium for final reasoning/review (Sol / GPT-5.5 / Sonnet 5), multimodal only when required.
 - Log model ID, provider, input/output tokens, cache read/write, response-cache hit, cost, workflow, and quality outcome.
 - Use budget caps for compound models and recurring agents; do not assume OpenRouter Fusion placeholder pricing is meaningful.
 
@@ -121,3 +124,9 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-09
 - Official API **2026-07-09**: **343** models—**stable**; Lyle stack unchanged (`claude-sonnet-5` **$2/$10/M**, `gpt-5.5` **$5/$30/M**, `deepseek-v3.2` **$0.23/$0.34/M**, `laguna-xs-2.1` **$0.06/$0.12/M**, `hy3:free` **$0/$0**); **`deepseek/deepseek-v4-flash`** **$0.09/$0.18/M** ([API](https://openrouter.ai/api/v1/models)). X: **agentic token share** and **HY3:free** tool-calling recommendations—**social-level** ([TeksCreate](https://x.com/TeksCreate/status/2075116705102061722), [SingularLab](https://x.com/SingularLabNews/status/2075161901558886498)). Signal: strong (API); medium (usage narrative).
+
+### 2026-07-10
+- Official API **2026-07-10**: **347** models (**+4** vs 343 on 2026-07-09). **New GPT-5.6 family:** `openai/gpt-5.6-sol`/`sol-pro` **$5/$30/M**, `terra`/`terra-pro` **$2.50/$15/M**, `luna`/`luna-pro` **$1/$6/M** (~1.05M ctx, created 2026-07-09) ([API](https://openrouter.ai/api/v1/models), [OpenAI Sol](https://openai.com/index/previewing-gpt-5-6-sol/), [OR X](https://x.com/OpenRouter/status/2075271807855452196)).
+- Lyle stack: Sonnet 5 **$2/$10/M**, GPT-5.5 **$5/$30/M**, DeepSeek V3.2 **~$0.21/$0.32/M** (slightly down), Laguna XS 2.1 **$0.06/$0.12/M**, `tencent/hy3:free` **$0/$0**, DeepSeek V4 Flash **$0.09/$0.18/M**.
+- Practical routing frame: Terra as everyday/agent mid-tier experiment vs Sonnet 5 / GPT-5.5; Luna/HY3/Laguna for volume; Sol for hard long-horizon only.
+- Signal: **strong** (full API + official pricing).

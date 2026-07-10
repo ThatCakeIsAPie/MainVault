@@ -7,15 +7,17 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - The strongest buying context is still vertical operational pain — contact centers, telecom operations, ERP/document workflows, internal admin, and regulated workflows.
 - Practical differentiation is shifting from raw model ability to orchestration quality: tool access, policy, evals, replay, escalation, incident response, and **enterprise agent inventory** (shadow agents, daily sprawl).
 - **Live model routing** (e.g. OpenRouter MCP) is becoming part of the agent stack—not optional for cost-aware production cron/delegate loops.
-- **Hosted MCP + security baselines** are now part of the default production conversation—not experimental add-ons.
-- **Vendor governance kits** (e.g. Microsoft Agent Governance Toolkit, ServiceNow control tower) are normalizing agent inventory, policy, and kill-switch language in enterprise RFPs.
+- **Hosted MCP + security baselines** are now part of the default production conversation—not experimental add-ons; **enterprise MCP gateways** (e.g. Citrix MCP Gateway, Jul 9 cluster) are the infrastructure expression of that baseline.
+- **Vendor governance kits** (e.g. Microsoft Agent Governance Toolkit, ServiceNow control tower) and **governed agent memory** products (e.g. AgentPrizm AgentMemory/AgentSkills) are normalizing inventory, audit receipts, policy, and kill-switch language in enterprise RFPs.
 - **Hyperscaler “embedded deployment” units** (e.g. Microsoft’s Jul 2026 Frontier program) treat agent rollout as measurable onsite services—not just software licenses.
+- **Computer-use agents** (Meta Muse Spark-class claims) and **work-management agent builders** (Wrike-class) expand agents from chat into desktop/workflow execution—raising HITL and audit requirements.
 
 ## Major Shifts to Watch
 - Enterprise platforms bundling agent builders, performance dashboards, and outcome pricing.
 - Agentic security, zero-trust permissions, and human-in-the-loop checkpoints becoming mandatory.
-- Multi-agent coordination moving from research idea to production architecture.
+- Multi-agent coordination moving from research idea to production architecture; safety research stressing **deployment rules** over model-only fixes.
 - Regulated-industry deployments becoming the proof standard for credible agent products.
+- MCP **stateless/gateway** packaging as the default enterprise integration pattern.
 
 ## Faleth Relevance
 - Hermes/Faleth agents should be designed as accountable recurring workers with budgets, permissions, logs, replay, and review gates.
@@ -120,3 +122,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-09
 - X (**Jul 8–9**) emphasized **OpenRouter-backed agentic loops** (cost-per-loop routing) and **GovCon bid/permit monitoring agents** ([Polsia](https://x.com/polsia/status/2074799888588853537), [TeksCreate](https://x.com/TeksCreate/status/2075116705102061722)); **open contracting** reminder that structured data + human review still gate procurement AI ([opencontracting](https://x.com/opencontracting/status/2074890183271420412)). No verified strict-24h enterprise agent SKU launch. Signal: medium (social); weak (24h launches).
+
+### 2026-07-10
+- **Jul 9 launch cluster** on [agentic.ai/news](https://agentic.ai/news): **AgentPrizm** governed AgentMemory/AgentSkills (MCP + audit receipts), **Citrix MCP Gateway**, **Meta Muse Spark 1.1** computer-use claims, **Wrike** conversational agent builder, plus vertical agent PRs; multi-agent safety paper framing **deployment rules** over model-only fixes.
+- X: enterprise MCP gateway / AgentON task-network chatter ([Citrix X](https://x.com/evanderburg/status/2075217066874073300), [AgentON](https://x.com/AgentON_/status/2075163472305000810)).
+- Signal: **strong** (week launch density); **medium** for product maturity claims (vendor PR heavy).

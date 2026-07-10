@@ -120,3 +120,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-09
 - **ISR due July 14** now **5 days out**; SAM home re-crawled **2026-07-09**; Jun 10/Jun 26 subcontracting alerts unchanged ([esrs](https://sam.gov/esrs), [announcements](https://sam.gov/announcements)). X: **bid-monitoring agents**, **Arkenstone $35M** public-sector AI, **Senate DoD/big-tech AI contract transparency** chatter—**social-level** ([Polsia](https://x.com/polsia/status/2074799888588853537), [Ventureburn](https://x.com/Ventureburn/status/2074835538746732988), [tokenizedwolf](https://x.com/tokenizedwolf/status/2075011630694371506)). Signal: strong (official); medium (social).
+
+### 2026-07-10
+- **ISR due July 14** now **4 days out**; [sam.gov/esrs](https://sam.gov/esrs) messaging and Jun 10/Jun 26 subcontracting alerts unchanged ([announcements](https://sam.gov/announcements)).
+- X: SAM monitoring / proposal agents (e.g. SamStream-class, Polsia-class) — **vendor/social** ([govguynick](https://x.com/govguynick/status/2075203923468783618), [polsia](https://x.com/polsia/status/2075163788962394114)).
+- Signal: **strong** (official deadline); **medium** (agent tooling social).

@@ -116,3 +116,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-09
 - **Menke Jul 6** ESOP financing flexibility narrative still active (**Jul 9** crawl); **Jul 14** PA/DE ESOP chapter event on calendar ([Menke](https://www.menke.com/esop-archives/esop-financing-lending-legislation-2026/), [events](https://www.employeeownershipfoundation.org/events)). No new US federal rulemaking in 24h. Signal: weak (news); medium (calendar).
+
+### 2026-07-10
+- No new US federal rulemaking in 24h; **NCEO** stats (~6,609 ESOPs / 15.1M participants) and **Jul 14** PA/DE ESOP chapter event remain calendar/reference (**background**) ([NCEO](https://www.nceo.org/research/employee-ownership-by-the-numbers), [events](https://www.employeeownershipfoundation.org/events)).
+- Signal: **weak** (news); **medium** (calendar).

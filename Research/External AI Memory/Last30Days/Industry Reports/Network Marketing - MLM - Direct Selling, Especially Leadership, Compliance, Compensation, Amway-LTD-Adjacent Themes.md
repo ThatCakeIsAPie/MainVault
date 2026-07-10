@@ -114,3 +114,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-09
 - No Amway/LTD corporate delta in 24h; **Amway 2025 IDS** ($750 avg before expenses, Founders Platinum and below) and **FTC staff IDS report** remain compliance anchors ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC staff](https://www.ftc.gov/business-guidance/blog/2024/09/ftc-staff-report-analyzes-70-mlm-income-disclosure-statements)). Signal: weak (daily); strong (backdrop).
+
+### 2026-07-10
+- No Amway/LTD corporate compensation/IDS delta in 24h; **Amway 2025 IDS** and **FTC staff IDS report** remain compliance anchors ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC staff](https://www.ftc.gov/business-guidance/blog/2024/09/ftc-staff-report-analyzes-70-mlm-income-disclosure-statements)).
+- Signal: **weak** (daily); **strong** (backdrop).

@@ -114,3 +114,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-09
 - **Kling** and **diyai** comparison crawls refreshed **2026-07-09**; production routing still **Veo 3.1 / Kling 3.0 / Runway**; **Sora discontinuation** guidance unchanged (**background**, snippet-level) ([Kling](https://kling.ai/blog/best-ai-video-generator-2026-kling-ai), [diyai](https://diyai.io/ai-tools/video-generation/best-ai-video-tools/)). No verified strict-24h flagship launch. Signal: weak (daily novelty).
+
+### 2026-07-10
+- **LitMedia integrates Seedance 2.5** (native 30s 4K) dated **Jul 9** on [agentic.ai/news](https://agentic.ai/news).
+- Comparison framing still **Kling 3.0 / Veo 3.1 / Runway** with **Sora API Sep 24, 2026** sunset (**background**, snippet-level) ([tech-insider](https://tech-insider.org/best-ai-video-generator-2026/)).
+- Signal: **medium** (Seedance distribution); **weak** (flagship foundation model price change).

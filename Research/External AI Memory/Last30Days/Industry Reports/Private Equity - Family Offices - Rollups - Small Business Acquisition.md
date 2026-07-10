@@ -115,3 +115,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-09
 - **Search-fund upmarket** survey and **2026 ETA primer** content refreshed **Jul 9** crawls—**background**; no verified US closing tape in 24h ([Mineola](https://mineolasearchpartners.com/2026/03/05/are-search-funds-moving-up-market/), [Search Funds News](https://searchfundsnews.com/the-sf-model-in-2026-a-modern-path-to-eta/)). Signal: weak (daily).
+
+### 2026-07-10
+- Family-office direct-acquire guides and search-fund/ETA explainers refreshed—**background**; no verified US closing tape in 24h ([CT Acquisitions](https://ctacquisitions.com/guides/family-offices-acquiring-businesses-2026/), [Search Funds News](https://searchfundsnews.com/the-sf-model-in-2026-a-modern-path-to-eta/)).
+- Signal: **weak** (deals); **medium** (narrative).
