@@ -259,4 +259,6 @@ Clothing is not deductible
 You can take up to 300 sqft for a home office
 If you get a letter from the IRS in the mail, call Joe
 
-## 
+## DAWGS Panel
+We all have to choose to adapt and endure
+We have to choose to win no matter what
