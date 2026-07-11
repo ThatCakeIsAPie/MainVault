@@ -379,3 +379,6 @@ Who has ever thought "I want to be a fly on the wall of your life"?
 
 ## Aaron Banks Panel
 If you want to have a stable long term business that will span generations, it is important you put in a few key ingredients: one is depth, one is called a taproot
+He sponsored a leg back in 2016, and it is currently 15 deep
+He let his self image be tied to his business self image, and so he started sponsoring people who were at his confidence level and above, but that wasnt a high bar.
+She had a fear of this business at first, but they went to their first conference, and it removed all of her fears and excuses. They had a hard conversation, and had to realize they were either gonna treat it like a hobby or a business.
