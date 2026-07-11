@@ -269,3 +269,9 @@ He started the way he did because his mom was building a network marketing busin
 Filling your brain with so much good, that only good will come out
 He likes to read before diving into his list because it gives him such a good mindset and something to give for when he talks to the people on his list
 God doesn't make any mistakes. Stop justifying yourself that you have to be the person. God will give you the desires of your heart as long as you are obedient to the cause
+You figure out how to run your pace
+"We go to work, we build our business, we go home" anything outside of that was not a priority. Social clubs and hangouts weren't worth it for them.
+They run their lives lean so they can focus.
+They don't always feel like building their business, but especially guys are called to grow and go and progress. You don't always want to, but you come back feeling like a provider and feeling great.
+It is communication, priorities, figuring out your season of life.
+The commitment they made did not change, the circumstances did, but their commitment did not.
