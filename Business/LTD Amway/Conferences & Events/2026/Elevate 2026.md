@@ -292,3 +292,10 @@ Nothing is going to catch on fire if you wait a few minutes to catch back up on 
 If she had anything from upline that was addressed to her, she would read those first.
 Realize what is most important and what to get done first
 Just try putting your phone on airplane mode and be 100% intentive
+Things like the messaging app and media app need to be a priority in your business.
+These distractions can hurt you in multiple areas of life.
+Just focus in and delete stuff
+Your phone can be the biggest distraction that can keep you from having the lifestyle of one of the diamonds
+Your phone is a tool for business, not for leisure. He does not enjoy his phone. He sees it purely as a device for creating his future.
+Having accountability with upline is crucial.
+They struggled 
