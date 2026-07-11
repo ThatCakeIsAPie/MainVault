@@ -265,4 +265,7 @@ We have to choose to win no matter what
 Your info session, is non-negotiable. It is negotiable if you don't want to build a big business. But if you want to build a big business, it is a non-negotiable habit.
 He listens to audios on his way to work and reads when he cans because he needed the negativity out of his life.
 He started the way he did because his mom was building a network marketing business for 20 years. He told his mom he wanted to start an Amway business, and she was ecstatic about it.
-Be careful of feeling the need to be different, because that habit stems from a lack of rooting in your identity in Christ.
+***Personal Note: Be careful of feeling the need to be different, because that habit stems from a lack of rooting in your identity in Christ.***
+Filling your brain with so much good, that only good will come out
+He likes to read before diving into his list because it gives him such a good mindset and something to give for when he talks to the people on his list
+God doesn't make any mistakes. Stop justifying yourself that you have to be the person. God will give you the desires of your heart as long as you are obedient to the cause
