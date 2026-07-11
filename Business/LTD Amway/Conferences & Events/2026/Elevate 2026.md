@@ -363,3 +363,14 @@ Who has ever thought "I want to be a fly on the wall of your life"?
 	3. You sacrifice your freedom, or you sacrifice for your freedom. You are always sacrificing something, decide what you are sacrificing for.
 	4. When you make things about you, you forget about how much of an impact you have on other people.
 	5. He booked 60 meetings his first 90 days.
+	6. He was able to do that by detaching his emotions from his outcomes
+	7. He ended up 2500PV three months in
+	8. If you arent here yet, you can work up to it to ramp up
+	9. He made $1,500 as a 2500PVer
+	10. In March, 6 months in he booked close to 100 meetings, starting 15 personal legs, hit 4000 and made $3,800. You have a better business today than it has ever been.
+	11. If you do 100 MGs, your capacity is results. It may not be PV, but it is results.
+	12. Focus on habits, dont focus on outcomes
+	13. The more disciplined you become, the less your emotions detach
+	14. Chase behaviors not outcomes
+	15. If you want to be a platinum, think "what does a platinum do?" and mimic those behaviors
+	16. 
