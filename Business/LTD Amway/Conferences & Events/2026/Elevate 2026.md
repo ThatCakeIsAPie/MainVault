@@ -275,3 +275,6 @@ They run their lives lean so they can focus.
 They don't always feel like building their business, but especially guys are called to grow and go and progress. You don't always want to, but you come back feeling like a provider and feeling great.
 It is communication, priorities, figuring out your season of life.
 The commitment they made did not change, the circumstances did, but their commitment did not.
+As a couple, they had to remember that his win is her win.
+They didnt have a lot of social clubs because they already have their social club, which is in this business
+There is a pace to doing this
