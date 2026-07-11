@@ -246,5 +246,11 @@ If you don't read books, you dont know what you are doing. If you don't have a b
 It is important to conduct yourself in proper manner.
 Keep track of how much you get paid.
 If you deduct your miles, track your who, what, when and why.
-Current mile deduction is $0.72 cents per mile
+Current mile deduction is $0.62 cents per mile
 Keep your service receipts. If you get audited, you gotta prove the car drove the miles.
+Keep deductions reasonable.
+Tracking all this is not only great for tax reasons, but if you come to your upline and say you are working hard, you have data to prove it.
+Tracking helps you stay on point in your business
+Have the hotel give you a copy of the bill
+Advertising, samples, when your orders come in, highlight them so you know what you sampled.
+You cant deduct entertainment outside of a meal in town if you are doing business (i.e. if you are sitting down with a prospect)
