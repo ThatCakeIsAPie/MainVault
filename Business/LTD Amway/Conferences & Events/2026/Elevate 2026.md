@@ -302,3 +302,5 @@ They struggled with money for so long, but they got with upline, and they said "
 When you have a goal and a priority, you don't need money to be happy
 
 ## Adam and Julie Rooda and Brody and LIz Swearingen
+The difference between hope and belief is action
+Continue to take action and plug in even when the business isn't growing the way you want. If your business hasnt grown as fast as you want, join the club. Keep going.
