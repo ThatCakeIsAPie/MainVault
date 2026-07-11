@@ -298,4 +298,7 @@ Just focus in and delete stuff
 Your phone can be the biggest distraction that can keep you from having the lifestyle of one of the diamonds
 Your phone is a tool for business, not for leisure. He does not enjoy his phone. He sees it purely as a device for creating his future.
 Having accountability with upline is crucial.
-They struggled 
+They struggled with money for so long, but they got with upline, and they said "it really isnt that big of a deal, just fix this, this and this"
+When you have a goal and a priority, you don't need money to be happy
+
+## Adam and Julie Rooda and Brody and LIz Swearingen
