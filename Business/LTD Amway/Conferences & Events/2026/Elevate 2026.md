@@ -382,3 +382,9 @@ If you want to have a stable long term business that will span generations, it i
 He sponsored a leg back in 2016, and it is currently 15 deep
 He let his self image be tied to his business self image, and so he started sponsoring people who were at his confidence level and above, but that wasnt a high bar.
 She had a fear of this business at first, but they went to their first conference, and it removed all of her fears and excuses. They had a hard conversation, and had to realize they were either gonna treat it like a hobby or a business.
+One of the most important things for you to do when you first get sponsored is to sponsor 12 legs.
+This entire leg was not in Aaron's first batch of 12.
+Someone has to actually do the meetings and sponsor the IBOs
+You want to get momentum in your business
+You either want to get six deep or six wide, either way will build momentum
+He was not good at relationships, which is why he had to sponsor 12 wide.
