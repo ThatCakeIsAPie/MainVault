@@ -277,4 +277,13 @@ It is communication, priorities, figuring out your season of life.
 The commitment they made did not change, the circumstances did, but their commitment did not.
 As a couple, they had to remember that his win is her win.
 They didnt have a lot of social clubs because they already have their social club, which is in this business
-There is a pace to doing this
+There is a pace to doing this. If you are committed to win, it is about commitment to that pace. It is about sustained consistency. It isn't about an immediate pace, but maintaining it for a long time.
+
+## Steven and Lauren Edwards and Travis and Carissa Geiger
+Music entertains us, it doesn't build our wealth
+Get your endorphin hits from seeing someone say "just launched a new leg" instead of getting it from seeing how many likes a post got
+Prime time is 5-7 every single day
+If you fail to plan, you plan to fail
+Who do we need to prioritize? Who do we need to meet today?
+Don't just count on your willpower, just get rid of your distractions
+He didn't have facebook before business, but realized he could use it as a tool to build his business, so he started to use it. But he then found himself 
