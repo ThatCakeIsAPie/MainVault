@@ -1,12 +1,13 @@
 ---
 title: LLM Foundations Skill Stack (CS229 signal, 2026)
 created: 2026-07-09
-updated: 2026-07-10
+updated: 2026-07-11
 type: principle
 tags: [ai, ml, training, personal-development, skills, leverage]
 sources:
   - research/raw/transcripts/lyle-x-share-2074501533362684206
   - research/raw/x-bookmarks/2026-07-10/2071529847189582018.md
+  - research/raw/x-bookmarks/2026-07-11/2070443242022453760.md
 confidence: medium
 ---
 
@@ -17,6 +18,8 @@ confidence: medium
 Viral packaging of **Stanford CS229-style** free lecture as the path to “build LLMs from scratch,” framed against six-figure AI eng comps.
 
 **Second source (2026-07-10 bookmark):** free practitioner-oriented course framed as outproducing graduate programs after a top ML competition ranker flipped university pedagogy — same **foundations → working practice** thesis.
+
+**Third source (2026-07-11 bookmark):** Karpathy-explains-AI thread (Autopilot / OpenAI / Stanford course pedigree) as a **curated takeaways** format — same curriculum gravity, packaged for ambient re-exposure.
 
 ## Faleth take
 
@@ -29,4 +32,5 @@ Viral packaging of **Stanford CS229-style** free lecture as the path to “build
 
 - Raw: [[research/raw/transcripts/lyle-x-share-2074501533362684206]]
 - Bookmark raw: [[research/raw/x-bookmarks/2026-07-10/2071529847189582018]]
+- Karpathy thread raw: [[research/raw/x-bookmarks/2026-07-11/2070443242022453760]]
 - Related: [[research/faleth/process/agentic-loops-design-2026]]

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-10 | Total pages: 50+
+> Last updated: 2026-07-11 | Total pages: 50+
 
 ## Meta / schema
 
@@ -77,6 +77,10 @@
 - [[faleth/mindset/open-loops-cognitive-drain-2026]] — Fatigue from unfinished social/decision loops, not only workload.
 - [[faleth/mindset/first-step-fear-to-problem-solving-2026]] — “What’s the first step?” reframe over global “this is hard.”
 - [[faleth/mindset/post-hardship-quantum-leaps-2026]] — Multi-domain leaps after prolonged uncertainty if self-trust holds.
+- [[faleth/mindset/god-planted-dream-capacity-2026]] — Calling implies capacity under formation; obedience grows into the dream.
+- [[faleth/mindset/dont-be-a-career-jobs-2026]] — Refuse identity capture by job ladder; mission over resume.
+- [[faleth/mindset/million-dollar-floor-sweep-commitment-2026]] — Full excellence on the task in front of you (Terry Crews frame).
+- [[faleth/mindset/heart-intuition-guts-over-analysis-2026]] — Best bets use judgment under uncertainty, not spreadsheet theater.
 
 **Bridge & strategy**
 - [[faleth/bridge-strategy/game-finish-bridge-2026]] — Indie game ship as cash-timing bridge alongside GovCon deals.
@@ -114,4 +118,6 @@
 - [[faleth/process/agentic-loops-design-2026]] — Anthropic four loop types (prior + re-indexed)
 - [[faleth/process/hermes-cloud-and-x-mcp-2026]] — Hermes Cloud + hosted X MCP agent surface
 - [[faleth/process/local-model-ownership-agency-2026]] — Ownership agency of local weights vs API rental
+- [[faleth/process/ai-as-sparring-partner-house-method-2026]] — Treat AI as fallible bounce partner (House method)
+- [[faleth/process/anthropic-prompting-craft-deleted-lecture-2026]] — Internal prompting craft signal; practice over permanent URLs
 

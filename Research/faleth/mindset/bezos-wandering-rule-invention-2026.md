@@ -52,3 +52,5 @@ Jeff Bezos frames **efficiency** and **real invention** as opposing modes. When 
 
 - Lyle shared via Telegram: **2026-06-27** — [X post](https://x.com/i/status/2070507497480454303) — ingest tagged under "neat fascinations" policy (curated mindset/ops shares worth distilling).
 - Raw ingest: [[research/raw/transcripts/lyle-x-share-2070507497480454303]]
+- Re-bookmarked / batch re-index: [[research/raw/x-bookmarks/2026-07-11/2070507497480454303]] (2026-07-11 cron)
+- Sister principle: [[faleth/mindset/heart-intuition-guts-over-analysis-2026]]

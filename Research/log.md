@@ -203,3 +203,26 @@
 - Shares log: external-ai-memory/lyle-telegram-x-shares-log.md
 - Skipped wiki (raw only): jokes/memes, pure media, romance, contested Fable-5 leak, short reply, hype RE video; re-bookmarks of existing buyer psych / discipline stack / X payout
 - Ledger: ~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json (+25 IDs)
+
+
+## [2026-07-11] ingest | X bookmarks daily batch (20)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collect_x_bookmarks.py)
+- Fetched 50; already in ledger 30; new **20**; truncated remainder 0
+- Raw: `Research/raw/x-bookmarks/2026-07-11/<id>.md` × 20
+- Principles **created**:
+  - faleth/mindset/god-planted-dream-capacity-2026
+  - faleth/mindset/dont-be-a-career-jobs-2026
+  - faleth/mindset/million-dollar-floor-sweep-commitment-2026
+  - faleth/mindset/heart-intuition-guts-over-analysis-2026
+  - faleth/process/ai-as-sparring-partner-house-method-2026
+  - faleth/process/anthropic-prompting-craft-deleted-lecture-2026
+- Principles **updated**:
+  - faleth/process/frontier-model-cost-speed-tradeoff-2026 (+ GLM vs Opus job cost)
+  - faleth/process/hermes-cloud-and-x-mcp-2026 (+ unofficial mobile battlestation)
+  - faleth/process/llm-foundations-skill-stack-2026 (+ Karpathy thread)
+  - faleth/mindset/bezos-wandering-rule-invention-2026, do-it-for-fun, make-more-than-you-take, uncertainty-tolerance, anti-charismatic (re-bookmark provenance)
+- Index: Research/index.md (mindset + process)
+- Shares log: external-ai-memory/lyle-telegram-x-shares-log.md
+- Skipped wiki (raw only): CS Lewis / St Basil quote cards, thin Belfort image, Elon "True" video, X Money product launch, Devon Eriksen tax/media post
+- Ledger: ~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json (+20 IDs)

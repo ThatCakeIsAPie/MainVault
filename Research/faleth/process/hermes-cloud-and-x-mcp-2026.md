@@ -1,21 +1,23 @@
 ---
 title: Hermes Cloud + Hosted X MCP (agent stack, 2026)
 created: 2026-07-10
-updated: 2026-07-10
+updated: 2026-07-11
 type: principle
 tags: [ai, software, infrastructure, open-source, leverage, systems]
 sources:
   - research/raw/x-bookmarks/2026-07-10/2074878754485043333.md
   - research/raw/x-bookmarks/2026-07-10/2071752389183647758.md
+  - research/raw/x-bookmarks/2026-07-11/2070053292474773772.md
 confidence: medium
 ---
 
 # Hermes Cloud + Hosted X MCP (agent stack, 2026)
 
-## Signals (two sources)
+## Signals (three sources)
 
 1. **NousResearch — Hermes Agent in the Cloud:** pick model + server size; live in ~60s; org multi-agent with access controls and unified billing via Nous Portal.
 2. **XDevelopers — Hosted X MCP:** MCP-compatible tools (Grok, Cursor, etc.) connect to the X API / docs with minimal setup (`docs.x.com/tools/mcp`).
+3. **Unofficial Hermes mobile “battlestation” (beta, @demi_hl):** start agent tasks from phone; switch models per turn (opus/gpt/grok/local); jump chats/repos/boards/sessions; attach camera/media; pets/usage/skills. Directionally confirms **mobile operator surface** for Hermes, not only desktop/CLI.
 
 ## Distillation
 
@@ -40,8 +42,8 @@ confidence: medium
 
 ## Provenance
 
-- Bookmarks 2026-07-08 (Hermes Cloud), 2026-06-30 (X MCP); batch 2026-07-10.
-- Raws: [[research/raw/x-bookmarks/2026-07-10/2074878754485043333]], [[research/raw/x-bookmarks/2026-07-10/2071752389183647758]]
+- Bookmarks 2026-07-08 (Hermes Cloud), 2026-06-30 (X MCP); batch 2026-07-10; mobile app beta bookmark 2026-07-11.
+- Raws: [[research/raw/x-bookmarks/2026-07-10/2074878754485043333]], [[research/raw/x-bookmarks/2026-07-10/2071752389183647758]], [[research/raw/x-bookmarks/2026-07-11/2070053292474773772]]
 
 ## Related
 

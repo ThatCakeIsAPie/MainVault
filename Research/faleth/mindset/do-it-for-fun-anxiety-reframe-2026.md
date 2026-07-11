@@ -44,3 +44,4 @@ As you move from zero-leverage environments into building, the volume of uncerta
 
 - Lyle shared via Telegram: **2026-06-26** — [X post](https://x.com/i/status/2069870222648176764) (@leitorpsique — anxiety / do it for fun).
 - Raw ingest: [[research/raw/transcripts/lyle-x-share-2069870222648176764]]
+- Re-bookmarked: [[research/raw/x-bookmarks/2026-07-11/2069870222648176764]] (2026-07-11 cron)

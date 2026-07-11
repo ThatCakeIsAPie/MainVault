@@ -47,3 +47,4 @@ This trait is not passive acceptance; it is active agency in the face of incompl
 
 - Lyle shared via Telegram: **2026-06-26** — [X post](https://x.com/i/status/2070148107124285692) (PromptLLM / uncertainty tolerance thread).
 - Raw ingest: [[research/raw/transcripts/lyle-x-share-2070148107124285692]]
+- Re-bookmarked: [[research/raw/x-bookmarks/2026-07-11/2070148107124285692]] (2026-07-11 cron)

@@ -1,7 +1,7 @@
 ---
 type: note
 title: Lyle Telegram X Shares Log
-updated: '2026-07-10T05:35:00.000Z'
+updated: '2026-07-11T05:45:00.000Z'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -21,6 +21,13 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-07-11 | [2070642609932910677](https://x.com/i/status/2070642609932910677) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-07-11/2070642609932910677]] | [[research/faleth/mindset/god-planted-dream-capacity-2026]] |
+| 2026-07-11 | [2071000377441300854](https://x.com/i/status/2071000377441300854) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-07-11/2071000377441300854]] | [[research/faleth/process/ai-as-sparring-partner-house-method-2026]] |
+| 2026-07-11 | [2070323963817865371](https://x.com/i/status/2070323963817865371) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-07-11/2070323963817865371]] | [[research/faleth/mindset/dont-be-a-career-jobs-2026]] |
+| 2026-07-11 | [2069818079744512167](https://x.com/i/status/2069818079744512167) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-07-11/2069818079744512167]] | [[research/faleth/mindset/million-dollar-floor-sweep-commitment-2026]] |
+| 2026-07-11 | [2070979230838686084](https://x.com/i/status/2070979230838686084) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-07-11/2070979230838686084]] | [[research/faleth/mindset/heart-intuition-guts-over-analysis-2026]] |
+| 2026-07-11 | [2069884250132721840](https://x.com/i/status/2069884250132721840) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-07-11/2069884250132721840]] | [[research/faleth/process/anthropic-prompting-craft-deleted-lecture-2026]] |
+| 2026-07-11 | batch 20 IDs | raw-only / re-bookmark / skip | `Research/raw/x-bookmarks/2026-07-11/` | re: uncertainty, fun reframe, make-more-than-take, anti-charismatic, wandering, cost tradeoff, Hermes mobile |
 | 2026-07-10 | [2075058629301198853](https://x.com/i/status/2075058629301198853) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-07-10/2075058629301198853]] | [[research/faleth/mindset/open-loops-cognitive-drain-2026]] |
 | 2026-07-10 | [2074878754485043333](https://x.com/i/status/2074878754485043333) + [2071752389183647758](https://x.com/i/status/2071752389183647758) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-07-10/2074878754485043333]] · [[research/raw/x-bookmarks/2026-07-10/2071752389183647758]] | [[research/faleth/process/hermes-cloud-and-x-mcp-2026]] |
 | 2026-07-10 | [2072808215298117931](https://x.com/i/status/2072808215298117931) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-07-10/2072808215298117931]] | [[research/faleth/mindset/first-step-fear-to-problem-solving-2026]] |
