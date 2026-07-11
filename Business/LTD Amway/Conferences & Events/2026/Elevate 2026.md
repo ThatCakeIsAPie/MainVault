@@ -311,5 +311,9 @@ If your belief is low:
 1. Get customers
 	1. Either for yourself, or your downline.
 	2. Nothing builds belief more than selling products and making immediate income
-	3. They have a downline who started with a 600PV personal circle, now has a 2500PV personal circle through
-2. 
+	3. They have a downline who started with a 600PV personal circle, now has a 2500PV personal circle through 6 customers ordering 600PV each. He was just intentional with sampling.
+	4. Their first 10 samples, no one responded when he followed up. He thought he isn't letting the future of his business be from that, but it is up to him, he sampled 13 more times, and got those 6 customers.
+	5. Do you know what you are going to do with a new person on the customer side?
+2. Huddles
+	1. He started, had hope, but also doubts. He worked with his coach and started to get results.
+	2. 
