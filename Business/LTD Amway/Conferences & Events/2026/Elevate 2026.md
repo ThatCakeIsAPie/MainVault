@@ -373,4 +373,9 @@ Who has ever thought "I want to be a fly on the wall of your life"?
 	13. The more disciplined you become, the less your emotions detach
 	14. Chase behaviors not outcomes
 	15. If you want to be a platinum, think "what does a platinum do?" and mimic those behaviors
-	16. 
+	16. Document your journey
+	17. He went to his first conference and got a vision.
+	18. Action creates results
+
+## Aaron Banks Panel
+If you want to have a stable long term business that will span generations, it is important you put in a few key ingredients: one is depth, one is calle
