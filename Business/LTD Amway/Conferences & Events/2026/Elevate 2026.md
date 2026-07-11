@@ -419,3 +419,10 @@ It is all about progression
 When you get with a coach, they know where you are at and what you are capable of.
 So many people are complacent and are so satisfied being average
 You have a comfort zone and a stress zone
+You have your quantitative analysis and your qualitative analysis
+A diamond regrets not tracking their entire business as they were going diamond
+***Personal Note: Something I would like to do is to make a "Triple Diamond Daily Battle Sheet". Just something to give my daily stats and be able to track everything.***
+You can develop the skill as well
+The sooner you start to track, the sooner you can have something you can show your team
+Starting a core run with tracking guarantees growth. Maybe not growth in PV, but it guarantees growth in some form or another.
+Tracking in business bleeds into every area of life
