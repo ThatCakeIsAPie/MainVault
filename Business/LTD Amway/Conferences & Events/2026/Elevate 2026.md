@@ -1,0 +1,235 @@
+You get around the leaders of this team, and they kick off with respect for this country.
+These freedoms don't come from our government, but from our Heavenly Father
+Every leader here has sat in your seat.
+The more you get to know Brent Harris, the more you want to earn his respect. He is a man's man.
+This business isn't perfect. Reason being is because people are involved. These are really good people, but you will find the good and bad in people depending on what you focus on. These people truly care. You don't build a successful Amway business by not caring for people, it isn't possible, it is a network marketing business for crying out loud. Communication is the name of the game.
+There is so much more to marriage than just the honeymoon.
+You will find what you are looking for. You will find flaws because people aren't perfect, but this business has blessed us thus far.
+All you need to do is follow example. Look at the example of the leaders, what they have to say. If you can follow what they say, you can achieve at least something of what they have.
+If you do these things well, consistently and persistently, you can achieve.
+
+## Adam and Kristen Ladenburger
+Maybe you were the black sheep growing up, the status quo was never desirable, then welcome home.
+There wasn't a lot of headwinds to succeed as an accountant, but there wasn't much headroom to grow there
+We all have our "yeah buts". Hers was that she was in college and working on her degree.
+Some leaders were a little more reserved and not as outgoing. They were a different personality than some of the more loud people on stage, but they have such a way with people and bring such a peace, that is what helps them win.
+You can find any background that you want to, and someone with a similar background as you has succeeded.
+Anybody can succeed if they decide to
+The people who won are those who had a work habit and decided to just not quit and win
+The people who are undecided are wavering. They are inconsistent, they will sometimes do work and sometimes not.
+What are you actually making a decision on? The result? Or the work it takes to get the result?
+The decision was just "am I willing to do the work and not let anything get in the way of the work?"
+Focus on inputs not outputs.
+That decision quiets everything else.
+You can make a decision to lock in, take it in, have an open heart with it, work hard, and you can follow through on that decision
+Hopefully you have heroes... hopefully they are more than just someone who can shoot a ball. Hopefully they are someone who is a hero because they have character
+Did you know that peer pressure is a good thing? People always think things like "drugs". God gave us free will. Peer pressure can be a good thing, which is why he loves coming to these conferences. They aren't missing this. He wants to be around people who make him better.
+The thing about peer pressure is you get to choose the people around you and what they help make you do.
+Most of these IBOs are going to read before they go to bed. "Success is caught before it is taught."
+Whenever the standard raises, the crowd thins. Some people are going to quit next week. Maybe they didn't want to live up to that standard.
+People brag about hitting a home run in softball, a game their girlfriend played in high school, and they call us weird.
+Three Cs: Criticize, condemn and complain. We don't do that here.
+Freedom is not doing what you want, but doing what you must even when you don't want to
+"Those people are going to brainwash you into thinking you can succeed" "What are you being brainwashed by? Losing?" People work their entire life just to complain about the cost of gas and eggs. Things that matter take maintenance. It is weird to not control your mind, control your growth.
+You don't get paid for your intentions.
+People have these intentions on the inside of them, but they go back to an environment that doesn't reflect their values. And eventually, the environment will win.
+You can tell the vision is from God, because it makes you look like a fool. If they believe you the first time you tell them, it maybe isn't from God.
+"Go and get your degree 'just in case'" Just in case of what?
+The average person has a terrible life. I dont want that reality, I want a different reality, the life that I create.
+The first time he was called crazy he wore like a badge of honor. If no one is calling you crazy, you probably aren't doing anything significant anyway.
+"You are gonna put 4 hours into what?" "You put 8 hours into someone else's business. And you want to do that for another 40-50 years?"
+Most people live a life that others expect of them. And that is why so many are unhappy, they are living up to the standards of other people, not themselves.
+We are hope dealers. I'm not gonna hand my future, my legacy, into the hands of someone else who didn't think it was a good idea.
+So many change dreams like underwear.
+He remembers getting that first text message from pouring into someone. A wall of text saying "thank you for everything you have done for me"
+How do you spell love? "T.I.M.E."
+Others are picking them up to take them to the bar. You are picking them up to help them win.
+It isn't about the ones who don't see it, but the special ones who do.
+Brent and Brenda didn't hand them a hand out, but a hand up.
+
+"I dont trust processes, I trust my coaches"
+
+## Alex and Lani Matthys and Chase and Anna Mercer
+The biggest decider of who wins in life is who decides to be mentally tough
+The level of inconvenience you face has a factor in how much you get out of this weekend.
+The people who had to pay a higher price to be here will get more out of it, because of the character it builds
+He remembers getting a lot of negativity from friends and family, and his friends were making fun of him. His friends renamed their group chat to "No Amway allowed". He left that group chat lol.
+We hear opinions will never pay your bills, and those emotions were strong at the time, but looking back, those people don't really care what he is doing for an income.
+His friend who gave him the most grief for being in business called him a year later and apologized and told him he respected him for holding his ground.
+She remembers her friends sitting down for an intervention, telling her not to build the business.
+If your friends are going to talk to you like that, where the first time you were excited about the future they sat you down, maybe those aren't your real friends. They aren't going to take care of your future family.
+There are going to be loads of people in your life who might have good intentions, but have poor advice. You have to pay attention to the fruit of their life, that is how you tell the difference.
+Being an immigrant, the belief from your parents is if you are not a doctor, engineer or lawyer, you are disowned.
+People pleasers have a fear of the opinions of other people. But if you go around pleasing others, who are you not pleasing? Yourself.
+Building the business ruffled a lot of feathers in her family. Her parents went paycheck to paycheck. Her dad sent her a long email, and she just had to say to him "Do you trust me? These people are trying to help me succeed."
+About a year and a half in, they started to hit some goals in business. They made $2k in one month, and her dad said "Good job. Keep going."
+Her dad tried to blow her out of the business, but eventually said "good job for not quitting." If you develop your fortitude, you will have your victory.
+People always think "if you hit adversity, maybe that is your sign it isn't for you"
+People find something they can go and win in, but it doesn't matter. Go win in something that does matter.
+The one thing everyone has in common despite the differences, we are going to go through adversity. That is the one thing that brings everyone together.
+When we face adversity, we can often think "it is just me". It isn't about not going through adversity, rather, how do you view adversity? Do you view it as a challenge for you, or a reason to throw in the towel?
+"Every single time I hit adversity when someone else is throwing in the towel, that is why I am going to succeed."
+The mindset you learn in sports, take that mindset and apply it into this business.
+See adversity as a good thing, that is what separates people.
+When someone says "no", they arent rejecting you, they are rejecting the opportunity
+The harder you work on something, the harder it is to quit.
+If you can just buy into the process, not the prospect, it will bring you emotional stability.
+You learn that failure is feedback in sports. The more you fail, the more you learn. In this business, we celebrate the failures, the no-shows. There is nothing easy about competing at a higher level.
+"You make a decision and you back it up with grit"
+Think it takes grit to stay married for 36 years?
+You can learn lessons from this team on day to day mechanics. But adopting the positive mental attitude is the most important thing.
+The disappointment of pursuing a higher purpose is better than succeeding at an average life.
+They don't make movies about people who never hit adversity, or people who hit adversity and give up.
+Your story does matter, you are the main character of your story. When you see yourself as the main character of your movie, you see yourself bigger.
+
+## Courtney and Paige Wyatt
+Healed scars are more beautiful than perfect skin
+She has become everything she ever wanted to be as a little girl. She is the safe place for her daughter. She can't tell you any time in her life where she wanted to be with her mom, but her daughter wants her.
+You owe it to your future self, your decisions matter
+At the end of your life, if someone brought you into a room, they showed you where you spread light, and all you did was smile in those places, keep progressing.
+"Your decisions measure your priorities"
+Every decision is a vote for your future self. The mirror reflects your appearance, your results reflect your decisions.
+"What if I hadn't made the decision to get on that bus to my first conference?"
+Whatever it may have been, you voted for yourself and your future to be here.
+Success is based on a lot of small decisions
+Think about where your life could be 25 years from now
+You are gonna have kids down the road that are gonna be thankful that you are a full time dad
+We arent better than anyone, we just made better decisions
+Think: what is the best case scenario for the path you are on? How much money? How many hours?
+It is easy to be in these environments and feel the way you feel. Idle time is the devil's playground.
+We are all going to have life going on. Do you still go to your job when you have life going on?
+Are you casting votes for your job? Or your future?
+You have to take ownership for yourself.
+14 months ago, his brothers friend got electrocuted as a lineman. Woke up with an amputated leg and arm, decided to get up and go again. Went through 20 surgeries, learned to walk with a prosthetic leg, and attended his wedding.
+
+## Kevin Schweres and Kyle and Danielle Nier
+What makes this business have longevity to it?
+There is no guarantee this business will be around, but I don't want to put all this time and effort in just to lose it over things outside of my control.
+AIP: Artificial Intelligence Phenomenon
+This is prophecy, but potential direction
+"In every adversity, there is a seed of equal or greater benefit"
+1 out of 3 students that got a mechanical engineering degree got a job, the other 2 had to go back home with their parents. He managed to get a job and build his business outside of it.
+What he has seen out of the past 5 years, some people are making $75k/yr working from home right out of school.
+People are there for 40 hours, but how much work are they actually doing?
+He did with Claude in 40 minutes would have taken a bookkeeper 15 hours. He realized things are changing, and he thought "how will this affect our business?"
+Kyle and Danielle focus on software development and AI for their active income
+We are going through a shared adversity in society. He remembers 9/11 and the adversity we faced at that time, but also the unification that followed after. How do you crack the benefit from that seed?
+The key to this is we need to recognize the uncertainty, we label it, we share it, and we have a solution. We have a solution to all the uncertainty the market is facing right now. This is exactly what the market is looking for.
+People in our corporate careers are looking for an extra source of income. Everyone is trying to find out what is going to happen.
+Uncertainty is causing companies to undergo hiring freezes. Some are increasing revenue without increasing headcount.
+How are they leveraging AI in their job?
+Not everyone understands what it is doing, but there is a massive shift. Leadership used to hide goals, but now they are pushing automation and AI and asking you to use it. "This project is to reduce headcount by 7"
+Companies are adapting it and are no longer hiding it. People are acting frantic. It doesn't matter how smart they are, AI is smarter and better.
+Companies are no longer voicing their values into people, but technology. People are waking up and saying "maybe this company doesn't actually care about me and my family"
+The leaders have been saying that if it comes down to it, the companies will push profits over people. The companies are showing their cards.
+There is going to be an uprising of sorts, where people are not buying it of working 40-50 years.
+People aren't listening to others, they are listening to AI.
+In the current market, you have to perform.
+People are being forced to do 3-4 jobs now. People are waking up and realizing that this is not a long term solution.
+People dont want a remote job, they want time with their family.
+People are getting more stressed, they are panicking, but we don't feel the same way because of this business.
+If all your eggs are in one basket and that basket falls, what happens to your income?
+We all have opinions, but we dont have to panic, we can build this business, someone else is looking.
+Management is pressing to use AI more, because you can accomplish more for you to actually use the agents.
+"You are doing multi-level? Yeah. Just like your boss, dipstick." Most dont understand how comp plans work.
+Entry level positions may be a thing of the past.
+AI is replacing tons of paperwork
+Agents can do in hours what would have taken a week
+His company isnt looking to bring on more headcount. They dont want anything to do with marketing, because AI can do it all.
+Many entry level roles are getting replaced by AI, because entry level roles are usually the busy work nobody wants to do
+The modern marketplace is willing to pay a lot more for soft skills
+The future for the job market is good, there is still opportunity there. But there are those high achievers who are becoming apathetic, thinking what is this all for, does anyone actually care? Like it doesn't matter what you do, it is never good enough.
+He read a reddit title that says "I think my CEO has AI psychosis". Timelines are getting shorter, it is never good enough because AI is trained to find everything wrong with it. It never ends and it goes forever.
+This is like what happened when the internet came out. It took the US around 10 years to penetrate about half the population. AI took 3 years to get over half the population where someone has asked some question.
+It is the same shift, but on a much more condensed timeline.
+The internet created an unbelievable amount of opportunity for Amway. This can too.
+We are going to see a ground swelling of people looking for something else. Community, business, everything.
+You are in the right place at the right time. Continue to grow your business, continue to talk to those high achievers out in the marketplace.
+
+## Mark and Jenn Pearson and Chat and Chelsea McCann
+It is not good for the IBO community to do as little as possible at your job because you think you are going diamond tomorrow
+*You cannot have selective gratitude*
+Gratefulness is a universal attitude
+By working their tail off at their jobs, they had no issues asking for time off when they needed it
+They were disciplined with their finances, their budget, their spending.
+People throw these landmines in their way and think "why is this happening to me?"
+You need to pay attention to where your money is going and how it is going to get a return
+If your parents are helping you with your bills, fine. But you need to start paying your own bills. Otherwise, you are asking for them to have leverage over you with your business.
+Don't be so impulsive. Immature people are impulsive, making short term decisions. Mature people take time to let their emotions simmer before making a decision.
+Is your decision making you look more like a 10 year old, or a 40 year old?
+If your budget is never in your control, it is never in the big things, but the small things. It is easy to rationalize a $14 cost on anything. Why don't you just add up all those expenses and come back?
+It is easy to read 15 pages a day, it is easy not to
+The alternatives to the Amway business, the things that seem sexy in the world. The mundane of building Amway isn't always sexy.
+Our competition isn't your job, other direct selling companies, but what you are hearing online
+People who gamble with crypto, stocks, actual gambling, they always post the wins but never the loses
+Seeing those things can desensitize you and this business will never pay out for you.
+Everyone is looking for the dopamine hit of instant gratification.
+What do I need to do today to impact my long term?
+I need to make decisions in 2026 that affect my outcome in 2027 or 2036.
+If you chase results without character development, you will get neither. You will never get anything in life without the character required to obtain it.
+You would love to have a platinum's business, Brent Harris's business, but could you sustain it?
+Can you effectively and quickly respond to 5 different people at the same time, help them with their life stuff? Organize last minute hotel problems?
+You don't go diamond, you become a diamond.
+What you should be looking for are people you can build lifelong relationships with
+Maturity is a double sided coin. Self reflect, the audacity to admit your flaws. But can you look outward as well, be curious about someone and their perspective, why they are feeling like that? It takes maturity to figure out why that person is feeling like that.
+Think "how can I relate to this person?"
+Don't pick friends based on people you have known the longest. Are they developing and improving? You are who you hang out with.
+He remembers thinking "how much can I follow their advice?" but he remembers Brent saying "I hope I build this well enough that they build it too" and he just thought "if this is the advice he is giving his kids, it is probably good enough for me"
+*Maturity means to zoom out*
+In the short term, it seems huge. In the long term, it is a tiny blip.
+Surely goodness will bloom, think long term. After they had someone quit who was close to them, they got someone else who is crushing it now.
+You have to go through it, just zoom out, everything is going to be ok.
+Your life can be up and to the right with this team. Spend time winning yourself over.
+"When I was a child, i thought and reasoned like a child. When I became a man, I left that behind me."
+You dont know exactly how it is going to look, but you have a coach and mentor who can help you see what it is going to look like.
+
+There is one pin, and that is platinum. A diamond is just a platinum who helped six people go platinum.
+When you are going diamond, you go through a lot of people.
+You have to create a vision. When you see their diamond video, imagine your diamond video. Who is going to be in it? What does it look like for me?
+It has to be a burning desire. Anyone who accomplishes anything great, they think about it all the time.
+
+## Paul and Morgan Kopecky
+His parents sponsored him, who were sponsored by his sister.
+If you have that competitive edge to you, you will actually go and do something about it when you get competitive. You don't necessarily have to already have that, but you will have to develop that.
+His sponsor's upline told him he couldn't do it, he was ready to get started right away after that.
+Paul showed up in Dennis's 15th leg. Good things come from depth.
+Paul asked Brent if he would help him to platinum, and he said "we will see". He said "I don't want you to make a liar out of me."
+The size of your plate is the size of everyone's plate. It isn't about having more time, but what you do with your time.
+Psalm 37:4 "Delight yourself in the Lord and He will give you the desires of your heart"
+Do you have desires in your heart? Things you desperately want? It has to be more than just wanting. It starts with hope.
+People get started full of hope. Hope is not a long term strategy. It has to become more than hope.
+"I was placed in his life to help him accomplish what he wants to accomplish"
+With maturity, the desires becomes less on what is in your heart and helping others achieve the desires in their heart
+People get so focused on what diamond is, as this grand accomplishment, and it scares them
+On the LTD diamond ring, there are 7 diamonds. None of the diamonds are a different size. They are all the same. He made a decision to build a platinum business. He became unapologetic. It went from a hope to an expectation.
+Hope is a desire for a specific outcome to occur. An expectation is that you believe it is guaranteed.
+You can make yourself any guarantee you are willing to back up.
+He became unapologetic, and he became attractive.
+*Most people are walking around like zombies, wake up.*
+The business grows with sustained consistency.
+Faith isn't about how big you believe, but how long you believe.
+You are the result of the decisions you made of your life.
+Happenstance don't happen to the person, they reveal the person.
+The grand result of it can seem big, but it is the journey.
+He had a great desire in his heart to have a son, he had two girls. His wife said "you got one more chance, make it happen buddy"
+You have to have the maturity and the excitement to do hard things. Grow a pair and a back bone.
+Start believing in yourself.
+***"Those who believe they can and those who believe they can't are both right."***
+What are you going to do if this dream of yours doesn't work out the way you think it will? "That possibility doesn't even enter my consciousness."
+You start operating with hope, but when you start operating with the expectation of not if but when, and you back it up, it absolutely shifts.
+It is the narrative you tell yourself. He just chose to believe.
+"Everyone talks, so listen to what they do"
+The desire of his heart is for you to experience the desire of your heart.
+"How good and pleasant it is when God's people live together in unity"
+It is relationship and purpose. Common unity and purpose.
+She had an aunt who sent her a message and said that she turned her back on her bloodline. It was painful to her. But she saw the decisions being made by her original family, and she doesn't want that in her life. It is just obvious that they have grown apart and don't know each other anymore.
+Later, she heard that her aunt's son was shot and killed by his 14 year old son. He was incarcerated, abusive, came back and tried to be the man of the house, and his son shot him for it.
+"Their dysfunction is not your fault. Because of your obedience to God, you have been able to protect your kids from the curse that befell your family."
+"I will not feel guilty for surrounding myself with people who will lift me up and encourage me not just tell me it will be ok. So I can show up for people who need me to show up for them."
+Never apologize for protecting the purity of your environment and your kid's environment. (This was after she shared a moment of vulnerability with a downline)
+"You are different" Yeah, I am different. I don't want the drama, I don't want the life you guys have, the drugs, violence, the teenage pregnancies...
+She didnt make decisions like a 10 year old for a long time, she earned the right to be able to now.
+She doesn't have to worry about the life she had to walk away from. That was her choice.
+
+# Session 2
+## 
