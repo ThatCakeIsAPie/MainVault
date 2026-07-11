@@ -316,4 +316,10 @@ If your belief is low:
 	5. Do you know what you are going to do with a new person on the customer side?
 2. Huddles
 	1. He started, had hope, but also doubts. He worked with his coach and started to get results.
-	2. 
+	2. He would read over his prospect notes for hours before he made the call because he was so nervous.
+	3. All that matters is if they are open minded or close minded. If they aren't open, no worries. If they are, great! That is all you are trying to figure out.
+3. Moving Brackets
+	1. You may not believe you can go 7500 yet, but you can go 1000.
+	2. Every time you hit a new pin, you believe "if i can hit this bracket, I can hit the next"
+	3. "Too many people are short sighted" You want to be long term thinking
+	4. 
