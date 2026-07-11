@@ -286,4 +286,9 @@ Prime time is 5-7 every single day
 If you fail to plan, you plan to fail
 Who do we need to prioritize? Who do we need to meet today?
 Don't just count on your willpower, just get rid of your distractions
-He didn't have facebook before business, but realized he could use it as a tool to build his business, so he started to use it. But he then found himself 
+He didn't have Facebook before business, but realized he could use it as a tool to build his business, so he started to use it. But he then found himself just scrolling and not actually being effective. So instead of saying "I'm not gonna use it". Just get rid of it and you don't have to worry about it at all.
+He set a timer on his phone that asks him if he wants more time. Adam Ladenburger set a password where he has to ask for more time from Kristen to get more time. Doesn't exactly make you feel like a knight in shining armor.
+Nothing is going to catch on fire if you wait a few minutes to catch back up on something later.
+If she had anything from upline that was addressed to her, she would read those first.
+Realize what is most important and what to get done first
+Just try putting your phone on airplane mode and be 100% intentive
