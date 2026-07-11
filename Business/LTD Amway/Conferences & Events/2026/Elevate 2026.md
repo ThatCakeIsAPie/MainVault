@@ -239,4 +239,12 @@ Joe has been a certified accountant for 52 years, and he has been married for 62
 In order to keep yourself out of trouble, you need to avoid being a hobbyist.
 If you get audited, if you have had multiple years of not making a profit, you can be labeled a hobbyist.
 His clients have never been audited
-If you have 
+If you have too big of a loss and write off too much, it can trigger an audit.
+The IRS looks primarily at how seriously you handle your business.
+The number one reason people lose audits is because people don't treat their business seriously and don't have things like written budgets, monthly profit and loss, etc.
+If you don't read books, you dont know what you are doing. If you don't have a budget, you don't have a target.
+It is important to conduct yourself in proper manner.
+Keep track of how much you get paid.
+If you deduct your miles, track your who, what, when and why.
+Current mile deduction is $0.72 cents per mile
+Keep your service receipts. If you get audited, you gotta prove the car drove the miles.
