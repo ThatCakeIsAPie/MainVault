@@ -262,3 +262,7 @@ If you get a letter from the IRS in the mail, call Joe
 ## DAWGS Panel
 We all have to choose to adapt and endure
 We have to choose to win no matter what
+Your info session, is non-negotiable. It is negotiable if you don't want to build a big business. But if you want to build a big business, it is a non-negotiable habit.
+He listens to audios on his way to work and reads when he cans because he needed the negativity out of his life.
+He started the way he did because his mom was building a network marketing business for 20 years. He told his mom he wanted to start an Amway business, and she was ecstatic about it.
+Be careful of feeling the need to be different, because that habit stems from a lack of rooting in your identity in Christ.
