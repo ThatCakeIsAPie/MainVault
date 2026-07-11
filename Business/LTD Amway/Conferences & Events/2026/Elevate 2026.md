@@ -304,3 +304,12 @@ When you have a goal and a priority, you don't need money to be happy
 ## Adam and Julie Rooda and Brody and LIz Swearingen
 The difference between hope and belief is action
 Continue to take action and plug in even when the business isn't growing the way you want. If your business hasnt grown as fast as you want, join the club. Keep going.
+They didn't have a personal sponsor for their first 7 months of working, they felt like failures. They plugged in and had to borrow other people's belief. But those 7 months showed to them that they can do it again. Just know you can borrow other people's beliefs.
+Continue failing forward and focus on just what you have your hands on
+Typically, you dont see people who are making money and doing great having low belief, it is always the people who are stuck and not growing.
+If your belief is low:
+1. Get customers
+	1. Either for yourself, or your downline.
+	2. Nothing builds belief more than selling products and making immediate income
+	3. They have a downline who started with a 600PV personal circle, now has a 2500PV personal circle through
+2. 
