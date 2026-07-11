@@ -378,4 +378,4 @@ Who has ever thought "I want to be a fly on the wall of your life"?
 	18. Action creates results
 
 ## Aaron Banks Panel
-If you want to have a stable long term business that will span generations, it is important you put in a few key ingredients: one is depth, one is calle
+If you want to have a stable long term business that will span generations, it is important you put in a few key ingredients: one is depth, one is called a taproot
