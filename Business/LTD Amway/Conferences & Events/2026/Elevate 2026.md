@@ -351,4 +351,15 @@ Who has ever thought "I want to be a fly on the wall of your life"?
 3. Communication is consistent
 	1. You are gonna be a burden either way. You just have to choose if you are a positive burden or a negative burden.
 	2. You think you are gonna be a burden, yeah, when you call him, he has to answer, but it is a good burden because he is gonna go 7500.
-	3. 
+	3. Before this business, you think that when someone left you on read, you think "something is wrong." But now, that thought is erased. You are pursuing someone who has a ton of responsibility. You are not bugging them, being a nuisance. He has never had to tell someone he is communicating too much.
+4. Their reaction time in instant
+	1. He knew that if his upline said to do something, it was to help him grow
+	2. React quick. Revelation is in application.
+	3. This is your business. Work your life around your business.
+	4. Family problems, relationship problems, faith problems, money problems, all are solved by actually building this business.
+5. They understand how to prioritize their business amongst their life
+	1. We should be elected on hard things, because when unelected hard things happen in our life, we know we will be fine, because we know we can handle hard things.
+	2. You are going to have to sacrifice a lot to be able to sit over there.
+	3. You sacrifice your freedom, or you sacrifice for your freedom. You are always sacrificing something, decide what you are sacrificing for.
+	4. When you make things about you, you forget about how much of an impact you have on other people.
+	5. He booked 60 meetings his first 90 days.
