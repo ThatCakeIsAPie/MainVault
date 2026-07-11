@@ -254,3 +254,9 @@ Tracking helps you stay on point in your business
 Have the hotel give you a copy of the bill
 Advertising, samples, when your orders come in, highlight them so you know what you sampled.
 You cant deduct entertainment outside of a meal in town if you are doing business (i.e. if you are sitting down with a prospect)
+Don't deduct your trip home to your parents for Christmas because they are in business
+Clothing is not deductible
+You can take up to 300 sqft for a home office
+If you get a letter from the IRS in the mail, call Joe
+
+## 
