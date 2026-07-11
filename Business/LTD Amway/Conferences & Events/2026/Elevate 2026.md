@@ -330,3 +330,11 @@ Their lives are dramatically changed because they decided to build this business
 If you feel like your team doesn't have belief, serve them
 
 ## Chat McCann and Drew Cam
+Who has ever thought "I want to be a fly on the wall of your life"?
+7 Things to Determine if You Are in a Platinum Pace
+1. You are following through on the commitment you made in a process
+	1. Early on, he committed to the daily habits with a maximums mentality
+	2. He operated his habits not with a minimums mentality, but a maximum mentality
+	3. Successful people do consistently what average people do occasionally
+	4. It is daily habits, we are not special people
+	5. Grade yourself. Go back to the commitments you made and grade yourself.
