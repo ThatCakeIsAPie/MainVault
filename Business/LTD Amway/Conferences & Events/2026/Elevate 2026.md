@@ -397,3 +397,4 @@ As long as you have depth flowing, people can quit and you can be fine
 All the people who quit would have had to do is not quit and they would have had a leg of platinums.
 When the first two people quit, the leg was only 600PV. Now, it has two platinums.
 
+## Tony and Lexi Caldwell and Kyle and Austin Brown
