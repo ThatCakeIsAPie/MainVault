@@ -425,4 +425,10 @@ A diamond regrets not tracking their entire business as they were going diamond
 You can develop the skill as well
 The sooner you start to track, the sooner you can have something you can show your team
 Starting a core run with tracking guarantees growth. Maybe not growth in PV, but it guarantees growth in some form or another.
-Tracking in business bleeds into every area of life
+Tracking in business bleeds into every area of life. You start paying attention to your finances, your relationships, etc.
+You aren't just banging your head against a wall anymore
+When you track consistently, you can start to be able to tell people your number. If you know what it takes to book an MG1, you can multiply it by 10 and start doing 10 a month.
+You need to know these names, know where people are at, and it will bring awareness.
+PV is the worst indicator for where your business is going, it tells you what has been happening for the past 3-6 months. The metrics you actually want to track is engagement in the system. How many audios are flowing through your business? How many people are on VIP? What are their reading habits?
+What are your personal indicators of where your business is going?
+***Personal note: I really like the idea of tracking things like listening flow, book flow, even things like exercise, for the entire team. Really systematizing personal development. Tracking not just business income, but even active income as well.***
