@@ -337,4 +337,18 @@ Who has ever thought "I want to be a fly on the wall of your life"?
 	2. He operated his habits not with a minimums mentality, but a maximum mentality
 	3. Successful people do consistently what average people do occasionally
 	4. It is daily habits, we are not special people
-	5. Grade yourself. Go back to the commitments you made and grade yourself.
+	5. Grade yourself. Go back to the commitments you made and grade yourself. Reading? Listening? Associating? Networking?
+	6. Be careful of comparison in terms of both who are above you, but also below you
+2. Activity is daily
+	1. 10 new conversations a day was his pace
+	2. If you choose to go to sleep instead of getting it done, you just voted for yourself to work for 40 years (Open to Goal like Alex Hormozi says)
+	3. Are you going to be an owner, or an employee?
+	4. You are going to have to win ugly
+	5. Confidence is earned, it isn't manufactured or a facade. Your self image is either going up or down based on the commitments you made to yourself.
+	6. Every time you do something you said you were gonna do, you gain competence.
+	7. It is not about perfection. No one is perfect. Just don't have two bad days, otherwise you just started a bad habit.
+	8. One is an accident, two is a choice
+3. Communication is consistent
+	1. You are gonna be a burden either way. You just have to choose if you are a positive burden or a negative burden.
+	2. You think you are gonna be a burden, yeah, when you call him, he has to answer, but it is a good burden because he is gonna go 7500.
+	3. 
