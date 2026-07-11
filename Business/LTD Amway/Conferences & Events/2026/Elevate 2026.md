@@ -232,4 +232,6 @@ She didnt make decisions like a 10 year old for a long time, she earned the righ
 She doesn't have to worry about the life she had to walk away from. That was her choice.
 
 # Session 2
-## 
+The cool thing about this business is that it flips the incentive structure of jobs. Jobs, they want to pay you the least for the most work, while you want to do the least for the most pay. Here, the harder you work, the more you earn, and the more your upline helps you make, the more they make.
+To win in this business, you need to help other people.
+## Mark Pearson and Joe DePetris
