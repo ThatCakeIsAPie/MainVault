@@ -234,4 +234,9 @@ She doesn't have to worry about the life she had to walk away from. That was her
 # Session 2
 The cool thing about this business is that it flips the incentive structure of jobs. Jobs, they want to pay you the least for the most work, while you want to do the least for the most pay. Here, the harder you work, the more you earn, and the more your upline helps you make, the more they make.
 To win in this business, you need to help other people.
-## Mark Pearson and Joe DePetris
+## Mark Pearson and Joe Depetris
+Joe has been a certified accountant for 52 years, and he has been married for 62 years
+In order to keep yourself out of trouble, you need to avoid being a hobbyist.
+If you get audited, if you have had multiple years of not making a profit, you can be labeled a hobbyist.
+His clients have never been audited
+If you have 
