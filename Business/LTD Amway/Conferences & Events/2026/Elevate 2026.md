@@ -388,3 +388,9 @@ Someone has to actually do the meetings and sponsor the IBOs
 You want to get momentum in your business
 You either want to get six deep or six wide, either way will build momentum
 He was not good at relationships, which is why he had to sponsor 12 wide.
+The last thing you need is 17 people trying to work with the same person. Communication is key.
+Volume can domino in depth, because if someone is at 150, the person above wants to be at 300 and actually earn a differential. The person above them wants to be at 600, etc.
+*If your volume fluctuates, it is because you don't have enough depth*
+You can't underestimate how powerful it is for a downline seeing their upline moving on, knowing that they had a hand in it.
+People can quit, but it doesn't have to be the end of that leg.
+As long as you have depth flowing, people can quit and you can be fine
