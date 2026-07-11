@@ -407,4 +407,15 @@ Tracking creates accountability. If you know you are going to send them a messag
 Whatever gets tracked gets managed, and what gets managed gets improved
 It is not a numbers game or a skills game, it is both
 Your feelings lie, your numbers don't
-You can go and go at this business, thinking you are working it hard, but you 
+You can go and go at this business, thinking you are working it hard, but you really aren't and don't have the data to back it up. The mind lies, the numbers don't.
+Jeff Bezos didn't build Amazon with good vibes and guesswork
+If you arent tracking it, at what point are you not even really a business owner?
+Data creates metrics. Tracking separates the amateurs from the professionals in this business
+You cant just let Amway track everything for you
+Tracking always tells you the truth
+What does your tracking look like?
+Sometimes your upline can say "no, keep it up, I am seeing progression here", but they cant do that without any numbers
+It is all about progression
+When you get with a coach, they know where you are at and what you are capable of.
+So many people are complacent and are so satisfied being average
+You have a comfort zone and a stress zone
