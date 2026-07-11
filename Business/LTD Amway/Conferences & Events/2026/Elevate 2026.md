@@ -398,3 +398,13 @@ All the people who quit would have had to do is not quit and they would have had
 When the first two people quit, the leg was only 600PV. Now, it has two platinums.
 
 ## Tony and Lexi Caldwell and Kyle and Austin Brown
+The sooner you fully step into owning your business is when they start their trajectory towards 7500PV
+There is a framework for going 7500PV
+Every business has a system for success
+If you dont know the inputs, the reps for your business that creates movement, you need to figure it out
+The sooner you start taking it seriously, the sooner you start to understand what it took for them to win at this business
+Tracking creates accountability. If you know you are going to send them a message with your stats, you don't want to send them a goose egg
+Whatever gets tracked gets managed, and what gets managed gets improved
+It is not a numbers game or a skills game, it is both
+Your feelings lie, your numbers don't
+You can go and go at this business, thinking you are working it hard, but you 
