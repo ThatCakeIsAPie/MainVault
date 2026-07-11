@@ -322,4 +322,11 @@ If your belief is low:
 	1. You may not believe you can go 7500 yet, but you can go 1000.
 	2. Every time you hit a new pin, you believe "if i can hit this bracket, I can hit the next"
 	3. "Too many people are short sighted" You want to be long term thinking
-	4. 
+	4. He had a person on his team who was in the military, got into an accident, and was around the team for a long while. Eventually, he decided to take ownership to move through the next bracket.
+	5. He still stayed plugged in, got some customer sales. He knew that if he stayed plugged in, eventually, the results will come.
+	6. One way to help people's belief is to serve them
+	7. People don't just serve you like that if they don't truly believe in you.
+Their lives are dramatically changed because they decided to build this business.
+If you feel like your team doesn't have belief, serve them
+
+## Chat McCann and Drew Cam
