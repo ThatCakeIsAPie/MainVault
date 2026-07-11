@@ -394,3 +394,6 @@ Volume can domino in depth, because if someone is at 150, the person above wants
 You can't underestimate how powerful it is for a downline seeing their upline moving on, knowing that they had a hand in it.
 People can quit, but it doesn't have to be the end of that leg.
 As long as you have depth flowing, people can quit and you can be fine
+All the people who quit would have had to do is not quit and they would have had a leg of platinums.
+When the first two people quit, the leg was only 600PV. Now, it has two platinums.
+
