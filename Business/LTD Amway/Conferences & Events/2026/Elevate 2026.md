@@ -722,4 +722,15 @@ When people are trying to get wide, they don't know what they are looking for. W
 When you improve your capacity, you can handle more commitments.
 Courage is not the absence of fear, but pushing through fear.
 If you said you were gonna go out today, but you didn't, it decreases your self image.
-You don't break cycles, you need to interrupt them. You neee
+You don't break cycles, you need to interrupt them. You need to consciously break this loop, force yourself to break that loop, and you can create a different loop in your life.
+You will get to a point of feeling more pressure from the inertia of doing the thing, that it is harder to stop doing the thing than to just keep going.
+It takes the most effort at the start. But once it is moving, it is harder to stop it.
+Never stop pushing.
+When you start a diet, someone will immediately offer you a pizza.
+When you make a commitment, you will face resistance. That is a sign to keep going.
+*It doesn't matter how hard you push on a rock, if the rock isn't moving, every time you try, your muscles are getting stronger. Eventually, the rock moves. The rock didn't get lighter, you got stronger. It happened because you didn't stop*
+You get claps at the start and at the end, but never in the middle.
+Every single one of us have a little bit of fear and doubt on the inside of us.
+When you start trying to hit a home run, and you have never played, you might not even hit the ball. But when working with a coach, they can tweak how you approach it. You need that constant feedback from your mentors.
+If you push without feedback, you can get lost.
+There is no value in information
