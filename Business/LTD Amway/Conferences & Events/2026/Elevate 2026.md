@@ -600,4 +600,8 @@ His first success principle was that when university was tough, people started q
 The second thing he had to do was to find a job. He applied to one job, interviewed with 7 people, met his second mentor on the last person. He eventually realized, seeing the stress of his boss, that if he does everything right, that guy's life is the end of his story.
 He met another guy who worked for 15 years, paid everything for a great lifestyle, and lost the most important thing in his life: his wife left him because he didn't give her the one thing she needed: time.
 He realized he was in the same traffic jam, at the same time, every day, he was in such a routine, he didn't know if he closed his eyes to be in the same day or not. He said to his mom, he didn't want to work for the bank anymore. She said the goal was to work for 40 years then die. He said "why? I don't care if people would kill for this, this isn't living."
-His now sponsor, Tony Pappalardo, called him and said "I am looking for someone sharp and looking for something more". He said "If you are seri"
+His now sponsor, Tony Pappalardo, called him and said "I am looking for someone sharp and looking for something more". He said "If you are serious, I will see you at 4." despite Luis working until 7. He called back, Tony said the same thing. He realized he was testing him. He asked for forgiveness instead of permission. He decided to sit down with him.
+"If he is going to scam me, what is he going to take? I'm already broke." Tony showed him something he never forgot.
+Tony gave him something more valuable than gold: a life of his own.
+"Who comes from america to the DR to help a dominican? White people are not that easy." is what he was being told by people.
+Tony was speaking quieter and quieter in a meeting when he realized most werent paying attention, until he was only speaking to one guy. 
