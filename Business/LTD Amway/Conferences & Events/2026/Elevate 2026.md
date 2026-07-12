@@ -431,10 +431,15 @@ When you track consistently, you can start to be able to tell people your number
 You need to know these names, know where people are at, and it will bring awareness.
 PV is the worst indicator for where your business is going, it tells you what has been happening for the past 3-6 months. The metrics you actually want to track is engagement in the system. How many audios are flowing through your business? How many people are on VIP? What are their reading habits?
 What are your personal indicators of where your business is going?
-***Personal note: I really like the idea of tracking things like listening flow, book flow, even things like exercise, for the entire team. Really systematizing personal development. Tracking not just business income, but even active income as well.***
+***Personal note: I really like the idea of tracking things like listening flow, book flow, even things like exercise, for the entire team. Really systematizing personal development. Tracking not just business income, but even active income as well. Really tracking the crucial KPIs for personal improvement for my dojo vision.***
 People think they were working hard in their head, they knew their numbers, they were able to make tweaks, 
 A couple on the team ran 150 meetings in a year, only sponsored 6 legs. They knew their numbers super well. Found out people were dropping out from the MG1 to the MG2, made some tweaks in their process for the MG1, now that couple is just barely missing 6/25 this conference. They went from a 70% no show rate to a 20%.
 "If you want what the leaders have, you need to do what the leaders are doing"
 No one in here earned access to Amway. But are you leveraging what you have access to?
 Every small environment is the newest person and their success
 It is hard to make progress if you aren't tracking
+Tracking is a vital element of your success and towards the mission of more souls on board.
+We are going to see thousands of lives saved and get to know Christ because of this
+
+# Session 3
+## Dominic and Katlyn Raniolo
