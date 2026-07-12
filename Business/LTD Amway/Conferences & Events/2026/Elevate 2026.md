@@ -769,4 +769,17 @@ You can't succeed with a poor man's mindset.
 Trust the process. Everything is the process. You aren't building your process, but your story.
 Nobody cares about a 1 month diamond, they care about the story of overcoming.
 Who he or she comes through it is what matters. Who you become is what actually matters.
-Do I like my exit? Do I like the products being sold in the system? Do you like yourself more now? If the answer is yes, it means you are moving in the right 
+Do I like my exit? Do I like the products being sold in the system? Do you like yourself more now? If the answer is yes, it means you are moving in the right direction.
+What you cannot measure, you cannot improve. You need to measure yourself every single day.
+The purpose of those habits is to get better.
+There is no progress without pain. Some people get good at the pain of it, they turn into victims. Amway doesn't pay victims. Amway doesn't care, they only pay productivity. And your productivity is tied to your emotional intelligence.
+He never had a bad month, every month taught him something.
+It taught him "who not to trust anymore" "never lose twice with the same people"
+The only thing that can be a habit once is quitting
+Nobody quits the day they quit, they quit three months ago. They just left the organization three months later.
+The result of the quitting makes us feel bad, but the most important part of the process is your thinking. If you think proper, every step will be done right.
+It isn't a process, it is a way of living.
+If you talk to a vegan about meat, you are offending their lifestyle.
+Many find the meeting in Iowa to be far, in Iowa. It is not about the distance, it is about the values.
+You are the lead in your group. He was the first 21 year old in his group, the first platinum, etc. He does not expect anyone to be better than him, he expects to be their mentor.
+You just have to ask "who do I need to become?" I am work ethic.
