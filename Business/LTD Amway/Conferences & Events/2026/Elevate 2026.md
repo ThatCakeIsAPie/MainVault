@@ -649,4 +649,11 @@ She had great parents, but was sexually abused at 12 and was very confused for a
 She thought "If someone treats something like that as not valuable, it must not be valuable"
 She was dating all kinds of guys, because she was trying to rewrite her story.
 She found what she had been missing all along, she had been trying to have the world tell her she is great. But this environment says "God doesn't make junk." She had felt like junk and kept seeking validation from the world.
-She had to learn to forgive herself, release the shame that was holding her back, to accept Jesus' perfect love and to forgive herself for being so mean to herself for so many years, to forgive her parents
+She had to learn to forgive herself, release the shame that was holding her back, to accept Jesus' perfect love and to forgive herself for being so mean to herself for so many years, to forgive her parents. She thought that her parents should have known better, but they are people just like us.
+She has a pure spirit, she knows what she is doing is right. God is so good, His perfect love is all that is needed.
+They don't like to let God in to help them, but they have had to learn how to do that, to pray "let His will be done"
+Maybe you are having trouble with self worth and doubt. *The answer is Jesus*
+
+Isn't it weird to be around joyful people? We are so used to people who are living miserably, especially in church.
+Nowhere in the Bible does it say to bow your head and close your eyes to pray.
+We have all taken on some kind of posture in prayer that isnt in the bible. But what is? Shout to the Lord i
