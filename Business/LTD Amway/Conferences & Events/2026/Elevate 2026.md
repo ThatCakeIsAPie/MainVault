@@ -553,3 +553,10 @@ He doesn't remember anything said during his first conference, but he remembers 
 ANF stands for America Needs Farmers, but another meaning is America Needs Fathers. America needs people of integrity, people where their worth is their word and their word is their worth
 He got started 25 years ago, it wasn't easy, but it was an incredible journey. He is a different person today.
 He needed to be the person he was when he was 25 years old before he met Amelia, otherwise he wouldn't have worked out with her.
+If you find something better, let him know. 25 years, no one has shown him anything better. This is a life's work. If you treat it like that, it will turn into that.
+She thought "if all those people did it, why can't I?"
+They weren't trying to impress anyone, they were building their dreams.
+Whatever you believe with feeling becomes your reality
+What is your belief? Your belief sets you up for either success or failure.
+What were you expecting? Hopefully you were expecting that you were gonna get something from this weekend that will help you move forward. You can always learn from somebody.
+She always had a heart of gratitude. She wouldn't start her day off without saying something she is grateful for.
