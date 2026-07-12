@@ -542,3 +542,9 @@ It is only a price if you quit. If you make it, it is an investment
 *You can't own something you didn't pay for*
 She is glad she had to pay for everything because it means she values it so much more.
 We are not about hand outs, we are about hand ups
+You are here because someone was willing to pay a price. How do you repay that price?
+This entire arena came from one couple. Do not see yourself as small and insignificant. You are here because of one couple that paid the price. We honor that by maintaining and stewarding their legacy.
+Take what was given to you and give it away. What you will end up giving away is your confidence and stability. You are gonna break away from depression. You are going to be a light in the darkness.
+
+## Kevin and Amelia Schwers
+His sponsor told him the story of Brent Harris, Kevin got up, told him "that sounds like the American dream, I want to meet him" and "what do I got to do to meet him?"
