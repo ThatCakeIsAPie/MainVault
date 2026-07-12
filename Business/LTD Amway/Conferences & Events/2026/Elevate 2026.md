@@ -590,3 +590,6 @@ You want to do it or not. If you reach into the huge pocket of excuses, you will
 His grandpa had 14 kids between 8 women. His grandma had 3 between 3.
 90% of the population will die in the same income bracket they were born. The 10% had social mobility. They had something the others didn't: information.
 If you grew up in a poor family, with poor education, with poor mindset, you have a 90% chance of dying there.
+His dad said "if you dont get educated, you will end up in the same position as my dad". He said "we are not eating with titles, im growing up in a different era. You grew up in an industrial era. We are living in the information age, and we are living differently."
+There are people making a full time income on TikTok by knowing a dance. The information age works different.
+He wasn't smart, but he wasn't stupid. His mentor had multiple houses, his dad didn't. 
