@@ -456,4 +456,19 @@ How to get unstuck in this business: AWD (Attitude, Work ethic, Dream)
 Glasses don't change your eyeballs, but they change how you see things
 Attitude is a choice, but it is a muscle
 He had to change his mindset from what is happening to him to what is happening for him
-He chose to think "how can I adjust and get better"
+He chose to think "how can I adjust and get better?"
+It is easy to think with a good attitude in a place like this, but what about when you are alone?
+Resistance is gonna happen.
+Resistance is required for growth in the gym. Why not have that mentality here?
+When you adopt that mindset, you start to expect that you are always one handshake away.
+Discipline shows up before results do
+He played video games because he had nothing else better to do
+He stopped playing games because this became the sport he wanted to win at
+"What is stopping you?" Write down the first word that came to you
+You don't win in the ring, you are revealed in the ring.
+Confidence is earned.
+Professionals don't operate based on emotions, they operate based on commitment.
+What is a dream for yourself?
+When the dream is blurry, the work gets hard
+Make your vision clear on what you want and what you don't want
+The short term is easier when you have a long term vision
