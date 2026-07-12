@@ -570,3 +570,11 @@ Your foxhole guy, your commitment to each other was to help each other survive.
 Find someone in your upline whom you respect and go earn their respect. It is a commitment every day to earn their respect.
 What you find is that there are people around the world who are freedom fighters, building this business just like you, whom you get to know and respect.
 There are people across the world who are world changers who will be your friends
+If you build this business to earn the respect of the leaders, they will be foxhole couples to you.
+
+## Luis and Jackie Moreta
+Don't leave this room taking it for granted. People are literally dying to cross the border, the ocean, just to enter this great country.
+You cant go into europe and say you are european. You cant go to Japan and say you are Asian. America is the only country in the world where you can come from anywhere and say you are American.
+Excellence is the only way good people can overtake evil.
+Evil only wins if good men do nothing.
+Broke mindset is all around the world. Some are expecting the government to come help them.
