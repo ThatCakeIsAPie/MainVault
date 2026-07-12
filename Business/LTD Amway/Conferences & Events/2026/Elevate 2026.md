@@ -610,4 +610,6 @@ He didn't have the resources when he went to his first function, so he slept on 
 After the function, he went home, told his team that they can quit, because he will find people that want it as much as him.
 He thought his boss was going to fire him when he said no to his vacation, but he still took it. He came back, his boss gave him a raise.
 Someone on his team would ask him "how are we doing?" and he always responded "we are doing good." Finally, he asked "when will we be doing bad?" he responded "when you quit and go back to that job."
-It doesn;
+It doesn't matter what happens to you or how you feel. What matters is what you do after it.
+After she saw her first conference, she told her mom she wasn't going back to school. Her mom said "then you are going to spend the rest of your life working at a grocery store". But she knew what she saw here.
+***Personal note: One of the most powerful things about winners is the ability to hear everything everyone around them are saying, but are able to filter out the signal from the noise.***
