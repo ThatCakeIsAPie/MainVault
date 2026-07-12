@@ -226,3 +226,10 @@
 - Shares log: external-ai-memory/lyle-telegram-x-shares-log.md
 - Skipped wiki (raw only): CS Lewis / St Basil quote cards, thin Belfort image, Elon "True" video, X Money product launch, Devon Eriksen tax/media post
 - Ledger: ~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json (+20 IDs)
+
+## [2026-07-12] ingest | Elevate 2026 conference notes
+
+- Raw source: `Research/raw/transcripts/2026-07-12-elevate-2026-conference-notes.md`
+- Distillate: `Research/ltd-amway/conferences/2026-07-12-elevate-2026-distillate.md`
+- Tracker updated: `Research/raw/processed-sources.md`
+- Extracted: input discipline, evidence-backed confidence, leading-indicator tracking, depth/systematic leadership, environment design, Christ-rooted identity, AI-era agency, and Lyle's Triple Diamond Daily Battle Sheet / dojo hooks.

@@ -14,6 +14,8 @@ This file tracks which source notes and folders have already been reviewed for p
 
 ## LTD Amway
 
+- **2026-07-12** — Ingested `Elevate 2026.md` conference notes; preserved full raw source at `Research/raw/transcripts/2026-07-12-elevate-2026-conference-notes.md`; created synthesis at `Research/ltd-amway/conferences/2026-07-12-elevate-2026-distillate.md`. High-signal themes: input discipline, confidence through evidence, leading-indicator tracking, depth/systematic leadership, environment, Christ-rooted identity, and AI-era agency.
+
 - **2026-07-12** — Ingested `2026-07-11 — NM Platinum Activity Benchmarks.md`; preserved raw source at `Research/raw/transcripts/2026-07-11-nm-platinum-activity-benchmarks.md` and expanded `Business/LTD Amway/Platinum 7500PV Activity Math.md` with structure, depth, sponsor-funnel, and timeline benchmarks.
 
 - **2026-05-21** — Business/LTD Amway/Info Sessions (FULL PROCESSING COMPLETE)
