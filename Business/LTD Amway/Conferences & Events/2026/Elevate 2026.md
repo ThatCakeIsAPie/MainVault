@@ -615,3 +615,4 @@ After she saw her first conference, she told her mom she wasn't going back to sc
 ***Personal note: One of the most powerful things about winners is the ability to hear everything everyone around them are saying, but are able to filter out the signal from the noise.***
 *The only thing that matters is the next step*
 They didn't come in looking like they do now. They came in rough.
+It is easy for the world to want to give you a raise or a promotion to tempt you away from what this place built you into. Build this first, so whatever happens next, you have options.
