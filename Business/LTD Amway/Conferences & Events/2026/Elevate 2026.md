@@ -782,4 +782,12 @@ It isn't a process, it is a way of living.
 If you talk to a vegan about meat, you are offending their lifestyle.
 Many find the meeting in Iowa to be far, in Iowa. It is not about the distance, it is about the values.
 You are the lead in your group. He was the first 21 year old in his group, the first platinum, etc. He does not expect anyone to be better than him, he expects to be their mentor.
-You just have to ask "who do I need to become?" I am work ethic.
+You just have to ask "who do I need to become?" I am work ethic. He cannot stop himself. He thinks "you have far too good of an attitude to work a job for 40 years, I have something for you"
+If you go out and you are not that person yet, you will be scared to talk to a stranger about the job market. Even if you have a freedom tool, you hide that freedom tool.
+He was so excited about his mentor, he couldn't stop talking about him.
+"Who can I contact when I am alone in my car?" No one
+He had to do something with somebody, somewhere. He didn't stop until he was free.
+Some people take this as a hobby, he takes it as a lifestyle.
+"There are things to life other than baseball" tell that to Babe Ruth. They will say "there are other things to life than being free"
+Make this your thing. There is no thing like this thing.
+This business is for those who believe this is their business. Make the decision that this is all you want to do.
