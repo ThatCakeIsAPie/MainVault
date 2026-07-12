@@ -733,4 +733,14 @@ You get claps at the start and at the end, but never in the middle.
 Every single one of us have a little bit of fear and doubt on the inside of us.
 When you start trying to hit a home run, and you have never played, you might not even hit the ball. But when working with a coach, they can tweak how you approach it. You need that constant feedback from your mentors.
 If you push without feedback, you can get lost.
-There is no value in information
+There is no value in information if you don't trust the source. You need to trust the source. Trust your mentor.
+You may not be hitting the ball, yet. But eventually, for the first time in your life, you hit the ball. It changes your subconscious.
+You have been trying this thing for 10 years, people make fun of you for not having hit your home run yet, but you haven't quit. You didn't know all the maneuvers, techniques, but you learned. And eventually, you hit a home run, and you realize, this is how it is supposed to be.
+*You will build your legacy when you leave this weekend.*
+The more you can stop connecting your emotional health with the results of the business, the quicker you will be happy and have the results.
+There is a point to having heart, but working smart is important too. You need to have confidence, otherwise, you won't do this.
+You have to go out there and earn your confidence.
+"Come early, stay late"
+You might not learn a ton when you go there, but you feel better about yourself because you went the extra mile.
+You won't do it perfect, but having a growth mindset is required.
+All your talents and abilities don't
