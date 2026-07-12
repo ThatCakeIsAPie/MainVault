@@ -713,4 +713,13 @@ He used to go to bed with an audio every night. For him, it was allowing him to 
 Ever heard a song you don't like? Even if you ignore it, it is still affecting you subconsciously.
 If he finished the day how he planned it, that day was won.
 He does not care if he won today or not.
-If I plant the 
+If I plant the right seeds for long enough, fruit will eventually come.
+His affirmations became his reality. If you tell yourself something you don't believe, if you say it enough, you will start to believe it.
+When you know you are ugly, you start reading books, listening to audios, to fix your mindset. At least now, you are an ugly guy with skills. But he eventually goes to a party, has skills, now he is dangerous. The best thing that ever happened to that ugly guy was he knew how ugly he was.
+If you know what you are, that is the starting point. Define your reality. If you can't define it, you can't change it.
+One woman gives that ugly guy a chance, and he goes from being ugly to having potential. "If one saw something in me, maybe others will."
+When people are trying to get wide, they don't know what they are looking for. Whatever result you get, any interaction you are involved with, you need a feedback loop.
+When you improve your capacity, you can handle more commitments.
+Courage is not the absence of fear, but pushing through fear.
+If you said you were gonna go out today, but you didn't, it decreases your self image.
+You don't break cycles, you need to interrupt them. You neee
