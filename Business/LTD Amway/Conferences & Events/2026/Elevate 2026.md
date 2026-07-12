@@ -644,3 +644,9 @@ Only because they kept going, his brother had hope. 24 months later, his brother
 They brought deaf, blind, paralyzed people, and Jesus healed them all. But a lazy person was the one person Jesus could not do anything for.
 ***The right thing will never be the easier thing. It is you against the world, it is supposed to be hard.***
 He used to be frustrated and angry with people. It was all about work and no room for God. They were doing everything they could do, but they weren't letting God do anything He could do.
+She remembered having this hole in her life. She didn't know what it was.
+She had great parents, but was sexually abused at 12 and was very confused for a long time.
+She thought "If someone treats something like that as not valuable, it must not be valuable"
+She was dating all kinds of guys, because she was trying to rewrite her story.
+She found what she had been missing all along, she had been trying to have the world tell her she is great. But this environment says "God doesn't make junk." She had felt like junk and kept seeking validation from the world.
+She had to learn to forgive herself, release the shame that was holding her back, to accept Jesus' perfect love and to forgive herself for being so mean to herself for so many years, to forgive her parents
