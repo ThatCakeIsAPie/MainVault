@@ -564,4 +564,9 @@ Sometimes we don't know how well we really have it compared to the rest of the w
 You have some mode of transportation. You have an app.
 What's happening in the last 4-5 years? Jobs have gotten easier and more comfortable. That is by design. Anything to keep you distracted, comfortable, sedated, average. That way, we don't go out and make some noise and find an opportunity and be a world changer. You are going to have to get out of your comfort zone. You are going to have to force yourself out of your comfort zone.
 How do you get out of your comfort zone? How do you earn the respect of those you want to earn the respect of?
-Brent and Brenda Harris were working to go Ruby. His goal for that month was to go 600PV. Halfway through, he got a phone call from Brent 
+Brent and Brenda Harris were working to go Ruby. His goal for that month was to go 600PV. Halfway through, he got a phone call from Brent "Congrats on 600PV. Are you gonna stop at that?" He said no sir, and went 1000
+Brent talked about being a foxhole guy. "Someone who you trust to have your back when things get incredibly difficult"
+Your foxhole guy, your commitment to each other was to help each other survive.
+Find someone in your upline whom you respect and go earn their respect. It is a commitment every day to earn their respect.
+What you find is that there are people around the world who are freedom fighters, building this business just like you, whom you get to know and respect.
+There are people across the world who are world changers who will be your friends
