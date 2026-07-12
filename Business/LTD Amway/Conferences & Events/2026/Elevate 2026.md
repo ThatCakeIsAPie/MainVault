@@ -604,4 +604,5 @@ His now sponsor, Tony Pappalardo, called him and said "I am looking for someone 
 "If he is going to scam me, what is he going to take? I'm already broke." Tony showed him something he never forgot.
 Tony gave him something more valuable than gold: a life of his own.
 "Who comes from america to the DR to help a dominican? White people are not that easy." is what he was being told by people.
-Tony was speaking quieter and quieter in a meeting when he realized most werent paying attention, until he was only speaking to one guy. 
+Tony was speaking quieter and quieter in a meeting when he realized most werent paying attention, until he was only speaking to one guy. That was the first guy he sponsored for Luis.
+His friends didn't trust Tony. Luis believed him. They were afraid that Tony was going to steal his organs.
