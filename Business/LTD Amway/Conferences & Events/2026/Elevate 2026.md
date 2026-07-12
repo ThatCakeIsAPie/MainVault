@@ -450,3 +450,10 @@ She didn't want to be an entrepreneur originally, because everyone she knew that
 She was grateful that someone was willing to teach her that actually walked the path
 This was the first time she realized she could actually design her life
 This was the first place where she saw people with time, money and impact
+If this was is your first conference, you found it. You can stop looking.
+He was only 600PV his first 12 months, he didnt get it right away
+How to get unstuck in this business: AWD (Attitude, Work ethic, Dream)
+Glasses don't change your eyeballs, but they change how you see things
+Attitude is a choice, but it is a muscle
+He had to change his mindset from what is happening to him to what is happening for him
+He chose to think "how can I adjust and get better"
