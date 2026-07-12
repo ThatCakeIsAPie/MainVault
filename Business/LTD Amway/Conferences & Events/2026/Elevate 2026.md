@@ -523,4 +523,14 @@ Everything you did today is something your future self can lean on
 This is a very creative business. If you go and mess up a bunch, you can't lose.
 It is like winning the lottery, but you have unlimited tickets.
 All you need is six platinum legs and Amway calls you a qualified Diamond
-Stop asking the question "how do I get motivated?" You don't need to do more, you
+Stop asking the question "how do I get motivated?" You don't need to do more, you need to do less of the unproductive stuff, so that way you can free your time and do more of the productive stuff.
+It looked like calendar prioritization
+Showing up to the meeting in scrubs and changing in the bathroom
+It looked like walking around the mall for six hours, trying on clothes fake just to be able to spend more time and talk to people
+Lucas made her workout plan, and it started with burning 100 calories. She remembers doing it, and she remembers having a thought that if she stopped at 50 calories, Lucas wouldn't know. But she hit that and said "ive done this before" and went further. She became aware of the two voices in your head.
+There is a voice in your head that wants you to lose and to quit so you don't help anybody
+The other realization is that she didn't have to listen to that voice
+We live in a world where it is normal to be emotionally unstable
+Success fluctuates, receipts don't
+You are going to have to be emotionally stable
+The version of them that started
