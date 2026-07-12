@@ -638,3 +638,6 @@ If you watch the news, you will think the world is falling into pieces.
 Just today, 500 lives were saved. How significant is that? We are saving souls. It isn't about putting people into seats, it is about saving souls.
 He looked at a guy while he was contacting at a mall, he didn't say anything because he already made 5 contacts that day. He heard a really loud noise, come to find out it was the one person he didn't speak to, despite making eye contact with. You never know what people are going through in their lives. He will never forget about that guy, the one contact he never made.
 People are praying for the life you have now.
+His own brother came to his door one day, crying. He told him "do you know why I didn't take my life today? Because you gave me hope."
+Only because they kept going, his brother had hope. 24 months later, his brother is in Q12 qualifications
+*Whose job are you doing? Whose job, when you are giving people hope? Leading them to truth, away from procrastination, toward diligence for their life.*
