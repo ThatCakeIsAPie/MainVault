@@ -596,4 +596,5 @@ He wasn't smart, but he wasn't stupid. His mentor had multiple houses, his dad d
 How many people are waiting for a real estate crash to buy a house? That is their plan? "Everything you did in the past is for me to be able to sit and wait"`
 ***Action is the new asset in the modern era***`
 Good people can go through bad things in bad times. Sometimes we can go to a graveyard and see good people dead and think "how is that fair?"
-His first success principle 
+His first success principle was that when university was tough, people started quitting. He stayed in there with the smartest people in that class. That is when he met his first mentor.
+The second thing he had to do was to find a job. He applied to one job, interviewed with 7 people, met his second mentor on the last person. He eventually realized, seeing the stress of his boss, that if he does everything right, that guy's life is the end of his story.
