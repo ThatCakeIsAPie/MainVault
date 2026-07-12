@@ -560,3 +560,8 @@ Whatever you believe with feeling becomes your reality
 What is your belief? Your belief sets you up for either success or failure.
 What were you expecting? Hopefully you were expecting that you were gonna get something from this weekend that will help you move forward. You can always learn from somebody.
 She always had a heart of gratitude. She wouldn't start her day off without saying something she is grateful for.
+Sometimes we don't know how well we really have it compared to the rest of the world. As Americans, we are somewhat spoiled. You can set the temperature to the exact temperature you want it.
+You have some mode of transportation. You have an app.
+What's happening in the last 4-5 years? Jobs have gotten easier and more comfortable. That is by design. Anything to keep you distracted, comfortable, sedated, average. That way, we don't go out and make some noise and find an opportunity and be a world changer. You are going to have to get out of your comfort zone. You are going to have to force yourself out of your comfort zone.
+How do you get out of your comfort zone? How do you earn the respect of those you want to earn the respect of?
+Brent and Brenda Harris were working to go Ruby. His goal for that month was to go 600PV. Halfway through, he got a phone call from Brent 
