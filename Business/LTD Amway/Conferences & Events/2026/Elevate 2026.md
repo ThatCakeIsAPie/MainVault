@@ -684,4 +684,14 @@ Are you afraid God is going to do worse in your finances, marriage, relationship
 There is so much life in no longer having control.
 The dominant voice of the earth is not to be the news, but the voices of the people of God
 His daughter comes into his bedroom to sleep because she says it is dark in her room. But she has a night light, his bedroom doesn't. She wasnt afraid of the dark, but being alone. The counter of the dark is the light. You can be the light.
-Jesus is not an at
+Jesus is not an attachment to your business.
+Everything starts to light up because you are attached to something bigger
+"But the marshes and swamps will never be purified" those are things that are disconnected from the river. The river cannot connect to it and purify it.
+For many of us, we are asking Jesus to do what He called us to do.
+If God just wanted you in Heaven, He would have just made you in Heaven. He has you here for a reason.
+Let it flow to those of you to the right and to the left.
+
+# Session Four
+## New Silvers/Golds/Platinums
+How you think when you lose will determine how you lose when you win
+Hard things will happen. When they do, just keep going.
