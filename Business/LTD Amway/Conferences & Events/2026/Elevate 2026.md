@@ -608,4 +608,5 @@ Tony was speaking quieter and quieter in a meeting when he realized most werent 
 His friends didn't trust Tony. Luis believed him. They were afraid that Tony was going to steal his organs.
 He didn't have the resources when he went to his first function, so he slept on the floor of the hotel, took showers in the bathroom, and didn't eat food the whole weekend. He was that dedicated.
 After the function, he went home, told his team that they can quit, because he will find people that want it as much as him.
-He thought his boss was going to fire him when he said no to his vacation, but he still took it. He came back, his boss gave him a raise
+He thought his boss was going to fire him when he said no to his vacation, but he still took it. He came back, his boss gave him a raise.
+Someone on his team would ask him "how are we doing?" and he always responded "we are doing good." Finally, he asked "when will we be doing bad?" he responded "when you quit and go back to that job."
