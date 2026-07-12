@@ -497,4 +497,16 @@ What do you want out of life? Most importantly, who do you want to do it with?
 You are either counting the cost or paying the price
 What is the price you are willing to pay? You not only get to pay the price, but you get to keep the receipts.
 The leaders paid a price for their success
-He remembered doing the work of the business and his confidence was very low. He tried the affirmations thing, he remembered paying the price.
+He remembered doing the work of the business and his confidence was very low. He tried the affirmations thing, he remembered paying the price. It worked. He paid the price for confidence.
+If you are in a relationship, you don't get to pay the price your spouse paid.
+You can't build a self image if you are self destructive
+Her receipt was a receipt full of saying no. She had to say no to cursing and to use her words more wisely to speak life. She had to stop drinking, it was a habit she had to hide her self image behind.
+Why do we hang out with people who do not support our hopes and dreams?
+*Critics are just people who have given up on their own dreams*
+"Does this action or individual align with who I am called to be?"
+Confidence comes from having standards, it is paid for in character
+You are not weak, your association is
+Fill your time with strong habits, and your time and life will start to fill up
+Your identity follows action
+You are who you think you are
+He won in sports, came into here and saw
