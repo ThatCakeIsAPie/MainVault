@@ -443,3 +443,10 @@ We are going to see thousands of lives saved and get to know Christ because of t
 
 # Session 3
 ## Dominic and Katlyn Raniolo
+Katlyn went 6/25 in 5 months single
+In a small town, growing up, you are limited in your perspective.
+She had never met anyone who had the life she would actually trade places with
+She didn't want to be an entrepreneur originally, because everyone she knew that was, their business owned them
+She was grateful that someone was willing to teach her that actually walked the path
+This was the first time she realized she could actually design her life
+This was the first place where she saw people with time, money and impact
