@@ -757,3 +757,16 @@ You need to ask yourself if the system works. This weekend is proof it works.
 The entry, the input, you need to control it. You only control it by understanding it.
 People don't value what they don't understand.
 How many hallway leaders are not valuing the system.
+Can I develop work ethic? Yes. How? Being with people who develop it.
+"I want to be 20 wide" find someone who is 20 wide
+It is hard to teach mindset, but you can get the mindset by being around people with the mindset.
+10 meetings a month is the number.
+More work is not better work. Better work is better work. You need to learn to become efficient.
+People want to build fast, but you ask them why, and they can't define what it means. Platinum is a platform.
+You don't want platinum fast, you want platinum right.
+100 books in one year was platinum right. By the time he finished his first year, he had a bookshelf full in his house.
+You can't succeed with a poor man's mindset.
+Trust the process. Everything is the process. You aren't building your process, but your story.
+Nobody cares about a 1 month diamond, they care about the story of overcoming.
+Who he or she comes through it is what matters. Who you become is what actually matters.
+Do I like my exit? Do I like the products being sold in the system? Do you like yourself more now? If the answer is yes, it means you are moving in the right 
