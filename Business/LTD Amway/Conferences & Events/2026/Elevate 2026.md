@@ -577,4 +577,10 @@ Don't leave this room taking it for granted. People are literally dying to cross
 You cant go into europe and say you are european. You cant go to Japan and say you are Asian. America is the only country in the world where you can come from anywhere and say you are American.
 Excellence is the only way good people can overtake evil.
 Evil only wins if good men do nothing.
-Broke mindset is all around the world. Some are expecting the government to come help them.
+Broke mindset is all around the world. Some are expecting the government to come help them. If they dont come, your family is going to die, unless you take responsibility.
+In the Dominican Republic, there is what is known as the "Kids' Responsibility" where the kids are expected to take care of their elders
+The middle class are confused because they think they are better off because they have credit, but they dont know just how broke they really are.
+People financing phones... that is incredible.
+The DR had to fight for their independence 3 times.
+The Founding Fathers put together the Free Enterprise system to let us be whoever we want to become.
+The Free Enterprise system allows you to fight for the only freedom they cannot give you: financial independence.
