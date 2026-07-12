@@ -548,3 +548,8 @@ Take what was given to you and give it away. What you will end up giving away is
 
 ## Kevin and Amelia Schwers
 His sponsor told him the story of Brent Harris, Kevin got up, told him "that sounds like the American dream, I want to meet him" and "what do I got to do to meet him?"
+Brent Harris told him "If you do what you are going to do this weekend instead of going with us, will it matter in 10, 15 years?"
+He doesn't remember anything said during his first conference, but he remembers how he felt about what they said, and what they said about this country, character, values, integrity.
+ANF stands for America Needs Farmers, but another meaning is America Needs Fathers. America needs people of integrity, people where their worth is their word and their word is their worth
+He got started 25 years ago, it wasn't easy, but it was an incredible journey. He is a different person today.
+He needed to be the person he was when he was 25 years old before he met Amelia, otherwise he wouldn't have worked out with her.
