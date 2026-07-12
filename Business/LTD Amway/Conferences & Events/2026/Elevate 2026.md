@@ -625,3 +625,10 @@ Their 7th leg is his brother that was making fun of him for building his busines
 If what you do is so good, why don't you teach your mom and brother to do it? In his business, his mom and brother are platinums.
 Their 8th platinum is a guy working in a car wash, saw his car, and said "whatever you are doing, I need to learn it"
 This group is one that is earned not by intentions, but performance.
+They have a tradition where they run in the DR heat for 2 hours, and they don't stop until the run is completed, running, crawling, they get to the end and say "i am one of the finishers"
+When they finished Diamond, they said to themselves "we are one of the few"
+
+# Sunday Service
+## Luis and Jackie Moreta
+If you aren't subservient, you may be the reason a blessing someone else is meant to receive doesn't come to fruition.
+"God will send you signs"
