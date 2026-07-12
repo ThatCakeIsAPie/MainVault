@@ -695,3 +695,7 @@ Let it flow to those of you to the right and to the left.
 ## New Silvers/Golds/Platinums
 How you think when you lose will determine how you lose when you win
 Hard things will happen. When they do, just keep going.
+There could be other things out there in the world that could give them what they want, but it wouldn't have everything they want all at once, nor the impact
+Platinum is predictable
+
+## New Rubies
