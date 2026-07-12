@@ -483,3 +483,10 @@ His life would have been so boring if he had not received this business
 He would not have been impoverished, he would have been something worse: average
 There is a list of slurs he would rather be called other than average
 This business gave him a place to win and a team to win with
+Wanna know why the average IBO only makes $800 a year? Because they are average. Because the average does absolutely nothing. They "try" it for a year and forget about it.
+The longer you postpone building a life you want is the longer you have to live in a life you don't want
+This business became his sport and he wasn't gonna let it beat him
+Has he had setbacks? Of course he has. But he has never quit.
+"I don't care if you finish first, second, or dead last, but you are going to finish the race."
+People quit when things get hard, because they assume it is going to be hard forever. But it is never hard forever: either it gets easier, you get stronger, or you stop.
+This isn't a tenure based business, but it is about longevity
