@@ -676,3 +676,12 @@ When you bend your knee actually lowers yourself and elevates the other person.
 Some of us have stayed ankle deep and never moved to the next level
 You are supposed to be a person of prayer, not for God to do what you want, but for you to do what God wants
 Waist deep is the most dangerous, because it does stuff to you IYKYK
+He started to ask God what He wants him to do
+Maybe you are praying, and He hasn't given you those aspects in your life. But He wants you to release something.
+After waist deep, it goes over your head, that is when you cannot go back. Most Christians have this mindset of "I will do it when I understand it." The reality is that you must do it until you understand it.
+Going all in is about giving up control.
+Are you afraid God is going to do worse in your finances, marriage, relationships, business, than you have done?
+There is so much life in no longer having control.
+The dominant voice of the earth is not to be the news, but the voices of the people of God
+His daughter comes into his bedroom to sleep because she says it is dark in her room. But she has a night light, his bedroom doesn't. She wasnt afraid of the dark, but being alone. The counter of the dark is the light. You can be the light.
+Jesus is not an at
