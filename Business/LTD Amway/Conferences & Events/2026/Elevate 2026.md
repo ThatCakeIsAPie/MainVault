@@ -472,3 +472,9 @@ What is a dream for yourself?
 When the dream is blurry, the work gets hard
 Make your vision clear on what you want and what you don't want
 The short term is easier when you have a long term vision
+His first 15 months, 1,500. His second 15 months, 15,000.
+"You haven't met your future best friends yet"
+It may not show up for a few years, but it is worth it
+
+## Aaron Banks
+No one decides if you win or 
