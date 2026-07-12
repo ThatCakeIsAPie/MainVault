@@ -641,3 +641,6 @@ People are praying for the life you have now.
 His own brother came to his door one day, crying. He told him "do you know why I didn't take my life today? Because you gave me hope."
 Only because they kept going, his brother had hope. 24 months later, his brother is in Q12 qualifications
 *Whose job are you doing? Whose job, when you are giving people hope? Leading them to truth, away from procrastination, toward diligence for their life.*
+They brought deaf, blind, paralyzed people, and Jesus healed them all. But a lazy person was the one person Jesus could not do anything for.
+***The right thing will never be the easier thing. It is you against the world, it is supposed to be hard.***
+He used to be frustrated and angry with people. It was all about work and no room for God. They were doing everything they could do, but they weren't letting God do anything He could do.
