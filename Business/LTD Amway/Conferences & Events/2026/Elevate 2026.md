@@ -698,3 +698,5 @@ Hard things will happen. When they do, just keep going.
 There could be other things out there in the world that could give them what they want, but it wouldn't have everything they want all at once, nor the impact
 Platinum is predictable
 They were growing, and they weren't. They were profitable, and they weren't. This team helped them stay steady.
+
+## Luis and Jackie Moreta
