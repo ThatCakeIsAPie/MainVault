@@ -606,3 +606,6 @@ Tony gave him something more valuable than gold: a life of his own.
 "Who comes from america to the DR to help a dominican? White people are not that easy." is what he was being told by people.
 Tony was speaking quieter and quieter in a meeting when he realized most werent paying attention, until he was only speaking to one guy. That was the first guy he sponsored for Luis.
 His friends didn't trust Tony. Luis believed him. They were afraid that Tony was going to steal his organs.
+He didn't have the resources when he went to his first function, so he slept on the floor of the hotel, took showers in the bathroom, and didn't eat food the whole weekend. He was that dedicated.
+After the function, he went home, told his team that they can quit, because he will find people that want it as much as him.
+He thought his boss was going to fire him when he said no to his vacation, but he still took it. He came back, his boss gave him a raise
