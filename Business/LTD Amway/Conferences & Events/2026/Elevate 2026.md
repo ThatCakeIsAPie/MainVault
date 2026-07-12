@@ -743,4 +743,17 @@ You have to go out there and earn your confidence.
 "Come early, stay late"
 You might not learn a ton when you go there, but you feel better about yourself because you went the extra mile.
 You won't do it perfect, but having a growth mindset is required.
-All your talents and abilities don't
+All your talents and abilities don't really matter. Being a team player just means "what does the team need?" and doing that.
+You may not have the habits and the results you want. Take responsibility for the results of your life. Focus on the growth that is possible. Don't dwell on failure.
+People weigh themselves down so much. Have a selective memory, forget about the things that don't matter.
+They forget quickly when they don't hit a goal they wanted to hit.
+She remembers the commmitments that they made to their upline, and forgot the things that don't serve them.
+Organized growth creates momentum. Unorganized growth creates chaos.
+If you see a beautiful garden, it is because someone is taking care of it, taking weeds out.
+To protect you from you is one of the smartest things you can do in your life
+You are going to have system problems or people problems in your business
+"If we need to have a talk about stupid growth, it is because we are working with the wrong people"
+You need to ask yourself if the system works. This weekend is proof it works.
+The entry, the input, you need to control it. You only control it by understanding it.
+People don't value what they don't understand.
+How many hallway leaders are not valuing the system.
