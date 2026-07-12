@@ -509,4 +509,18 @@ You are not weak, your association is
 Fill your time with strong habits, and your time and life will start to fill up
 Your identity follows action
 You are who you think you are
-He won in sports, came into here and saw
+He won in sports, came into here and saw a way bigger arena, and decided to win here
+The work we were doing, the price we were paying, it was only a matter of time until we had the success receipts.
+We had 14 months until the success audit was coming looking for that receipt
+We did not easy, we needed possible
+Don't pray for a lighter load, pray for a stronger back
+When the success audit came, they paid for it with consistency and attitude
+Introverts have an advantage in growing this business actually. The hand you have is a winning hand, you just have to play it a certain way.
+Enough is enough, im going to start following through on the small wins. Maybe it is a small comment to a random person.
+FOLLOW THROUGH
+Confidence comes from evidence
+Everything you did today is something your future self can lean on
+This is a very creative business. If you go and mess up a bunch, you can't lose.
+It is like winning the lottery, but you have unlimited tickets.
+All you need is six platinum legs and Amway calls you a qualified Diamond
+Stop asking the question "how do I get motivated?" You don't need to do more, you
