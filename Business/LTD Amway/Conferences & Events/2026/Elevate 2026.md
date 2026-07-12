@@ -614,3 +614,4 @@ It doesn't matter what happens to you or how you feel. What matters is what you 
 After she saw her first conference, she told her mom she wasn't going back to school. Her mom said "then you are going to spend the rest of your life working at a grocery store". But she knew what she saw here.
 ***Personal note: One of the most powerful things about winners is the ability to hear everything everyone around them are saying, but are able to filter out the signal from the noise.***
 *The only thing that matters is the next step*
+They didn't come in looking like they do now. They came in rough.
