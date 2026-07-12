@@ -654,10 +654,18 @@ She has a pure spirit, she knows what she is doing is right. God is so good, His
 They don't like to let God in to help them, but they have had to learn how to do that, to pray "let His will be done"
 Maybe you are having trouble with self worth and doubt. *The answer is Jesus*
 
+## Dustin Smith
 Isn't it weird to be around joyful people? We are so used to people who are living miserably, especially in church.
 Nowhere in the Bible does it say to bow your head and close your eyes to pray.
 We have all taken on some kind of posture in prayer that isnt in the bible. But what is? Shout to the Lord in worship
 He was so used to people faking their way through the motions. He came to church and thought "these people are REALLY good at faking it". He started to label church as cultish, attaching negative labels to it because he didn't understand it.
 Jesus healed a man, he became of his right mind, and the town got scared and told Jesus to leave
 "Funny, you weren't scared when they were being tormented and sick, you just kept your distance." You can kind of shut yourself down to the hope, because it means "now I have to adjust something"
-He was used to church telling him that just do your best, dont
+He was used to church telling him that just do your best, dont go to hell, and stay steady until you get to heaven.
+They were taught that Jesus just wanted to implement some behavior moderation. He felt like he was doing the right things, but he was dead inside.
+Church hasn't done much to really help Jesus get into people's hearts.
+Satan whispers identity questions "you aren't that great". It is the same trick, he wants to whisper that you aren't valuable, you wont succeed. Jesus says "All who are thirsty, come to me and drink."
+Jesus wants to fill you to be released by you.
+"To those who believe in me will have a river flowing from their bellies"
+There is an invitation here to have a life change.
+Ezekiel 46 
