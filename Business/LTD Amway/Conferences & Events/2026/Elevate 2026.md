@@ -490,3 +490,6 @@ Has he had setbacks? Of course he has. But he has never quit.
 "I don't care if you finish first, second, or dead last, but you are going to finish the race."
 People quit when things get hard, because they assume it is going to be hard forever. But it is never hard forever: either it gets easier, you get stronger, or you stop.
 This isn't a tenure based business, but it is about longevity
+We won't take all the possessions when we pass, but we will take the relationships
+What do you want out of life? Most importantly, who do you want to do it with?
+
