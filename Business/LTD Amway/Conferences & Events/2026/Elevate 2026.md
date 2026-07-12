@@ -700,3 +700,17 @@ Platinum is predictable
 They were growing, and they weren't. They were profitable, and they weren't. This team helped them stay steady.
 
 ## Luis and Jackie Moreta
+There is a right way to build Amway. There are other ways.
+The problem Amway has is that they allow employee minded people to start businesses
+This business will expose you. Whatever you are is what you will get.
+If you are mediocre, you will receive mediocrity
+What got them there? They are not charismatic leaders, they are systematic leaders.
+Some organizations operate off of charisma, but that growth is not duplicatable.
+Systematic growth is required.
+How straight you carry yourself is your reputation.
+What are your habits daily?
+He used to go to bed with an audio every night. For him, it was allowing him to maximize his time.
+Ever heard a song you don't like? Even if you ignore it, it is still affecting you subconsciously.
+If he finished the day how he planned it, that day was won.
+He does not care if he won today or not.
+If I plant the 
