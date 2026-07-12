@@ -14,6 +14,8 @@ This file tracks which source notes and folders have already been reviewed for p
 
 ## LTD Amway
 
+- **2026-07-12** — Ingested `2026-07-11 — NM Platinum Activity Benchmarks.md`; preserved raw source at `Research/raw/transcripts/2026-07-11-nm-platinum-activity-benchmarks.md` and expanded `Business/LTD Amway/Platinum 7500PV Activity Math.md` with structure, depth, sponsor-funnel, and timeline benchmarks.
+
 - **2026-05-21** — Business/LTD Amway/Info Sessions (FULL PROCESSING COMPLETE)
   - All 50+ Info Session notes reviewed via targeted pattern searches across the entire folder
   - Confirmed and strengthened: Network Marketing as Leadership Development System (foundational, 25–35+ references)
