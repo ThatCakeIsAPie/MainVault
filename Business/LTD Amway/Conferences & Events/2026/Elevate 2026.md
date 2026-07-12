@@ -493,3 +493,8 @@ This isn't a tenure based business, but it is about longevity
 We won't take all the possessions when we pass, but we will take the relationships
 What do you want out of life? Most importantly, who do you want to do it with?
 
+## Lucas and Madison Jordan
+You are either counting the cost or paying the price
+What is the price you are willing to pay? You not only get to pay the price, but you get to keep the receipts.
+The leaders paid a price for their success
+He remembered doing the work of the business and his confidence was very low. He tried the affirmations thing, he remembered paying the price.
