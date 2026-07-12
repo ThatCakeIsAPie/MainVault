@@ -593,3 +593,7 @@ If you grew up in a poor family, with poor education, with poor mindset, you hav
 His dad said "if you dont get educated, you will end up in the same position as my dad". He said "we are not eating with titles, im growing up in a different era. You grew up in an industrial era. We are living in the information age, and we are living differently."
 There are people making a full time income on TikTok by knowing a dance. The information age works different.
 He wasn't smart, but he wasn't stupid. His mentor had multiple houses, his dad didn't. 
+How many people are waiting for a real estate crash to buy a house? That is their plan? "Everything you did in the past is for me to be able to sit and wait"`
+***Action is the new asset in the modern era***`
+Good people can go through bad things in bad times. Sometimes we can go to a graveyard and see good people dead and think "how is that fair?"
+His first success principle 
