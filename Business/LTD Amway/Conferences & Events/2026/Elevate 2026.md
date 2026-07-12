@@ -692,10 +692,9 @@ If God just wanted you in Heaven, He would have just made you in Heaven. He has 
 Let it flow to those of you to the right and to the left.
 
 # Session Four
-## New Silvers/Golds/Platinums
+## New Silvers/Golds/Platinums/Rubies
 How you think when you lose will determine how you lose when you win
 Hard things will happen. When they do, just keep going.
 There could be other things out there in the world that could give them what they want, but it wouldn't have everything they want all at once, nor the impact
 Platinum is predictable
-
-## New Rubies
+They were growing, and they weren't. They were profitable, and they weren't. This team helped them stay steady.
