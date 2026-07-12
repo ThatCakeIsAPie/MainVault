@@ -477,4 +477,9 @@ His first 15 months, 1,500. His second 15 months, 15,000.
 It may not show up for a few years, but it is worth it
 
 ## Aaron Banks
-No one decides if you win or 
+No one decides if you win or lose here except for you
+Are you playing on the field? Or are you sitting on the sideline waiting for someone to invite you onto the field?
+His life would have been so boring if he had not received this business
+He would not have been impoverished, he would have been something worse: average
+There is a list of slurs he would rather be called other than average
+This business gave him a place to win and a team to win with
