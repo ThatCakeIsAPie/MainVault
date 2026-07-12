@@ -533,4 +533,12 @@ The other realization is that she didn't have to listen to that voice
 We live in a world where it is normal to be emotionally unstable
 Success fluctuates, receipts don't
 You are going to have to be emotionally stable
-The version of them that started
+The version of them that started was not good enough yet to build a big business. But what they got access to? Books.
+Growth is not measured in time, but in change.
+"What fills you, forms you and flows from you and somebody is getting that overflow from you"
+He remembers not feeling like going and building the business after work. But he would get in his car, and see what he duct taped onto his steering wheel: FREEDOM!!! with 20 legs branching off of it
+***Personal note: I remember the old phrase that you want to go 20 wide, 20 deep***
+It is only a price if you quit. If you make it, it is an investment
+*You can't own something you didn't pay for*
+She is glad she had to pay for everything because it means she values it so much more.
+We are not about hand outs, we are about hand ups
