@@ -668,4 +668,11 @@ Satan whispers identity questions "you aren't that great". It is the same trick,
 Jesus wants to fill you to be released by you.
 "To those who believe in me will have a river flowing from their bellies"
 There is an invitation here to have a life change.
-Ezekiel 46 
+Ezekiel 46
+The thing about ankle deep is that it is enough to make you feel like you are in it and part of it, but not fully committed. That is where Jesus invites us into the river.
+There is a journey that God is wanting to lead you in.
+You go from ankle deep to knee deep. Knee deep signifies that there is a prayer life here. It signifies that God is getting more of you.
+When you bend your knee actually lowers yourself and elevates the other person.
+Some of us have stayed ankle deep and never moved to the next level
+You are supposed to be a person of prayer, not for God to do what you want, but for you to do what God wants
+Waist deep is the most dangerous, because it does stuff to you IYKYK
