@@ -584,3 +584,9 @@ People financing phones... that is incredible.
 The DR had to fight for their independence 3 times.
 The Founding Fathers put together the Free Enterprise system to let us be whoever we want to become.
 The Free Enterprise system allows you to fight for the only freedom they cannot give you: financial independence.
+His grandpa made the mistake of becoming a farmer. His dad ran away to go to school, his grandfather never approved because he thought he should be on the farm instead. His father made a man decision as a kid.
+When his dad finished school, he applied for a scholarship to become an engineer and got accepted.
+You want to do it or not. If you reach into the huge pocket of excuses, you will find one. NEVER REACH INTO THAT POCKET!
+His grandpa had 14 kids between 8 women. His grandma had 3 between 3.
+90% of the population will die in the same income bracket they were born. The 10% had social mobility. They had something the others didn't: information.
+If you grew up in a poor family, with poor education, with poor mindset, you have a 90% chance of dying there.
