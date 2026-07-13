@@ -241,3 +241,4 @@
 - Updated principle: `Research/concepts/offshoots/self-governance-by-contributors.md`
 - Faleth implication: participation is structurally harder than unilateral control; bounded decision rights, transparent economics, small cells, and explicit interfaces make the complexity governable.
 - Continuation added from pp. 117–118: Semco diagnosed “bigness” as the destruction of comprehension, consequential influence, and belonging; updated `The Cell Framework` and the self-governance principle with **human legibility** as a cell-division signal.
+- Concrete case evidence added from pp. 122–125: 30-person/15,000-square-foot electronics unit; inventory −40%; defects <1%; three units reached next-day delivery; Semco heuristic ≈150 people, with severe coordination drag visible at 200. Added a before/after cell-split measurement set and explicit memoir-evidence limitations.
