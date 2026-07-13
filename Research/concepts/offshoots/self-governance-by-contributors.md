@@ -24,6 +24,7 @@ Ricardo Semler supplies an important constraint: participation is not superior b
 - Disputes are resolved through defined mechanisms rather than top-down fiat.
 - Office-level decisions (Class A voting) are reserved for those who have earned stewardship through contribution.
 - As subsidiaries scale, they divide into self-organizing cells rather than adding management layers. Each cell runs its own contribution pool with clear input/output interfaces to other cells.
+- A cell’s practical scale limit is **human legibility**: once participants cannot understand what is happening, influence important decisions, know one another’s contributions, debate strategy, or experience belonging, the unit should prepare to divide.
 - Semco’s participatory model treats employee voice and development as structural authority rather than executive rhetoric; the complexity is accepted and bounded rather than used as an excuse for unilateral control.
 
 ### Related Principles

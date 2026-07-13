@@ -47,3 +47,41 @@ The necessary caution is equally important: participation increases coordination
 - [[concepts/offshoots/earned-equity-through-contribution]]
 - [[Business/Faleth Capital/The Governance Framework]]
 - [[Business/Faleth Capital/The Cell Framework]]
+
+## Organizational struggle: bigness destroys meaningful participation
+
+![[2026-07-12-maverick-semler-small-units-p117.jpg]]
+
+![[2026-07-12-maverick-semler-small-units-p118.jpg]]
+
+After Semco’s acquisitions produced organizational problems, João Vendramim studied alternatives at Volvo, W. L. Gore, Samsung, Toyota, Kyocera, Sharp, and TDK. His diagnosis was not merely that Semco needed kinder managers. Semco had become too large for employees to understand the whole, influence consequential decisions, or feel that they belonged.
+
+> “There is no way to treat employees as responsible and honest adults unless you let them know and influence what is going on around them,” Vendramim told us when he returned from his world tour. “And there is no way to let them become involved in the decisions that affect them if the plant they work in has too many people.
+>
+> “Yes, there are schemes and mechanisms to convince people that they matter, but they don’t work for long. At some point the workers notice that they are never consulted about the really important decisions. The only way to change is to make each business unit small enough so that people can understand what is going on and contribute accordingly.”
+
+Semler continues:
+
+> According to Vendramim’s diagnosis, Semco was already afflicted with an acute case of bigness, brought on by our acquisitions and our success. The cure was logical, if unfashionable in an age of conglomeration. Factories that had become too large for their own good should be broken into units small enough to insure that the people who worked in them would feel human again. In a small factory it is possible to know everyone by their first name, to debate plans and strategies, to feel involved. *To belong.*
+>
+> Vendramim’s proposal was that Semco should replicate itself like an amoeba. So we prepared to divide.
+
+## Distillation: participation has a scale limit
+
+The mechanism is more precise than “decentralization is good.” **Meaningful participation requires comprehensibility.** People cannot govern a system they cannot see, cannot connect their contribution to, and cannot influence at the level where consequential decisions are made.
+
+This distinguishes real participation from employee-engagement theater. Surveys, committees, and motivational language may temporarily communicate that people matter, but the illusion fails when workers discover that the important decisions remain distant and unilateral.
+
+The corrective is cellular division: when bigness makes accountability abstract and belonging impossible, split the organization into units small enough that participants can:
+
+- Know the people whose work and consequences they share
+- Understand the unit’s economics and operations
+- Debate plans and strategy
+- Trace their contribution into the result
+- Exercise actual authority over decisions affecting them
+
+## Direct Faleth convergence
+
+This is nearly the exact problem statement and biological mechanism already expressed in [[Business/Faleth Capital/The Cell Framework]]: do not answer scale by stacking management layers; divide into self-governing cells with clear interfaces and shared organism-level signals.
+
+The strongest new criterion from Semco is **human legibility**. A cell should split not only when coordination becomes inefficient, but when people can no longer understand what is happening, influence important decisions, know one another’s contributions, or experience genuine belonging. “Feeling human again” is not sentimental garnish; it is evidence that the governance unit has returned to a scale where agency can function.

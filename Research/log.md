@@ -240,3 +240,4 @@
 - Source image: `Research/raw/assets/books/2026-07-12-maverick-semler-employee-participation.jpg`
 - Updated principle: `Research/concepts/offshoots/self-governance-by-contributors.md`
 - Faleth implication: participation is structurally harder than unilateral control; bounded decision rights, transparent economics, small cells, and explicit interfaces make the complexity governable.
+- Continuation added from pp. 117–118: Semco diagnosed “bigness” as the destruction of comprehension, consequential influence, and belonging; updated `The Cell Framework` and the self-governance principle with **human legibility** as a cell-division signal.
