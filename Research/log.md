@@ -233,3 +233,10 @@
 - Distillate: `Research/ltd-amway/conferences/2026-07-12-elevate-2026-distillate.md`
 - Tracker updated: `Research/raw/processed-sources.md`
 - Extracted: input discipline, evidence-backed confidence, leading-indicator tracking, depth/systematic leadership, environment design, Christ-rooted identity, AI-era agency, and Lyle's Triple Diamond Daily Battle Sheet / dojo hooks.
+
+## [2026-07-12] ingest | Ricardo Semler, Maverick — employee participation
+
+- Raw excerpt + distillation: `Research/raw/transcripts/2026-07-12-maverick-semler-employee-participation.md`
+- Source image: `Research/raw/assets/books/2026-07-12-maverick-semler-employee-participation.jpg`
+- Updated principle: `Research/concepts/offshoots/self-governance-by-contributors.md`
+- Faleth implication: participation is structurally harder than unilateral control; bounded decision rights, transparent economics, small cells, and explicit interfaces make the complexity governable.
