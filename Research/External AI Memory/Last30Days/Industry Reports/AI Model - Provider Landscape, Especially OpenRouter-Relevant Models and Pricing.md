@@ -130,3 +130,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Lyle stack: Sonnet 5 **$2/$10/M**, GPT-5.5 **$5/$30/M**, DeepSeek V3.2 **~$0.21/$0.32/M** (slightly down), Laguna XS 2.1 **$0.06/$0.12/M**, `tencent/hy3:free` **$0/$0**, DeepSeek V4 Flash **$0.09/$0.18/M**.
 - Practical routing frame: Terra as everyday/agent mid-tier experiment vs Sonnet 5 / GPT-5.5; Luna/HY3/Laguna for volume; Sol for hard long-horizon only.
 - Signal: **strong** (full API + official pricing).
+
+### 2026-07-13
+- Official API **2026-07-13 ~11:01 UTC**: **345 models**, net **-2** versus Jul 10; exact removed IDs were not reconstructable from the prior compact snapshot. Lyle stack stable: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.2145/$0.32175/M** (cache **$0.02145**), Laguna XS 2.1 **$0.06/$0.12/M** plus `:free`; GPT-5.6 Sol/Terra/Luna and `hy3:free` stable ([API](https://openrouter.ai/api/v1/models)). Fresh FT RSS headline on enterprise Chinese-model adoption reinforces price pressure but is **snippet-level**. Signal: **strong** (API), **medium** (cost narrative).

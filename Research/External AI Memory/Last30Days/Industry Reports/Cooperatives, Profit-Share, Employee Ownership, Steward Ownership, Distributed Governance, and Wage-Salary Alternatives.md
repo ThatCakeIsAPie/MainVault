@@ -120,3 +120,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ### 2026-07-10
 - No new US federal rulemaking in 24h; **NCEO** stats (~6,609 ESOPs / 15.1M participants) and **Jul 14** PA/DE ESOP chapter event remain calendar/reference (**background**) ([NCEO](https://www.nceo.org/research/employee-ownership-by-the-numbers), [events](https://www.employeeownershipfoundation.org/events)).
 - Signal: **weak** (news); **medium** (calendar).
+
+### 2026-07-13
+- Targeted strict-window RSS returned no substantive U.S. ESOP/EOT/co-op transition or federal rulemaking. [NCEO data](https://www.nceo.org/research/employee-ownership-by-the-numbers), the [DOL Employee Ownership Initiative report](https://beta.dol.gov/research-data/surveys-reports-publications/employee-ownership-initiative-report-congress), and the Jul 14 regional event remain **background**. Signal: **weak** (daily); Faleth implication remains precision across profit share, equity economics, control, liquidity, and mission lock.

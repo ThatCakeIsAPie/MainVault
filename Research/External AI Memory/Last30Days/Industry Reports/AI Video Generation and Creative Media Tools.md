@@ -119,3 +119,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - **LitMedia integrates Seedance 2.5** (native 30s 4K) dated **Jul 9** on [agentic.ai/news](https://agentic.ai/news).
 - Comparison framing still **Kling 3.0 / Veo 3.1 / Runway** with **Sora API Sep 24, 2026** sunset (**background**, snippet-level) ([tech-insider](https://tech-insider.org/best-ai-video-generator-2026/)).
 - Signal: **medium** (Seedance distribution); **weak** (flagship foundation model price change).
+
+### 2026-07-13
+- Targeted strict-window RSS produced no substantive flagship model/API/pricing change. Production routing remains workflow-led (Kling/Veo/Seedance generation roles; Runway orchestration), with Sora migration as **background**. Signal: **weak**; no Faleth re-platforming action warranted.

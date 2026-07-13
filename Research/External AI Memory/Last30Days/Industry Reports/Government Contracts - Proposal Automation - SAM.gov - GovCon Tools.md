@@ -125,3 +125,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - **ISR due July 14** now **4 days out**; [sam.gov/esrs](https://sam.gov/esrs) messaging and Jun 10/Jun 26 subcontracting alerts unchanged ([announcements](https://sam.gov/announcements)).
 - X: SAM monitoring / proposal agents (e.g. SamStream-class, Polsia-class) — **vendor/social** ([govguynick](https://x.com/govguynick/status/2075203923468783618), [polsia](https://x.com/polsia/status/2075163788962394114)).
 - Signal: **strong** (official deadline); **medium** (agent tooling social).
+
+### 2026-07-13
+- **Mid-year ISRs due July 14 — 1 day.** Direct SAM.gov fetch confirms the active deadline/fix notice and the June eligibility-logic warning: extra contracts in Eligible Workspace do **not** automatically require reports; contractors must review role, PIID, plan, and submission need ([announcements](https://sam.gov/announcements), [eSRS transition](https://sam.gov/esrs), [volume notice](https://sam.gov/announcements/isr-workspace-increased-contract-volume)). Signal: **strong** (official); no verified strict-window proposal-tool launch.

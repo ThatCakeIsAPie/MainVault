@@ -119,3 +119,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ### 2026-07-10
 - Family-office direct-acquire guides and search-fund/ETA explainers refreshed—**background**; no verified US closing tape in 24h ([CT Acquisitions](https://ctacquisitions.com/guides/family-offices-acquiring-businesses-2026/), [Search Funds News](https://searchfundsnews.com/the-sf-model-in-2026-a-modern-path-to-eta/)).
 - Signal: **weak** (deals); **medium** (narrative).
+
+### 2026-07-13
+- A Jul 13 article frames Indian family offices as increasingly important **patient-capital** startup backers; useful global reinforcement, not evidence of a new U.S. LMM/search-fund deal trend ([MSN via Google News](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQR3JWLTFyMVJxaWdPTS1mYzZIRlZMalZOQ2Rfem5xeURtRTd1RklpaGpCaXRqWWcxMUhnRm1HTmlKRElVNXU3bnNMQmRsZkEzT0FScmozSVJiVE5FeXFOel8ycnotMzI2YVhuUFhDLWNWWUhkOTNrMTFOeGJvblB4Nmt6MnZhS0RJUlh2UDhzLV9ic052b2l5bl9BVEhYaURuV05BOXhQZnRUTS05SERzZmk5bTNpQW11Y1N0REhxVU5CZmRuMjQySzF3V2ZMX1h5TkpYR2gzV2JlaEF3bFZLQm9JNnZvS0hDYVpN?oc=5); RSS/snippet-level). Signal: **weak–medium**; Faleth remains build-first, acquire-selectively.
