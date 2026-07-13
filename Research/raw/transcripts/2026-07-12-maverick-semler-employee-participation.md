@@ -85,3 +85,79 @@ The corrective is cellular division: when bigness makes accountability abstract 
 This is nearly the exact problem statement and biological mechanism already expressed in [[Business/Faleth Capital/The Cell Framework]]: do not answer scale by stacking management layers; divide into self-governing cells with clear interfaces and shared organism-level signals.
 
 The strongest new criterion from Semco is **human legibility**. A cell should split not only when coordination becomes inefficient, but when people can no longer understand what is happening, influence important decisions, know one another’s contributions, or experience genuine belonging. “Feeling human again” is not sentimental garnish; it is evidence that the governance unit has returned to a scale where agency can function.
+
+## Concrete implementation and observed results — pp. 122–125
+
+![[2026-07-12-maverick-semler-amoeba-results-pp122-123.jpg]]
+
+![[2026-07-12-maverick-semler-unit-size-pp124-125.jpg]]
+
+### Reorganization described
+
+- Semco separated the electronics side of the Ipiranga plant into a new unit, DBDdata, at Jabaquara roughly **10 miles away**.
+- Approximately **30 employees** moved into a roughly **15,000-square-foot** shop.
+- The remaining Ipiranga employees were divided into two units: dishwashers; and slicers, peelers, and other food-preparation products.
+- Each of the three units had its own plant management, sales staff, and financial department.
+- Workers were given meaningful input into team formation: the three general managers selected people they wanted, workers could express whom they wanted to work with, and remaining “surplus” workers were redeployed or retrained rather than treated as automatic waste.
+
+### Waste discovered after separation
+
+The new electronics team found inventory and process waste that had been obscured inside the larger organization:
+
+- Approximately **three years’ worth** of expensive integrated circuits for a scale no longer in production
+- Several hundred displays that did not fit the scale housing being manufactured
+- Hundreds of transistors from work a supplier never returned
+- An MRPS purchasing system ordering some items at **double or triple the proper rate**
+
+### Operational changes
+
+- The DBDdata “Kids” created a new inventory system and installed a Brazilian *kanban*.
+- Components and raw materials were bar-coded by use in the assembly process and stored near the machines, making low stock immediately visible.
+- Employees posted financial information openly on a bulletin board.
+- They worked in white coveralls, used showers, and operated with open access to management.
+- At the plant entrance, each employee could mark their mood with a metal tag: green for “Good Mood,” yellow for “Careful,” and red for “Not Today—Please.” Coworkers adjusted accordingly.
+- In the other Ipiranga units, workers reorganized production into mobile teams rather than fixed stations; welders, forklift drivers, and machinists shifted tasks according to need.
+
+### Reported outcomes
+
+| Indicator | Reported outcome |
+|---|---:|
+| Inventory | **Reduced by 40%** |
+| Defects | **Reduced to less than 1%** |
+| Delivery | All three units eventually delivered products **the next day**—described as unprecedented in Hobart’s history and a Semco first |
+| Quality | Rose in both Ipiranga units as it had at DBDdata |
+| Staffing | Apparent surplus workers were largely retrained for other work; duplication of skills increased flexibility |
+
+Semler’s interpretation was that division eliminated rather than created waste. As Ipiranga became larger and more complex, it accumulated “nooks and crannies” where marginal or unproductive work could hide and where paper-shuffling multiplied.
+
+### Proposed scale threshold
+
+Semler distinguishes total company size from the number of people who must function together as one comprehensible unit:
+
+> Usually, though, people will perform at their potential only when they know almost everyone around them, which is generally when there are no more than 150 people. That is our experience, anyway. There again, we only had 200 employees at Ipiranga Eldorado before we split up the plant and interoffice mail would take two days to move from one department to another, a distance of less than 300 yards.
+
+His practical claims:
+
+- A company may employ **10,000** people if it organizes them into small business units.
+- A company with **1,000** employees under one roof can be organizationally giant, while one with **50,000** may still preserve small working groups.
+- Semco’s experienced upper bound for a humanly legible unit was generally around **150 people**.
+- At approximately **200 employees**, Ipiranga already exhibited severe coordination drag: internal mail took **two days** to travel less than **300 yards**.
+- Where equipment cannot physically move, Semler recommends creating accountable units inside the same factory—organized by product, market, machine, or another coherent criterion—with responsibility spanning sales, marketing, production, finance, human resources, and related functions.
+
+### Economic claim
+
+Semler reports that divided plants:
+
+- Made more money than when they were large
+- Recovered faster during bad periods or crises
+- Revealed that diseconomies of scale appeared sooner than most people recognized
+
+## Evidence assessment
+
+These pages materially strengthen the Semco case because they include operational mechanisms and before/after figures. They are still a management memoir rather than a controlled study: Semler does not provide complete baselines, time windows, unit economics, sample sizes, or counterfactuals. The responsible interpretation is therefore:
+
+- **Strong case evidence** that cellular division can expose hidden inventory, reduce defects, accelerate delivery, and improve flexibility
+- **Useful operating heuristic** around 150 people, supported by Semco’s experience but not a universal law
+- **Not sufficient alone** to claim that splitting units always causes superior profitability
+
+For Faleth, the most actionable point is that the split must grant **end-to-end informational and economic responsibility**, not merely redraw an org chart. A smaller department with the same remote authority is miniature bureaucracy, not a cell.
