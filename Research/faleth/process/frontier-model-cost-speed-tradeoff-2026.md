@@ -1,12 +1,14 @@
 ---
 title: Frontier Model Cost-Speed Tradeoff (SWE-1.7 signal, 2026)
 created: 2026-07-09
-updated: 2026-07-11
+updated: 2026-07-13
 type: principle
 tags: [ai, llm, inference, strategy, systems, leverage]
 sources:
   - research/raw/transcripts/lyle-x-share-2074882968770728416
   - research/raw/x-bookmarks/2026-07-11/2070155553431843153.md
+  - research/raw/x-bookmarks/2026-07-13/2075330642850496936.md
+  - research/raw/x-bookmarks/2026-07-13/2076302490027557073.md
 confidence: medium
 ---
 
@@ -19,6 +21,13 @@ A model that scores **near frontier** while running at **~1000 tok/s** and **fra
 ## Second signal (alphaXiv, 2026-07-11 bookmark)
 
 One-shot **SDPO paper reproduction** comparison: **GLM 5.2 ~$6.21** vs **Opus 4.8** (higher; post truncated). Hard task: messy verl issues, full ablations, confirm paper claims. Reinforces: **cost per completed hard job** matters as much as peak quality, especially for agent loops.
+
+## Hardware-efficiency signal (2026-07-13 bookmarks)
+
+- A referenced implementation claims DeepSeek-V4-Flash-class sparse-MoE inference on one 96 GB GPU using 2-bit experts plus an FP4 delta cache, with a related post claiming roughly **13% of prior hardware requirements** and asking for Terminal-Bench verification.
+- A separate Grok 4.5 launch thread claims “Opus-class speed” at **60% lower cost**, but the bookmarked root contains no benchmark details.
+
+These are **promising engineering and marketing signals, not established results**. The decision rule remains: benchmark the exact workload, completed-job cost, error rate, and wall-clock throughput before changing production routing.
 
 ## Faleth / Hermes implications
 
@@ -37,4 +46,6 @@ One-shot **SDPO paper reproduction** comparison: **GLM 5.2 ~$6.21** vs **Opus 4.
 
 - Raw: [[research/raw/transcripts/lyle-x-share-2074882968770728416]]
 - Bookmark raw: [[research/raw/x-bookmarks/2026-07-11/2070155553431843153]]
+- Hardware bookmark: [[research/raw/x-bookmarks/2026-07-13/2075330642850496936]]
+- Grok 4.5 claim: [[research/raw/x-bookmarks/2026-07-13/2076302490027557073]]
 - Related: [[research/faleth/process/agentic-loops-design-2026]]

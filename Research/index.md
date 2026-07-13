@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-11 | Total pages: 50+
+> Last updated: 2026-07-13 | Total pages: 50+
 
 ## Meta / schema
 
@@ -81,6 +81,7 @@
 - [[faleth/mindset/dont-be-a-career-jobs-2026]] — Refuse identity capture by job ladder; mission over resume.
 - [[faleth/mindset/million-dollar-floor-sweep-commitment-2026]] — Full excellence on the task in front of you (Terry Crews frame).
 - [[faleth/mindset/heart-intuition-guts-over-analysis-2026]] — Best bets use judgment under uncertainty, not spreadsheet theater.
+- [[faleth/mindset/action-without-audience-permission-2026]] — Stop treating imagined spectators as a permissioning authority; act when the feared audience is neither real nor consequential.
 
 **Bridge & strategy**
 - [[faleth/bridge-strategy/game-finish-bridge-2026]] — Indie game ship as cash-timing bridge alongside GovCon deals.
@@ -120,4 +121,5 @@
 - [[faleth/process/local-model-ownership-agency-2026]] — Ownership agency of local weights vs API rental
 - [[faleth/process/ai-as-sparring-partner-house-method-2026]] — Treat AI as fallible bounce partner (House method)
 - [[faleth/process/anthropic-prompting-craft-deleted-lecture-2026]] — Internal prompting craft signal; practice over permanent URLs
+- [[faleth/process/self-writing-vault-operating-loop-2026]] — Capture, immutable raw evidence, automated linking, recall, and recurring synthesis as a low-babysitting knowledge loop.
 

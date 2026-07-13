@@ -242,3 +242,18 @@
 - Faleth implication: participation is structurally harder than unilateral control; bounded decision rights, transparent economics, small cells, and explicit interfaces make the complexity governable.
 - Continuation added from pp. 117–118: Semco diagnosed “bigness” as the destruction of comprehension, consequential influence, and belonging; updated `The Cell Framework` and the self-governance principle with **human legibility** as a cell-division signal.
 - Concrete case evidence added from pp. 122–125: 30-person/15,000-square-foot electronics unit; inventory −40%; defects <1%; three units reached next-day delivery; Semco heuristic ≈150 people, with severe coordination drag visible at 200. Added a before/after cell-split measurement set and explicit memoir-evidence limitations.
+
+## [2026-07-13] ingest | X bookmarks daily batch (16)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-13T053024Z.json`)
+- Fetched 50; already in ledger 34; new **16**; processed **16**; truncated remainder 0
+- Raw created: `Research/raw/x-bookmarks/2026-07-13/<id>.md` × 16 (immutable body hashes verified)
+- Principles **created**:
+  - `faleth/mindset/action-without-audience-permission-2026`
+  - `faleth/process/self-writing-vault-operating-loop-2026`
+- Principles **updated**:
+  - `faleth/process/frontier-model-cost-speed-tradeoff-2026` (single-GPU sparse-MoE / FP4 hardware signal; Grok 4.5 cost-speed claim marked unverified)
+  - `faleth/process/hermes-cloud-and-x-mcp-2026` (`/steer`, default message mode, smartwatch operator surface)
+- Index updated: `Research/index.md` (2 new pages)
+- Skipped wiki (raw only): Psalm routine; heaven/gold image debate; self-hosted software list; Mac sleep joke; art-tip image; family-fun maxim; unattributed Jung quote; contextless image aphorisms; game-mechanic screenshot
+- Ledger: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+16 IDs after successful writes)
