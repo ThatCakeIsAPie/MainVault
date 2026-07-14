@@ -7,6 +7,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - The most practical first wedge remains Opportunity Radar before full proposal drafting: score opportunities, extract requirements, preserve sources, and route human decisions.
 - Government-data safeguards, CUI posture, model-retention settings, and audit trails are part of the product, not optional plumbing.
 - **Third-party model routers** (OpenRouter-class) are discussed for **non-CUI** GovCon prototyping; sensitive bid/CUI paths should stay on self-hosted or gov-grade clouds.
+- SAM.gov's ISR/SSR **AI “Validate Remarks”** pattern makes the proper automation boundary concrete: AI can suggest improvements, while named humans still own compliance review, anomaly handling, certification, and evidence retention.
 
 ## Major Shifts to Watch
 - Small-contractor tools marketing 24/7 SAM.gov monitoring plus compliant drafting as a lightweight alternative to GovWin-style platforms.
@@ -128,3 +129,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-13
 - **Mid-year ISRs due July 14 — 1 day.** Direct SAM.gov fetch confirms the active deadline/fix notice and the June eligibility-logic warning: extra contracts in Eligible Workspace do **not** automatically require reports; contractors must review role, PIID, plan, and submission need ([announcements](https://sam.gov/announcements), [eSRS transition](https://sam.gov/esrs), [volume notice](https://sam.gov/announcements/isr-workspace-increased-contract-volume)). Signal: **strong** (official); no verified strict-window proposal-tool launch.
+
+### 2026-07-14
+- **Mid-year ISRs are due today.** SAM.gov instructs contractors blocked by system issues to file an FSD ticket and notify the agency/higher-tier customer. Its AI **Validate Remarks** feature suggests strengths, weaknesses, improvements, and corrections, while official text explicitly preserves human compliance/anomaly-review responsibility ([SAM.gov eSRS transition](https://sam.gov/esrs), [announcements](https://sam.gov/announcements)). Signal: **strong** (official). Add AI-output disposition, named reviewer, certification, receipt, and escalation evidence to the GovCon OS.

@@ -9,6 +9,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Compound/router products such as Fusion need separate cost accounting because headline placeholder rows do not equal effective cost.
 - Prompt-cache and response-cache visibility should become part of every recurring agent workflow budget (OpenAI notes more predictable prompt caching / cache breakpoints on GPT-5.6).
 - **MCP-native routing** on aggregators (OpenRouter-class) is becoming the default interface for agent tool loops—not a side integration.
+- Provider **service tiers** (`flex` / `priority`) and per-endpoint price, latency, throughput, and uptime are becoming machine-readable routing inputs; a model ID alone no longer describes the operational service being bought.
 - Free/promo Chinese routes (**tencent/hy3:free**) and cheap coding workers (**poolside/laguna-xs-2.1**) remain critical for cron/volume economics until promos end.
 
 ## Major Shifts to Watch
@@ -133,3 +134,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-13
 - Official API **2026-07-13 ~11:01 UTC**: **345 models**, net **-2** versus Jul 10; exact removed IDs were not reconstructable from the prior compact snapshot. Lyle stack stable: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.2145/$0.32175/M** (cache **$0.02145**), Laguna XS 2.1 **$0.06/$0.12/M** plus `:free`; GPT-5.6 Sol/Terra/Luna and `hy3:free` stable ([API](https://openrouter.ai/api/v1/models)). Fresh FT RSS headline on enterprise Chinese-model adoption reinforces price pressure but is **snippet-level**. Signal: **strong** (API), **medium** (cost narrative).
+
+### 2026-07-14
+- Official API **~11:01 UTC**: **344 models**, net **-1**; today's full 344-ID snapshot establishes the baseline for exact future deltas, but yesterday's removed ID cannot be reconstructed. Lyle stack pricing remains stable. Official service-tier docs expose `flex`/`priority` and per-endpoint price, latency, throughput, and uptime; route policy should therefore log endpoint/service tier as well as model ID ([API](https://openrouter.ai/api/v1/models), [service tiers](https://openrouter.ai/docs/guides/features/service-tiers), [endpoint API](https://openrouter.ai/docs/api/api-reference/endpoints/list-all-endpoints-for-a-model)). Signal: **strong**.

@@ -123,3 +123,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-13
 - Targeted strict-window RSS returned no substantive U.S. ESOP/EOT/co-op transition or federal rulemaking. [NCEO data](https://www.nceo.org/research/employee-ownership-by-the-numbers), the [DOL Employee Ownership Initiative report](https://beta.dol.gov/research-data/surveys-reports-publications/employee-ownership-initiative-report-congress), and the Jul 14 regional event remain **background**. Signal: **weak** (daily); Faleth implication remains precision across profit share, equity economics, control, liquidity, and mission lock.
+
+### 2026-07-14
+- Current X surfaced several EOT succession/culture-preservation cases, while July 14 ESOP/exit-planner education events reinforced advisor infrastructure; case timing is partly **continuing/background**, not verified same-day transactions ([EOT case signal](https://x.com/IndianaCEO/status/2076643770385195415), [ESOP event](https://www.esopassociation.org/node/3325), [exit-planner session](https://nceoc.org/july-14-2026-advisors-edge-overview-of-employee-ownership-models-for-cpas-exit-planners-1-hr-ce-credit/)). Signal: **medium** for momentum, **weak** for strict-window policy novelty.

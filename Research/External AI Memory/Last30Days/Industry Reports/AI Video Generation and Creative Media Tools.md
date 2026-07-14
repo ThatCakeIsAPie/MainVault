@@ -122,3 +122,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-13
 - Targeted strict-window RSS produced no substantive flagship model/API/pricing change. Production routing remains workflow-led (Kling/Veo/Seedance generation roles; Runway orchestration), with Sora migration as **background**. Signal: **weak**; no Faleth re-platforming action warranted.
+
+### 2026-07-14
+- Current X testing emphasized Seedance 2.5-style reference-heavy generation/partial editing and Gemini Omni leaderboard momentum; exact capability and price claims remain **social-level** until official docs are inspected ([Seedance signal](https://x.com/nenkoro_life/status/2076815240722108767), [Artificial Analysis signal](https://x.com/ArtificialAnlys/status/2076747075036045645)). Signal: **medium** for creator direction, **weak** for verified flagship launch novelty.

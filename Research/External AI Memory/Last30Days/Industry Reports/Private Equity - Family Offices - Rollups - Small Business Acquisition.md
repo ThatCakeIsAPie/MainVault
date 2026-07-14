@@ -5,6 +5,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ## Current Direction
 - Lower-middle-market investing continues to center on owner transition, founder-dependence reduction, operational maturity, and credible operator benches.
 - Search funds and family offices are increasingly visible as acquisition paths, but the hard part remains sourcing, integration, management, and value creation.
+- European succession-focused funds/searchers are reinforcing **generational transition** as a durable acquisition driver; this is more strategically meaningful for Faleth than generic consolidation volume.
 - Faleth’s strongest stance remains build-first, acquire-selectively: buy only where operational improvement and mission-aligned governance are real, not because “rollup” sounds fancy in a pitch deck.
 
 ## Major Shifts to Watch
@@ -122,3 +123,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-13
 - A Jul 13 article frames Indian family offices as increasingly important **patient-capital** startup backers; useful global reinforcement, not evidence of a new U.S. LMM/search-fund deal trend ([MSN via Google News](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQR3JWLTFyMVJxaWdPTS1mYzZIRlZMalZOQ2Rfem5xeURtRTd1RklpaGpCaXRqWWcxMUhnRm1HTmlKRElVNXU3bnNMQmRsZkEzT0FScmozSVJiVE5FeXFOel8ycnotMzI2YVhuUFhDLWNWWUhkOTNrMTFOeGJvblB4Nmt6MnZhS0RJUlh2UDhzLV9ic052b2l5bl9BVEhYaURuV05BOXhQZnRUTS05SERzZmk5bTNpQW11Y1N0REhxVU5CZmRuMjQySzF3V2ZMX1h5TkpYR2gzV2JlaEF3bFZLQm9JNnZvS0hDYVpN?oc=5); RSS/snippet-level). Signal: **weak–medium**; Faleth remains build-first, acquire-selectively.
+
+### 2026-07-14
+- Fresh European signal included a **€50M SME generational-succession fund** and a Valencia-region search acquisition effort. Both reinforce succession + operator continuity, not U.S. LMM deal acceleration or easy multiple arbitrage ([Capital Riesgo via Google News RSS](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVUFIZGRXWVJNNHdtRFVVaVQ5Ukp2alpHeFNacC1ERUFrLWgzb2xfWTgta0NkWnJ2RDRKak5Ga1VLMTlxR0NRRXc4OThZZXhZRHExbGo1Y3pXM3RpdHZiT01heU1GLXBDeDhHOGNoeDdSUXJEemdjMXhSVjlMdS04S2RuZVdOZVJHekg1UUljZmRFUldtTzdlYzM2VVdHYXkwbXMzVHppLWFvcUJWV1FqSmozbDFTbVZyUm15WkxTWXVTZ3U1eXNtdUQ0aC0waXR4?oc=5), [Search Funds News](https://searchfundsnews.com/lilla-capital-aims-to-acquire-a-small-business-in-the-valencia-region/)). Signal: **medium** for succession direction, **weak–medium** for direct Faleth market applicability.
