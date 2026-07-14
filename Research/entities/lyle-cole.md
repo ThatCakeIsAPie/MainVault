@@ -44,5 +44,6 @@ Currently in **Step 2** of a five-step sequencing model: maximize active income 
 
 - **grok-narrate.html** — document-to-audio web app using xAI Grok TTS API (chunking, parallel processing, wake lock, voice selection)
 - **Free Range Repair** — mobile iPhone repair business; Notion CRM, Google Business Profile, Supabase/Cloud backend — no longer active focus
-- **Personal AI OS / OpenClaw** — JARVIS-like concept, OpenClaw on Google Cloud VM with Gemini — abandoned as lacking practical use case
+- **Personal AI OS / OpenClaw implementation** — earlier Gemini/OpenClaw version was shelved for lack of a concrete use case.
+- **JARVIS-style Delta voice interface** — revived as a practical Hermes extension in July 2026: phone-first live voice, then optional Raspberry Pi/wake-word presence; Hermes remains the memory/tool/subagent brain. See [[faleth/process/delta-phone-interface-grok-voice-hermes-2026]].
 - Explored RAG systems, local LLM inference hardware (strong understanding of memory bandwidth vs. compute tradeoffs)

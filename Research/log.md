@@ -274,3 +274,12 @@
   - `index.md` — added the new ZDR procurement-control page and bumped date
 - Skipped/blocked: none; the ZDR announcement remains explicitly marked as a vendor claim, and the Jung wording was not treated as primary-source verified.
 - Ledger target after successful wiki verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+3 IDs)
+
+## [2026-07-14] ingest | xAI Voice Agent Builder → Delta phone architecture
+
+- Shared source: `https://x.ai/voice?campaign=voice-agent-builder-updates-email`
+- Raw evidence: `Research/raw/articles/2026-07-14-xai-grok-voice-agent-builder.md`
+- Architecture: `Research/faleth/process/delta-phone-interface-grok-voice-hermes-2026.md`
+- Verified: realtime duplex voice, provisioned/BYO SIP numbers, signed incoming-call webhook, WebSocket join, remote MCP/custom functions, and `refer` call transfer.
+- Existing Hermes API server confirmed local-only and authenticated on `127.0.0.1:8642`; recommended public surface is a narrow HTTPS bridge, not direct exposure of Hermes or its full toolset.
+- Updated: `Research/entities/lyle-cole.md` to distinguish the shelved OpenClaw implementation from the revived phone-first Hermes voice vision; `Research/index.md` linked the architecture.

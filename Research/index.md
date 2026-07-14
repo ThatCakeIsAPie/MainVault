@@ -123,4 +123,5 @@
 - [[faleth/process/anthropic-prompting-craft-deleted-lecture-2026]] — Internal prompting craft signal; practice over permanent URLs
 - [[faleth/process/self-writing-vault-operating-loop-2026]] — Capture, immutable raw evidence, automated linking, recall, and recurring synthesis as a low-babysitting knowledge loop.
 - [[faleth/process/zero-data-retention-ai-procurement-control-2026]] — ZDR as a verifiable procurement and routing control for sensitive AI/code workflows.
+- [[faleth/process/delta-phone-interface-grok-voice-hermes-2026]] — Grok Voice as Delta's phone/duplex shell over a narrow, authenticated Hermes bridge.
 
