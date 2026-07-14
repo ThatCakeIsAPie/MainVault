@@ -257,3 +257,20 @@
 - Index updated: `Research/index.md` (2 new pages)
 - Skipped wiki (raw only): Psalm routine; heaven/gold image debate; self-hosted software list; Mac sleep joke; art-tip image; family-fun maxim; unattributed Jung quote; contextless image aphorisms; game-mechanic screenshot
 - Ledger: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+16 IDs after successful writes)
+
+## [2026-07-14] ingest | X bookmarks daily batch (3)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-14T053034Z.json`)
+- Fetched 50; already in ledger 47; new **3**; processed **3**; truncated remainder 0
+- Raw created:
+  - `raw/x-bookmarks/2026-07-14/2076692402442846289.md` — SpaceXAI Grok Build ZDR/privacy claim
+  - `raw/x-bookmarks/2026-07-14/2076351797673824318.md` — Ben Lang X Article, official API article expansion
+  - `raw/x-bookmarks/2026-07-14/2076508413962416274.md` — Jung tree/roots paraphrase with attribution caveat
+- Wiki created:
+  - `faleth/process/zero-data-retention-ai-procurement-control-2026.md`
+- Wiki updated:
+  - `concepts/offshoots/networking-and-connection-skills.md` — precise asks, low-friction help, active listening, useful follow-through, trust compounding
+  - `faleth/mindset/post-hardship-quantum-leaps-2026.md` — hardship as integration rather than romanticized suffering
+  - `index.md` — added the new ZDR procurement-control page and bumped date
+- Skipped/blocked: none; the ZDR announcement remains explicitly marked as a vendor claim, and the Jung wording was not treated as primary-source verified.
+- Ledger target after successful wiki verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+3 IDs)

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-13 | Total pages: 50+
+> Last updated: 2026-07-14 | Total pages: 50+
 
 ## Meta / schema
 
@@ -122,4 +122,5 @@
 - [[faleth/process/ai-as-sparring-partner-house-method-2026]] — Treat AI as fallible bounce partner (House method)
 - [[faleth/process/anthropic-prompting-craft-deleted-lecture-2026]] — Internal prompting craft signal; practice over permanent URLs
 - [[faleth/process/self-writing-vault-operating-loop-2026]] — Capture, immutable raw evidence, automated linking, recall, and recurring synthesis as a low-babysitting knowledge loop.
+- [[faleth/process/zero-data-retention-ai-procurement-control-2026]] — ZDR as a verifiable procurement and routing control for sensitive AI/code workflows.
 
