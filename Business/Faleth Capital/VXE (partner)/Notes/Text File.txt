@@ -1,4 +1,3 @@
 1. Confirm pricing
 2. Send shipping details in a separate email to Len's Altamax (size, weight, value, ship to, carrier), mark both shipping options up by 20%, spreadsheet
 3. Prepare a quote in Zoho
-4. Send the CAT quote to Len in a separate email
