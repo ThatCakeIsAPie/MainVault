@@ -32,6 +32,10 @@ The most important synthesis so far is [[foundational/network-marketing-as-leade
 
 For Lyle, LTD Amway currently functions as a leadership incubator and practical character-development arena that can feed the larger [[faleth-capital]] architecture rather than competing with it.
 
+## Governance boundary
+
+The leadership-development value does not make Amway/LTD sovereign infrastructure. Tristan Ghazal's contested public account of a twenty-year business being terminated is a reminder that mentorship, team culture, and accumulated relationship capital can sit inside a revocable platform contract. Lyle's durable stance is therefore **use the dojo without outsourcing identity, primary livelihood, intellectual property, audience, or long-term ownership to it**. See [[research/ltd-amway/case-studies/tristan-ghazal-amway-termination-2026]] and [[faleth/governance/peaceful-fork-voluntary-alignment-2026]].
+
 ## Related
 
 - [[amway]]

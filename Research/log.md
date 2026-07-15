@@ -284,6 +284,15 @@
 - Existing Hermes API server confirmed local-only and authenticated on `127.0.0.1:8642`; recommended public surface is a narrow HTTPS bridge, not direct exposure of Hermes or its full toolset.
 - Updated: `Research/entities/lyle-cole.md` to distinguish the shelved OpenClaw implementation from the revived phone-first Hermes voice vision; `Research/index.md` linked the architecture.
 
+## [2026-07-15] ingest | Tristan Ghazal public Amway termination account
+
+- Direct source: public Facebook post plus Lyle's Instagram screenshot of Tristan's author comment.
+- Raw transcript/evidence: `Research/raw/transcripts/2026-07-15-tristan-ghazal-amway-termination-public-account.md`
+- Screenshot asset + SHA-256: `Research/raw/assets/social/2026-07-15-tristan-ghazal-instagram-comment.jpg`
+- Case study: `Research/ltd-amway/case-studies/tristan-ghazal-amway-termination-2026.md`
+- Updated principles/entities: `Research/faleth/governance/peaceful-fork-voluntary-alignment-2026.md`, `Research/entities/ltd-amway.md`, and `Research/index.md`.
+- Evidence discipline: preserved Tristan's account and attributed quotes while marking motives, complaint details, contract grounds, and named parties' responses as unresolved/contested.
+
 ## [2026-07-15] ingest | X bookmarks daily batch (2)
 
 - Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-15T053043Z.json`)

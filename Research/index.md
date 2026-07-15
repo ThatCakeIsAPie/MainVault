@@ -92,6 +92,7 @@
 - [[faleth/governance/peaceful-fork-voluntary-alignment-2026]] — Voluntary alignment and peaceful fork without coercive upline rent.
 - [[faleth/operating-style/lyle-two-week-insights-2026-06-24]] — Jun 10–24 operating profile synthesis (goals, constraints, patterns).
 - [[faleth/biography-operating-system]] — Biographies compressed into queryable strategic intelligence for Faleth.
+- [[research/ltd-amway/case-studies/tristan-ghazal-amway-termination-2026]] — Contested 2026 termination account as a platform-ownership, due-process, and peaceful-fork governance stress test.
 
 ## Personal vision
 
