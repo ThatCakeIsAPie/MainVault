@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-14 | Total pages: 50+
+> Last updated: 2026-07-15 | Total pages: 50+
 
 ## Meta / schema
 
@@ -82,6 +82,7 @@
 - [[faleth/mindset/million-dollar-floor-sweep-commitment-2026]] — Full excellence on the task in front of you (Terry Crews frame).
 - [[faleth/mindset/heart-intuition-guts-over-analysis-2026]] — Best bets use judgment under uncertainty, not spreadsheet theater.
 - [[faleth/mindset/action-without-audience-permission-2026]] — Stop treating imagined spectators as a permissioning authority; act when the feared audience is neither real nor consequential.
+- [[faleth/mindset/unstructured-time-as-cognitive-infrastructure-2026]] — Preserve input-free space for synthesis, reflection, and original judgment; Claude screenshot claims remain contested pending stronger evidence.
 
 **Bridge & strategy**
 - [[faleth/bridge-strategy/game-finish-bridge-2026]] — Indie game ship as cash-timing bridge alongside GovCon deals.

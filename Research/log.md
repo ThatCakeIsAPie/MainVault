@@ -283,3 +283,18 @@
 - Verified: realtime duplex voice, provisioned/BYO SIP numbers, signed incoming-call webhook, WebSocket join, remote MCP/custom functions, and `refer` call transfer.
 - Existing Hermes API server confirmed local-only and authenticated on `127.0.0.1:8642`; recommended public surface is a narrow HTTPS bridge, not direct exposure of Hermes or its full toolset.
 - Updated: `Research/entities/lyle-cole.md` to distinguish the shelved OpenClaw implementation from the revived phone-first Hermes voice vision; `Research/index.md` linked the architecture.
+
+## [2026-07-15] ingest | X bookmarks daily batch (2)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-15T053043Z.json`)
+- Fetched 50; already in ledger 48; new **2**; processed **2**; truncated remainder 0
+- Raw created:
+  - `raw/x-bookmarks/2026-07-13/2076626535977554251.md` — 4chan anecdote on performed confidence as an anti-freeze social state tool
+  - `raw/x-bookmarks/2026-07-13/2076704921601351856.md` — Claude screenshot on smartphones, boredom, and the loss of unstructured time
+- Wiki created:
+  - `faleth/mindset/unstructured-time-as-cognitive-infrastructure-2026.md` — input-free space as synthesis infrastructure; low confidence and contested pending primary evidence
+- Wiki updated:
+  - `concepts/offshoots/identity-and-belief-drive-behavior.md` — embodied confidence can alter state and train self-concept without making confidence a substitute for truth
+  - `index.md` — added the new unstructured-time page and bumped the date
+- Skipped/blocked: none; image text was recovered with local OCR, and the Claude neuroscience claims were explicitly not treated as verified primary evidence.
+- Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+2 IDs)
