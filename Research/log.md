@@ -292,6 +292,7 @@
 - Case study: `Research/ltd-amway/case-studies/tristan-ghazal-amway-termination-2026.md`
 - Updated principles/entities: `Research/faleth/governance/peaceful-fork-voluntary-alignment-2026.md`, `Research/entities/ltd-amway.md`, and `Research/index.md`.
 - Evidence discipline: preserved Tristan's account and attributed quotes while marking motives, complaint details, contract grounds, and named parties' responses as unresolved/contested.
+- Lyle firsthand context added: he has spoken with Tristan multiple times and says Tristan's concern about speech suppression predates the termination story; treated as corroboration of the concern's longevity, not proof of disputed allegations.
 
 ## [2026-07-15] ingest | X bookmarks daily batch (2)
 

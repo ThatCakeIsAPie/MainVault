@@ -36,6 +36,9 @@ The structural lesson does not require resolving every allegation: if a contribu
 
 This sharpens peaceful-fork requirements:
 
+- **speech and independent publishing are presumptively protected** unless the organization can identify a specific, material regulatory, contractual, confidentiality, or competitive harm;
+- disagreement, criticism, and attempts to improve business effectiveness cannot themselves become terminable disloyalty;
+- any speech restriction must be written, narrow, consistently enforced, and paired with a cure process before existential sanctions where feasible;
 - vested contribution survives separation;
 - earned economics cannot vanish solely because alignment ends;
 - outside work and independent publishing have explicit safe harbors;

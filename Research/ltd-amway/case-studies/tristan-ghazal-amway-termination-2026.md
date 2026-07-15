@@ -33,6 +33,14 @@ Tristan was not a casual critic or failed participant. By his account, he and Je
 
 That makes this a governance stress test. Systems reveal their true ownership model not when everyone is aligned, but when a high-contributing insider dissents, builds adjacent capacity, or refuses a demand.
 
+## Lyle's firsthand context
+
+Lyle has spoken with Tristan multiple times and says the concern about speech suppression was present well before the public termination account. That changes the interpretation in one limited but important way: the concern does not appear, from Lyle's experience, to have been invented only after termination as an ex-post grievance. It does **not** independently verify the complaint, specific rule violations, or named individuals' motives.
+
+Lyle's core concern is institutional rather than merely personal:
+
+> If speaking freely and working to become more effective in business can expose the entire accumulated business to termination, then “independence” exists only inside a permission boundary controlled by others.
+
 ## Faleth reading
 
 ### 1. “Independent” is not the same as sovereign

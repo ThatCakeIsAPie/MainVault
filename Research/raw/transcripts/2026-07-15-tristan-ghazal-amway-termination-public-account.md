@@ -21,6 +21,12 @@ This note preserves **Tristan Ghazal's public account and quoted Instagram comme
 - **Claimed by Tristan:** the complaint was malicious/false; his upline worked against him; LTD did not help; private material was used against him; named people made the quoted statements.
 - **Independently corroborated:** Amway publicly describes IBO arrangements as annually renewed contracts in its 2026 Business Reference Guide/Rules of Conduct materials.
 
+## Lyle's firsthand context
+
+Lyle says he has spoken with Tristan a number of times and that Tristan's concern about suppression of his speech predates this public termination account. Lyle's concern is closely aligned: if speaking freely and attempting to become more effective in business can place the entire business at risk of termination, then the participant's agency is structurally conditional.
+
+This is useful corroboration of **the longevity of Tristan's concern**, not independent proof of the complaint details, attributed quotations, or Amway's motives.
+
 ## Public post — transcript
 
 > Over the last few months, my 20‑year Amway journey came to a painful end.
