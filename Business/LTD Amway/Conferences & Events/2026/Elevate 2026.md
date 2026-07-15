@@ -1,6 +1,7 @@
 ## Takeaways
-
-
+1. Tracking
+2. Taprooting
+3. Appreciation for what we have here in America
 
 
 
