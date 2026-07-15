@@ -5,7 +5,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 ## Current Direction
 - Employee ownership and alternative compensation remain driven by succession, retention, culture preservation, and alignment — not merely “nice capitalism.”
 - ESOPs/EOTs/cooperatives/steward ownership/profit-share solve different problems; precision matters because economics, governance, liquidity, and control are not the same thing.
-- Ownership culture requires management training and communication practices, not just a transaction document.
+- Ownership culture requires management training, employee financial literacy, and communication practices—not just a transaction document or variable-pay formula.
 
 ## Major Shifts to Watch
 - EOT and ESOP transitions continue appearing as founder-exit alternatives to PE/strategic sale.
@@ -126,3 +126,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-14
 - Current X surfaced several EOT succession/culture-preservation cases, while July 14 ESOP/exit-planner education events reinforced advisor infrastructure; case timing is partly **continuing/background**, not verified same-day transactions ([EOT case signal](https://x.com/IndianaCEO/status/2076643770385195415), [ESOP event](https://www.esopassociation.org/node/3325), [exit-planner session](https://nceoc.org/july-14-2026-advisors-edge-overview-of-employee-ownership-models-for-cpas-exit-planners-1-hr-ce-credit/)). Signal: **medium** for momentum, **weak** for strict-window policy novelty.
+
+### 2026-07-15
+- July 14 succession/advisor education and today's ESOP Employee Accelerator emphasize business fundamentals, financials, governance, and how employee decisions affect profit; no strict-window federal rulemaking or major transaction surfaced ([ESOP Accelerator](https://www.esopassociation.org/events/esop-employee-accelerator), [NCEO succession webinar](https://www.nceo.org/events/webinar-who-comes-next-and-how-esop)). Signal: **medium** for ownership-literacy infrastructure, **weak** for policy/transaction novelty.

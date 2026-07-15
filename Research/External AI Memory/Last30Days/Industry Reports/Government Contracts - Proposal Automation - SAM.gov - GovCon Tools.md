@@ -132,3 +132,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-14
 - **Mid-year ISRs are due today.** SAM.gov instructs contractors blocked by system issues to file an FSD ticket and notify the agency/higher-tier customer. Its AI **Validate Remarks** feature suggests strengths, weaknesses, improvements, and corrections, while official text explicitly preserves human compliance/anomaly-review responsibility ([SAM.gov eSRS transition](https://sam.gov/esrs), [announcements](https://sam.gov/announcements)). Signal: **strong** (official). Add AI-output disposition, named reviewer, certification, receipt, and escalation evidence to the GovCon OS.
+
+### 2026-07-15
+- The **July 14 ISR deadline has passed**; operational priority is receipt/exception verification, FSD evidence, and agency/higher-tier notice where needed ([SAM.gov eSRS](https://sam.gov/esrs)). Fresh vendor/creator signals promoted emailed-RFP 24-hour drafting, success-fee services, bid alerts, and autonomous monitoring/submission; treat these as market direction, not buyer proof ([GovProcurementAI](https://x.com/sowadalmughni/status/2077016260794315099), [BidAlert](https://x.com/polsia/status/2076849615664759130)). Signal: **strong** for filing context, **medium** for direction, **weak** for vendor outcomes.

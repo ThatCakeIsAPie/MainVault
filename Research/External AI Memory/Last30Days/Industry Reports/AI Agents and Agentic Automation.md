@@ -12,6 +12,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - **Hyperscaler “embedded deployment” units** (e.g. Microsoft’s Jul 2026 Frontier program) treat agent rollout as measurable onsite services—not just software licenses.
 - **Computer-use agents** (Meta Muse Spark-class claims) and **work-management agent builders** (Wrike-class) expand agents from chat into desktop/workflow execution—raising HITL and audit requirements.
 - Browser-agent maturity increasingly depends on **debuggable execution evidence**—stable page identity, network/console traces, snapshots, heap diagnostics, and explicit filesystem boundaries—not only model quality.
+- **MCP-native model discovery and evaluation** now includes task-usage insights, price/benchmark filters, and provider pinning; reproducible routing is joining permissions and audit as a control-plane primitive.
 
 ## Major Shifts to Watch
 - Enterprise platforms bundling agent builders, performance dashboards, and outcome pricing.
@@ -134,3 +135,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-14
 - **Chrome DevTools MCP v1.6.0** shipped heap-snapshot aggregation/filtering, page-ID/reconnect fixes, concurrent root-path resolution, and an unrestricted-path option that should remain deliberately gated. Fresh consolidation/MCP-gateway discussion reinforced orchestration + governance + debuggability as the production stack ([official GitHub release](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.6.0), [MCP governance signal](https://x.com/jw_ond/status/2076688944247582879)). Signal: **strong** for release facts, **medium** for market direction.
+
+### 2026-07-15
+- OpenRouter's official MCP update added task-type insights, price/benchmark filters, provider pinning, image generation, feedback, and improved permission flow; SnapLogic/BMC/JetStream signals independently reinforced governed MCP as an enterprise control plane ([OpenRouter thread](https://x.com/OpenRouter/status/2077131714678435994), [SnapLogic](https://www.snaplogic.com/blog/july-2026-product-release), [BMC](https://www.hpcwire.com/bigdatawire/this-just-in/bmc-brings-governed-ai-agents-to-enterprise-workflows-and-mainframe-operations/)). Signal: **strong** for OpenRouter, **medium** for the governance cluster.

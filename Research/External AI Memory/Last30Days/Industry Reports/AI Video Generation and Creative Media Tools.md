@@ -125,3 +125,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-14
 - Current X testing emphasized Seedance 2.5-style reference-heavy generation/partial editing and Gemini Omni leaderboard momentum; exact capability and price claims remain **social-level** until official docs are inspected ([Seedance signal](https://x.com/nenkoro_life/status/2076815240722108767), [Artificial Analysis signal](https://x.com/ArtificialAnlys/status/2076747075036045645)). Signal: **medium** for creator direction, **weak** for verified flagship launch novelty.
+
+### 2026-07-15
+- Strict-window creator demos reinforced reference-locked characters, storyboards, and hybrid image-to-video production across Seedance/Kling/Veo/Runway; no verified flagship API or pricing launch surfaced ([character/storyboard demo](https://x.com/ibexdream/status/2076986192994701594), [hybrid workflow](https://x.com/aiflaq/status/2076972040205275604)). Signal: **medium** for workflow direction, **weak** for launch novelty.

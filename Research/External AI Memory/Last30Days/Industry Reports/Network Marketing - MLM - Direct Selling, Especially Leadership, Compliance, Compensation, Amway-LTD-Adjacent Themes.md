@@ -124,3 +124,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-14
 - Targeted web, RSS, and X checks found no substantive Amway/LTD compensation, IDS, enforcement, or leadership-compliance change. Continue product/customer-value-first, typical-results-aware, IDS-backed communication ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC IDS analysis](https://www.ftc.gov/business-guidance/blog/2024/09/ftc-staff-report-analyzes-70-mlm-income-disclosure-statements)). Signal: **weak** (daily), **strong** (backdrop).
+
+### 2026-07-15
+- No substantive Amway/LTD compensation, IDS, enforcement, or official compliance change surfaced. AI-video sales-content chatter does not change the compliance floor: use product education/approved training first, and avoid synthetic testimonials or implied lifestyle outcomes ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC IDS analysis](https://www.ftc.gov/business-guidance/blog/2024/09/ftc-staff-report-analyzes-70-mlm-income-disclosure-statements)). Signal: **weak** (daily), **strong** (backdrop).

@@ -11,6 +11,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - **MCP-native routing** on aggregators (OpenRouter-class) is becoming the default interface for agent tool loops—not a side integration.
 - Provider **service tiers** (`flex` / `priority`) and per-endpoint price, latency, throughput, and uptime are becoming machine-readable routing inputs; a model ID alone no longer describes the operational service being bought.
 - Free/promo Chinese routes (**tencent/hy3:free**) and cheap coding workers (**poolside/laguna-xs-2.1**) remain critical for cron/volume economics until promos end.
+- Daily full-ID snapshots and pricing checks are now mandatory operational evidence: catalog removals are exactly auditable, and DeepSeek V3.2's July 15 cache-price jump shows why cheap-worker assumptions must expire automatically.
 
 ## Major Shifts to Watch
 - Promotional cache pricing and cheap large-context models are becoming decisive for agent loops and recurring research jobs.
@@ -137,3 +138,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-14
 - Official API **~11:01 UTC**: **344 models**, net **-1**; today's full 344-ID snapshot establishes the baseline for exact future deltas, but yesterday's removed ID cannot be reconstructed. Lyle stack pricing remains stable. Official service-tier docs expose `flex`/`priority` and per-endpoint price, latency, throughput, and uptime; route policy should therefore log endpoint/service tier as well as model ID ([API](https://openrouter.ai/api/v1/models), [service tiers](https://openrouter.ai/docs/guides/features/service-tiers), [endpoint API](https://openrouter.ai/docs/api/api-reference/endpoints/list-all-endpoints-for-a-model)). Signal: **strong**.
+
+### 2026-07-15
+- Official API **~11:04 UTC**: **343 models**; exact full-ID diff found **0 additions** and removal of `sao10k/l3.1-70b-hanami-x1`. DeepSeek V3.2 changed to **$0.269/$0.40/M** with **$0.1345/M cache read** (about **+25.4%/+24.3%/+527%** vs Jul 14); Sonnet 5, GPT-5.5, and Laguna XS 2.1 base prices remain stable. OpenRouter MCP added task insights, filters, and provider pinning ([API](https://openrouter.ai/api/v1/models), [MCP update](https://x.com/OpenRouter/status/2077131714678435994)). Signal: **strong**.
