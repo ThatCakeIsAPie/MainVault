@@ -1,3 +1,10 @@
+## Takeaways
+
+
+
+
+
+
 You get around the leaders of this team, and they kick off with respect for this country.
 These freedoms don't come from our government, but from our Heavenly Father
 Every leader here has sat in your seat.
