@@ -1,5 +1,6 @@
 ## Takeaways
 1. Tracking
+	1. The story of a diamond who wished they tracked more in their progression to diamond
 2. Taprooting
 3. Appreciation for what we have here in America
 
