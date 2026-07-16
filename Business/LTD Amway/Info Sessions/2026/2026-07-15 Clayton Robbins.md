@@ -46,3 +46,6 @@ Evaluating Network Marketing:
 	5. Are you ready to serve more than you sell?
 	6. Don't chase hype. Build legacy.
 Ask yourself "Is this agreeing with my spirit? Is this what I want in my life?"
+Try opening up a business, see who supports you. That is how you will find your true friends.
+We are selective because we want to know the people we are going to be working with.
+No one has ever started this and automatically gotten good at it. It is a skill you have to develop.
