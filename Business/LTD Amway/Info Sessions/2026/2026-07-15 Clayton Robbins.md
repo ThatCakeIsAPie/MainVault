@@ -23,5 +23,16 @@ Evaluating Network Marketing:
 		1. There is magic in a community of people who are doing exactly what you are doing
 		2. He remembers getting around the team, and it was like water to his soul
 2. Mentorship Without the $25K Price Tag
-	1. 
+	1. In most industries, mentorship from 7-figure earners costs thousands
+	2. In network marketing: It's built-in
+	3. Your system fuels theirs
+	4. You're surrounded by mentors who want to see you win
+		1. He wanted to get more tough, so he spent time around a Navy SEAL. But he also paid him $600/hr for it. You don't have to do that here.
+		2. The people in your upline team have a vested interest in your success. The key to that is that if they help you make more money, you are going to make more money.
+		3. In a traditional model, if he makes more money, his boss makes less. His boss is basically making a bet that if he pays him more, he will produce more, but he has no guarantee. The incentives are not fully aligned there.
+3. Financial Freedom with Leverage
+	1. Why network marketing makes financial sense:
+	2. Low startup cost, high potential return
+	3. Income is tied tteam growth and product flow
+	4. Income is not tied to a time clock
 Ask yourself "Is this agreeing with my spirit? Is this what I want in my life?"
