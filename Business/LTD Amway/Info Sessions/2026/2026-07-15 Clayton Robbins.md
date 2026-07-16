@@ -33,6 +33,16 @@ Evaluating Network Marketing:
 3. Financial Freedom with Leverage
 	1. Why network marketing makes financial sense:
 	2. Low startup cost, high potential return
-	3. Income is tied tteam growth and product flow
+	3. Income is tied to team growth and product flow
 	4. Income is not tied to a time clock
+	5. Network marketing = leveraged leadership income
+4. Family:
+	1. . "One of the greatest gifts you can give your children is a purpose-driven marriage" Dr. John Delony
+5. The Gut Check: This Isn't Easy Money
+	1. This is not passive. It's purposeful.
+	2. Network marketing isn't for everyone. Ask yourself:
+	3. Are you willing to grow people?
+	4. Will you invest time, energy and heart?
+	5. Are you ready to serve more than you sell?
+	6. Don't chase hype. Build legacy.
 Ask yourself "Is this agreeing with my spirit? Is this what I want in my life?"
