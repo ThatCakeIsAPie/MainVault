@@ -1,7 +1,7 @@
 ---
 title: Pipeline Abundance Through Repetition
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-07-16
 type: concept
 tags: [business, operations, mental-model, framework]
 sources:
@@ -10,6 +10,7 @@ sources:
   - Business/LTD Amway/Others/2026/1_16_26 FNL Josh and Taylor.md
   - Business/LTD Amway/Info Sessions/2025/04_10_25 Richard Anderson.md
   - Business/LTD Amway/Info Sessions/2026/04_02_26 Chase McIlroy.md
+  - raw/x-bookmarks/2026-07-15/2077258699412812056.md
 confidence: medium
 ---
 
@@ -30,6 +31,10 @@ This is the practical operating system behind [[offshoots/networking-and-connect
 - "This business teaches you how to take someone through a pipeline, taking them through a process, and closing the deal."
 - "High volume — this is a numbers game, not a skills game. Yes, no, and lots of curious."
 - Breakthrough 26 emphasizes adding value in follow-up even when someone is not immediately joining or buying.
+
+### Volume Creates Opportunity, Not Guaranteed Ratios
+
+A bookmarked aphorism compresses the idea into “take more shots” across clients, friends, and dating, using illustrative 1-in-100 ratios. The durable business lesson is **increase qualified attempts so one outcome does not control the pipeline**. The ratios are rhetoric, not measured conversion rates; track actual channel-specific numbers and improve targeting, offer quality, and follow-up through [[offshoots/networking-and-connection-skills]]. Human relationships also should not be reduced to interchangeable funnel units. [[raw/x-bookmarks/2026-07-15/2077258699412812056]]
 
 ### Why It Matters
 

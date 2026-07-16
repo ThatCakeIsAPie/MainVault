@@ -308,3 +308,21 @@
   - `index.md` — added the new unstructured-time page and bumped the date
 - Skipped/blocked: none; image text was recovered with local OCR, and the Claude neuroscience claims were explicitly not treated as verified primary evidence.
 - Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+2 IDs)
+
+## [2026-07-16] ingest | X bookmarks daily batch (6)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-16T053052Z.json`)
+- Fetched 50; already in ledger 44; new **6**; processed **6**; truncated remainder 0
+- Raw created:
+  - `raw/x-bookmarks/2026-07-15/2077311899604316442.md` — Linux 2 GB RAM visual demo; no reproducible benchmark context
+  - `raw/x-bookmarks/2026-07-15/2077412038503211140.md` — late-night Claude vibe-coding humor video
+  - `raw/x-bookmarks/2026-07-15/2077258699412812056.md` — volume / “take more shots” aphorism
+  - `raw/x-bookmarks/2026-07-15/2077293981776609461.md` — Grok 4.5 model-card cover/release signal
+  - `raw/x-bookmarks/2026-07-15/2077197706326671377.md` — Maxwell Maltz self-image and mental-rehearsal excerpt
+  - `raw/x-bookmarks/2026-07-15/2077257006956601520.md` — image-only reaction meme
+- Wiki updated:
+  - `concepts/offshoots/identity-and-belief-drive-behavior.md` — self-image ceiling plus mental rehearsal paired with execution and feedback
+  - `concepts/offshoots/pipeline-abundance-through-repetition.md` — qualified volume without pretending rhetorical 1-in-100 ratios are measurements
+- Index unchanged: no new wiki pages met the creation threshold.
+- Raw-only/skipped wiki: Linux RAM demo (configuration absent); Claude coding meme; Grok model-card cover (body/official URL absent); context-poor reaction meme.
+- Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+6 IDs)

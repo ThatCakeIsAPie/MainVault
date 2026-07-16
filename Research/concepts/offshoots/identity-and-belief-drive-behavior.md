@@ -14,7 +14,8 @@ sources:
   - >-
     raw/transcripts/lyle-religion-as-behavior-collection-churchianity-2026-06-04.md
   - raw/x-bookmarks/2026-07-13/2076626535977554251.md
-updated: '2026-07-15T00:00:00.000Z'
+  - raw/x-bookmarks/2026-07-15/2077197706326671377.md
+updated: '2026-07-16T00:00:00.000Z'
 confidence: medium
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-06-28T13:26:53.409Z'
@@ -53,6 +54,12 @@ This gives a deeper mechanism underneath [[offshoots/awareness-as-agent-for-chan
 Lyle connected this principle to Tony Robbins' model that people act to verify their identity. Robbins' thermostat analogy frames identity as a subconscious set point: when behavior or results fall below the identity standard, the person tends to "turn on the heater" and rise back toward congruence; when results exceed the identity standard, the person may "turn on the air conditioner" through self-sabotage until life matches the old self-image again.
 
 This makes identity more foundational than goal-setting. A person who sees himself as broke may sabotage financial progress because wealth feels incongruent; a person who sees himself as wealthy or responsible may work intensely because underperformance feels incongruent. In this framing, durable change requires raising the identity set point, not merely adding tactics. ^[raw/transcripts/lyle-tony-robbins-identity-thermostat-2026-06-04.md]
+
+### Maxwell Maltz / Mental Rehearsal Signal
+
+A bookmarked *Psycho-Cybernetics* excerpt reinforces the same mechanism: self-image acts as a constraint on performance, while deliberately rehearsed mental pictures can help practice traits and attitudes before they feel natural. The useful operating claim is not that visualization replaces work; it is that **repetition should train both execution and the self-concept capable of sustaining it**. Pair imagined rehearsal with observable action and feedback through [[offshoots/persistent-consistent-action]].
+
+The bookmark is secondary social-media evidence, and its quotation/excerpt provenance was not independently verified; treat it as conceptual corroboration rather than a settled scientific result. [[raw/x-bookmarks/2026-07-15/2077197706326671377]]
 
 ### Theological Frame: Heart Before Behavior
 
