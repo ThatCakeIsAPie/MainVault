@@ -128,3 +128,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-15
 - Strict-window creator demos reinforced reference-locked characters, storyboards, and hybrid image-to-video production across Seedance/Kling/Veo/Runway; no verified flagship API or pricing launch surfaced ([character/storyboard demo](https://x.com/ibexdream/status/2076986192994701594), [hybrid workflow](https://x.com/aiflaq/status/2076972040205275604)). Signal: **medium** for workflow direction, **weak** for launch novelty.
+
+### 2026-07-16
+- RSS surfaced Seedance 2.5 enterprise-readiness commentary and ABot-World interactive video/3D claims, but no inspected official flagship API or pricing change. The practical stack remains reference/storyboard-led routing across Seedance, Kling, Veo, and Runway ([Google News RSS](https://news.google.com/rss/search?q=AI%20video%20generation%20OR%20Runway%20OR%20Kling%20OR%20Veo%20OR%20Seedance%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen)). Signal: **weak** for verified novelty.

@@ -141,3 +141,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-15
 - Official API **~11:04 UTC**: **343 models**; exact full-ID diff found **0 additions** and removal of `sao10k/l3.1-70b-hanami-x1`. DeepSeek V3.2 changed to **$0.269/$0.40/M** with **$0.1345/M cache read** (about **+25.4%/+24.3%/+527%** vs Jul 14); Sonnet 5, GPT-5.5, and Laguna XS 2.1 base prices remain stable. OpenRouter MCP added task insights, filters, and provider pinning ([API](https://openrouter.ai/api/v1/models), [MCP update](https://x.com/OpenRouter/status/2077131714678435994)). Signal: **strong**.
+
+### 2026-07-16
+- Official API **~11:02 UTC**: **342 models**; exact full-ID diff found **0 additions** and removal of `arcee-ai/coder-large`. Lyle stack pricing is unchanged: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free` ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**; retain coder-route fallback.
