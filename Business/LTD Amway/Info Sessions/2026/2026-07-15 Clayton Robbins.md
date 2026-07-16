@@ -14,3 +14,14 @@ What is your dream?
 The leaders here helped him dream big
 We are looking for people who have a dream
 "Most people die at 27, they are just buried at 72" He was almost dead. Tyler gave him a shot.
+Evaluating Network Marketing:
+1. Community: You Don't Build Alone
+	1. In a world starved for connection, network marketing offers real-life community
+	2. Weekly team meetups, events and retreats
+	3. Encouragement, accountability and shared growth
+	4. You are not just making money - you're making friends who grow with you
+		1. There is magic in a community of people who are doing exactly what you are doing
+		2. He remembers getting around the team, and it was like water to his soul
+2. Mentorship Without the $25K Price Tag
+	1. 
+Ask yourself "Is this agreeing with my spirit? Is this what I want in my life?"
