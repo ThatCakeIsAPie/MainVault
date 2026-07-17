@@ -132,3 +132,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-16
 - Targeted strict-window RSS returned no substantive U.S. ESOP/EOT/co-op transition or federal rulemaking, and the directly fetched ESOP Association event calendar did not displace yesterday's ownership-literacy signal. Faleth's work remains mechanism clarity across wage, bonus, profit share, equity economics, governance, liquidity, and mission lock ([ESOP Association events](https://www.esopassociation.org/events), [NCEO data](https://www.nceo.org/research/employee-ownership-by-the-numbers)). Signal: **weak** (daily), **medium–strong** (durable direction).
+
+### 2026-07-17
+- No substantive U.S. federal rulemaking or major ESOP/EOT/co-op transaction surfaced. The directly fetched ESOP Association calendar lists July 17 ESOP Employee Accelerator and Louisiana employee-ownership programs, reinforcing ownership literacy and implementation support rather than structural novelty ([ESOP Association events](https://www.esopassociation.org/events)). Signal: **weak** for policy/transactions, **medium** for education infrastructure; Faleth should teach wage, bonus, profit share, equity economics, governance, liquidity, and mission lock separately.

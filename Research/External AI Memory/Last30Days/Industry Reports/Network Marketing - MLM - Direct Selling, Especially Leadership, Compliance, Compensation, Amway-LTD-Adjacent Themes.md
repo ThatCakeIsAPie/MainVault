@@ -130,3 +130,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-16
 - Targeted RSS returned no direct-selling/Amway item, and the FTC's July 15 press release concerned unrelated supplement advertising—not MLM earnings claims. Keep product/customer-value-first, typical-results-aware, IDS-backed language and human review ([FTC press releases](https://www.ftc.gov/news-events/news/press-releases), [Amway IDS](https://www.amway.com/en_US/income-disclosure)). Signal: **weak** (daily), **strong** (backdrop).
+
+### 2026-07-17
+- No substantive Amway/LTD compensation, IDS, enforcement, or leadership-compliance change surfaced; targeted RSS was dominated by unrelated financial-disclosure noise. Keep product/customer-value-first, typical-results-aware, IDS-backed language, especially before scaling avatar/video or outreach content ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC IDS analysis](https://www.ftc.gov/business-guidance/blog/2024/09/ftc-staff-report-analyzes-70-mlm-income-disclosure-statements)). Signal: **weak** (daily), **strong** (backdrop).
