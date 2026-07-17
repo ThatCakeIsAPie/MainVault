@@ -326,3 +326,23 @@
 - Index unchanged: no new wiki pages met the creation threshold.
 - Raw-only/skipped wiki: Linux RAM demo (configuration absent); Claude coding meme; Grok model-card cover (body/official URL absent); context-poor reaction meme.
 - Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+6 IDs)
+
+## [2026-07-17] ingest | X bookmarks daily batch (8)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-17T053002Z.json`)
+- Fetched 50; already in ledger 42; new **8**; processed **8**; truncated remainder 0
+- Raw created:
+  - `raw/x-bookmarks/2026-07-16/2077801728213156044.md` — Decart Lucy 2.5 real-time AI video launch claim
+  - `raw/x-bookmarks/2026-07-16/2077831023329476757.md` — GovCon hallucination meme: Subway sandwich locations misread as subway stations
+  - `raw/x-bookmarks/2026-07-16/2077840176370602179.md` — Kimi K3 one-prompt WebGL/shader single-page demo
+  - `raw/x-bookmarks/2026-07-16/2077650022502744275.md` — DoorDash CLI limited-beta agent-commerce signal
+  - `raw/x-bookmarks/2026-07-16/2077780960054009862.md` — Local Studio local-AI operating-surface launch
+  - `raw/x-bookmarks/2026-07-16/2077683048267845761.md` — open-source Grok Build with provider-swappable model/tool configuration
+  - `raw/x-bookmarks/2026-07-16/2077724627351003268.md` — incomplete “brain wired for wealth” engagement list
+  - `raw/x-bookmarks/2026-07-15/2077467740835926096.md` — Grok 4.5 / Composer 2.5 model weight-class positioning
+- Wiki updated:
+  - `faleth/process/frontier-model-cost-speed-tradeoff-2026.md` — added role-based model weight classes and harness/provider separation
+  - `faleth/process/ai-as-sparring-partner-house-method-2026.md` — added a primary-source premise gate before autonomous GovCon action
+- `index.md` unchanged: no new wiki page met the creation threshold.
+- Raw-only/skipped wiki: Lucy 2.5 and Local Studio were launch claims without independent tests; K3 was a polished one-shot demo without production evidence; DoorDash CLI was a limited beta; the wealth-traits list was incomplete and unsupported.
+- Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+8 IDs)

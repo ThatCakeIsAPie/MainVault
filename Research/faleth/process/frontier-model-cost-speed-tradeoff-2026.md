@@ -1,7 +1,7 @@
 ---
 title: Frontier Model Cost-Speed Tradeoff (SWE-1.7 signal, 2026)
 created: 2026-07-09
-updated: 2026-07-13
+updated: 2026-07-17
 type: principle
 tags: [ai, llm, inference, strategy, systems, leverage]
 sources:
@@ -9,6 +9,8 @@ sources:
   - research/raw/x-bookmarks/2026-07-11/2070155553431843153.md
   - research/raw/x-bookmarks/2026-07-13/2075330642850496936.md
   - research/raw/x-bookmarks/2026-07-13/2076302490027557073.md
+  - research/raw/x-bookmarks/2026-07-16/2077683048267845761.md
+  - research/raw/x-bookmarks/2026-07-15/2077467740835926096.md
 confidence: medium
 ---
 
@@ -29,6 +31,15 @@ One-shot **SDPO paper reproduction** comparison: **GLM 5.2 ~$6.21** vs **Opus 4.
 
 These are **promising engineering and marketing signals, not established results**. The decision rule remains: benchmark the exact workload, completed-job cost, error rate, and wall-clock throughput before changing production routing.
 
+## Model weight classes and replaceable harnesses (2026-07-15–16)
+
+Two related signals sharpen the architecture behind the cost-speed rule:
+
+- Cursor describes **Grok 4.5 and Composer 2.5 as different weight classes**: the larger model for hard, long-running work and the smaller coding specialist for routine execution. That supports deliberate routing rather than asking one model to be optimal at every job. It is a provider positioning claim, not an independent benchmark.
+- After SpaceXAI open-sourced Grok Build, a developer showed the harness pointed at an OpenAI-compatible endpoint with separate coding, vision, and web-search components. The exact setup was not reproduced here, but the durable design principle is sound: **keep the agent harness separable from the model/provider** so routing changes are configuration work instead of a rewrite.
+
+For Lyle's stack, the practical portfolio remains: strong orchestrator for decomposition and review, fast coding specialist for implementation, and tool-grounded verification as the stop condition. Provider labels may change; those roles should not. This extends [[faleth/process/agentic-loops-design-2026]] and keeps local/cloud optionality compatible with [[faleth/process/local-model-ownership-agency-2026]].
+
 ## Faleth / Hermes implications
 
 - **Process bedrock:** Orchestrator + many cheap-fast executors beats one premium model doing all typing.
@@ -48,4 +59,6 @@ These are **promising engineering and marketing signals, not established results
 - Bookmark raw: [[research/raw/x-bookmarks/2026-07-11/2070155553431843153]]
 - Hardware bookmark: [[research/raw/x-bookmarks/2026-07-13/2075330642850496936]]
 - Grok 4.5 claim: [[research/raw/x-bookmarks/2026-07-13/2076302490027557073]]
+- Model weight classes: [[research/raw/x-bookmarks/2026-07-15/2077467740835926096]]
+- Open, provider-swappable harness signal: [[research/raw/x-bookmarks/2026-07-16/2077683048267845761]]
 - Related: [[research/faleth/process/agentic-loops-design-2026]]
