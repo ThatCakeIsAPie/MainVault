@@ -49,3 +49,86 @@ Ask yourself "Is this agreeing with my spirit? Is this what I want in my life?"
 Try opening up a business, see who supports you. That is how you will find your true friends.
 We are selective because we want to know the people we are going to be working with.
 No one has ever started this and automatically gotten good at it. It is a skill you have to develop.
+
+# Training- Tyler Sheridan
+## Protecting your Dream
+### Energy Awareness
+One of the best questions to ask your downline is "what is your dream?"
+How many people have asked you what your dream is?
+Most of us, if we know what our dream is, we arent taking count as to whether something is adding to your dream, or taking from it?
+He just came out of a season of feeling foggy in his dream
+A gift he was given out of that season was energy awareness
+Energy is currency
+Most people think time is the greatest asset, but energy determines what you do with your time.
+You can have all the time in the world, but if you are emotionally drained, you wont maximize any of it
+If your energy is drained, progress towards your dream slows down
+We tend to lean towards negative, the Roman Colliseum dilemma. Our lives can be great, but we want to go to the colliseum and watch people die
+When everyone else was asleep, and he was out growing, he knew it would catch up with him and he would succeed
+Sometimes, the waiting feels like forever, but in the waiting, he was becoming.
+You should go play the great commission and grow the kingdom.
+One of the greatest sources of stress is putting your energy in things that you cannot control
+You cannot control what people think about you, what they say about you, the economy, politics, company decisions, people's work ethic, commitment or attitude
+Yet people spend 90% of their emotional energy there
+Meanwhile, they neglect things they can control:
+Your faith, attitude, effort, consistency, learning, discipline, relationships, and actions
+Successful people become masters of directing energy toward what they can influence
+Average people worry about things they cant
+Am i investing energy, or wasting energy?
+This is Camelot, we don't do negative here
+Negative comes from an evil spirit
+Negative = Satan, Positive = God
+We arent fake, we are mature
+We handle it outside these walls, but inside you are protected
+Protect the seed:
+When a farmer plants a seed, he doesnt immediately expose it to every storm, animal and threat. He protects it.
+Many people make a mistake in our business:
+They announce their dream to people who have never pursued a dream, have built anything, who have never accomplished whay they're trying to accomplish
+And then they wonder why they feel discouraged
+If you want a decisive man in your life, he will be that man. Until you have decided, you protect that seed
+God gave me that dream, He didn't give you that dream to be a multi-millionaire, but to impact the people He wants you to impact to grow His Kingdom.
+God cares more about His sons and daughters than your bank statement
+Are you looking for vapor treasures or eternal treasures?
+"Above all else, guard your heart, for everything you do flows from it"
+Your dream lives in your heart
+Guard it
+Not everyone deserves access to your vision.
+He has never read a story about someone having an easy life and going to heaven at the end. It has always been struggle, catastrophic struggle, and victory
+You are going to go through hardships and struggles no matter what
+Dream Lifters vs. Dream Killers
+Perspective rooted in fear vs rooted in faith
+Someone can have a season in your life when they are a dream lifter, and then slowly transition into a dream killer
+Be aware of your energy
+Are you filling the faith bucket or the fear bucket?
+He decided a long time ago, he is just gonna feed that faith bucket for as long as he can as much as he can
+He has seen good people come and leave, and they could have changed their outcome, but they lost awareness of what bucket they were filling. If they were a dream lifter or a dream killer.
+Who gives me energy?
+Who drains my energy?
+What conversations leave me inspired?
+Discouraged?
+What am I worrying about that I cannot control?
+What can I control right now?
+Who are my dream lifters?
+Have I allowed dream killers too much influence?
+What media am I consuming daily?
+Is my environment feeding faith or feeding fear?
+"Five loaves and two fish = 5,000. God's math."
+What are you worrying about that you can't control?
+Are you worried about the people who quit? Why? Wish them a great life and control what you can control.
+He has seen people who have once had a dream here, and that dream goes sour, they try and suppress it, hide it in the closet, and justify why they went against it.
+This is not a career for all of us, but this is a mission for all of us
+
+# Night Owl
+## Clayton Robbins
+Maybe you struggle with confidence, unable to look people in the eye...
+Life is dealing with these things, these tough events. The cool thing about this business is we get to do these things together.
+There are loads of people out there who have no one to talk to. But if they were here, they would.
+If you let your mind run wild and you dont deal with these things, it grows. It happens over time, it happens gradually, and all of the sudden, this doesn't make sense for you anymore, and you dont have this team at your back.
+You can let your mind wander, and if you dont address the negative, it will force you to isolate.
+You can have a really good life, if you directly confront these conversations with an upline that cares about you.
+
+## Adrian and Bianca Perez
+6 months in, their sponsor quit
+Life is gonna hit. That doesn't give you permission to quit.
+When they had a miscarriage, they didn't get permission to quit. But it gave their upline a chance to serve.
+It should give you a reason to go build it faster.
+They were higher in business, fell back, and last year, went to HOAL for the first time
