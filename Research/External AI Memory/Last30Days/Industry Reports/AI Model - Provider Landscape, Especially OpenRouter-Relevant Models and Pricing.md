@@ -147,3 +147,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-17
 - Official API **~11:00 UTC**: **344 models**; exact full-ID diff found additions `moonshotai/kimi-k3` and `meta/muse-spark-1.1`, with **no removals**. Kimi K3: 1,048,576 context, text+image input, **$3/$15/M**, cache **$0.30/M**. Muse Spark 1.1: 1,048,576 context, text/image/video/file/audio input, **$1.25/$4.25/M**, cache **$0.15/M**. Lyle's Sonnet 5 / GPT-5.5 / DeepSeek V3.2 / Laguna prices are unchanged ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**; benchmark Muse for multimodal triage and Kimi for long-horizon work before routing changes.
+
+### 2026-07-18
+- Official API **~11:00 UTC**: **344 models**, but exact diff found additions `thinkingmachines/inkling` and `openrouter/auto-beta` plus removals `meta-llama/llama-3.2-11b-vision-instruct` and `nvidia/llama-3.3-nemotron-super-49b-v1.5`. Inkling: 1,048,576 context, text/image/audio input, **$1/$4.05/M**, cache **$0.17/M**. Auto Router Beta: 2M context and task-aware routing with placeholder pricing; selected-route cost must be logged. Core-stack pricing unchanged ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**; flat counts conceal fallback churn.
