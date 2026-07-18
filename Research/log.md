@@ -363,3 +363,11 @@
 - Raw-only/skipped wiki: Humanome is a creator product claim without medical validation; the Nous reply lacked recoverable textual substance; the AWS event was a transient billing-display incident; the sensory-immersion post was philosophical and single-source.
 - Retrieval notes: the tldraw X article body and quoted-post context were recovered through the official X API; local OCR recovered the AWS and Electra screenshots.
 - Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+5 IDs)
+
+## [2026-07-18] ingest | Faleth governance conflict escalation mindset
+
+- User source: `Faleth_Capital_Governance_Conflict_Escalation.md`, described by Lyle as his governance mindset distilled from a ChatGPT discussion.
+- Exact source preserved: `Research/raw/documents/2026-07-18-faleth-capital-governance-conflict-escalation.md` (SHA-256 `78b16b49a2ad1344b38bf540b44b68448fef3de03443963034fdd101826314ad`).
+- Distilled active design direction: `Research/faleth/governance/conflict-escalation-trust-preservation-2026.md`.
+- Core doctrine: smallest impartial group; escalation by scope of impact; trust by default; transparency and proportional safeguards; outlier review instead of blanket permissioning; standards with owners/lifecycles; structure at interfaces; preserve value before destructive termination.
+- Formal framework linked and its philosophy section updated, but conflicting mechanics were not silently overwritten. The v2 pass must reconcile direct-participant resolution vs. Lead-first resolution, ticket approval keys, contributor-review rules, impartial-panel design, founding-scale removal key, fork valuation, and emergency suspension boundaries.

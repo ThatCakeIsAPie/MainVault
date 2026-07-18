@@ -14,7 +14,7 @@ Internal Framework Document
 
 Version 1.0 — Draft
 
-_This document governs the election of Leads, the resolution of disputes, and the quarterly recalibration process across all subsidiaries and cells. For the compensation mechanics that governance parameters control, see [[The Contribution Framework]]. For how cells govern themselves relative to each other, see [[The Cell Framework]]. For office-level governance — Class A voting, amendments, and the quarterly earnings call — see [[Faleth Capital Constitution#Article IV Governance|Article IV of the Constitution]]._
+_This document governs the election of Leads, the resolution of disputes, and the quarterly recalibration process across all subsidiaries and cells. For the compensation mechanics that governance parameters control, see [[The Contribution Framework]]. For how cells govern themselves relative to each other, see [[The Cell Framework]]. For office-level governance — Class A voting, amendments, and the quarterly earnings call — see [[Faleth Capital Constitution#Article IV Governance|Article IV of the Constitution]]. The current design doctrine for scope-based escalation, trust preservation, outlier controls, standards lifecycles, and value-preserving separation is captured in [[Research/faleth/governance/conflict-escalation-trust-preservation-2026|Conflict Escalation, Trust Preservation, and Anti-Bureaucratic Governance]]; its unresolved mechanics should be reconciled deliberately in the v2 integration pass rather than silently overriding this draft._
 
 ---
 
@@ -25,6 +25,12 @@ Governance in the Faleth Capital system serves one purpose: to keep the people d
 The model is lightweight by design. Most of what a traditional management structure does — assigning work, approving decisions, adjudicating disputes — is handled automatically by the incentive structure itself. Governance fills the gaps: the decisions the structure cannot make on its own, the disputes the structure cannot prevent, and the leadership selections the team must make together.
 
 The governing principle throughout is the same one that runs through every other part of the system: the people closest to the work know best how to do the work, and the people who share the financial consequences of a decision are the right people to make it.
+
+The conflict-governance corollary is:
+
+> **Resolve conflict within the smallest impartial group capable of deciding, then expand participation only as the scope of impact grows.**
+
+Faleth therefore defaults to trust, makes consequential action transparent, increases safeguards in proportion to potential harm, escalates according to scope, and preserves productive value before considering destruction. Central structure belongs primarily at interfaces between people, cells, subsidiaries, capital, legal obligations, and shared systems—not inside every local process. Detailed design direction and pending reconciliation points are maintained in [[Research/faleth/governance/conflict-escalation-trust-preservation-2026|Conflict Escalation, Trust Preservation, and Anti-Bureaucratic Governance]].
 
 ---
 

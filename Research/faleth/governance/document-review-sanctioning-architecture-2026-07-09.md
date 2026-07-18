@@ -14,6 +14,7 @@ related:
   - "[[The Contribution Framework]]"
   - "[[The Equity Framework]]"
   - "[[research/faleth/governance/peaceful-fork-voluntary-alignment-2026]]"
+  - "[[research/faleth/governance/conflict-escalation-trust-preservation-2026]]"
 ---
 
 # Faleth Document Review and Sanctioning Architecture (2026-07-09)
