@@ -346,3 +346,20 @@
 - `index.md` unchanged: no new wiki page met the creation threshold.
 - Raw-only/skipped wiki: Lucy 2.5 and Local Studio were launch claims without independent tests; K3 was a polished one-shot demo without production evidence; DoorDash CLI was a limited beta; the wealth-traits list was incomplete and unsupported.
 - Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+8 IDs)
+
+## [2026-07-18] ingest | X bookmarks daily batch (5)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-18T053012Z.json`)
+- Fetched 50; already in ledger 45; new **5**; processed **5**; truncated remainder 0
+- Raw created:
+  - `raw/x-bookmarks/2026-07-17/2078022208429989942.md` — Humanome medication/condition/anatomy mapping claims
+  - `raw/x-bookmarks/2026-07-16/2077784657869902121.md` — tldraw offline article with local files and agent-written scripts
+  - `raw/x-bookmarks/2026-07-17/2078121336572891222.md` — context-poor Nous Research image reply
+  - `raw/x-bookmarks/2026-07-17/2078043200267452580.md` — AWS Cost Explorer trillion-dollar display incident
+  - `raw/x-bookmarks/2026-07-17/2078062745484677232.md` — full attention and childhood-play sensory immersion
+- Wiki created:
+  - `faleth/process/file-native-agent-canvases-2026.md` — file-native visual artifacts as shared human/agent work surfaces
+- Index updated with the new wiki page.
+- Raw-only/skipped wiki: Humanome is a creator product claim without medical validation; the Nous reply lacked recoverable textual substance; the AWS event was a transient billing-display incident; the sensory-immersion post was philosophical and single-source.
+- Retrieval notes: the tldraw X article body and quoted-post context were recovered through the official X API; local OCR recovered the AWS and Electra screenshots.
+- Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+5 IDs)
