@@ -150,3 +150,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-18
 - Official API **~11:00 UTC**: **344 models**, but exact diff found additions `thinkingmachines/inkling` and `openrouter/auto-beta` plus removals `meta-llama/llama-3.2-11b-vision-instruct` and `nvidia/llama-3.3-nemotron-super-49b-v1.5`. Inkling: 1,048,576 context, text/image/audio input, **$1/$4.05/M**, cache **$0.17/M**. Auto Router Beta: 2M context and task-aware routing with placeholder pricing; selected-route cost must be logged. Core-stack pricing unchanged ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**; flat counts conceal fallback churn.
+
+### 2026-07-19
+- Official API **~11:00 UTC**: **344 models** with exact full-ID diff of **0 additions / 0 removals**. Core stack remains unchanged: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free`. Kimi K3 news is continuing reaction; benchmark it before routing changes ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
