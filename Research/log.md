@@ -371,3 +371,17 @@
 - Distilled active design direction: `Research/faleth/governance/conflict-escalation-trust-preservation-2026.md`.
 - Core doctrine: smallest impartial group; escalation by scope of impact; trust by default; transparency and proportional safeguards; outlier review instead of blanket permissioning; standards with owners/lifecycles; structure at interfaces; preserve value before destructive termination.
 - Formal framework linked and its philosophy section updated, but conflicting mechanics were not silently overwritten. The v2 pass must reconcile direct-participant resolution vs. Lead-first resolution, ticket approval keys, contributor-review rules, impartial-panel design, founding-scale removal key, fork valuation, and emergency suspension boundaries.
+
+## [2026-07-19] ingest | X bookmarks daily batch (3)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-19T053022Z.json`)
+- Fetched 50; already in ledger 47; new **3**; processed **3**; truncated remainder 0
+- Raw created:
+  - `raw/x-bookmarks/2026-07-18/2078492579511906771.md` — ADS-STE100 Simplified Technical English as an LLM documentation constraint
+  - `raw/x-bookmarks/2026-07-17/2078208114298642520.md` — rediscovering childhood interests in one's twenties; image text recovered by OCR
+  - `raw/x-bookmarks/2026-07-17/2078232346365722816.md` — authority-and-justification response to the divine-killing objection; image question recovered by OCR
+- Wiki created:
+  - `faleth/process/simplified-technical-english-for-llm-docs-2026.md` — replace vague style requests with a named, inspectable language standard
+- Index updated with the new wiki page.
+- Raw-only/skipped wiki: the childhood-interest meme was a single-source personal reflection; the theology post compressed a contested doctrine into a short assertion without enough scriptural or scholarly support for a durable page.
+- Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+3 IDs)

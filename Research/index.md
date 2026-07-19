@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-18 | Total pages: 50+
+> Last updated: 2026-07-19 | Total pages: 50+
 
 ## Meta / schema
 
@@ -129,4 +129,5 @@
 - [[faleth/process/zero-data-retention-ai-procurement-control-2026]] — ZDR as a verifiable procurement and routing control for sensitive AI/code workflows.
 - [[faleth/process/delta-phone-interface-grok-voice-hermes-2026]] — Grok Voice as Delta's phone/duplex shell over a narrow, authenticated Hermes bridge.
 - [[faleth/process/file-native-agent-canvases-2026]] — Local canvas files as shared human/agent work surfaces, with persistent scripts and offline ownership.
+- [[faleth/process/simplified-technical-english-for-llm-docs-2026]] — Named language standards as inspectable constraints for clearer LLM-generated technical documentation.
 
