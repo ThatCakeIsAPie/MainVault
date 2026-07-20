@@ -6,6 +6,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - AI video is now a production-stack problem: model choice, prompt structure, shot planning, character consistency, editing control, and distribution workflow.
 - Seedance, Veo, Kling, Runway, Luma, and similar tools are being compared by role rather than as a single winner.
 - Aggregator/workflow platforms such as Runway are gaining strategic value by giving creators access to multiple top models in one controlled environment.
+- Creative testing and commerce workflows are becoming the next value layer: generation matters only when variants can be measured against audience and conversion outcomes.
 
 ## Major Shifts to Watch
 - Native 4K, longer coherent clips, and character/object consistency becoming expected rather than miraculous.
@@ -140,3 +141,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-19
 - Current headlines report Google Vids adding Gemini Omni editing and avatars for paid users; the broader feed remains studio/creator workflow coverage rather than an inspected flagship API or pricing launch. FRR should benchmark one complete repair explainer, including factual corrections and synthetic-media labeling, before buying another tool ([Google Vids RSS item](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMkc4eEJza1c2Q3ZUVmtfa1Q0NEh1b3FPVHk5eWVYdl9lVEVCXzJvQ0xDUTlwb3dvN0JCTW94MU5YN3V4cFU5VEk0V0NBY090VjFwenh4eDh1aGRmM1p1NWJDUEkwQXBmRGxUekNZdDJKMVc3TXRWa2lzTWlkeVFIQTFxZmNWQURJVU1ZMkVjb2g?oc=5)). Signal: **weak–medium** for workflow direction, **weak** for exact feature detail.
+
+### 2026-07-20
+- Current headlines covered an agency acquiring an AI creative-testing firm, e-commerce fashion-model generation, and retail/TikTok creative optimization. No inspected flagship API or price change surfaced; the durable shift is from generator demos to measurable variant testing. FRR should test one complete repair explainer plus three hooks/thumbnails before changing tools ([AdSkate item](https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmF3clY1ZDFtc1ZUSHhKNUg0cHg1YlJSV0hDckVrdXVoYmp6OG1XN3NCOUFZTllzcVprdlhJWnpaWlhCMXh0enRMYmUzbFFpUTR2S2xxa193NG1GRVBtWWxZcklCUXd2S1g2c1hxTVVJb0pvVHMtYVBhTkVxeXpkQWNGWGNvWlZBME9yaDNnVkx6Zw?oc=5)). Signal: **medium–weak** for direction, **weak** for exact deal/product details.

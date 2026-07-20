@@ -9,6 +9,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ## Major Shifts to Watch
 - Earnings-claim scrutiny remains the dominant risk theme for direct selling and MLM-adjacent communications.
+- Investment-return framing is a separate red line: product/customer businesses must not be represented as guaranteed, passive, risk-free, or recruitment-driven investments.
 - Official income disclosures/rules are the anchor; social chatter is secondary and often noisy.
 - Leadership content that implies lifestyle or typical earnings without disclosure remains the danger zone.
 - Field training systems should evolve toward documented, compliant language patterns rather than personality-driven motivation.
@@ -139,3 +140,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-19
 - No substantive Amway/LTD compensation, IDS, enforcement, or leadership-compliance change surfaced; the targeted feed was unrelated tax/financial-disclosure noise. Keep product/customer-value-first, typical-results-aware, IDS-backed language and human review, especially before scalable avatar/video outreach ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC IDS analysis](https://www.ftc.gov/business-guidance/blog/2024/09/ftc-staff-report-analyzes-70-mlm-income-disclosure-statements)). Signal: **weak** (daily), **strong** (backdrop).
+
+### 2026-07-20
+- Multiple Indian outlets reported Hyderabad police cases involving QNet/Vihaan and others over alleged investment-fraud conduct. This is not an Amway/LTD rule change, but it reinforces banned framing: investment, guaranteed return, passive/risk-free income, or recruitment-led wealth. Keep official IDS, typical-results context, product/customer value, and human review ([NewsMeter item](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT1lNX2hFTE54VUx2TXZaUm9LWi1pTmZNS2ZSd25HcGx4UUhzR1ZPLTd0Y1NnUnR4MkR4TnJ1eUxuY3BiakRFWHF1X2dLaUtPUnhYb0JQNVl3MkVxd0RNdnh3am1Vb3JIMFBONGVKS2liRk9zNkJ3ZWRVcVRhVFVyaV9IX1RkX2xROEhIUGo5WEpJRkhqS05zc0tvZURHaTJyOTBVb2FjODQ0cVhVczkyV1VXU1dvUDhkTzRZXzRQNWZhUDZXMzNXVXo3YWZzWkI4dk1j?oc=5)). Signal: **medium–weak** for the event (RSS/snippet-level), **weak** for Amway/LTD-specific novelty.

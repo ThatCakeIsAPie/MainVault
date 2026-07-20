@@ -26,6 +26,7 @@ LTD can be treated as a leadership incubator only if the operating system trains
 
 - Approved language library for business conversations
 - Income-claim guardrails and examples of what not to say
+- An explicit anti-investment guardrail: never describe participation as an investment, guaranteed return, passive/risk-free income, or recruitment-led wealth vehicle
 - Expense-awareness scripts for prospects
 - Customer-first retail behavior checklist
 - Weekly leadership habit tracker
@@ -50,7 +51,12 @@ Create a short playbook:
 - Under-correcting and allowing exaggerated expectations
 - Treating compliance as legalistic instead of trust-building
 - Confusing leadership development with recruitment pressure
+- Allowing product/business conversations to drift into investment-return language
 
 ## Next Step
 
 Draft an "LTD Conversation Standards" note with safe phrases, banned phrases, and examples of how to explain the business without hype.
+
+## Source Notes
+
+- **2026-07-20:** Multiple Indian outlets reported Hyderabad police cases involving QNet/Vihaan and others over alleged investment-fraud conduct. This is not an Amway/LTD rule change, but it is a useful category-level red-team case: ban `investment`, `guaranteed return`, `passive income`, `risk-free`, and recruitment-led wealth framing; preserve product/customer value, official IDS linkage, typical-results context, and named human review ([NewsMeter, RSS/snippet-level](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT1lNX2hFTE54VUx2TXZaUm9LWi1pTmZNS2ZSd25HcGx4UUhzR1ZPLTd0Y1NnUnR4MkR4TnJ1eUxuY3BiakRFWHF1X2dLaUtPUnhYb0JQNVl3MkVxd0RNdnh3am1Vb3JIMFBONGVKS2liRk9zNkJ3ZWRVcVRhVFVyaV9IX1RkX2xROEhIUGo5WEpJRkhqS05zc0tvZURHaTJyOTBVb2FjODQ0cVhVczkyV1VXU1dvUDhkTzRZXzRQNWZhUDZXMzNXVXo3YWZzWkI4dk1j?oc=5)).

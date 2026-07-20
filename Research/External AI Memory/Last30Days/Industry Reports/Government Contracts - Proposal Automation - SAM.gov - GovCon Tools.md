@@ -147,3 +147,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-19
 - No fresh proposal-tool or primary rule change surfaced. Five days after the mid-year ISR deadline, directly inspected SAM.gov still directs issue-blocked filers to an FSD ticket plus agency/higher-tier notice. Close each required ISR with receipt, acceptance, exception/FSD evidence, notice, owner, and next action; continue yesterday's CMMC review issue log ([official SAM.gov](https://sam.gov/esrs)). Signal: **strong** for official instructions, **weak** for daily novelty.
+
+### 2026-07-20
+- No relevant proposal-tool or primary rule change surfaced. Six days after the mid-year ISR deadline, directly inspected SAM.gov still states the July 14 deadline and the FSD-ticket plus agency/higher-tier notification path. VXE's KPI is closed-loop evidence: receipt, disposition, exception/ticket, notice, owner, next action, and evidence path ([official SAM.gov](https://sam.gov/esrs)). Signal: **strong** for official instructions, **weak** for daily novelty.

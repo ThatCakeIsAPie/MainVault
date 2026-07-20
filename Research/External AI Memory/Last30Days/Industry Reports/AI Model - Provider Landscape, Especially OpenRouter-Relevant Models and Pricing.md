@@ -12,6 +12,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Provider **service tiers** (`flex` / `priority`) and per-endpoint price, latency, throughput, and uptime are becoming machine-readable routing inputs; a model ID alone no longer describes the operational service being bought.
 - Free/promo Chinese routes (**tencent/hy3:free**) and cheap coding workers (**poolside/laguna-xs-2.1**) remain critical for cron/volume economics until promos end.
 - Daily full-ID snapshots and pricing checks are now mandatory operational evidence: catalog removals are exactly auditable, and DeepSeek V3.2's July 15 cache-price jump shows why cheap-worker assumptions must expire automatically.
+- Free routes are opportunistic capacity, not durable infrastructure: July 20 removed six free endpoints at once, reinforcing preflight checks and paid fallback requirements.
 
 ## Major Shifts to Watch
 - Promotional cache pricing and cheap large-context models are becoming decisive for agent loops and recurring research jobs.
@@ -153,3 +154,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-19
 - Official API **~11:00 UTC**: **344 models** with exact full-ID diff of **0 additions / 0 removals**. Core stack remains unchanged: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free`. Kimi K3 news is continuing reaction; benchmark it before routing changes ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
+
+### 2026-07-20
+- Official API **~11:01 UTC**: **338 models**, exact diff **0 additions / 6 removals**. Removed free routes: Dolphin Mistral Venice, Llama 3.2 3B, Llama 3.3 70B, Hermes 3 405B, Qwen3 Coder, and Qwen3 Next 80B. Core stack remains unchanged: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free` ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**; assign paid fallbacks and preflight every free dependency.
