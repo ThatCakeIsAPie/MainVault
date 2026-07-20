@@ -385,3 +385,13 @@
 - Index updated with the new wiki page.
 - Raw-only/skipped wiki: the childhood-interest meme was a single-source personal reflection; the theology post compressed a contested doctrine into a short assertion without enough scriptural or scholarly support for a durable page.
 - Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+3 IDs)
+
+## [2026-07-20] ingest | X bookmarks daily batch (1)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-20T053032Z.json`)
+- Fetched 50; already in ledger 49; new **1**; processed **1**; truncated remainder 0
+- Raw created:
+  - `raw/x-bookmarks/2026-07-19/2078640247982977445.md` — CorridorKey promotional claim for Hiera-plus-CNN green-screen matting
+- Wiki created/updated: none; `index.md` unchanged.
+- Raw-only/skipped wiki: the post is a single promotional product claim with no linked repository, paper, benchmark, or independently verifiable comparison against paid tools. It does not yet meet the durable-page threshold.
+- Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+1 ID)
