@@ -117,6 +117,7 @@
 ## X bookmark principles (2026-07)
 
 - [[faleth/process/frontier-model-cost-speed-tradeoff-2026]] — SWE-1.7 cost/speed signal for agent stacks
+- [[faleth/process/agent-swarm-coordination-context-economics-2026]] — Cursor SQLite case: context-specialized planner/worker swarms, coordination primitives, review lenses, and completed-job economics.
 - [[faleth/process/hermes-agent-long-horizon-codebases-2026]] — Hermes on huge legacy codebases
 - [[faleth/content/hermes-grok-x-content-machine-2026]] — automated X content machine packaging
 - [[faleth/process/llm-foundations-skill-stack-2026]] — CS229 foundations as future curriculum

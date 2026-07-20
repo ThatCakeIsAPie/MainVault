@@ -395,3 +395,12 @@
 - Wiki created/updated: none; `index.md` unchanged.
 - Raw-only/skipped wiki: the post is a single promotional product claim with no linked repository, paper, benchmark, or independently verifiable comparison against paid tools. It does not yet meet the durable-page threshold.
 - Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+1 ID)
+
+## [2026-07-20] ingest | Cursor SQLite agent swarm and model economics
+
+- Shared X status: `2079256616407273801` from @cursor_ai, linking Cursor's “Agent swarms and the new model economics.”
+- Raw capture: `Research/raw/transcripts/lyle-x-share-2079256616407273801.md`.
+- New principle: `Research/faleth/process/agent-swarm-coordination-context-economics-2026.md`.
+- Updated: `Research/faleth/process/frontier-model-cost-speed-tradeoff-2026.md`, `Research/index.md`, and the Telegram X shares log.
+- Durable read: the planner/worker split is primarily context specialization; frontier intelligence belongs where ambiguity concentrates, while cheap workers handle explicit leaves. Harness quality, shared decisions, neutral reconciliation, modularity, decorrelated review, and successor memory determine whether parallel agents create leverage or industrial-scale thrash.
+- Evidence discipline: preserved Cursor's vendor-reported held-out-suite results and cost figures while marking non-independence, incomplete model matrix, and the gap between logic-test parity and production SQLite parity.
