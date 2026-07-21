@@ -404,3 +404,20 @@
 - Updated: `Research/faleth/process/frontier-model-cost-speed-tradeoff-2026.md`, `Research/index.md`, and the Telegram X shares log.
 - Durable read: the planner/worker split is primarily context specialization; frontier intelligence belongs where ambiguity concentrates, while cheap workers handle explicit leaves. Harness quality, shared decisions, neutral reconciliation, modularity, decorrelated review, and successor memory determine whether parallel agents create leverage or industrial-scale thrash.
 - Evidence discipline: preserved Cursor's vendor-reported held-out-suite results and cost figures while marking non-independence, incomplete model matrix, and the gap between logic-test parity and production SQLite parity.
+
+## [2026-07-21] ingest | X bookmarks daily batch (4)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-21T053029Z.json`).
+- Fetched 50; already in ledger 46; new **4**; processed **4**; truncated remainder 0.
+- Raw created:
+  - `raw/x-bookmarks/2026-07-20/2079289736250970258.md` — Monid multi-platform social-reading API promotional pricing claim.
+  - `raw/x-bookmarks/2026-07-20/2079236265254285617.md` — RuView WiFi-CSI camera-free spatial sensing and through-wall demo claim.
+  - `raw/x-bookmarks/2026-07-20/2079156922406875492.md` — World Monitor open-source situational-awareness dashboard.
+  - `raw/x-bookmarks/2026-07-20/2079256614238814551.md` — Cursor SQLite swarm headline; duplicate evidence for the already-ingested experiment.
+- Wiki created:
+  - `faleth/process/open-source-situational-awareness-world-monitor-2026.md` — open OSINT operating-surface architecture, GovCon wedge, and reliability/license guardrails.
+  - `faleth/process/wifi-sensing-spatial-intelligence-ruview-2026.md` — WiFi sensing mechanics, required ESP32-class capture hardware, mission validation, and privacy risks.
+- Updated: `index.md` (2 new pages; date bumped).
+- Raw-only/skipped wiki: Monid was a single promotional comparison without reproducible platform coverage or service testing; the Cursor bookmark repeated evidence already preserved and synthesized on 2026-07-20.
+- Verification: GitHub API/README checks confirmed the named World Monitor and RuView repositories and corrected social-post simplifications; project metrics remain vendor-reported and independently unverified.
+- Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+4 IDs).
