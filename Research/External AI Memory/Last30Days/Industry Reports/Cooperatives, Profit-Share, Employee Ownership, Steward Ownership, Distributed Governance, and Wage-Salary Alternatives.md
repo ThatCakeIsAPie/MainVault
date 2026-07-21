@@ -12,6 +12,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Institutional support and state-level employee-ownership centers are becoming more visible.
 - Recruitment/retention and new-manager ownership-culture training are moving from soft topics to measurable operating practices.
 - Steward/profit-share language risks becoming vague unless tied to explicit rights, formulas, and governance boundaries.
+- Valuation, fiduciary process, conflict policy, formula-change authority, participant information, and dispute/appeal mechanisms are part of ownership design—not transaction footnotes.
 
 ## Faleth Relevance
 - Faleth’s Contribution Framework should explicitly separate wage, bonus, profit share, equity economics, governance control, liquidity, and mission lock.
@@ -144,3 +145,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-20
 - UK property-industry coverage reported lettings/estate agencies adopting EOT structures, reinforcing EOTs as succession and continuity wrappers for relationship-driven firms. Exact economics and governance were not inspected; add seller liquidity, trust control, employee eligibility/distributions, governance, redemption, leadership continuity, and mission lock to Faleth's case-study checklist ([lettings EOT item](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGJzMFZRTkRqYTUwY1NrbU1udWwzNkpLTHJtaHdzNmFNV21OcFRsMzlXYXBOaVJoTlByNXhScUFMRTN1dndsLUlGMzViSGJDLVJ4ZWdCUVB4b2Z3TjRENkZ3OGh4ZFdidzFZMGYtMG1jcDJCNEd0azFlLUlyTjkyS3ZhTE4weWp5cTUxQkstcUxNTEhrd3F1eFEyVE1CbU9hQXEyelkweFdUUDZXTTlvWGVrNGpieGlGVjlZTlZ5Y3I?oc=5)). Signal: **medium–weak** for EOT direction, **weak** for exact mechanics.
+
+### 2026-07-21
+- A local-market employee-ownership succession item and a $265M ESOP sale dispute reinforced that valuation, fiduciary process, information rights, conflict handling, and appeals are core design mechanics. Faleth's rights map should add those fields alongside economics, control, liquidity, and mission lock ([Decker's Market item](https://news.google.com/rss/articles/CBMingFBVV95cUxOYlQyaFNDVkxTTzlMZmQxUlVpRlJEbmI4ZlVuZGVGS2V6R3lmUnlYUDY4ZTFTdzhyQ0M4X1U5bmRuaGdXZm1vTFBzNFp6ZHlRRVJmSDJUYWVJeHNHOWFEbVFjSXNnanNKOEJ5djFTMFdxWVVyMHotVWFRTVhBakJOUU5GaWdLTjI4b29COWZJUW9UQnNrSUFrSHpwZGpDQQ?oc=5), [ESOP dispute item](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WeFRMOUdZV2R4VlF2OTFDakNGU1hDWFZZRGNJWktsWnBaRkt2Z1FFd0JEWThreExJWGtRYWtNaE1JSGdxcnNhRS0ydjZBUnR1REd3YkhB0gFWQVVfeXFMT1Z4VEw5R1lXZHhWUXY5MUNqQ0ZTWENYVllEY0laS2xacFpGS3ZnUUV3QkRZOGt4TElYa1Fha01oTUlIZ3Fyc2FFLTJ2NkFSdHVER3diSEE?oc=5); RSS/snippet-level). Signal: **medium–weak**.

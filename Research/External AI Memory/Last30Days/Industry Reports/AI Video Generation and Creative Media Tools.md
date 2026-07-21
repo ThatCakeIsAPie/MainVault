@@ -7,6 +7,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Seedance, Veo, Kling, Runway, Luma, and similar tools are being compared by role rather than as a single winner.
 - Aggregator/workflow platforms such as Runway are gaining strategic value by giving creators access to multiple top models in one controlled environment.
 - Creative testing and commerce workflows are becoming the next value layer: generation matters only when variants can be measured against audience and conversion outcomes.
+- As output volume rises, **originality, editability, provenance, and full-asset completion** are becoming more valuable than isolated generation quality.
 
 ## Major Shifts to Watch
 - Native 4K, longer coherent clips, and character/object consistency becoming expected rather than miraculous.
@@ -144,3 +145,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-20
 - Current headlines covered an agency acquiring an AI creative-testing firm, e-commerce fashion-model generation, and retail/TikTok creative optimization. No inspected flagship API or price change surfaced; the durable shift is from generator demos to measurable variant testing. FRR should test one complete repair explainer plus three hooks/thumbnails before changing tools ([AdSkate item](https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmF3clY1ZDFtc1ZUSHhKNUg0cHg1YlJSV0hDckVrdXVoYmp6OG1XN3NCOUFZTllzcVprdlhJWnpaWlhCMXh0enRMYmUzbFFpUTR2S2xxa193NG1GRVBtWWxZcklCUXd2S1g2c1hxTVVJb0pvVHMtYVBhTkVxeXpkQWNGWGNvWlZBME9yaDNnVkx6Zw?oc=5)). Signal: **medium–weak** for direction, **weak** for exact deal/product details.
+
+### 2026-07-21
+- Fresh coverage moved toward end-to-end editing, complete AI-made films, and the originality deficit in high-volume AI advertising. FRR should benchmark a finished explainer with edit time, factual corrections, provenance, watch-through, and lead response—not another isolated generation demo ([Firefly review item](https://news.google.com/rss/articles/CBMilAFBVV95cUxNbGtrM1JSYmZFazBzalRpTEM1WHIxaEFsclg3YjJKdTRxNndWRGRyV1lYU3FlS09Mc1ZZMmpFcGU0d3c3R3pUZWZjT1ZBWk1EZjUxTTJWWjBLekg4MGpUZjRfdUFpNkNpZzBKZjFUUDNPWEhseWtRaTA3SEtQVXNRUmRVaVRUT1Vvcko2NjZMT0lXLWk1?oc=5); RSS/snippet-level). Signal: **medium–weak**.

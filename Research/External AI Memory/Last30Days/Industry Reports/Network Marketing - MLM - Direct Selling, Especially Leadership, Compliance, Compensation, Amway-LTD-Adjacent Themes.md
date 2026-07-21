@@ -13,6 +13,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Official income disclosures/rules are the anchor; social chatter is secondary and often noisy.
 - Leadership content that implies lifestyle or typical earnings without disclosure remains the danger zone.
 - Field training systems should evolve toward documented, compliant language patterns rather than personality-driven motivation.
+- `Job`, `investment`, health-outcome, and recruitment-as-product framing are distinct claim risks and should each have explicit approved/banned language.
 
 ## Faleth Relevance
 - Build LTD/Amway-adjacent scripts and coaching templates around official Amway IDS/rules and customer-value language.
@@ -143,3 +144,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-20
 - Multiple Indian outlets reported Hyderabad police cases involving QNet/Vihaan and others over alleged investment-fraud conduct. This is not an Amway/LTD rule change, but it reinforces banned framing: investment, guaranteed return, passive/risk-free income, or recruitment-led wealth. Keep official IDS, typical-results context, product/customer value, and human review ([NewsMeter item](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT1lNX2hFTE54VUx2TXZaUm9LWi1pTmZNS2ZSd25HcGx4UUhzR1ZPLTd0Y1NnUnR4MkR4TnJ1eUxuY3BiakRFWHF1X2dLaUtPUnhYb0JQNVl3MkVxd0RNdnh3am1Vb3JIMFBONGVKS2liRk9zNkJ3ZWRVcVRhVFVyaV9IX1RkX2xROEhIUGo5WEpJRkhqS05zc0tvZURHaTJyOTBVb2FjODQ0cVhVczkyV1VXU1dvUDhkTzRZXzRQNWZhUDZXMzNXVXo3YWZzWkI4dk1j?oc=5)). Signal: **medium–weak** for the event (RSS/snippet-level), **weak** for Amway/LTD-specific novelty.
+
+### 2026-07-21
+- Indian coverage reported another alleged MLM/job scam and a separate QNet complaint; Direct Selling News reported Medifast broadening from OPTAVIA into a metabolic-health system. No Amway/LTD rule change surfaced. Treat `job`, `investment`, recruitment-led wealth, and unsupported health outcomes as separate prohibited claim categories ([Hindustan Times item](https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3pKNGFvZVg1UjY3WFU4UjVYdTRoUC1GaUtrbXdiVTdzNGkwUi1kZ3JEd250T2xDNkFnYURTVVU4enVLcFp4YWNzYmVfbkRXYVhydGhnY1lrSUJROTBtOWJnYkZXVHlIcVNISEJkVFNCR0hJSXlESS1pcjI5a3IxWThnY2RZWGdMX3h5RWJqWnRJaWZ1N3pFZ3p1a0wxaGpZSFFMdEc0d3NxeWVyODVCcDYtQlZ4SkJlbXBQeE13YzBRbVl40gHKAUFVX3lxTE9mM3dJYmF5VEJFdTY4LS1EakJoWHI5T3BzTHpLbHlGa0I3cU5ISkVsYmkwZjNRYW85MVhwMDQwVWxCbjViRFN3a1ItMnFQS1JkSVU3MlJiM2tQZk9QNDk5RGRIQk54UUUtM1A4Y25BUHFUeDNuQUMzWUllRlR5dDhkQU5uQkcwci1QdTBrenBmUVpfZzJ1UWdfd0VaMUJadlNFNE9XRl9JZDNUTklHNjVVQWI4NXdKYksxSEJlb19uNUZuanY4Y1lVdEE?oc=5); RSS/snippet-level). Signal: **medium–weak** for enforcement, **weak** for Amway/LTD novelty.

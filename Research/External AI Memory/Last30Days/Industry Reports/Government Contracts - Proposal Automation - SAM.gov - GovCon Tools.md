@@ -8,6 +8,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Government-data safeguards, CUI posture, model-retention settings, and audit trails are part of the product, not optional plumbing.
 - **Third-party model routers** (OpenRouter-class) are discussed for **non-CUI** GovCon prototyping; sensitive bid/CUI paths should stay on self-hosted or gov-grade clouds.
 - SAM.gov's ISR/SSR **AI “Validate Remarks”** pattern makes the proper automation boundary concrete: AI can suggest improvements, while named humans still own compliance review, anomaly handling, certification, and evidence retention.
+- The **July 2026 CMMC Phase 2 suspension and reform task force** shift compliance from a simple implementation calendar into a clause-specific evidence and policy-feedback problem; existing contractual controls remain active unless authoritative guidance changes them.
 
 ## Major Shifts to Watch
 - Small-contractor tools marketing 24/7 SAM.gov monitoring plus compliant drafting as a lightweight alternative to GovWin-style platforms.
@@ -150,3 +151,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-20
 - No relevant proposal-tool or primary rule change surfaced. Six days after the mid-year ISR deadline, directly inspected SAM.gov still states the July 14 deadline and the FSD-ticket plus agency/higher-tier notification path. VXE's KPI is closed-loop evidence: receipt, disposition, exception/ticket, notice, owner, next action, and evidence path ([official SAM.gov](https://sam.gov/esrs)). Signal: **strong** for official instructions, **weak** for daily novelty.
+
+### 2026-07-21
+- The SBA Office of Advocacy directly confirmed the July 13 suspension of CMMC Phase 2 requirements and an August 14 comment deadline for the reform RFI. VXE/LibreTech should keep contract-specific controls active, quantify burden and risk reduction, and decide whether to submit concrete small-contractor evidence. The ISR deadline is seven days past; continue closure receipts/tickets/notices ([official CMMC RFI summary](https://advocacy.sba.gov/2026/07/20/dow-requests-information-for-cmmc-reform-task-force/), [SAM.gov](https://sam.gov/esrs)). Signal: **strong**.

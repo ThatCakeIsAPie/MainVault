@@ -13,6 +13,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - **Computer-use agents** (Meta Muse Spark-class claims) and **work-management agent builders** (Wrike-class) expand agents from chat into desktop/workflow execution—raising HITL and audit requirements.
 - Browser-agent maturity increasingly depends on **debuggable execution evidence**—stable page identity, network/console traces, snapshots, heap diagnostics, and explicit filesystem boundaries—not only model quality.
 - **MCP-native model discovery and evaluation** now includes task-usage insights, price/benchmark filters, and provider pinning; reproducible routing is joining permissions and audit as a control-plane primitive.
+- **Non-human identity and supervisor load** are emerging as first-class agent controls: shared human credentials destroy attribution, while unmeasured fleet-management burden can erase automation gains.
 
 ## Major Shifts to Watch
 - Enterprise platforms bundling agent builders, performance dashboards, and outcome pricing.
@@ -153,3 +154,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-20
 - Fresh headlines put MCP inside MATLAB and live HR systems while agentic workflows reached SoC design and enterprise networking; a finance item stressed that technical eval success does not guarantee economic approval. Add business owner, data boundary, write authority, economic KPI, budget, evidence, approver, and rollback to every agent record ([MATLAB MCP item](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FUHpoLTdzVXJIRUJqb25Sc2RSVFNnd2ZXVGQzT1R3V1VybUdjdlNwYzlNS1dGZ2RweGxjdWlEbE50Y2lIeV9fSlFxZ2RFYmRDNnJjNGR2cXhZcFhhdTBoX01SNTRJSDg?oc=5), [HR MCP item](https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ00zY1ZmY2doenRFeVJ3QmFPVFdrOXFXZFp2SU5OUThHNnVVMkFhd3JWdE12QWZWYzVtR2dtMVVsUDZVaHp2emEwOUFDa0psTGxxc1pLNHJMTWhZb2paTFcyOVJIbzVZLTJQVUVyRGJhSW93ay01NW9VaUZLdmZwQlJ3?oc=5)). Signal: **medium** for direction; product details are RSS/snippet-level.
+
+### 2026-07-21
+- Fresh coverage clustered around agents handling security backlogs, agents authenticating as humans, rogue-agent visibility, and supervisor burnout. Add a distinct non-human identity, credential scope, owner, allowed systems, budget, kill switch, and measured human-supervision minutes to every Faleth agent record ([GitLab item](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qVUkzQTVEalJ3Z0ZIaFdmc0VFX3llX1o5RDZGN3lUX2FORHNTdEZYcF9yOFItNGJuQUk5SFJYR2h6a3hpYlRhTThqLTNlQmViMlVYZGNFaVloNF9YLTdqUF80eEF4TTRD?oc=5), [identity item](https://news.google.com/rss/articles/CBMihAFBVV95cUxQS1BpRzg4Q2h3aE52UnBLWl9kT2RoazZsb2ZHQ1BrWmVRakNZblpUbzN3N0Y0Mm9HVTFreHlpYVRWeTZxcTc5cENoZVc0TFpQeXZkcGhKX0ZiMDZQUUstdVdyenEtNEpPY3pPMnNXQmxMNmxLWTBwR1FQUWNQZWFuQllac3Y?oc=5); RSS/snippet-level). Signal: **medium** for direction.
