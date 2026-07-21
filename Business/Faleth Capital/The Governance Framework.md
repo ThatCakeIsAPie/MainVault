@@ -1,221 +1,102 @@
-**THE GOVERNANCE**
+# The Governance Framework
 
-**FRAMEWORK**
+*How Faleth Capital makes decisions, resolves disputes, and keeps leadership accountable.*
 
-_How Subsidiaries, Cells, and the Office_
-
-_Make Decisions, Resolve Disputes,_
-
-_and Keep Leadership Accountable_
-
-Faleth Capital
-
-Internal Framework Document
-
-Version 1.0 — Draft
-
-_This document governs the election of Leads, the resolution of disputes, and the quarterly recalibration process across all subsidiaries and cells. For the compensation mechanics that governance parameters control, see [[The Contribution Framework]]. For how cells govern themselves relative to each other, see [[The Cell Framework]]. For office-level governance — Class A voting, amendments, and the quarterly earnings call — see [[Faleth Capital Constitution#Article IV Governance|Article IV of the Constitution]]. The current design doctrine for scope-based escalation, trust preservation, outlier controls, standards lifecycles, and value-preserving separation is captured in [[Research/faleth/governance/conflict-escalation-trust-preservation-2026|Conflict Escalation, Trust Preservation, and Anti-Bureaucratic Governance]]; its unresolved mechanics should be reconciled deliberately in the v2 integration pass rather than silently overriding this draft._
+*Faleth Capital · Internal Framework · Version 2.0 — Draft*
+*Companion to [[The Contribution Framework]], [[The Cell Framework]], and the [[Faleth Capital Constitution]].*
 
 ---
 
-# Section 1: Philosophy
+## Purpose
 
-Governance in the Faleth Capital system serves one purpose: to keep the people doing the work in control of the conditions under which they do it. It is not a system of oversight imposed from above. It is a set of mechanisms the team uses to make collective decisions, resolve disagreements, and hold leadership accountable — without turning any of those things into a political contest or a power struggle.
+Everyone here is an owner. The incentive structure is built so that working together pays better than doing it all on your own — cooperation becomes the path of least resistance, and it quietly does most of what management traditionally does: assigning work, approving decisions, settling accounts.
 
-The model is lightweight by design. Most of what a traditional management structure does — assigning work, approving decisions, adjudicating disputes — is handled automatically by the incentive structure itself. Governance fills the gaps: the decisions the structure cannot make on its own, the disputes the structure cannot prevent, and the leadership selections the team must make together.
+Governance is what's left. Its one job is to handle the friction that comes up while the system runs, and to keep the people doing the work in control of the conditions they work under — not as oversight from above, and not as a political contest.
 
-The governing principle throughout is the same one that runs through every other part of the system: the people closest to the work know best how to do the work, and the people who share the financial consequences of a decision are the right people to make it.
+Think of it as clothing. The incentive structure is the cut that gives the garment its shape. The people and cells are the fabric. Governance is the stitching — it holds the pieces together at the seams and stays out of the way everywhere else.
 
-The conflict-governance corollary is:
+Everything below follows from one rule:
 
-> **Resolve conflict within the smallest impartial group capable of deciding, then expand participation only as the scope of impact grows.**
+> **Keep each decision with the people closest to it; widen the circle only as the scope of impact grows.**
 
-Faleth therefore defaults to trust, makes consequential action transparent, increases safeguards in proportion to potential harm, escalates according to scope, and preserves productive value before considering destruction. Central structure belongs primarily at interfaces between people, cells, subsidiaries, capital, legal obligations, and shared systems—not inside every local process. Detailed design direction and pending reconciliation points are maintained in [[Research/faleth/governance/conflict-escalation-trust-preservation-2026|Conflict Escalation, Trust Preservation, and Anti-Bureaucratic Governance]].
-
----
-
-# Section 2: The Proportional Election Model
-
-## 2.1 — The Problem With Winner-Take-All
-
-A simple majority election for the Elected Lead position works cleanly on a small, cohesive team. But as teams grow and opinions diverge, a winner-take-all election produces a structurally bad outcome: the majority gets their choice, the minority gets nothing, and the Lead enters their role knowing that a significant portion of the team did not want them there. That resentment does not disappear because the vote is over. It accumulates.
-
-The proportional election model solves this by giving every meaningful faction on the team some form of representation — not as a concession, but as a structural recognition that a team that produced three credible candidates probably needs more than one of them leading.
-
-## 2.2 — How the Election Works
-
-Lead elections use **Ranked Choice Voting** — specifically the multi-winner form known as the Single Transferable Vote (STV). Rather than casting a single vote for one candidate, each participant ranks as many candidates as they want in order of preference: first choice, second choice, third, and so on. Ranking only one candidate is perfectly valid. No one is required to rank anyone they don’t want to support.
-
-The team sets an **election threshold** during initial setup, reviewed at each annual re-election. Any candidate whose vote share meets or exceeds the threshold is elected. The threshold determines how many Leads tend to emerge.
-
-**The mechanics:**
-
-1. Each participant submits a ranked ballot. Write-in candidates are permitted.
-2. First-choice votes are tallied and expressed as percentages of total votes cast.
-3. Any candidate meeting or exceeding the threshold is elected immediately.
-4. The candidate with the fewest first-choice votes is eliminated. Each of their voters’ ballots transfers to whoever that voter ranked next among the remaining candidates.
-5. Percentages are recalculated. Any candidate now meeting the threshold is elected.
-6. Repeat steps 4–5 until no remaining candidate can reach the threshold.
-
-**Suggested thresholds:**
-- **33%** — produces at most two or three elected Leads; suitable for smaller teams where consolidated authority makes coordination easier.
-- **25%** — allows up to four Leads; suitable for medium teams where multiple strong candidates exist.
-- **20%** — allows up to five Leads; suitable for larger teams with genuinely distributed leadership.
-
-**Example:** Twelve voters, threshold 25%. Four candidates.
-
-- *Round 1:* A gets 5 votes (42%), B gets 4 (33%), C gets 2 (17%), D gets 1 (8%). A and B immediately clear the 25% threshold and are elected. D has the fewest votes and is eliminated.
-- *Transfer:* D’s voter had ranked C second. That vote moves to C. C now has 3 votes (25%) and meets the threshold. C is elected.
-- *Result:* Three Leads elected — A (42%), B (33%), C (25%).
-
-The same vote under a 33% threshold would elect only A and B, since C’s final 25% still falls short. The threshold the team sets in advance determines the outcome — not post-hoc negotiation.
-
-**Small team fallback:** For teams of five or fewer where the ranked process feels like more machinery than the situation warrants, simple plurality voting is a permitted alternative. The team documents which method they use during initial setup. Either method is valid — ranked choice produces more accurate results on larger teams; simple plurality is faster on smaller ones.
-
-## 2.3 — Proportional Lead Compensation
-
-The Lead Oversight indirect point pool is divided among all elected Leads in proportion to their **final settled vote share** — the percentages after all transfer rounds have completed, not the first-choice percentages. Final percentages reflect the team’s true preference ordering more accurately than first-choice numbers alone, since they incorporate the preferences of voters whose first-choice candidate was eliminated.
-
-Shares are calculated relative to each other among elected Leads only.
-
-**Using the example above (three Leads elected, threshold 25%):**
-- Candidate A: 42 ÷ (42 + 33 + 25) = 42% of the Lead pool
-- Candidate B: 33 ÷ (42 + 33 + 25) = 33% of the Lead pool
-- Candidate C: 25 ÷ (42 + 33 + 25) = 25% of the Lead pool
-
-If only A and B had cleared the threshold (under a 33% threshold), their shares recalculate relative to each other:
-- Candidate A: 42 ÷ (42 + 33) = 56% of the Lead pool
-- Candidate B: 33 ÷ (42 + 33) = 44% of the Lead pool
-
-The Lead pool is always fully distributed among whoever was elected — no points are left unallocated regardless of how many Leads emerge.
-
-## 2.4 — What Multiple Leads Means in Practice
-
-Multiple elected Leads do not each try to run the whole operation. They divide the Lead functions in whatever way makes the most sense for the team — by process category, by shift, by customer-facing vs. back-of-house, or by informal agreement based on each Lead's strengths. The division is theirs to determine. The only requirement is that every Lead function identified in [[The Contribution Framework#3.5 — The Elected Lead|Section 3.5 of the Contribution Framework]] is covered by someone.
-
-When Leads disagree with each other, they resolve it the same way any team disagreement is resolved: discussion first, vote if needed. Their combined vote shares do not grant them special authority over non-Lead decisions — those still belong to the whole team. The Leads' authority is operational, not legislative.
-
-## 2.5 — Practical Ceiling on Lead Count
-
-A team of five with five elected Leads is just a team with no structure. The threshold system prevents extreme fragmentation if calibrated reasonably, but the team should also apply common sense: the purpose of having Leads is to create accountability and coordination, not to give everyone a title. As a general guideline, one Lead per seven to ten participants is a healthy ratio. The threshold should be set with this in mind.
+Two habits run underneath all of it. **Trust by default** — permit action when the downside is limited and visible, and verify through transparency instead of permission. And **standards over rules** — describe the outcome you expect, not every step, and don't turn a one-off mistake into a permanent law.
 
 ---
 
-# Section 3: Confidence Votes and Re-Elections
+## 1. Scope of Impact
 
-## 3.1 — Confidence Votes
+Authority follows impact, not title. The person closest to a decision — the one who does the work and lives with the result — is usually the right one to make it. The circle only widens when the stakes do.
 
-Any participant may call a confidence vote on any elected Lead at any time. A confidence vote is not a performance review. It is a direct question to the team: does this person still have your confidence as a Lead?
+That gives a simple test for any decision or disagreement: how far does it reach? A choice that's local and reversible stays local, and happens fast. One that spends shared money, crosses between cells, or carries real legal, financial, or reputational risk pulls in more people — and more distance from the work — before it's settled.
 
-**Process:**
-1. Any participant announces the confidence vote to the team. No justification required, though one may be offered.
-2. The team votes: confidence or no confidence. Simple majority determines the outcome.
-3. If a majority votes no confidence, that Lead's election ends immediately. Their proportional share of Lead Oversight points ceases. They return to the standard participant pool with no penalty, no stigma, and no change to their direct or indirect process earnings.
-4. A new election is held within a timeframe the team determines — suggested within one week, so the Lead function is not left uncovered.
-
-The confidence vote is a low-friction accountability mechanism. Its existence matters more than its use. A Lead who knows the team can remove them at any time has a structural reason to keep earning the team's trust. Most confidence votes should never need to happen because the possibility of them shapes behavior from the day the Lead is elected.
-
-## 3.2 — Scheduled Re-Elections
-
-In addition to confidence votes, the team holds scheduled re-elections at a regular interval. Suggested cadence: annually, or at every fourth quarterly recalibration. The team sets this interval during initial setup.
-
-Re-elections are not disciplinary. They are routine. Every participant — including current Leads — stands for re-election. The threshold is re-evaluated at this time. If the team's composition or dynamics have changed, the threshold may need to change too.
-
-An incumbent Lead who is re-elected has earned their position again. An incumbent who loses their seat has not been fired. They have been outcompeted for the team's confidence in a fair process, and they return to the participant pool the same way as any other transition.
+This is the logic behind everything else. Elections widen a choice to the whole team because leadership affects everyone. Calibration starts in the cell and only reaches the Leads' table where workflows meet. Conflicts begin between the two people involved and climb only if they can't be settled there. Same rule every time: keep the decision as close to the work as it can go, and no closer to the top than it has to be.
 
 ---
 
-# Section 4: Point Value Governance
+## 2. Leadership & Representation
 
-## 4.1 — How Point Values Are Set
+A winner-take-all vote leaves a resentful minority and a Lead who knows half the team didn't want them there. So leadership is representative by design: a team that produced three credible candidates probably needs more than one of them leading.
 
-Point values are set by the team collectively during initial calibration and reviewed at every quarterly recalibration. The process is a negotiation between peers with shared financial stakes: if a process is overvalued, everyone who does not do that process subsidizes those who do. If it is undervalued, the people doing it are underpaid for their contribution. Both problems are visible and self-correcting because the team shares the pool.
+A Lead is elected authority, but bottom-up — the stitching, not the ruler. The job is to coordinate and unblock, with real operational authority and no standing to override the team on anything framework-level; those decisions stay with everyone. And the team can always take that authority back: if a Lead isn't doing the job, anyone can call a confidence vote or a new election to remove one or more of them.
 
-Full calibration mechanics are in [[The Contribution Framework#Section 5 Governance|Section 5 of the Contribution Framework]].
+**How it works.** Everyone votes by ranking their choices — back as many candidates as you want, or just one. Most teams run a single Lead. When a team grows large enough to need more, the extra seats fill by Single Transferable Vote: if your top choice is already elected or out of the running, your vote passes to your next choice, so every sizable faction gets a voice instead of the majority taking everything. A good guideline is one Lead for every twelve people.
 
-## 4.2 — When the Team Cannot Agree
-
-Disagreements about point values are healthy. They are the market mechanism working as intended — different people have different information about what a process actually requires, and surfacing that disagreement is how the team gets to an accurate number.
-
-Most disagreements resolve through open discussion. When they do not, a simple majority vote settles the question, and the minority accepts the result knowing the quarterly recalibration will give them another opportunity to revisit it.
-
-**The persistent split problem** arises when the same disagreement resurfaces quarter after quarter — a 16-14 vote that produces a resentful 14, who relitigate the same argument three months later. This is a signal that the vote is not resolving the underlying disagreement, it is just suppressing it temporarily. When this pattern is identified, the team has two better options:
-
-**Option 1 — The Parallel Trial.** Run both proposed values simultaneously for one quarter. Track the actual outcomes: how many completions, what impact on weekly earnings, what effect on behavior. At the end of the quarter, the data makes the case better than any argument. The team votes again with real evidence rather than competing intuitions. This approach is slower but more durable — a decision the minority helped make tends to stick.
-
-**Option 2 — Cell Split.** If the disagreement is persistent and deep enough that it cannot be resolved by data — if it reflects a genuine difference in how two factions understand the work — it may be evidence that the two factions are doing work that the current structure is not capturing cleanly. A cell split divides them into separate pools with separate governance, where each can calibrate their own economics. The split does not end the relationship between them. It gives each group ownership over their own parameters while the subsidiary-layer point negotiation between Leads handles the interface. See [[The Cell Framework#Section 5 Scaling Triggers|Section 5 of the Cell Framework]] for when a cell split is structurally warranted.
-
-## 4.3 — Baseline Expectations vs. Pointed Activities
-
-The boundary between what gets a point value and what is simply expected of every participant is a governance question, not a mathematical one. The team decides where this line sits and may move it at any quarterly recalibration. The governing principle: if an activity directly produces or protects measurable value, it should be pointed. If it is a general condition of professional conduct, it is a baseline expectation.
+Multiple Leads split the Lead functions among themselves — by area, by shift, by whatever fits — as long as every function is covered. When they disagree with each other, they settle it the way the team settles anything: talk first, vote if needed. (How Leads are compensated for this work lives in [[The Contribution Framework#3.5 — The Elected Lead|the Contribution Framework]].)
 
 ---
 
-# Section 5: Quarterly Recalibration
+## 3. Calibration
 
-## 5.1 — Purpose
+Markets move, tools change, people come and go. A framework that can't adapt breaks, so every quarter the team recalibrates. This is the primary governance event, and it isn't optional. Quarterly is the rhythm, not a lock — any dial can be re-opened sooner when it needs to be.
 
-The quarterly recalibration is the primary governance event for every subsidiary and cell. It is not optional. It is built into the operating rhythm of the business as the mechanism by which the team keeps the framework calibrated to reality.
+Calibration runs in two passes. First the Leads look at the whole workflow together, across cells, so the seams stay aligned. Then each Lead brings it back to their own cell and works through their chunk with the people who run it. Together they ask: which processes are actually needed, which are missing, which can go, and what each is worth.
 
-Markets change. The team composition changes. Technology changes. A framework that cannot adapt will eventually break. The recalibration is how it adapts.
+Point values come out of that conversation — a negotiation between peers with shared stakes, which keeps everyone honest. Overprice a process and everyone who doesn't do it subsidizes those who do; underprice it and no one picks it up until the value rises. Both show plainly, because the whole team shares one pool.
 
-## 5.2 — The Standing Agenda
+Disagreement here is the market working, not a problem. Most of it resolves in discussion; when it doesn't, a simple majority settles it and the minority gets another shot next cycle. When the same fight returns quarter after quarter, the vote is suppressing the disagreement rather than resolving it — so the team reaches for a better tool: a **parallel trial** (run both values for a quarter and let the results decide) or a **cell split** (give the two factions their own pools and governance; see [[The Cell Framework#Section 5 Scaling Triggers|the Cell Framework]]).
 
-Every quarterly recalibration addresses the following questions:
-
-1. **Point values:** Are they still fair? Has any process become significantly easier, harder, faster, or more valuable?
-2. **COF rate:** Is it generating reasonable weekly earnings relative to the work being done? Is the pool too thin or too generous relative to the business's financial health?
-3. **Floor amount:** Is it set at the right level? Is anyone consistently hitting the advance cap? Does local cost of living warrant an adjustment?
-4. **Profit share percentage:** Is the quarterly payout meaningful enough to drive long-term thinking, or is it being overshadowed by weekly pay?
-5. **Pointed vs. baseline:** Are there activities that should move between categories?
-6. **Lead structure:** Does the current threshold and Lead count still reflect the team's needs? Is a re-election warranted?
-7. **Disputes and patterns:** Are there recurring disagreements that suggest a structural issue rather than a calibration issue?
-
-## 5.3 — Decision Authority
-
-All recalibration decisions belong to the team. The Lead facilitates the conversation but does not have unilateral authority over outcomes. If consensus cannot be reached on any parameter, a simple majority vote settles it. The subsidiary owner holds a tiebreaking vote in cases of genuine deadlock — but this is a last resort, not a first instinct. A recalibration that requires the owner's tiebreaker every quarter is a recalibration that has not been done right.
+The same event covers the other dials: the pay parameters — the COF rate, the floor, and the profit-share percentage, whose mechanics live in [[The Contribution Framework#Section 5 Governance|the Contribution Framework]] — plus whether any activity should move between pointed work and baseline expectation, whether the Lead count still fits and a re-election is due, and whether recurring disputes point at a structural problem rather than a pricing one. Every call belongs to the team; the Lead runs the conversation but doesn't rule it.
 
 ---
 
-# Section 6: Dispute Resolution
+## 4. Resolving Conflict
 
-## 6.1 — The Layered Approach
+A conflict is just a decision that couldn't be made at the lowest level, so it follows the same rule as everything else: start with the people closest to it, and widen only if it can't be settled there. Most disputes are small — a correction to how a piece of work was credited, a value entered wrong, who did what. Those should resolve fast, between the people involved.
 
-Not all disputes require the same response. The governance model addresses them at the lowest appropriate level:
+Picture that small correction. Two people are directly involved, and there's a Lead nearby. Think of it as three keys. If the two agree, that's two keys and it's done — the Lead is only notified, for transparency. If they don't, the Lead breaks the tie — not as the boss, but because being the neutral third party who keeps things moving is exactly the job they were elected to do. Whichever side their judgment joins has two keys, and that's the call.
 
-**Level 1 — Lead resolution.** Day-to-day disputes about point attribution, work priority, process ownership, or interpersonal friction go to the Lead first. This is a core Lead function. The Lead listens, assesses, and makes a call. Their decision stands unless the affected participant escalates.
+The losing side isn't stuck with it. If the disagreement is real — not just distaste for the outcome — they can widen the circle. Take it to another Lead; if that Lead sees it their way, the Leads now disagree, and it goes to a vote among them. Still convinced? Bring in their associates, and with enough support behind them, call a full cell vote. Each step pulls in more people and more distance from the work, exactly as far as the impact justifies and no further.
 
-**Level 2 — Team discussion.** If a participant believes the Lead's call was wrong, or if the dispute involves a framework parameter rather than a day-to-day judgment, it goes to the full team. Open discussion. If consensus emerges, it is adopted. If not, a vote settles it.
+That's also what makes a decision final: it's settled once it's been decided at the scope that matches it. A two-person dispute ends with the impartial Lead unless it truly reaches wider; a cell-sized question ends at the cell vote. It only climbs past the cell when the impact does — when it crosses into other cells, spends shared money, or carries legal or financial weight — and then the same widening continues up through the subsidiary.
 
-**Level 3 — Owner tiebreaker.** If a team vote produces a genuine deadlock — an exact tie with no path to resolution — the subsidiary owner casts the deciding vote. This authority is real but should be used sparingly. A leader who needs to exercise tiebreaker authority regularly has a team that has stopped trusting its own governance process.
+As an illustration, not a rulebook, a dispute tends to travel like this:
 
-**Level 4 — Structural reconsideration.** Some disputes are not about who is right. They are about whether the current structure is the right one. A persistent point value dispute, a recurring interpersonal conflict tied to overlapping process ownership, or a team that consistently splits on every decision may be signaling a structural problem rather than a calibration problem. The quarterly recalibration is the venue for surfacing and addressing these patterns before they become chronic.
+1. The two people involved, directly.
+2. Them plus an impartial Lead.
+3. A vote among the Leads.
+4. The full cell.
 
-## 6.2 — What the Lead Cannot Do
+And, only if the impact reaches beyond the cell, onward into subsidiary leadership — and, at the far end, separation.
 
-The Lead is a coordinator and a tiebreaker, not an authority. There are specific things the Lead cannot do unilaterally:
-
-- Change point values or COF rates outside of the quarterly recalibration process.
-- Remove a participant from the pool or deny them access to processes.
-- Override a team vote on any framework parameter.
-- Allocate Lead Oversight points to themselves beyond their elected share.
-
-If a Lead exercises authority they were not granted, any participant may call a confidence vote immediately.
+Two notes. "Impartial" doesn't mean unaffected; in a shared pool almost no one is. It means far enough from the specific work to weigh it as an outsider. And widening is for disagreements that genuinely can't be resolved — not a lever for re-running an outcome someone simply didn't like.
 
 ---
 
-# Section 7: Cross-Reference Index
+## 5. Separation
 
-_The governance mechanics in this document interact with the following sections of other framework documents. Each governs its own domain; this document governs how decisions within those domains are made._
+Incompatibility isn't worthlessness. A cell can build something real and still stop fitting the system around it — and when that happens, the goal is never to destroy what could be preserved. Preserve value first, restructure second, separate third, and destroy only when there's no other option.
 
-| **Topic** | **Where the mechanics live** |
-|---|---|
-| What point values are and how they work | [[The Contribution Framework#Section 3 The Contribution Point System\|Contribution Framework, Section 3]] |
-| What the Lead does operationally | [[The Contribution Framework#3.5 — The Elected Lead\|Contribution Framework, Section 3.5]] |
-| Quarterly recalibration questions | [[The Contribution Framework#Section 5 Governance\|Contribution Framework, Section 5]] |
-| Cell-level vs. subsidiary-level governance | [[The Cell Framework#Section 4 Governance Across Cells\|Cell Framework, Section 4]] |
-| Cell split as structural resolution | [[The Cell Framework#Section 5 Scaling Triggers\|Cell Framework, Section 5]] |
-| Office-level decisions and Class A voting | [[Faleth Capital Constitution#Article IV Governance\|Constitution, Article IV]] |
-| Quarterly earnings call structure | [[Faleth Capital Constitution#4.4 — Quarterly Earnings Call\|Constitution, Section 4.4]] |
+So when a cell becomes persistently impossible to work with — ignoring shared interfaces, refusing transparency, taking the benefits of cooperation while rejecting its obligations — the first response is not removal. Cooperation is suspended before ownership is ever touched: shared services, referrals, and capital access can be paused while it's worked out. The message is "you can keep building — just not inside the cooperative structure until this is resolved."
 
-_This document is a living framework. The election threshold, confidence vote procedures, and recalibration cadence are parameters set by each team. The principles — proportional representation, data over argument, lowest appropriate level of resolution — are permanent._
+If it can't be repaired, the cell is offered a choice:
+
+- **Fork out.** The cell becomes independent and keeps everything it built — equipment, customers, whatever it holds — settling up by paying book value for what it takes (its assets plus cash on hand; we buy and sell at book value). This is the preferred path: the value stays intact, just outside the family.
+- **Dissolve.** The cell is broken up and liquidated, its people and assets redistributed where they're worth more.
+
+Individuals don't own assets — only cells, subsidiaries, and the office do. Someone who leaves keeps their Class B shares and MCA balance; everything else follows the separation terms.
+
+A decision this heavy is never one person's to make. At the cell level, separation is authorized by the executive team, and only with a confidence vote from the other cell Leads. The escalation in §4 is the due process behind it: a cell gets every chance to cooperate, and separation is nothing more than cooperation finally withdrawn in kind when it won't. It's never a punishment — just the last, least-destructive way to preserve value when staying together no longer makes sense.
+
+---
+
+*This is a living framework. The election threshold and Lead ratio, the recalibration cadence, and the point values themselves are parameters each team sets and revisits. The principles — scope of impact, bottom-up leadership, trust by default, standards over rules, and preserving value over destroying it — are the parts meant to last. For office-level governance, see [[Faleth Capital Constitution#Article IV Governance|Article IV of the Constitution]].*
