@@ -4,7 +4,7 @@ status: active
 date: 2026-07-22
 origin: Lyle Cole
 source: "[[research/raw/transcripts/lyle-telegram-2026-07-22-distribution-before-production]]"
-related: ["[[research/faleth/process/product-focus-parallelism-and-compounding-simplicity-2026]]", "[[research/faleth/process/law-of-convenience-2026]]", "[[concepts/offshoots/factory-over-product-thinking]]"]
+related: ["[[research/faleth/process/product-focus-parallelism-and-compounding-simplicity-2026]]", "[[research/faleth/process/law-of-convenience-2026]]", "[[research/faleth/process/mutual-benefit-distinguishes-influence-from-manipulation-2026]]", "[[concepts/offshoots/factory-over-product-thinking]]"]
 tags: [faleth, business, distribution, supply-demand, product-development, capital-efficiency]
 ---
 
@@ -33,7 +33,9 @@ The intermediary creates value when it reduces the distance, uncertainty, or fri
 
 Sales, in this model, is **problem discovery plus solution matching**. Selling shoes to someone without feet is not a persuasion challenge; it is a targeting failure. Ethical selling begins by identifying a real burden or desired outcome and recommending supply that genuinely fits.
 
-This is why Lyle describes business done correctly as a form of charity or service. Profit is not the opposite of helping. It is evidence that the customer voluntarily valued the solved problem more than the money exchanged. The moral failure is not earning margin; it is manufacturing false pain, misrepresenting the cure, or extracting value without solving the problem.
+This is why Lyle describes business done correctly as a form of charity or service. Profit is not the opposite of helping; it can sustain and scale useful service.
+
+However, profit alone proves only that the buyer valued the **represented offer** enough to transact. A manipulator can lie about the result, conceal long-term harm, or exploit a real motivation. The fuller standard is [[research/faleth/process/mutual-benefit-distinguishes-influence-from-manipulation-2026|mutual benefit]]: the seller must reasonably intend and expect the exchange to improve the customer as well as benefit the seller.
 
 ## The Law of Convenience
 

@@ -7,7 +7,8 @@ related_source: "[[research/raw/transcripts/lyle-x-share-2079594120977527102]]"
 related_principles:
   - "[[research/faleth/process/distribution-before-production-2026]]"
   - "[[research/faleth/process/law-of-convenience-2026]]"
-tags: [raw, lyle, business, distribution, supply-demand, product-development, convenience, opportunity-cost]
+  - "[[research/faleth/process/mutual-benefit-distinguishes-influence-from-manipulation-2026]]"
+tags: [raw, lyle, business, distribution, supply-demand, product-development, convenience, opportunity-cost, motivation, influence, manipulation]
 ---
 
 # Lyle — Distribution Before Production
@@ -46,8 +47,22 @@ Lyle connected Elon Musk's advice about sequencing ventures by capital intensity
 >
 > At the beginning, you may simply recommend useful things and get paid for connecting people to them—the same basic mechanism behind network marketing. Eventually, you gain enough resources to control more of the supply and add to it. If something does not exist, or the current supply is poor, you can create it, improve it, and make it better over time.
 
+## Continuation — Three Ps as a Universal Action Model; Influence vs. Manipulation
+
+> The Three Ps are not only a motivational model. Motivation is the fuel that runs the engine and creates movement—what fuels action itself. The model is much more universal than something that merely feels good or gets someone out of bed earlier. It describes how people move.
+>
+> When dealing with someone, ask: Are they doing this because they are trying to run away from something? Are they building toward something in the future? Or do they simply enjoy doing it? That is what push, pull, and process are.
+>
+> On profit being evidence that someone valued an offer: someone may have valued what they were lied to about. Manipulation says, “This will get you this thing,” and then it does not—or it gets the immediate thing but not what the person ultimately wants long term.
+>
+> The practical difference between manipulation and influence is whether you actually want to see the other person improve. Manipulation is selfish: “I do this because it benefits me, and I do not care what happens to you, even if it is bad.” Influence says, “Yes, this benefits me, but I care that it benefits you as well. I want it to benefit both of us.”
+>
+> Manipulation can help a business in the short term. A highly manipulative founder might build a company to five hundred people or one hundred million dollars per year. But if he never changes, the business will not last because its brand and reputation will become horrible. It may destroy itself or damage the entire industry around it.
+>
+> Manipulation is not only bad for people; it is bad for business. Anything bad for people is ultimately bad for business because business is downstream of people.
+
 ## Distilled claim
 
-Distribution can serve as a **zero-financial-capital apprenticeship for production when transactions are customer-funded**: collect payment before supplier settlement, retain the margin, and have the supplier fulfill directly. The first required capital is selling effort, trust, and coordination—not inventory or working-capital float.
+The Three Ps are a universal action model: motivation is the fuel of movement, and Push, Pull, and Process identify its three sources. In business, sales discovers the customer's push and pull; the offer supplies a credible process; customer-funded distribution can finance fulfillment with zero startup financial capital; and repeated transactions reveal what supply should be improved or created.
 
-The [[research/faleth/process/law-of-convenience-2026|Law of Convenience]] explains why customers transact; the [[research/faleth/mindset/three-ps-motivation-2026|Three Ps]] explain the motion from pain through aspiration into a trusted process. Sales discovers real problems and matches them to useful supply. Margin then funds progressively greater control and improvement of the supply itself.
+Ethical influence and manipulation may use similar persuasive mechanics, but differ in intended alignment: influence seeks mutual benefit; manipulation accepts or conceals harm to the other party for unilateral gain. Profit proves that the represented offer motivated exchange—not that the representation was truthful or the delivered result was durable. Manipulation can create short-term scale while consuming the trust, brand, people, and industry legitimacy required for long-term survival.

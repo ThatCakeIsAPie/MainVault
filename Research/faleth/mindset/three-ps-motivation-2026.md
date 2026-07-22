@@ -1,6 +1,6 @@
 ---
 type: principle
-title: Three Ps Motivation Model (2026)
+title: Three Ps Action Model (2026)
 status: active
 ingested_at: '2026-06-26T01:33:57.863Z'
 source_kind: put_page
@@ -13,13 +13,27 @@ tags:
   - three-ps
 ---
 
-# Three Ps Motivation Model (2026)
+# Three Ps Action Model (2026)
 
-**Push** — Short-term pain and loss of agency from wage dependence and low-leverage work. Creates nitrous-like urgency but is not sustainable long-term.
+## Universal theory of action
 
-**Pull** — Long-term rocket fuel. The vision of building Faleth as a build-first family office that empowers the individual through voluntary alignment, ownership, and agency-respecting systems. This is the enduring purpose.
+The Three Ps are not merely a productivity or emotional-motivation technique. **Motivation is the fuel that powers action; Push, Pull, and Process identify the three sources from which that fuel arises.**
 
-**Process** — The bedrock. Enjoyment of discipline, automation, workflow compression, modular systems, and high-leverage execution. Process is what makes the daily work feel meaningful even when progress feels slow.
+Any deliberate human movement can contain all three in different proportions:
+
+**Push** — Movement away from an unwanted present state: pain, fear, risk, frustration, loss, constraint, or threatened agency. Push can create intense urgency, but often consumes itself once the threat recedes.
+
+**Pull** — Movement toward a desired future state: purpose, relief, aspiration, identity, opportunity, belonging, achievement, or service. Pull supplies direction and durable meaning.
+
+**Process** — Movement because the activity itself is rewarding, satisfying, identity-congruent, or intrinsically enjoyable. Process sustains action when immediate pain fades and the distant future has not yet arrived.
+
+The diagnostic questions are:
+
+1. What are they trying to escape or stop? (**Push**)
+2. What are they trying to create or become? (**Pull**)
+3. What activity or method do they enjoy enough to continue? (**Process**)
+
+The model applies to founders, customers, employees, relationships, leadership, habits, and any other domain in which human action must be understood.
 
 ## Application to Lyle
 
