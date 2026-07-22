@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-21 | Total pages: 50+
+> Last updated: 2026-07-22 | Total pages: 50+
 
 ## Meta / schema
 
@@ -133,4 +133,5 @@
 - [[faleth/process/simplified-technical-english-for-llm-docs-2026]] — Named language standards as inspectable constraints for clearer LLM-generated technical documentation.
 - [[faleth/process/open-source-situational-awareness-world-monitor-2026]] — World Monitor as an open, map-based OSINT operating surface; useful architecture signal without pretending it is Palantir-in-a-box.
 - [[faleth/process/wifi-sensing-spatial-intelligence-ruview-2026]] — WiFi CSI as camera-free spatial sensing, with hardware realities, mission-shaped validation, and privacy guardrails.
+- [[faleth/process/demonstration-to-skill-capture-2026]] — Screen demonstration plus narration as a low-friction path from tacit operator knowledge to testable agent procedures.
 

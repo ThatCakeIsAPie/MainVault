@@ -421,3 +421,16 @@
 - Raw-only/skipped wiki: Monid was a single promotional comparison without reproducible platform coverage or service testing; the Cursor bookmark repeated evidence already preserved and synthesized on 2026-07-20.
 - Verification: GitHub API/README checks confirmed the named World Monitor and RuView repositories and corrected social-post simplifications; project metrics remain vendor-reported and independently unverified.
 - Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+4 IDs).
+
+## [2026-07-22] ingest | X bookmarks daily batch (1)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-22T053039Z.json`).
+- Fetched 50; already in ledger 49; new **1**; processed **1**; truncated remainder 0.
+- Raw created:
+  - `raw/x-bookmarks/2026-07-21/2079595988998554047.md` — Claude Cowork announcement for recording a demonstrated task and narration into a reusable skill.
+- Wiki created:
+  - `faleth/process/demonstration-to-skill-capture-2026.md` — demonstration-to-procedure capture, Faleth/VXE applications, verification requirements, and evidence limits.
+- Updated: `index.md` (1 new page; date bumped).
+- Raw-only/skipped wiki: none; the announced feature is central to the source and expresses a durable agent-operations pattern.
+- Evidence note: official Claude product announcement only; conversion quality and complex-workflow reliability remain independently unverified. External web search was unavailable because the configured provider had exhausted credits.
+- Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+1 ID).
