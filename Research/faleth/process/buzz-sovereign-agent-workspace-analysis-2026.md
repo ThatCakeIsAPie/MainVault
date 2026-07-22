@@ -84,6 +84,22 @@ A useful delegation surface should answer:
 
 Raw tool transcripts preserve ground truth but are poor default interfaces. Buzz's progressive-disclosure model—semantic summary first, raw data on demand—matches the practical need to supervise many agents without turning the human into a full-time log parser.
 
+### 6. Shared compute is implemented, with hardware-gated caveats
+
+A deeper inspection confirmed that Buzz's Mesh-LLM support is more than an aspirational bullet:
+
+- the workspace depends on `mesh-llm-sdk`;
+- `buzz-relay-mesh` implements mesh coordination primitives;
+- desktop Share-compute paths start Mesh-LLM serve/client nodes;
+- member-signed status events publish owner-bound connection information;
+- relay membership denies status discovery to nonmembers;
+- owner allowlists and signed bootstrap tokens gate private admission;
+- Buzz agents can use the mesh's local OpenAI-compatible endpoint.
+
+However, the strongest multi-node acceptance tests are hardware-gated and ignored by default CI. Some rows remain manual runbooks or compiling placeholders, and one source comment identifies a likely headless readiness problem in the Share-compute path. The integration is real, but operational maturity should be proven on target hardware before relying on it.
+
+See [[research/faleth/process/member-gated-compute-mesh-for-sovereign-agents-2026|Member-Gated Compute Mesh for Sovereign Agents]].
+
 ## Relationship to Hermes, Honcho, and GBrain
 
 Buzz overlaps with Hermes but does not replace it.
