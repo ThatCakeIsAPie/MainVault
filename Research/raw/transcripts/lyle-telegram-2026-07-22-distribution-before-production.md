@@ -8,7 +8,8 @@ related_principles:
   - "[[research/faleth/process/distribution-before-production-2026]]"
   - "[[research/faleth/process/law-of-convenience-2026]]"
   - "[[research/faleth/process/mutual-benefit-distinguishes-influence-from-manipulation-2026]]"
-tags: [raw, lyle, business, distribution, supply-demand, product-development, convenience, opportunity-cost, motivation, influence, manipulation]
+  - "[[research/faleth/process/customer-success-as-post-sale-proof-and-network-curation-2026]]"
+tags: [raw, lyle, business, distribution, supply-demand, product-development, convenience, opportunity-cost, motivation, influence, manipulation, customer-success, referrals]
 ---
 
 # Lyle — Distribution Before Production
@@ -60,6 +61,20 @@ Lyle connected Elon Musk's advice about sequencing ventures by capital intensity
 > Manipulation can help a business in the short term. A highly manipulative founder might build a company to five hundred people or one hundred million dollars per year. But if he never changes, the business will not last because its brand and reputation will become horrible. It may destroy itself or damage the entire industry around it.
 >
 > Manipulation is not only bad for people; it is bad for business. Anything bad for people is ultimately bad for business because business is downstream of people.
+
+## Continuation — Time, Customer Success, and Customer-Base Curation
+
+> The Three Ps are based around time. Push motivation is running from the past or circumstances you did not have much control over. But running away from the past is not the same as running toward a future. There are hundreds of possible futures, which is why a discrete Pull is important: it gives direction so you do not recreate the same adverse circumstances.
+>
+> Push is on the backside from the past; Pull is hope drawing you toward a brighter future; Process keeps you in the game. Push and Pull are great until your dream of moving the world is hidden behind three weeks of boring legal or contracting documents. Learning to enjoy the process keeps you moving when the vision feels distant.
+>
+> This also reminds me of Alex Hormozi redefining post-sale customer service as customer success: are people actually getting what you promised? If they are, there is not much to complain about and those are the people you want to ask for referrals.
+>
+> Some offers require the customer's feet to move. In weight loss or any behavior-dependent result, some people will not move regardless of what you do. They do not feel enough Push, have enough Pull, or enjoy the Process enough to act. Other people will—and those are the customers you want to serve and ask for referrals.
+>
+> A customer base is a network of people you can serve, so it should be curated. You want customers who will actually benefit, then more people like those customers. People tend to resemble the people closest to them; one successful customer can recommend several friends with similar attitudes and fit.
+>
+> You track what you care about. If you say you care whether someone benefits but do not measure whether they received the result, then you do not actually operationalize that care.
 
 ## Distilled claim
 
