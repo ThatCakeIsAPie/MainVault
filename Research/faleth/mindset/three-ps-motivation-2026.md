@@ -35,6 +35,22 @@ The diagnostic questions are:
 
 The model applies to founders, customers, employees, relationships, leadership, habits, and any other domain in which human action must be understood.
 
+## Temporal architecture
+
+The Three Ps also map onto time:
+
+- **Push is pressure from the past and present circumstances.** A person runs from pain, constraints, losses, or conditions already experienced.
+- **Pull is a specifically chosen future.** Hope and vision identify which of many possible futures the person intends to build.
+- **Process is present-tense endurance.** Enjoyment or meaning in today's activity keeps movement alive when the past has lost urgency and the future still feels distant.
+
+Push supplies escape velocity, but escape alone does not provide a destination. Someone can run from an adverse past in hundreds of directions and accidentally recreate it elsewhere. A discrete Pull supplies direction.
+
+Push and Pull can both become psychologically remote during long stretches of mundane execution. Process carries the person through procurement files, legal documents, repetitive operations, delayed feedback, and other glamorous rituals by which grand visions are apparently admitted into reality.
+
+The time model is therefore:
+
+**Past pressure pushes → future hope pulls → present process sustains.**
+
 ## Application to Lyle
 
 Lyle's current **Push** comes from the loss of paycheck security and the urgency of making contract cash land without returning to agency-poor dependence. His **Pull** remains Faleth's long-term mission: building agency-respecting companies that equip people to pursue their dreams. His **Process** is the daily operating bedrock—VXE execution, disciplined fulfillment, automation, modular systems, and continuous workflow compression.

@@ -78,6 +78,10 @@ Lyle connected Elon Musk's advice about sequencing ventures by capital intensity
 
 ## Distilled claim
 
-The Three Ps are a universal action model: motivation is the fuel of movement, and Push, Pull, and Process identify its three sources. In business, sales discovers the customer's push and pull; the offer supplies a credible process; customer-funded distribution can finance fulfillment with zero startup financial capital; and repeated transactions reveal what supply should be improved or created.
+The Three Ps are a universal, temporal action model: **past pressure pushes, future hope pulls, and present process sustains.** Push creates escape velocity, Pull chooses among possible futures, and Process carries action through the mundane distance between circumstance and vision.
 
-Ethical influence and manipulation may use similar persuasive mechanics, but differ in intended alignment: influence seeks mutual benefit; manipulation accepts or conceals harm to the other party for unilateral gain. Profit proves that the represented offer motivated exchange—not that the representation was truthful or the delivered result was durable. Manipulation can create short-term scale while consuming the trust, brand, people, and industry legitimacy required for long-term survival.
+In business, sales discovers the customer's Push and Pull; the offer supplies a credible Process; customer-funded distribution can finance fulfillment with zero startup financial capital; and repeated transactions reveal what supply should be improved or created.
+
+Ethical influence and manipulation may use similar persuasive mechanics, but differ in intended alignment: influence seeks mutual benefit; manipulation accepts or conceals harm to the other party for unilateral gain. Profit proves that the represented offer motivated exchange—not that the representation was truthful or the delivered result was durable.
+
+Customer success is the post-sale proof: define suitable customers, track whether they perform the required process and receive the promised outcome, then request referrals from successful customers to build a better-fit customer network. What the business tracks reveals what it operationally cares about.

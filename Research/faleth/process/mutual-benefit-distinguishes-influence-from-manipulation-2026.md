@@ -4,7 +4,7 @@ status: active
 date: 2026-07-22
 origin: Lyle Cole
 source: "[[research/raw/transcripts/lyle-telegram-2026-07-22-distribution-before-production]]"
-related: ["[[research/faleth/mindset/three-ps-motivation-2026]]", "[[research/faleth/process/law-of-convenience-2026]]", "[[concepts/offshoots/trust-as-coordination-infrastructure]]", "[[concepts/offshoots/alignment-as-voluntary-shared-direction]]"]
+related: ["[[research/faleth/mindset/three-ps-motivation-2026]]", "[[research/faleth/process/law-of-convenience-2026]]", "[[research/faleth/process/customer-success-as-post-sale-proof-and-network-curation-2026]]", "[[concepts/offshoots/trust-as-coordination-infrastructure]]", "[[concepts/offshoots/alignment-as-voluntary-shared-direction]]"]
 tags: [faleth, influence, manipulation, mutual-benefit, trust, brand, leadership, ethics]
 ---
 
@@ -70,6 +70,14 @@ Lyle's governing claim is:
 Businesses do not exist separately from human reality. Customers provide revenue; contributors provide labor and judgment; suppliers provide capacity; communities provide legitimacy; institutions provide operating permission. Harming those sources may be temporarily profitable but weakens the system from which profit must continue to emerge.
 
 This does not mean every mutually beneficial decision feels pleasant or avoids short-term pain. Honest feedback, restructuring, standards, refusal, and separation can hurt while preserving long-term value. The relevant question is not “Did anyone feel discomfort?” It is “Did the decision respect agency, truth, proportionality, and the legitimate interests of affected people?”
+
+## Outcome tracking is the accountability mechanism
+
+Intent becomes operational only when the organization inspects what happened to the people it persuaded. Lyle's rule is: **you track what you care about.**
+
+If a company claims to care about customer improvement but measures only conversion and revenue, it rewards persuasion while remaining blind to delivery. [[research/faleth/process/customer-success-as-post-sale-proof-and-network-curation-2026|Customer Success as Post-Sale Proof]] closes that gap by tracking whether suitable customers activated, performed the process, and received the promised value.
+
+Tracking does not guarantee virtue, but refusing to track predictable outcomes makes declarations of care structurally unverifiable.
 
 ## Influence test
 
