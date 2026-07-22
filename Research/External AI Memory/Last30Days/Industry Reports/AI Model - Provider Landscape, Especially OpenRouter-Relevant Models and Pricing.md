@@ -160,3 +160,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-21
 - Official API **~11:01 UTC**: **338 models**, exact diff **+1 / -1**. Added `meituan/longcat-2.0` (131,072 context, **$0.30/$1.20/M**); removed `tencent/hy3:free`. Core-stack pricing is unchanged. Remove HY3 from fallback assumptions and benchmark LongCat against Laguna on accepted-result cost before routing changes ([API](https://openrouter.ai/api/v1/models), [LongCat](https://openrouter.ai/meituan/longcat-2.0)). Signal: **strong**.
+
+### 2026-07-22
+- Official API **~11:01 UTC**: **342 models**, exact diff **+4 / -0**. Added `google/gemini-3.6-flash` **$1.50/$7.50/M**, `google/gemini-3.5-flash-lite` **$0.30/$2.50/M**, `poolside/laguna-s-2.1` **$0.10/$0.20/M**, and `poolside/laguna-s-2.1:free`. Core-stack pricing is unchanged. Benchmark Flash-Lite for extraction, Flash for general/multimodal work, and Laguna S against XS/LongCat on accepted-result cost ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
