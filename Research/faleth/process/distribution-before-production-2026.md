@@ -4,7 +4,7 @@ status: active
 date: 2026-07-22
 origin: Lyle Cole
 source: "[[research/raw/transcripts/lyle-telegram-2026-07-22-distribution-before-production]]"
-related: ["[[research/faleth/process/product-focus-parallelism-and-compounding-simplicity-2026]]", "[[concepts/offshoots/factory-over-product-thinking]]"]
+related: ["[[research/faleth/process/product-focus-parallelism-and-compounding-simplicity-2026]]", "[[research/faleth/process/law-of-convenience-2026]]", "[[concepts/offshoots/factory-over-product-thinking]]"]
 tags: [faleth, business, distribution, supply-demand, product-development, capital-efficiency]
 ---
 
@@ -28,6 +28,16 @@ Supply and demand frequently exist without knowing how to find, evaluate, or tru
 - **Brand** reduces the trust and search costs of future exchanges.
 
 The intermediary creates value when it reduces the distance, uncertainty, or friction between supply and demand. Retail, brokerage, marketplaces, agencies, and many service businesses are variations of this coordination function.
+
+## The Law of Convenience
+
+Lyle's underlying value mechanism is the [[research/faleth/process/law-of-convenience-2026|Law of Convenience]]: customers often pay not because self-provision is impossible, but because buying the specialist's result costs less than recreating the specialist's learning, tools, execution time, and risk.
+
+The customer's comparison is therefore not **service price versus zero**. It is:
+
+**service price versus learning time + execution time + tools + error risk + opportunity cost + friction.**
+
+Pain creates urgency, while convenience determines whether the proposed cure is economically worthwhile. Sales and marketing teach the founder which pains cause action, how customers describe them, and what relief they value enough to purchase.
 
 ## The capital ladder
 
