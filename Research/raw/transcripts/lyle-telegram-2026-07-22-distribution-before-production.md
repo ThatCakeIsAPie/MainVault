@@ -36,8 +36,18 @@ Lyle connected Elon Musk's advice about sequencing ventures by capital intensity
 >
 > I have found that is really the fundamental of business and the economy. Starting in sales and marketing gives you the ability to tap into that. Many businesses try to jump straight to the capital point, but they do not know their customer or the customer's pain points. Maybe they have a good product, but they do not know how to get it into anyone's hands. That is an opportunity for you to make money without putting down much capital—and to learn what you will need when you have the capital to start your own thing.
 
+## Continuation — Zero-Capital Distribution, the Three Ps, and Business as Service
+
+> The reason I say distribution takes no capital rather than merely being capital-light is that, if you can sell well enough, the money comes from the sale itself. You can have a deal with the supplier where you collect the cash, pay the supplier from that cash, and the supplier sends the product to the customer. You make your money immediately and do not need running capital. You can live off the sales you are doing, and getting started takes nothing financially. That is why I say zero capital.
+>
+> Pain pushing someone away from their present state and aspiration pulling them toward the desired state reminds me of the three motivations we have discussed: push, pull, and process. I find that fascinating.
+>
+> Sales ultimately is discovering problems and connecting them to solutions. If you try to sell shoes to someone without feet, you will have a hard time. But if you sell something that solves an actual problem people have, business is essentially charity when it is done right: you solve real issues in the world rather than merely trying to make a buck.
+>
+> At the beginning, you may simply recommend useful things and get paid for connecting people to them—the same basic mechanism behind network marketing. Eventually, you gain enough resources to control more of the supply and add to it. If something does not exist, or the current supply is poor, you can create it, improve it, and make it better over time.
+
 ## Distilled claim
 
-Distribution can serve as a capital-light apprenticeship for production: first connect existing supply to unserved demand through effort, then reinvest both margin and customer knowledge into proprietary supply.
+Distribution can serve as a **zero-financial-capital apprenticeship for production when transactions are customer-funded**: collect payment before supplier settlement, retain the margin, and have the supplier fulfill directly. The first required capital is selling effort, trust, and coordination—not inventory or working-capital float.
 
-The underlying value mechanism is the [[research/faleth/process/law-of-convenience-2026|Law of Convenience]]: customers buy when purchasing a specialist's result costs less than recreating the specialist's learning, tools, time, and risk themselves. Sales and marketing expose the entrepreneur to those real pain and convenience economics before heavy capital is committed.
+The [[research/faleth/process/law-of-convenience-2026|Law of Convenience]] explains why customers transact; the [[research/faleth/mindset/three-ps-motivation-2026|Three Ps]] explain the motion from pain through aspiration into a trusted process. Sales discovers real problems and matches them to useful supply. Margin then funds progressively greater control and improvement of the supply itself.

@@ -12,7 +12,9 @@ tags: [faleth, business, distribution, supply-demand, product-development, capit
 
 ## Thesis
 
-A capital-constrained entrepreneur does not need to begin by manufacturing supply. The first business can be the discovery and distribution layer: identify demand, connect it to existing supply, capture margin, and use the resulting cash and market knowledge to create better proprietary supply later.
+A capital-constrained entrepreneur does not need to begin by manufacturing supply. Under a customer-funded distribution arrangement, the entrepreneur can begin with **zero financial capital**: identify demand, collect customer payment, pay the supplier from that collected cash, retain the margin, and have the supplier fulfill directly. The initial investment is effort, trust, judgment, and selling ability rather than inventory or working-capital float.
+
+The resulting cash and market knowledge can later fund better proprietary supply.
 
 In compact form:
 
