@@ -29,7 +29,11 @@ Supply and demand frequently exist without knowing how to find, evaluate, or tru
 - **Distribution** moves the offer through the channel that connects the two.
 - **Brand** reduces the trust and search costs of future exchanges.
 
-The intermediary creates value when it reduces the distance, uncertainty, or friction between supply and demand. Retail, brokerage, marketplaces, agencies, and many service businesses are variations of this coordination function.
+The intermediary creates value when it reduces the distance, uncertainty, or friction between supply and demand. Retail, brokerage, marketplaces, agencies, network marketing, and many service businesses are variations of this coordination function.
+
+Sales, in this model, is **problem discovery plus solution matching**. Selling shoes to someone without feet is not a persuasion challenge; it is a targeting failure. Ethical selling begins by identifying a real burden or desired outcome and recommending supply that genuinely fits.
+
+This is why Lyle describes business done correctly as a form of charity or service. Profit is not the opposite of helping. It is evidence that the customer voluntarily valued the solved problem more than the money exchanged. The moral failure is not earning margin; it is manufacturing false pain, misrepresenting the cure, or extracting value without solving the problem.
 
 ## The Law of Convenience
 
@@ -43,9 +47,13 @@ Pain creates urgency, while convenience determines whether the proposed cure is 
 
 ## The capital ladder
 
-### Stage 1 — Connect existing supply to demand
+### Stage 1 — Connect existing supply to demand with customer-funded order flow
 
-Use effort, judgment, relationships, and positioning rather than heavy fixed capital. Dropshipping, resale, brokerage, agency work, and outsourced fulfillment can all test whether demand is real before the entrepreneur owns production.
+Use effort, judgment, relationships, and positioning rather than financial capital. Structure the transaction so the customer pays first, the supplier is paid from collected cash, the distributor retains the spread, and the supplier fulfills directly.
+
+This removes the need to pre-purchase inventory or maintain a working-capital float. Dropshipping, brokerage, commission sales, referral arrangements, preorders, and some agency or outsourced-fulfillment models can fit this pattern.
+
+The zero-capital claim is conditional on the transaction structure: the seller must be able to acquire the customer without paid acquisition, obtain favorable supplier settlement terms, avoid inventory commitments, and manage refunds or failures without an external cash reserve. When those conditions hold, the sale finances its own fulfillment.
 
 ### Stage 2 — Learn from transactions
 
@@ -79,6 +87,7 @@ This is currently recorded as Lyle's remembered example, not independently verif
 
 ### It is
 
+- a way to begin with zero financial capital when customer payment precedes supplier settlement;
 - a way to reduce capital risk before manufacturing;
 - a paid market-research system;
 - a bridge from labor and relationships into owned assets;
@@ -86,12 +95,13 @@ This is currently recorded as Lyle's remembered example, not independently verif
 
 ### It is not
 
-- proof that distribution literally requires zero capital;
+- a claim that effort, trust, skill, payment processing, or transaction risk disappear;
+- a claim that every distribution arrangement is customer-funded;
 - permission to sell low-quality interchangeable products forever;
 - a guarantee that a distributor can become a competent manufacturer;
 - justification for extracting margin without reducing real friction.
 
-The more precise claim is that distribution is often **capital-light relative to production**. It substitutes effort, selling ability, and channel access for some portion of fixed capital.
+The precise claim is: **distribution can require zero financial startup capital when order flow is customer-funded and fulfillment obligations are settled from the same transaction.** Human effort and execution risk remain, but inventory and working-capital requirements can be deleted.
 
 ## Faleth implication
 

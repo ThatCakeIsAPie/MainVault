@@ -34,6 +34,16 @@ Pain is broader than physical or emotional suffering. It includes:
 
 The customer is not simply purchasing labor. The customer is purchasing the removal of these burdens.
 
+## Economic expression of the Three Ps
+
+Lyle recognized that customer motivation follows the same [[research/faleth/mindset/three-ps-motivation-2026|Three Ps]] that govern founder motivation:
+
+- **Push:** pain, cost, risk, or frustration pushes the customer away from the current state.
+- **Pull:** aspiration, relief, identity, or opportunity pulls the customer toward a desired state.
+- **Process:** the offer is the trusted mechanism through which the customer expects to cross the gap.
+
+A sale requires more than push or pull. The customer must also believe the process is credible, convenient, proportionate in cost, and likely to work. Pain without a trusted process creates frustration; aspiration without a trusted process remains fantasy.
+
 ## The true comparison
 
 A buyer does not rationally compare the service price with zero. The comparison is:

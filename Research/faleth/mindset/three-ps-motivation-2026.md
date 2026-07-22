@@ -23,9 +23,19 @@ tags:
 
 ## Application to Lyle
 
-Lyle is currently experiencing strong **Push** from his day job (zero leverage, repeated timeline slippage on GovCon). He is deliberately shifting energy toward building an **automation services bridge** so he can increase **Process** capacity while moving closer to the **Pull** of full-time Faleth work.
+Lyle's current **Push** comes from the loss of paycheck security and the urgency of making contract cash land without returning to agency-poor dependence. His **Pull** remains Faleth's long-term mission: building agency-respecting companies that equip people to pursue their dreams. His **Process** is the daily operating bedrock—VXE execution, disciplined fulfillment, automation, modular systems, and continuous workflow compression.
 
-The model explains why pure waiting feels draining and why building something (even as a bridge) restores motivation.
+The model explains why waiting on awards or payments feels draining while building, selling, and systematizing restore agency. VXE is currently the primary execution field; bridge services remain on hold unless runway mathematics changes.
+
+## Customer and market application
+
+The Three Ps also describe why customers buy:
+
+- **Push:** an unresolved pain, cost, risk, or inconvenience makes the present state unacceptable.
+- **Pull:** a desired result, relief, identity, or opportunity makes another state attractive.
+- **Process:** a credible offer gives the customer a trusted path between the two.
+
+This connects the motivation model to [[research/faleth/process/law-of-convenience-2026|The Law of Convenience]] and [[research/faleth/process/distribution-before-production-2026|Distribution Before Production]]. Sales discovers the push and pull; the offer supplies the process; repeated transactions reveal what supply should be created or improved.
 
 ## Related
 
