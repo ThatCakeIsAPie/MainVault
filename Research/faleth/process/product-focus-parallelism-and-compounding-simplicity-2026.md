@@ -22,6 +22,12 @@ Musk saw the internet as a rare platform shift, but Zip2 did not begin with an a
 
 SpaceX followed the same shape: begin with a known satellite-launch market, use it as a revenue base, and only then move toward human transportation and Mars. The grand mission selected the vector; a boringly real market financed movement along it.
 
+### 1A. Distribution can be an apprenticeship for production
+
+Lyle extended this sequence through the Manscaped example: begin by distributing existing supply into a clearly defined demand niche, then reinvest margin and customer knowledge into proprietary products. Distribution is not merely a cheap precursor to “the real business.” It is a paid demand-discovery system that reveals what supply deserves to be created.
+
+The resulting ladder is: **distribute → learn → accumulate → produce → improve.** See [[research/faleth/process/distribution-before-production-2026|Distribution Before Production]].
+
 ### 2. Let customer intensity—not development effort—identify the product
 
 X.com built a complex integrated financial-services system. Customers reacted politely. The one-day email-payments feature made them say “wow.” The company focused on the feature with emotional pull rather than defending the work that had consumed the most effort.
