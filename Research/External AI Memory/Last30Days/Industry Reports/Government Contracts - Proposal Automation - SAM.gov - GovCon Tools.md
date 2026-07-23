@@ -157,3 +157,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-22
 - Directly inspected SAM.gov still requires FSD/customer notice for issue-blocked ISR filing eight days after deadline and lists eligibility/workspace updates in progress. Fresh legal headlines grouped CUI/FOCI/quantum/CMMC rules and key-personnel disclosure; add clause/version and personnel-change evidence fields while the August 14 CMMC reform window remains open ([official SAM.gov](https://sam.gov/esrs), [key-personnel item](https://news.google.com/rss/articles/CBMihgFBVV95cUxNczU3MFA3UzIzOVZ4RWhQSlM5ZTI5UklSVjZ2dEJRMmh6ZktMbm5ScVBLX2JKMnpoMkxlalNCR0w4Mm1KcVUwcVkxZVZXOVF6S01mOWwwQ01yTFY2R2o5LVVUTVlWSzVSaWIwY2NaTzg4TklGYkFqWHRPcV9ZS2JZQUxVN0JNQQ?oc=5)). Signal: **strong** for SAM, **medium–weak** for legal details.
+
+### 2026-07-23
+- Nine days after the mid-year ISR deadline, directly inspected SAM.gov still instructs issue-blocked filers to submit an FSD ticket and notify the agency/higher-tier customer. It still lists missing FFATA first-tier integration, the **$550,000** eligibility revision, and lower-tier ISR enablement as active updates. No verified proposal-tool or primary-rule change surfaced ([official SAM.gov](https://sam.gov/esrs)). Signal: **strong** for official instructions, **weak** for daily novelty.
