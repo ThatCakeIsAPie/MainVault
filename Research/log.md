@@ -434,3 +434,17 @@
 - Raw-only/skipped wiki: none; the announced feature is central to the source and expresses a durable agent-operations pattern.
 - Evidence note: official Claude product announcement only; conversion quality and complex-workflow reliability remain independently unverified. External web search was unavailable because the configured provider had exhausted credits.
 - Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+1 ID).
+
+## [2026-07-23] ingest | X bookmarks daily batch (4)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-23T053049Z.json`).
+- Fetched 50; already in ledger 46; new **4**; processed **4**; truncated remainder 0.
+- Raw created:
+  - `raw/x-bookmarks/2026-07-21/2079605800998146171.md` — Jack's official launch post for the open-source, self-sovereign human/agent groupchat platform Buzz.
+  - `raw/x-bookmarks/2026-07-22/2079833837417185600.md` — image-only T-shirt-color/body-temperature graphic; OCR context preserved, underlying study absent.
+  - `raw/x-bookmarks/2026-07-22/2079836641687130303.md` — image-only “make yourself at home / you're in my tree” visual joke with quoted-post context.
+  - `raw/x-bookmarks/2026-07-21/2079594120977527102.md` — 2003 Elon Musk Stanford company-building lecture share.
+- Wiki created/updated: none. Buzz and the Stanford lecture were already fully preserved and synthesized in `faleth/process/buzz-sovereign-agent-workspace-analysis-2026.md` and `faleth/process/product-focus-parallelism-and-compounding-simplicity-2026.md`; duplicating those pages would add noise rather than knowledge.
+- Raw-only/skipped wiki: the T-shirt graphic lacked study provenance and numeric evidence; the Sparrow post was a visual joke rather than a durable research idea.
+- Updated: `log.md`; `index.md` intentionally unchanged because no wiki page was created.
+- Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+4 IDs).
