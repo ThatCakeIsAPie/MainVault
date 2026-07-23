@@ -3,7 +3,7 @@ type: analysis
 status: active
 date: 2026-07-22
 origin: Delta synthesis for Lyle Cole
-source: "[[research/raw/sources/block-buzz-2026-07-22]]"
+sources: ["[[research/raw/sources/block-buzz-2026-07-22]]", "[[research/raw/articles/jack-why-were-buzzing-2026-07-22]]"]
 related: ["[[research/faleth/process/agent-swarm-coordination-context-economics-2026]]", "[[research/faleth/process/customer-success-as-post-sale-proof-and-network-curation-2026]]", "[[concepts/offshoots/trust-as-coordination-infrastructure]]", "[[concepts/offshoots/factory-over-product-thinking]]"]
 tags: [faleth, buzz, agents, collaboration, sovereignty, audit, orchestration, nostr]
 ---
@@ -21,6 +21,22 @@ Its strongest idea is not the interface. It is the **shared coordination substra
 This is closely aligned with Faleth's agency, transparent contribution, inspectable authority, voluntary alignment, and system-level trust principles.
 
 It is not currently a priority deployment for Lyle's July 2026 season. VXE cash timing and fulfillment dominate. Buzz should be treated as a reference architecture and future collaboration-plane candidate, not a new infrastructure project competing with revenue.
+
+## Official diagnosis: context dies at the seams
+
+Jack's article [[research/raw/articles/jack-why-were-buzzing-2026-07-22|Why We're Buzzing]] states the problem directly: teams distribute work across chat, code hosting, CI, and an expanding pile of agent tools; each interface loses context, and agents suffer most because they cannot help with what they cannot see.
+
+Block's stated ambition is larger than replacing Slack or GitHub:
+
+> Block is rebuilding itself to be an intelligence.
+
+Under this model, organizational intelligence is not merely a better model. It is the ability of people and agents to perceive the same relevant history, act through scoped identities, and leave attributable evidence in one retrievable record.
+
+This sharpens the governing principle:
+
+> **An organization cannot become intelligent while its memory, authority, work, and feedback remain fragmented across inaccessible seams.**
+
+Jack identifies future work around tighter agent scoping, hosted deployment, token efficiency, open workflow/agent ecosystems, federation between relays, and agents that can transact. These are directionally aligned with Faleth, but they also confirm that Buzz's current single-relay design is an early foundation rather than the completed decentralized network.
 
 ## What Buzz gets right
 
