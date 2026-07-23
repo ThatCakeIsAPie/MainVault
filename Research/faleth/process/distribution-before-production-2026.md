@@ -4,7 +4,7 @@ status: active
 date: 2026-07-22
 origin: Lyle Cole
 source: "[[research/raw/transcripts/lyle-telegram-2026-07-22-distribution-before-production]]"
-related: ["[[research/faleth/process/product-focus-parallelism-and-compounding-simplicity-2026]]", "[[research/faleth/process/law-of-convenience-2026]]", "[[research/faleth/process/mutual-benefit-distinguishes-influence-from-manipulation-2026]]", "[[concepts/offshoots/factory-over-product-thinking]]"]
+related: ["[[research/faleth/process/product-focus-parallelism-and-compounding-simplicity-2026]]", "[[research/faleth/process/law-of-convenience-2026]]", "[[research/faleth/process/mutual-benefit-distinguishes-influence-from-manipulation-2026]]", "[[research/faleth/process/product-distribution-as-training-data-flywheel-2026]]", "[[concepts/offshoots/factory-over-product-thinking]]"]
 tags: [faleth, business, distribution, supply-demand, product-development, capital-efficiency]
 ---
 
@@ -78,6 +78,14 @@ Once demand is proven, reinvest margin into product design, inventory, tooling, 
 ### Stage 4 — Compound product and brand quality
 
 Each product generation can improve using direct customer evidence. Better supply strengthens the brand; the brand lowers future acquisition friction; the stronger distribution system then supports further product investment.
+
+### Recursive AI variant — Distribution becomes production feedback
+
+In an AI application, the same channel that distributes the current model can generate eligible evidence for the next one. [[research/faleth/process/product-distribution-as-training-data-flywheel-2026|Cursor's joint training and distribution of Grok 4.5]] illustrates the recursive sequence:
+
+> **Distribute model → observe workflows → construct verified training environments → produce improved model → redistribute through the same product.**
+
+The product becomes both storefront and sensor network. This adds learning value to each subsidized interaction, provided data rights, consent, privacy, and verification remain explicit.
 
 ## Manscaped as Lyle's example
 
