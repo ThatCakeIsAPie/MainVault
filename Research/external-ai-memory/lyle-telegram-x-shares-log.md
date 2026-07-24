@@ -1,7 +1,7 @@
 ---
 type: note
 title: Lyle Telegram X Shares Log
-updated: '2026-07-23T00:44:07.000Z'
+updated: '2026-07-24T17:05:10.000Z'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -21,6 +21,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-07-24 | [2080699367883980924](https://x.com/garrytan/status/2080699367883980924) | Garry Tan; Faleth as the radically different staffing/workflow architecture AI diffusion requires | [[research/raw/transcripts/lyle-x-share-2080699367883980924]] | [[research/faleth/process/microproductivity-requires-workflow-redesign-2026]]; [[The Contribution Framework]] |
 | 2026-07-22 | [2080056638820450400](https://x.com/jack/status/2080056638820450400) | follow-up; Jack's “why we're buzzing” X article | [[research/raw/articles/jack-why-were-buzzing-2026-07-22]] | [[research/faleth/process/buzz-sovereign-agent-workspace-analysis-2026]] |
 | 2026-07-22 | [2079684905991118892](https://x.com/derekmross/status/2079684905991118892) | ambient share; Buzz includes Mesh-LLM shared compute | [[research/raw/transcripts/lyle-x-share-2079684905991118892]] | [[research/faleth/process/member-gated-compute-mesh-for-sovereign-agents-2026]] |
 | 2026-07-22 | [2080003549564432425](https://x.com/LyleBCole/status/2080003549564432425) | Lyle public thread; Time–Talent–Treasure conversion triangle | [[research/raw/transcripts/lyle-x-share-2080003549564432425]] | [[research/faleth/process/three-treasures-resource-conversion-and-stewardship-2026]] |

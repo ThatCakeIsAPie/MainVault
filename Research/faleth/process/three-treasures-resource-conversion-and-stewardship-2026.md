@@ -14,6 +14,8 @@ tags: [faleth, time, talent, treasure, stewardship, resource-conversion, capital
 
 Time, Talent, and Treasure are the three fundamental resources an operator can steward. Each can be exchanged, in the right context, to acquire or amplify the other two.
 
+This model now forms the **How** layer of Lyle's broader [[research/queries/what-why-how-three-by-three-action-architecture|What–Why–How 3×3 architecture]]. The **What** is the ultimate outcome, the Three Ps supply the **Why**, and these Three Treasures supply the means by which the outcome is pursued.
+
 The strategic game is:
 
 1. identify which resource is currently scarce;
@@ -49,6 +51,8 @@ Recovered time can then be reinvested into higher-value Talent, additional Treas
 
 The resources are exchangeable, but not at fixed or unlimited rates.
 
+Each real conversion normally combines the other two resources in a context-dependent **ratio**. The triangle deliberately omits coefficients: its purpose is to reveal which resources can be converted into the scarce one, not to pretend every conversion uses equal inputs or to bloat a portable model with situational arithmetic.
+
 - Lost time cannot literally be replenished; it can only be preserved, reallocated, or freed in the future.
 - Money can purchase access to talent, but not ownership, conscience, loyalty, or guaranteed effort.
 - Time invested without effective practice may not produce talent.
@@ -56,6 +60,18 @@ The resources are exchangeable, but not at fixed or unlimited rates.
 - Treasure placed in untrustworthy or incapable hands may destroy both money and time.
 
 The model is therefore not mechanical fungibility. It is **stewarded conversion under real constraints**.
+
+## Resource asymmetry and troubleshooting
+
+The Three Treasures do not behave alike:
+
+- **Time is a depleting flow:** nonrenewable, non-storable, and therefore intrinsically scarce.
+- **Talent is a durable and often compounding stock:** capability and judgment usually persist across projects and improve future conversion efficiency, although they can atrophy or become obsolete.
+- **Treasure is a liquid and volatile stock:** highly visible, measurable, transferable, acquirable, and losable.
+
+When someone is doing a great deal but producing little, the problem is often not insufficient Time or effort. It is missing Talent: capability, judgment, technique, coordination, or selection of a valuable problem. Time without sufficient Talent becomes low-yield activity; Treasure allocated without sufficient Talent becomes expensive activity.
+
+This makes the What–Why–How pyramid a fault tree: inaction points toward Why, while sustained activity without results points toward How and often toward constrained Talent.
 
 ## Constraint migration
 

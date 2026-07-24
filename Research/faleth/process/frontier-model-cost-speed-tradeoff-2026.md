@@ -1,7 +1,7 @@
 ---
 title: Frontier Model Cost-Speed Tradeoff (SWE-1.7 signal, 2026)
 created: 2026-07-09
-updated: 2026-07-17
+updated: 2026-07-24
 type: principle
 tags: [ai, llm, inference, strategy, systems, leverage]
 sources:
@@ -12,6 +12,7 @@ sources:
   - research/raw/x-bookmarks/2026-07-16/2077683048267845761.md
   - research/raw/x-bookmarks/2026-07-15/2077467740835926096.md
   - research/raw/transcripts/lyle-x-share-2079256616407273801
+  - raw/x-bookmarks/2026-07-22/2079993729532989500.md
 confidence: medium
 ---
 
@@ -49,6 +50,12 @@ The deeper result is not merely “cheap workers win.” Harness design reduced 
 
 See [[faleth/process/agent-swarm-coordination-context-economics-2026]] for the full coordination and context-engineering implications. The study is not independently reproduced, and `sqllogictest` parity does not establish production parity with SQLite.
 
+## Task-aware routing as a product layer (Cursor Router, 2026-07-22)
+
+Cursor announced a task-aware router that chooses a model based on the request rather than forcing users to select one model globally. Its launch video illustrates a hard-debug task being sent to Opus 4.8, shows **$1.38 per commit** for the router, and claims frontier-quality results at **60% lower cost**.
+
+The durable shift is from a static “best model” setting to a **routing policy**: estimate task difficulty and constraints, choose the cheapest model likely to clear the acceptance bar, then verify the result. The claimed percentage and quality parity remain vendor-reported because the post supplies no benchmark protocol. For Hermes, routing should be evaluated on accepted-result cost, wall time, retry rate, and failures—not a pretty blended average that quietly sends the ugly cases into a ditch. [[raw/x-bookmarks/2026-07-22/2079993729532989500]]
+
 ## Faleth / Hermes implications
 
 - **Process bedrock:** Orchestrator + many cheap-fast executors beats one premium model doing all typing.
@@ -70,4 +77,5 @@ See [[faleth/process/agent-swarm-coordination-context-economics-2026]] for the f
 - Grok 4.5 claim: [[research/raw/x-bookmarks/2026-07-13/2076302490027557073]]
 - Model weight classes: [[research/raw/x-bookmarks/2026-07-15/2077467740835926096]]
 - Open, provider-swappable harness signal: [[research/raw/x-bookmarks/2026-07-16/2077683048267845761]]
+- Cursor task-aware router: [[raw/x-bookmarks/2026-07-22/2079993729532989500]]
 - Related: [[research/faleth/process/agentic-loops-design-2026]]

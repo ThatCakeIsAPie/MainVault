@@ -448,3 +448,46 @@
 - Raw-only/skipped wiki: the T-shirt graphic lacked study provenance and numeric evidence; the Sparrow post was a visual joke rather than a durable research idea.
 - Updated: `log.md`; `index.md` intentionally unchanged because no wiki page was created.
 - Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+4 IDs).
+
+## [2026-07-24] update | What–Why–How 3×3 outcome architecture
+
+- Preserved Lyle's refinement as `raw/transcripts/lyle-three-by-three-what-why-how-refinement-2026-07-24.md` with SHA-256 provenance.
+- Created `queries/what-why-how-three-by-three-action-architecture.md`.
+- Confirmed hierarchy: the **What** is the ultimate outcome; Push–Pull–Process supplies the **Why**; Time–Talent–Treasure supplies the **How**.
+- Updated and cross-linked `faleth/mindset/three-ps-motivation-2026.md`, `faleth/process/three-treasures-resource-conversion-and-stewardship-2026.md`, and `index.md`.
+- Preserved the boundary that this models controllable action and resource conversion, not guaranteed command over chance, reality, markets, institutions, or other people's agency.
+- Follow-up refinement preserved as `raw/transcripts/lyle-what-first-sequencing-and-model-compression-2026-07-24.md`.
+- Added the logical sequence **Define What → discover Why → address How**: Why and How are incomplete questions without a defined outcome, and a clear Why often reveals or constrains the How.
+- Clarified that Time–Talent–Treasure conversions use context-dependent ratios; coefficients are intentionally omitted to preserve a simple, portable model rather than bloat it with false precision.
+- Pyramid refinement preserved as `raw/transcripts/lyle-what-why-how-pyramid-refinement-2026-07-24.md`.
+- Made the pyramid canonical: **What** at the apex; **Why** and **How** directly beneath; Push–Pull–Process under Why; Time–Talent–Treasure under How. The equation remains shorthand rather than the primary representation.
+- Troubleshooting refinement preserved as `raw/transcripts/lyle-what-why-how-pyramid-troubleshooting-2026-07-24.md`.
+- Added the fault-tree rule: **No direction → inspect What; no action → inspect Why; action without results → inspect How.**
+- Added Process failure as the likely cause when Push and Pull are known but execution is hated, plus resource asymmetry: Time as depleting flow, Talent as comparatively durable/compounding stock, and Treasure as liquid/volatile stock.
+- Cross-branch repair confirmation preserved as `raw/transcripts/lyle-what-why-how-cross-branch-repair-2026-07-24.md`.
+- Added the coupled-repair doctrine: the failed node locates the symptom, but another node may supply the remedy. How can redesign Why; Why can direct and sustain How; What arbitrates whether the repair serves the actual outcome.
+- Created canonical visual `assets/what-why-how-pyramid-in-motion-2026-07-24.png` with GPT Image 2 High (1024×1536; SHA-256 `6ee8543d6a9b1a8822794a1d87dacfd98a0de0ed8e071a4656326fc6f3a99efa`).
+- Preserved its exact generation prompt at `raw/prompts/what-why-how-pyramid-in-motion-gpt-image-2026-07-24.txt` and embedded the visual in the canonical query page.
+- Ingested Garry Tan X post `2080699367883980924`, Ruxandra Teslo's quoted intelligence-bottleneck argument, Ernie Tedeschi's full X thread, and the underlying Stripe Economics article into `raw/transcripts/lyle-x-share-2080699367883980924.md`.
+- Created `faleth/process/microproductivity-requires-workflow-redesign-2026.md` and linked it to the What–Why–How pyramid and factory-over-product thinking.
+- Durable read: AI can increase local Talent and release Time without moving the apex What; firms must redesign staffing, incentives, autonomy, review, integration, and downstream workflow. Diagnose locally, repair across branches, validate final output.
+- Lyle corrected the primary interpretation: Garry's “radically different staffing and workflow plans” points first to Faleth itself, especially the Contribution Framework's processes-not-roles, value-not-time compensation, shared upside, peer recalibration, and explicit AI adaptation mechanism. The pyramid mapping remains useful but secondary.
+
+## [2026-07-24] ingest | X bookmarks daily batch (4)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-24T053045Z.json`).
+- Fetched 50; already in ledger 46; new **4**; processed **4**; truncated remainder 0.
+- Raw created:
+  - `raw/x-bookmarks/2026-07-22/2080020101290459550.md` — Visual Capitalist/UBS millionaire-growth chart; key image text recovered with OCR.
+  - `raw/x-bookmarks/2026-07-23/2080158264323448978.md` — Codex + `img2threejs` game-asset workflow; video frames and quoted-post context recovered.
+  - `raw/x-bookmarks/2026-07-22/2079993729532989500.md` — Cursor Router launch and vendor-reported 60% cost-reduction claim.
+  - `raw/x-bookmarks/2026-07-22/2079939096231686463.md` — self-talk aphorism; image text recovered with OCR.
+- Wiki created:
+  - `faleth/process/image-to-3d-asset-compilation-agent-loops-2026.md` — visual references compiled into project-native procedural assets under renderer, performance, and test constraints.
+- Wiki updated:
+  - `faleth/process/frontier-model-cost-speed-tradeoff-2026.md` — task-aware routing policy, accepted-result metrics, and Cursor vendor-claim caveat.
+  - `index.md` — new image-to-3D page listed; updated date bumped.
+  - `log.md` — this ingest record.
+- Raw-only/skipped wiki: millionaire chart lacked the direct UBS report during this run; self-talk image overlapped existing identity/mental-diet material and its near-totalizing causal claim was unsupported.
+- Retrieval note: X media and quoted-post context were recovered through the official API; local OCR/frame extraction was used because the bookmark text alone omitted the substance. External web search was unavailable because the configured provider had exhausted credits.
+- Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+4 IDs).

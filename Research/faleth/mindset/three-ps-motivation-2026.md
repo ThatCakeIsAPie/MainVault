@@ -19,6 +19,8 @@ tags:
 
 The Three Ps are not merely a productivity or emotional-motivation technique. **Motivation is the fuel that powers action; Push, Pull, and Process identify the three sources from which that fuel arises.**
 
+The model now forms the **Why** layer of Lyle's broader [[research/queries/what-why-how-three-by-three-action-architecture|What–Why–How 3×3 architecture]]. The ultimate **What** is the desired outcome; this motivational triad supplies the **Why**, while Time–Talent–Treasure supplies the **How**.
+
 Any deliberate human movement can contain all three in different proportions:
 
 **Push** — Movement away from an unwanted present state: pain, fear, risk, frustration, loss, constraint, or threatened agency. Push can create intense urgency, but often consumes itself once the threat recedes.
@@ -51,6 +53,10 @@ The time model is therefore:
 
 **Past pressure pushes → future hope pulls → present process sustains.**
 
+## Troubleshooting inaction
+
+When the What is known but action repeatedly fails to begin or persist, inspect the Why before prescribing more discipline. Push and Pull may both be intellectually clear while the selected Process is hated enough to make execution unsustainable. The remedy may be to redesign the Process, develop the capability that makes it less painful, or consciously accept an unavoidable cost—not to keep treating every failure as insufficient desire.
+
 ## Application to Lyle
 
 Lyle's current **Push** comes from the loss of paycheck security and the urgency of making contract cash land without returning to agency-poor dependence. His **Pull** remains Faleth's long-term mission: building agency-respecting companies that equip people to pursue their dreams. His **Process** is the daily operating bedrock—VXE execution, disciplined fulfillment, automation, modular systems, and continuous workflow compression.
@@ -69,6 +75,8 @@ This connects the motivation model to [[research/faleth/process/law-of-convenien
 
 ## Related
 
+- [[research/queries/what-why-how-three-by-three-action-architecture]]
+- [[research/faleth/process/three-treasures-resource-conversion-and-stewardship-2026]]
 - [[faleth/mindset/transition-agency-2026]]
 - [[faleth/biography-operating-system]]
 - [[faleth/bridge-strategy/game-finish-bridge-2026]]

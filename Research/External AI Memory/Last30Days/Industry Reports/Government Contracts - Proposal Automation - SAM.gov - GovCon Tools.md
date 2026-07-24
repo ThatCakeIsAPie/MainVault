@@ -160,3 +160,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-23
 - Nine days after the mid-year ISR deadline, directly inspected SAM.gov still instructs issue-blocked filers to submit an FSD ticket and notify the agency/higher-tier customer. It still lists missing FFATA first-tier integration, the **$550,000** eligibility revision, and lower-tier ISR enablement as active updates. No verified proposal-tool or primary-rule change surfaced ([official SAM.gov](https://sam.gov/esrs)). Signal: **strong** for official instructions, **weak** for daily novelty.
+
+### 2026-07-24
+- Ten days after the ISR deadline, SAM.gov now displays newly observed completed SPR enhancements: ISR eligibility exclusively includes FFATA-reported first-tier subcontracts above **$550,000**; previously missing qualifying first-tier records were incorporated; and active Part 8 BPA Calls must be reported, with submitted ISRs correctable where calls were omitted. Reconcile affected reports and preserve correction receipt, disposition, owner, and evidence path ([official SAM.gov](https://sam.gov/esrs)). Signal: **strong** for official content, **medium** for strict-window novelty because no publication timestamp is visible.

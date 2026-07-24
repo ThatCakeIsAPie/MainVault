@@ -166,3 +166,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-23
 - Official API **~11:01 UTC**: **342 models**, exact full-ID diff **0 additions / 0 removals**. Core stack remains stable: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free` ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**; continue accepted-result benchmarks before rerouting.
+
+### 2026-07-24
+- Official API **~11:01 UTC**: **343 models**, exact full-ID diff **+1 / -0**. Added `inclusionai/ling-3.0-flash:free`; core-stack pricing remains unchanged. Treat Ling as opportunistic bounded capacity and benchmark structured output, tool use, latency, availability, and accepted-result cost against Gemini 3.5 Flash-Lite and Laguna XS while retaining a paid fallback ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
