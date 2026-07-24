@@ -466,6 +466,8 @@
 - Added Process failure as the likely cause when Push and Pull are known but execution is hated, plus resource asymmetry: Time as depleting flow, Talent as comparatively durable/compounding stock, and Treasure as liquid/volatile stock.
 - Cross-branch repair confirmation preserved as `raw/transcripts/lyle-what-why-how-cross-branch-repair-2026-07-24.md`.
 - Added the coupled-repair doctrine: the failed node locates the symptom, but another node may supply the remedy. How can redesign Why; Why can direct and sustain How; What arbitrates whether the repair serves the actual outcome.
+- Created canonical visual `assets/what-why-how-pyramid-in-motion-2026-07-24.png` with GPT Image 2 High (1024×1536; SHA-256 `6ee8543d6a9b1a8822794a1d87dacfd98a0de0ed8e071a4656326fc6f3a99efa`).
+- Preserved its exact generation prompt at `raw/prompts/what-why-how-pyramid-in-motion-gpt-image-2026-07-24.txt` and embedded the visual in the canonical query page.
 
 ## [2026-07-24] ingest | X bookmarks daily batch (4)
 

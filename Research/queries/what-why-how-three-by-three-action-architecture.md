@@ -10,6 +10,10 @@ tags: [what-why-how, three-ps, time-talent-treasure, action, agency, resource-co
 
 # The What–Why–How Pyramid
 
+![[assets/what-why-how-pyramid-in-motion-2026-07-24.png]]
+
+**Canonical visual:** The pyramid operating top-down for planning, bottom-up for support, and laterally for cross-branch repair. Generated with GPT Image 2 High on 2026-07-24; prompt preserved at `raw/prompts/what-why-how-pyramid-in-motion-gpt-image-2026-07-24.txt`.
+
 ## Core synthesis
 
 A desired outcome sits at the apex of a hierarchy supported by motive and means:
