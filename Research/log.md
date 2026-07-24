@@ -468,6 +468,9 @@
 - Added the coupled-repair doctrine: the failed node locates the symptom, but another node may supply the remedy. How can redesign Why; Why can direct and sustain How; What arbitrates whether the repair serves the actual outcome.
 - Created canonical visual `assets/what-why-how-pyramid-in-motion-2026-07-24.png` with GPT Image 2 High (1024×1536; SHA-256 `6ee8543d6a9b1a8822794a1d87dacfd98a0de0ed8e071a4656326fc6f3a99efa`).
 - Preserved its exact generation prompt at `raw/prompts/what-why-how-pyramid-in-motion-gpt-image-2026-07-24.txt` and embedded the visual in the canonical query page.
+- Ingested Garry Tan X post `2080699367883980924`, Ruxandra Teslo's quoted intelligence-bottleneck argument, Ernie Tedeschi's full X thread, and the underlying Stripe Economics article into `raw/transcripts/lyle-x-share-2080699367883980924.md`.
+- Created `faleth/process/microproductivity-requires-workflow-redesign-2026.md` and linked it to the What–Why–How pyramid and factory-over-product thinking.
+- Durable read: AI can increase local Talent and release Time without moving the apex What; firms must redesign staffing, incentives, autonomy, review, integration, and downstream workflow. Diagnose locally, repair across branches, validate final output.
 
 ## [2026-07-24] ingest | X bookmarks daily batch (4)
 

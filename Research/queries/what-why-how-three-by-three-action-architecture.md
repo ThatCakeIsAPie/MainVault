@@ -124,6 +124,20 @@ The branch containing the failure does not necessarily contain the remedy. The p
 
 Cross-repair is not an excuse to optimize every node. The What determines whether a Process should be redesigned, endured, delegated, or abandoned; whether a Talent deserves years of development; and whether recovering Time is worth spending Treasure. The apex prevents local improvement from becoming irrelevant optimization.
 
+### External validation: AI microproductivity versus macroproductivity
+
+Garry Tan’s July 24, 2026 observation and the underlying [[research/raw/transcripts/lyle-x-share-2080699367883980924|Stripe Economics analysis]] provide a concrete organizational example. AI can increase Talent and reduce Time on bounded tasks while final organizational output remains constrained by staffing, review, integration, incentives, autonomy, and downstream workflow.
+
+The pyramid diagnoses the mismatch cleanly:
+
+- the **What** is shipped or aggregate output, not task volume;
+- AI improves one portion of **How** by supplying Talent and releasing Time;
+- unchanged workflow prevents those resources from converting into the What;
+- autonomy and incentives on the **Why** side determine whether saved Time is productively redeployed;
+- the repair therefore crosses branches and must be validated at the apex.
+
+See [[research/faleth/process/microproductivity-requires-workflow-redesign-2026]].
+
 ## The action loop
 
 1. **Choose the What.** Define the actual outcome rather than a vague desire.
