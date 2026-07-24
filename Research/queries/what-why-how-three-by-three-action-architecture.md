@@ -3,7 +3,7 @@ type: query
 status: active
 created: 2026-07-24
 origin: Lyle Cole
-sources: ["[[research/raw/transcripts/lyle-three-by-three-what-why-how-refinement-2026-07-24]]", "[[research/raw/transcripts/lyle-x-share-2080003549564432425]]", "[[research/raw/transcripts/lyle-x-share-2080002464959316047]]"]
+sources: ["[[research/raw/transcripts/lyle-three-by-three-what-why-how-refinement-2026-07-24]]", "[[research/raw/transcripts/lyle-what-first-sequencing-and-model-compression-2026-07-24]]", "[[research/raw/transcripts/lyle-x-share-2080003549564432425]]", "[[research/raw/transcripts/lyle-x-share-2080002464959316047]]"]
 related: ["[[research/faleth/mindset/three-ps-motivation-2026]]", "[[research/faleth/process/three-treasures-resource-conversion-and-stewardship-2026]]"]
 tags: [what-why-how, three-ps, time-talent-treasure, action, agency, resource-conversion]
 ---
@@ -29,6 +29,19 @@ The architecture contains two linked triads:
 
 The **What** is not a third triad. It is the selected destination against which both triads are organized.
 
+## What must come first
+
+The order is logically necessary:
+
+**Define What → discover Why → address How**
+
+Without a defined What, the remaining questions are incomplete:
+
+- “Why do I want…” **what?**
+- “How do I get…” **what?**
+
+Once the outcome is defined, its underlying Push, Pull, and Process can be examined. A sufficiently clear Why often reveals the How—or at least turns it from an undefined search into an addressable resource problem. The What sets the target, the Why makes the target matter, and the How becomes the path that must be discovered or constructed.
+
 ## Why: Push, Pull, Process
 
 - **Push:** What am I dead set on preventing, escaping, or never experiencing again?
@@ -43,7 +56,11 @@ Push supplies urgency. Pull supplies direction. Process supplies endurance.
 - **Time + Treasure → Talent:** invest practice, instruction, tools, and access into capability.
 - **Talent + Treasure → recovered Time:** use judgment, delegation, automation, and investments to reduce dependence on one's direct hours.
 
-The conversion rates are not equal or guaranteed. Time can be wasted, talent can be mispriced, and treasure can be misallocated. Judgment, trust, market demand, health, relationships, circumstance, and other people's agency affect every conversion.
+Each conversion normally uses a **ratio** of the other two resources rather than equal or pure inputs. “Time + Talent → Treasure” names the relationship; it does not claim a 1:1 mixture. Making every coefficient explicit would bury the portable principle beneath situational detail.
+
+The conversion rates are neither equal nor guaranteed. Time can be wasted, talent can be mispriced, and treasure can be misallocated. Judgment, trust, market demand, health, relationships, circumstance, and other people's agency affect every conversion.
+
+The model therefore uses **deliberate compression**: preserve the smallest formula that supports correct reasoning, then determine the actual ratios in the specific situation.
 
 ## The action loop
 

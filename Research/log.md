@@ -456,3 +456,6 @@
 - Confirmed hierarchy: the **What** is the ultimate outcome; Push–Pull–Process supplies the **Why**; Time–Talent–Treasure supplies the **How**.
 - Updated and cross-linked `faleth/mindset/three-ps-motivation-2026.md`, `faleth/process/three-treasures-resource-conversion-and-stewardship-2026.md`, and `index.md`.
 - Preserved the boundary that this models controllable action and resource conversion, not guaranteed command over chance, reality, markets, institutions, or other people's agency.
+- Follow-up refinement preserved as `raw/transcripts/lyle-what-first-sequencing-and-model-compression-2026-07-24.md`.
+- Added the logical sequence **Define What → discover Why → address How**: Why and How are incomplete questions without a defined outcome, and a clear Why often reveals or constrains the How.
+- Clarified that Time–Talent–Treasure conversions use context-dependent ratios; coefficients are intentionally omitted to preserve a simple, portable model rather than bloat it with false precision.

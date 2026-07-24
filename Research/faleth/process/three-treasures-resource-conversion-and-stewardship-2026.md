@@ -51,6 +51,8 @@ Recovered time can then be reinvested into higher-value Talent, additional Treas
 
 The resources are exchangeable, but not at fixed or unlimited rates.
 
+Each real conversion normally combines the other two resources in a context-dependent **ratio**. The triangle deliberately omits coefficients: its purpose is to reveal which resources can be converted into the scarce one, not to pretend every conversion uses equal inputs or to bloat a portable model with situational arithmetic.
+
 - Lost time cannot literally be replenished; it can only be preserved, reallocated, or freed in the future.
 - Money can purchase access to talent, but not ownership, conscience, loyalty, or guaranteed effort.
 - Time invested without effective practice may not produce talent.
