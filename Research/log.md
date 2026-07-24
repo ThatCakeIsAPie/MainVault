@@ -461,3 +461,6 @@
 - Clarified that Time–Talent–Treasure conversions use context-dependent ratios; coefficients are intentionally omitted to preserve a simple, portable model rather than bloat it with false precision.
 - Pyramid refinement preserved as `raw/transcripts/lyle-what-why-how-pyramid-refinement-2026-07-24.md`.
 - Made the pyramid canonical: **What** at the apex; **Why** and **How** directly beneath; Push–Pull–Process under Why; Time–Talent–Treasure under How. The equation remains shorthand rather than the primary representation.
+- Troubleshooting refinement preserved as `raw/transcripts/lyle-what-why-how-pyramid-troubleshooting-2026-07-24.md`.
+- Added the fault-tree rule: **No direction → inspect What; no action → inspect Why; action without results → inspect How.**
+- Added Process failure as the likely cause when Push and Pull are known but execution is hated, plus resource asymmetry: Time as depleting flow, Talent as comparatively durable/compounding stock, and Treasure as liquid/volatile stock.

@@ -3,7 +3,7 @@ type: query
 status: active
 created: 2026-07-24
 origin: Lyle Cole
-sources: ["[[research/raw/transcripts/lyle-three-by-three-what-why-how-refinement-2026-07-24]]", "[[research/raw/transcripts/lyle-what-first-sequencing-and-model-compression-2026-07-24]]", "[[research/raw/transcripts/lyle-what-why-how-pyramid-refinement-2026-07-24]]", "[[research/raw/transcripts/lyle-x-share-2080003549564432425]]", "[[research/raw/transcripts/lyle-x-share-2080002464959316047]]"]
+sources: ["[[research/raw/transcripts/lyle-three-by-three-what-why-how-refinement-2026-07-24]]", "[[research/raw/transcripts/lyle-what-first-sequencing-and-model-compression-2026-07-24]]", "[[research/raw/transcripts/lyle-what-why-how-pyramid-refinement-2026-07-24]]", "[[research/raw/transcripts/lyle-what-why-how-pyramid-troubleshooting-2026-07-24]]", "[[research/raw/transcripts/lyle-x-share-2080003549564432425]]", "[[research/raw/transcripts/lyle-x-share-2080002464959316047]]"]
 related: ["[[research/faleth/mindset/three-ps-motivation-2026]]", "[[research/faleth/process/three-treasures-resource-conversion-and-stewardship-2026]]"]
 tags: [what-why-how, three-ps, time-talent-treasure, action, agency, resource-conversion]
 ---
@@ -69,6 +69,32 @@ Each conversion normally uses a **ratio** of the other two resources rather than
 The conversion rates are neither equal nor guaranteed. Time can be wasted, talent can be mispriced, and treasure can be misallocated. Judgment, trust, market demand, health, relationships, circumstance, and other people's agency affect every conversion.
 
 The model therefore uses **deliberate compression**: preserve the smallest formula that supports correct reasoning, then determine the actual ratios in the specific situation.
+
+## The pyramid as a troubleshooting fault tree
+
+The pyramid does not merely explain action; it locates failure. Begin with the observed symptom and inspect the branch that structurally supports it.
+
+| Symptom | Inspect first | Typical fault |
+|---|---|---|
+| Direction is unclear or activity keeps changing | **What** | The outcome is vague, contradictory, borrowed, or not actually chosen. |
+| The outcome is known, but action will not start or persist | **Why** | Push lacks urgency, Pull lacks attraction, or Process is intolerable. |
+| Push and Pull are clear, but daily execution is repeatedly avoided | **Process** | The chosen path is hated, identity-incongruent, or unsustainable; redesign the process or consciously accept its cost. |
+| A great deal of activity produces little movement | **How** | Time, Talent, or Treasure is insufficient, misallocated, or converting inefficiently. |
+| More hours do not improve the result | **Talent** | Capability, judgment, technique, or problem selection is the constraint—not effort volume. |
+| Capable execution cannot scale or reach the opportunity | **Treasure / Time** | Capital, tools, access, delegation capacity, or protected attention is constrained. |
+| Why and How appear sound but the outcome still does not move | **Assumptions beneath the What** | The path may conflict with reality, timing, market demand, institutions, or another person's agency. Revise the model rather than merely increasing force. |
+
+The diagnostic rule is:
+
+> **No direction: inspect What. No action: inspect Why. Action without results: inspect How.**
+
+### The asymmetric nature of the Three Treasures
+
+- **Time is a depleting flow.** It cannot be replenished or stored for later; only future Time can be protected, reallocated, or recovered. This makes it the most intrinsically scarce resource.
+- **Talent is a comparatively durable, compounding stock.** Learned capability and judgment often survive a specific project and improve future conversion rates. Talent can still atrophy, become obsolete, or become unusable under changed health or circumstances, so “never goes down” is directional rather than literal.
+- **Treasure is a liquid and volatile stock.** It is easy to measure, transfer, acquire, allocate, and lose. Its visibility causes people to overdiagnose money problems while underdiagnosing capability problems.
+
+Talent is therefore often the hidden constraint. More Time applied through weak Talent creates activity rather than effective effort. More Treasure placed through weak judgment purchases expensive activity. Increasing Talent improves how both Time and Treasure convert into outcomes.
 
 ## The action loop
 

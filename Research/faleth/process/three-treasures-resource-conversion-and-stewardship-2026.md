@@ -61,6 +61,18 @@ Each real conversion normally combines the other two resources in a context-depe
 
 The model is therefore not mechanical fungibility. It is **stewarded conversion under real constraints**.
 
+## Resource asymmetry and troubleshooting
+
+The Three Treasures do not behave alike:
+
+- **Time is a depleting flow:** nonrenewable, non-storable, and therefore intrinsically scarce.
+- **Talent is a durable and often compounding stock:** capability and judgment usually persist across projects and improve future conversion efficiency, although they can atrophy or become obsolete.
+- **Treasure is a liquid and volatile stock:** highly visible, measurable, transferable, acquirable, and losable.
+
+When someone is doing a great deal but producing little, the problem is often not insufficient Time or effort. It is missing Talent: capability, judgment, technique, coordination, or selection of a valuable problem. Time without sufficient Talent becomes low-yield activity; Treasure allocated without sufficient Talent becomes expensive activity.
+
+This makes the What–Why–How pyramid a fault tree: inaction points toward Why, while sustained activity without results points toward How and often toward constrained Talent.
+
 ## Constraint migration
 
 The dominant bottleneck changes as resources accumulate.

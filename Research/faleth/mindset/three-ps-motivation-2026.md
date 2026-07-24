@@ -53,6 +53,10 @@ The time model is therefore:
 
 **Past pressure pushes → future hope pulls → present process sustains.**
 
+## Troubleshooting inaction
+
+When the What is known but action repeatedly fails to begin or persist, inspect the Why before prescribing more discipline. Push and Pull may both be intellectually clear while the selected Process is hated enough to make execution unsustainable. The remedy may be to redesign the Process, develop the capability that makes it less painful, or consciously accept an unavoidable cost—not to keep treating every failure as insufficient desire.
+
 ## Application to Lyle
 
 Lyle's current **Push** comes from the loss of paycheck security and the urgency of making contract cash land without returning to agency-poor dependence. His **Pull** remains Faleth's long-term mission: building agency-respecting companies that equip people to pursue their dreams. His **Process** is the daily operating bedrock—VXE execution, disciplined fulfillment, automation, modular systems, and continuous workflow compression.
