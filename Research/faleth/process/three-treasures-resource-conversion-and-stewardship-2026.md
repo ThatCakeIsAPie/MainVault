@@ -14,6 +14,8 @@ tags: [faleth, time, talent, treasure, stewardship, resource-conversion, capital
 
 Time, Talent, and Treasure are the three fundamental resources an operator can steward. Each can be exchanged, in the right context, to acquire or amplify the other two.
 
+This model now forms the **How** layer of Lyle's broader [[research/queries/what-why-how-three-by-three-action-architecture|What–Why–How 3×3 architecture]]. The **What** is the ultimate outcome, the Three Ps supply the **Why**, and these Three Treasures supply the means by which the outcome is pursued.
+
 The strategic game is:
 
 1. identify which resource is currently scarce;

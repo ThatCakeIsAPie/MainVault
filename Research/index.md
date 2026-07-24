@@ -109,6 +109,7 @@
 
 ## Queries
 
+- [[what-why-how-three-by-three-action-architecture]] — Integrates Push–Pull–Process as Why and Time–Talent–Treasure as How beneath a chosen ultimate What.
 - [[faleth-capital-operating-philosophy]] — Durable synthesis of Faleth's contribution, ownership, governance, trust, and discipleship logic.
 - [[heart-upstream-of-identity-theological-horticulture]] — Theological horticulture metaphor: heart/root upstream of identity and behavior/fruit.
 - [[how-ltd-amway-functions-as-leadership-incubator]] — Explains how LTD Amway develops leadership through mentorship, duplication, environment, and sweat equity.

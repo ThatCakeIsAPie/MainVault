@@ -448,3 +448,11 @@
 - Raw-only/skipped wiki: the T-shirt graphic lacked study provenance and numeric evidence; the Sparrow post was a visual joke rather than a durable research idea.
 - Updated: `log.md`; `index.md` intentionally unchanged because no wiki page was created.
 - Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+4 IDs).
+
+## [2026-07-24] update | What–Why–How 3×3 outcome architecture
+
+- Preserved Lyle's refinement as `raw/transcripts/lyle-three-by-three-what-why-how-refinement-2026-07-24.md` with SHA-256 provenance.
+- Created `queries/what-why-how-three-by-three-action-architecture.md`.
+- Confirmed hierarchy: the **What** is the ultimate outcome; Push–Pull–Process supplies the **Why**; Time–Talent–Treasure supplies the **How**.
+- Updated and cross-linked `faleth/mindset/three-ps-motivation-2026.md`, `faleth/process/three-treasures-resource-conversion-and-stewardship-2026.md`, and `index.md`.
+- Preserved the boundary that this models controllable action and resource conversion, not guaranteed command over chance, reality, markets, institutions, or other people's agency.
