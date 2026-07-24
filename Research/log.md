@@ -459,3 +459,5 @@
 - Follow-up refinement preserved as `raw/transcripts/lyle-what-first-sequencing-and-model-compression-2026-07-24.md`.
 - Added the logical sequence **Define What → discover Why → address How**: Why and How are incomplete questions without a defined outcome, and a clear Why often reveals or constrains the How.
 - Clarified that Time–Talent–Treasure conversions use context-dependent ratios; coefficients are intentionally omitted to preserve a simple, portable model rather than bloat it with false precision.
+- Pyramid refinement preserved as `raw/transcripts/lyle-what-why-how-pyramid-refinement-2026-07-24.md`.
+- Made the pyramid canonical: **What** at the apex; **Why** and **How** directly beneath; Push–Pull–Process under Why; Time–Talent–Treasure under How. The equation remains shorthand rather than the primary representation.

@@ -3,31 +3,39 @@ type: query
 status: active
 created: 2026-07-24
 origin: Lyle Cole
-sources: ["[[research/raw/transcripts/lyle-three-by-three-what-why-how-refinement-2026-07-24]]", "[[research/raw/transcripts/lyle-what-first-sequencing-and-model-compression-2026-07-24]]", "[[research/raw/transcripts/lyle-x-share-2080003549564432425]]", "[[research/raw/transcripts/lyle-x-share-2080002464959316047]]"]
+sources: ["[[research/raw/transcripts/lyle-three-by-three-what-why-how-refinement-2026-07-24]]", "[[research/raw/transcripts/lyle-what-first-sequencing-and-model-compression-2026-07-24]]", "[[research/raw/transcripts/lyle-what-why-how-pyramid-refinement-2026-07-24]]", "[[research/raw/transcripts/lyle-x-share-2080003549564432425]]", "[[research/raw/transcripts/lyle-x-share-2080002464959316047]]"]
 related: ["[[research/faleth/mindset/three-ps-motivation-2026]]", "[[research/faleth/process/three-treasures-resource-conversion-and-stewardship-2026]]"]
 tags: [what-why-how, three-ps, time-talent-treasure, action, agency, resource-conversion]
 ---
 
-# What–Why–How: A 3×3 Architecture for Directed Action
+# The What–Why–How Pyramid
 
 ## Core synthesis
 
-A desired outcome is produced by joining a sufficiently strong reason to act with a workable means of acting:
+A desired outcome sits at the apex of a hierarchy supported by motive and means:
 
-**What = Why × How**
+```text
+                 WHAT
+          ┌────────┴────────┐
+         WHY               HOW
+   ┌──────┼──────┐    ┌─────┼─────┐
+  Push   Pull  Process  Time Talent Treasure
+```
 
-- **What** names the chosen result: the state to create, preserve, become, or obtain.
-- **Why** explains the motivational energy that makes sustained action possible.
-- **How** identifies the resources available for constructing and executing a path.
+- **What** names the chosen ultimate outcome: the state to create, preserve, become, or obtain.
+- **Why** supports the What by explaining the motivational energy that makes sustained action possible.
+- **How** supports the What by identifying the resources available for constructing and executing a path.
+- **Push, Pull, and Process** decompose the Why.
+- **Time, Talent, and Treasure** decompose the How.
 
-The architecture contains two linked triads:
+The architecture therefore contains one apex, two direct supports, and two supporting triads:
 
 | Layer | Triad | Governing question |
 |---|---|---|
 | Why | Push · Pull · Process | Why will I start, aim, and persist? |
 | How | Time · Talent · Treasure | What can I invest or convert to make the result possible? |
 
-The **What** is not a third triad. It is the selected destination against which both triads are organized.
+The **What** is not a third triad. It is the apex against which both branches are organized. The pyramid is the canonical representation; **What = Why × How** remains useful only as compressed shorthand for the production relationship.
 
 ## What must come first
 
