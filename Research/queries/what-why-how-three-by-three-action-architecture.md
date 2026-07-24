@@ -3,7 +3,7 @@ type: query
 status: active
 created: 2026-07-24
 origin: Lyle Cole
-sources: ["[[research/raw/transcripts/lyle-three-by-three-what-why-how-refinement-2026-07-24]]", "[[research/raw/transcripts/lyle-what-first-sequencing-and-model-compression-2026-07-24]]", "[[research/raw/transcripts/lyle-what-why-how-pyramid-refinement-2026-07-24]]", "[[research/raw/transcripts/lyle-what-why-how-pyramid-troubleshooting-2026-07-24]]", "[[research/raw/transcripts/lyle-x-share-2080003549564432425]]", "[[research/raw/transcripts/lyle-x-share-2080002464959316047]]"]
+sources: ["[[research/raw/transcripts/lyle-three-by-three-what-why-how-refinement-2026-07-24]]", "[[research/raw/transcripts/lyle-what-first-sequencing-and-model-compression-2026-07-24]]", "[[research/raw/transcripts/lyle-what-why-how-pyramid-refinement-2026-07-24]]", "[[research/raw/transcripts/lyle-what-why-how-pyramid-troubleshooting-2026-07-24]]", "[[research/raw/transcripts/lyle-what-why-how-cross-branch-repair-2026-07-24]]", "[[research/raw/transcripts/lyle-x-share-2080003549564432425]]", "[[research/raw/transcripts/lyle-x-share-2080002464959316047]]"]
 related: ["[[research/faleth/mindset/three-ps-motivation-2026]]", "[[research/faleth/process/three-treasures-resource-conversion-and-stewardship-2026]]"]
 tags: [what-why-how, three-ps, time-talent-treasure, action, agency, resource-conversion]
 ---
@@ -95,6 +95,30 @@ The diagnostic rule is:
 - **Treasure is a liquid and volatile stock.** It is easy to measure, transfer, acquire, allocate, and lose. Its visibility causes people to overdiagnose money problems while underdiagnosing capability problems.
 
 Talent is therefore often the hidden constraint. More Time applied through weak Talent creates activity rather than effective effort. More Treasure placed through weak judgment purchases expensive activity. Increasing Talent improves how both Time and Treasure convert into outcomes.
+
+## Cross-branch repair
+
+The branch containing the failure does not necessarily contain the remedy. The pyramid's categories are diagnostically distinct but operationally coupled:
+
+> **The failed node locates the symptom; another node may supply the repair.**
+
+### How can repair Why
+
+- An intolerable **Process** may become satisfying as greater **Talent** produces competence, fluency, and visible progress.
+- **Treasure** can purchase tools, coaching, access, automation, or delegation that removes the most hated portion of a Process.
+- **Time** can be protected, rescheduled, shortened, or placed into a better environment so the same Process stops competing with exhaustion and fragmentation.
+- Talent can reveal a previously invisible path from **Pull** to What, strengthening belief that the desired future is attainable.
+
+### Why can repair How
+
+- **Push** creates enough urgency to stop wasting Time or Treasure.
+- **Pull** directs which Talent is worth developing and which opportunities deserve resources.
+- A rewarding **Process** sustains the repetitions through which Time becomes Talent.
+- A strong Why can justify temporarily exchanging more Time or Treasure for the Talent required to escape low-yield activity.
+
+### What arbitrates the repair
+
+Cross-repair is not an excuse to optimize every node. The What determines whether a Process should be redesigned, endured, delegated, or abandoned; whether a Talent deserves years of development; and whether recovering Time is worth spending Treasure. The apex prevents local improvement from becoming irrelevant optimization.
 
 ## The action loop
 

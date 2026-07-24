@@ -464,6 +464,8 @@
 - Troubleshooting refinement preserved as `raw/transcripts/lyle-what-why-how-pyramid-troubleshooting-2026-07-24.md`.
 - Added the fault-tree rule: **No direction → inspect What; no action → inspect Why; action without results → inspect How.**
 - Added Process failure as the likely cause when Push and Pull are known but execution is hated, plus resource asymmetry: Time as depleting flow, Talent as comparatively durable/compounding stock, and Treasure as liquid/volatile stock.
+- Cross-branch repair confirmation preserved as `raw/transcripts/lyle-what-why-how-cross-branch-repair-2026-07-24.md`.
+- Added the coupled-repair doctrine: the failed node locates the symptom, but another node may supply the remedy. How can redesign Why; Why can direct and sustain How; What arbitrates whether the repair serves the actual outcome.
 
 ## [2026-07-24] ingest | X bookmarks daily batch (4)
 
