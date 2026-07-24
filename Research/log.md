@@ -464,3 +464,22 @@
 - Troubleshooting refinement preserved as `raw/transcripts/lyle-what-why-how-pyramid-troubleshooting-2026-07-24.md`.
 - Added the fault-tree rule: **No direction → inspect What; no action → inspect Why; action without results → inspect How.**
 - Added Process failure as the likely cause when Push and Pull are known but execution is hated, plus resource asymmetry: Time as depleting flow, Talent as comparatively durable/compounding stock, and Treasure as liquid/volatile stock.
+
+## [2026-07-24] ingest | X bookmarks daily batch (4)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-24T053045Z.json`).
+- Fetched 50; already in ledger 46; new **4**; processed **4**; truncated remainder 0.
+- Raw created:
+  - `raw/x-bookmarks/2026-07-22/2080020101290459550.md` — Visual Capitalist/UBS millionaire-growth chart; key image text recovered with OCR.
+  - `raw/x-bookmarks/2026-07-23/2080158264323448978.md` — Codex + `img2threejs` game-asset workflow; video frames and quoted-post context recovered.
+  - `raw/x-bookmarks/2026-07-22/2079993729532989500.md` — Cursor Router launch and vendor-reported 60% cost-reduction claim.
+  - `raw/x-bookmarks/2026-07-22/2079939096231686463.md` — self-talk aphorism; image text recovered with OCR.
+- Wiki created:
+  - `faleth/process/image-to-3d-asset-compilation-agent-loops-2026.md` — visual references compiled into project-native procedural assets under renderer, performance, and test constraints.
+- Wiki updated:
+  - `faleth/process/frontier-model-cost-speed-tradeoff-2026.md` — task-aware routing policy, accepted-result metrics, and Cursor vendor-claim caveat.
+  - `index.md` — new image-to-3D page listed; updated date bumped.
+  - `log.md` — this ingest record.
+- Raw-only/skipped wiki: millionaire chart lacked the direct UBS report during this run; self-talk image overlapped existing identity/mental-diet material and its near-totalizing causal claim was unsupported.
+- Retrieval note: X media and quoted-post context were recovered through the official API; local OCR/frame extraction was used because the bookmark text alone omitted the substance. External web search was unavailable because the configured provider had exhausted credits.
+- Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+4 IDs).
