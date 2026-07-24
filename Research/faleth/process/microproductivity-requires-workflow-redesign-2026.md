@@ -57,7 +57,24 @@ This extends [[concepts/offshoots/factory-over-product-thinking]]:
 
 Technology diffusion therefore takes longer than model improvement because organizations must replace complementary habits, structures, contracts, skills, and governance—not merely purchase the tool.
 
-## Faleth and VXE implications
+## Faleth is a proposed organizational answer
+
+Garry Tan's call for radically different staffing and workflow plans maps directly onto Faleth's existing architecture. [[The Contribution Framework]] does not preserve fixed jobs and insert AI into them. It decomposes the business into processes, allows contributors to flow toward needed work, pays for completed value rather than elapsed time, and recalibrates processes collectively as technology makes them faster or obsolete.
+
+Its AI mechanism is unusually direct:
+
+- a contributor who uses AI to complete a process faster earns the same process value faster;
+- a fully automated process is removed or reclassified;
+- remaining work and point values are recalibrated by the people doing the work;
+- automation, cross-team assistance, training, and bottleneck removal can themselves be recognized as contribution;
+- profit share and equity preserve alignment between local efficiency and whole-enterprise performance;
+- flexible process participation replaces the assumption that staffing must remain attached to static job descriptions.
+
+The critical question is therefore not only whether existing firms can redesign themselves. Faleth asks whether an organization can be built from the outset so that ongoing redesign is normal governance rather than a once-a-decade reorganization imposed from above.
+
+This does not make displacement mathematically impossible. If demand and the labor pool do not grow, eliminated work can still mean insufficient contribution opportunities for the existing participant count. Faleth's stronger and more defensible claim is that it removes the wage model's incentive to resist efficiency and gives contributors transparent governance, shared upside, mobility across processes, and ownership while the work changes.
+
+## VXE implications
 
 For VXE, GovCon, and future Faleth companies:
 

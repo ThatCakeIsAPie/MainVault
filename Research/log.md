@@ -471,6 +471,7 @@
 - Ingested Garry Tan X post `2080699367883980924`, Ruxandra Teslo's quoted intelligence-bottleneck argument, Ernie Tedeschi's full X thread, and the underlying Stripe Economics article into `raw/transcripts/lyle-x-share-2080699367883980924.md`.
 - Created `faleth/process/microproductivity-requires-workflow-redesign-2026.md` and linked it to the What–Why–How pyramid and factory-over-product thinking.
 - Durable read: AI can increase local Talent and release Time without moving the apex What; firms must redesign staffing, incentives, autonomy, review, integration, and downstream workflow. Diagnose locally, repair across branches, validate final output.
+- Lyle corrected the primary interpretation: Garry's “radically different staffing and workflow plans” points first to Faleth itself, especially the Contribution Framework's processes-not-roles, value-not-time compensation, shared upside, peer recalibration, and explicit AI adaptation mechanism. The pyramid mapping remains useful but secondary.
 
 ## [2026-07-24] ingest | X bookmarks daily batch (4)
 
