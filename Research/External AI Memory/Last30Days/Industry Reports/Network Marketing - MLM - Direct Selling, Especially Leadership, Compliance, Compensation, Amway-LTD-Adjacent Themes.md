@@ -153,3 +153,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-23
 - No substantive Amway/LTD compensation, IDS, enforcement, or official compliance change surfaced. The only targeted result was QNET-sponsored-style legitimacy framing, which is marketing evidence rather than independent compliance authority. Keep official IDS, typical-results, product/customer-value, approved-claims, and synthetic-testimonial discipline ([Amway IDS](https://www.amway.com/en_US/income-disclosure) — background). Signal: **weak** for daily novelty.
+
+### 2026-07-24
+- Targeted strict-window RSS returned no Amway/LTD compensation, IDS, enforcement, or leadership-compliance items. Maintain official IDS, typical-results, product/customer-value, approved-claims, and human review; scalable AI outreach increases the blast radius of one bad claim ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC MLM guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing) — background). Signal: **weak** for daily novelty, **strong** for the durable compliance backdrop.
