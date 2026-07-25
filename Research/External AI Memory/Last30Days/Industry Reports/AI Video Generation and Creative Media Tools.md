@@ -157,3 +157,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-24
 - Runway officially launched Media Router, a preference-optimized generative-media router in Runway Dev, while Black Forest Labs positioned FLUX 3 as a coming-soon multimodal model for image, video, audio, and action prediction. Creative infrastructure is moving toward routing and world/action-model convergence, but FRR should benchmark one complete asset before changing tools ([Runway](https://runwayml.com/news/company-news/introducing-runway-media-router), [BFL](https://bfl.ai/)). Signal: **strong** for official positioning, **medium–weak** for FLUX 3 production maturity.
+
+### 2026-07-25
+- Current items emphasized fake-video source identification, audience acceptance of generative entertainment, restricted AI-video ad distribution, and synthetic-video fact checks; no inspected flagship API/price change surfaced. Add provenance, disclosure decision, factual approval, edit minutes, watch-through, and qualified inquiries to finished-asset scorecards ([UC Riverside item](https://news.google.com/rss/articles/CBMihwFBVV95cUxQWjBDNVJvQ2ViZmhUb3pGNml3aDVSalNtamNsakpwM0pvd212U1ZUQ2tVSWU4UEtfSHVoRkhhRm1xanZmcFl6VmphX3JhLWF0cDNtc1k2Xzc5bEdpRUhmMFpGM1BEd0h6c3hseFpjV2NCbXh3SWxPMF9FSXU3Wm5KQlBGMlFmYTA?oc=5); RSS/snippet-level). Signal: **medium–weak**.
