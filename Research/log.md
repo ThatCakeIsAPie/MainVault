@@ -491,3 +491,20 @@
 - Raw-only/skipped wiki: millionaire chart lacked the direct UBS report during this run; self-talk image overlapped existing identity/mental-diet material and its near-totalizing causal claim was unsupported.
 - Retrieval note: X media and quoted-post context were recovered through the official API; local OCR/frame extraction was used because the bookmark text alone omitted the substance. External web search was unavailable because the configured provider had exhausted credits.
 - Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+4 IDs).
+
+## [2026-07-25] ingest | X bookmarks daily batch (7)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-25T053056Z.json`).
+- Fetched 50; already in ledger 43; new **7**; processed **7**; truncated remainder 0.
+- Raw created:
+  - `raw/x-bookmarks/2026-07-24/2080671474193432831.md` — repeated-taxation meme; image text recovered with OCR.
+  - `raw/x-bookmarks/2026-07-24/2080709769120329938.md` — Teknium teaser for a forthcoming Nous Research privacy improvement; parent context recovered through the official API.
+  - `raw/x-bookmarks/2026-07-24/2080699367883980924.md` — Garry Tan on staffing/workflow redesign as the bridge from AI microproductivity to macroproductivity.
+  - `raw/x-bookmarks/2026-07-23/2080423407049707749.md` — anti-corporate/anti-credential graduation satire; image text recovered with OCR.
+  - `raw/x-bookmarks/2026-07-23/2080331127990993151.md` — “toxic advice” thread prompt; image text recovered with OCR.
+  - `raw/x-bookmarks/2026-07-24/2080442895543226611.md` — generalized wellness drains/restoratives checklist; image text recovered with OCR.
+  - `raw/x-bookmarks/2026-07-24/2080547884726919201.md` — Economist/Elon Musk interview link; X reported the video removed after a copyright-holder complaint.
+- Wiki pages created: none.
+- Wiki pages updated: none; `index.md` intentionally unchanged.
+- Threshold decisions: Garry Tan's idea was already fully represented in `faleth/process/microproductivity-requires-workflow-redesign-2026.md` and its source transcript; the privacy post was only a teaser; the remaining posts were memes, generic wellness advice, or unavailable media without enough durable evidence.
+- Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+7 IDs).
