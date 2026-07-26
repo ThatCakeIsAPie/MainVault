@@ -508,3 +508,21 @@
 - Wiki pages updated: none; `index.md` intentionally unchanged.
 - Threshold decisions: Garry Tan's idea was already fully represented in `faleth/process/microproductivity-requires-workflow-redesign-2026.md` and its source transcript; the privacy post was only a teaser; the remaining posts were memes, generic wellness advice, or unavailable media without enough durable evidence.
 - Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+7 IDs).
+
+## [2026-07-26] ingest | X bookmarks daily batch (3)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-26T053005Z.json`).
+- Fetched 50; already in ledger 47; new **3**; processed **3**; truncated remainder 0.
+- Raw created:
+  - `raw/x-bookmarks/2026-07-24/2080607945071686030.md` — Oliver Prompts' OBLITERATUS refusal-removal claim.
+  - `raw/x-bookmarks/2026-07-25/2081134153970688251.md` — Teknium's Hermes-native optional-skill claim for OBLITERATUS.
+  - `raw/x-bookmarks/2026-07-25/2081030730197385304.md` — Joe Muller's vendor-unverified GLM 5.2 throughput report on two DGX Sparks.
+- Wiki created:
+  - `faleth/process/refusal-vector-ablation-open-model-control-2026.md` — open-weight refusal-subspace intervention, reversible steering, evaluation, and deployment guardrails.
+- Wiki updated:
+  - `faleth/process/frontier-model-cost-speed-tradeoff-2026.md` — added the 24.7 tok/s local-inference signal with an acceptance-quality-floor caveat.
+  - `index.md` — listed the new refusal-vector page and bumped the updated date.
+  - `log.md` — this ingest record.
+- Threshold decisions: the two linked OBLITERATUS posts jointly cleared the durable-page threshold; the DGX Spark post updated an existing cost/speed page rather than spawning hardware-news clutter.
+- Verification context: the upstream AGPL-3.0 OBLITERATUS repository and README were inspected; its benchmark and capability-preservation statements remain project claims. General web search was unavailable because the configured provider had exhausted credits.
+- Ledger target after successful file/hash verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+3 IDs).

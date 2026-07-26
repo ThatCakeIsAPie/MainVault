@@ -1,7 +1,7 @@
 ---
 title: Frontier Model Cost-Speed Tradeoff (SWE-1.7 signal, 2026)
 created: 2026-07-09
-updated: 2026-07-24
+updated: 2026-07-26
 type: principle
 tags: [ai, llm, inference, strategy, systems, leverage]
 sources:
@@ -13,6 +13,7 @@ sources:
   - research/raw/x-bookmarks/2026-07-15/2077467740835926096.md
   - research/raw/transcripts/lyle-x-share-2079256616407273801
   - raw/x-bookmarks/2026-07-22/2079993729532989500.md
+  - raw/x-bookmarks/2026-07-25/2081030730197385304.md
 confidence: medium
 ---
 
@@ -32,6 +33,10 @@ One-shot **SDPO paper reproduction** comparison: **GLM 5.2 ~$6.21** vs **Opus 4.
 - A separate Grok 4.5 launch thread claims “Opus-class speed” at **60% lower cost**, but the bookmarked root contains no benchmark details.
 
 These are **promising engineering and marketing signals, not established results**. The decision rule remains: benchmark the exact workload, completed-job cost, error rate, and wall-clock throughput before changing production routing.
+
+## Small-cluster local inference signal (2026-07-25)
+
+Joe Muller reports running GLM 5.2 across two NVIDIA DGX Spark systems at **24.7 tok/s**, up from an earlier **4 tok/s**, while explicitly naming quality recovery as the next constraint. This is a useful trajectory signal, not a reproducible benchmark: the bookmark does not establish quantization, context length, decoding settings, workload, quality score, or power/capital cost. The durable lesson is to optimize throughput **subject to an acceptance-quality floor**; a fast local model that increases retries or review load may be economically slower. [[raw/x-bookmarks/2026-07-25/2081030730197385304]]
 
 ## Model weight classes and replaceable harnesses (2026-07-15–16)
 
