@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-24 | Total pages: 50+
+> Last updated: 2026-07-26 | Total pages: 50+
 
 ## Meta / schema
 
@@ -126,6 +126,7 @@
 - [[faleth/process/agentic-loops-design-2026]] — Anthropic four loop types (prior + re-indexed)
 - [[faleth/process/hermes-cloud-and-x-mcp-2026]] — Hermes Cloud + hosted X MCP agent surface
 - [[faleth/process/local-model-ownership-agency-2026]] — Ownership agency of local weights vs API rental
+- [[faleth/process/refusal-vector-ablation-open-model-control-2026]] — Refusal-subspace intervention makes open-weight alignment inspectable and changeable, with capability, safety, and evaluation tradeoffs.
 - [[faleth/process/ai-as-sparring-partner-house-method-2026]] — Treat AI as fallible bounce partner (House method)
 - [[faleth/process/anthropic-prompting-craft-deleted-lecture-2026]] — Internal prompting craft signal; practice over permanent URLs
 - [[faleth/process/self-writing-vault-operating-loop-2026]] — Capture, immutable raw evidence, automated linking, recall, and recurring synthesis as a low-babysitting knowledge loop.

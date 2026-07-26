@@ -156,3 +156,9 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-24
 - Targeted strict-window RSS returned no Amway/LTD compensation, IDS, enforcement, or leadership-compliance items. Maintain official IDS, typical-results, product/customer-value, approved-claims, and human review; scalable AI outreach increases the blast radius of one bad claim ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC MLM guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing) — background). Signal: **weak** for daily novelty, **strong** for the durable compliance backdrop.
+
+### 2026-07-25
+- Targeted strict-window RSS again returned no substantive Amway/LTD compensation, IDS, enforcement, or leadership-compliance item; results were unrelated income/tax noise. Maintain separate approved/banned language for `job`, `investment`, guaranteed/passive income, recruiting-as-product, unsupported health outcomes, lifestyle implication, and synthetic testimonials ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC MLM guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing) — background). Signal: **weak** for daily novelty, **strong** for durable compliance context.
+
+### 2026-07-26
+- Targeted strict-window RSS returned zero items; no Amway/LTD compensation, IDS, enforcement, or leadership-compliance change surfaced. Maintain product/customer-value, typical-results, IDS, approved-claims, and human-review discipline ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC MLM guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing) — background). Signal: **weak** for novelty, **strong** for durable context.
