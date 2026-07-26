@@ -1,7 +1,7 @@
 # The Financial Framework
 
 *How money moves through the Faleth Capital ecosystem.*
-*Faleth Capital · Internal Framework · Version 2.0 — Draft*
+*Faleth Capital · Internal Framework · Version 2.1 — Draft*
 *Companion to [[The Contribution Framework]], [[The Cell Framework]], and [[The Equity Framework]]. The philosophy behind the structure is in the [[Faleth Capital Constitution]].*
 
 ---
@@ -14,7 +14,7 @@ Inside a subsidiary the sequence runs like this. **Revenue** comes in, and subtr
 
 Two more things come out of operating profit, and they are calculated side by side rather than one after the other: the office fee and the subsidiary's quarterly profit share. Both are measured against operating profit itself, so neither shrinks the base the other is drawn from. What remains is the subsidiary's own **net profit**, kept for reinvestment and reserves.
 
-The **office fee** is the higher of 5% of revenue or one-third of operating profit. Two calculations, whichever is larger that quarter. The revenue side protects the office's income floor so it isn't starved by a lean quarter; the profit side makes sure a genuinely profitable subsidiary contributes in proportion to how well it did. The fee funds the shared liquidity pool, the dividends, the office-level profit share, and the office's own modest operating costs.
+The **office fee** is the higher of 5% of revenue or one-third of operating profit. Two calculations, whichever is larger that quarter. The revenue side protects the office's income floor so it isn't starved by a lean quarter; the profit side makes sure a genuinely profitable subsidiary contributes in proportion to how well it did. The fee funds the shared liquidity pool, the dividends, the office-level profit share, and the office's own modest operating costs. A fifth of it never reaches the office: 14% goes to the subsidiary's executive team, and 6% to the mentor who developed them, leaving 80% for the pool ([[The Governance Framework#2.1 — The Executive Seat|The Governance Framework]]).
 
 Notice what the office does *not* do: it doesn't allocate its overhead down. It takes a fee off the top and leaves each subsidiary to manage its own costs, which is what makes a subsidiary's numbers actually its own — nobody's margin is quietly determined by someone else's spending.
 
@@ -22,14 +22,14 @@ That arrangement repeats exactly one layer further in. A multi-cell subsidiary c
 
 For a sense of the target shape, here is roughly how a healthy subsidiary's revenue divides:
 
-| Line item | Target share of revenue |
-| --- | --- |
-| Cost of goods | ~33% |
-| Cost of acquisition | ~20% |
-| Cost of fulfillment (the team pool) | ~13.3% |
-| Office fee | ~11.1% |
-| Profit share | ~6.7% |
-| Net margin | ~15.9% |
+| Line item                           | Target share of revenue |
+| ----------------------------------- | ----------------------- |
+| Cost of goods                       | ~33%                    |
+| Cost of acquisition                 | ~20%                    |
+| Cost of fulfillment (the team pool) | ~13.3%                  |
+| Office fee                          | ~11.1%                  |
+| Profit share                        | ~6.7%                   |
+| Net margin                          | ~15.9%                  |
 
 Every rule above is visible in those numbers. Cost of fulfillment is 20% of gross margin. Operating profit lands near 33.7%, so the office fee is one-third of it and the profit share is 20% of the same figure — and because 5% of revenue would only be 5%, the profit-based calculation is the one that applies. Fixed expenses sit outside the table because they vary too widely between a repair shop and a factory to benchmark; in a live subsidiary they come out before operating profit, which scales the last three lines down together. These are benchmarks, not mandates.
 

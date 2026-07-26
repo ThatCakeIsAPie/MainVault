@@ -70,7 +70,7 @@ Cells don't change how the system governs; they add one scope between the indivi
 
 Inside a cell, the cell governs itself exactly as a standalone team does: its own point values, floor, and parameters, its own elected Leads, its own disputes. Nothing reaches in unless the cell is breaking the framework or creating real problems for its neighbors.
 
-At the seam between cells, the Leads who share it settle it — interfaces, handoff standards, and the subsidiary-layer point values are theirs to negotiate together, and a disagreement widens only if it truly can't be settled there. Subsidiary-wide parameters belong to all the Leads together, the owner among them as one voice, not a hand above. The election, dispute, and separation mechanics for all of these live in [[The Governance Framework]]; cells just apply them at one more level.
+At the seam between cells, the Leads who share it settle it — interfaces, handoff standards, and the subsidiary-layer point values are theirs to negotiate together, and a disagreement widens only if it truly can't be settled there. Subsidiary-wide parameters belong to all the Leads together, the executive among them as one voice, not a hand above. The election, dispute, and separation mechanics for all of these live in [[The Governance Framework]]; cells just apply them at one more level.
 
 Above the subsidiary, cells disappear. The office deals with the subsidiary as one entity, and the parent fee, profit share, and equity all run on its consolidated numbers. Cells are how a subsidiary organizes itself within — an internal tool, never a separate legal or financial entity.
 
