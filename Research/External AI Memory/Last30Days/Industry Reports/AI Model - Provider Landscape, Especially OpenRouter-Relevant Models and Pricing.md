@@ -173,3 +173,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-25
 - Official API **~11:01 UTC**: **345 models**, exact full-ID diff **+2 / -0**. Added `anthropic/claude-opus-5` (**$5/$25/M**, cache read **$0.50/M**, 1M context) and `anthropic/claude-opus-5-fast` (**$10/$50/M**, cache read **$1/M**, 1M context). Core-stack pricing remains unchanged. Benchmark standard Opus 5 against GPT-5.5/Sonnet 5 first; Fast requires measured latency value before paying 2× ([Anthropic](https://www.anthropic.com/news/claude-opus-5), [API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
+
+### 2026-07-26
+- Official API **~11:00 UTC**: **345 models**, exact full-ID diff **0 additions / 0 removals**. Core stack remains unchanged: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free` ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**; no routing change.
