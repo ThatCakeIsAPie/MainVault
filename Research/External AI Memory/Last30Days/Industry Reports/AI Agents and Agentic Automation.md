@@ -172,3 +172,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-26
 - Neo's reported $100M agent-security launch and Nissy's “vibe-code drift” workflow-safety positioning reinforce control-plane spend around non-human identity, planned-vs-actual work, acceptance tests, drift detection, credential scope, and rollback. Product details remain RSS/snippet-level ([Neo](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaVIzLWM2Wms3Q2RUY1EyRFhLVXdManpfVHVEdTBpV2RadXVtN18yeEtZclA3UjVMcjU2X3ZTTnR0cVBYQVA0dklxaG5Od3hMS0VZSm56OG5TdDRmbERZUVFPLUZLTGllYXhQV0JVRzllR2twSU54WkxYeXJ2c25odGgtaV9OREh2U1h4d043YjBFSktKMGFwTHpCMA?oc=5)). Signal: **medium**.
+
+### 2026-07-27
+- Siemens self-verifying EDA workflows, NVIDIA's engineering Agent Toolkit expansion, and Safari MCP coverage reinforce domain-embedded agents plus explicit verification/security controls. Add domain tool, independent verifier, acceptance test, credential/tool scope, rollback, and stop authority to receipts ([Siemens item](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sV0NLTWRDRmNYbHEwODE5a08wSnpZbUpmTGJSMmhaLTRrZkFmQmpibVpaNkhGNmhaMURLcHZaN0pqbmpqbmFiTjV2LU91SHhvWUJ4Ry12WEY0THc3dFFwbVlPLWg2QQ?oc=5); RSS/snippet-level). Signal: **medium**.

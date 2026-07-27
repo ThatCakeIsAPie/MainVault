@@ -162,3 +162,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-26
 - Targeted strict-window RSS returned zero items; no Amway/LTD compensation, IDS, enforcement, or leadership-compliance change surfaced. Maintain product/customer-value, typical-results, IDS, approved-claims, and human-review discipline ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC MLM guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing) — background). Signal: **weak** for novelty, **strong** for durable context.
+
+### 2026-07-27
+- Targeted strict-window RSS again returned zero items; no Amway/LTD compensation, IDS, enforcement, or leadership-compliance change surfaced. Maintain separate controls for job, investment, earnings, recruiting, health, lifestyle, and synthetic-testimonial claims ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC MLM guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing) — background). Signal: **weak** for novelty, **strong** for durable context.
