@@ -48,6 +48,8 @@ The provider gives an act of service or a useful gift. The customer gives a gift
 
 Profit matters because it measures, sustains, and scales the organization's ability to serve. But when money becomes the only object, the organization mistakes the receipt for the purpose and cuts itself off from the deepest reward of enterprise: seeing other people's lives become better because of what it built.
 
+That reward has corresponding external and internal fruit. Externally, the customer's life improves. Internally, the provider experiences the durable fulfillment of having genuinely helped. Revenue can exist without either; pleasure purchased with extracted money is not equivalent to the joy produced by service.
+
 ## Economic Architecture
 
 The office functions as a thin family office over operating subsidiaries and a shared pool. Labor flexes with gross margin. Subsidiary and office profit shares align local and portfolio performance. Class B equity mints only from earned profit share or reinvested dividends. Managed Capital Accounts give outside capital exposure to pool performance without buying governance or contributor dividends. Liquidity roughly matches deployed subsidiary book value, and all entry, exit, minting, burning, and separation use book value.
@@ -60,6 +62,7 @@ A Faleth mechanism should answer four questions:
 - Does it increase agency without externalizing risk onto others?
 - Can the affected person inspect the math and leave without forfeiting what they earned?
 - Does it help people become more capable and less dependent over time?
+- Did the recipient genuinely benefit, and did the provider's fulfillment arise from that benefit rather than merely from winning, controlling, or extracting?
 
 If not, the mechanism may carry Faleth vocabulary without carrying Faleth's philosophy.
 
@@ -88,3 +91,4 @@ If not, the mechanism may carry Faleth vocabulary without carrying Faleth's phil
 - [[Business/Faleth Capital/Beyond the Wage]]
 - [[raw/transcripts/lyle-marketplace-discipleship-its-just-business-2026-07-27]]
 - [[raw/transcripts/lyle-business-as-organized-service-reciprocal-gift-and-joy-2026-07-27]]
+- [[raw/transcripts/lyle-fulfillment-as-internal-fruit-of-genuine-service-2026-07-27]]

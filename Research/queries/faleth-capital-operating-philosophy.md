@@ -27,6 +27,8 @@ Lyle treats that sentence as a marketplace commandment, not a company slogan. Fa
 
 Its positive formulation is that **business done right is organized service at scale and one of the greatest expressions of human joy**. The provider improves another person's life; the customer reciprocates with the portable gift of money; the business organizes that mutually valuable exchange across many people. Profit sustains and scales service, but cannot replace the joy of service as the purpose.
 
+The service test has two fruits: the customer's life demonstrably improves, and the provider experiences the durable fulfillment of having genuinely helped. Revenue without those fruits may finance pleasure, but it does not produce the same meaning.
+
 ## The Architecture in One Pass
 
 1. **Contribution:** Work is organized into visible processes. Gross margin funds per-unit labor pools, and pay follows the points attached to completed value rather than elapsed time.
@@ -72,6 +74,7 @@ Faleth is drifting when:
 - development remains confined to selling and recruiting instead of producing transferable capability throughout the organization.
 - revenue is treated as the final objective rather than evidence and fuel for improving people's lives.
 - customer payment is counted as success without verifying that the customer actually benefited.
+- pleasure, status, or domination is mistaken for the fulfilled joy that comes from genuine service.
 
 ## Sequencing
 
@@ -98,3 +101,4 @@ The documents describe a destination, not permission to skip reality. The operat
 - [[faleth/governance/conflict-escalation-trust-preservation-2026]]
 - [[raw/transcripts/lyle-marketplace-discipleship-its-just-business-2026-07-27]]
 - [[raw/transcripts/lyle-business-as-organized-service-reciprocal-gift-and-joy-2026-07-27]]
+- [[raw/transcripts/lyle-fulfillment-as-internal-fruit-of-genuine-service-2026-07-27]]

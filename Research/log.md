@@ -578,3 +578,11 @@
 - Added the failure mode: making money the sole object removes the joy of improving other people's lives even when revenue remains.
 - Added a boundary condition distinguishing genuinely voluntary, beneficial exchange from revenue produced through coercion, deception, addiction, monopoly leverage, or manufactured dependence.
 - Updated the apex principle, economic philosophy, operating synthesis, customer value-sharing principle, and index.
+
+## [2026-07-27] update | Fulfillment as the internal fruit of genuine service
+
+- Preserved Lyle's exact Telegram refinement at `raw/transcripts/lyle-fulfillment-as-internal-fruit-of-genuine-service-2026-07-27.md` with SHA-256 provenance.
+- Added the two-fruit test: external improvement in the recipient's life and internal fulfillment in the provider rooted in genuinely helping.
+- Distinguished purchased pleasure, status, and domination from the durable joy of service.
+- Preserved Lyle's observation about coercive or indifferent people as personal experience rather than turning it into a universal or clinical diagnosis.
+- Updated the apex principle, Faleth economic philosophy, operating synthesis, and index.

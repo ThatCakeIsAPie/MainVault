@@ -45,6 +45,19 @@ Acts of service and gift-giving are recognized expressions of love. Business can
 
 This is why making money the sole objective is self-defeating even when it produces revenue. It removes the most vital source of satisfaction from the activity: bringing joy to other people's lives. Profit without service can keep the accounting shell while hollowing out the human purpose that made enterprise worth doing.
 
+## The Two Fruits of Service
+
+Genuine service should produce two corresponding fruits:
+
+- **External fruit:** the recipient's life actually improves.
+- **Internal fruit:** the provider experiences the durable fulfillment of knowing they genuinely helped.
+
+The second does not replace the first; it grows from it. Someone may acquire money through coercion, deception, or extraction and spend it on pleasure, but that pleasure is not the same thing as the fulfilled joy of seeing another person's life become better through one's work.
+
+Lyle's personal observation is that people who insist they do not care about others often reveal, when known more deeply, hollowness, emotional emptiness, loss of meaning, and attempts to drown that absence in earthly pleasures. He does not envy material success whose method leaves the person hostile toward the world and unable to experience the joy of service.
+
+This makes fulfillment an internal diagnostic, but not a self-certifying one. People can feel satisfaction from domination, vanity, or self-deception. The stronger test holds both fruits together: **demonstrable benefit to the recipient and durable fulfillment rooted in genuinely helping them.**
+
 ## Mechanisms
 
 - **Process-based work:** knowledge attaches to visible processes rather than protected titles.
@@ -89,3 +102,4 @@ Money is evidence of reciprocated value only when the exchange is informed, volu
 - [[Business/Faleth Capital/The Acquisition Transition Framework]]
 - [[raw/transcripts/lyle-marketplace-discipleship-its-just-business-2026-07-27]]
 - [[raw/transcripts/lyle-business-as-organized-service-reciprocal-gift-and-joy-2026-07-27]]
+- [[raw/transcripts/lyle-fulfillment-as-internal-fruit-of-genuine-service-2026-07-27]]
