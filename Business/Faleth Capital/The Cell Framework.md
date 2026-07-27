@@ -1,7 +1,7 @@
 # The Cell Framework
 
 *How a subsidiary scales past a single team without adding hierarchy.*
-*Faleth Capital · Internal Framework · Version 2.0 — Draft*
+*Faleth Capital · Internal Framework · Version 2.0*
 *Companion to [[The Contribution Framework]], [[The Governance Framework]], and the [[Faleth Capital Constitution]]. Financial and equity mechanics live in [[The Financial Framework]] and [[The Equity Framework]].*
 
 ---

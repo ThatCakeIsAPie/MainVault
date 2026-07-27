@@ -1,7 +1,7 @@
 # The Financial Framework
 
 *How money moves through the Faleth Capital ecosystem.*
-*Faleth Capital · Internal Framework · Version 2.1 — Draft*
+*Faleth Capital · Internal Framework · Version 2.1*
 *Companion to [[The Contribution Framework]], [[The Cell Framework]], and [[The Equity Framework]]. The philosophy behind the structure is in the [[Faleth Capital Constitution]].*
 
 ---
@@ -41,7 +41,7 @@ The office account is a war chest. Money pumps into it — fees, retained profit
 
 The office runs one pool, not a fund and a side fund beside it. The office's own equity and any investor capital sit in the same pool, with ownership tracked as a percentage rather than split into parallel structures. If the office holds $2 million and an investor contributes $3 million, the pool is $5 million — the office owns 40%, the investor 60%. Every dollar is deployed by the same people, under the same philosophy and the same discipline. It isn't a fund within a fund; it's a shared table, and the percentages decide who owns what share of the outcome.
 
-Half that pool should be working and half should be waiting. **Deployed capital** is the combined book value of the operating subsidiaries; **liquid capital** is everything held in reserve. Keeping the two roughly equal is how the office covers the business and liquidity thirds of the one-third rule the whole system rests on ([[Faleth Capital Constitution#1.3 — Philosophical Foundation The One-Third Rule|Section 1.3 of the Constitution]]).
+Half that pool should be working and half should be waiting. **Deployed capital** is the combined book value of the operating subsidiaries; **liquid capital** is everything held in reserve. Keeping the two roughly equal is how the office covers the business and liquidity thirds of the one-third rule the whole system rests on ([[Faleth Capital Constitution#8.1 — The One-Third Rule and the Two Buckets|Article VIII of the Constitution]]).
 
 The ratio drifts, and when it does it's a signal rather than a crisis. Too much deployed means the pool is over-committed: make no new commitments and let operating income rebuild the liquid side. Too much liquid means capacity — go find the next builder ready to launch. And an investor withdrawal comes off the liquid side, never out of an operating business; if it tips the ratio, the office slows spending until income restores the balance. Nothing is ever liquidated to satisfy a withdrawal.
 
@@ -49,7 +49,7 @@ The ratio drifts, and when it does it's a signal rather than a crisis. Too much 
 
 ## 3. The Quarterly Snapshot
 
-Everything the office pays out is calculated once a quarter off a single number: the change in the pool's book value — cash and assets together — from last quarter to this one. If the pool grew, there's something to share. If it didn't, there isn't, and nothing at this layer pays out. No projections, no adjustments, no accruals to argue about. Two balance sheets and a subtraction.
+Everything the office pays out is calculated once a quarter off a single number: **the growth of the total pool.** Not the cash on hand, and not the office's own slice of it — the whole thing, cash and assets together, liquid reserves plus the combined book value of every operating subsidiary underneath. A quarter where the cash pile stayed flat while the subsidiaries grew is still a quarter the pool grew. If that total rose, there's something to share. If it didn't, there isn't, and nothing at this layer pays out. No projections, no adjustments, no accruals to argue about. Two balance sheets and a subtraction.
 
 Each allocation is then drawn from a clearly named base, which is what keeps the layers siloed and stops the same dollar being paid out twice.
 

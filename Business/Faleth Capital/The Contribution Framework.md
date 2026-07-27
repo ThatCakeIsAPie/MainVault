@@ -1,7 +1,7 @@
 # The Contribution Framework
 
 *How pay works — a process-based model that replaces wages with value, ownership, and freedom.*
-*Faleth Capital · Internal Framework · Version 2.0 — Draft*
+*Faleth Capital · Internal Framework · Version 2.0*
 *Companion to [[The Governance Framework]], [[The Cell Framework]], and [[The Financial Framework]]. Ownership and equity rest on the [[Faleth Capital Constitution]] and [[The Equity Framework]].*
 
 ---

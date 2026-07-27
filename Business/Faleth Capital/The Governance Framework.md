@@ -2,7 +2,7 @@
 
 *How Faleth Capital makes decisions, resolves disputes, and keeps leadership accountable.*
 
-*Faleth Capital · Internal Framework · Version 2.1 — Draft*
+*Faleth Capital · Internal Framework · Version 2.1*
 *Companion to [[The Contribution Framework]], [[The Cell Framework]], and the [[Faleth Capital Constitution]].*
 
 ---
@@ -51,7 +51,7 @@ He's elected the same way too, by the cell Leads rather than by every participan
 
 That share is what keeps this from being a hand above. He is paid out of the office's fee, not the margin the team produces ([[The Financial Framework#1. How Money Moves Through a Subsidiary|the Financial Framework]]), so his income and theirs come from different numbers and can never trade against each other.
 
-Removal is a confidence vote like any other, carried to the office because that is how far the seat reaches. Below the scale where there are cell Leads to convene one, anyone can fork out instead ([[Faleth Capital Constitution#6.3 — The Subsidiary Fork|Article VI of the Constitution]]). He can step down whenever he likes, nothing is retained, and he keeps compounding through a Managed Capital Account.
+Removal is a confidence vote like any other, carried to the office because that is how far the seat reaches. Below the scale where there are cell Leads to convene one, anyone can fork out instead ([[Faleth Capital Constitution#5.3 — How a Fork Works|Article V of the Constitution]]). He can step down whenever he likes, nothing is retained, and he keeps compounding through a Managed Capital Account.
 
 **The mentor** takes 6% for developing the executive, and that is the whole job: counsel, with no vote, no veto, no standing to direct the work. The team is free to ignore them, and it runs as long as both of them want it.
 

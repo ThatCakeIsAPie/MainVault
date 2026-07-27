@@ -1,7 +1,7 @@
 # The Equity Framework
 
 *How ownership works — three classes, earned rather than bought, and priced at book value.*
-*Faleth Capital · Internal Framework · Version 2.0 — Draft*
+*Faleth Capital · Internal Framework · Version 2.0*
 *Companion to [[The Financial Framework]], [[The Contribution Framework]], and [[The Governance Framework]]. Office-level governance is in the [[Faleth Capital Constitution]].*
 
 ---

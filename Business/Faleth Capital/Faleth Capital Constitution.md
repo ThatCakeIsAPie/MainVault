@@ -1,418 +1,296 @@
-**THE CONSTITUTION**
+# The Constitution of Faleth Capital
 
-**OF**
+*A family office built on ownership, aligned incentives, and human freedom.*
+*Open Document · Version 2.1*
 
-**FALETH CAPITAL**
-
-_A Family Office Built on Ownership,_
-
-_Aligned Incentives, and Human Freedom_
-
-Open Document — Version 2.0 — Draft
+---
 
 # Preamble
 
 The wage and salary model is obsolete.
 
-It was designed for an industrial era that needed interchangeable human parts, not thinking, creative, self-directed people. It pays for time, not value. It punishes efficiency and rewards presence. It severs the natural connection between contribution and reward that humans operated under for tens of thousands of years. And then we wonder why apathy is running rampant — the system gives people no reason to care.
+It was built for an industrial era that needed interchangeable parts, not thinking, self-directed people. It pays for time instead of value, punishes efficiency, and rewards presence. It severs the connection between contribution and reward that humans lived under for tens of thousands of years — and then we wonder why apathy is everywhere. The system gives people no reason to care.
 
-Faleth Capital exists to prove there is a better way.
+It also forecloses the way out. Building something of your own on the side means living a double life: performing at the thing that pays your bills while quietly resenting it for standing between you and the thing you're actually building. The job takes the one resource that building requires — time you control — and pays the same whether you push or coast. When it asks for more hours, that isn't opportunity. It feels like someone taking your future.
 
-This is a family office built on a single conviction: that when people are given total agency, can work how they want, when they want, and share in the upside, they will outperform any system built on control, surveillance, and fixed compensation. Not because they are forced to. Because the structure makes it obvious that their effort matters.
+Faleth Capital exists to prove there's a better way.
 
-This constitution establishes the principles, structures, and mechanisms by which Faleth Capital operates. It is an open document. We are not big on secrets. Anyone — team member, subsidiary owner, prospective partner, or curious outsider — is welcome to read it, question it, and judge us by whether we live up to it.
+It is a family office built on one conviction: that people given total agency — free to work how and when they want, sharing in the upside — will outperform any system built on control, surveillance, and fixed pay. Not because they're made to. Because the structure makes it obvious that their effort matters.
 
-The purpose of this document is to outline the structure and philosophy behind how we operate. The specific mechanics live in their respective frameworks, i.e. compensation is handled in the [[The Contribution Framework]]. This document outlines the spirit of the law, not the letter.
+This document sets out the principles Faleth Capital operates by. It's open. We aren't big on secrets, and anyone — participant, executive, prospective partner, or curious outsider — is welcome to read it, question it, and judge us by whether we live up to it. The mechanics live in the frameworks. This is the spirit of the law, not the letter.
+
+One note on how to read it. What follows builds in order: what we are, how we're structured, how people join, how we govern, and how anyone can leave. The part that probably brought you here — how a person actually builds wealth inside this — is **Article VIII**. Everything before it is the machinery that makes Article VIII possible, and it will land far better in that order than it would the other way around.
+
+---
 
 # Article I: Purpose and Mission
 
 ## 1.1 — What Faleth Capital Is
 
-Faleth Capital is a family office that owns, funds, and mentors operating businesses across any industry. It is a holding entity, a shared liquidity pool, and a governance body. It is not an employer in the traditional sense. It is an economic ecosystem designed to create business owners, not employees.
+Faleth Capital is a family office that owns, funds, and mentors operating businesses in any industry — a holding entity, a shared liquidity pool, and a governance body. It is not an employer in the traditional sense. It's an economic ecosystem designed to produce owners rather than employees.
 
-The name Faleth comes from _Fah Leth_, meaning "individual." That is not ornamental branding. It is the root of the model. Faleth begins with the individual contributor: the person whose agency, skill, judgment, and productive capacity should be strengthened by the organization rather than swallowed by it. The goal is not isolated individualism. The goal is voluntary alignment — sovereign contributors choosing to work together because together they can build, protect, and multiply more than they can alone.
+The name comes from *Fah Leth*, meaning "individual," and that isn't ornamental branding. It's the root of the model. Faleth begins with the individual contributor: the person whose agency, skill, and judgment should be strengthened by an organization rather than swallowed by it. The goal isn't isolated individualism. It's voluntary alignment — sovereign people choosing to work together because together they can build, protect, and multiply more than they can alone.
 
-## 1.2 — The Mission
+The mission is to **create and steward generational wealth**: to make it reachable for people who never had a path to it, and to grow it by reinvesting in the ones just starting. We do that by building a portfolio of businesses run by people with genuine ownership of their results, and by proving that paying for value beats paying for time on every measure that matters — productivity, retention, innovation, and human dignity.
 
-**_Create and steward generational wealth._**
+## 1.2 — Three Ways In
 
-That is the mission in its simplest form. Faleth Capital exists to make generational wealth accessible to people who have never had a path to it, and to manage and grow that wealth by reinvesting into those just getting started. It does this by building a portfolio of thriving businesses, each operated by people who have genuine ownership over their results, and by proving that the contribution-based model — where compensation is tied to value created rather than time spent — is superior to wages and salaries in every measurable dimension: productivity, retention, innovation, and human dignity.
+There are three doors, open to different people at different stages of life.
 
-The original mission beneath that structure remains: to empower the individual. The family office is the container that makes the mission scalable. It lets individuals build within a shared system without becoming property of the system, and it lets the system compound their contribution without reducing them to interchangeable labor.
+**Build.** Join a subsidiary, earn contribution-based pay, and convert a share of the profit into ownership. No capital required — only work.
 
-## 1.3 — Philosophical Foundation: The One-Third Rule
+**Invest.** Place capital with the office through a Managed Capital Account and have it deployed alongside everything else the office runs.
 
-Faleth Capital has two major operating financial philosophies.
+**Refer.** Use a subsidiary as a customer and send people you know, earning on what they spend — turning ordinary household expenses into a stake, with neither capital nor employment.
 
-The first is that our financial architecture draws from a principle found in the Jewish Talmud: divide your wealth into thirds. One-third in land. One-third in business. One-third in liquid capital.
-
-The Talmud also teaches that families should gather together — traditionally about ten — to form a shared liquidity pool. If one member wants to start a business, the pool provides a zero-interest loan, knowing that when the venture succeeds, a portion of its returns will flow back, replenishing and growing the pool for the next person. It is a system of mutual investment built on trust, long time horizons, and the understanding that collective prosperity compounds faster than individual ambition.
-
-Faleth Capital systematizes this wisdom. The family office covers two of the three thirds: business and liquid capital. We accomplish this through keeping a liquid capital holding equivalent to the book value of our operating subsidiaries. The last third, land, is to be handled by the individual participant, with encouragement to follow the philosophy in Article I, Section 1.4.
-
-## 1.4 — The Two Buckets
-
-The other major financial philosophy is that we encourage you to think about your finances in terms of two buckets:
-
-**Bucket One: The X Factor.** This is your safety net. Your "if I get X'd out, my family will be covered" bucket. It is untouched, invested in stable, long-term assets: land ideally, or real estate,index funds and bonds. It grows quietly and exists so that you never have to make decisions from a place of fear. This is the individual's "land" third.
-
-**Bucket Two: Active Income.** This is everything else — your primary income, contribution-based pay, your profit shares, your dividends, your side ventures. Because Bucket One is untouched and growing, Bucket Two gives you freedom to be aggressive: reinvest in your business, mint more shares, fund a new venture, or spend on lifestyle. The security of Bucket One makes the risk tolerance of Bucket Two possible.
-
-The structure of Faleth Capital is designed to help people build both buckets simultaneously. Bucket 2 is covered through the weekly pay and quarterly shares and dividends. Bucket 1 is fueled by building a side network marketing business, made practical through a no-time-clock model. Once a participant is making a full time income through both their network marketing income in bucket 1, and their dividends in bucket 2, they are eligible to start their own subsidiary funded by Faleth Capital.
-
-By the time someone is ready to launch their own subsidiary under Faleth Capital, they are not starting a business out of desperation. They are starting from a position of strength. They have built a business of their own that runs without their direct, 24/7 involvement, and secured a significant enough stake in the family office so that no matter what happens to their subsidiary, their family will be fine. That is by design.
-
-Our aim is to build and back indestructible business leaders.
-
-## 1.5 — Building Networks and Strengthening Them
-
-There are two distinct skills in business that most systems treat as one. The first is building a network from nothing: recruiting, leading, creating relationships, and learning that your income is a direct function of your ability to generate value through uplifting other people. The second is integrating into an existing network and making it more valuable: identifying gaps, filling them, strengthening what already works, and expanding the reach of something larger than yourself.
-
-Network marketing teaches the first skill beautifully. You start with zero. You learn to build through positive reinforcement rather than negative. Your income compounds through overrides on the sales of the network you created. It is one of the few business models where anyone, regardless of background or capital, can enter and build something real. We value it for exactly that reason, and it is a deliberate part of the participant pipeline.
-
-But network marketing has a structural limitation: the hierarchy is permanent. Your position in the tree is your position forever. The person who plugs into an existing network and makes it dramatically better has no path to recognition proportional to their contribution, as the value flows only upline. It is great for learning how to build your own network, but there is no financial incentive for making an existing one drastically better.
-
-The [[The Contribution Framework|Contribution Framework]] handles this portion. Someone who walks into an existing subsidiary, identifies a gap, and fills it earns proportionally to the value they add. They didn't build the network, they made the network better. The math doesn't care when they arrived or who brought them in. And by operating leadership under a more representative republic system, ensures that hierarchy itself is earned and re-earned continuously, not assigned once and frozen in place.
-
-This is not anti-hierarchy. It is anti-static hierarchy. A hierarchy that evolves based on demonstrated value is meritocracy with accountability. A hierarchy that is frozen in place is feudalism with better marketing. The most natural human systems — from the mammoth hunt to the most effective modern teams — are ones where leadership is earned and re-earned, where the chief is the chief because the group respects them, and where someone who stops earning that respect makes way for someone who will.
-
-Network marketing teaches you to build from nothing. The Contribution Framework rewards you for building upon and strengthening what others have built. Together, they produce people who can do both. That is the kind of person who is ready to start a subsidiary.
-
-### Why Network Marketing
-The reasoning behind "why network marketing" is remarkably simple. There is simply no other business model on earth that directly compensates you for helping others become successful. In a good network marketing business, you don't earn for recruiting, you earn for product moving. You earn by teaching others to move product. You earn for teaching others how to teach others.
-
-But why most who build it don't actually receive passive income is because in order to make it passive, *you must learn how to build others to the point they no longer need you.* One leader calls it "leveraged leadership income". They are making money on their own accord, through their own skills, that you helped to teach them. If they are experiencing success, the likelihood they end up leaving your network is low. If you never help them succeed, the likelihood is high.
-
-You must build people through purely positive reinforcement. You hold no leverage over them. You can't fire your downline. You can't withhold a paycheck. They stay in your downline until they quit or you quit. It is a purely voluntary army. When built correctly, through the raising up of others, it produces a reward like no other.
-
-Can it be built incorrectly? Can it be abused? Absolutely. Anything can. Especially a system that allows radical freedom over how you build and manage it. That is the very unfortunate reality of freedom. It will happen eventually to our system as well, no matter how hard we try to systematically remove toxic elements from the culture.
-
-As a side note: The cruel reality is that there are simply toxic people out in the world. A toxic person in a good system will ultimately taint it. No matter how hard you try to keep them out of your culture, they will eventually rear their ugly head. It requires vigilance. Dark is the absence of light. Light is an intentional act. It requires energy to produce light. It requires effort to be a good force in the world, to push back against the forces of evil. This isn't a systemic flaw, it is a worldly flaw. A people flaw. And unfortunately, toxic people are nomads. Despite composing a statistical minority of the population, they get around. Many people experience the few. But we have to be vigilant to not let them make you toxic too.
-
-Back down to earth and network marketing, again: The system isn't perfect. No system is.
-
-As stated previously, you don't get compensated for coming into an existing network and making it better or more efficient. You only get compensated for what you yourself build. But it is for these very reasons that we consider network marketing as the spine of what we do here at Faleth Capital. A self-directed business like ours cannot be built without the intentional effort of personal development and the development of others.
-
-### The Dividend Bridge
-
-There is an elegant symmetry between the two systems that is worth stating explicitly, because it is by design.
-
-Class B dividends are strongest in your early years, when you are actively contributing to a subsidiary and minting shares every quarter. Network marketing income is weakest in those same early years, when the business is still being built and the network has not yet reached the scale where it compounds on its own. As time passes and you step back from active subsidiary work, your dividend income gradually fades because of dilution. But by then, if you have been building, the network marketing business is doing the opposite — maturing, self-replicating, compounding without your direct involvement.
-
-One is designed to decay without active involvement. The other is designed to grow without it. They cross in the middle. If you have built both, you never have a gap.
-
-### Two Streams, Two Jobs
-
-These two income streams are not interchangeable, and they are not both meant to pile into the same bucket. They have separate purposes by design:
-
-**Network marketing income → Bucket One (the safety net).** This is its permanent home. As the network matures and compounds, the overrides flow into land, index funds, and stable long-term assets. This bucket grows quietly, is never touched for lifestyle, and exists so that no matter what happens, the family is covered.
-
-**Dividends and profit share → Bucket Two (active lifestyle and runway).** This is what funds your life. It covers your expenses, gives you room to reinvest, and — critically — provides the runway you need while building a subsidiary in its unprofitable early years. A new business may take years to become meaningfully profitable. Without Bucket Two income, those early years put you into survival mode. With it, you can think long-term and actually build rather than scrambling to keep the lights on.
-
-In the early phase, while you are still working inside a subsidiary and your Layer 2 pay covers daily life, both streams may be going into reinvestment — minting more shares with profit share and dividends, feeding early network marketing earnings into Bucket One. That is fine. The structure is flexible in the early days. But the mature design is two streams, two buckets, two purposes. Network marketing builds the floor under your feet. Dividends and profit share keep the engine running while you build. When your subsidiary starts generating its own income, that takes over Bucket Two, and the dividends can go wherever you choose — reinvest, mint more shares, or redirect alongside your network marketing income into Bucket One.
-
-### The Accessible Path to Wealth
-
-This is where the full vision comes together. Traditionally, network marketing requires you to work a traditional job while building on the side. That job drains your energy, pays you the same whether you hustle or coast, and gives you no ownership over anything. Faleth Capital replaces that job with something fundamentally better: contribution-based work that pays you for output, does not track your hours, generates profit share you can mint into appreciating equity, and explicitly gives you the freedom to build on the side.
-
-The idea is to start in both systems simultaneously. Build both. By the time one is generating a full-time income, the other should be as well. Once both are producing full-time income, you are ready to start a subsidiary. Your network marketing income covers Bucket One, securing your family regardless of what happens. Your dividends and profit share cover Bucket Two, funding your lifestyle while the subsidiary finds its footing. You are not betting everything on an unproven business. You are building from a position of strength, with two independent income streams already in place, each doing a different job.
-
-This is the path to wealth accessible to just about anyone. It does not mean everyone will walk it. But it lowers the barrier further than any single model can on its own. Network marketing stops being just a "quit your job" side hustle and becomes what it works best as: your true business education and your entry into wealth. And the Contribution Framework stops being just a better paycheck and becomes what it is designed to be: the launchpad for ownership.
-
-## 1.6 — The Five-Step Personal Blueprint
-
-The full vision of how this system is meant to be walked, from nothing to generational wealth, can be distilled into five sequential steps. These are not arbitrary stages. Each one builds the foundation for the next. Each one is designed to be started and developed while the previous one is still in progress.
-
-**Step 1: Start in network marketing.**
-Before anything else, start building a network marketing business. Not because it will make you rich quickly — it won’t. Because it is the only business model on earth that will pay you, from day one, to develop the skills that every other part of this system depends on: leadership, personal development, the ability to build others up, and the discipline of building a business through purely positive reinforcement. It is the foundational education. Get around the leaders, start your personal development journey. This is the part that will take the longest, as if done right, is a 2-10 year process. Start it first. 
-
-**Step 2: Maximize active income through work or a Faleth Capital subsidiary.**
-While building your network marketing business, maximize your active income; either through your current work or by joining a Faleth Capital subsidiary. This covers your living expenses, removes desperation from your decisions, and begins building Bucket Two. The no-time-clock model gives you the flexibility to work both simultaneously without one cannibalizing the other. This step shouldn't take more than a year or two.
-
-**Step 3: Build your network marketing business to full-time passive income.**
-Continue building until your network marketing income reaches a level that can fully fund Bucket One on its own — passive overrides flowing into land, index funds, and stable long-term assets regardless of what else is happening in your life. This is your floor. Once your 2-10 year process is complete, your family is covered no matter what. You can now take real risks because the downside is protected.
-
-**Step 4: Maximize active income through your own business.**
-With Bucket One secured and your foundation in place, you are ready to launch your own subsidiary under Faleth Capital. The office funds it. An existing class A member mentors you. You operate it with full autonomy under the Contribution Framework. Your network marketing income keeps Bucket One covered while the new business finds its footing. Your dividends and profit share fund Bucket Two while the subsidiary grows toward profitability.
-
-**Step 5: Grow both simultaneously and indefinitely.**
-There is no finish line. Both systems compound in parallel — the network marketing business maturing and self-replicating, the subsidiary growing and eventually generating enough income for you to step back and start another. As personal wealth accumulates, the Managed Capital Account structure manages it through the same office, the same philosophy, the same people. The system that helped you build it now stewards it. You begin mentoring the next person through Step 1.
-
-This is the path. Not everyone will walk all five steps. Not everyone needs to. But anyone can, and this system is built so that each step is accessible to someone who has completed the one before it. The barrier at every stage is effort and time, not capital or connections. That is by design.
-
-## 1.7 — The Pipeline
-
-Faleth Capital is not just a holding company. It is a pathway. The system is designed so that a person can enter from multiple starting points.
-
-**The builder's path:** A person joins any subsidiary at any level and earns contribution-based pay, builds wealth through layered profit sharing and equity, uses the freedom of the no-time-clock model to develop entrepreneurial skills on the side, and when ready, launches their own subsidiary funded and mentored by the office.
-
-**The investor's path:** A person with capital opens a Managed Capital Account, trusts the office to deploy it into the unified pool, and earns returns managed under the same philosophy that governs every subsidiary.
-
-**The customer's path:** A person uses any Faleth Capital subsidiary, refers their network through the referral program, earns credits on every dollar those referrals spend, and over time converts that income into an MCA contribution — building wealth from consumption alone.
-
-All three paths converge at the same destination: ownership, freedom, and generational wealth. The mechanics differ. The destination does not.
-
-For a participant walking the builder's path, the full sequence looks like this:
-
-1. Join any subsidiary at any level and earn contribution-based pay (Layer 2: weekly value share).
-2. Build wealth through two layers of quarterly profit sharing — one from their subsidiary, one from the family office — with the option to mint equity shares at each.
-3. Use the freedom of a no-time-clock model to build a network marketing business or other venture on the side, developing entrepreneurial skills.
-4. When ready, start their own business funded and owned by Faleth Capital, mentored by existing office members.
-5. Once that business has sustained meaningful profitability for the office over time (see Section 3.1), earn Class A membership and a seat at the table.
-6. As a member, mentor the next generation of business builders for a share of the mentoring fees, completing the cycle.
-7. As personal wealth accumulates, have the same family office manage it through the Managed Capital Account (MCA) structure — the same team, the same philosophy, the same structural safeguards, without needing to find an outside wealth manager.
-
-This is not theoretical. It is the structural intention of every mechanism described in this document. Every rule, every incentive, every allocation is designed to move people along this pipeline from contributor to owner to mentor to managed wealth. The system does not just help people build wealth. It manages it once they have it. The same office that helped you earn it can steward it for the long term.
-
-## 1.8 — The Generative Principle
-
-Every mechanism in this system — the contribution points, the elected Leads, the equity pipeline, the mentoring compensation, the Peaceful Fork — flows from a single idea that is older than business itself: equip people until they no longer need you.
-
-This is the principle of discipleship applied to economic life. A disciple who never leaves is not a disciple, they are a dependent. The entire purpose of development is to produce someone who can go do the thing on their own — and then go produce others who can do the same. The measure of a leader is not how many people report to them. It is how many people they have developed to the point of independence.
-
-The alternative is a trap for everyone involved. A leader who builds an organization that depends on them has built their own prison. They cannot step away, cannot get sick, cannot pursue anything else. Their identity fuses with their control. And the people beneath them learn, correctly, that their advancement depends on the leader's approval rather than their own capability. The result is a system that rewards loyalty over competence and presence over contribution. We reject that outcome.
-
-The Contribution Framework makes you replaceable by design. The Lead can be elected out. The subsidiary can fork. The equity decays without active involvement. Nothing in the system requires any single person to be present for it to function. That is not a weakness. That is the proof that the system is built correctly. A leader who has made themselves unnecessary has done the hardest and most valuable thing a leader can do. The system recognizes that and rewards it — through mentoring compensation, through the pipeline to ownership, and through the knowledge that what they built will outlast their involvement.
-
-This is also why the entire system is an open document. We do not want to be the only organization that operates this way. We want this to become the standard. If someone reads these documents, takes the ideas, and builds something better without Faleth Capital's name on it, that is not a loss. That is the mission working. The goal is not to build an empire. The goal is to prove that there is a better way to organize human effort, and to make that proof so undeniable and so accessible that the old model becomes indefensible.
-
-The principles are designed to propagate. The Peaceful Fork ensures that even internal disagreements produce more instances of the model, not fewer. The open constitution invites scrutiny. The frameworks are designed to be adopted, not licensed. If this system does not eventually spread beyond Faleth Capital and into the broader market, something went wrong — either in the design or in the execution. We are betting on the design.
-
-# Article II: Structure
-
-## 2.1 — The Family Office
-
-Faleth Capital is the parent holding entity. It owns all subsidiaries. It maintains the shared liquidity pool, manages the equity (share) system, collects fees from subsidiaries, distributes profit shares and dividends, and serves as the governance body for the portfolio.
-
-The office itself is designed to have minimal overhead. It is a governing body over a shared pool of capital, not an operating business. Its income comes from subsidiary fees. Its expenses should be negligible relative to the portfolio's revenue.
-
-## 2.2 — Subsidiaries
-
-Each subsidiary is technically owned by Faleth Capital but practically operated by its owner. Subsidiaries have free reign to run their business as if they were independent, with full autonomy over operations, hiring, pricing, strategy, and culture. The only structural requirements are:
-
-- Adherence to the Contribution Framework for compensation (no wages or salaries).
-- Payment of the parent company fee (see [[The Financial Framework]]).
-- Quarterly financial reporting to the office for consolidated profit calculations.
-- Participation in the shared equity system (Class B shares available to all participants).
-
-Beyond these requirements, each subsidiary governs itself. The office provides mentorship and resources — capital, operational guidance, shared vendor relationships, and the collective knowledge of its members — but does not impose operational mandates. The philosophy is simple: the people closest to the work know best how to do the work.
-
-## 2.3 — The Contribution Framework
-
-Every subsidiary operates under [[The Contribution Framework]], a process-based compensation model that replaces wages and salaries with contribution points, a gross-margin-funded team pool, a guaranteed floor, and layered quarterly profit sharing. Full mechanics — the point system, payout formulas, the Elected Lead structure, and subsidiary-level governance — are covered there.
-
-## 2.4 — Financial Structure and Equity
-
-The financial mechanics of the family office — the parent company fee, subsidiary and office-level financial flows, the 20/30/50 allocation, layered incentive alignment, structural redundancy, and the liquidity reserve policy — are detailed in [[The Financial Framework]].
-
-The equity system — share classes, the mint-and-burn mechanism, book value pricing, the dilution factor, and the Managed Capital Account (MCA) structure for external investors — is detailed in [[The Equity Framework]].
-
-# Article III: Membership
-
-## 3.1 — The Path to Membership
-
-Class A membership in Faleth Capital is earned, not granted. The pathway is:
-
-1. A participant demonstrates entrepreneurial capability, either through performance within a subsidiary or through an independent venture built alongside their contribution-based work.
-2. When ready, they propose a new business. Faleth Capital funds and owns the venture. The founder operates it with full autonomy under the Contribution Framework.
-3. An existing office member serves as their mentor throughout the process, receiving 20% of the parent company fees collected from the new subsidiary (or split evenly among multiple mentors).
-4. Once the subsidiary has been profitable for eight consecutive quarters above a material income threshold set and reviewed by the current Class A and Class B shareholders, the founder earns Class A membership.
-
-The material income threshold is deliberately not a fixed dollar figure. A number that means something today will not mean the same thing in a decade, and the threshold that makes sense for a portfolio of three subsidiaries is not the threshold that makes sense for a portfolio of thirty. The threshold is set by those who have built the office to date and reviewed at each annual conference to keep it calibrated to the actual scale of the portfolio. What does not change is the principle: a subsidiary must generate sustained, material income for the office — not a single great quarter, not a promising first year, but consistent performance over time — before its founder earns a seat at the table.
-
-**_Note:_** _The specific method for determining Class A share allocation upon membership (equal distribution, proportional to contribution, or other) is to be determined by the founding members and amended into this constitution when established._
-
-## 3.2 — Permanence and Accountability
-
-Class A membership, once earned, is permanent. Membership represents recognition of what someone built, and the system does not strip that recognition for political reasons or policy disagreements.
-
-Membership may only be revoked for specific cause, narrowly defined:
-
-- Material violation of this constitution or its framework documents.
-- Sustained, demonstrable harm to the portfolio or its participants.
-- Dereliction of the member responsibilities defined in Section 3.3 over an extended period despite direct engagement from other members.
-
-Revocation for cause requires a two-thirds supermajority vote of active Class A members and may be appealed once at the next annual conference before taking effect. A member removed for cause loses their seat in office-level governance but retains their Class B shareholdings and any mentoring relationships they had established under the terms those were agreed to.
-
-For disagreement without cause — a member who no longer trusts the direction of the office, or who finds themselves persistently at odds with how the portfolio is being run — the remedy is not political removal. It is the Peaceful Fork. A Class A member who wants to leave has a clean, honest path to take what they built and go build something with it. See [[#Article VI Separation and the Peaceful Fork|Article VI]] for the full mechanism.
-
-This distinction matters. Political removal creates exactly the kind of power dynamic the rest of the system deliberately avoids. Cause-based removal protects members from being voted out over policy disagreements while still allowing the body to address genuine harm. And the fork ensures that legitimate disagreement has a voluntary exit rather than forcing a majority to suppress a minority they can't otherwise accommodate.
-
-## 3.3 — Member Responsibilities
-
-Active members of Faleth Capital are expected to:
-
-- Participate in quarterly governance decisions and earnings calls.
-- Mentor at least one aspiring business builder at any given time, or make themselves available for mentorship when approached.
-- Operate their subsidiary in accordance with [[The Contribution Framework]] and this constitution.
-- Maintain transparent and accurate financial reporting for their subsidiary.
-- Act in the long-term interest of the portfolio, not solely in the interest of their individual subsidiary.
-
-## 3.4 — Mentoring Compensation
-
-When a member mentors a new subsidiary founder, they receive 20% of the parent company fees collected from that subsidiary for as long as the mentoring relationship is active. If multiple members co-mentor, the 20% is split evenly among them. This creates a direct financial incentive for experienced members to invest genuine time and effort into developing the next generation of builders, rather than treating mentorship as an afterthought.
-
-# Article IV: Governance
-
-## 4.1 — Office-Level Governance
-
-Faleth Capital's office-level decisions are made by Class A members. These include:
-
-- Approval of new subsidiary funding and acquisitions.
-- Amendments to this constitution.
-- Changes to the parent company fee structure.
-- Changes to the 20/30/50 allocation split.
-- Admission of new Class A members upon meeting the sustained performance threshold defined in Section 3.1.
-- Votes to revoke membership for cause as defined in Section 3.2.
-
-Decisions are made by simple majority of active Class A members unless otherwise specified in this document. Each active member has one vote regardless of their subsidiary's size or profitability.
-
-Office-level governance procedures will be formalized by the founding Class A members as the membership grows. The current framework is intentionally minimal because the first members will shape it based on real operating experience. Detailed procedural rules written before the body exists risk legislating for scenarios that may never arise while missing the ones that actually matter.
-
-## 4.2 — Subsidiary-Level Governance
-
-Each subsidiary governs itself. The subsidiary owner has operational authority, and the team collectively sets its own Contribution Framework parameters (point values, COF rate, floor amount, etc.) as described in [[The Contribution Framework]]. The office does not interfere with subsidiary operations unless the subsidiary is in violation of this constitution.
-
-_The detailed mechanics of subsidiary governance — Lead elections, the proportional election model, confidence votes, dispute resolution, and quarterly recalibration procedures — are in [[The Governance Framework]]._
-
-_The detailed mechanics of subsidiary governance — Lead elections, the proportional election model, confidence votes, dispute resolution, and quarterly recalibration procedures — are in [[The Governance Framework]]._
-
-## 4.3 — Transparency
-
-Faleth Capital operates with radical transparency. The following are open to all participants across all subsidiaries:
-
-- The office's consolidated balance sheet (quarterly).
-- The dilution factor and dividend-per-share calculation (quarterly).
-- The total Class B share count and book value per share (quarterly).
-- This constitution in its entirety (always).
-- Each subsidiary's gross and net margin performance (quarterly, in aggregate).
-
-The balance sheet is the single source of truth for share valuation. Its accuracy is not just an accounting obligation — it is a structural commitment to every person who has invested their earned profit share into equity. Clean books are non-negotiable.
-
-## 4.4 — Quarterly Earnings Call
-
-Each quarter, Faleth Capital conducts an earnings call open to all participants. The call covers:
-
-1. Consolidated financial performance across all subsidiaries.
-2. Parent company fee collections and office-level P&L.
-3. The 20/30/50 allocation: profit share amounts, dividend pool, and liquidity pool additions.
-4. Current book value per share and the dilution factor.
-5. Subsidiary-level performance summaries.
-6. Updates on new subsidiaries in development and membership pipeline.
-7. Open Q&A with Class A members.
-
-# Article V: Acquisitions
-
-Faleth Capital does not only build businesses from scratch. When an existing business and its owner align with the mission, the family office can acquire that business and bring it into the portfolio. But an acquisition is not a founding — it involves people who did not choose this system and may have families relying on the compensation structure that is about to change.
-
-The principles governing how we treat people through that transition are non-negotiable:
-
-- **No surprises.** Every person learns what is happening before anything changes.
-- **Compensation is honored.** Existing pay becomes the non-credited Minimum Pay Guarantee during transition.
-- **Observation before decision.** Every participant sees the system working in a live subsidiary before being asked to work under it.
-- **Voluntary participation.** A genuine severance package is available to anyone who opts out.
-- **Phased transition.** The business transitions in stages, not all at once.
-- **The business keeps running.** Operational continuity is non-negotiable.
-
-The full transition process — the phased sequence, the observation period, the middle management question, and the specific commitments Faleth Capital makes to every person in an acquired business — is detailed in [[The Acquisition Transition Framework]].
-
-# Article VI: Separation and the Peaceful Fork
-
-## 6.1 — Why This Article Exists
-
-Faleth Capital is built on voluntary participation. The same principles that make the system work — aligned incentives, genuine ownership, freedom to contribute on your own terms — also require that people can leave on their own terms. A system that traps people creates exactly the resentment it was designed to prevent. Forcing anyone to remain in a subsidiary or under leadership they no longer trust betrays the model’s core purpose.
-
-This is not a concession. It is a structural commitment. People who want to leave should be able to. People who stay should do so willingly.
-
-The governing insight behind everything in this article is simple: someone who doesn’t like the direction things are going is going to leave one way or another. The harder you make it for them to leave, and the more you try to take from them on the way out, the messier it gets — for them, for those who remain, and for the organization. The Peaceful Fork exists to make the clean exit so accessible that the messy one never becomes necessary.
-
-## 6.2 — Core Principles
-
-**No Trapping.** No participant, team, or Class A member may be forced to remain in any part of the system against their will. The system is built for people who choose to be here. If someone wants to leave, let them leave. If someone wants to stay, let them stay. Neither outcome requires anyone else’s permission.
-
-**Book Value as the Standard.** All separations use book value — assets minus liabilities — as the consistent, objective measure. There are no subjective multiples, no market price negotiations, no punitive discounts. The same number that governs share pricing, acquisitions, and dividend calculations governs separations. One method, applied everywhere, in every direction.
-
-**Protection of Earned Stakes.** Every participant keeps what they built. Class B shares travel with the person who earned them, regardless of which side of any fork they choose. This is non-negotiable and cannot be altered by any fork agreement.
-
-**Let People Take What They Built.** The purpose of the fork mechanism is not to minimize what departing parties receive. It is to give everyone a clean, honest path to take what they genuinely built and go build something with it. A fork handled well produces two functioning organizations. A fork handled badly produces lawyers.
-
-**The Exit Door Is the Accountability Mechanism.** At every level of the system — subsidiary and office alike — the fact that people can leave cleanly and at any time is what keeps leadership honest. Not the threat of being voted out. Not contractual obligations. The simple reality that anyone who loses confidence in the direction of the organization has a real, viable alternative that doesn’t require destroying what was built.
-
-## 6.3 — The Subsidiary Fork
-
-When a team or group within a subsidiary no longer wishes to operate under Faleth Capital, they may fork out and form an independent entity.
-
-The shape of a subsidiary fork:
-
-- Any participant or group may declare their intent to fork. No threshold, no minimum headcount, no justification required.
-- Each individual participant decides for themselves whether to leave or stay. Nobody is moved as a block without their consent. A participant who wants to stay stays. A participant who wants to leave leaves.
-- Those who stay retain the existing subsidiary, its name, its operations, and its Faleth Capital affiliation.
-- Those who leave take what they built, valued at book value. The specific assets, processes, or operations they take are determined through negotiation with those remaining.
-- Faleth Capital’s only ask is that the departing group pays back the book value of whatever they take — because that is what the shared pool deployed to build or acquire it, and the pool needs to remain intact for the builders who come next. This is not a penalty. It is simply returning what was lent. How and when that repayment happens is open to negotiation. What is not negotiable is the principle: book value in, book value out.
-- All Class B shares travel with their holders to wherever they go. They are not affected by the fork in any way.
-
-## 6.4 — The Office Fork
-
-When one or more Class A members no longer wish to operate within Faleth Capital — whether due to a disagreement in direction, a loss of confidence in leadership, or a desire to build something independent — they may fork out at the office level.
-
-The office fork operates on the same principle as the subsidiary fork, with one important difference: there is no external party to be made whole. The office pool belongs to everyone in it. When it divides, it divides. Neither side owes the other a payback, because both sides are the office.
-
-The shape of an office fork:
-
-- Any Class A member or group of Class A members may declare their intent to fork. No threshold, no justification required.
-- The subsidiaries and teams under departing members are informed and each individual — participant by participant — decides who they want to follow or whether they want to stay. Nobody moves as a block. Every person chooses.
-- The office pool — its assets, liquidity reserves, and equity — is divided by negotiation between those leaving and those staying. The default anchor for that negotiation is the book value of the subsidiaries and assets each faction is taking with them.
-- Class B shares held by departing participants are burned in the old office at current book value per share. The equivalent value is minted as Class B shares in the new office at the new office’s founding book value. The holder’s equity stake transfers cleanly. It does not disappear.
-- The new office is free to operate under the same framework, a modified version of it, or something entirely different. The principles of this constitution are not a license. They are an open invitation. If the forking group builds something better, that is the mission working.
-
-There is no minimum number of members required to trigger an office fork. There is no cooling-off period. There is no approval process. The exit door is always open because that is what makes staying meaningful.
-
-## 6.5 — The Generative Principle Applied
-
-Every fork — subsidiary or office level — produces more instances of the model rather than fewer. A team that leaves a subsidiary and builds something independently carries the framework with them into the market. A group of Class A members who fork the office start something new with the philosophy, the experience, and the equity they earned.
-
-This is not a failure mode. It is the system working exactly as designed. The goal was never to build an empire. It was to prove there is a better way to organize human effort and make that proof spread. Every fork is evidence that the model produces people capable of building independently. Every new organization that emerges from a fork is the mission propagating.
-
-The Peaceful Fork ensures that even the hardest disagreements produce more of the model, not less of it.
-
-## 6.6 — Reunification
-
-A fork is not exile. It is an honest recognition that voluntary alignment no longer exists under the current structure. If circumstances change, trust is restored, or purpose realigns, previously separated parties may choose to reunify through a new agreement.
-
-Reunification should be treated the same way separation is treated: by consent, by book value, by transparent accounting, and without humiliation. The goal is not to make leaving shameful or returning politically expensive. The goal is to keep alignment real. If the parties are stronger together again, they should be free to become together again.
-# Article VII: Amendments
-
-This constitution may be amended by a two-thirds majority vote of active Class A members. Proposed amendments must be distributed to all Class A members at least 30 days before the vote. Amendments take effect at the start of the following quarter.
-
-The following provisions may not be amended:
-
-- The prohibition on wages and salaries within subsidiaries (Article II, Section 2.3).
-- The requirement that Class B shares can only be acquired through earned profit share or dividends (see [[The Equity Framework]]).
-- The transparency requirements (Article IV, Section 4.3).
-- The mint-and-burn mechanism for Class B shares (see [[The Equity Framework]]).
-- The right of any Class B shareholder to cash out at book value at any time (see [[The Equity Framework]]).
-- The liquidity reserve policy requiring liquid capital equivalent to combined subsidiary balance sheets (see [[The Financial Framework]]).
-- The five core principles of the Separation and Peaceful Fork mechanism: no trapping, book value as the standard, protection of earned stakes, the right to take what you built, and the exit door as the accountability mechanism (Article VI, Section 6.2).
-
-These provisions are foundational to the identity and integrity of Faleth Capital. They represent commitments to every person who participates in the system. They are not subject to change by majority vote.
-
-# Article VIII: What This Is For
-
-This is not a corporate charter designed to protect shareholders from liability. Lawyers will handle that paperwork separately. This is something different.
-
-This is the document that says what we believe, how we operate, and what we will not compromise on. It is the thing we hand someone when they ask what Faleth Capital actually is. It is the thing we refer back to when we disagree about direction. It is the thing that keeps us honest when it would be easier or more profitable in the short term to cut corners.
-
-The wage and salary model has had centuries to prove itself. It has produced a world where most people spend the majority of their waking hours doing work they do not care about, for compensation that does not reflect their contribution, under conditions that do not respect their autonomy. We believe that is not a law of nature. It is a design flaw. And design flaws can be fixed.
-
-This document is our fix. It is a draft. It will evolve. But the principles will not.
-
-One thing worth noting: the layers of this system — contribution-based pay, subsidiary profit sharing, office-level profit sharing, dividends, network marketing, the two buckets — were each designed to solve a specific, separate problem. None of them were designed as backups for the others. But because each was built honestly, they naturally create redundancy. The safety in this system was not bolted on. It emerged from the structure itself. We take that as evidence that the architecture is right.
-
-_The principles are permanent. The parameters are not. This constitution evolves through the collective judgment of its members, within the boundaries of what cannot be changed._
+Different mechanics, one destination: ownership, freedom, and wealth that outlasts you. What walking any of them actually looks like is Article VIII.
 
 ---
 
-# Article IX: A Personal Note
+# Article II: Structure
+
+## 2.1 — The Office
+
+Faleth Capital is the parent entity. It owns the subsidiaries, holds the shared liquidity pool, manages the share system, collects fees, distributes profit share and dividends, and governs the portfolio.
+
+It is deliberately thin. The office is a governing body over a pool of capital, not an operating business. Its income is the fee its subsidiaries pay, and its expenses should stay negligible against the portfolio's revenue. Nothing about it is designed to grow into a headquarters.
+
+## 2.2 — Subsidiaries
+
+Each subsidiary is owned by Faleth Capital and run by its own people. They operate as though independent — full autonomy over hiring, pricing, strategy, and culture — subject to four requirements: compensate under the Contribution Framework rather than with wages or salaries, pay the office fee, report financials quarterly, and make Class B shares available to everyone who participates.
+
+Beyond that, each governs itself. The office supplies capital, mentorship, and whatever the collective knowledge of its members is worth, and imposes nothing operational. The people closest to the work know best how to do the work.
+
+As a subsidiary outgrows a single team, it divides into **cells** — small, self-governing teams built around a chunk of the workflow, each running the same system internally and meeting its neighbors through interfaces they negotiate themselves ([[The Cell Framework]]).
+
+## 2.3 — How People Are Paid
+
+No wages. No salaries. No time clock.
+
+Work is broken into processes, each carrying a point value the team itself sets. People earn from a pool funded by the gross margin of the work they touched, in proportion to the points they earned on it. Beneath that sits a guaranteed floor, so nobody operates from survival anxiety. Above it sits quarterly profit sharing, tying a growing share of income to the long-term health of the business rather than to this week's output.
+
+The full mechanics — the point system, the floor, the layers, and how a team calibrates its own parameters — are in [[The Contribution Framework]].
+
+## 2.4 — Ownership and Money
+
+Two share classes and one account structure carry ownership. **Class A** is governance without financial ownership: the vote at the office, held by members who earned it. **Class B** is financial ownership without governance: dividends, no vote, minted only from earned profit share. A **Managed Capital Account** is neither — outside capital placed with the office for a return, with no claim on the firm itself.
+
+Everything prices at book value, always, in every direction. The full equity mechanics are in [[The Equity Framework]], and how money moves through the system is in [[The Financial Framework]].
+
+---
+
+# Article III: Membership
+
+## 3.1 — Earning a Seat
+
+Class A membership is earned, never granted.
+
+A participant demonstrates they can build — through performance inside a subsidiary, through a venture of their own, or both. When ready, they propose a business. The office funds and owns it; they run it with full autonomy. An existing member mentors them throughout, compensated out of the office fee for as long as the mentorship lasts ([[The Financial Framework]]).
+
+Once that subsidiary has been profitable for **eight consecutive quarters** above a material income threshold, its founder earns Class A membership.
+
+That threshold is deliberately not a fixed dollar figure. A number that means something today won't mean the same in a decade, and what counts as material for a portfolio of three subsidiaries isn't material for a portfolio of thirty. It's set by the members who built the office to date and reviewed each year. What doesn't change is the principle: a subsidiary must produce sustained, material income for the office — not one good quarter, not a promising first year — before its founder takes a seat.
+
+## 3.2 — Permanence
+
+Membership, once earned, is permanent. It recognizes what someone built, and that recognition isn't stripped over disagreement.
+
+It may be revoked only for cause, narrowly defined: material violation of this constitution or its frameworks, sustained and demonstrable harm to the portfolio or its people, or prolonged dereliction of the responsibilities below despite direct engagement from other members. Revocation requires a two-thirds supermajority of active members and may be appealed once at the next annual conference. A member removed for cause loses their seat but keeps their Class B shares and any mentoring relationships on the terms already agreed.
+
+For disagreement without cause — a member who no longer trusts the direction, or who finds themselves persistently at odds with how the portfolio is run — the remedy is not removal. It's the fork in Article V. Political removal would create precisely the power dynamic the rest of this system exists to avoid. Cause-based removal protects members from being voted out over policy while still letting the body address real harm. And the fork gives legitimate disagreement a door, rather than forcing a majority to suppress a minority it cannot otherwise accommodate.
+
+## 3.3 — What Members Owe
+
+Active members participate in quarterly governance and earnings calls. They mentor at least one aspiring builder, or make themselves available to. They run their subsidiary in accordance with this constitution and the frameworks, keep their financial reporting accurate and open, and act in the interest of the whole portfolio rather than only their own corner of it.
+
+---
+
+# Article IV: Governance
+
+## 4.1 — At the Office
+
+Office-level decisions belong to Class A members: approving new subsidiary funding and acquisitions, amending this constitution, changing the office fee structure or the allocation split, admitting new members who have met the threshold in Article III, and revoking membership for cause.
+
+Decisions carry by simple majority of active members unless this document says otherwise. Each member holds one vote regardless of how large or profitable their subsidiary is.
+
+Procedure beyond that is deliberately unwritten. The first members will shape it from real operating experience, and detailed rules drafted before the body exists would legislate for situations that never arise while missing the ones that do.
+
+## 4.2 — At the Subsidiary
+
+Each subsidiary governs itself. The team sets its own parameters — point values, the rate that funds the pool, the floor — and elects its own leadership. The office doesn't interfere unless a subsidiary is violating this constitution.
+
+Leadership is elected and removable, never appointed. Nobody holds standing to override the people doing the work on the things that decide their own pay. The mechanics — elections, dispute resolution, quarterly calibration, and the executive seat — are in [[The Governance Framework]].
+
+## 4.3 — Transparency
+
+Radical transparency isn't a value we admire, it's an operating requirement. Open to every participant across every subsidiary, quarterly: the office's consolidated balance sheet, the dilution factor and dividend per share, the total Class B share count and book value per share, and each subsidiary's margin performance in aggregate — plus this constitution, always.
+
+The balance sheet is the single source of truth for what a share is worth. Its accuracy isn't an accounting obligation, it's a structural commitment to every person who converted earned profit share into equity. Whoever's numbers are wrong is responsible for them — a cell's to its Leads, a subsidiary's to its executive team. Clean books are non-negotiable.
+
+## 4.4 — The Quarterly Earnings Call
+
+Every quarter, the office holds a call open to every participant. It covers consolidated performance, fee collections and the office's own P&L, the allocation of what the pool gained, book value per share and the dilution factor, subsidiary summaries, what's in the pipeline, and open questions to Class A members.
+
+It happens alongside the distribution of profit share and dividends, which is deliberate. The day people are paid is the day they should also be told exactly how the number was reached.
+
+---
+
+# Article V: Separation and the Peaceful Fork
+
+## 5.1 — Why This Exists
+
+Everything above rests on voluntary participation, and voluntary means people can leave. A system that traps people manufactures the resentment it was built to prevent, and forcing anyone to stay under leadership they no longer trust betrays the whole point.
+
+The governing insight is simple: someone who dislikes the direction is going to leave one way or another. The harder you make leaving, and the more you try to take from them on the way out, the messier it gets — for them, for the people who remain, and for the organization. The Peaceful Fork exists to make the clean exit so accessible that the ugly one never becomes necessary.
+
+This is also what makes Article IV mean anything. Elections and votes are the ordinary machinery of accountability. The exit door is the ultimate one.
+
+## 5.2 — The Principles
+
+**No trapping.** No participant, team, or member may be forced to remain in any part of this system. If someone wants to leave, let them leave. If someone wants to stay, let them stay. Neither requires anyone else's permission.
+
+**Book value, in every direction.** All separations use book value — assets minus liabilities. No subjective multiples, no negotiated market price, no punitive discounts. The same number that prices shares, acquisitions, and dividends prices separations. One method, applied everywhere, in both directions.
+
+**Earned stakes travel.** Class B shares go with the person who earned them, whichever side of a fork they choose. This cannot be altered by any fork agreement.
+
+**Preserve value rather than destroy it.** Incompatibility isn't worthlessness. A team can build something genuinely good and still stop fitting the structure around it, and the answer to that is never to break what was made. Preserve first, restructure second, separate third, and destroy only when there's no other option left. A fork handled well produces two functioning organizations. A fork handled badly produces lawyers.
+
+## 5.3 — How a Fork Works
+
+The same shape applies at every level, with one difference that matters.
+
+**Cells and subsidiaries owe book value upward.** Any participant or group may declare an intent to fork — no threshold, no minimum headcount, no justification required. Each person decides individually whether to go or stay; nobody moves as a block without consenting to it. Those who stay keep the existing entity, its name, and its affiliation. Those who leave take what they built, valued at book, and pay that book value to whatever sits above them. That isn't a penalty. It's returning what the shared pool deployed to build the thing, so the pool stays intact for the builders who come next. How and when it's repaid is negotiable. That it's repaid is not.
+
+**The office is the exception**, because there's nothing above it. When Class A members fork the office, there's no external party to be made whole — the pool belongs to everyone in it, so when it divides, it simply divides. Neither side owes the other, because both sides *are* the office. The pool is split by negotiation, anchored on the book value of the subsidiaries and assets each side takes. Class B shares held by departing participants are burned in the old office at current book value and minted fresh in the new one at its founding book value, so the stake transfers rather than evaporating.
+
+No minimum number of members triggers a fork. No cooling-off period, no approval process. The door is always open, which is exactly what makes staying meaningful.
+
+## 5.4 — Coming Back
+
+A fork is not exile. It's an honest acknowledgment that voluntary alignment stopped existing under the current arrangement — and circumstances change, trust gets rebuilt, purpose realigns.
+
+Anyone who left may come back through the same mechanism they used to leave: by consent, at book value, with transparent accounting and without humiliation. Book value in, book value out, in both directions. Offices running the same system can merge as readily as they split, and so can subsidiaries and cells.
+
+The goal was never to make leaving shameful or returning expensive. It's to keep alignment real. If parties are stronger together again, they should be free to become together again.
+
+---
+
+# Article VI: Acquisitions
+
+Faleth Capital doesn't only build businesses from scratch. When an existing business and the person running it align with the mission, the office can buy it and bring it into the portfolio.
+
+But acquiring isn't founding. An acquired company contains people who didn't choose this — who chose a job, under a boss, with a paycheck their family may depend on. How they are treated through that transition is not negotiable. Nobody is surprised. Existing compensation is honored. Everyone sees the system working in a live subsidiary before being asked to work in it. Anyone who decides it isn't for them leaves with a real severance and help finding their next place. And the transition moves in stages, at a pace that respects both the business and the people inside it.
+
+The full sequence is in [[The Acquisition Transition Framework]].
+
+---
+
+# Article VII: Amendments
+
+This constitution may be amended by a two-thirds majority of active Class A members. Proposals reach every member at least thirty days before the vote, and amendments take effect at the start of the following quarter.
+
+Some things cannot be amended at all:
+
+- The prohibition on wages and salaries inside subsidiaries.
+- That Class B shares can only be acquired through earned profit share or reinvested dividends.
+- The transparency requirements in Article IV.
+- The mint-and-burn mechanism, and the right of any Class B holder to cash out at book value at any time.
+- The liquidity reserve policy — liquid capital held equivalent to the combined book value of the operating subsidiaries.
+- The principles of separation in Article V: no trapping, book value in every direction, earned stakes traveling with the person who earned them, preserving value over destroying it, and the exit door as the ultimate accountability.
+
+These aren't policy positions. They are commitments to every person who participates, and they're what a majority vote exists to protect rather than to overturn.
+
+---
+
+# Article VIII: The Path
+
+Everything to this point describes why we do what we do and how the organization is built to do it. None of it says what any of that means for one person — practically, week to week, across a working life.
+
+This is that part. What participating actually looks like, what it can compound into over time, and the mindset we ask people to carry if they want the system working *for* them rather than merely around them.
+
+Fair warning: this is the most demanding section in the document. Not because the mechanics are complicated, but because it asks you to think about money in a way most of us were never taught to. Everything before this was the machinery. This is what the machinery is for.
+
+## 8.1 — The One-Third Rule and the Two Buckets
+
+Two philosophies sit underneath everything else.
+
+The first comes from the Talmud: divide your wealth into thirds — one in land, one in business, one in liquid capital. The Talmud also teaches families to pool their liquid capital, traditionally about ten of them, so that when one member is ready to build, the pool funds them at zero interest, knowing the returns will replenish it for the next builder. Mutual investment, long horizons, and the understanding that collective prosperity compounds faster than individual ambition.
+
+Faleth Capital systematizes that. **The office covers two of the three thirds** — business and liquid capital — by holding liquid reserves equivalent to the book value of its operating subsidiaries. That's the reserve policy from Article VII seen from the other side: not a risk rule, but the office holding up two thirds of somebody else's structure. **The third, land, belongs to the individual.**
+
+Which is where the second philosophy comes in: think of personal finances as two buckets. **Bucket One is the safety net**, untouched and invested in land, real estate, index funds, bonds — the individual's land third, growing quietly so that no decision ever has to be made from fear. **Bucket Two is active income**: contribution pay, profit share, dividends. Because Bucket One is secure and growing, Bucket Two can afford to be aggressive.
+
+Filling both is a sequence, and it takes years. Here is the shape of it.
+
+## 8.2 — Filling Bucket One
+
+Our recommended method of filling Bucket One is to build a network marketing business alongside everything else. If you've never encountered one, here's what it is.
+
+You build a network of people who move a product, and you earn a percentage of what that network moves. You aren't paid for recruiting anyone — you're paid for volume, which means you're paid for teaching others to sell, and then for teaching them to teach. It's the only business model we know of that compensates you directly for making someone else successful.
+
+That's why it sits at the center of this. Everything in this document rests on the conviction that developing people until they no longer need you is the whole job of leadership, and network marketing is the one place that conviction is written into the compensation itself. You hold no leverage over anyone in it. You can't fire them, can't withhold a paycheck, and they stay only as long as they choose to — a purely voluntary army, which is exactly what a Faleth subsidiary is.
+
+Built the right way, that means training, mentoring, and developing people to the point they can sell, recruit, and build teams without needing you. Built the wrong way — recruiting for the sake of recruiting, with no care or attention paid to adding value to the lives of individual contributors, focused only on adding numbers — it becomes the thing onlookers often criticize. The difference isn't the model. It's whether you're building people or collecting them.
+
+The two are symbiotic rather than adjacent. One needs time and patience to build; the other is designed to supply both. What that combination produces comes after the sequence, once you can see where each piece lands.
+
+## 8.3 — The Five Steps
+
+Five steps, each begun while the previous one is still underway.
+
+**One: start in network marketing.** It's the longest step, often two to ten years, and it pays from day one in the currency everything else depends on — leadership, personal development, and the discipline of building through purely positive reinforcement. Start it first.
+
+**Two: maximize active income**, through current work or a Faleth subsidiary. This covers living expenses, removes desperation from decisions, and begins Bucket Two. The no-time-clock model is what makes running both at once possible.
+
+**Three: build the network to full-time**, until what it pays can fund Bucket One on its own. That's the floor under everything else, and once it exists, real risk becomes affordable because the downside is already covered.
+
+**Four: build your own.** With Bucket One secured, propose a subsidiary. The office funds it, a member mentors it, and it runs under the frameworks with full autonomy. Network marketing keeps Bucket One covered while the business finds its footing, and profit share and dividends keep Bucket Two running through the unprofitable early years — which is precisely what makes those years survivable rather than desperate.
+
+**Five: grow both, indefinitely.** There's no finish line. The network matures and self-replicates, the subsidiary grows until you can step back and start another, and eight consecutive quarters of material profit earns a seat at the office. Accumulated wealth is then managed through that same office, under the same philosophy, by the same people. And you begin mentoring the next person through Step One — paid for it, because this system pays people to make themselves unnecessary.
+
+Not everyone will walk all five, and not everyone needs to. But each step is reachable by someone who finished the one before it, and the barrier at every stage is effort and time rather than capital or connections. That is the entire design.
+
+## 8.4 — Why Three Streams
+
+That sequence isn't arbitrary. Here is the mechanism it's built around, and it is the reason this whole system exists.
+
+Investing compounds only if you leave it alone. Live on what a pile of capital returns and the pile never moves — you've bought an income, not a growing asset, and the only way out is living on less than it produces.
+
+Now feed that pile from something that compounds on its own. That is exactly what a network built properly does: developing people to the point they no longer need you means the income grows as you step back rather than lean in. Point one at the other and the arithmetic changes shape. Bucket One grows from its own returns *and* from a stream that is itself expanding — compounding on top of compounding, without you. That's the intent: not an income, but a vehicle that builds itself.
+
+One thing stands in the way. Routing that income into the bucket means not spending it, and you still have to eat. The traditional job is supposed to answer that and instead makes it worse, for the reasons this document opened with.
+
+Faleth Capital exists to be the other kind of job — one that pays for output, asks nothing of your calendar, and hands over equity that keeps compounding after you leave. An income a builder can hold *while* building.
+
+The maximal outcome isn't required. Most won't reach the exponential version, and a modest steady feed still raises the floor every year.
+
+Three streams, three jobs. Bucket One's returns are the floor, network marketing is the engine that raises it, and Faleth income buys the time to build both. The timing even has its own symmetry: dividends run strongest early, while someone is actively contributing and minting shares, exactly when a network is weakest and still being built. Later, as they step back from subsidiary work, dividends thin through dilution while the network matures and compounds without them. One decays without involvement, the other grows without it. They cross in the middle, and whoever built both never has a gap.
+
+**On the three streams as a standard.** Network marketing income filling Bucket One, its returns covering the floor, and Faleth income covering life — that's what we look for in someone who wants to found a subsidiary. Not as a checklist, but because each stream produces a specific shift in how a person makes decisions. Someone whose family is covered regardless of outcome negotiates differently, hires differently, and thinks in longer arcs. That is the fruit we're after. It can ripen other ways, and exceptions are warranted when someone demonstrates the same fruit by another road. We stay open on the form and steadfast on the substance.
+
+---
+
+# Article IX: What This Is For
+
+This is not a corporate charter written to shield shareholders from liability. Lawyers handle that paperwork separately. This is the document that says what we believe, how we operate, and what we will not compromise on — the thing we hand someone who asks what Faleth Capital actually is, the thing we return to when we disagree about direction, and the thing that keeps us honest when cutting a corner would be easier or more profitable in the short term.
+
+The wage and salary model has had centuries to prove itself. It produced a world where most people spend the majority of their waking hours doing work they don't care about, for compensation that doesn't reflect their contribution, under conditions that don't respect their autonomy. That is not a law of nature. It's a design flaw, and design flaws can be fixed.
+
+But if you take only one idea from this document, take this one, because every mechanism in it is downstream of a single conviction: **equip people until they no longer need you.**
+
+That is discipleship applied to economic life. A disciple who never leaves isn't a disciple, they're a dependent. The whole purpose of developing someone is to produce a person who can do the thing alone — and then produce others who can do the same. The measure of a leader isn't how many people report to them. It's how many they've developed to the point of independence.
+
+The alternative traps everyone in it. A leader who builds an organization that depends on them has built their own prison: they can't step away, can't get sick, can't pursue anything else, and their identity fuses with their control. The people under them learn, correctly, that advancement depends on approval rather than capability. That system rewards loyalty over competence and presence over contribution, and we reject the outcome along with the structure that produces it.
+
+So read the rest of this document again with that in mind, because it explains every choice in it. Leads are elected and removable. Cells split when the people in them decide to. Equity decays without active involvement. Anyone can fork out and take what they built. Mentors are paid to make founders independent, and founders are paid to make their teams independent. Nothing here requires any single person to be present for it to function — which is the proof it was built correctly, not a weakness in it.
+
+It's also why this document is open. We don't want to be the only organization that works this way. If someone reads these frameworks, takes the ideas, and builds something better without our name on it, that isn't a loss — that's the mission working. The goal was never to build an empire. It was to prove there is a better way to organize human effort, and to make that proof so accessible that the old model becomes indefensible.
+
+*The principles are permanent. The parameters are not. This constitution evolves through the collective judgment of its members, within the boundaries of what cannot be changed.*
+
+---
+
+# Article X: A Personal Note
 
 _This article is written in my own voice. It is not governance. It is not policy. It is the reason behind everything that came before it._
 
@@ -457,16 +335,17 @@ Thank you.
 God bless.
 
 — Lyle
+
 ---
 
 ## Framework Documents
 
-The operational mechanics of Faleth Capital are detailed in the following companion documents:
+The operating mechanics live in the following companion documents:
 
-- [[The Contribution Framework]] — Process-based compensation, contribution points, the Elected Lead, subsidiary-level governance
-- [[The Governance Framework]] — Lead elections, the proportional election model, dispute resolution, and quarterly recalibration procedures
-- [[The Financial Framework]] — Parent company fees, subsidiary and office financial flows, the 20/30/50 allocation, structural redundancy, liquidity reserve
-- [[The Equity Framework]] — Share classes, mint-and-burn mechanics, book value pricing, dilution factor, Managed Capital Account structure
-- [[The Cell Framework]] — How subsidiaries organize into modular, self-governing cells as they scale beyond a single team
-- [[The Acquisition Transition Framework]] — How existing businesses are brought into the portfolio with dignity and voluntary participation
-- [[The Marketing and Brand Framework]] — The referral program, the Prosumer principle, brand standards, and how customers can enter the wealth-building pipeline
+- [[The Contribution Framework]] — Process-based pay, contribution points, the floor, and the three layers
+- [[The Governance Framework]] — Elections, the executive seat, dispute resolution, and quarterly calibration
+- [[The Cell Framework]] — How subsidiaries divide into modular, self-governing cells as they scale
+- [[The Financial Framework]] — The office fee, subsidiary and office flows, the quarterly snapshot, and the reserve policy
+- [[The Equity Framework]] — Share classes, mint-and-burn, book value, the dilution factor, and Managed Capital Accounts
+- [[The Marketing and Brand Framework]] — The referral program, the Prosumer principle, and brand standards
+- [[The Acquisition Transition Framework]] — How existing businesses join the portfolio with dignity and voluntary participation
