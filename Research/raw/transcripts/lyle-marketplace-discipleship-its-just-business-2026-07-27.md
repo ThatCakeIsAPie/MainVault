@@ -2,6 +2,7 @@
 title: Lyle — Marketplace Discipleship and “It’s Just Business”
 created: 2026-07-27
 updated: 2026-07-27
+ingested: 2026-07-27
 type: transcript
 tags: [faleth, discipleship, marketplace, leadership, business-ethics]
 source_url: conversation://telegram/2026-07-27/marketplace-discipleship
