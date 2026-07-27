@@ -15,6 +15,8 @@ confidence: high
 
 Faleth treats a business as a network rather than a wall separating insiders from customers. Workers create and fulfill value. Investors supply deployable capital. Customers fund the system and can expand it through advocacy and referrals. These are different inputs, but each can create measurable economic value.
 
+At the root of the customer relationship is reciprocal gift-giving. The business organizes people to improve the customer's life; the customer returns value through money, a portable gift the provider can exchange for other needs. Customer participation is therefore not extraction from an outside party but one side of a mutually valuable act—provided the customer genuinely benefits.
+
 Traditional businesses commonly pay ad platforms and salespeople for acquisition while treating customer advocacy as free. Faleth applies the same contribution logic to customers that it applies to participants: referral value belongs on the acquisition line, and the person who created it should share in it.
 
 This creates three ownership paths:
@@ -49,3 +51,4 @@ Value sharing follows measurable economics, not vague participation. Programs mu
 - [[Business/Faleth Capital/The Contribution Framework]]
 - [[Business/Faleth Capital/The Equity Framework]]
 - [[Business/Faleth Capital/The Financial Framework]]
+- [[raw/transcripts/lyle-business-as-organized-service-reciprocal-gift-and-joy-2026-07-27]]

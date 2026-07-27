@@ -26,7 +26,7 @@
 ## Concepts
 
 **Foundational Principles**
-- [[foundational/equip-people-until-they-no-longer-need-you]] — Faleth's marketplace commandment: every industry should develop independent builders rather than permanent dependents.
+- [[foundational/equip-people-until-they-no-longer-need-you]] — Faleth's marketplace commandment: business as joyful service should develop independent builders rather than permanent dependents.
 - [[foundational/faleth-capital-economic-philosophy]] — The philosophical foundation underlying [[faleth-capital]]'s structure.
 - [[foundational/five-step-sequencing-model]] — Lyle's framework for sequencing major life/business commitments rather than pursuing them simultaneously.
 - [[foundational/network-marketing-as-leadership-development-system]] — Network marketing, when approached seriously, functions primarily as a leadership development system rather than just a product distribution model.

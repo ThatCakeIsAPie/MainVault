@@ -569,3 +569,12 @@
 - Added the explicit opposition to “it's just business” as moral evasion that places money above responsibility for people.
 - Added Lyle's attraction to network marketing's discipleship dynamics and his frustration that they remain trapped in sales and marketing rather than spreading across the marketplace.
 - Updated the apex principle, Faleth economic philosophy, operating synthesis, and index.
+
+## [2026-07-27] update | Business as organized service, reciprocal gift, and joy
+
+- Preserved Lyle's exact Telegram refinement at `raw/transcripts/lyle-business-as-organized-service-reciprocal-gift-and-joy-2026-07-27.md` with SHA-256 provenance.
+- Extended the Faleth apex from moral accountability to a positive theology of enterprise: business done rightly is organized service at scale and one of the greatest expressions of human joy.
+- Captured money as the customer's portable reciprocal gift rather than the purpose of the exchange.
+- Added the failure mode: making money the sole object removes the joy of improving other people's lives even when revenue remains.
+- Added a boundary condition distinguishing genuinely voluntary, beneficial exchange from revenue produced through coercion, deception, addiction, monopoly leverage, or manufactured dependence.
+- Updated the apex principle, economic philosophy, operating synthesis, customer value-sharing principle, and index.

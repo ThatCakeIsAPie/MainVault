@@ -9,7 +9,7 @@ confidence: high
 
 # Faleth Capital Economic Philosophy
 
-Faleth Capital is an attempt to build economic institutions that strengthen individual agency through voluntary alignment, shared upside, transparent mechanics, and ownership that compounds beyond active labor.
+Faleth Capital is an attempt to build economic institutions that strengthen individual agency through voluntary alignment, shared upside, transparent mechanics, and ownership that compounds beyond active labor. Its positive vision is that business done rightly is organized service at scale—and therefore one of the greatest expressions of human joy.
 
 ## Apex
 
@@ -39,6 +39,14 @@ The system is intended as a reflection of grace received rather than a mechanism
 This is also Lyle's direct rejection of **“it's just business.”** He sees that phrase as moral evasion: a way to treat harm or indifference as acceptable once money is involved. Faleth's counterclaim is that business remains a human relationship under moral responsibility. Profit is evidence and fuel, not permission to stop caring about the people affected.
 
 Network marketing supplied the clearest working glimpse of this dynamic because its best compensation structures reward leaders for developing people who can reproduce results without them. Faleth's purpose is to free that discipleship mechanic from the sales-and-marketing silo and apply it to the entire marketplace.
+
+## Service, Reciprocity, and Joy
+
+The fundamental commercial act is one person improving another person's life and the recipient reciprocating with money—a portable claim the provider can use to meet nearly any need. A business is simply an organization of people repeating that exchange at larger scale.
+
+The provider gives an act of service or a useful gift. The customer gives a gift back in the form of money. Done voluntarily and honestly, neither side is reduced by the exchange: each receives value and each has the satisfaction of giving value.
+
+Profit matters because it measures, sustains, and scales the organization's ability to serve. But when money becomes the only object, the organization mistakes the receipt for the purpose and cuts itself off from the deepest reward of enterprise: seeing other people's lives become better because of what it built.
 
 ## Economic Architecture
 
@@ -79,3 +87,4 @@ If not, the mechanism may carry Faleth vocabulary without carrying Faleth's phil
 - [[Business/Faleth Capital/The Acquisition Transition Framework]]
 - [[Business/Faleth Capital/Beyond the Wage]]
 - [[raw/transcripts/lyle-marketplace-discipleship-its-just-business-2026-07-27]]
+- [[raw/transcripts/lyle-business-as-organized-service-reciprocal-gift-and-joy-2026-07-27]]
