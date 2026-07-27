@@ -526,3 +526,28 @@
 - Threshold decisions: the two linked OBLITERATUS posts jointly cleared the durable-page threshold; the DGX Spark post updated an existing cost/speed page rather than spawning hardware-news clutter.
 - Verification context: the upstream AGPL-3.0 OBLITERATUS repository and README were inspected; its benchmark and capability-preservation statements remain project claims. General web search was unavailable because the configured provider had exhausted credits.
 - Ledger target after successful file/hash verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+3 IDs).
+
+## [2026-07-27] ingest | X bookmarks daily batch (9)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-27T053015Z.json`).
+- Fetched 50; already in ledger 41; new **9**; processed **9**; truncated remainder 0.
+- Raw created:
+  - `raw/x-bookmarks/2026-07-26/2081514215291109879.md` — Huberman claim that sustained attention is trainable.
+  - `raw/x-bookmarks/2026-07-26/2081290423759245499.md` — AI/solitude meme; video text recovered by frame OCR.
+  - `raw/x-bookmarks/2026-07-26/2081457136966484268.md` — incomplete funeral/obedience story hook.
+  - `raw/x-bookmarks/2026-07-26/2081486469521416213.md` — C. S. Lewis argument-from-reason image; text recovered by OCR.
+  - `raw/x-bookmarks/2026-07-26/2081408374315602338.md` — voice-controlled, always-on headquarters workflow.
+  - `raw/x-bookmarks/2026-07-25/2080955069755711878.md` — Nemotron 3 Nano Omni NVFP4 / DGX Spark deployment claim.
+  - `raw/x-bookmarks/2026-07-26/2081347811140841487.md` — Qwen3.6-27B quantization-to-hardware deployment map.
+  - `raw/x-bookmarks/2026-07-24/2080645121096241521.md` — GLM-5.2 Fast throughput/pricing signal; video inspected with frame OCR.
+  - `raw/x-bookmarks/2026-07-25/2081077962682835074.md` — reply-led early X audience-growth claim.
+- Wiki created:
+  - `faleth/content/reply-led-audience-discovery-2026.md` — substantive replies as discovery and market-learning, with measurement and survivorship-bias caveats.
+- Wiki updated:
+  - `faleth/process/delta-phone-interface-grok-voice-hermes-2026.md` — added mobility/capture use case and bounded voice-task fit; normalized tags to the schema taxonomy.
+  - `faleth/process/frontier-model-cost-speed-tradeoff-2026.md` — added model-format-runtime-hardware fit as part of deployment quality.
+  - `index.md` — listed the new reply-led audience page and bumped the updated date.
+  - `log.md` — this ingest record.
+- Raw-only/skipped wiki: Huberman focus advice lacked primary evidence; the solitude clip was motivational; the funeral story was incomplete engagement bait; the Lewis image was a single attributed quote without source verification. These did not clear the durable-page threshold.
+- Verification context: full Note Tweet text, referenced posts, and media URLs were recovered through the official X API; two images and two short videos were inspected locally with OCR/frame extraction.
+- Ledger target after successful file/hash and wiki verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+9 IDs).

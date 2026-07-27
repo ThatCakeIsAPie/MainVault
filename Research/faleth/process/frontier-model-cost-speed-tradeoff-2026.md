@@ -1,7 +1,7 @@
 ---
 title: Frontier Model Cost-Speed Tradeoff (SWE-1.7 signal, 2026)
 created: 2026-07-09
-updated: 2026-07-26
+updated: 2026-07-27
 type: principle
 tags: [ai, llm, inference, strategy, systems, leverage]
 sources:
@@ -14,6 +14,9 @@ sources:
   - research/raw/transcripts/lyle-x-share-2079256616407273801
   - raw/x-bookmarks/2026-07-22/2079993729532989500.md
   - raw/x-bookmarks/2026-07-25/2081030730197385304.md
+  - raw/x-bookmarks/2026-07-24/2080645121096241521.md
+  - raw/x-bookmarks/2026-07-25/2080955069755711878.md
+  - raw/x-bookmarks/2026-07-26/2081347811140841487.md
 confidence: medium
 ---
 
@@ -60,6 +63,16 @@ See [[faleth/process/agent-swarm-coordination-context-economics-2026]] for the f
 Cursor announced a task-aware router that chooses a model based on the request rather than forcing users to select one model globally. Its launch video illustrates a hard-debug task being sent to Opus 4.8, shows **$1.38 per commit** for the router, and claims frontier-quality results at **60% lower cost**.
 
 The durable shift is from a static “best model” setting to a **routing policy**: estimate task difficulty and constraints, choose the cheapest model likely to clear the acceptance bar, then verify the result. The claimed percentage and quality parity remain vendor-reported because the post supplies no benchmark protocol. For Hermes, routing should be evaluated on accepted-result cost, wall time, retry rate, and failures—not a pretty blended average that quietly sends the ugly cases into a ditch. [[raw/x-bookmarks/2026-07-22/2079993729532989500]]
+
+## Deployment fit is part of model quality (2026-07-24–26)
+
+Three operator/vendor posts reinforce that a model name is not a complete deployment decision:
+
+- Baseten's GLM-5.2 Fast launch claims a 2–3× throughput tier; MiaAI_lab reports **270+ tok/s** and the captured playground showed **$2.10/M input, $0.21/M cached input, and $6.60/M output**. Those are vendor/social signals rather than an independently reproduced benchmark. [[raw/x-bookmarks/2026-07-24/2080645121096241521]]
+- A Nemotron 3 Nano Omni user highlights a multimodal sparse model packaged as NVFP4 for native GB10/vLLM use on one DGX Spark. The valuable signal is hardware-format fit—multimodal capability that actually fits and runs on the target box—not the unverified “favorite” label or quoted throughput. [[raw/x-bookmarks/2026-07-25/2080955069755711878]]
+- MiaAI_lab maps different Qwen3.6-27B quantizations to RTX 3090, RTX 5090, dual-GPU, and DGX Spark/RTX 6000 Pro configurations. This is a useful deployment recipe, but “one of the best local coding models” and “near-lossless” remain source claims until tested on Lyle's workloads. [[raw/x-bookmarks/2026-07-26/2081347811140841487]]
+
+The durable decision rule is therefore: select **model + precision/format + runtime + hardware + workload** as one system. Compare accepted-result quality, latency, concurrency, memory headroom, energy/capital cost, and operational burden. A theoretically better model in the wrong format can be less useful than a smaller model with a native, well-supported deployment path. This extends [[faleth/process/local-model-ownership-agency-2026]] without changing the current cloud-first cash-timing priority.
 
 ## Faleth / Hermes implications
 
