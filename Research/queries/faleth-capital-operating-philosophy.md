@@ -23,6 +23,8 @@ confidence: high
 
 Faleth Capital is designed to turn workers, founders, customers, and capital holders into aligned participants without collapsing their distinct rights. Its apex is to **equip people until they no longer need a boss, mentor, title, or even Faleth itself in order to build**.
 
+Lyle treats that sentence as a marketplace commandment, not a company slogan. Faleth is an attempt to transplant the discipleship dynamic he sees at the best of network marketing—develop people until they can reproduce capability independently—into every kind of productive institution. It is the practical opposite of “it's just business,” which divorces commercial decisions from responsibility for people.
+
 ## The Architecture in One Pass
 
 1. **Contribution:** Work is organized into visible processes. Gross margin funds per-unit labor pools, and pay follows the points attached to completed value rather than elapsed time.
@@ -64,6 +66,8 @@ Faleth is drifting when:
 - customer advocacy is extracted while every other acquisition source is paid;
 - the office becomes a headquarters rather than a thin steward;
 - the system depends on one charismatic person remaining present.
+- “it's just business” is used to excuse foreseeable human harm, indifference, or extraction in the name of money.
+- development remains confined to selling and recruiting instead of producing transferable capability throughout the organization.
 
 ## Sequencing
 
@@ -88,3 +92,4 @@ The documents describe a destination, not permission to skip reality. The operat
 - [[offshoots/security-enables-agency-without-creating-dependence]]
 - [[offshoots/value-creators-share-in-value-customers-included]]
 - [[faleth/governance/conflict-escalation-trust-preservation-2026]]
+- [[raw/transcripts/lyle-marketplace-discipleship-its-just-business-2026-07-27]]

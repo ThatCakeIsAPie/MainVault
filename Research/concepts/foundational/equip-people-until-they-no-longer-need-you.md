@@ -21,6 +21,14 @@ Faleth reverses that relationship. Mentors are paid to develop founders. Founder
 
 The theological root is discipleship: development should reproduce maturity and agency. A disciple who can never leave has been trained into dependence rather than equipped for multiplication.
 
+## Marketplace Commandment
+
+Lyle does not hold this as a management technique confined to Faleth. He treats it as a **lived commandment for the marketplace in every industry** and as a key to genuine fulfillment: use commercial activity to develop people toward capability, ownership, maturity, and eventual independence.
+
+Its opposite is the phrase **“it’s just business.”** In Lyle's usage, that phrase is not neutral realism. It is an attempt to split commercial decisions from moral responsibility—to excuse indifference toward people and place money in the position of a god. Faleth exists in part to make that excuse indefensible by demonstrating that care for people, economic discipline, and superior institutional design can occupy the same structure.
+
+Network marketing is especially attractive because its best form rewards someone for developing other people until they can reproduce capability without dependence. Lyle's central frustration is that this discipleship dynamic is usually trapped inside sales and marketing. Faleth generalizes it into operations, services, manufacturing, governance, capital stewardship, ownership, and any other place human beings organize to create value.
+
 ## Mechanisms
 
 - **Process-based work:** knowledge attaches to visible processes rather than protected titles.
@@ -52,6 +60,7 @@ Independence does not mean isolation or freedom from consequence. Shared capital
 - [[offshoots/master-once-then-duplicate]]
 - [[faleth/governance/peaceful-fork-voluntary-alignment-2026]]
 - [[offshoots/principles-permanent-parameters-adaptive]]
+- [[foundational/network-marketing-as-leadership-development-system]]
 
 ## References
 
@@ -60,3 +69,4 @@ Independence does not mean isolation or freedom from consequence. Shared capital
 - [[Business/Faleth Capital/The Governance Framework]]
 - [[Business/Faleth Capital/The Cell Framework]]
 - [[Business/Faleth Capital/The Acquisition Transition Framework]]
+- [[raw/transcripts/lyle-marketplace-discipleship-its-just-business-2026-07-27]]

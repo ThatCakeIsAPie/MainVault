@@ -15,7 +15,7 @@ Faleth Capital is an attempt to build economic institutions that strengthen indi
 
 > **Equip people until they no longer need you.**
 
-Faleth treats business as discipleship applied to economic life: develop people into independent builders who can operate, own, govern, leave, return, and develop others without remaining dependent on a particular leader.
+Faleth treats business as discipleship applied to economic life: develop people into independent builders who can operate, own, govern, leave, return, and develop others without remaining dependent on a particular leader. Lyle treats this as a marketplace commandment applicable across industries, not as a leadership tactic belonging only to Faleth or network marketing.
 
 ## Core Commitments
 
@@ -35,6 +35,10 @@ Faleth treats business as discipleship applied to economic life: develop people 
 ## Theological Grounding
 
 The system is intended as a reflection of grace received rather than a mechanism for control. Faith is not a condition of belonging, but the founder's motive is explicitly Christian: love people without tallying goodwill, develop them toward maturity, steward money as a tool rather than a god, and design structures that do not depend on domination.
+
+This is also Lyle's direct rejection of **“it's just business.”** He sees that phrase as moral evasion: a way to treat harm or indifference as acceptable once money is involved. Faleth's counterclaim is that business remains a human relationship under moral responsibility. Profit is evidence and fuel, not permission to stop caring about the people affected.
+
+Network marketing supplied the clearest working glimpse of this dynamic because its best compensation structures reward leaders for developing people who can reproduce results without them. Faleth's purpose is to free that discipleship mechanic from the sales-and-marketing silo and apply it to the entire marketplace.
 
 ## Economic Architecture
 
@@ -74,3 +78,4 @@ If not, the mechanism may carry Faleth vocabulary without carrying Faleth's phil
 - [[Business/Faleth Capital/The Marketing and Brand Framework]]
 - [[Business/Faleth Capital/The Acquisition Transition Framework]]
 - [[Business/Faleth Capital/Beyond the Wage]]
+- [[raw/transcripts/lyle-marketplace-discipleship-its-just-business-2026-07-27]]

@@ -561,3 +561,11 @@
 - Rewritten syntheses: `concepts/foundational/faleth-capital-economic-philosophy.md`; `queries/faleth-capital-operating-philosophy.md`.
 - Updated related doctrine: contribution, earned equity, self-governance, trust, conflict escalation, and Peaceful Fork pages.
 - Updated `index.md` and `raw/processed-sources.md`.
+
+## [2026-07-27] update | Marketplace discipleship as Faleth's lived commandment
+
+- Preserved Lyle's exact Telegram clarification at `raw/transcripts/lyle-marketplace-discipleship-its-just-business-2026-07-27.md` with SHA-256 provenance.
+- Clarified that “equip people until they no longer need you” is intended as a marketplace commandment across industries, not merely a Faleth leadership method.
+- Added the explicit opposition to “it's just business” as moral evasion that places money above responsibility for people.
+- Added Lyle's attraction to network marketing's discipleship dynamics and his frustration that they remain trapped in sales and marketing rather than spreading across the marketplace.
+- Updated the apex principle, Faleth economic philosophy, operating synthesis, and index.
