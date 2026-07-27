@@ -169,3 +169,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-26
 - Twelve days after the ISR deadline, direct inspection found SAM.gov's FFATA first-tier >$550,000 eligibility, missing-record incorporation, Part 8 BPA Call reporting, and correction capability unchanged. No verified proposal-tool or primary-rule change surfaced; close every relevant row with receipt, disposition, exception/ticket, customer notice, owner, next action, and evidence path ([official SAM.gov](https://sam.gov/esrs)). Signal: **strong** for SAM, **weak** for daily novelty.
+
+### 2026-07-27
+- Thirteen days after the ISR deadline, direct inspection found the FFATA >$550,000 eligibility, missing-record incorporation, Part 8 BPA Call, and correction text unchanged. No relevant proposal-tool or primary-rule change surfaced; reconcile and close every applicable row while keeping the August 14 CMMC reform-comment decision visible ([official SAM.gov](https://sam.gov/esrs)). Signal: **strong** for SAM, **weak** for novelty.
