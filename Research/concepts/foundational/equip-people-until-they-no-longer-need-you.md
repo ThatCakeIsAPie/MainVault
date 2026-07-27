@@ -1,0 +1,62 @@
+---
+title: Equip People Until They No Longer Need You
+created: 2026-07-27
+updated: 2026-07-27
+type: principle
+tags: [faleth, leadership, discipleship, agency, ownership, systems]
+confidence: high
+---
+
+# Equip People Until They No Longer Need You
+
+> **The purpose of leadership is to develop independent builders, not permanent dependents.**
+
+This is the apex principle of the rewritten Faleth framework suite. A system is built correctly when people become more capable, more sovereign, and less dependent on any particular leader for permission, income, judgment, or continuity.
+
+## Rationale
+
+Leadership that preserves dependence eventually imprisons both sides. The leader cannot step away because the organization requires their presence; contributors learn that progress depends on approval rather than capability. Control then becomes the institution's hidden product.
+
+Faleth reverses that relationship. Mentors are paid to develop founders. Founders are expected to develop teams. Leads are elected and removable. Processes are visible and transferable. Cells can operate locally, split, merge, or fork. Earned ownership survives departure. The system's measure is not how many people remain beneath a leader, but how many become capable of building without them and developing others in turn.
+
+The theological root is discipleship: development should reproduce maturity and agency. A disciple who can never leave has been trained into dependence rather than equipped for multiplication.
+
+## Mechanisms
+
+- **Process-based work:** knowledge attaches to visible processes rather than protected titles.
+- **Transparent economics:** anyone can calculate pay, book value, and distributions without relying on an authority's explanation.
+- **Elected leadership:** authority is granted for coordination and can be withdrawn.
+- **Mentorship with an endpoint:** mentors are compensated for producing capable builders, not preserving leverage over them.
+- **Cells and interfaces:** teams can operate independently while cooperating through explicit seams.
+- **Portable earned ownership:** Class B shares remain with the person who earned them after departure.
+- **Peaceful Fork:** independence is a valid outcome rather than organizational betrayal.
+- **Open documents:** successful ideas are meant to be copied, including outside Faleth.
+
+## Examples from Practice
+
+- A founder earns a Class A seat only after building sustained, material income, then mentors the next builder.
+- A Lead coordinates and removes friction but cannot unilaterally set the team's compensation mechanics.
+- Automation removes processes rather than making contributors defend obsolete roles; people move toward the new constraint.
+- A departing cell can preserve what it built through a book-value settlement instead of having its productive value destroyed.
+- Faleth explicitly welcomes copycats because diffusion of the model is evidence that the mission is working.
+
+## Boundary Conditions
+
+Independence does not mean isolation or freedom from consequence. Shared capital, interfaces, legal duties, accurate books, and risks imposed on others still require coordination. The aim is voluntary interdependence among capable people—not atomized individualism and not dependence disguised as teamwork.
+
+## Related Principles
+
+- [[offshoots/self-governance-by-contributors]]
+- [[offshoots/alignment-as-voluntary-shared-direction]]
+- [[offshoots/systems-building-through-training-and-delegation]]
+- [[offshoots/master-once-then-duplicate]]
+- [[faleth/governance/peaceful-fork-voluntary-alignment-2026]]
+- [[offshoots/principles-permanent-parameters-adaptive]]
+
+## References
+
+- [[Business/Faleth Capital/Faleth Capital Constitution]]
+- [[Business/Faleth Capital/The Contribution Framework]]
+- [[Business/Faleth Capital/The Governance Framework]]
+- [[Business/Faleth Capital/The Cell Framework]]
+- [[Business/Faleth Capital/The Acquisition Transition Framework]]

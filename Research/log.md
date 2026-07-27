@@ -551,3 +551,13 @@
 - Raw-only/skipped wiki: Huberman focus advice lacked primary evidence; the solitude clip was motivational; the funeral story was incomplete engagement bait; the Lewis image was a single attributed quote without source verification. These did not clear the durable-page threshold.
 - Verification context: full Note Tweet text, referenced posts, and media URLs were recovered through the official X API; two images and two short videos were inspected locally with OCR/frame extraction.
 - Ledger target after successful file/hash and wiki verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+9 IDs).
+
+## [2026-07-27] ingest | Faleth Constitution and seven-framework v2 rewrite
+
+- Synced vault through commit `22e1082` before reading and writing.
+- Corpus: `Faleth Capital Constitution.md`; Contribution, Governance, Cell, Financial, Equity, Marketing and Brand, and Acquisition Transition frameworks. `Beyond the Wage.md` intentionally excluded.
+- Foundational created: `concepts/foundational/equip-people-until-they-no-longer-need-you.md`.
+- Offshoots created: `book-value-symmetry-and-anti-speculation.md`; `principles-permanent-parameters-adaptive.md`; `security-enables-agency-without-creating-dependence.md`; `value-creators-share-in-value-customers-included.md`.
+- Rewritten syntheses: `concepts/foundational/faleth-capital-economic-philosophy.md`; `queries/faleth-capital-operating-philosophy.md`.
+- Updated related doctrine: contribution, earned equity, self-governance, trust, conflict escalation, and Peaceful Fork pages.
+- Updated `index.md` and `raw/processed-sources.md`.
