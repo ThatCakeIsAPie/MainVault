@@ -421,3 +421,133 @@
 - Raw-only/skipped wiki: Monid was a single promotional comparison without reproducible platform coverage or service testing; the Cursor bookmark repeated evidence already preserved and synthesized on 2026-07-20.
 - Verification: GitHub API/README checks confirmed the named World Monitor and RuView repositories and corrected social-post simplifications; project metrics remain vendor-reported and independently unverified.
 - Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+4 IDs).
+
+## [2026-07-22] ingest | X bookmarks daily batch (1)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-22T053039Z.json`).
+- Fetched 50; already in ledger 49; new **1**; processed **1**; truncated remainder 0.
+- Raw created:
+  - `raw/x-bookmarks/2026-07-21/2079595988998554047.md` — Claude Cowork announcement for recording a demonstrated task and narration into a reusable skill.
+- Wiki created:
+  - `faleth/process/demonstration-to-skill-capture-2026.md` — demonstration-to-procedure capture, Faleth/VXE applications, verification requirements, and evidence limits.
+- Updated: `index.md` (1 new page; date bumped).
+- Raw-only/skipped wiki: none; the announced feature is central to the source and expresses a durable agent-operations pattern.
+- Evidence note: official Claude product announcement only; conversion quality and complex-workflow reliability remain independently unverified. External web search was unavailable because the configured provider had exhausted credits.
+- Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+1 ID).
+
+## [2026-07-23] ingest | X bookmarks daily batch (4)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-23T053049Z.json`).
+- Fetched 50; already in ledger 46; new **4**; processed **4**; truncated remainder 0.
+- Raw created:
+  - `raw/x-bookmarks/2026-07-21/2079605800998146171.md` — Jack's official launch post for the open-source, self-sovereign human/agent groupchat platform Buzz.
+  - `raw/x-bookmarks/2026-07-22/2079833837417185600.md` — image-only T-shirt-color/body-temperature graphic; OCR context preserved, underlying study absent.
+  - `raw/x-bookmarks/2026-07-22/2079836641687130303.md` — image-only “make yourself at home / you're in my tree” visual joke with quoted-post context.
+  - `raw/x-bookmarks/2026-07-21/2079594120977527102.md` — 2003 Elon Musk Stanford company-building lecture share.
+- Wiki created/updated: none. Buzz and the Stanford lecture were already fully preserved and synthesized in `faleth/process/buzz-sovereign-agent-workspace-analysis-2026.md` and `faleth/process/product-focus-parallelism-and-compounding-simplicity-2026.md`; duplicating those pages would add noise rather than knowledge.
+- Raw-only/skipped wiki: the T-shirt graphic lacked study provenance and numeric evidence; the Sparrow post was a visual joke rather than a durable research idea.
+- Updated: `log.md`; `index.md` intentionally unchanged because no wiki page was created.
+- Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+4 IDs).
+
+## [2026-07-24] update | What–Why–How 3×3 outcome architecture
+
+- Preserved Lyle's refinement as `raw/transcripts/lyle-three-by-three-what-why-how-refinement-2026-07-24.md` with SHA-256 provenance.
+- Created `queries/what-why-how-three-by-three-action-architecture.md`.
+- Confirmed hierarchy: the **What** is the ultimate outcome; Push–Pull–Process supplies the **Why**; Time–Talent–Treasure supplies the **How**.
+- Updated and cross-linked `faleth/mindset/three-ps-motivation-2026.md`, `faleth/process/three-treasures-resource-conversion-and-stewardship-2026.md`, and `index.md`.
+- Preserved the boundary that this models controllable action and resource conversion, not guaranteed command over chance, reality, markets, institutions, or other people's agency.
+- Follow-up refinement preserved as `raw/transcripts/lyle-what-first-sequencing-and-model-compression-2026-07-24.md`.
+- Added the logical sequence **Define What → discover Why → address How**: Why and How are incomplete questions without a defined outcome, and a clear Why often reveals or constrains the How.
+- Clarified that Time–Talent–Treasure conversions use context-dependent ratios; coefficients are intentionally omitted to preserve a simple, portable model rather than bloat it with false precision.
+- Pyramid refinement preserved as `raw/transcripts/lyle-what-why-how-pyramid-refinement-2026-07-24.md`.
+- Made the pyramid canonical: **What** at the apex; **Why** and **How** directly beneath; Push–Pull–Process under Why; Time–Talent–Treasure under How. The equation remains shorthand rather than the primary representation.
+- Troubleshooting refinement preserved as `raw/transcripts/lyle-what-why-how-pyramid-troubleshooting-2026-07-24.md`.
+- Added the fault-tree rule: **No direction → inspect What; no action → inspect Why; action without results → inspect How.**
+- Added Process failure as the likely cause when Push and Pull are known but execution is hated, plus resource asymmetry: Time as depleting flow, Talent as comparatively durable/compounding stock, and Treasure as liquid/volatile stock.
+- Cross-branch repair confirmation preserved as `raw/transcripts/lyle-what-why-how-cross-branch-repair-2026-07-24.md`.
+- Added the coupled-repair doctrine: the failed node locates the symptom, but another node may supply the remedy. How can redesign Why; Why can direct and sustain How; What arbitrates whether the repair serves the actual outcome.
+- Created canonical visual `assets/what-why-how-pyramid-in-motion-2026-07-24.png` with GPT Image 2 High (1024×1536; SHA-256 `6ee8543d6a9b1a8822794a1d87dacfd98a0de0ed8e071a4656326fc6f3a99efa`).
+- Preserved its exact generation prompt at `raw/prompts/what-why-how-pyramid-in-motion-gpt-image-2026-07-24.txt` and embedded the visual in the canonical query page.
+- Ingested Garry Tan X post `2080699367883980924`, Ruxandra Teslo's quoted intelligence-bottleneck argument, Ernie Tedeschi's full X thread, and the underlying Stripe Economics article into `raw/transcripts/lyle-x-share-2080699367883980924.md`.
+- Created `faleth/process/microproductivity-requires-workflow-redesign-2026.md` and linked it to the What–Why–How pyramid and factory-over-product thinking.
+- Durable read: AI can increase local Talent and release Time without moving the apex What; firms must redesign staffing, incentives, autonomy, review, integration, and downstream workflow. Diagnose locally, repair across branches, validate final output.
+- Lyle corrected the primary interpretation: Garry's “radically different staffing and workflow plans” points first to Faleth itself, especially the Contribution Framework's processes-not-roles, value-not-time compensation, shared upside, peer recalibration, and explicit AI adaptation mechanism. The pyramid mapping remains useful but secondary.
+
+## [2026-07-24] ingest | X bookmarks daily batch (4)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-24T053045Z.json`).
+- Fetched 50; already in ledger 46; new **4**; processed **4**; truncated remainder 0.
+- Raw created:
+  - `raw/x-bookmarks/2026-07-22/2080020101290459550.md` — Visual Capitalist/UBS millionaire-growth chart; key image text recovered with OCR.
+  - `raw/x-bookmarks/2026-07-23/2080158264323448978.md` — Codex + `img2threejs` game-asset workflow; video frames and quoted-post context recovered.
+  - `raw/x-bookmarks/2026-07-22/2079993729532989500.md` — Cursor Router launch and vendor-reported 60% cost-reduction claim.
+  - `raw/x-bookmarks/2026-07-22/2079939096231686463.md` — self-talk aphorism; image text recovered with OCR.
+- Wiki created:
+  - `faleth/process/image-to-3d-asset-compilation-agent-loops-2026.md` — visual references compiled into project-native procedural assets under renderer, performance, and test constraints.
+- Wiki updated:
+  - `faleth/process/frontier-model-cost-speed-tradeoff-2026.md` — task-aware routing policy, accepted-result metrics, and Cursor vendor-claim caveat.
+  - `index.md` — new image-to-3D page listed; updated date bumped.
+  - `log.md` — this ingest record.
+- Raw-only/skipped wiki: millionaire chart lacked the direct UBS report during this run; self-talk image overlapped existing identity/mental-diet material and its near-totalizing causal claim was unsupported.
+- Retrieval note: X media and quoted-post context were recovered through the official API; local OCR/frame extraction was used because the bookmark text alone omitted the substance. External web search was unavailable because the configured provider had exhausted credits.
+- Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+4 IDs).
+
+## [2026-07-25] ingest | X bookmarks daily batch (7)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-25T053056Z.json`).
+- Fetched 50; already in ledger 43; new **7**; processed **7**; truncated remainder 0.
+- Raw created:
+  - `raw/x-bookmarks/2026-07-24/2080671474193432831.md` — repeated-taxation meme; image text recovered with OCR.
+  - `raw/x-bookmarks/2026-07-24/2080709769120329938.md` — Teknium teaser for a forthcoming Nous Research privacy improvement; parent context recovered through the official API.
+  - `raw/x-bookmarks/2026-07-24/2080699367883980924.md` — Garry Tan on staffing/workflow redesign as the bridge from AI microproductivity to macroproductivity.
+  - `raw/x-bookmarks/2026-07-23/2080423407049707749.md` — anti-corporate/anti-credential graduation satire; image text recovered with OCR.
+  - `raw/x-bookmarks/2026-07-23/2080331127990993151.md` — “toxic advice” thread prompt; image text recovered with OCR.
+  - `raw/x-bookmarks/2026-07-24/2080442895543226611.md` — generalized wellness drains/restoratives checklist; image text recovered with OCR.
+  - `raw/x-bookmarks/2026-07-24/2080547884726919201.md` — Economist/Elon Musk interview link; X reported the video removed after a copyright-holder complaint.
+- Wiki pages created: none.
+- Wiki pages updated: none; `index.md` intentionally unchanged.
+- Threshold decisions: Garry Tan's idea was already fully represented in `faleth/process/microproductivity-requires-workflow-redesign-2026.md` and its source transcript; the privacy post was only a teaser; the remaining posts were memes, generic wellness advice, or unavailable media without enough durable evidence.
+- Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+7 IDs).
+
+## [2026-07-26] ingest | X bookmarks daily batch (3)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-26T053005Z.json`).
+- Fetched 50; already in ledger 47; new **3**; processed **3**; truncated remainder 0.
+- Raw created:
+  - `raw/x-bookmarks/2026-07-24/2080607945071686030.md` — Oliver Prompts' OBLITERATUS refusal-removal claim.
+  - `raw/x-bookmarks/2026-07-25/2081134153970688251.md` — Teknium's Hermes-native optional-skill claim for OBLITERATUS.
+  - `raw/x-bookmarks/2026-07-25/2081030730197385304.md` — Joe Muller's vendor-unverified GLM 5.2 throughput report on two DGX Sparks.
+- Wiki created:
+  - `faleth/process/refusal-vector-ablation-open-model-control-2026.md` — open-weight refusal-subspace intervention, reversible steering, evaluation, and deployment guardrails.
+- Wiki updated:
+  - `faleth/process/frontier-model-cost-speed-tradeoff-2026.md` — added the 24.7 tok/s local-inference signal with an acceptance-quality-floor caveat.
+  - `index.md` — listed the new refusal-vector page and bumped the updated date.
+  - `log.md` — this ingest record.
+- Threshold decisions: the two linked OBLITERATUS posts jointly cleared the durable-page threshold; the DGX Spark post updated an existing cost/speed page rather than spawning hardware-news clutter.
+- Verification context: the upstream AGPL-3.0 OBLITERATUS repository and README were inspected; its benchmark and capability-preservation statements remain project claims. General web search was unavailable because the configured provider had exhausted credits.
+- Ledger target after successful file/hash verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+3 IDs).
+
+## [2026-07-27] ingest | X bookmarks daily batch (9)
+
+- Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-27T053015Z.json`).
+- Fetched 50; already in ledger 41; new **9**; processed **9**; truncated remainder 0.
+- Raw created:
+  - `raw/x-bookmarks/2026-07-26/2081514215291109879.md` — Huberman claim that sustained attention is trainable.
+  - `raw/x-bookmarks/2026-07-26/2081290423759245499.md` — AI/solitude meme; video text recovered by frame OCR.
+  - `raw/x-bookmarks/2026-07-26/2081457136966484268.md` — incomplete funeral/obedience story hook.
+  - `raw/x-bookmarks/2026-07-26/2081486469521416213.md` — C. S. Lewis argument-from-reason image; text recovered by OCR.
+  - `raw/x-bookmarks/2026-07-26/2081408374315602338.md` — voice-controlled, always-on headquarters workflow.
+  - `raw/x-bookmarks/2026-07-25/2080955069755711878.md` — Nemotron 3 Nano Omni NVFP4 / DGX Spark deployment claim.
+  - `raw/x-bookmarks/2026-07-26/2081347811140841487.md` — Qwen3.6-27B quantization-to-hardware deployment map.
+  - `raw/x-bookmarks/2026-07-24/2080645121096241521.md` — GLM-5.2 Fast throughput/pricing signal; video inspected with frame OCR.
+  - `raw/x-bookmarks/2026-07-25/2081077962682835074.md` — reply-led early X audience-growth claim.
+- Wiki created:
+  - `faleth/content/reply-led-audience-discovery-2026.md` — substantive replies as discovery and market-learning, with measurement and survivorship-bias caveats.
+- Wiki updated:
+  - `faleth/process/delta-phone-interface-grok-voice-hermes-2026.md` — added mobility/capture use case and bounded voice-task fit; normalized tags to the schema taxonomy.
+  - `faleth/process/frontier-model-cost-speed-tradeoff-2026.md` — added model-format-runtime-hardware fit as part of deployment quality.
+  - `index.md` — listed the new reply-led audience page and bumped the updated date.
+  - `log.md` — this ingest record.
+- Raw-only/skipped wiki: Huberman focus advice lacked primary evidence; the solitude clip was motivational; the funeral story was incomplete engagement bait; the Lewis image was a single attributed quote without source verification. These did not clear the durable-page threshold.
+- Verification context: full Note Tweet text, referenced posts, and media URLs were recovered through the official X API; two images and two short videos were inspected locally with OCR/frame extraction.
+- Ledger target after successful file/hash and wiki verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+9 IDs).

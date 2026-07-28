@@ -2,7 +2,7 @@
 
 *How Faleth Capital makes decisions, resolves disputes, and keeps leadership accountable.*
 
-*Faleth Capital · Internal Framework · Version 2.0 — Draft*
+*Faleth Capital · Internal Framework · Version 2.1*
 *Companion to [[The Contribution Framework]], [[The Cell Framework]], and the [[Faleth Capital Constitution]].*
 
 ---
@@ -41,7 +41,19 @@ A Lead is elected authority, but bottom-up — the stitching, not the ruler. The
 
 **How it works.** Everyone votes by ranking their choices — back as many candidates as you want, or just one. Most teams run a single Lead. When a team grows large enough to need more, the extra seats fill by Single Transferable Vote: if your top choice is already elected or out of the running, your vote passes to your next choice, so every sizable faction gets a voice instead of the majority taking everything. A good guideline is one Lead for every twelve people.
 
-Multiple Leads split the Lead functions among themselves — by area, by shift, by whatever fits — as long as every function is covered. When they disagree with each other, they settle it the way the team settles anything: talk first, vote if needed. (How Leads are compensated for this work lives in [[The Contribution Framework#3.5 — The Elected Lead|the Contribution Framework]].)
+Multiple Leads split the Lead functions among themselves — by area, by shift, by whatever fits — as long as every function is covered. When they disagree with each other, they settle it the way the team settles anything: talk first, vote if needed. (How Leads are compensated for this work lives in [[The Contribution Framework#4. Points and Processes|the Contribution Framework]].)
+
+### 2.1 — The Executive Seat
+
+The executive is a Lead one notch up. Same job — reduce the friction that slows the work, carry what falls between people, answer for what happens inside — over a subsidiary rather than a cell, and under every constraint already set above. Point values, the floor, and the outcomes of calibration stay with the team; a subsidiary whose executive sets its point values has stopped running this framework. What's added is direction. This is the seat that also faces outward, to the office, lenders, insurers, regulators, anyone who needs a person to deal with rather than a structure.
+
+He's elected the same way too, by the cell Leads rather than by every participant — the same representative logic that seats a Lead, applied one level up. A founder is the exception, holding the seat because there was no team yet to elect anyone. And it scales the same way: one person while one person can carry it, a larger elected team when the job outgrows that, all of them paid from that same share and never from the team pool.
+
+That share is what keeps this from being a hand above. He is paid out of the office's fee, not the margin the team produces ([[The Financial Framework#1. How Money Moves Through a Subsidiary|the Financial Framework]]), so his income and theirs come from different numbers and can never trade against each other.
+
+Removal is a confidence vote like any other, carried to the office because that is how far the seat reaches. Below the scale where there are cell Leads to convene one, anyone can fork out instead ([[Faleth Capital Constitution#5.3 — How a Fork Works|Article V of the Constitution]]). He can step down whenever he likes, nothing is retained, and he keeps compounding through a Managed Capital Account.
+
+**The mentor** takes 6% for developing the executive, and that is the whole job: counsel, with no vote, no veto, no standing to direct the work. The team is free to ignore them, and it runs as long as both of them want it.
 
 ---
 
@@ -53,9 +65,11 @@ Calibration runs in two passes. First the Leads look at the whole workflow toget
 
 Point values come out of that conversation — a negotiation between peers with shared stakes, which keeps everyone honest. Overprice a process and everyone who doesn't do it subsidizes those who do; underprice it and no one picks it up until the value rises. Both show plainly, because the whole team shares one pool.
 
-Disagreement here is the market working, not a problem. Most of it resolves in discussion; when it doesn't, a simple majority settles it and the minority gets another shot next cycle. When the same fight returns quarter after quarter, the vote is suppressing the disagreement rather than resolving it — so the team reaches for a better tool: a **parallel trial** (run both values for a quarter and let the results decide) or a **cell split** (give the two factions their own pools and governance; see [[The Cell Framework#Section 5 Scaling Triggers|the Cell Framework]]).
+Disagreement here is the market working, not a problem. Most of it resolves in discussion; when it doesn't, a simple majority settles it and the minority gets another shot next cycle. When the same fight returns quarter after quarter, the vote is suppressing the disagreement rather than resolving it — so the team reaches for a better tool: a **parallel trial** (run both values for a quarter and let the results decide) or a **cell split** (give the two factions their own pools and governance; see [[The Cell Framework#6. Scaling Signals|the Cell Framework]]).
 
-The same event covers the other dials: the pay parameters — the COF rate, the floor, and the profit-share percentage, whose mechanics live in [[The Contribution Framework#Section 5 Governance|the Contribution Framework]] — plus whether any activity should move between pointed work and baseline expectation, whether the Lead count still fits and a re-election is due, and whether recurring disputes point at a structural problem rather than a pricing one. Every call belongs to the team; the Lead runs the conversation but doesn't rule it.
+The same event covers the other dials: the pay parameters — the COF rate, the floor, and the profit-share percentage, whose mechanics live in [[The Contribution Framework#2. The Three Layers|the Contribution Framework]] — plus the executive's spending threshold, whether any activity should move between pointed work and baseline expectation, whether the Lead count still fits and a re-election is due, and whether recurring disputes point at a structural problem rather than a pricing one. Every call belongs to the team; the Lead runs the conversation but doesn't rule it.
+
+One thing is deliberately not on this agenda: the executive's seat itself, for the reasons in §2.1. His spending threshold is a dial like any other and belongs here. His status isn't, and doesn't.
 
 ---
 
@@ -76,7 +90,7 @@ As an illustration, not a rulebook, a dispute tends to travel like this:
 3. A vote among the Leads.
 4. The full cell.
 
-And, only if the impact reaches beyond the cell, onward into subsidiary leadership — and, at the far end, separation.
+And, only if the impact reaches beyond the cell, onward into subsidiary leadership — the cell Leads together with the executive — and, at the far end, separation.
 
 Two notes. "Impartial" doesn't mean unaffected; in a shared pool almost no one is. It means far enough from the specific work to weigh it as an outsider. And widening is for disagreements that genuinely can't be resolved — not a lever for re-running an outcome someone simply didn't like.
 
@@ -99,4 +113,4 @@ A decision this heavy is never one person's to make. At the cell level, separati
 
 ---
 
-*This is a living framework. The election threshold and Lead ratio, the recalibration cadence, and the point values themselves are parameters each team sets and revisits. The principles — scope of impact, bottom-up leadership, trust by default, standards over rules, and preserving value over destroying it — are the parts meant to last. For office-level governance, see [[Faleth Capital Constitution#Article IV Governance|Article IV of the Constitution]].*
+*This is a living framework. The election threshold and Lead ratio, the recalibration cadence, the executive's spending threshold, and the point values themselves are parameters each team sets and revisits. The principles — scope of impact, bottom-up leadership, trust by default, standards over rules, nobody who leads being paid from the pool the team is paid from, and preserving value over destroying it — are the parts meant to last. For office-level governance, see [[Faleth Capital Constitution#Article IV Governance|Article IV of the Constitution]].*

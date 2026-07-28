@@ -1,147 +1,122 @@
-**THE FINANCIAL**
+# The Financial Framework
 
-**FRAMEWORK**
+*How money moves through the Faleth Capital ecosystem.*
+*Faleth Capital · Internal Framework · Version 2.1*
+*Companion to [[The Contribution Framework]], [[The Cell Framework]], and [[The Equity Framework]]. The philosophy behind the structure is in the [[Faleth Capital Constitution]].*
 
-_How Money Flows Through_
+---
 
-_the Faleth Capital Ecosystem_
+## 1. How Money Moves Through a Subsidiary
 
-Faleth Capital
+Every layer takes its share from a number it can see, in a fixed order, and nothing is taken twice. The whole financial system is that one sentence repeated at three scales.
 
-Internal Framework Document
+Inside a subsidiary the sequence runs like this. **Revenue** comes in, and subtracting the **cost of goods** — the materials and parts consumed — leaves **gross margin**, the value the team created with its own hands. Three things come out of gross margin: the **cost of acquisition** (what it took to win the customer), the **cost of fulfillment** (the team pool that funds weekly pay), and the subsidiary's fixed expenses, amortized across the work rather than dropped in as a lump. What survives that is **operating profit**.
 
-Version 1.2 — Draft
+Two more things come out of operating profit, and they are calculated side by side rather than one after the other: the office fee and the subsidiary's quarterly profit share. Both are measured against operating profit itself, so neither shrinks the base the other is drawn from. What remains is the subsidiary's own **net profit**, kept for reinvestment and reserves.
 
-_This document details the financial mechanics summarized in [[Faleth Capital Constitution#Article III Financial Structure|Article III of the Faleth Capital Constitution]]. For the philosophical foundation — the One-Third Rule, the Two Buckets, and the mission — see [[Faleth Capital Constitution#Article I Purpose and Mission|Article I]]. For how weekly compensation is calculated at the subsidiary level, see [[The Contribution Framework]]._
+The **office fee** is the higher of 5% of revenue or one-third of operating profit. Two calculations, whichever is larger that quarter. The revenue side protects the office's income floor so it isn't starved by a lean quarter; the profit side makes sure a genuinely profitable subsidiary contributes in proportion to how well it did. The fee funds the shared liquidity pool, the dividends, the office-level profit share, and the office's own modest operating costs. A fifth of it never reaches the office: 14% goes to the subsidiary's executive team, and 6% to the mentor who developed them, leaving 80% for the pool ([[The Governance Framework#2.1 — The Executive Seat|The Governance Framework]]).
 
-# Section 1: The Parent Company Fee
+Notice what the office does *not* do: it doesn't allocate its overhead down. It takes a fee off the top and leaves each subsidiary to manage its own costs, which is what makes a subsidiary's numbers actually its own — nobody's margin is quietly determined by someone else's spending.
 
-Each subsidiary pays a fee to Faleth Capital. The fee is calculated as the higher of:
+That arrangement repeats exactly one layer further in. A multi-cell subsidiary charges its cells on identical terms — the higher of 5% of topline or one-third of operating profit — and that fee is how it funds shared costs, whatever reserve it chooses to carry, and anything it builds for itself. No cell is ever billed for the roof; it pays a fee, and the subsidiary manages its own costs from there ([[The Cell Framework#4. One Body, One Pool|The Cell Framework]]). How thick a cushion to hold is the subsidiary's own call rather than a rule from above — the Leads set it together, and a thicker slice buys stability while a thinner one puts more in the cells. The check on running it too lean is that a subsidiary needing office capital to stay alive is a confidence question, not a funding request ([[The Governance Framework]]).
 
-- 5% of top-line revenue, or
-- One-third (33.3%) of operating profit.
+For a sense of the target shape, here is roughly how a healthy subsidiary's revenue divides:
 
-Whichever produces the higher number in a given quarter is the amount collected. This structure protects the office's income floor (via the revenue-based calculation) while also ensuring that highly profitable subsidiaries contribute proportionally (via the profit-based calculation). The fee funds the shared liquidity pool, dividends, office-level profit share, and the minimal operating expenses of the office itself.
+| Line item                           | Target share of revenue |
+| ----------------------------------- | ----------------------- |
+| Cost of goods                       | ~33%                    |
+| Cost of acquisition                 | ~20%                    |
+| Cost of fulfillment (the team pool) | ~13.3%                  |
+| Office fee                          | ~11.1%                  |
+| Profit share                        | ~6.7%                   |
+| Net margin                          | ~15.9%                  |
 
-# Section 2: Subsidiary-Level Financial Flow
+Every rule above is visible in those numbers. Cost of fulfillment is 20% of gross margin. Operating profit lands near 33.7%, so the office fee is one-third of it and the profit share is 20% of the same figure — and because 5% of revenue would only be 5%, the profit-based calculation is the one that applies. Fixed expenses sit outside the table because they vary too widely between a repair shop and a factory to benchmark; in a live subsidiary they come out before operating profit, which scales the last three lines down together. These are benchmarks, not mandates.
 
-Each subsidiary's financial flow follows this sequence:
+---
 
-|                               |                                                                                                                                                                                 |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Component**                 | **Description**                                                                                                                                                                 |
-| Revenue                       | Total collected from customers                                                                                                                                                  |
-| Cost of Goods (COG)           | Direct material and parts costs                                                                                                                                                 |
-| Gross Profit                  | Revenue minus COG; the value the team directly created                                                                                                                          |
-| Cost of Acquisition (COA)     | Marketing and customer acquisition costs; in consumer-facing subsidiaries, this budget may be deployed as the referral bonus described in [[The Marketing and Brand Framework]] |
-| Cost of Fulfillment (COF)     | The team pool for weekly contribution-based pay (Layer 2)                                                                                                                       |
-| Fixed Costs                   | Rent, utilities, insurance, software, and other monthly expenses                                                                                                                |
-| Operating Profit              | Profit before fixed costs, parent company fees and profit shares.                                                                                                               |
-| Parent Company Fee            | Higher of 5% of revenue or 1/3 of net profit, paid to Faleth Capital                                                                                                            |
-| Subsidiary Profit Share (20%) | Distributed quarterly to subsidiary team based on Layer 2 earnings                                                                                                              |
-| Subsidiary Net Profit         | Retained by the subsidiary for reinvestment and reserves                                                                                                                        |
+## 2. The Office Pool
 
+The office account is a war chest. Money pumps into it — fees, retained profit, returns — and nothing routinely comes out. There is no standing drain and no overhead quietly eating at it. Capital leaves only when Class A members decide to deploy it ([[Faleth Capital Constitution#Article IV Governance|Article IV of the Constitution]]). A bucket with no holes fills whether or not anyone is watching it.
 
-_For the detailed mechanics of how the team pool (COF) is divided among participants using contribution points, see [[The Contribution Framework#Section 2 The Three-Layer Structure|Section 2 of the Contribution Framework]]._
+The office runs one pool, not a fund and a side fund beside it. The office's own equity and any investor capital sit in the same pool, with ownership tracked as a percentage rather than split into parallel structures. If the office holds $2 million and an investor contributes $3 million, the pool is $5 million — the office owns 40%, the investor 60%. Every dollar is deployed by the same people, under the same philosophy and the same discipline. It isn't a fund within a fund; it's a shared table, and the percentages decide who owns what share of the outcome.
 
-# Section 3: Family Office Financial Flow
+Half that pool should be working and half should be waiting. **Deployed capital** is the combined book value of the operating subsidiaries; **liquid capital** is everything held in reserve. Keeping the two roughly equal is how the office covers the business and liquidity thirds of the one-third rule the whole system rests on ([[Faleth Capital Constitution#8.1 — The One-Third Rule and the Two Buckets|Article VIII of the Constitution]]).
 
-## 3.1 — The Unified Pool
+The ratio drifts, and when it does it's a signal rather than a crisis. Too much deployed means the pool is over-committed: make no new commitments and let operating income rebuild the liquid side. Too much liquid means capacity — go find the next builder ready to launch. And an investor withdrawal comes off the liquid side, never out of an operating business; if it tips the ratio, the office slows spending until income restores the balance. Nothing is ever liquidated to satisfy a withdrawal.
 
-Faleth Capital operates one unified pool of capital. The office's own equity and any investor capital exist in the same pool, with ownership tracked by percentage rather than separated into parallel structures. If the office holds $2 billion in equity and an investor contributes $3 billion, the total pool is $5 billion — the office owns 40% and the investor owns 60%. Every dollar in the pool is managed by the same people, deployed by the same philosophy, and subject to the same deployment discipline.
+---
 
-This is not a fund-within-a-fund model. It is a shared table. The percentages determine who owns what share of the outcome. The math is the same regardless of how many investors are at the table or what their proportional stakes are.
+## 3. The Quarterly Snapshot
 
-## 3.2 — The Deployment Rule
+Everything the office pays out is calculated once a quarter off a single number: **the growth of the total pool.** Not the cash on hand, and not the office's own slice of it — the whole thing, cash and assets together, liquid reserves plus the combined book value of every operating subsidiary underneath. A quarter where the cash pile stayed flat while the subsidiaries grew is still a quarter the pool grew. If that total rose, there's something to share. If it didn't, there isn't, and nothing at this layer pays out. No projections, no adjustments, no accruals to argue about. Two balance sheets and a subtraction.
 
-At any given time, the pool targets a 50/50 split between deployed and liquid capital:
+Each allocation is then drawn from a clearly named base, which is what keeps the layers siloed and stops the same dollar being paid out twice.
 
-- **Deployed capital** is the combined value of all subsidiary balance sheets — the operating businesses the pool has funded and owns.
-- **Liquid capital** is the uninvested portion: cash, equivalents, and other liquid holdings held in reserve.
+**The team's share comes off total pool growth.** Twenty percent of everything the pool gained goes to participants across every subsidiary, because their work is what made it grow. It comes off the total, every party's slice included, before anything is divided by ownership.
 
-This rule applies to the total pool, not to the office's holdings in isolation. If the total pool is $5 billion, approximately $2.5 billion should be deployed into operating businesses and $2.5 billion should be liquid.
+**Investors pay the office to manage their capital**, on the standard private-equity terms: a 2% annual management fee, charged as 0.5% per quarter against their capital in the pool, and a 20% performance fee on their share of the pool's growth. The management fee applies whether or not the pool grew — it covers the work of managing either way. The performance fee only exists if there was growth to charge against. Both are income to the office.
 
-### What Happens When the Balance Shifts
+**What remains on the office's side** — its own share of the growth, plus the fees it earned — pays 30% out to Class B shareholders as dividends. Everything after that stays in the war chest. Retention isn't a target so much as the default: money that hasn't been explicitly paid out doesn't leave.
 
-The 50/50 target is a discipline, not a hard constraint. Life will move the ratio. New subsidiaries get funded. Investors withdraw capital. Businesses grow. The right response depends on which direction the balance has moved.
+Both of those office-side numbers resolve to a figure per share. The dividend pool divides evenly across every Class B share outstanding, so the quarter's dividend per share is that pool over that count. What's retained raises the share itself: **book value per share** is the office's own equity divided by shares outstanding, which means every dollar kept in the war chest lifts the value of every share already held. Dividends reward holding; retention compounds it. Investor capital doesn't distort either figure — it sits on the balance sheet as an asset and a matching liability that cancel out, so book value reflects only what the office itself owns.
 
-**If deployed capital exceeds 50%:** The pool is over-committed. No new capital should be deployed until liquid reserves rebuild. The signal is clear: slow spend, let operating income accumulate in the liquid side, and wait for the ratio to normalize before making new commitments.
+Every one of these comes off the same snapshot, and every payment goes out in the same quarterly distribution — profit share and dividends landing together. The arithmetic is deliberately plain enough that anyone who wants to check it can, with a calculator and ten minutes.
 
-**If liquid capital exceeds 50%:** The pool has capacity. This is the signal to look for the next subsidiary to fund, the next builder ready to launch. Excess liquidity is not a problem — it is opportunity waiting for the right moment.
+---
 
-**If an investor withdraws capital:** Their exit does not force the sale of any operating business. It reduces the liquid side of the pool. If the withdrawal pushes deployed capital above 50% of what remains, the office does not liquidate assets to compensate — it slows new spending until operating income and the remaining liquidity restore the balance naturally.
+## 4. The Two Profit Shares
 
-This is the same Talmudic principle that runs through the entire system: always maintain liquid capital alongside business investments. It is applied here at the pool level, ensuring the office is never fully committed and always has reserves to weather downturns or capitalize on opportunities.
+Two profit shares pay out each quarter, and they exist to align two different scopes of performance.
 
-## 3.3 — Quarterly Math
+**The subsidiary share** is 20% of a subsidiary's operating profit, distributed to the people who work there. It is drawn from the same number as the office fee and at the same time, so neither reduces the other's base. Weekly pay already rewards producing gross margin; this rewards running the whole operation well — controlling costs, holding quality, and earning the repeat business that shows up as profit rather than revenue.
 
-The math is deliberately simple. Each quarter, you look at one pool balance sheet and compare it to last quarter. All allocations are calculated simultaneously off the same snapshot — no calculation's output feeds into another's input.
+**The office share** is the 20% of total pool growth from the previous section, distributed across every participant in every subsidiary. It gives someone at one subsidiary a real stake in whether the others are run well, since consolidated performance drives part of their own payout. Caring about the whole enterprise is structural here, not aspirational.
 
-**Step 1:** Calculate total pool growth for the quarter. This is the combined growth of all deployed assets and liquid holdings across the entire pool — the office's portion and any investor portions together.
+Both divide the same way: by your **Layer 2 income for the quarter**, as it appears on your pay. Total what the value share paid you over the quarter, divide by the total across everyone in that scope, and that's your fraction. The floor doesn't count toward it — Layer 1 is security, and profit share is a return on value created ([[The Contribution Framework#2. The Three Layers|The Contribution Framework]]).
 
-**Step 2:** 20% of total pool growth goes to employees as the office-level profit share, distributed across all participants by total Layer 2 pay. This comes off total pool growth because the team's work is what made the pool grow. If the pool did not grow — or shrank — there is no profit share at this layer. Layer 2 and subsidiary profit share (Layer 3a) continue regardless, as they operate independently of the office-level pool.
+In a multi-cell subsidiary the subsidiary share splits in half — half from the cell's own contribution margin, paid to that cell's people, and half from the subsidiary's consolidated profit, paid across every cell. The split arrives when a subsidiary goes from single-celled to multicellular, which is the point at which a cell's own performance becomes something its people can see and move ([[The Cell Framework#4. One Body, One Pool|The Cell Framework]]).
 
-**Step 3 (simultaneously):** On the investor's proportional share of pool growth, the office collects its management and performance fees (see Section 3.4). The investor receives what remains of their slice's growth after fees and after the 20% profit share contribution.
+Both shares land in the same distribution, and at each one you choose independently: take it in cash, or mint it into Class B shares. Cash from one and equity from the other is a perfectly ordinary choice. How shares are minted, valued, and burned is in [[The Equity Framework]].
 
-**Step 4 (simultaneously):** The office's proportional share of pool growth, plus the fees earned from managing investor capital, are split: 30% goes to Class B shareholders as dividends, and 50% is retained in the liquidity pool.
+---
 
-|                |                                                                           |                                                          |
-| -------------- | ------------------------------------------------------------------------- | -------------------------------------------------------- |
-| **Allocation** | **Calculated From**                                                       | **Goes To**                                              |
-| 20%            | Total pool growth                                                         | Employee profit share (all participants, by Layer 2 pay) |
-| 30%            | Office's share of pool growth + fees earned                               | Class B shareholder dividends                            |
-| 50%            | Office's share of pool growth + fees earned                               | Liquidity pool (retained by Faleth Capital)              |
+## 5. A Quarter at the Office
 
+Numbers make this concrete. Say the pool holds $5 million: the office's own equity is $2 million and a single investor has $3 million in, so the office owns 40% and the investor 60%. There are 10,000 Class B shares outstanding, which puts book value at $200 a share. Over the quarter the pool grows by $500,000.
 
-All calculations happen at the same time off the same quarterly snapshot, and all payments go out together — profit share and dividends land in the same quarterly distribution. A fifth grader could audit it.
+| Step | Amount |
+| --- | --- |
+| Pool growth | $500,000 |
+| Team's share — 20% of total growth | −$100,000 |
+| Growth left to divide by ownership | $400,000 |
+| → investor's 60% | $240,000 |
+| → office's 40% | $160,000 |
+| Performance fee — 20% of the investor's share | −$48,000 → office |
+| Management fee — 0.5% of the investor's $3M | −$15,000 → office |
+| **Investor keeps** | **$177,000** |
+| Office total — its $160,000 plus $63,000 in fees | $223,000 |
+| → Class B dividends, 30% | $66,900 |
+| → retained in the war chest | $156,100 |
 
-## 3.4 — Investor Fees (2 and 20)
+What each party sees. **The team** splits $100,000 across every participant in the portfolio by Layer 2 income, on top of whatever their own subsidiary's profit share paid. **Class B holders** divide $66,900 across 10,000 shares — $6.69 a share, so 500 shares pays $3,345. **Book value** rises as the retained $156,100 lands in office equity: $2,156,100 over 10,000 shares is $215.61, up from $200, which every holder keeps whether or not they took the dividend. **The investor** nets $177,000 on $3 million, about 5.9% for the quarter.
 
-The office charges investors for the service of managing their capital. The fee structure mirrors standard private equity practice:
+It reconciles: $500,000 of growth, less $100,000 paid to the team and $66,900 paid in dividends, leaves the pool at $5,333,100.
 
-- **2% annual management fee**, charged as 0.5% per quarter, on the investor's total capital in the pool (their AUM). This fee is charged regardless of performance — it covers the cost of active management. In a quarter where the pool does not grow, the management fee still applies.
-- **20% performance fee**, charged on the investor's proportional share of pool growth in any given quarter. If the pool shrank, there is no performance fee. The office only earns this when the investor's capital actually grew.
+A flat or down quarter is much shorter to describe. No growth means no team share and no performance fee, because both are percentages of a number that doesn't exist, and there is nothing to fund dividends with. The management fee still applies — it pays for the work of managing either way — and it is the only thing that does.
 
-Both fees flow to the office as genuine income, which means they contribute to the office's share of the pool — and therefore to the 30% Class B dividend pool and the 50% liquidity retention.
+---
 
-_For the full mechanics of how MCA investor capital is structured, how book value per share is calculated, and the investor proposition, see [[The Equity Framework#Section 7 Managed Capital Accounts|Section 7 of the Equity Framework]]._
+## 6. Why It Doesn't Break
 
-# Section 4: Layered Incentive Alignment
+None of these layers were designed as a backup for the others. Each one solves its own problem — weekly pay for immediate productivity, the subsidiary share for local ownership, the office share for portfolio-wide thinking, dividends for long-term compounding. The resilience wasn't bolted on; it fell out of solving each problem honestly, which is usually a sign the architecture is sound.
 
-The system creates three layers of financial incentive, each operating at a different time horizon and scope:
+The deepest protection is that the largest expense flexes on its own. Labor is paid as a share of gross margin, so when revenue falls, labor cost falls with it, in the same proportion, without anyone deciding anything. A traditional company with fixed payroll bleeds whether or not customers show up, and its answer to a downturn is layoffs. Here the system contracts automatically and keeps its people. The floor is the only fixed labor cost, and it is deliberately modest ([[The Contribution Framework#2. The Three Layers|The Contribution Framework]]).
 
-|   |   |   |   |
-|---|---|---|---|
-|**Layer**|**Source**|**Frequency**|**Scope of Alignment**|
-|Layer 2|Gross margin × COF rate|Weekly|Your direct work, this week|
-|Layer 3a|20% of subsidiary net profit (or 10%/10% cell/subsidiary split in multi-cell subsidiaries)|Quarterly|Your cell and your subsidiary's overall health|
-|Layer 3b|20% of total pool growth|Quarterly|The entire portfolio's health|
-|Dividends|30% of office's share of pool growth + fees earned|Quarterly|Long-term enterprise value|
+The layers also fail independently. Picture the office deploying hard into new subsidiaries that haven't matured: pool growth goes flat, so the office profit share pays nothing and the dividend pool thins. The operating subsidiaries don't notice. Their weekly pay still comes out of gross margin, their own profit share still calculates off their own operating profit, and participants minting shares are doing it while book value is temporarily suppressed — buying in at a discount that appreciates when those investments come good.
 
-Both profit share distributions (3a and 3b) are paid simultaneously each quarter. At each level, the participant independently chooses: take cash, mint Class B shares, or any combination. This means every quarter, a participant has four separate allocation decisions to make — two profit share payouts and two cash-or-mint choices. The flexibility is total.
+The system doesn't need every layer performing at once. It needs one, and the architecture makes it structurally difficult for all of them to fail together. For that to happen, every subsidiary would need to lose its customers, the office would need to have misallocated badly, and the reserves would have to be empty at the same time — while half the pool sits in liquid capital precisely so that last one isn't true.
 
-_In multi-cell subsidiaries, Layer 3a may be split into a 10% cell-level profit share and a 10% subsidiary-level profit share when the team votes to adopt the split structure. This adds a fourth scope of alignment — your cell's direct performance — without changing the total percentage. See [[The Cell Framework#Cell-Level Profit Sharing|The Cell Framework, Cell-Level Profit Sharing]] for details._
+---
 
-_For the mechanics of minting Class B shares with profit share, see [[The Equity Framework#Section 3 Minting|Section 3 of the Equity Framework]]._
-
-# Section 5: Structural Redundancy
-
-Each layer of this system was designed to solve a specific problem: Layer 2 for immediate productivity alignment, the subsidiary profit share for local ownership, the office profit share for portfolio-wide thinking, dividends for long-term compounding, and the network marketing pathway for entrepreneurial education and safety net building. None of these layers were designed as backup systems for the others. And yet, because each one was built to solve its own problem honestly, they naturally create redundancy.
-
-Consider the scenario where the office is in an aggressive growth period — deploying capital into new subsidiaries that have not yet become profitable. The total pool's growth may be flat or negative for several quarters while those investments mature. The office-level profit share (Layer 3b) pays nothing. The dividend pool thins. But the subsidiaries that are already operating are unaffected. Their Layer 2 pay still flows from gross margin every week. Their subsidiary-level profit share (Layer 3a) still calculates off their own net profit. Participants can still mint shares with their subsidiary profit share, and because book value may be temporarily suppressed by the capital deployment, they are effectively minting at a discount. When the new investments mature and the pool's growth resumes, those shares appreciate.
-
-The system does not require every layer to be performing well simultaneously. It requires at least one layer to be functioning, and the architecture makes it structurally difficult for all layers to fail at the same time. Labor costs flex with revenue through the COF rate, eliminating the largest fixed cost risk. The safety net bucket (Bucket One) is built specifically for the scenario where active income falters. The network marketing income stream operates entirely outside the Faleth Capital pool. For everything to fail simultaneously, every subsidiary would need to have no customers, the office would need to have made catastrophic investments, the network marketing business would need to have collapsed, and the safety net would need to be empty. That is not a realistic scenario. It is the kind of alignment that would take down any business model.
-
-_This redundancy was not engineered. It emerged. That is usually a sign the architecture is sound — the safety was not bolted on after the fact. It grew naturally from solving each problem on its own terms._
-
-# Section 6: The Liquidity Reserve Policy
-
-Consistent with the Talmudic one-third principle that undergirds Faleth Capital's philosophy (see [[Faleth Capital Constitution#1.3 — Philosophical Foundation The One-Third Rule|Section 1.3 of the Constitution]]), the family office maintains a liquidity reserve policy:
-
-**_At all times, approximately half of the total pool should be held in liquid capital, with the other half deployed into the combined balance sheets of the portfolio's operating subsidiaries._**
-
-This policy applies to the full pool — office equity and investor capital together. It ensures that capital is always available to fund a new subsidiary when a participant is ready to build, to weather downturns without forced liquidations, and to seize opportunities without external financing. The 50% retention allocation is the primary engine that builds the liquid side of the office's own holdings over time.
-
-When the ratio drifts — after a major capital deployment, an investor withdrawal, or a period of heavy growth — it is not a crisis. It is a signal. The office reads the balance and adjusts its posture accordingly: slow spend to rebuild liquidity, or accelerate deployment when reserves are running ahead of the target. The goal is not a perfectly maintained ratio at every moment, but a consistent discipline that prevents the pool from ever being fully committed on either side.
-
-_This framework is a living document. Its parameters — the parent company fee percentages, the 20/30/50 allocation split, the liquidity reserve target — may be adjusted by Class A members through the amendment process described in [[Faleth Capital Constitution#Article IX Amendments|Article IX of the Constitution]]. The principles of transparency, simultaneity, and structural simplicity are permanent._
+*This is a living framework. The parameters — the office fee percentages, the profit-share rates, the dividend split, the deployment target — are set by Class A members through the amendment process in [[Faleth Capital Constitution#Article VII Amendments|Article VII of the Constitution]]. The principles are the parts meant to last: the war chest only fills, costs come off the top rather than pushing down, the biggest expense flexes with revenue, everything is calculated off one snapshot, and people are paid from the number they moved.*

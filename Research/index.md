@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-21 | Total pages: 50+
+> Last updated: 2026-07-27 | Total pages: 50+
 
 ## Meta / schema
 
@@ -109,6 +109,7 @@
 
 ## Queries
 
+- [[what-why-how-three-by-three-action-architecture]] — Pyramid with What at the apex, Why/How beneath it, and Push–Pull–Process plus Time–Talent–Treasure as their foundations.
 - [[faleth-capital-operating-philosophy]] — Durable synthesis of Faleth's contribution, ownership, governance, trust, and discipleship logic.
 - [[heart-upstream-of-identity-theological-horticulture]] — Theological horticulture metaphor: heart/root upstream of identity and behavior/fruit.
 - [[how-ltd-amway-functions-as-leadership-incubator]] — Explains how LTD Amway develops leadership through mentorship, duplication, environment, and sweat equity.
@@ -118,12 +119,14 @@
 
 - [[faleth/process/frontier-model-cost-speed-tradeoff-2026]] — SWE-1.7 cost/speed signal for agent stacks
 - [[faleth/process/agent-swarm-coordination-context-economics-2026]] — Cursor SQLite case: context-specialized planner/worker swarms, coordination primitives, review lenses, and completed-job economics.
+- [[faleth/process/microproductivity-requires-workflow-redesign-2026]] — AI task gains become organizational outcomes only after staffing, incentives, and downstream workflows are redesigned around the new capacity.
 - [[faleth/process/hermes-agent-long-horizon-codebases-2026]] — Hermes on huge legacy codebases
 - [[faleth/content/hermes-grok-x-content-machine-2026]] — automated X content machine packaging
 - [[faleth/process/llm-foundations-skill-stack-2026]] — CS229 foundations as future curriculum
 - [[faleth/process/agentic-loops-design-2026]] — Anthropic four loop types (prior + re-indexed)
 - [[faleth/process/hermes-cloud-and-x-mcp-2026]] — Hermes Cloud + hosted X MCP agent surface
 - [[faleth/process/local-model-ownership-agency-2026]] — Ownership agency of local weights vs API rental
+- [[faleth/process/refusal-vector-ablation-open-model-control-2026]] — Refusal-subspace intervention makes open-weight alignment inspectable and changeable, with capability, safety, and evaluation tradeoffs.
 - [[faleth/process/ai-as-sparring-partner-house-method-2026]] — Treat AI as fallible bounce partner (House method)
 - [[faleth/process/anthropic-prompting-craft-deleted-lecture-2026]] — Internal prompting craft signal; practice over permanent URLs
 - [[faleth/process/self-writing-vault-operating-loop-2026]] — Capture, immutable raw evidence, automated linking, recall, and recurring synthesis as a low-babysitting knowledge loop.
@@ -133,4 +136,7 @@
 - [[faleth/process/simplified-technical-english-for-llm-docs-2026]] — Named language standards as inspectable constraints for clearer LLM-generated technical documentation.
 - [[faleth/process/open-source-situational-awareness-world-monitor-2026]] — World Monitor as an open, map-based OSINT operating surface; useful architecture signal without pretending it is Palantir-in-a-box.
 - [[faleth/process/wifi-sensing-spatial-intelligence-ruview-2026]] — WiFi CSI as camera-free spatial sensing, with hardware realities, mission-shaped validation, and privacy guardrails.
+- [[faleth/process/demonstration-to-skill-capture-2026]] — Screen demonstration plus narration as a low-friction path from tacit operator knowledge to testable agent procedures.
+- [[faleth/process/image-to-3d-asset-compilation-agent-loops-2026]] — Compile visual references into project-native procedural 3D assets under renderer, performance, and verification constraints.
+- [[faleth/content/reply-led-audience-discovery-2026]] — Use substantive replies as an early discovery and market-learning channel, measured by qualified attention rather than comment volume.
 

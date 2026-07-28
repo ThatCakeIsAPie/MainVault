@@ -154,3 +154,21 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-21
 - The SBA Office of Advocacy directly confirmed the July 13 suspension of CMMC Phase 2 requirements and an August 14 comment deadline for the reform RFI. VXE/LibreTech should keep contract-specific controls active, quantify burden and risk reduction, and decide whether to submit concrete small-contractor evidence. The ISR deadline is seven days past; continue closure receipts/tickets/notices ([official CMMC RFI summary](https://advocacy.sba.gov/2026/07/20/dow-requests-information-for-cmmc-reform-task-force/), [SAM.gov](https://sam.gov/esrs)). Signal: **strong**.
+
+### 2026-07-22
+- Directly inspected SAM.gov still requires FSD/customer notice for issue-blocked ISR filing eight days after deadline and lists eligibility/workspace updates in progress. Fresh legal headlines grouped CUI/FOCI/quantum/CMMC rules and key-personnel disclosure; add clause/version and personnel-change evidence fields while the August 14 CMMC reform window remains open ([official SAM.gov](https://sam.gov/esrs), [key-personnel item](https://news.google.com/rss/articles/CBMihgFBVV95cUxNczU3MFA3UzIzOVZ4RWhQSlM5ZTI5UklSVjZ2dEJRMmh6ZktMbm5ScVBLX2JKMnpoMkxlalNCR0w4Mm1KcVUwcVkxZVZXOVF6S01mOWwwQ01yTFY2R2o5LVVUTVlWSzVSaWIwY2NaTzg4TklGYkFqWHRPcV9ZS2JZQUxVN0JNQQ?oc=5)). Signal: **strong** for SAM, **medium–weak** for legal details.
+
+### 2026-07-23
+- Nine days after the mid-year ISR deadline, directly inspected SAM.gov still instructs issue-blocked filers to submit an FSD ticket and notify the agency/higher-tier customer. It still lists missing FFATA first-tier integration, the **$550,000** eligibility revision, and lower-tier ISR enablement as active updates. No verified proposal-tool or primary-rule change surfaced ([official SAM.gov](https://sam.gov/esrs)). Signal: **strong** for official instructions, **weak** for daily novelty.
+
+### 2026-07-24
+- Ten days after the ISR deadline, SAM.gov now displays newly observed completed SPR enhancements: ISR eligibility exclusively includes FFATA-reported first-tier subcontracts above **$550,000**; previously missing qualifying first-tier records were incorporated; and active Part 8 BPA Calls must be reported, with submitted ISRs correctable where calls were omitted. Reconcile affected reports and preserve correction receipt, disposition, owner, and evidence path ([official SAM.gov](https://sam.gov/esrs)). Signal: **strong** for official content, **medium** for strict-window novelty because no publication timestamp is visible.
+
+### 2026-07-25
+- Eleven days after the ISR deadline, direct inspection found the FFATA >$550,000 eligibility, missing-record, Part 8 BPA Call, and correction text unchanged. A fresh legal headline says CMMC Phase II remains suspended, but no new primary rule was verified; preserve contract-specific controls and decide whether to submit small-contractor evidence before the August 14 reform deadline ([SAM.gov](https://sam.gov/esrs), [CMMC item](https://news.google.com/rss/articles/CBMihAFBVV95cUxNdUdOYnV4cUh3bFp1YkduU0dMa2FmVzhaZDJHeXlMeUxRRjhuQlBzUUpKMTVrSDZva21qcHFjRjJ4SGlxeWlIdDBwOXZRdFFuYkdZZWVoUTk2ZHdObDRXVkY5akdIZHdsQjc1RlJRYkNnUXYwaFRoamhUY210VXU0UDdWcXE?oc=5); legal item RSS/snippet-level). Signal: **strong** for SAM, **medium–weak** for CMMC novelty.
+
+### 2026-07-26
+- Twelve days after the ISR deadline, direct inspection found SAM.gov's FFATA first-tier >$550,000 eligibility, missing-record incorporation, Part 8 BPA Call reporting, and correction capability unchanged. No verified proposal-tool or primary-rule change surfaced; close every relevant row with receipt, disposition, exception/ticket, customer notice, owner, next action, and evidence path ([official SAM.gov](https://sam.gov/esrs)). Signal: **strong** for SAM, **weak** for daily novelty.
+
+### 2026-07-27
+- Thirteen days after the ISR deadline, direct inspection found the FFATA >$550,000 eligibility, missing-record incorporation, Part 8 BPA Call, and correction text unchanged. No relevant proposal-tool or primary-rule change surfaced; reconcile and close every applicable row while keeping the August 14 CMMC reform-comment decision visible ([official SAM.gov](https://sam.gov/esrs)). Signal: **strong** for SAM, **weak** for novelty.

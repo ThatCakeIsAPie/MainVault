@@ -10,6 +10,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Prompt-cache and response-cache visibility should become part of every recurring agent workflow budget (OpenAI notes more predictable prompt caching / cache breakpoints on GPT-5.6).
 - **MCP-native routing** on aggregators (OpenRouter-class) is becoming the default interface for agent tool loops—not a side integration.
 - Provider **service tiers** (`flex` / `priority`) and per-endpoint price, latency, throughput, and uptime are becoming machine-readable routing inputs; a model ID alone no longer describes the operational service being bought.
+- **Effort controls and premium speed variants** are now explicit routing dimensions: Claude Opus 5 standard versus Fast makes latency value and supervision savings part of accepted-result economics, not merely a model-family choice.
 - Cheap coding/agent workers such as **poolside/laguna-xs-2.1** and **meituan/longcat-2.0** matter for cron/volume economics, but must be benchmarked on accepted-result cost. The July 21 removal of **tencent/hy3:free** confirms that promotional free routes cannot be treated as durable dependencies.
 - Daily full-ID snapshots and pricing checks are now mandatory operational evidence: catalog removals are exactly auditable, and DeepSeek V3.2's July 15 cache-price jump shows why cheap-worker assumptions must expire automatically.
 - Free routes are opportunistic capacity, not durable infrastructure: July 20 removed six free endpoints at once, reinforcing preflight checks and paid fallback requirements.
@@ -160,3 +161,21 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-21
 - Official API **~11:01 UTC**: **338 models**, exact diff **+1 / -1**. Added `meituan/longcat-2.0` (131,072 context, **$0.30/$1.20/M**); removed `tencent/hy3:free`. Core-stack pricing is unchanged. Remove HY3 from fallback assumptions and benchmark LongCat against Laguna on accepted-result cost before routing changes ([API](https://openrouter.ai/api/v1/models), [LongCat](https://openrouter.ai/meituan/longcat-2.0)). Signal: **strong**.
+
+### 2026-07-22
+- Official API **~11:01 UTC**: **342 models**, exact diff **+4 / -0**. Added `google/gemini-3.6-flash` **$1.50/$7.50/M**, `google/gemini-3.5-flash-lite` **$0.30/$2.50/M**, `poolside/laguna-s-2.1` **$0.10/$0.20/M**, and `poolside/laguna-s-2.1:free`. Core-stack pricing is unchanged. Benchmark Flash-Lite for extraction, Flash for general/multimodal work, and Laguna S against XS/LongCat on accepted-result cost ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
+
+### 2026-07-23
+- Official API **~11:01 UTC**: **342 models**, exact full-ID diff **0 additions / 0 removals**. Core stack remains stable: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free` ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**; continue accepted-result benchmarks before rerouting.
+
+### 2026-07-24
+- Official API **~11:01 UTC**: **343 models**, exact full-ID diff **+1 / -0**. Added `inclusionai/ling-3.0-flash:free`; core-stack pricing remains unchanged. Treat Ling as opportunistic bounded capacity and benchmark structured output, tool use, latency, availability, and accepted-result cost against Gemini 3.5 Flash-Lite and Laguna XS while retaining a paid fallback ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
+
+### 2026-07-25
+- Official API **~11:01 UTC**: **345 models**, exact full-ID diff **+2 / -0**. Added `anthropic/claude-opus-5` (**$5/$25/M**, cache read **$0.50/M**, 1M context) and `anthropic/claude-opus-5-fast` (**$10/$50/M**, cache read **$1/M**, 1M context). Core-stack pricing remains unchanged. Benchmark standard Opus 5 against GPT-5.5/Sonnet 5 first; Fast requires measured latency value before paying 2× ([Anthropic](https://www.anthropic.com/news/claude-opus-5), [API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
+
+### 2026-07-26
+- Official API **~11:00 UTC**: **345 models**, exact full-ID diff **0 additions / 0 removals**. Core stack remains unchanged: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free` ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**; no routing change.
+
+### 2026-07-27
+- Official API **~11:00 UTC**: **342 models**, exact diff **0 additions / 3 paid-route removals**: `inflection/inflection-3-pi`, `inflection/inflection-3-productivity`, and `openai/gpt-4o-mini-search-preview`. Core-stack IDs and pricing remain unchanged. Active Hermes config/cron search found no references; only stale model-metadata caches retained them. Keep availability preflights for non-core routes ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**; core stable, fallback pool contracted.

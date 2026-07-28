@@ -1,11 +1,12 @@
 ---
 title: Delta Phone Interface — Grok Voice over Hermes
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-27
 type: principle
-tags: [hermes, xai, voice-agent, telephony, mcp, architecture, jarvis]
+tags: [ai, infrastructure, software, systems, leverage]
 sources:
   - research/raw/articles/2026-07-14-xai-grok-voice-agent-builder.md
+  - raw/x-bookmarks/2026-07-26/2081408374315602338.md
 confidence: high
 ---
 
@@ -82,6 +83,14 @@ A thin bridge gives:
 - An unauthenticated probe correctly returned HTTP 401, confirming bearer-key enforcement.
 - xAI OAuth is available to Hermes, but Voice Agent Builder/API billing and credentials may still require configuration in the xAI console.
 - The API server is intentionally local-only; the bridge should remain the only public ingress rather than exposing port 8642 directly.
+
+## Voice as a mobility and capture interface
+
+Alex Finn's field report adds a separate use case from telephony: **continuous voice access to an always-on headquarters computer** while walking, driving, or moving between places. The durable mechanism is not human-sounding speech. It is converting otherwise awkward, screenless time into project briefing, idea capture, drafting, decomposition, and delegated execution.
+
+For Delta, this supports a broader interface test: the phone line should make useful work possible away from a desk without pretending every task belongs in voice. Voice is strongest for intent capture, review, prioritization, and starting asynchronous jobs; exact code review, dense comparison, and irreversible actions should still return to a screen or explicit confirmation. The post's claim of four voice hours outperforming eight desk hours is an anecdote, not a benchmark. [[raw/x-bookmarks/2026-07-26/2081408374315602338]]
+
+This complements [[faleth/process/demonstration-to-skill-capture-2026]]: narration can expose intent and tacit judgment, while Hermes converts that input into durable artifacts and verifiable work.
 
 ## v0 KPI
 

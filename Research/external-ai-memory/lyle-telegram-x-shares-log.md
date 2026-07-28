@@ -1,7 +1,7 @@
 ---
 type: note
 title: Lyle Telegram X Shares Log
-updated: '2026-07-20T23:20:25.000Z'
+updated: '2026-07-24T17:05:10.000Z'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -21,6 +21,12 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-07-24 | [2080699367883980924](https://x.com/garrytan/status/2080699367883980924) | Garry Tan; Faleth as the radically different staffing/workflow architecture AI diffusion requires | [[research/raw/transcripts/lyle-x-share-2080699367883980924]] | [[research/faleth/process/microproductivity-requires-workflow-redesign-2026]]; [[The Contribution Framework]] |
+| 2026-07-22 | [2080056638820450400](https://x.com/jack/status/2080056638820450400) | follow-up; Jack's “why we're buzzing” X article | [[research/raw/articles/jack-why-were-buzzing-2026-07-22]] | [[research/faleth/process/buzz-sovereign-agent-workspace-analysis-2026]] |
+| 2026-07-22 | [2079684905991118892](https://x.com/derekmross/status/2079684905991118892) | ambient share; Buzz includes Mesh-LLM shared compute | [[research/raw/transcripts/lyle-x-share-2079684905991118892]] | [[research/faleth/process/member-gated-compute-mesh-for-sovereign-agents-2026]] |
+| 2026-07-22 | [2080003549564432425](https://x.com/LyleBCole/status/2080003549564432425) | Lyle public thread; Time–Talent–Treasure conversion triangle | [[research/raw/transcripts/lyle-x-share-2080003549564432425]] | [[research/faleth/process/three-treasures-resource-conversion-and-stewardship-2026]] |
+| 2026-07-22 | [2080002464959316047](https://x.com/LyleBCole/status/2080002464959316047) | Lyle public thread; money buys time, right-hands stewardship | [[research/raw/transcripts/lyle-x-share-2080002464959316047]] | [[research/faleth/process/three-treasures-resource-conversion-and-stewardship-2026]] |
+| 2026-07-22 | [2079594120977527102](https://x.com/i/status/2079594120977527102) | requested full transcription; 2003 Stanford Musk lecture | [[research/raw/transcripts/lyle-x-share-2079594120977527102]] | [[research/faleth/process/product-focus-parallelism-and-compounding-simplicity-2026]] |
 | 2026-07-20 | [2079256616407273801](https://x.com/i/status/2079256616407273801) | ambient share; Cursor SQLite agent-swarm economics | [[research/raw/transcripts/lyle-x-share-2079256616407273801]] | [[research/faleth/process/agent-swarm-coordination-context-economics-2026]]; [[research/faleth/process/frontier-model-cost-speed-tradeoff-2026]] |
 | 2026-07-11 | [2070642609932910677](https://x.com/i/status/2070642609932910677) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-07-11/2070642609932910677]] | [[research/faleth/mindset/god-planted-dream-capacity-2026]] |
 | 2026-07-11 | [2071000377441300854](https://x.com/i/status/2071000377441300854) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-07-11/2071000377441300854]] | [[research/faleth/process/ai-as-sparring-partner-house-method-2026]] |

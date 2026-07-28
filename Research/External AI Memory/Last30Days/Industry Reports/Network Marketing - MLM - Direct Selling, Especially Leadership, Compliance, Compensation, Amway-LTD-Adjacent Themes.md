@@ -147,3 +147,21 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-21
 - Indian coverage reported another alleged MLM/job scam and a separate QNet complaint; Direct Selling News reported Medifast broadening from OPTAVIA into a metabolic-health system. No Amway/LTD rule change surfaced. Treat `job`, `investment`, recruitment-led wealth, and unsupported health outcomes as separate prohibited claim categories ([Hindustan Times item](https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3pKNGFvZVg1UjY3WFU4UjVYdTRoUC1GaUtrbXdiVTdzNGkwUi1kZ3JEd250T2xDNkFnYURTVVU4enVLcFp4YWNzYmVfbkRXYVhydGhnY1lrSUJROTBtOWJnYkZXVHlIcVNISEJkVFNCR0hJSXlESS1pcjI5a3IxWThnY2RZWGdMX3h5RWJqWnRJaWZ1N3pFZ3p1a0wxaGpZSFFMdEc0d3NxeWVyODVCcDYtQlZ4SkJlbXBQeE13YzBRbVl40gHKAUFVX3lxTE9mM3dJYmF5VEJFdTY4LS1EakJoWHI5T3BzTHpLbHlGa0I3cU5ISkVsYmkwZjNRYW85MVhwMDQwVWxCbjViRFN3a1ItMnFQS1JkSVU3MlJiM2tQZk9QNDk5RGRIQk54UUUtM1A4Y25BUHFUeDNuQUMzWUllRlR5dDhkQU5uQkcwci1QdTBrenBmUVpfZzJ1UWdfd0VaMUJadlNFNE9XRl9JZDNUTklHNjVVQWI4NXdKYksxSEJlb19uNUZuanY4Y1lVdEE?oc=5); RSS/snippet-level). Signal: **medium–weak** for enforcement, **weak** for Amway/LTD novelty.
+
+### 2026-07-22
+- Targeted strict-window RSS returned no substantive Amway/LTD compensation, IDS, enforcement, or leadership-compliance development; results were acronym collisions and unrelated financial disclosures. Maintain official IDS, product/customer-value, typical-results, and approved-claims discipline ([Amway IDS](https://www.amway.com/en_US/income-disclosure) — background). Signal: **weak** for daily novelty.
+
+### 2026-07-23
+- No substantive Amway/LTD compensation, IDS, enforcement, or official compliance change surfaced. The only targeted result was QNET-sponsored-style legitimacy framing, which is marketing evidence rather than independent compliance authority. Keep official IDS, typical-results, product/customer-value, approved-claims, and synthetic-testimonial discipline ([Amway IDS](https://www.amway.com/en_US/income-disclosure) — background). Signal: **weak** for daily novelty.
+
+### 2026-07-24
+- Targeted strict-window RSS returned no Amway/LTD compensation, IDS, enforcement, or leadership-compliance items. Maintain official IDS, typical-results, product/customer-value, approved-claims, and human review; scalable AI outreach increases the blast radius of one bad claim ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC MLM guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing) — background). Signal: **weak** for daily novelty, **strong** for the durable compliance backdrop.
+
+### 2026-07-25
+- Targeted strict-window RSS again returned no substantive Amway/LTD compensation, IDS, enforcement, or leadership-compliance item; results were unrelated income/tax noise. Maintain separate approved/banned language for `job`, `investment`, guaranteed/passive income, recruiting-as-product, unsupported health outcomes, lifestyle implication, and synthetic testimonials ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC MLM guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing) — background). Signal: **weak** for daily novelty, **strong** for durable compliance context.
+
+### 2026-07-26
+- Targeted strict-window RSS returned zero items; no Amway/LTD compensation, IDS, enforcement, or leadership-compliance change surfaced. Maintain product/customer-value, typical-results, IDS, approved-claims, and human-review discipline ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC MLM guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing) — background). Signal: **weak** for novelty, **strong** for durable context.
+
+### 2026-07-27
+- Targeted strict-window RSS again returned zero items; no Amway/LTD compensation, IDS, enforcement, or leadership-compliance change surfaced. Maintain separate controls for job, investment, earnings, recruiting, health, lifestyle, and synthetic-testimonial claims ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC MLM guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing) — background). Signal: **weak** for novelty, **strong** for durable context.

@@ -1,195 +1,97 @@
-**THE CELL**
+# The Cell Framework
 
-**FRAMEWORK**
+*How a subsidiary scales past a single team without adding hierarchy.*
+*Faleth Capital · Internal Framework · Version 2.0*
+*Companion to [[The Contribution Framework]], [[The Governance Framework]], and the [[Faleth Capital Constitution]]. Financial and equity mechanics live in [[The Financial Framework]] and [[The Equity Framework]].*
 
-_A Modular Structure for Subsidiaries_
+---
 
-_That Grow Beyond a Single Team_
+## 1. Why Cells
 
-Faleth Capital
+The Contribution and Governance frameworks work beautifully at the scale of a single team. Everyone can see the board, everyone knows what needs doing, and the pool is small enough that each person feels the line between their effort and their share. The system is transparent because it is small enough to be transparent.
 
-Internal Framework Document
+Growth breaks that. A repair shop adds a parts operation; one assembly line becomes five; a second location opens, then a third. The board grows too big to hold in one head, and the pool too large for anyone to feel connected to it. The traditional fix is to add layers — supervisors, directors, VPs — order imposed from above. That is the exact thing these frameworks exist to avoid.
 
-Version 1.0 — Draft
+So we don't add hierarchy; we divide the body into **cells**. A cell is a small, self-organizing team built around one chunk of the workflow, running the full Contribution and Governance frameworks on its own. It doesn't have to hold the whole business in its head — only to be good at its own work and honest at its seams with the cells beside it. Authority stays on the floor, where the work is.
 
-_This document describes how a subsidiary organizes itself as it scales beyond the point where a single self-organizing team can function effectively. It builds on [[The Contribution Framework]], which governs compensation and governance within each cell. For the broader financial and equity structures, see [[The Financial Framework]] and [[The Equity Framework]]. For the governing philosophy, see the [[Faleth Capital Constitution]]._
+The model is biological, not mechanical. A single-celled organism does everything inside one membrane; a multicellular one specializes — some cells digest, some move, some defend — and thrives because the interfaces between them are clean and each cell is good at its job. No cell micromanages the rest. The organism doesn't need a brain cell running every other cell; it needs healthy cells and clear signals. You grow an ecosystem, you don't engineer a machine.
 
-# Section 1: The Problem This Solves
+And because a cell is small and governs itself, the person who feels a bit of friction is also the person free to smooth it. That is the point of keeping cells small and decisions local: not one big move handed down from above, but a thousand small improvements from the people closest to the work, compounding across the body.
 
-The Contribution Framework works beautifully at the scale of a single team. Everyone can see the board. Everyone knows what needs to be done. The Lead can keep the whole operation in their head. Disputes are between people who work side by side and share the same pool. The system is transparent because the system is small enough to be transparent.
+> A cell is small enough that the person who feels the friction is also the person free to smooth it.
 
-But businesses grow. A repair shop becomes a repair shop with a parts distribution operation. A manufacturing subsidiary goes from one assembly line to five. A services company adds a second location, then a third. At some point, the work cannot fit inside a single team. The board is too big for one person to track. The pool is too large for everyone to feel a direct connection between their effort and their share. Coordination starts to drag. The natural response in a traditional company is to add management layers — supervisors, directors, VPs — to impose order from above. That is exactly what the Contribution Framework was designed to avoid.
+---
 
-This framework solves the scaling problem without abandoning the principles. Instead of adding hierarchy, it adds modularity. The subsidiary divides into cells — small, self-organizing teams with defined inputs and outputs — each running its own contribution pool under [[The Contribution Framework]]. The cells interface with each other through clear, negotiated agreements. Each cell is small enough for the system to work the way it was designed. The cells dont have to be concerned with the whole, they just need to be concerned with the other cells they interface with. Because of this, operational drag is reduced. The subsidiary as a whole can be as large as it needs to be.
+## 2. Map the Work, Then Draw the Cells
 
-The analogy is biological, not mechanical. A single-celled organism does everything inside one membrane. A multicellular organism specializes: some cells digest, some transport, some defend. Each cell operates on its own terms. The organism thrives because the interfaces between cells are well-defined and the cells are good at their jobs. The organism does not need a brain cell to micromanage every other cell. It needs clear signals and healthy cells.
+We don't start with an org chart. We start with the work. Map the whole workflow end to end — from the first sign of a customer to the last obligation after the job is done — and let cells form around its natural chunks. The workflow is the anatomy; the cells are the tissue that grows around each part of it. This is the one thing we do differently from a traditional business: structure follows the flow of the work, not a chart of titles.
 
-That is what cells are. Healthy cells with clear signals.
+Where you draw a cell's boundary is set by two forces pulling against each other, like supply and demand. Shrink a cell to keep decisions close to the work, keep everyone feeling their own impact, and keep the system flexible. Grow it to hold similar processes together and capture the economies of scale that come from doing like work in one place. A chunk that's mostly soldering and a chunk that's mostly assembly want to be separate cells; a short end-to-end line that fits in one team can be a whole cell on its own, with the other lines as their own cells. The boundary lands where those two pressures balance — at the natural seams in the work.
 
-Semco’s experience supplies a human criterion alongside the operational one. Ricardo Semler describes organizational “bigness” as the point where people can no longer understand what is happening, influence important decisions, know one another’s contribution, debate plans and strategy, or feel that they belong. At that point, engagement mechanisms become theater because consequential authority remains remote. A cell therefore should not be judged healthy merely because work still moves through it. It should remain **humanly legible** to the people governing and contributing within it. When that legibility disappears, division is a governance repair—not administrative fragmentation. See [[Research/raw/transcripts/2026-07-12-maverick-semler-employee-participation|Semler’s Semco account]].
+A cell runs like an independent business — it just isn't a technically separate one. It governs its own day-to-day completely, and what keeps it inside the body is that it shares one legal entity and one pool. Its customer is whoever consumes what it makes: often the next cell down the line, sometimes an outside customer directly, as when a cell is a retail location selling to the public.
 
-# Section 2: Core Principles
+Those seams between cells are **interfaces**, and they are defined, not vague. Each one names what a cell is expected to output and what it can expect as input — specific and measurable, so a handoff either met the standard or it didn't. When two cells disagree about whether it did, the interface definition settles it, not a manager sitting above them both.
 
-## 2.1 — Cells Are Self-Organizing
+A simple workflow shows the shape. The work runs from **Lead Generation** (sourcing opportunities and sending proposals) to **Closing** (turning a prospect's response into a signed agreement) to **Fulfillment** (producing the work and delivering it to the customer) to **Account Management** (staying with the customer after payment and feeding new work back to the top). Four cells, four chunks of one flow, each handing clean work to the next — and the last looping back to the first, the way a body feeds itself.
 
-Each cell operates under [[The Contribution Framework]] with full autonomy over its internal parameters: point values, COF rate, floor amount, and Lead election. A cell is not a department managed by someone above it. It is a team that governs itself, just like a standalone subsidiary would. The only difference is that its inputs come from and its outputs go to other cells within the same subsidiary, rather than directly from and to customers.
+---
 
-## 2.2 — Inputs and Outputs Are Defined
+## 3. Two Layers of Points
 
-Every cell has a clear description of what it receives and what it produces. These are not vague responsibilities. They are specific, measurable handoffs: parts delivered, boards assembled, pieces tested, orders shipped. The clarity of these interfaces is what makes the modularity work. If two cells disagree about whether a handoff met the standard, the interface definition settles it — not a manager sitting above both of them.
+A single team divides one pool among its people. A multi-cell subsidiary does that twice — once to split the pool among the cells, and again to split each cell's share among its own people. The reason is balance: run the whole subsidiary as one giant pool and no one can feel their effort in it; give each cell a wholly separate pool and no cell has any reason to care about the next. Two layers hold both at once — local accountability and a shared stake in the whole.
 
-## 2.3 — The Subsidiary Is the Profit Center
+**At the subsidiary layer**, the workflow's major steps — one per cell — carry point values, and those values decide how the subsidiary's total pool splits among the cells. Neighboring Leads set them together at their shared seam: how valuable each step actually is, what each cell is expected to output, and what it can count on as input. Every unit of finished work that passes through a step earns that step its points, and a cell's slice of the pool is its points over the total — the same math as the Contribution Framework, one level up. Nothing is handed down; it's a negotiation among peers whose own pay rides on getting it honest.
 
-Cells do not have their own independent revenue in the way a standalone business does. Revenue enters the subsidiary when a customer pays for a finished product or service. That revenue generates gross margin, and the subsidiary's total COF allocation — the team pool — is what funds every cell's contribution payouts. The cells share the same financial outcome. What they divide among themselves is the work that produces that outcome.
+**At the cell layer**, each cell breaks its step into the specific processes that make it happen and sets those point values itself, exactly as a standalone team does under [[The Contribution Framework]]. The cell's share of the subsidiary pool then divides among its people by their internal points. The only thing that changed is the size of the pool being divided — the cell's allocation instead of the whole subsidiary's.
 
-## 2.4 — Size Is Governed by Function, Not by Org Charts
+Both passes run on the same quarterly rhythm, and the mechanics — how the Leads align across cells first, then each works their own chunk with the people who run it — are the calibration process in [[The Governance Framework#3. Calibration|the Governance Framework]]. The point of splitting it in two is the same as the point of cells: nobody three cells away decides what your labor is worth. And when a cell finds a faster way to do its step, the gain flows first to the people who found it and, through lower cost and higher throughput, to the whole body — that flywheel is part of the point system in [[The Contribution Framework]].
 
-A cell can be three people or a hundred and fifty. The size is determined by what the work requires, not by an arbitrary headcount target. The practical ceiling is the point at which a single Elected Lead can no longer keep the cell cohesive — where coordination drag starts to eat into the benefits of self-organization. In practice, that ceiling tends to be somewhere under 150 people, consistent with the natural limits of human group dynamics. When a cell hits that ceiling, it splits. When two cells are doing redundant work, they merge. The structure adapts to the work, not the other way around.
+---
 
-Semco’s reported experience gives this heuristic concrete but non-universal support. Semler writes that people generally performed at their potential when they knew almost everyone around them—usually no more than **150 people**. At approximately **200 employees**, Ipiranga Eldorado’s internal mail could take **two days** to travel less than **300 yards**. After Semco divided the operation into three end-to-end units, the electronics unit reported **40% lower inventory** and defects below **1%**, while all three units eventually achieved next-day delivery. These are management case-study observations rather than controlled causal evidence, but they identify useful signals to test: hidden inventory, defect rate, delivery latency, cross-training, administrative delay, and recovery speed. See [[Research/raw/transcripts/2026-07-12-maverick-semler-employee-participation#Concrete implementation and observed results — pp. 122–125|Semco case evidence]].
+## 4. One Body, One Pool
 
-# Section 3: The Two-Layer Point System
+Cells divide the work, not the revenue. Money enters when a customer pays for finished output, and it enters the subsidiary as a whole — one legal entity, one bank account, one set of books. That shared fate is what makes a cell functionally independent but not technically separate: it runs its own day-to-day, but it wins or loses with the body.
 
-This is where the Cell Framework extends [[The Contribution Framework]] to handle multi-cell subsidiaries. The challenge is straightforward: if the entire subsidiary runs one giant point pool, the connection between individual effort and individual payout becomes too diluted. If each cell runs a completely independent pool, the cells have no financial reason to care about each other. The solution is a two-layer system that preserves both local accountability and cross-cell alignment.
+Costs follow one simple rule: if an expense belongs entirely to one cell, it's the cell's; if it's shared, it stays at the subsidiary level. A cell that is its own shop pays its own rent; cells sharing a floor don't carve the rent between them — it comes off the subsidiary's books. No allocation formulas, no arguing over who used more square footage.
 
-## 3.1 — The Subsidiary Layer
+When a subsidiary becomes multicellular, the profit share it already pays follows the body down one level. The subsidiary profit share described in [[The Financial Framework]] splits in two: **half from the cell's own contribution margin** — its revenue minus what it consumed, its share of the pool, and its own exclusive costs — paid to the cell's people; and **half from the subsidiary's consolidated profit**, paid to everyone across all cells. Half the reward is local, so a tight, well-run cell feels it directly; half is shared, so every cell keeps a stake in the next. It's the local-and-shared pattern that already runs between subsidiary and office, applied one layer further in.
 
-At the subsidiary level, the entire production process — from raw input to finished output — is broken into major steps. Each step corresponds to a cell. The Leads of each cell negotiate the point values for these major steps collectively. This negotiation determines how the subsidiary's total COF pool is divided among cells.
+A cell has no bank account of its own, but it does have a pool that behaves like one. The pool is credited the revenue the cell's work earned and debited what the cell spent — materials, its own exclusive costs, the pay it drew — so it carries a running balance that rises when the cell performs and can be spent down to nothing. How much that balance grew over the quarter is what sizes the cell's profit share; each person's slice of that is their Layer 2 income, as always. One legal entity, one bank account, many ledgers — and the ledgers exist precisely so nobody has to reconcile three hundred real accounts.
 
-For an extreme example, in an electronics manufacturing subsidiary, the major steps might be:
+Anyone in the cell can spend from that pool. Past a threshold, a purchase needs a Lead to take it onto their own limit or a vote of the cell — the same widening-by-impact logic that governs every other decision here. Nothing needs an approval workflow, because the consequence is already structural: what gets spent shows in the balance, and the balance shows in the profit share.
 
-|   |   |   |
-|---|---|---|
-|**Step**|**Cell**|**Point Value**|
-|Parts sourced and received|Sourcing|[Negotiated by Leads]|
-|Boards assembled (SMT)|SMT Assembly|[Negotiated by Leads]|
-|Components inserted and wave soldered|Insertion & Solder|[Negotiated by Leads]|
-|Conformal coating applied|Coating|[Negotiated by Leads]|
-|Final assembly and potting|Assembly|[Negotiated by Leads]|
-|Functional testing passed|Testing|[Negotiated by Leads]|
-|Packaged and staged for shipping|Packaging|[Negotiated by Leads]|
-|Shipped to customer|Warehouse & Shipping|[Negotiated by Leads]|
+The subsidiary funds itself the way the office does — by charging a fee off the top, never by reaching into a cell's pool. Cells pay it on the same terms the subsidiary pays the office, and it covers shared costs along with whatever cushion the subsidiary chooses to keep ([[The Financial Framework#1. How Money Moves Through a Subsidiary|The Financial Framework]]). How thick that cushion runs is the Leads' call together, not a number handed down.
 
-Each completed unit of product that passes through a step earns that step's point value. The total points across all steps for one finished product represent the full COF allocation for that product. Each cell's share of the subsidiary pool is determined by the points their step earns relative to total points — exactly the same math as the individual-level Contribution Framework, just applied one layer up.
+---
 
-The Lead negotiation is the governance mechanism. Leads are elected by their cells, which means each Lead represents the interests of their team. When Leads sit down to negotiate point values for each step, they are negotiating how the total pie is divided among cells. This is not top-down allocation. It is peer negotiation between representatives with skin in the game. If the SMT Lead thinks their step is undervalued relative to its complexity, they make that case to the other Leads. The group reaches agreement the same way the Contribution Framework handles any parameter dispute: open discussion, and if consensus fails, a vote.
+## 5. Governance Across Cells
 
-These inter-cell point values are reviewed quarterly, just like intra-cell point values. If a step becomes significantly easier due to automation or process improvement, its point value should decrease — and the points freed up and the pay is redistributed to steps that are still labor-intensive. The system stays calibrated to reality.
+Cells don't change how the system governs; they add one scope between the individual and the subsidiary. The rule holds at every level — keep each decision with the people closest to it, and widen the circle only as its impact grows ([[The Governance Framework]]).
 
-## 3.2 — The Cell Layer
+Inside a cell, the cell governs itself exactly as a standalone team does: its own point values, floor, and parameters, its own elected Leads, its own disputes. Nothing reaches in unless the cell is breaking the framework or creating real problems for its neighbors.
 
-Inside each cell, the major step is broken down further into the specific processes that make it happen. These internal point values are set by the cell team, exactly as described in [[The Contribution Framework]]. The cell's Lead and participants calibrate the values during setup, recalibrate quarterly, and govern themselves.
+At the seam between cells, the Leads who share it settle it — interfaces, handoff standards, and the subsidiary-layer point values are theirs to negotiate together, and a disagreement widens only if it truly can't be settled there. Subsidiary-wide parameters belong to all the Leads together, the executive among them as one voice, not a hand above. The election, dispute, and separation mechanics for all of these live in [[The Governance Framework]]; cells just apply them at one more level.
 
-For example, the SMT Assembly cell might break its step down into:
+Above the subsidiary, cells disappear. The office deals with the subsidiary as one entity, and the parent fee, profit share, and equity all run on its consolidated numbers. Cells are how a subsidiary organizes itself within — an internal tool, never a separate legal or financial entity.
 
-|   |   |   |
-|---|---|---|
-|**Process**|**Description**|**Point Value**|
-|Line Setup|Loading feeders, setting placement program, running first-article inspection|[Set by cell team]|
-|Component Placement|Running the pick-and-place operation for a batch|[Set by cell team]|
-|Reflow Soldering|Running boards through the reflow oven, monitoring thermal profile|[Set by cell team]|
-|AOI Inspection|Running automated optical inspection, dispositioning flagged boards|[Set by cell team]|
+---
 
-The total internal points for all processes within the cell determine how the cell's share of the subsidiary pool is distributed among its participants. The math is the same as always: your points divided by total points, times the pool. The only difference is that "the pool" is now the cell's allocation from the subsidiary layer, rather than the subsidiary's total COF.
+## 6. Scaling Signals
 
-## 3.3 — Why Two Layers
+A cell structure is never finished; it grows, splits, and re-forms as the work changes. What follows isn't a checklist that forces a restructuring — it's a vocabulary for patterns a team feels long before any number makes them plain. The response to each belongs to the people living it, not to anyone above them.
 
-This structure exists to make the system feel fair and controllable at every level. At the subsidiary layer, Leads negotiate on behalf of their teams using the same point system, simply applied a level higher, to ensure each cell's share of the pie reflects the actual difficulty and value of their step. At the cell layer, participants set their own internal point values to reflect the actual work they do. Nobody three cells away is deciding what your labor is worth. The people closest to the work govern the work — at both levels.
+**The cell stops being humanly legible.** When the pool becomes a number on a screen rather than a shared stake — when people can no longer really see each other's contribution — the mechanism is under strain. More Leads absorb the coordination but can't restore that visibility. Human groups start to strain somewhere around 150, but the team feels it well before then — that feeling is the signal.
 
-It also means that a cell that finds a way to do their step more efficiently — fewer people, better tooling, streamlined processes — keeps the benefit. Their share of the subsidiary pool stays the same (until the next quarterly recalibration), but the pool is divided among fewer internal points, which means each point is worth more. The COF flywheel from [[The Contribution Framework]] operates at the cell level: simplify the process, reduce total points, increase the dollar value of each remaining point. Efficiency is rewarded, not penalized — exactly the same principle, just applied within a modular structure.
+**Disputes multiply and get harder to settle.** When Leads keep adjudicating things they didn't witness, or recalibration feels like factions negotiating rather than peers tuning shared dials, the cell may have outgrown its own self-governance — and that can happen at any size once a team has split into camps.
 
-# Section 4: Governance Across Cells
+**Work piles up at a seam.** A chronic backlog where one cell outruns the next is best read by the Leads on both sides — sometimes it's capacity, sometimes it wants a buffer step, sometimes the boundary is simply in the wrong place.
 
-## 4.1 — Within the Cell
+**Two cells converge on the same work.** When a handoff goes trivial and the processes have merged, running two pools may cost more than it returns, and a merge makes the structure simpler and more honest.
 
-Each cell governs itself. The team sets its own internal point values, COF parameters, floor amount, and Lead structure. The team elects its Leads. Disputes are resolved internally. The subsidiary owner does not reach into cell-level governance unless the cell is violating the framework or creating genuine problems for other cells. The cell’s parameters are its own.
+**A new capability arrives.** A new product, service, or stage may enter cleanest as its own cell, or fold into an existing one. The team decides.
 
-_For election mechanics, the proportional election model, dispute resolution procedures, and quarterly recalibration governance, see [[The Governance Framework]]._
+The right answer — split, merge, a fresh election, a recalibration, or just a conversation — is never predetermined, and the mechanics of a split or separation live in [[The Governance Framework]]. Cells split or merge because the people in them want to, never because a headcount crossed a line, and what becomes of an accumulated pool is part of what those people negotiate rather than something a formula decides for them. Where numbers exist to check, test the diagnosis rather than romanticize division: a split that only adds duplicated overhead without improving flow, quality, or legibility hasn't grown a new cell — it's manufactured a smaller silo. Cells serve the work; when the work changes, they change with it.
 
-## 4.2 — Between Cells
+---
 
-The interface between cells — subsidiary-layer point values, handoff standards, quality thresholds, and any disputes about whether a handoff met the agreed specification — is negotiated by the Leads collectively. Each Lead brings the interests and perspective of their cell to that negotiation. They are not representatives appointed from above. They are people the cell chose, people whose own compensation depends on the cell performing well, which means they have every reason to negotiate honestly rather than politically.
-
-Decisions between Leads are made by discussion and, if needed, majority vote. The subsidiary owner holds a tiebreaker in cases of genuine deadlock — but this should be genuinely rare. Leads who share the same pool of consequences tend to find agreement when they have to.
-
-## 4.3 — At the Subsidiary Level
-
-Subsidiary-wide parameters — total COF rate, profit share percentage, fixed cost management — are set by the Leads collectively, with the subsidiary owner participating as one voice among them. Strategic decisions like adding a new cell, merging existing ones, or changing how the subsidiary-layer point structure is divided belong to the same group. The owner’s role is to provide direction and context, not to override the people closest to the work.
-
-This mirrors the relationship between subsidiary owners and the office: operational autonomy within a shared framework, with authority flowing from the bottom up wherever possible.
-
-## 4.4 — At the Office Level
-
-When the subsidiary interacts with Faleth Capital at the office level, it does so through its owner, just like any other subsidiary. The parent company fee, profit share, and equity mechanics all operate on the subsidiary’s consolidated financials, not on individual cell performance. Cells are an internal organizational tool, not a separate legal or financial entity.
-
-# Section 5: Scaling Signals
-
-The cell structure is not static. It adapts as the subsidiary grows, contracts, and changes. What follows is not a checklist of conditions that trigger mandatory restructuring. It is a set of symptoms the team itself may start to notice — signals worth paying attention to, whose cause and response belong entirely to the people experiencing them.
-
-No one outside the cell tells it when to split, merge, or restructure. That decision lives with the team.
-
-**The cell stops being humanly legible and self-organizing accountability starts to feel abstract.** The Contribution Framework works because the people sharing a pool can see each other’s contributions and hold each other accountable naturally. When a cell grows to the point where people can no longer maintain genuine visibility into what their teammates are doing — where the pool feels like a number on a screen rather than a shared stake — the mechanism that makes the system work is under strain. This is not primarily about how many Leads a cell has elected. Multiple Leads can handle coordination overhead. They cannot restore the visibility and mutual accountability that comes from a group small enough to actually know each other’s work. Research on human group dynamics consistently finds that genuine peer accountability becomes difficult to sustain beyond a certain scale — not because people stop caring, but because maintaining real relationships across a very large group exceeds what people can realistically sustain. The team will feel this before any number makes it obvious. That feeling is the signal.
-
-**Disputes increase and feel harder to resolve.** When the Leads are consistently adjudicating situations they did not witness, when the same disagreements keep surfacing, or when the quarterly recalibration feels more like a negotiation between factions than a collective tuning of shared parameters, the cell may have grown past the point where its self-governance is still genuinely self-organizing. This can happen without headcount being the cause — a team that has split into distinct informal factions, regardless of size, produces the same symptoms.
-
-**Work consistently piles up at an interface.** If one cell produces faster than an adjacent cell can absorb — and the backlog is chronic rather than occasional — the Leads on both sides are in the best position to diagnose why. Sometimes it is a capacity question inside the receiving cell. Sometimes it warrants a dedicated buffer step between them. The people at the interface see it most clearly.
-
-**Two cells are doing the same work.** If the boundary between two cells has blurred to the point where the handoff is trivial, the processes have converged, and maintaining two separate pools costs more in overhead than it returns in accountability, a merge may make the structure simpler and more honest. Cells exist to serve the work, not the other way around.
-
-**A new capability enters the subsidiary.** When the subsidiary adds a product line, a new service, or a stage in the process that did not exist before, a new cell may be the cleanest way to bring that capability in — its own team, its own election, its own calibration, negotiating its place in the subsidiary-layer point structure alongside the existing Leads. Or it may integrate naturally into an existing cell. The team decides.
-
-The right response to any of these signals is not predetermined. A split, a merge, a new election, a recalibration, or simply a direct conversation may all be the right answer depending on what is actually happening. The value of naming these signals is not to prescribe an outcome. It is to give the team language for patterns that are easy to feel but sometimes hard to articulate — so that the people doing the work can respond to them on their own terms, rather than waiting for someone above them to notice.
-
-Where data is available, the team should test the diagnosis rather than romanticize division. Compare before and after: inventory days and obsolescence, defect and rework rates, order-to-delivery time, administrative transit and approval time, number of handoffs, cross-training coverage, fixed overhead per unit, contribution margin, and recovery time after demand shocks. A split that merely adds duplicated administration without improving legibility, flow, quality, or resilience has not created healthy cells; it has manufactured smaller silos.
-
-# Section 6: Cell-Level Profit Sharing
-
-## 6.1 — When This Becomes Relevant
-
-In a single-cell subsidiary, the 20% subsidiary profit share described in [[The Contribution Framework]] works as written — 20% of the subsidiary's net profit, distributed to the team by Layer 2 earnings. There is no need for further subdivision because there is only one team.
-
-When a subsidiary grows into multiple cells, a question emerges: should a cell that runs tight margins, controls its costs, and operates efficiently share its profit share equally with a cell across town that is bleeding money? The single-pool model dilutes the connection between a cell's performance and its people's reward. At some point — typically when the subsidiary has enough cells that people can no longer see or influence what is happening in the other cells — the team may vote to adopt a split profit share structure.
-
-This is not automatic. It is a governance decision, put to a vote by the subsidiary's participants when the scale warrants it. The standard single-pool model remains the default until the team decides otherwise.
-
-## 6.2 — The Split: 10% Cell / 10% Subsidiary
-
-When adopted, the 20% subsidiary profit share splits into two equal halves:
-
-**10% from the cell's own performance.** Each cell tracks its own contribution margin — the revenue attributable to that cell, minus the cost of goods it consumed, minus the COF it paid out, minus any costs that belong exclusively to that cell. Ten percent of this number is distributed to the cell's participants by their Layer 2 earnings within that cell. This is the local incentive: your cell's operational excellence directly affects your payout.
-
-**10% from the subsidiary's consolidated performance.** The subsidiary's full net profit — after all costs, all cells, all shared expenses, and the parent company fee — is calculated as usual. Ten percent of this number is distributed to all participants across all cells, by total Layer 2 earnings subsidiary-wide. This is the cross-cell incentive: you still benefit from every other cell performing well, and you still feel it when they don't.
-
-The total remains 20%. The split changes where the accountability lives. Half is local. Half is shared. The same pattern that already exists between the subsidiary level (Layer 3a) and the office level (Layer 3b) — just applied one layer down.
-
-## 6.3 — What Counts as Cell-Level Cost
-
-The principle for cost attribution is simple: if an expense belongs entirely to one cell, it is that cell's cost. If it is shared, it stays at the subsidiary level.
-
-A shop that is one full cell pays its own rent, utilities, and insurance out of its cell P&L — those costs are exclusively theirs. A factory floor with multiple cells operating in shared space does not try to allocate the rent among them. That rent comes out of the subsidiary P&L, and the subsidiary-level 10% profit share absorbs it.
-
-This mirrors how the office handles costs relative to subsidiaries. The office does not allocate its overhead down to individual subsidiaries — it takes its fee off the top and each subsidiary manages its own costs. The same logic applies one layer down: the subsidiary does not allocate shared overhead to individual cells. Shared costs come out of the subsidiary P&L. Cell costs come out of the cell P&L. No allocation formulas. No arguments about who uses more floor space.
-
-## 6.4 — Cell-Level Financial Tracking
-
-Cells do not need separate bank accounts or separate legal entities. The subsidiary is still one LLC with one bank account. The cell-level P&L is an accounting view — a way of attributing revenue and costs to the cell that generated or incurred them — not a financial separation.
-
-Revenue is attributed to cells based on which cell's work generated it, the same way a restaurant tracks bar revenue and kitchen revenue through the same register. Cost of goods is attributed based on which cell consumed the materials. COF is already tracked per unit through the point system. And cell-exclusive costs (a shop's rent, a production line's maintenance contract) are tagged to that cell in the books.
-
-The Lead does not need to manage a bank account. They need to be able to see their cell's numbers — revenue, COG, COF, cell-level costs, and the resulting contribution margin — clearly enough to make good decisions and to explain the math to their team. The subsidiary's accounting system handles the tracking. The Lead handles the leadership.
-
-## 6.5 — Purchasing Autonomy
-
-Cells need the ability to spend money without creating bottlenecks. A Lead who has to route every parts order through a central approval process is a Lead whose cell is slower than it needs to be.
-
-One approach — to be adopted at the subsidiary owner's discretion — is issuing company credit cards with monthly spending limits. Leads receive a higher limit appropriate to their cell's purchasing needs. Individual participants may receive smaller limits for consumables, small tools, and supplies. All spending shows up on the cell's P&L as their cost. If someone misuses the authority, it shows up in the cell's margin, which shows up in the cell's profit share. The accountability is structural. The system does not need an approval workflow because the financial consequences are already doing that job.
-
-The specific limits, policies, and controls are operational decisions made by the subsidiary owner and the Leads collectively. The principle is that purchasing authority should be delegated to the level where the spending decision is made, with transparency and structural accountability replacing centralized approval.
-
-# Section 7: What This Is Not
-
-This framework is not a replacement for [[The Contribution Framework]]. It is an extension of it. The Contribution Framework governs how compensation works within any team. The Cell Framework governs how a subsidiary organizes itself when it has multiple teams. Every principle from the Contribution Framework — processes not roles, pay for value not time, team governance, elected leadership, quarterly recalibration — applies within each cell exactly as written. The Cell Framework adds one thing: a structured way for those teams to interface with each other without resorting to traditional management hierarchy.
-
-This framework is also not mandatory. A subsidiary with a single small team does not need cells. A repair shop with five technicians and a Lead operates perfectly well as a single Contribution Framework implementation. Cells become relevant when the work outgrows a single team. They are a tool, not a requirement.
-
-_This document is a living framework. The principles — modularity, self-organization, defined interfaces, negotiated point values — are fixed. The parameters — cell boundaries, point allocations, scaling thresholds — are set by the people doing the work and recalibrated as the work changes._
+*Cells are a tool, not a requirement — a single small team needs none of this and shouldn't adopt it until the work outgrows one pool. This is a living framework: the principles — mapping the work, staying bottom-up, defined interfaces, cells small enough to feel — are the parts meant to last. The boundaries, the point splits, and the size at which a cell divides are parameters the people doing the work set and re-set as the work changes.*

@@ -1,216 +1,93 @@
-**THE EQUITY**
+# The Equity Framework
 
-**FRAMEWORK**
+*How ownership works — three classes, earned rather than bought, and priced at book value.*
+*Faleth Capital · Internal Framework · Version 2.0*
+*Companion to [[The Financial Framework]], [[The Contribution Framework]], and [[The Governance Framework]]. Office-level governance is in the [[Faleth Capital Constitution]].*
 
-_A Mint-and-Burn Share System_
+---
 
-_Built on Earned Contribution,_
+## 1. Three Classes
 
-_Not Outside Capital —_
+Ownership usually bundles two things together: the right to steer, and the right to the returns. Here they come apart, and which one someone holds depends on what they brought.
 
-_And a Managed Capital Account Structure_
+**Class A is governance without financial ownership.** Office members hold it. It carries the vote on office-level decisions and pays no dividend — stewardship of the firm rather than a claim on it.
 
-_for Investors Who Want In Without Building_
+**Class B is financial ownership without governance.** Any participant can hold it. It pays dividends from the office's share of pool growth and carries no vote. It can only be minted from earned profit share or reinvested dividends.
 
-Faleth Capital
+**A Managed Capital Account is neither.** Not equity, not a share, not a claim on the office's profits — capital placed with the office to be deployed and grown, returning what that capital earns in the pool, less fees.
 
-Internal Framework Document
+What separates them is what someone brought. Both share classes are earned by building, and no amount of outside money buys either. The MCA exists because that door is closed: it's where capital goes when it wants exposure to what was built without having built it.
 
-Version 1.2 — Draft
+---
 
-_This document details the equity mechanics summarized in [[Faleth Capital Constitution#Article IV The Equity System|Article IV of the Faleth Capital Constitution]]. For how profit share is generated and distributed, see [[The Financial Framework]]. For the contribution-based compensation that generates the profit share used to mint shares, see [[The Contribution Framework]]._
+## 2. Earning and Cashing Out Class B
 
-# Section 1: The Mint-and-Burn Model
+Class B is minted, never bought. The only two sources are earned profit share — from the subsidiary or the office level — and reinvested dividends. Shares are created at the moment of investment, priced at the current book value per share:
 
-Faleth Capital uses a mint-and-burn equity model. Shares are created when participants invest and destroyed when they cash out. There is no fixed pool to exhaust, no buyback negotiation, and no outside capital can purchase shares. Every share in existence represents earned contribution that someone chose to reinvest.
+**Book value per share = office equity ÷ Class B shares outstanding**
 
-# Section 2: Share Classes
+That is the office's own equity, not the total pool. Investor capital in the pool belongs to the investors; Class B is priced on what the office itself owns. No multiples, no trailing averages, no discretionary inputs — a number on the balance sheet divided by a number everyone can see.
 
-|   |   |   |   |
-|---|---|---|---|
-|**Class**|**Holder**|**Rights**|**Transferability**|
-|Class A|Office Members|100% ownership of the firm; voting rights on office-level governance; non-dividend; represents membership and stewardship|Can be sold upon departure; not diluted by Class B minting|
-|Class B|All participants|Non-voting; dividend-participating from the office's share of pool growth; minted via profit share, burned on cash-out|Not transferable; can only be cashed out (burned) at book value|
-|Managed Capital Account (MCA)|External investors|Not equity; not shares; not ownership in the office; a proportional co-ownership stake in the unified pool, managed by the office under the 2 and 20 structure; returns flow from pool growth, not from office dividends|Subject to account terms; not transferable without office approval|
+Watching it move through the books shows why none of this can be gamed. When a quarter's profit share is calculated, the cash sits in assets and the obligation to pay it sits in accounts payable. Take it in cash and both disappear together. Convert it to Class B instead and the cash never moves at all — the obligation simply shifts out of accounts payable and into Class B equity. Shares live on the same side of the balance sheet as liabilities without being one: a claim against the office's value rather than an asset of it.
 
-_For governance rights and voting procedures, see [[The Governance Framework]]._
+And because minting happens *at* book value, it cannot move book value. Adding a dollar of equity along with a dollar's worth of shares leaves the ratio exactly where it was, and burning removes both in the same proportion to the same effect. Nobody's decision to buy in or cash out changes anyone else's share price. Only the office's actual performance does.
 
-# Section 3: Minting (Acquiring Class B Shares)
+**Cashing out** happens on the holder's schedule, not the office's. Any holder may burn some or all of their shares at current book value, and those shares are permanently destroyed. That is real liquidity — nobody is trapped holding paper — and it costs nothing to the people who stay. Burned shares can only ever be replaced through future earned profit share.
 
-The only way to acquire Class B shares is by investing earned profit share (from either the subsidiary or office level) or reinvesting earned dividends. When a participant invests, new shares are minted at the current book value per share:
+**Leaving doesn't force a sale.** Someone who departs a subsidiary may hold their Class B indefinitely and keep collecting dividends. What stops is minting: with no new profit share coming in, their percentage of the total gradually thins as active contributors mint against it, unless they reinvest dividends. Return to any subsidiary in the portfolio and they resume earning profit share, and minting, right where they left off.
 
-**_Book Value Per Share = (Office Equity − Liabilities) ÷ Total Class B Shares Outstanding_**
+---
 
-Book value is calculated from the office's own equity in the pool — not the total pool balance including investor capital. Investor capital belongs to the investors. Class B share pricing reflects what the office itself owns. This valuation is intentionally simple: a number on the balance sheet divided by a number everyone can see. No subjective multiples, no trailing averages, no discretionary inputs.
+## 3. The Dilution Factor
 
-# Section 4: Burning (Cashing Out)
+Shares are minted continuously, so the obvious question is whether a holder's stake dilutes. The share price doesn't — that's settled above. What dilutes is a holder's slice of the dividend pool: the 30% of the office's quarterly gain paid out across every share outstanding ([[The Financial Framework#3. The Quarterly Snapshot|The Financial Framework]]). More shares means more claims on the same pool.
 
-Any Class B shareholder may cash out some or all of their shares at any time at the current book value per share. Cashed-out shares are permanently destroyed. This provides genuine liquidity — nobody is trapped holding illiquid paper — while preventing speculation, since burned shares cannot be repurchased except through future earned profit share.
+Whether that costs a holder anything depends on a race. If the office's equity grew faster this quarter than the share count did, each share pays more than it did last quarter and the **dilution factor** is positive. If shares outran the growth, it's negative and each share pays less. That number is calculated and published every quarter at the earnings call, because it's the closest thing the firm has to a velocity measure — not how big the office is, but how fast it's gaining on itself.
 
-# Section 5: Holding After Departure
+It's information rather than judgment. A negative quarter while the office is deploying hard is often exactly right: new subsidiaries take time to earn, and equity growth lags while they mature. A sustained negative trend is worth attention. Both readings belong to the holder, which is why the number is published rather than explained.
 
-Participants who leave a subsidiary are not required to cash out. They may keep their Class B shares indefinitely and continue receiving dividends. However, with no new profit share coming in, they cannot mint new shares (unless they reinvest dividends), and natural dilution from new shares minted by active contributors will gradually reduce their percentage of the total pool over time.
+And a thin quarter isn't a lost one. When the office deploys capital, the money doesn't leave the balance sheet — it moves within it, out of cash and into a subsidiary, both of them assets and both counted in office equity. There's some friction in the conversion, the way a car loses value driving off the lot, but it should stay small. What doesn't reach holders as a dividend is still sitting there in book value per share. The money stays; only its form changes.
 
-If a departed holder later returns to any subsidiary in the portfolio, they retain their existing shares and begin earning profit share again, resuming their ability to mint.
+---
 
-# Section 6: The Dilution Factor
+## 4. Managed Capital Accounts
 
-If shares can be minted continuously, the obvious question in any would-be investor's mind is "wouldn't my shares dilute?" The answer is yes. If more people mint shares in a quarter than get burned, your percentage of the overall shares get diluted.
+An MCA is not equity. Not a share, not a claim on the office's profits, not a stake in the firm. It's capital placed with the office to be deployed and grown, and the distinction is structural rather than semantic: an MCA holder owns a proportional slice of the unified pool, and their return comes from what that pool does, not from what the office earns.
 
-That being said, because of how the minting mechanism operates in the balance sheet, the price of your shares are completely unaffected by who is minting and burning. This is because if someone chooses to mint new shares, the cash stays in the asset column, and the value of the shares are simply added to the liability column, effectively zeroing out. If they choose to cash out instead, the cash is simply removed from the asset column. If they burn existing shares, the value of the shares are removed from both columns. No matter which way you cut it, it always totals to the same amount. Your shares only grow in value when the overall pool grows. They shrink if the pool shrinks. This single mechanism protects the value of the shares from speculation.
+The pool is genuinely shared — office capital and investor capital in one place, deployed by the same people under the same discipline, ownership tracked as a percentage ([[The Financial Framework#2. The Office Pool|The Financial Framework]]). The office charges for managing it on standard terms, 2 and 20, and the team's profit share comes off total pool growth before anything divides by ownership. That last part is deliberate and worth understanding rather than resenting: the capital grew because operators whose own pay depends on performance made it grow. Paying them first is what keeps that true.
 
-However, what is worth stating explicitly is that what does get diluted is your share of the 30% quarterly dividend pool. If the office's total pool grew faster than shares were minted this quarter from last, the dilution factor is positive. If not, it is negative. We don't hide this, we make it front and center. It is effectively the firm's velocity measure. It measures the change in the rate of growth. This dynamic is what we call the dilution factor.
+**What an MCA doesn't include.** No Class B dividends — that pool belongs to people who earned their position by contributing labor and reinvesting it, and buying a slice isn't the same as spending three years converting profit share into shares. No vote either. Governance stays with Class A, who earned their seats by building subsidiaries that generate real income.
 
-Each quarter, the dilution factor is calculated and reported in the earnings call.
+**Withdrawing** works the way it does for a Class B holder: any time, at what the slice is worth. No lockup, no notice period. Rather than restricting the exit, the restriction sits at the other end — a limit on how large a share of the pool any single account may hold. That's the trade, and it's the better half of it. Nobody's exit can destabilize the office if nobody's position was ever large enough to. It also closes something subtler: an investor holding a dominant slice would have real leverage over decisions they hold no vote in, and that was never the arrangement.
 
-|   |   |   |
-|---|---|---|
-|**Factor**|**Meaning**|**Implication**|
-|Positive|Dividend pool grew faster than share count|Each share pays more than last quarter; healthy growth|
-|Negative|Share count grew faster than dividend pool|Each share pays less; business needs to grow or minting outpaced profit|
-|Neutral|Both grew at the same rate|Per-share dividend is flat|
+One route in doesn't require capital at all. A customer who builds a referral credit balance can convert it into an MCA contribution ([[The Marketing and Brand Framework]]) — the referral income becomes the seed, and the account grows it.
 
-The dilution factor is information, not judgment. A negative factor during a quarter of heavy investment may be perfectly strategic. A sustained negative trend warrants attention. The point is transparency: everyone sees the number and understands what it means.
+---
 
-## Always Growing
-Something else worth noting about a negative dilution factor during heavy reinvestment quarters. Investors may even see that they receive zero dividends during these quarters. However, because the cash turned into hard assets, instead of it getting paid out as dividends, that slice of growth stays in the pool.
+## 5. What to Expect
 
-Put simply: if the office grew, what doesn't get paid out in dividends gets paid out through increased share price.
+Nothing here is a promise. The office has no track record yet, and until it does the only honest thing on offer is the arithmetic and the actual numbers each quarter. No projections, no targets, no pitch. What follows is how the structure behaves, not how it will perform.
 
-# Section 7: Managed Capital Accounts (MCAs)
+**Capital buys assets rather than a multiple.** Buying into a business on the open market means paying some multiple of its earnings, and most of that price buys goodwill — a number that exists because a buyer agreed to it. Capital deployed here goes in at book value and comes out at book value, so it buys equipment, inventory, and cash sitting on a balance sheet. That's the whole anti-speculative property, and it cuts both ways: there's no multiple to compress, which also means none to expand. Value comes from the businesses earning it and from nowhere else.
 
-Faleth Capital's mission is to create and manage generational wealth. Class B shares serve that mission for people inside the contribution pipeline. Managed Capital Accounts (MCAs) serve people outside the pipeline who want exposure to the portfolio without building a business themselves.
+**For investors, the risk runs asymmetrically in their favor.** In a growing quarter three things come off an investor's slice: the team's profit share, the performance fee, and the management fee. In a flat or shrinking one only the management fee applies, because the other two are percentages of growth that didn't happen ([[The Financial Framework#3. The Quarterly Snapshot|The Financial Framework]]). A proportional share of any loss is still absorbed — this is capital at risk, not a deposit — but the fee structure doesn't compound it.
 
-An MCA is not a share class. It is not equity in Faleth Capital. It is not a claim on the office's profits or dividends. It is a managed capital relationship — the investor entrusts the office to deploy and grow their capital, and pays for that service through the 2 and 20 fee structure. The returns an MCA holder receives are returns on their own capital, not dividends from the office's income. This distinction is not semantic. It is structural, legal, and fundamental to how the system works.
+**The businesses underneath contract rather than break.** Labor is paid as a share of gross margin, so when revenue falls the largest cost falls with it automatically, with no layoffs and no payroll crisis ([[The Contribution Framework#2. The Three Layers|The Contribution Framework]]). And roughly half the pool sits liquid at all times, so a withdrawal never forces the sale of an operating business — it comes off the liquid side, and the office slows new spending until the balance restores itself.
 
-One natural on-ramp to an MCA is through the referral program described in [[The Marketing and Brand Framework]]. A customer who builds a positive referral credit balance — by referring enough spending to exceed their own — may convert that balance into an MCA contribution. This is the customer's path into the ecosystem: no capital required to start, no employment required, just a network and a willingness to share something worth sharing. The referral income becomes the seed capital. The MCA grows it.
+---
 
-## 7.1 — The Unified Pool Model
+## 6. Regulatory Status and Open Parameters
 
-MCA holders do not invest into a separate fund that Faleth Capital manages at arm's length. They invest into the same pool the office itself operates from. Think of the total pool as a pie chart: the office's equity is one slice, and each investor's capital is another. The size of each slice is determined by how much was contributed relative to the whole.
+**This section is a legal flag, not legal advice. Qualified securities counsel must be consulted before an MCA is offered to anyone.**
 
-If the office holds $2 billion and an investor contributes $3 billion, the total pool is $5 billion. The office owns 40%. The investor owns 60%. Every dollar in that pool is deployed by the same people, under the same philosophy, subject to the same 50/50 deployment discipline described in [[The Financial Framework#Section 3 Family Office Financial Flow|Section 3 of the Financial Framework]].
+The SEC evaluates economic substance rather than terminology. Under the Howey test an arrangement is a security if it involves an investment of money, in a common enterprise, with an expectation of profit, derived primarily from the efforts of others — and an MCA meets all four. Describing it as a managed capital relationship doesn't change that, so offering one without registration or a qualifying exemption likely violates federal securities law.
 
-This is not commingling — it is co-ownership. The distinction matters. The office's share grows through its own equity-building activity: parent company fees earned, performance fees collected, liquidity retained. The investor's share grows through their proportional participation in the pool's overall performance. Both parties benefit when the pool grows. Both feel it when the pool contracts. The incentives are unified because the ownership is unified.
+The practical consequence is simple: until the legal structure exists, MCAs are not offered or marketed to anyone. The paths worth evaluating with counsel are the accredited investor exemption under Regulation D — currently $1M in net worth excluding a primary residence, or $200K in annual income, and since 2020 also holders of the Series 7, 65, or 82 — along with Regulation A+ for a streamlined public offering, Regulation Crowdfunding for genuinely public participation under per-person caps, and registering the office as a Registered Investment Advisor, the structure built explicitly for managing money on behalf of clients.
 
-## 7.2 — Fees
+The eventual aim is to open MCAs to anyone willing to accept the fee structure, and regulation has been drifting that way — the 2020 expansion of the accredited definition to recognize demonstrated financial sophistication rather than wealth alone is evidence of it. That aim needs the infrastructure first.
 
-The office charges investors for the service of active management. The structure mirrors standard private equity:
+**Still to be set**, by Class A members with counsel, before any MCA is offered: the legal structure itself; the hurdle rate above which the performance fee applies; the size of the cap on individual holdings, and on total MCA capital relative to the pool; minimum investment thresholds; and the reporting cadence and format for holders.
 
-**2% annual management fee**, charged as 0.5% per quarter on the investor's total capital in the pool. This fee is charged regardless of performance — it covers the ongoing cost of managing the portfolio. In a quarter where the pool does not grow, the management fee still applies.
+---
 
-**20% performance fee**, charged on the investor's proportional share of pool growth in a given quarter. If the pool did not grow, there is no performance fee. The office only collects this when the investor's capital actually increased.
-
-Both fees are income to the office. They increase the office's equity in the pool, which means they flow into the 30% Class B dividend pool and the 50% liquidity retention.
-
-These two fees are separate from — and in addition to — the 20% employee profit share described in Section 7.3. An investor in a growth quarter faces three deductions from their slice of growth: the employee profit share contribution, the performance fee, and the management fee. In a down quarter, only the management fee applies. The other two deductions require growth to trigger.
-
-## 7.3 — The Employee Profit Share Contribution
-
-Before the investor receives their net return, 20% of total pool growth is distributed to employees as the office-level profit share. This comes off the top of total growth — the investor's slice included — because the team's work is what drove the growth. An investor whose capital represents 60% of the pool contributed 60% of the gross growth, and 20% of that gross growth (along with the other 40%) goes to the people who made it happen.
-
-This is a feature, not a cost to be minimized. Investors are buying into a portfolio where every operator has direct financial skin in the game at the weekly, quarterly, and long-term level. The profit share is the mechanism that makes that true. A portfolio run by people whose income is directly tied to performance will, over time, outperform one that isn't. Investors are paying the team to care, and the team cares because they are paid to care.
-
-## 7.4 — What an Investor Receives
-
-The deduction waterfall from an MCA holder's slice of pool growth works as follows:
-
-**In a growth quarter:**
-1. **20% employee profit share** — taken off total pool growth first, proportional to each party's share of the pool. An investor holding 60% of the pool contributes 60% of this deduction.
-2. **20% performance fee** — taken by the office on the investor's remaining share of growth after the profit share contribution.
-3. **0.5% management fee** — taken on the investor's total capital balance regardless of performance.
-4. **The investor keeps the rest.**
-
-**In a down quarter:**
-1. The employee profit share does not apply — there is no growth to distribute.
-2. The performance fee does not apply — there is no growth to charge against.
-3. **The 0.5% management fee still applies** — it is the only deduction in a loss quarter.
-4. The investor absorbs their proportional share of the loss, net of the management fee.
-
-The risk profile is asymmetric in the investor's favor. In a growth quarter the investor retains the majority of their slice's growth after all deductions. In a loss quarter the only guaranteed cost is the management fee — the two 20% deductions vanish entirely because both require growth to trigger. The underlying businesses reinforce this asymmetry: because labor costs scale with revenue through the COF rate, a revenue decline does not produce a payroll crisis. Subsidiaries naturally contract and preserve capital, limiting the depth of any down quarter without forced decisions.
-
-Additionally, the 50/50 deployment discipline means investor capital is never fully committed. Approximately half sits in liquid reserves at all times. An investor who withdraws does not trigger asset liquidations — their exit reduces the liquid side of the pool, and if it pushes the deployed-to-liquid ratio out of balance, the office responds by slowing new spending until the ratio normalizes. Existing businesses are never sold to satisfy a withdrawal.
-
-## 7.5 — What an MCA Is Not
-
-MCA holders do not participate in the Class B dividend pool. That pool belongs exclusively to people who earned their position by contributing labor, minting shares through profit share, and building the portfolio from the inside. An investor buying a slice of the pool is not the same as a technician who spent three years converting quarterly profit share into equity. The dividend stream is the reward for that path. MCA holders receive returns on their capital through their proportional share of pool growth — a different mechanism serving a different relationship. In fact, investor capital is counted on the balance sheet as both an asset and liability, canceling itself out to not have any effect on office performance.
-
-MCA holders have no voting rights. Governance of the portfolio remains exclusively with Class A members, who earned their seats by building subsidiaries that generate real income for the office.
-
-## 7.6 — The Investor Proposition
-
-From the investor's perspective, an MCA offers exposure to a portfolio of operating businesses where every employee is compensated based on contribution rather than fixed salary. The incentive alignment runs from the shop floor to the family office. Every dollar of operating profit was generated by people whose income is directly tied to the value they create. This should, over time, produce superior operational performance compared to traditionally-managed companies.
-
-There is also a structural profitability safeguard built into every subsidiary. Because the largest expense — labor — is paid as a percentage of gross margin through the COF rate, it scales proportionally with revenue. A traditional company with fixed payroll bleeds cash whether it has customers or not. Faleth Capital subsidiaries cannot have that problem. If revenue drops, labor costs drop automatically. The floor is the only fixed labor cost, and it is designed to be modest.
-
-Investors are not buying into a fund managed by strangers. They are buying into an ecosystem where the operators have skin in the game at every level — weekly through contribution points, quarterly through profit sharing, and permanently through Class B equity they earned with their own hands.
-
-## 7.7 — Worked Example: A Quarter at Maturity
-
-_The following is a hypothetical but realistic example of how the math works across all parties in a single quarter. All numbers are illustrative._
-
-**Setup**
-
-The total pool is $5,000,000. The office owns 40% ($2,000,000) and a single MCA holder owns 60% ($3,000,000). The pool has 10,000 Class B shares outstanding. Book value per share is based on the office's equity: $2,000,000 ÷ 10,000 = $200 per share. The pool is deployed 50/50: $2,500,000 in subsidiary balance sheets, $2,500,000 liquid.
-
-**During the Quarter**
-
-The subsidiaries perform well. After all subsidiary-level costs and parent company fees, the total pool grows by $500,000 — meaning the pool ends the quarter at $5,500,000.
-
-The investor's 60% share of that growth is $300,000. The office's 40% share is $200,000.
-
-**Quarterly Deduction Waterfall**
-
-| | |
-|---|---|
-|**Step**|**Amount**|
-|Total pool growth|$500,000|
-|Step 1 — 20% Employee Profit Share (off total growth)|−$100,000|
-|Remaining growth after profit share|$400,000|
-|Investor's 60% share of remaining growth|$240,000|
-|Step 2 — 20% Performance Fee (on investor's $240,000)|−$48,000 → to office|
-|Step 3 — Management Fee (0.5% of investor's $3,000,000 AUM)|−$15,000 → to office|
-|**Net to MCA Holder**|**$177,000**|
-|Office's 40% share of remaining growth ($160,000) + fees ($63,000) = $223,000 → 30% Class B Dividends|$66,900|
-|Office's $223,000 → 50% Liquidity Pool|$111,500|
-
-**What Each Party Receives**
-
-**Employees:** Layer 2 weekly pay continued throughout the quarter, unaffected. Subsidiary-level profit share from their own subsidiary's net profit (separate Layer 3a calculation). Plus $100,000 in office-level profit share split across all participants by Layer 2 pay. A participant who earned 10% of total Layer 2 pay across the portfolio receives $10,000 in office-level profit share, on top of their subsidiary profit share. They can take either or both in cash, or mint Class B shares with any portion.
-
-**Class B Shareholders:** $66,900 distributed across all shares. At 10,000 shares outstanding, that is $6.69 per share. Someone holding 500 shares receives $3,345. Book value per share also increases as the office retains $111,500 in the liquidity pool and adds the fee income to its equity.
-
-**MCA Holder:** $177,000 in net returns on $3,000,000 invested — about 5.9% for the quarter. Three deductions applied in sequence: the employee profit share contribution ($60,000, being 60% of the $100,000 total), the performance fee ($48,000, being 20% of the $240,000 remaining), and the management fee ($15,000). All three required growth to trigger except the management fee.
-
-## 7.8 — Regulatory Considerations
-
-**This section contains an important legal flag. It is not legal advice. A qualified securities attorney must be consulted before MCAs are offered to any investor.**
-
-The SEC evaluates economic substance, not terminology. Under the **Howey Test**, an arrangement constitutes a security if it involves: (1) an investment of money, (2) in a common enterprise, (3) with an expectation of profits, (4) derived primarily from the efforts of others. An MCA meets all four prongs. Accordingly, offering MCAs without appropriate registration or a qualifying exemption likely violates federal securities law regardless of how the relationship is described.
-
-In practical terms, this means that until the appropriate legal structure is in place, MCAs should not be offered or marketed to anyone. The following are the primary legal pathways worth evaluating with counsel:
-
-- **Accredited investor exemption (Regulation D):** MCAs may be offered privately to accredited investors — currently defined as individuals with $1M+ net worth (excluding primary residence) or $200K+ annual income. As of 2020, the SEC expanded this definition to include holders of certain FINRA licenses (Series 7, Series 65, Series 82), allowing qualification through demonstrated financial sophistication rather than wealth alone.
-- **Regulation A+:** A streamlined public offering process that allows non-accredited investors to participate up to certain limits, subject to SEC qualification and ongoing disclosure requirements.
-- **Regulation Crowdfunding (Reg CF):** Allows genuinely public participation with annual investment caps per person tied to income and net worth. Lower compliance burden than a full public offering.
-- **Registered Investment Advisor (RIA):** Registering the office as an RIA with the SEC or applicable state regulator may be the most straightforward path for the managed capital relationship, as it is explicitly designed for entities that manage money on behalf of clients.
-
-The long-term vision of opening MCAs to any investor willing to consent to the fee structure is consistent with the direction regulatory trends are moving — the 2020 accredited investor expansion is evidence of that. But that vision requires legal infrastructure to execute properly. The parameters below are not finalized until that infrastructure is in place.
-
-## 7.9 — Book Value vs. Market Value
-There is one other thing worth noting about the unique dynamic of everything in this system being inherently anti-speculative.
-
-The ratio of cash flow to the dollar amount invested is significantly higher. One million dollars invested into a business in the open market might be closer to about $400k in hard assets and $100k in annual profit with a 6x multiple. With us, by those same numbers, that would be $1 Million in hard assets with $250k in annual profit, assuming our margins are equivalent. Because we avoid all speculation, one million invested with us goes much farther than one million invested in traditional market valuation.
-
-## 7.9 — Parameters To Be Determined
-
-_The following MCA parameters are acknowledged as part of the framework but are not yet finalized. They will be established by Class A members in consultation with qualified securities counsel before MCAs are offered, and amended into this document at that time:_
-
-- The legal structure under which MCAs will be offered (Reg D, Reg A+, Reg CF, RIA, or other).
-- The hurdle rate above which the 20% performance fee applies.
-- Any cap on individual MCA holdings (to prevent concentration risk).
-- Any cap on total MCA capital relative to total pool size.
-- Minimum investment thresholds and lock-up periods.
-- Fund reporting cadence and format for MCA holders.
-
-_This framework is a living document. Its parameters may be adjusted by Class A members through the amendment process described in [[Faleth Capital Constitution#Article IX Amendments|Article IX of the Constitution]]. The principles — earned-only minting for Class B, book-value pricing, any-time cash-out, the unified pool model for MCAs, and the separation of Class B dividends from MCA returns — are permanent._
+*This is a living framework. Its parameters may be adjusted by Class A members through the amendment process in [[Faleth Capital Constitution#Article VII Amendments|Article VII of the Constitution]]. The principles are the parts meant to last: governance and financial ownership are separate things, both are earned rather than bought, everything prices at book value, cashing out is always available, and MCA returns never touch the Class B dividend pool.*

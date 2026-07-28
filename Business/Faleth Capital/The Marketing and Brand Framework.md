@@ -1,225 +1,71 @@
-**THE MARKETING**
+# The Marketing and Brand Framework
 
-**AND BRAND FRAMEWORK**
-
-_How Faleth Capital and Its Subsidiaries_
-
-_Attract Customers, Build Loyalty,_
-
-_and Turn Everyday Spending Into Wealth_
-
-Faleth Capital
-
-Internal Framework Document
-
-Version 1.0 — Draft
-
-_This document governs the referral program, brand standards, and marketing philosophy of Faleth Capital and its subsidiaries. For the financial mechanics of how the referral program fits into subsidiary cost structure, see [[The Financial Framework]]. For how referral income can flow into Managed Capital Accounts, see [[The Equity Framework]]. For the governing philosophy and mission, see the [[Faleth Capital Constitution]]._
+*How customers become part of the network, and what the brand commits to.*
+*Faleth Capital · Internal Framework · Version 2.0*
+*Companion to [[The Financial Framework]], [[The Contribution Framework]], and [[The Equity Framework]]. The governing philosophy is in the [[Faleth Capital Constitution]].*
 
 ---
 
-# Section 1: Philosophy
+## 1. Why Customers Share
 
-## 1.1 — The Prosumer Principle
+The usual arrangement between a business and its customers is extractive by design. The customer pays, the business keeps it, and the customer's advocacy — the reviews, the recommendations, the friends they send — creates real value that returns nothing to them.
 
-The traditional relationship between a business and its customers is extractive by design. The customer pays. The business keeps the money. The customer's only reward for loyalty is the product or service itself. Their advocacy — telling friends, leaving reviews, sending referrals — generates real value for the business and produces nothing for them.
+We reject that for the same reason we reject it for the people doing the work: whoever creates value should share in it.
 
-We reject that model.
+Underneath that is a simpler claim. **Building a business is building a network.** A team and a customer base aren't two projects, they're two roles in the same one. Recruiting a teammate means finding someone who will add value to other people's lives. Finding a customer means finding someone whose life you can add value to. The customer is the primary beneficiary of everything the company does, and they compensate in kind — with money, which is what fuels all of it. So someone who sends a friend to a subsidiary is doing exactly what someone who recruits a teammate does. They're growing the same network from the other side, and they should be paid for what they actually brought.
 
-Faleth Capital is built on the belief that the people who create value should share in it. That principle governs how we pay our team. It governs how we structure equity. And it governs how we treat our customers.
+That is also the Prosumer idea, which names what financially sophisticated people have always done: not merely consuming, but owning a stake in what they consume from, so every expense doubles as an asset. What keeps most people out of that isn't ambition. It's the gate — capital, connections, complexity. The referral program is the way through, because it asks for nothing anyone doesn't already have: a service they were paying for anyway, and people they already know.
 
-The *Prosumer* concept, articulated in *Prosumer Power II*, names something that the most financially sophisticated people have always understood: wealthy people do not just consume — they turn consumption into income. They do not just buy groceries, they own a stake in the grocery distribution network. They do not just hire a house cleaner, they own a cleaning company. Every expense becomes an asset. Every dollar spent is also a dollar working.
+Which makes three ways in. Invest labor and earn Class B. Invest capital and open a Managed Capital Account. Or invest a network, and turn what the people you brought spend into a stake of your own.
 
-Most people cannot access that model. The ownership structures are gated behind capital, connections, and complexity they do not have.
-
-Faleth Capital's referral program is our answer to that problem. It does not require capital. It does not require a business. It does not require anything except using a service you already use and telling people you know about it. From that starting point, a customer can build a meaningful income stream, and from that income stream, they can access the MCA structure and begin genuinely building wealth.
-
-That is the Prosumer path inside the Faleth Capital ecosystem. It is accessible to anyone. Not everyone will walk it all the way. But anyone can.
-
-## 1.2 — Two Ways to Invest
-
-There are two ways to build a stake in the Faleth Capital ecosystem:
-
-**Invest your time and effort.** Join a subsidiary, earn contribution points, build equity through Class B shares. This is the builder's path — the most direct route to ownership, available to anyone willing to work under the Contribution Framework.
-
-**Invest your money.** Open a Managed Capital Account, trust the office to deploy your capital, and earn returns on pool growth. This is the investor's path — available to those with capital to deploy and a desire for professionally managed returns.
-
-The referral program creates a third entry point that bridges both: **invest your network.** Refer people to Faleth Capital subsidiaries, earn referral credits on every dollar they spend, convert those credits to cash or MCA contributions, and let that income grow. No capital required. No employment required. Just a willingness to share something genuinely worth sharing.
+Not everyone will walk it to the end. Anyone can start.
 
 ---
 
-# Section 2: The Referral Program
+## 2. The Referral Program
 
-## 2.1 — Structure
+Any consumer-facing subsidiary — retail or services sold to individuals and households — may run the referral program. It isn't applied to manufacturing, government contracting, or other B2B work, where the customer relationship and cost structure don't fit.
 
-Every Faleth Capital subsidiary that operates in consumer-facing retail or services may participate in the referral program. The program is intentionally not applied to manufacturing, government contracting, or other B2B operations where the customer relationship and cost structure do not support it.
+**The bonus is 20% of the referred customer's topline spend, paid to the referrer, for as long as that customer keeps spending.** Not a finder's fee. A customer who sticks around forever is value that sticks to us forever, and the person who brought them is paid accordingly. Equivalent exchange.
 
-**The referral bonus is 20% of the referred customer's topline spend, paid to the referring customer, indefinitely.**
+The arithmetic is the part worth remembering: **refer five customers who spend what you spend, and your own service is free.** Refer more and it pays you. Refer enough across enough subsidiaries and a household's ordinary expenses start funding themselves. There's no trick in that — it's five times twenty percent.
 
-This is not a one-time finder's fee. It is an ongoing relationship. As long as the referred customer continues spending, the referrer continues earning. The loyalty compounds on both sides — the referred customer has a friend invested in their continued patronage, and the referrer has a financial reason to maintain the relationship.
+It runs **one level deep**. A referrer earns on the people they personally brought, not on anyone those people bring. That boundary is deliberate: a second level makes this a network marketing compensation plan, which requires far more of topline than this model allocates and a different business built around it from day one. Anyone who wants income that compounds through a network already has that path available independently. This is a customer loyalty tool, and it should stay simple enough to explain in one sentence.
 
-## 2.2 — The Math for the Customer
+Earnings accumulate as **credits** rather than payments. Every qualifying purchase credits the referrer's account at 20% of topline, credits never expire, and they can be redeemed against that customer's own purchases at any participating subsidiary — which is what makes their service free before any cash changes hands. Once the balance exceeds their own spending and turns net positive, they may convert it to cash or contribute it to a Managed Capital Account.
 
-The framing that makes this real and memorable:
-
-**Refer 5 customers who spend what you spend → your service is free.**
-
-Refer more than 5 → you are net positive. The service is paying you.
-
-Refer enough across enough subsidiaries → your everyday household expenses are largely self-funding.
-
-This is not a theoretical possibility. It is arithmetic. The only variable is whether the customer chooses to participate and follow through.
-
-## 2.3 — One Level Only
-
-The referral program is one level deep. A referrer earns on the direct spending of the customers they personally referred. They do not earn on customers referred by their referrals.
-
-This boundary is deliberate. Adding a second level creates a network marketing compensation structure — one that requires significantly higher margin allocation, dedicated compliance infrastructure, and a fundamentally different business model to support at scale. Network marketing companies that do this well allocate well over half of topline revenue to their compensation plans, because the entire business is architected around it from day one. The referral program is a customer loyalty and acquisition tool built inside a different architecture. Grafting a multi-level compensation structure onto it would either compress margins to the point of breaking the financial model or require pricing that makes the subsidiaries uncompetitive. Faleth Capital already has a network marketing component available to its participants through their own independent businesses. The referral program is not a second version of that. Keeping them structurally distinct preserves the clarity of both.
-
-Customers who want to build income that compounds through a network have that path available through network marketing. The referral program serves a different purpose and should remain simple enough to explain in one sentence.
-
-## 2.4 — The Credits System
-
-To manage the administrative and tax complexity of high-volume small payouts, referral earnings accumulate as credits rather than immediate cash payments.
-
-**How credits work:**
-
-- Every qualifying referral purchase generates a credit to the referring customer's account at 20% of the topline spend.
-- Credits accumulate indefinitely with no expiration.
-- Credits can be redeemed against the referring customer's own future purchases with any participating Faleth Capital subsidiary — effectively making their service free before any cash changes hands.
-- Once a customer's credit balance exceeds their own spending and reaches a positive net balance, they may request conversion to cash or direct contribution to a Managed Capital Account.
-
-**Why credits first:**
-
-The credits threshold serves two purposes. First, it dramatically reduces the volume of 1099 tax documents the office must generate — most customers will use their credits against their own purchases long before reaching a positive balance that requires cash settlement. Second, it naturally filters for the customers who are genuinely building something. A customer redeeming credits against their own bill is a loyal customer. A customer who has built a positive balance is an advocate. A customer who converts that balance into an MCA contribution is a stakeholder. The credits system lets the relationship deepen at the customer's own pace without administrative overhead at every stage.
-
-## 2.5 — The MCA Pathway
-
-The referral program's ceiling is not free service. The ceiling is wealth building.
-
-A customer who refers enough business across enough Faleth Capital subsidiaries can generate meaningful ongoing income from their referral credits. When that income reaches a level worth formalizing — when the balance is positive and growing — the natural next step is converting it into an MCA contribution.
-
-At that point, the customer has crossed from consumer to investor. Their referral income is now generating returns inside the unified pool. They are, in a real sense, a stakeholder in the ecosystem they helped grow.
-
-This pathway should be communicated to customers as a transparent description of what is available — not as a sales pitch, but as an honest account of where the path can lead. Not everyone will get there. But everyone should know it exists.
-
-**Important:** MCA eligibility is subject to applicable securities regulations. Depending on the legal structure under which MCAs are offered, participants may need to meet accredited investor criteria or other qualifying thresholds before contributing referral income to an MCA. This pathway is real and intentional. Its availability to any given customer depends on the regulatory framework in place at the time. See [[The Equity Framework#Section 7.8 Regulatory Considerations|Section 7.8 of the Equity Framework]] for the full regulatory context. No MCA should be offered or marketed to any customer until the appropriate legal structure is established.
-
-## 2.6 — Cost of Acquisition Framing
-
-Internally, the referral bonus is accounted for as Cost of Acquisition (COA) — the same line item that would otherwise go to advertising platforms, lead generation services, or a traditional sales team.
-
-The distinction is that traditional COA buys a transaction. The referral program buys an ongoing advocate with financial skin in the game. The same 20% COA benchmark that applies to paid acquisition applies here — but the return on that spend is structurally superior. A referred customer arrives with social proof, a warm relationship, and a built-in reason to stay. Their referrer has a financial incentive to maintain that relationship indefinitely.
-
-This reframes the referral program not as a cost of generosity but as a disciplined deployment of acquisition budget toward the highest-quality customer relationships available.
-
-## 2.7 — Subsidiary-Level Incentive Programs
-
-The portfolio-level referral program described in this section is one tool, not the only tool. It is designed for a specific context: recurring, ambient household expenses in consumer-facing service businesses where the customer was going to spend the money somewhere regardless — cleaning, landscaping, pool maintenance, meal services. In those businesses, a 20% indefinite referral incentive is compelling because the alternative is paying the same money to a competitor with no benefit to the person who recommended them.
-
-Not every subsidiary fits that mold, and the referral program is explicitly not a mandate. Subsidiaries are encouraged to design their own customer incentive structures that fit their specific business model, customer relationship, and margin structure.
-
-A phone repair shop, for example, has a different customer dynamic: purchases are infrequent, driven by necessity, and the customer acquisition value of a referral is high but the ongoing spend is low. A tiered incentive structure may serve that business better than an indefinite percentage:
-
-- **Tier 1 (refer a friend):** Referred customer receives a free screen protector on their first repair.
-- **Tier 2 (refer three friends):** Referring customer receives a free screen protector and battery replacement credit.
-- **Tier 3 (refer five friends):** Referring customer receives a repair credit bundled with screen protector and battery.
-
-This is one example of many. The principle is the same as the portfolio-level program — customers who generate value should share in it — but the mechanics are calibrated to the actual economics and customer behavior of the specific business.
-
-Subsidiaries designing their own incentive programs should ensure the structure fits within their COA budget, does not create obligations that outlast the revenue they were intended to generate, and remains simple enough to explain clearly to a customer in a single conversation. The office does not approve these programs, but they should be documented and shared at the quarterly conference so the portfolio can learn from what works.
-
-## 3.1 — Where the Referral Program Applies
-
-The referral program is available to subsidiaries that meet both of the following conditions:
-
-- The business is consumer-facing (retail or services sold directly to individual customers or households).
-- The subsidiary's margin structure can support a 20% COA without compressing net margin below viability.
-
-The target financial structure for participating subsidiaries is roughly:
-
-| Line Item                             | Target % of Topline |
-| ------------------------------------- | ------------------- |
-| Cost of Goods (COG)                   | ~33%                |
-| Cost of Acquisition (COA / Referral)  | ~20%                |
-| Cost of Fulfillment (COF / Team Pool) | ~13.33%             |
-| Parent Company Fee                    | ~11.11%             |
-| Profit Share                          | ~6.66%              |
-| Net Margin (pre fixed expenses)       | ~15.55%             |
-
-These are benchmarks, not mandates. Every subsidiary's economics are different. The governing principle is that the referral program should be funded from the COA budget — it should replace paid acquisition spend, not stack on top of it. A subsidiary already spending 20% on marketing that adds a 20% referral program on top has a problem. A subsidiary that redirects its acquisition budget from platforms to customers has a better business.
-
-## 3.2 — COF Flexibility
-
-For subsidiaries in early stages or operating in highly competitive markets where margins are thinner than the benchmark, the team may vote to run a temporarily elevated COF rate — 25% or higher if needed — to ensure that weekly contribution payouts are meaningful enough to attract and retain good people.
-
-This is a parameter, not a principle. As volume grows, margins improve, and the business matures, the COF rate is recalibrated downward through the standard quarterly recalibration process. The floor must always be livable. The COF rate is the primary tool for ensuring that.
+Credits first, for two reasons. It keeps the office from issuing a tax document to every customer who ever referred a neighbor, since most will spend their credits on their own bill long before a balance accrues. And it lets the relationship deepen at the customer's own pace: someone redeeming credits against their bill is a loyal customer, someone carrying a positive balance is an advocate, and someone converting that balance into an MCA has become a stakeholder in what they helped grow ([[The Equity Framework#4. Managed Capital Accounts|The Equity Framework]]). That last step depends on the securities structure in place at the time, and no MCA is offered to anyone until it exists.
 
 ---
 
-# Section 4: Brand Standards
+## 3. What It Costs
 
-## 4.1 — What Must Be Consistent
+The referral bonus is **cost of acquisition** — the same line that pays an ad platform, a lead service, or a salesman's commission. COA behaves like cost of goods: it belongs to the individual ticket. A referred customer's ticket carries 20%. A ticket that came from advertising carries whatever that advertising cost. A walk-in who found the place on their own carries none.
 
-The Faleth Capital brand is not a visual identity imposed from the top down. It is a set of commitments that every subsidiary makes to every customer, every participant, and every person who interacts with the ecosystem.
+Credits are expensed as COA when they accrue rather than when they're spent, and the outstanding balance sits as a liability until the customer redeems or converts it. For where COA falls in the rest of the waterfall, see [[The Financial Framework#1. How Money Moves Through a Subsidiary|The Financial Framework]].
 
-The following are non-negotiable across all subsidiaries:
+**Subsidiaries aren't required to run this program.** It fits recurring, ambient household spending — cleaning, landscaping, pool service, meals — where the money was going to be spent somewhere regardless. Other businesses have different dynamics. A repair shop sees infrequent, necessity-driven purchases where a referral is worth a lot at the moment it happens but produces little ongoing spend, so something tiered may fit better: a free screen protector for referring a friend, a battery credit at three, a repair credit at five.
 
-**Transparency.** Every customer who asks how the referral program works gets a complete, honest answer. Every participant who asks how their pay is calculated can verify the math themselves. The system does not hide anything because it has nothing to hide.
-
-**Dignity.** Every person — customer, participant, MCA holder, or departing employee — is treated as someone with a family, with goals, with a life that matters. The way we treat people who leave is as important to the brand as the way we treat people who stay.
-
-**The Prosumer Promise.** Every consumer-facing subsidiary communicates clearly that spending here can become earning here. Not as a gimmick. Not in fine print. As the genuine, central value proposition it is.
-
-**Quality.** The referral program only works if the underlying service is worth referring. A customer who refers five people to a mediocre experience has not been served well — they have been used. The referral program is downstream of the product. The product has to earn the referral first.
-
-## 4.2 — What Must Be Free
-
-The following are entirely up to each subsidiary:
-
-- Visual identity, logo, color palette, and design language.
-- Tone of voice and communication style.
-- Culture, internal rhythms, and team personality.
-- Service delivery methods and customer experience design.
-- Local marketing tactics and channels beyond the referral program.
-- Any additional customer loyalty initiatives that do not conflict with the referral program structure.
-
-Two Free Range Repair locations may look and feel entirely different from each other. One might be minimal and technical. Another might be warm and community-focused. Both are Free Range Repair. Neither is wrong. The brand lives in the commitments, not the aesthetics.
-
-## 4.3 — The Quarterly Conference as Brand
-
-The quarterly conference — held alongside the profit share and dividend distribution — is the most important brand touchpoint in the ecosystem. It is the moment where the abstract commitments of the system become concrete and visible.
-
-The structure is designed to serve multiple functions simultaneously:
-
-**Governance first.** The shareholder meeting opens the conference. Office-level decisions are made, financials are presented, the dilution factor is reported, and amendments are voted on. This is not buried or minimized — it is the foundation that makes everything else credible.
-
-**Cross-pollination.** Subsidiaries gather, either by industry cluster or portfolio-wide, to share what they have learned. The repair shop that cracked upsell conversion presents to the group. The cleaning subsidiary that found a better parts sourcing model shares the approach. Knowledge that stays siloed inside one cell stops compounding. The conference is where it escapes.
-
-**Recognition.** Rising stars and rising subsidiaries are recognized publicly. The keynote format — whether internal rising leaders or occasional outside speakers — centers contribution and growth rather than tenure or title. What gets celebrated here signals what the system actually values.
-
-**Payday.** Profit share and dividends are distributed at this time. The association between the conference and tangible reward is not incidental — it is designed. People remember what they felt when they received something meaningful. Tying that feeling to a gathering of peers, recognition, and shared purpose is culture design, not coincidence.
-
-The conference should be something people look forward to. That means it must be genuinely worth attending — not a corporate obligation dressed up with catering, but a real gathering of people who built something together and are showing up to celebrate it, learn from each other, and decide what comes next.
+Design whatever suits the actual economics. Two requirements: it comes out of acquisition rather than on top of it, and it can be explained to a customer in one conversation. The office doesn't approve these programs. Bring them to the quarterly conference so the portfolio can learn from what worked.
 
 ---
 
-# Section 5: The Full Picture
+## 4. Brand Standards
 
-The Faleth Capital ecosystem offers something that no single business model has been able to offer on its own: **multiple entry points to wealth building, each accessible at a different level of capital, skill, and involvement.**
+The brand isn't a visual identity handed down from the office. It's a short list of commitments every subsidiary makes to everyone who touches the ecosystem, and it's the only part that has to be consistent.
 
-A person with no money and no business experience can walk into a subsidiary, start earning contribution points, build equity over time, and eventually become a business owner.
+**Transparency.** Any customer who asks how the referral program works gets a complete answer. Any participant who asks how their pay is calculated can verify the math themselves. Nothing is hidden because nothing needs to be.
 
-A person with capital but no desire to operate a business can open an MCA and earn returns on a portfolio managed by people with genuine skin in the game.
+**Dignity.** Customers, participants, MCA holders, and people on their way out are all treated as people with families and lives that matter. How we treat someone leaving says more about the brand than how we treat someone staying.
 
-A person who simply uses the services and knows people can refer their network, turn their household expenses into income, and eventually convert that income into an MCA — building wealth from their consumption.
+**The Prosumer promise.** Every consumer-facing subsidiary says plainly that spending here can become earning here — as the actual value proposition, not a gimmick in fine print.
 
-These paths are not competitive. They are complementary. The builder needs customers. The customer benefits from the builder's quality. The investor's capital funds the builder's growth. Each path makes the others more valuable.
+**Quality.** The referral program only works if the service deserves referring. Someone who sends five friends to a mediocre experience hasn't been rewarded, they've been used. The product earns the referral first.
 
-The referral program is the bridge between consuming and investing. It is the lowest barrier on-ramp to the ecosystem. It does not require anything that any ordinary person does not already have: relationships, and a willingness to share something genuinely worth sharing.
+Everything else is free. Visual identity, logo, palette, tone of voice, culture, how service gets delivered, local marketing, and any additional loyalty program that doesn't conflict with this one. Two locations of the same subsidiary may look and feel nothing alike — one spare and technical, the other warm and neighborhood-facing — and both are entirely themselves. The brand lives in the commitments, not the aesthetics.
 
-That is the mission made tangible: generational wealth, accessible to just about anyone, one referral at a time.
+**The quarterly conference is the brand made visible.** It's where the abstract becomes concrete: the shareholder meeting and its numbers, subsidiaries teaching each other what they've learned, people recognized for what they contributed rather than how long they've been here, and profit share and dividends landing the same day. That last part is deliberate. People remember how they felt when they received something meaningful, and tying it to a room full of peers is culture design rather than coincidence. It should be worth attending on its own merits — not a corporate obligation with catering, but people who built something together deciding what comes next.
 
 ---
 
-_This document is a living framework. The referral rate, credit conversion thresholds, and qualifying subsidiary criteria are parameters subject to adjustment by Class A members through the amendment process described in the [[Faleth Capital Constitution]]. The principle — that customers deserve to share in the value their loyalty creates — is permanent._
+*This is a living framework. The referral percentage, the credit thresholds, and the specific incentive designs are parameters each subsidiary and the office revisit as they learn. The commitments are the parts meant to last: whoever creates value shares in it, customers included; the brand is what we promise, not how we look.*
