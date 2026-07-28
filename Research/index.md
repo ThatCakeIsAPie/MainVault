@@ -114,6 +114,7 @@
 
 ## Queries
 
+- [[faleth-through-maslow-hierarchy-of-needs]] — Faleth as developmental scaffolding from subsistence and safety through belonging, esteem, actualization, and service beyond self.
 - [[what-why-how-three-by-three-action-architecture]] — Pyramid with What at the apex, Why/How beneath it, and Push–Pull–Process plus Time–Talent–Treasure as their foundations.
 - [[faleth-capital-operating-philosophy]] — Durable synthesis of Faleth's contribution, ownership, governance, trust, and discipleship logic.
 - [[heart-upstream-of-identity-theological-horticulture]] — Theological horticulture metaphor: heart/root upstream of identity and behavior/fruit.

@@ -586,3 +586,12 @@
 - Distinguished purchased pleasure, status, and domination from the durable joy of service.
 - Preserved Lyle's observation about coercive or indifferent people as personal experience rather than turning it into a universal or clinical diagnosis.
 - Updated the apex principle, Faleth economic philosophy, operating synthesis, and index.
+
+## [2026-07-27] query | Faleth through Maslow's hierarchy of needs
+
+- Created `queries/faleth-through-maslow-hierarchy-of-needs.md`.
+- Mapped physiological, safety, belonging, esteem, self-actualization, and self-transcendence needs to concrete Faleth mechanisms and failure risks.
+- Mapped the three compensation layers to developmental functions: enough to stand, evidence of contribution, and ownership beyond immediate labor.
+- Added the two-fruit service test at the top of the model and treated the hierarchy as a recursive flywheel rather than a rigid staircase.
+- Added the anti-cult boundary: Faleth can provide scaffolding for human development but cannot replace family, church, friendship, health, rest, or identity beyond economic performance.
+- Updated `index.md`.
