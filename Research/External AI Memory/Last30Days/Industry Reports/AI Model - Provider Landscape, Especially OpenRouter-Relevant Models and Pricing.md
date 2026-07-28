@@ -179,3 +179,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-27
 - Official API **~11:00 UTC**: **342 models**, exact diff **0 additions / 3 paid-route removals**: `inflection/inflection-3-pi`, `inflection/inflection-3-productivity`, and `openai/gpt-4o-mini-search-preview`. Core-stack IDs and pricing remain unchanged. Active Hermes config/cron search found no references; only stale model-metadata caches retained them. Keep availability preflights for non-core routes ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**; core stable, fallback pool contracted.
+
+### 2026-07-28
+- Official API **~11:00 UTC**: **341 models**, exact diff **+1 / -2**. Added `qwen/qwen3.7-flash` (1M context, text/image/video input, base **$0.03/$0.13/M**, cache read **$0.006/M**, with higher >32K and >256K prompt tiers); removed paid routes `openai/gpt-4o-search-preview` and `openai/gpt-5-chat`. Core stack pricing remains unchanged, and active Hermes config/cron search found no references to the removed IDs ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**; benchmark Qwen with tier-aware accepted-result cost before routing.

@@ -172,3 +172,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-27
 - Thirteen days after the ISR deadline, direct inspection found the FFATA >$550,000 eligibility, missing-record incorporation, Part 8 BPA Call, and correction text unchanged. No relevant proposal-tool or primary-rule change surfaced; reconcile and close every applicable row while keeping the August 14 CMMC reform-comment decision visible ([official SAM.gov](https://sam.gov/esrs)). Signal: **strong** for SAM, **weak** for novelty.
+
+### 2026-07-28
+- Fourteen days after the ISR deadline, direct inspection again confirmed FFATA first-tier >$550,000 eligibility, missing-record incorporation, Part 8 BPA Call reporting, and correction capability. A fresh trade headline framed the CMMC Phase II suspension as a timeline pivot rather than control relief; keep contract-specific controls active and decide whether to submit measured burden/risk-reduction evidence by August 14 ([official SAM.gov](https://sam.gov/esrs), [CMMC item](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVVgydV9QVmJLUXRGNVNyQ0pwOE5PYU9YSmVLWlQwa3FKS0lZeGZRZVhqTW9OQWhwbmF1SEFzRkItZEdTUlU5WnI3dUo4eFlKajBOc21KR3pVeVhZd3daUUN2VFdWOEZRWGV0V0dBZ2FPX0t2V3NHNG5EdWlnREVGT3hXSnYxQk5POURnRFA0Zw?oc=5); second source RSS/snippet-level). Signal: **strong** for SAM, **medium–weak** for CMMC interpretation.
