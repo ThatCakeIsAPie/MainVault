@@ -612,3 +612,13 @@
 - Distinguished healthy exit from preventable leakage caused by exploitation, opacity, broken promises, avoidable conflict, or failed economics.
 - Added cause-and-quality-of-exit measures to the Peaceful Fork doctrine; rejected raw retention as the supreme KPI.
 - Updated the apex principle, Peaceful Fork doctrine, Maslow synthesis, and operating philosophy.
+
+## [2026-07-28] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 46 were already processed; ingested 4 new bookmarks.
+- Created `raw/x-bookmarks/2026-07-27/2081873768087998927.md` — polemical image exchange about animal behavior, naturalness, religion, and morality; preserved both attached and quoted-image OCR.
+- Created `raw/x-bookmarks/2026-07-26/2081415714221822227.md` — “darkness” versus cuddles pet meme; OCR preserved.
+- Created `raw/x-bookmarks/2026-07-27/2081681249676951762.md` — stove-drawer warming claim; preserved with appliance-dependent caveat.
+- Created `raw/x-bookmarks/2026-07-27/2081598350147621043.md` — 164.8-second visual-only video; media provenance preserved, but no intelligible speech or durable claim was extractable.
+- Created no concept/entity/query pages: this batch was mostly humor or appliance trivia, while the ethics image was a single polemical exchange insufficient for a durable synthesis without stronger sources.
+- `index.md` unchanged because no wiki pages were created.
