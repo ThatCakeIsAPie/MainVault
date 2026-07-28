@@ -75,6 +75,8 @@ Faleth is drifting when:
 - revenue is treated as the final objective rather than evidence and fuel for improving people's lives.
 - customer payment is counted as success without verifying that the customer actually benefited.
 - pleasure, status, or domination is mistaken for the fulfilled joy that comes from genuine service.
+- retention is treated as success even when people stay because ownership, income, identity, or relationships are held hostage.
+- a capable, value-preserving exit is counted as organizational failure rather than possible evidence that Faleth produced independence.
 
 ## Sequencing
 
@@ -102,3 +104,4 @@ The documents describe a destination, not permission to skip reality. The operat
 - [[raw/transcripts/lyle-marketplace-discipleship-its-just-business-2026-07-27]]
 - [[raw/transcripts/lyle-business-as-organized-service-reciprocal-gift-and-joy-2026-07-27]]
 - [[raw/transcripts/lyle-fulfillment-as-internal-fruit-of-genuine-service-2026-07-27]]
+- [[raw/transcripts/lyle-exit-as-measure-of-faleth-health-2026-07-27]]

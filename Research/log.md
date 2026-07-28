@@ -603,3 +603,12 @@
 - Added the distinction between belief that energizes agency and belief that demands dependence.
 - Added practical anti-cult tests around disagreement, exit, portable value and relationships, external institutions, and Faleth becoming less necessary as people mature.
 - Updated the Maslow synthesis, apex principle, and Faleth economic philosophy.
+
+## [2026-07-27] update | Exit as a measure of Faleth's health
+
+- Preserved Lyle's exact Telegram refinement at `raw/transcripts/lyle-exit-as-measure-of-faleth-health-2026-07-27.md` with SHA-256 provenance.
+- Clarified how the three income streams materially reduce dependence on Faleth over time.
+- Reframed actual use of the exit door as possible evidence of successful development, changed alignment, and genuinely portable earned value.
+- Distinguished healthy exit from preventable leakage caused by exploitation, opacity, broken promises, avoidable conflict, or failed economics.
+- Added cause-and-quality-of-exit measures to the Peaceful Fork doctrine; rejected raw retention as the supreme KPI.
+- Updated the apex principle, Peaceful Fork doctrine, Maslow synthesis, and operating philosophy.

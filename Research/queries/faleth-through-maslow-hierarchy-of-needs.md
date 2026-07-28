@@ -130,6 +130,8 @@ Strong shared belief is still valuable. It can coordinate effort, sustain sacrif
 
 If the answer trends toward no, belief has stopped energizing agency and started demanding dependence.
 
+One positive measure is whether people actually use the exit door successfully. In a system designed to build independence, some departures should be expected. A person who changes direction, drifts out of alignment, or takes what they built into an independent organization may represent successful development rather than failed retention. The health question is not simply “Did they stay?” but “Could they leave freely, preserve earned value, and continue as a capable person?”
+
 ## Operational Diagnostic
 
 When a participant is struggling, inspect the lowest unstable layer without assuming it is the only one that matters:
@@ -154,3 +156,4 @@ That is the psychological version of “equip people until they no longer need y
 ## Conversation Source
 
 - [[raw/transcripts/lyle-faleth-unobstructive-scaffolding-anti-cult-boundary-2026-07-27]]
+- [[raw/transcripts/lyle-exit-as-measure-of-faleth-health-2026-07-27]]

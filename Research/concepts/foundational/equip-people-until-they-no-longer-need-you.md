@@ -85,6 +85,12 @@ Money is evidence of reciprocated value only when the exchange is informed, volu
 
 Faleth's role is similarly bounded. It does not provide a completed identity, belonging, esteem, purpose, or fulfillment to participants. It should remove avoidable obstructions and provide scaffolding so people can pursue those goods through their own agency. Strong belief in the mission is useful only while it develops independent people; when Faleth becomes the exclusive source of meaning or makes disagreement and exit morally suspect, belief has become dependence and the system has violated its apex.
 
+The three-income-stream path supports this objective materially. Faleth contribution income supports current life, network-marketing income can mature into an independent engine, and Bucket One returns establish a personal floor outside Faleth's continuing discretion. As these streams mature, Faleth should become less economically necessary rather than more controlling.
+
+Actual departures can therefore be evidence of health. Someone who no longer aligns, or who has become capable enough to take what they built and continue independently, may be demonstrating that the system worked. A doctrine of independence that celebrates only retention would contradict itself.
+
+The distinction is between **healthy exit** and **preventable leakage**. Exit caused by mature capability, changed direction, or an honest Peaceful Fork can validate Faleth. Exit caused by exploitation, opacity, broken promises, avoidable conflict, or failed economics diagnoses a defect. The relevant measure is not retention alone, but the cause and quality of separation.
+
 ## Related Principles
 
 - [[offshoots/self-governance-by-contributors]]
@@ -106,3 +112,4 @@ Faleth's role is similarly bounded. It does not provide a completed identity, be
 - [[raw/transcripts/lyle-business-as-organized-service-reciprocal-gift-and-joy-2026-07-27]]
 - [[raw/transcripts/lyle-fulfillment-as-internal-fruit-of-genuine-service-2026-07-27]]
 - [[raw/transcripts/lyle-faleth-unobstructive-scaffolding-anti-cult-boundary-2026-07-27]]
+- [[raw/transcripts/lyle-exit-as-measure-of-faleth-health-2026-07-27]]
