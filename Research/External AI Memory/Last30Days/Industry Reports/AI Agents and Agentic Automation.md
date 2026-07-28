@@ -175,3 +175,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-27
 - Siemens self-verifying EDA workflows, NVIDIA's engineering Agent Toolkit expansion, and Safari MCP coverage reinforce domain-embedded agents plus explicit verification/security controls. Add domain tool, independent verifier, acceptance test, credential/tool scope, rollback, and stop authority to receipts ([Siemens item](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sV0NLTWRDRmNYbHEwODE5a08wSnpZbUpmTGJSMmhaLTRrZkFmQmpibVpaNkhGNmhaMURLcHZaN0pqbmpqbmFiTjV2LU91SHhvWUJ4Ry12WEY0THc3dFFwbVlPLWg2QQ?oc=5); RSS/snippet-level). Signal: **medium**.
+
+### 2026-07-28
+- Shadow-agent/non-human-identity discovery, agent-sprawl control, AI-gateway consolidation, and vertical EDA/utility agents reinforce agent inventory plus gateway policy as one control plane. Add agent ID, owner, non-human identity, gateway, allowed tools/data, credential scope, KPI, acceptance test, supervision minutes, rollback, and stop authority ([C1 item](https://news.google.com/rss/articles/CBMirAFBVV95cUxPMWlmN3lLSWIxRGN2Q1lOZFE3cTVUWV9ZekN1VkRDSHQ2VTNUd0RTbXRfc0RCT3lkOHVNRy1ZaFNCV3JTLXJGRUZUdUlfRGZFektjRF95UHJFOEJlNGw2NEVxWDhLVmpPSWhfbXBiX05pWjNJWXVmX05kYzQzYVZWYTZIRThlWVk3bVhUUlo3cHU0SjRpdWlmMVREdTFUckcxTXBuc3d5V2JDSF8w?oc=5); RSS/snippet-level). Signal: **medium**.

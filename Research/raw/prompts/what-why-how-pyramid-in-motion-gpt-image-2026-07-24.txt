@@ -1,0 +1,96 @@
+Using the supplied What–Why–How Pyramid infographic as the visual and stylistic foundation, create a polished successor infographic in portrait 2:3 format titled:
+
+THE WHAT–WHY–HOW PYRAMID IN MOTION
+
+Subtitle:
+A system for planning, diagnosis, and cross-branch repair
+
+Preserve the premium modern technical-blueprint aesthetic of the source: deep navy background, warm white text, restrained metallic-gold accents, subtle cyan/teal secondary accents, crisp geometric lines, immaculate alignment, generous negative space, and exceptionally legible typography. It must feel like the same visual system as the source image, but this is a distinct companion poster—not a cluttered annotation pasted over the old design.
+
+CENTRAL PYRAMID
+
+Keep a simplified, large, symmetrical pyramid in the upper-middle of the poster:
+
+APEX:
+WHAT
+The ultimate outcome
+
+SECOND LEVEL:
+WHY
+The motivation
+
+HOW
+The means
+
+FOUNDATION UNDER WHY:
+PUSH
+PULL
+PROCESS
+
+FOUNDATION UNDER HOW:
+TIME
+TALENT
+TREASURE
+
+Show the exact hierarchy clearly: Push, Pull, Process support WHY. Time, Talent, Treasure support HOW. WHY and HOW support WHAT.
+
+THREE DIRECTIONS OF OPERATION
+
+Use three visually distinct but restrained arrow systems around the pyramid. Include a compact legend with exactly these labels and explanations:
+
+1 — TOP-DOWN PLANNING
+Define WHAT → Discover WHY → Address HOW
+Use thin gold downward arrows.
+
+2 — BOTTOM-UP SUPPORT
+The 3 Ps power WHY. The 3 Ts supply HOW. WHY and HOW support WHAT.
+Use thin teal upward arrows.
+
+3 — LATERAL CROSS-REPAIR
+WHY ↔ HOW
+The failed node locates the symptom; another node may supply the repair.
+Use one elegant double-headed horizontal arrow between WHY and HOW. Do not imply that the branches are isolated.
+
+FAULT-TREE DIAGNOSIS
+
+Below the pyramid, add a clean three-row diagnostic strip titled:
+
+DIAGNOSE LOCALLY
+
+No direction → Inspect WHAT
+No action → Inspect WHY
+Action without results → Inspect HOW
+
+CROSS-BRANCH REPAIR EXAMPLES
+
+Add a compact section titled:
+
+REPAIR GLOBALLY
+
+Include exactly these three concise examples:
+
+Process is intolerable → Use Talent, Treasure, or Time to redesign it.
+Talent is missing → Use Push, Pull, and Process to sustain learning.
+Resources are wasted → Return to Why and restore purposeful allocation.
+
+APEX VALIDATION
+
+At the bottom, prominently feature this exact concluding rule in gold:
+
+DIAGNOSE LOCALLY. REPAIR GLOBALLY. VALIDATE AT THE APEX.
+
+Under it, in smaller text:
+Every repair must still serve the What.
+
+CRITICAL DESIGN REQUIREMENTS
+
+- Preserve the pyramid hierarchy exactly.
+- Make the pyramid and three directional arrow systems immediately understandable.
+- Keep all text horizontal, complete, correctly spelled, and highly legible.
+- Do not invent additional categories, steps, or labels.
+- Do not duplicate words or omit any of the six foundation elements.
+- Do not use people, stock photography, cartoon figures, dollar signs, clocks, brains, ladders, mystical imagery, or decorative clutter.
+- Avoid tangled arrows. Cross-repair should be one clear WHY ↔ HOW connection.
+- Prioritize clarity and information hierarchy over ornamentation.
+- Before finalizing, inspect every text element for misspellings, garbled letters, missing words, accidental repetitions, or broken hierarchy.
+- The final poster should be suitable for a book, keynote, framed print, or high-quality social-media post.
