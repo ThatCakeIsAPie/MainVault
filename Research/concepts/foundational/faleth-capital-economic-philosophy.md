@@ -63,6 +63,7 @@ A Faleth mechanism should answer four questions:
 - Can the affected person inspect the math and leave without forfeiting what they earned?
 - Does it help people become more capable and less dependent over time?
 - Did the recipient genuinely benefit, and did the provider's fulfillment arise from that benefit rather than merely from winning, controlling, or extracting?
+- Does the mechanism remove an avoidable obstacle to agency, or does it make Faleth the provider and gatekeeper of a need people should remain free to fulfill themselves?
 
 If not, the mechanism may carry Faleth vocabulary without carrying Faleth's philosophy.
 
@@ -92,3 +93,4 @@ If not, the mechanism may carry Faleth vocabulary without carrying Faleth's phil
 - [[raw/transcripts/lyle-marketplace-discipleship-its-just-business-2026-07-27]]
 - [[raw/transcripts/lyle-business-as-organized-service-reciprocal-gift-and-joy-2026-07-27]]
 - [[raw/transcripts/lyle-fulfillment-as-internal-fruit-of-genuine-service-2026-07-27]]
+- [[raw/transcripts/lyle-faleth-unobstructive-scaffolding-anti-cult-boundary-2026-07-27]]

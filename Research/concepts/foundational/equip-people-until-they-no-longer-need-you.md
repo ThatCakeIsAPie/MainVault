@@ -83,6 +83,8 @@ Independence does not mean isolation or freedom from consequence. Shared capital
 
 Money is evidence of reciprocated value only when the exchange is informed, voluntary, and genuinely beneficial. Coercion, deception, addiction, monopoly leverage, or manufactured dependence can produce revenue without producing the service or joy described here. The standard is not merely that someone paid; it is that their life was actually improved and both sides retained dignity and agency.
 
+Faleth's role is similarly bounded. It does not provide a completed identity, belonging, esteem, purpose, or fulfillment to participants. It should remove avoidable obstructions and provide scaffolding so people can pursue those goods through their own agency. Strong belief in the mission is useful only while it develops independent people; when Faleth becomes the exclusive source of meaning or makes disagreement and exit morally suspect, belief has become dependence and the system has violated its apex.
+
 ## Related Principles
 
 - [[offshoots/self-governance-by-contributors]]
@@ -103,3 +105,4 @@ Money is evidence of reciprocated value only when the exchange is informed, volu
 - [[raw/transcripts/lyle-marketplace-discipleship-its-just-business-2026-07-27]]
 - [[raw/transcripts/lyle-business-as-organized-service-reciprocal-gift-and-joy-2026-07-27]]
 - [[raw/transcripts/lyle-fulfillment-as-internal-fruit-of-genuine-service-2026-07-27]]
+- [[raw/transcripts/lyle-faleth-unobstructive-scaffolding-anti-cult-boundary-2026-07-27]]

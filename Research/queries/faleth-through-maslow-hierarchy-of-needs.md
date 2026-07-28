@@ -25,6 +25,21 @@ Faleth does not merely promise more income at the bottom of Maslow's hierarchy o
 
 The mapping is neither automatic nor a strict staircase. People can pursue meaning while materially insecure, feel belonging before safety is complete, or lose lower-level stability after reaching higher-level fulfillment. Faleth should therefore treat the hierarchy as a diagnostic lens, not a deterministic law.
 
+## Faleth's Role: Remove Obstruction, Do Not Substitute
+
+Faleth does not fulfill these needs on another person's behalf. Its proper role is to create a framework in which people can fulfill them through their own agency—and then **not get in the way**.
+
+That means removing avoidable organizational obstructions:
+
+- survival anxiety created by unnecessarily brittle compensation;
+- arbitrary authority and opaque decisions;
+- role confinement that prevents capability from developing;
+- confiscatory exits that turn belonging into captivity;
+- economic structures that consume contribution without returning ownership;
+- bureaucracy that blocks local action despite limited downside.
+
+The positive mechanisms—bounded security, transparent economics, mentorship, cells, ownership, and voluntary exit—are scaffolding. The person still has to build the life. Faleth cannot hand someone belonging, esteem, actualization, or transcendence as an employee benefit. It can stop systematically depriving them of the time, dignity, agency, and upside needed to pursue those things themselves.
+
 ## Mechanism Map
 
 | Need | Faleth mechanism | Intended effect | Primary failure risk |
@@ -106,6 +121,15 @@ It cannot guarantee:
 
 Family, church, friendships, civic life, rest, health, and an identity rooted beyond economic performance remain necessary. Faleth should be **scaffolding for human development, not the object of human devotion**. If belonging becomes ideological conformity, esteem becomes points, and self-transcendence becomes loyalty to Faleth, the system has inverted its own mission.
 
+Strong shared belief is still valuable. It can coordinate effort, sustain sacrifice, and give culture coherence. The danger begins when Faleth presents itself as the exclusive source of identity, belonging, meaning, moral legitimacy, or salvation. The anti-cult test is therefore practical:
+
+- Can people disagree without becoming morally suspect?
+- Can they leave without losing earned value, relationships, or dignity?
+- Are family, church, friendship, health, and civic life treated as genuinely outside Faleth's authority?
+- Does the system make itself less necessary as participants become more capable?
+
+If the answer trends toward no, belief has stopped energizing agency and started demanding dependence.
+
 ## Operational Diagnostic
 
 When a participant is struggling, inspect the lowest unstable layer without assuming it is the only one that matters:
@@ -126,3 +150,7 @@ Faleth's answer to Maslow is not “a company can meet every need.” It is:
 > **Work should stop consuming the lower needs while obstructing the higher ones. Done rightly, it can support survival, create security, provide voluntary belonging, recognize real competence, unlock agency, and culminate in the joy of equipping others.**
 
 That is the psychological version of “equip people until they no longer need you.”
+
+## Conversation Source
+
+- [[raw/transcripts/lyle-faleth-unobstructive-scaffolding-anti-cult-boundary-2026-07-27]]

@@ -595,3 +595,11 @@
 - Added the two-fruit service test at the top of the model and treated the hierarchy as a recursive flywheel rather than a rigid staircase.
 - Added the anti-cult boundary: Faleth can provide scaffolding for human development but cannot replace family, church, friendship, health, rest, or identity beyond economic performance.
 - Updated `index.md`.
+
+## [2026-07-27] update | Faleth as unobstructive scaffolding and anti-cult boundary
+
+- Preserved Lyle's exact Telegram refinement at `raw/transcripts/lyle-faleth-unobstructive-scaffolding-anti-cult-boundary-2026-07-27.md` with SHA-256 provenance.
+- Clarified that Faleth helps people fulfill needs themselves by removing avoidable organizational obstacles, not by providing identity, belonging, esteem, purpose, or fulfillment for them.
+- Added the distinction between belief that energizes agency and belief that demands dependence.
+- Added practical anti-cult tests around disagreement, exit, portable value and relationships, external institutions, and Faleth becoming less necessary as people mature.
+- Updated the Maslow synthesis, apex principle, and Faleth economic philosophy.
