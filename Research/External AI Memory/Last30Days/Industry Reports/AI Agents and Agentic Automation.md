@@ -178,3 +178,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-28
 - Shadow-agent/non-human-identity discovery, agent-sprawl control, AI-gateway consolidation, and vertical EDA/utility agents reinforce agent inventory plus gateway policy as one control plane. Add agent ID, owner, non-human identity, gateway, allowed tools/data, credential scope, KPI, acceptance test, supervision minutes, rollback, and stop authority ([C1 item](https://news.google.com/rss/articles/CBMirAFBVV95cUxPMWlmN3lLSWIxRGN2Q1lOZFE3cTVUWV9ZekN1VkRDSHQ2VTNUd0RTbXRfc0RCT3lkOHVNRy1ZaFNCV3JTLXJGRUZUdUlfRGZFektjRF95UHJFOEJlNGw2NEVxWDhLVmpPSWhfbXBiX05pWjNJWXVmX05kYzQzYVZWYTZIRThlWVk3bVhUUlo3cHU0SjRpdWlmMVREdTFUckcxTXBuc3d5V2JDSF8w?oc=5); RSS/snippet-level). Signal: **medium**.
+
+### 2026-07-29
+- Snowflake gateway/security, secure workflow-platform, enterprise MCP, agent-identity, and vertical industrial/EDA coverage reinforce one governed execution plane spanning identity, gateway policy, tool/data scope, acceptance evidence, supervision, rollback, and stop authority ([Snowflake item](https://news.google.com/rss/articles/CBMihwFBVV95cUxQUzlBTHBTNFNIdG9JSGdJMUN4V2ZZV1BtNEotaS1qRVB6X3d0M1NNWTFIQW9NVm5vQXhuUnA0QXpMVFd4dzNFYWhzNnoyZFcxbGtrWUJ5MmItVkJqeHJ0Vjdjcm1hbUtJanJvUXBCZjhwNFFscTZhdzk1SGNtZjhXZE5sU1VMYnc?oc=5); RSS/snippet-level). Signal: **medium**.
