@@ -1,12 +1,13 @@
 ---
 title: Delta Phone Interface — Grok Voice over Hermes
 created: 2026-07-14
-updated: 2026-07-27
+updated: 2026-07-29
 type: principle
 tags: [ai, infrastructure, software, systems, leverage]
 sources:
   - research/raw/articles/2026-07-14-xai-grok-voice-agent-builder.md
   - raw/x-bookmarks/2026-07-26/2081408374315602338.md
+  - research/raw/transcripts/lyle-x-share-2082339029375426914.md
 confidence: high
 ---
 
@@ -91,6 +92,28 @@ Alex Finn's field report adds a separate use case from telephony: **continuous v
 For Delta, this supports a broader interface test: the phone line should make useful work possible away from a desk without pretending every task belongs in voice. Voice is strongest for intent capture, review, prioritization, and starting asynchronous jobs; exact code review, dense comparison, and irreversible actions should still return to a screen or explicit confirmation. The post's claim of four voice hours outperforming eight desk hours is an anecdote, not a benchmark. [[raw/x-bookmarks/2026-07-26/2081408374315602338]]
 
 This complements [[faleth/process/demonstration-to-skill-capture-2026]]: narration can expose intent and tacit judgment, while Hermes converts that input into durable artifacts and verifiable work.
+
+## Native Hermes real-time voice path — 2026-07-29
+
+Hermes now streams generated replies into TTS sentence-by-sentence across CLI, TUI, and Desktop. True chunked providers—ElevenLabs, Gemini, OpenAI, and xAI—can begin yielding PCM audio after the first complete clause; Edge and other synchronous providers still benefit from sentence-level playback instead of waiting for the full answer. [[research/raw/transcripts/lyle-x-share-2082339029375426914]]
+
+This creates a cheaper and simpler **personal Delta voice interface** than the phone architecture above:
+
+- **Hermes Desktop on Lyle's computer** supplies the microphone, speaker, and conversational surface.
+- **The existing VPS Hermes backend** retains the same sessions, identity, tools, GBrain/Honcho/vault access, cron jobs, and delegation.
+- **Streaming TTS** makes long, toolful answers feel conversational rather than producing a finished audio memo after the work is over.
+- **Telegram remains the asynchronous mobile surface.** It can return voice files, but Telegram does not provide the continuous PCM playback channel needed for true barge-in conversation.
+
+The two architectures therefore serve different mobility envelopes:
+
+1. **Desktop/CLI voice:** personal, lowest complexity, best for office/home brainstorming, directing work, reviewing results, and narrating thought loops.
+2. **Phone/SIP voice:** works while driving or away from a computer, but still needs a narrow remote bridge, telephony controls, and stricter confirmation boundaries.
+
+The correct sequence is now: prove native Hermes Desktop voice first; add phone/SIP only if Lyle repeatedly needs voice access away from the Desktop machine. This deletes a rather heroic amount of telephony engineering before proving the behavior is valuable.
+
+### Current stack fit
+
+The VPS currently has local faster-whisper `base` for STT, `voice.auto_tts: true`, and `tts.provider: xai`; Hermes resolves the new `XAIStreamer` through xAI OAuth. Because xAI subscription availability may change, the reliable zero-cost fallback is Edge TTS: it is not raw-PCM streaming, but Hermes still starts speaking sentence-by-sentence. A paid ElevenLabs or OpenAI key is only justified after native voice becomes a daily interface and lower first-word latency is measurably valuable.
 
 ## v0 KPI
 

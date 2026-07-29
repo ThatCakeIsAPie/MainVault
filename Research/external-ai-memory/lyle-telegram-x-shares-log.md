@@ -1,7 +1,7 @@
 ---
 type: note
 title: Lyle Telegram X Shares Log
-updated: '2026-07-28T13:58:11.000Z'
+updated: '2026-07-29T23:02:43.000Z'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -21,6 +21,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-07-29 | [2082339029375426914](https://x.com/i/status/2082339029375426914) | asked how Hermes streaming TTS fits his stack | [[research/raw/transcripts/lyle-x-share-2082339029375426914]] | [[research/faleth/process/delta-phone-interface-grok-voice-hermes-2026]] |
 | 2026-07-28 | [2081732119194394763](https://x.com/ssi/status/2081732119194394763) | asked what SSI does and why NVIDIA partnership matters | [[research/raw/transcripts/lyle-x-share-2081732119194394763]] | [[research/faleth/process/straight-shot-mission-insulation-and-compute-scaling-2026]] |
 | 2026-07-24 | [2080699367883980924](https://x.com/garrytan/status/2080699367883980924) | Garry Tan; Faleth as the radically different staffing/workflow architecture AI diffusion requires | [[research/raw/transcripts/lyle-x-share-2080699367883980924]] | [[research/faleth/process/microproductivity-requires-workflow-redesign-2026]]; [[The Contribution Framework]] |
 | 2026-07-22 | [2080056638820450400](https://x.com/jack/status/2080056638820450400) | follow-up; Jack's “why we're buzzing” X article | [[research/raw/articles/jack-why-were-buzzing-2026-07-22]] | [[research/faleth/process/buzz-sovereign-agent-workspace-analysis-2026]] |

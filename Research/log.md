@@ -5,6 +5,11 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-07-29] ingest | Hermes streaming TTS stack fit
+- Raw source: [[raw/transcripts/lyle-x-share-2082339029375426914]]
+- Updated: [[faleth/process/delta-phone-interface-grok-voice-hermes-2026]] with native Desktop/CLI voice before phone/SIP sequencing
+- Verified current Hermes stack resolves the xAI streaming provider; retained Edge sentence-level playback as the zero-cost fallback
+
 ## [2026-05-14] create | Wiki initialized
 - Domain: General (AI/ML, business, philosophy, technology, theology, whatever comes up)
 - Location: /home/lylecole4/Documents/Main Vault/Research/
