@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-27 | Total pages: 50+
+> Last updated: 2026-07-29 | Total pages: 50+
 
 ## Meta / schema
 
@@ -145,4 +145,8 @@
 - [[faleth/process/demonstration-to-skill-capture-2026]] — Screen demonstration plus narration as a low-friction path from tacit operator knowledge to testable agent procedures.
 - [[faleth/process/image-to-3d-asset-compilation-agent-loops-2026]] — Compile visual references into project-native procedural 3D assets under renderer, performance, and verification constraints.
 - [[faleth/content/reply-led-audience-discovery-2026]] — Use substantive replies as an early discovery and market-learning channel, measured by qualified attention rather than comment volume.
+- [[faleth/process/grapheneos-hardware-diversification-2026]] — GrapheneOS's planned 2027 move beyond Pixel illustrates supplier diversification without weakening security requirements.
+- [[faleth/process/offline-application-distribution-resilient-comms-2026]] — Resilient communication systems must distribute and verify the client software offline, not merely carry messages offline.
+- [[faleth/process/text-to-cad-as-engineering-compiler-2026]] — Text-to-CAD becomes operational when it compiles intent into editable engineering, simulation, fabrication, and DFM artifacts.
+- [[faleth/process/llm-inference-serving-five-optimization-surfaces-2026]] — Continuous batching, phase disaggregation, KV-cache management, prefix routing, and MoE sharding as the core LLM-serving optimization surfaces.
 

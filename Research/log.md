@@ -622,3 +622,31 @@
 - Created `raw/x-bookmarks/2026-07-27/2081598350147621043.md` — 164.8-second visual-only video; media provenance preserved, but no intelligible speech or durable claim was extractable.
 - Created no concept/entity/query pages: this batch was mostly humor or appliance trivia, while the ethics image was a single polemical exchange insufficient for a durable synthesis without stronger sources.
 - `index.md` unchanged because no wiki pages were created.
+
+## [2026-07-29] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 36 were already processed; ingested all 14 new bookmarks.
+- Created immutable raw sources:
+  - `raw/x-bookmarks/2026-07-25/2081060081278558271.md`
+  - `raw/x-bookmarks/2026-07-27/2081826428295729284.md`
+  - `raw/x-bookmarks/2026-07-27/2081873321516528053.md`
+  - `raw/x-bookmarks/2026-07-28/2081897250121236905.md`
+  - `raw/x-bookmarks/2026-07-28/2081941466125840799.md`
+  - `raw/x-bookmarks/2026-07-28/2081975477930176683.md`
+  - `raw/x-bookmarks/2026-07-28/2081994764488986676.md`
+  - `raw/x-bookmarks/2026-07-28/2082044844759757058.md`
+  - `raw/x-bookmarks/2026-07-28/2082091462531953087.md`
+  - `raw/x-bookmarks/2026-07-28/2082092497619030246.md`
+  - `raw/x-bookmarks/2026-07-28/2082106744788955310.md`
+  - `raw/x-bookmarks/2026-07-28/2082115636281446800.md`
+  - `raw/x-bookmarks/2026-07-28/2082207544626339930.md`
+  - `raw/x-bookmarks/2026-07-28/2082231281941913851.md`
+- Created durable wiki pages:
+  - `faleth/process/grapheneos-hardware-diversification-2026.md`
+  - `faleth/process/offline-application-distribution-resilient-comms-2026.md`
+  - `faleth/process/text-to-cad-as-engineering-compiler-2026.md`
+  - `faleth/process/llm-inference-serving-five-optimization-surfaces-2026.md`
+- Updated `faleth/process/local-model-ownership-agency-2026.md` with the Bonsai 27B / RTX 3060 Ti practitioner benchmark and reproduction caveats.
+- Updated `index.md` for the four newly created pages.
+- Skipped concept synthesis for nine low-evidence or non-durable items: satire, memes, reaction images, an unidentified site demo, an image-only solution, and an incomplete Monero/Tor vulnerability claim awaiting primary-source details.
+- Retrieval notes: X API media expansion and local OCR/transcription succeeded; general web search was unavailable because the configured provider reported depleted credits.
