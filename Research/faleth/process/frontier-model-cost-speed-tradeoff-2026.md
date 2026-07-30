@@ -18,6 +18,7 @@ sources:
   - raw/x-bookmarks/2026-07-25/2080955069755711878.md
   - raw/x-bookmarks/2026-07-26/2081347811140841487.md
   - research/raw/transcripts/lyle-x-share-2082629254731440546.md
+  - research/raw/transcripts/lyle-x-share-2082808601765093698.md
 confidence: medium
 ---
 
@@ -76,6 +77,14 @@ Three operator/vendor posts reinforce that a model name is not a complete deploy
 The durable decision rule is therefore: select **model + precision/format + runtime + hardware + workload** as one system. Compare accepted-result quality, latency, concurrency, memory headroom, energy/capital cost, and operational burden. A theoretically better model in the wrong format can be less useful than a smaller model with a native, well-supported deployment path. This extends [[faleth/process/local-model-ownership-agency-2026]] without changing the current cloud-first cash-timing priority.
 
 A subsequent single-DGX-Spark operator report adds a concrete memory heuristic: keep weights below roughly **80 GB** on the 128 GB system so KV cache, long context, speculative decoding, runtime workspace, and the operating system retain 35–45 GB of headroom. The exact cutoff and reported throughput remain workload-specific, and NVIDIA-native NVFP4 recipes do not transfer directly to AMD Strix Halo. See [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] for the commissioning and cross-platform rule.
+
+## Subscription subsidies can dominate API list pricing (Cursor Pro, 2026-07-30)
+
+MiaAI_lab reports consuming **648,015,199 tokens** through Cursor + Grok 4.5 while the screenshot shows the $20/month Pro plan's Cursor Models allowance at 97%. The same screenshot shows the separate Other Models bucket at 0% and says the plan includes “at least $20 of API usage.” This makes the bundle's apparent fixed-price work capacity exceptional, especially if the separate allowance remains available for models outside Cursor's subsidized pool. [[research/raw/transcripts/lyle-x-share-2082808601765093698]]
+
+The comparison needs discipline: this is a self-reported token total, not audited equivalent API spend. Cached input, input/output mix, internal accounting, model-specific inference cost, and temporary promotional economics can inflate the apparent list-price value. Nor does the screenshot establish that the $20 allowance is a fungible external API credit; it establishes included usage inside Cursor.
+
+The operational rule is still powerful: optimize for **accepted work per subscription dollar**. Route high-volume executor work into unusually subsidized model pools; preserve flexible premium quota for tasks where it changes outcomes; keep the harness provider-swappable because product subsidies can disappear much faster than architecture should. In other words, enjoy the buffet, but do not redesign the kitchen around the restaurant never changing its menu.
 
 ## Faleth / Hermes implications
 
