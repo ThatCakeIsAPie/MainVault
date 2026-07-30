@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-29 | Total pages: 50+
+> Last updated: 2026-07-30 | Total pages: 50+
 
 ## Meta / schema
 
@@ -138,6 +138,7 @@
 - [[faleth/process/self-writing-vault-operating-loop-2026]] — Capture, immutable raw evidence, automated linking, recall, and recurring synthesis as a low-babysitting knowledge loop.
 - [[faleth/process/zero-data-retention-ai-procurement-control-2026]] — ZDR as a verifiable procurement and routing control for sensitive AI/code workflows.
 - [[faleth/process/delta-phone-interface-grok-voice-hermes-2026]] — Grok Voice as Delta's phone/duplex shell over a narrow, authenticated Hermes bridge.
+- [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] — Budget weights, KV cache, draft models, runtime, and OS headroom as one deployment system; translate DGX Spark evidence cautiously to Strix Halo.
 - [[faleth/process/file-native-agent-canvases-2026]] — Local canvas files as shared human/agent work surfaces, with persistent scripts and offline ownership.
 - [[faleth/process/simplified-technical-english-for-llm-docs-2026]] — Named language standards as inspectable constraints for clearer LLM-generated technical documentation.
 - [[faleth/process/open-source-situational-awareness-world-monitor-2026]] — World Monitor as an open, map-based OSINT operating surface; useful architecture signal without pretending it is Palantir-in-a-box.

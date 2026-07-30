@@ -1,7 +1,7 @@
 ---
 title: Frontier Model Cost-Speed Tradeoff (SWE-1.7 signal, 2026)
 created: 2026-07-09
-updated: 2026-07-27
+updated: 2026-07-30
 type: principle
 tags: [ai, llm, inference, strategy, systems, leverage]
 sources:
@@ -17,6 +17,7 @@ sources:
   - raw/x-bookmarks/2026-07-24/2080645121096241521.md
   - raw/x-bookmarks/2026-07-25/2080955069755711878.md
   - raw/x-bookmarks/2026-07-26/2081347811140841487.md
+  - research/raw/transcripts/lyle-x-share-2082629254731440546.md
 confidence: medium
 ---
 
@@ -73,6 +74,8 @@ Three operator/vendor posts reinforce that a model name is not a complete deploy
 - MiaAI_lab maps different Qwen3.6-27B quantizations to RTX 3090, RTX 5090, dual-GPU, and DGX Spark/RTX 6000 Pro configurations. This is a useful deployment recipe, but “one of the best local coding models” and “near-lossless” remain source claims until tested on Lyle's workloads. [[raw/x-bookmarks/2026-07-26/2081347811140841487]]
 
 The durable decision rule is therefore: select **model + precision/format + runtime + hardware + workload** as one system. Compare accepted-result quality, latency, concurrency, memory headroom, energy/capital cost, and operational burden. A theoretically better model in the wrong format can be less useful than a smaller model with a native, well-supported deployment path. This extends [[faleth/process/local-model-ownership-agency-2026]] without changing the current cloud-first cash-timing priority.
+
+A subsequent single-DGX-Spark operator report adds a concrete memory heuristic: keep weights below roughly **80 GB** on the 128 GB system so KV cache, long context, speculative decoding, runtime workspace, and the operating system retain 35–45 GB of headroom. The exact cutoff and reported throughput remain workload-specific, and NVIDIA-native NVFP4 recipes do not transfer directly to AMD Strix Halo. See [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] for the commissioning and cross-platform rule.
 
 ## Faleth / Hermes implications
 

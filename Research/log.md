@@ -5,6 +5,12 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-07-30] ingest | DGX Spark and Strix Halo unified-memory inference budget
+- Raw source: [[raw/transcripts/lyle-x-share-2082629254731440546]]
+- Created: [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]]
+- Updated: [[faleth/process/frontier-model-cost-speed-tradeoff-2026]], [[index]], and Telegram X shares log
+- Preserved the operator's ~80 GB DGX Spark weight ceiling as a commissioning heuristic, not a universal hardware fact; separated NVIDIA NVFP4/CUDA recipes from AMD Strix Halo GGUF/ROCm/Vulkan paths
+
 ## [2026-07-29] ingest | Hermes streaming TTS stack fit
 - Raw source: [[raw/transcripts/lyle-x-share-2082339029375426914]]
 - Updated: [[faleth/process/delta-phone-interface-grok-voice-hermes-2026]] with native Desktop/CLI voice before phone/SIP sequencing
