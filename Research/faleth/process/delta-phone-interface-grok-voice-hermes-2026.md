@@ -163,6 +163,18 @@ Hermes' official TTS documentation already supports the integration without a co
 - One stable voice sounds good enough for daily use; novelty is not a KPI.
 - Telegram delivery and Desktop playback both work through the supported Hermes provider path.
 
+### Resource envelope
+
+Kokoro itself is small. The current `kokoro-onnx` release assets are approximately **115 MiB** for INT8 weights plus voices, **196 MiB** for FP16 plus voices, or **337 MiB** for FP32 plus voices. Runtime and API-wrapper overhead matter more than the weight file: lean ONNX deployments are commonly reported in the few-hundred-megabyte range, while PyTorch/FastAPI containers can require at least roughly 1.5–2 GiB free RAM and several gigabytes of disk for the full image and dependencies.
+
+Practical tiers for the Delta speech edge:
+
+- **Proof on the existing VPS:** 3 vCPU / 3.7 GiB RAM, INT8 ONNX, one voice stream, sequential STT then TTS. This should be attempted but is tight because the live host already uses swap.
+- **Comfortable always-on service:** 4 vCPU / 8 GiB RAM / 10 GiB free disk. This leaves room for the Hermes gateway, faster-whisper `base`, Kokoro, ffmpeg, and short overlap without living in swap.
+- **Desktop/edge ideal:** any recent 4+ core CPU with 8 GiB RAM. No GPU required. A modest GPU can reduce latency, but buying one for an 82M-parameter fixed-voice model would be performance art.
+
+The lean implementation should start with a persistent INT8 `kokoro-onnx` service rather than the approximately 5 GB all-inclusive CPU Docker image. Upgrade the VPS only if measured first-audio latency, gateway contention, or swap pressure fails the acceptance gates.
+
 This is the smallest credible local JARVIS loop. Audio8 can remain in the showroom until we actually need it; specifications are not a constitutional requirement to install every shiny model.
 
 ## v0 KPI
