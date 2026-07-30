@@ -186,3 +186,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-29
 - Official API **~11:00 UTC**: **367 IDs**, exact diff **+28 / -2**. All additions are discounted `:batch` routes across Anthropic, Google, OpenAI, and MiniMax; examples include Sonnet 5 batch **$1/$5/M**, GPT-5.5 batch **$2.50/$15/M**, and Gemini 3.6 Flash batch **$0.75/$3.75/M**. Removed `poolside/laguna-m.1` and `:free`; core stack and delegate `poolside/laguna-xs-2.1` remain unchanged ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**; benchmark batch only for latency-tolerant work and preserve paid fallbacks.
+
+### 2026-07-30
+- Official API **~11:00 UTC**: **367 IDs**, exact full-ID diff **0 additions / 0 removals**. Core stack and pricing remain unchanged: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free` ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**; no reroute, run one bounded batch benchmark.

@@ -181,3 +181,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-29
 - Snowflake gateway/security, secure workflow-platform, enterprise MCP, agent-identity, and vertical industrial/EDA coverage reinforce one governed execution plane spanning identity, gateway policy, tool/data scope, acceptance evidence, supervision, rollback, and stop authority ([Snowflake item](https://news.google.com/rss/articles/CBMihwFBVV95cUxQUzlBTHBTNFNIdG9JSGdJMUN4V2ZZV1BtNEotaS1qRVB6X3d0M1NNWTFIQW9NVm5vQXhuUnA0QXpMVFd4dzNFYWhzNnoyZFcxbGtrWUJ5MmItVkJqeHJ0Vjdjcm1hbUtJanJvUXBCZjhwNFFscTZhdzk1SGNtZjhXZE5sU1VMYnc?oc=5); RSS/snippet-level). Signal: **medium**.
+
+### 2026-07-30
+- Agent infrastructure, visibility-gap, endpoint-risk graphing, local/shadow-AI governance, and cost-monitoring coverage reinforce inventory + policy + telemetry as one production control plane. Track agent identity, endpoint/credential scope, planned/actual actions, accepted result, cost, owner, rollback, and stop authority ([visibility item](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUE9EVUFTaDJ2N1hrYzlHZ2k0dFVCeUExNTFRYVh0aklrb2tkd0c0RlJqdnNqOV80cVpybXJ2WmZ2NGpQNk9LdWN6R1dnbzAzREpYVmhpdTB2VzdvUmNqdmNBalpjU3JWdXlXblJVU1Z5aDJUd2g5S2dhcnZQYUVGOU1la0E4Q0tjNFZJNjJmZHVyaGZ3bFFvTGxiRGJKN0poSlRZNkZoRXltaTdNMlE2amlzWXdIVHJBNk1PSA?oc=5); RSS/snippet-level). Signal: **medium**.

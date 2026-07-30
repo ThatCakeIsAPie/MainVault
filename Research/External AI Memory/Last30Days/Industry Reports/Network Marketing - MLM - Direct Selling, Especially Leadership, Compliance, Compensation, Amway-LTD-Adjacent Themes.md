@@ -171,3 +171,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-29
 - Targeted strict-window RSS returned zero items; no Amway/LTD compensation, IDS, enforcement, or leadership-compliance change surfaced. Directly inspected FTC guidance still requires substantiated typical net-outcome framing and says “results not typical” is not enough to cure atypical earnings impressions ([FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing); background). Signal: **weak** for novelty, **strong** for durable context.
+
+### 2026-07-30
+- The targeted feed returned only an unrelated tobacco-regulator item; no Amway/LTD compensation, IDS, enforcement, or leadership-compliance change surfaced. Direct FTC inspection again confirmed that typical participant revenue and expenses must be clear and substantiated and that “results not typical” is insufficient, including in video/audio ads ([FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing); background). Signal: **weak** for novelty, **strong** for durable context.

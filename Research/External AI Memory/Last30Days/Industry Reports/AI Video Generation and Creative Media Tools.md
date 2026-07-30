@@ -172,3 +172,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-29
 - Autonomous ad changes, a pulled AI advertisement, and advertiser-verification failure reinforced that approval authority, provenance, brand safety, distribution receipts, and rollback are now part of the creative stack; no inspected flagship video API/pricing change surfaced ([rogue-ad-agent item](https://news.google.com/rss/articles/CBMif0FVX3lxTE5YR3RNT1E2cDYtdmp5SEszREYwNnN6N01xQnRWemtzcEg4cjJTRlptcENNcXJoTTk1emFXaG5VbURYVl9rRFIzWDRSQ3Q1RC1MQWhWLUtGbnZlZWR2RFBoTUdqOHZYNDRabmdmMFdvYzNNNnpieDktOC1vYmg2cjA?oc=5); RSS/snippet-level). Signal: **medium** for governance direction, **weak** for model novelty.
+
+### 2026-07-30
+- Cross-model color matching, fake-video source identification, copyright-risk detection, and a reported $3M IP-clearance-layer raise reinforce production consistency and rights review as first-class workflow stages. No inspected flagship API/pricing change surfaced ([color-matching item](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNEdYa1hZaTJXUFRIQ01XTENvREk5aFR1d1VYU0k0MVlwUktDTG5vVmdjdloxelByc3BJd2VZOGZMRWk0NE5laE03MUlzZS1MZG8zZm5IVTU0cUwwTnZJOXk1OWhhdmM0akpyQXplYV9QNXBZTDRudXBwUUk5Q3hXLXVyM3ZlMk1YQ3djRXJISjdzVFN4OVFF?oc=5); RSS/snippet-level). Signal: **medium–weak**.
