@@ -17,7 +17,7 @@ A model that technically fits in unified memory may still be operationally unusa
 
 > **weights + KV cache + draft/MTP model + runtime workspace + operating-system reserve + concurrent-session reserve < usable unified memory**
 
-Context is not free. Long context and concurrency expand KV cache; speculative decoding consumes additional memory; runtimes need workspace; and the operating system still expects to remain conscious. Filling nearly all memory with weights converts an expensive inference box into a very sophisticated swap demonstrator.
+Context is not free. Long context and concurrency expand KV cache; speculative decoding consumes additional memory; runtimes need workspace; and the operating system still expects to remain conscious. MoE sparsity reduces how many parameters are *activated for compute per token*, but it does not magically remove the expert weights that must remain resident. Filling nearly all memory with weights converts an expensive inference box into a very sophisticated swap demonstrator.
 
 ## DGX Spark operator signal
 
