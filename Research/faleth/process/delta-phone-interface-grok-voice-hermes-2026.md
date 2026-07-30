@@ -1,7 +1,7 @@
 ---
 title: Delta Phone Interface — Grok Voice over Hermes
 created: 2026-07-14
-updated: 2026-07-29
+updated: 2026-07-30
 type: principle
 tags: [ai, infrastructure, software, systems, leverage]
 sources:
@@ -10,6 +10,7 @@ sources:
   - research/raw/transcripts/lyle-x-share-2082339029375426914.md
   - raw/x-bookmarks/2026-07-29/2082339029375426914.md
   - raw/x-bookmarks/2026-07-29/2082509593280688317.md
+  - research/raw/transcripts/lyle-x-share-2082864345520722221.md
 confidence: high
 ---
 
@@ -121,7 +122,48 @@ This strengthens the case for testing the native desktop path before building te
 
 ### Current stack fit
 
-The VPS currently has local faster-whisper `base` for STT, `voice.auto_tts: true`, and `tts.provider: xai`; Hermes resolves the new `XAIStreamer` through xAI OAuth. Because xAI subscription availability may change, the reliable zero-cost fallback is Edge TTS: it is not raw-PCM streaming, but Hermes still starts speaking sentence-by-sentence. A paid ElevenLabs or OpenAI key is only justified after native voice becomes a daily interface and lower first-word latency is measurably valuable.
+The VPS currently has local faster-whisper `base` for STT, `voice.auto_tts: true`, ffmpeg, ONNX Runtime, three AMD EPYC vCPUs, 3.7 GiB RAM, and no NVIDIA GPU. The configured TTS provider remains `xai`, but Lyle's xAI subscription is no longer available; Kokoro is not yet installed. At inspection, roughly 2.0 GiB RAM was available and 2.0 GiB swap was already occupied, so any local voice service must be benchmarked alongside the live gateway rather than congratulated for merely starting.
+
+## Local-first speech edge — Kokoro + faster-whisper (2026-07-30)
+
+Audio8-TTS Preview is technically impressive: 601,159,424 parameters, 11 languages, zero-shot voice cloning, a bundled 44.1 kHz codec, Apache 2.0 licensing, and a reported English Seed-TTS WER of 1.506. But its own documentation recommends a CUDA-capable GPU, and its DualAR model is roughly seven times larger than Kokoro-82M. Those extra capabilities do not improve the primary Delta requirement enough to justify becoming the default on the current CPU-only VPS. [[research/raw/transcripts/lyle-x-share-2082864345520722221]]
+
+Kokoro better matches the actual job:
+
+- 82 million parameters;
+- eight languages and 54 fixed voices in v1.0;
+- Apache-licensed weights;
+- StyleTTS2/ISTFTNet decoder with no diffusion;
+- ONNX packaging around 300 MB full or 80 MB quantized;
+- CPU-oriented deployments and third-party EPYC benchmarks reporting faster-than-real-time aggregate generation;
+- no voice-cloning complexity when Delta should sound like one stable character anyway.
+
+The minimal private speech path is:
+
+> microphone or Telegram voice → faster-whisper `base` → Hermes/Delta → Kokoro-82M → speaker or Telegram voice bubble
+
+This localizes the **speech edge**, not the reasoning model. Hermes still uses its cloud planner/executor models and retains the VPS tools, vault, GBrain, Honcho, cron, and delegation stack. The win is eliminating cloud STT/TTS dependence, reducing recurring voice cost, and keeping raw speech away from another provider.
+
+Hermes' official TTS documentation already supports the integration without a core fork: either point the OpenAI provider at an OpenAI-compatible Kokoro server through `tts.openai.base_url`, or register a custom command provider under `tts.providers`. A persistent OpenAI-compatible service is preferable for conversational use because it avoids reloading the model for every sentence and can preserve chunked playback. `Kokoro-FastAPI` is the obvious first adapter; a lightweight `kokoro-onnx` service is the fallback if the FastAPI image is too heavy for this VPS.
+
+### Deployment sequence
+
+1. Benchmark the existing faster-whisper `base` path on short real voice notes: end-of-speech-to-text latency and correction rate.
+2. Run Kokoro persistently on the VPS and benchmark cold start, warm first-audio latency, real-time factor, peak RSS, and gateway impact.
+3. Pick one fixed Delta voice and test Telegram voice bubbles through ffmpeg.
+4. Test Hermes sentence-level streaming in Desktop/CLI.
+5. If remote-server latency dominates live conversation, move only the speech service to the Desktop machine attached to the microphone and speakers; keep the Hermes brain on the VPS over the existing private connection.
+6. Reconsider Audio8 only when multilingual zero-shot cloning becomes a real requirement or a GPU-capable edge box makes its latency acceptable.
+
+### v0 acceptance gates
+
+- STT accurately handles Lyle's normal speaking cadence without cloud fallback.
+- Warm Kokoro generation is faster than playback and begins quickly enough to feel conversational.
+- Combined Whisper + Kokoro load does not starve the Hermes gateway or force sustained swap churn.
+- One stable voice sounds good enough for daily use; novelty is not a KPI.
+- Telegram delivery and Desktop playback both work through the supported Hermes provider path.
+
+This is the smallest credible local JARVIS loop. Audio8 can remain in the showroom until we actually need it; specifications are not a constitutional requirement to install every shiny model.
 
 ## v0 KPI
 

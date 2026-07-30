@@ -21,6 +21,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-07-30 | [2082864345520722221](https://x.com/i/status/2082864345520722221) | Kokoro TTS + faster-whisper STT as the local Delta speech edge | [[research/raw/transcripts/lyle-x-share-2082864345520722221]] | [[research/faleth/process/delta-phone-interface-grok-voice-hermes-2026]] |
 | 2026-07-30 | [2082808601765093698](https://x.com/MiaAI_lab/status/2082808601765093698) | unusually high Cursor Pro Grok 4.5 token allowance plus separate $20 API usage | [[research/raw/transcripts/lyle-x-share-2082808601765093698]] | [[research/faleth/process/frontier-model-cost-speed-tradeoff-2026]] |
 | 2026-07-30 | [2082629254731440546](https://x.com/i/status/2082629254731440546) | save for future DGX Spark / Strix Halo local inference | [[research/raw/transcripts/lyle-x-share-2082629254731440546]] | [[research/faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]]; [[research/faleth/process/frontier-model-cost-speed-tradeoff-2026]] |
 | 2026-07-29 | [2082339029375426914](https://x.com/i/status/2082339029375426914) | asked how Hermes streaming TTS fits his stack | [[research/raw/transcripts/lyle-x-share-2082339029375426914]] | [[research/faleth/process/delta-phone-interface-grok-voice-hermes-2026]] |
