@@ -84,6 +84,8 @@ MiaAI_lab reports consuming **648,015,199 tokens** through Cursor + Grok 4.5 whi
 
 The comparison needs discipline: this is a self-reported token total, not audited equivalent API spend. Cached input, input/output mix, internal accounting, model-specific inference cost, and temporary promotional economics can inflate the apparent list-price value. Nor does the screenshot establish that the $20 allowance is a fungible external API credit; it establishes included usage inside Cursor.
 
+At xAI's official Grok 4.5 rates checked on 2026-07-30—**$2/M input, $6/M output, $0.30/M cached input**, with standard prices doubling for prompts of at least 200,000 tokens—the 648,015,199-token report corresponds to about **$1,555** at a 90/10 input-output mix, **$1,814** at 80/20, or **$2,074** at 70/30. Even the artificial all-cache-read floor is about **$194**; an 80/20 long-context case is about **$3,629**. The ordinary blended estimate therefore implies roughly **78–104×** the $20 subscription price. [Official model pricing](https://docs.x.ai/developers/models/grok-4-5)
+
 The operational rule is still powerful: optimize for **accepted work per subscription dollar**. Route high-volume executor work into unusually subsidized model pools; preserve flexible premium quota for tasks where it changes outcomes; keep the harness provider-swappable because product subsidies can disappear much faster than architecture should. In other words, enjoy the buffet, but do not redesign the kitchen around the restaurant never changing its menu.
 
 ## Faleth / Hermes implications
