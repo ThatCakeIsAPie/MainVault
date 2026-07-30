@@ -8,6 +8,8 @@ sources:
   - research/raw/articles/2026-07-14-xai-grok-voice-agent-builder.md
   - raw/x-bookmarks/2026-07-26/2081408374315602338.md
   - research/raw/transcripts/lyle-x-share-2082339029375426914.md
+  - raw/x-bookmarks/2026-07-29/2082339029375426914.md
+  - raw/x-bookmarks/2026-07-29/2082509593280688317.md
 confidence: high
 ---
 
@@ -110,6 +112,12 @@ The two architectures therefore serve different mobility envelopes:
 2. **Phone/SIP voice:** works while driving or away from a computer, but still needs a narrow remote bridge, telephony controls, and stricter confirmation boundaries.
 
 The correct sequence is now: prove native Hermes Desktop voice first; add phone/SIP only if Lyle repeatedly needs voice access away from the Desktop machine. This deletes a rather heroic amount of telephony engineering before proving the behavior is valuable.
+
+### Local wake-word activation
+
+Hermes now also supports an optional, locally detected wake word that opens a new voice session in the CLI, TUI, or Desktop app. Combined with streaming TTS, this closes two different latency gaps: the wake word removes the manual start action, while streamed speech reduces the delay before Delta begins answering. Detection is off by default, which is the correct boundary for an always-listening interface. [[raw/x-bookmarks/2026-07-29/2082509593280688317]]
+
+This strengthens the case for testing the native desktop path before building telephony. The immediate experiment is mundane but decisive: enable wake-word activation on one trusted machine, measure false activations and successful hands-free task starts for a week, and keep irreversible actions behind explicit confirmation. A voice interface that awakens elegantly but mishears file deletion is merely Clippy with initiative.
 
 ### Current stack fit
 

@@ -661,3 +661,20 @@
 - Updated `index.md` for the four newly created pages.
 - Skipped concept synthesis for nine low-evidence or non-durable items: satire, memes, reaction images, an unidentified site demo, an image-only solution, and an incomplete Monero/Tor vulnerability claim awaiting primary-source details.
 - Retrieval notes: X API media expansion and local OCR/transcription succeeded; general web search was unavailable because the configured provider reported depleted credits.
+
+## [2026-07-30] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 44 were already processed; ingested all 6 new bookmarks.
+- Created immutable raw sources:
+  - `raw/x-bookmarks/2026-07-28/2082123925283041545.md`
+  - `raw/x-bookmarks/2026-07-30/2082629254731440546.md`
+  - `raw/x-bookmarks/2026-07-29/2082463988953367031.md`
+  - `raw/x-bookmarks/2026-07-29/2082339029375426914.md`
+  - `raw/x-bookmarks/2026-07-29/2082467621220307445.md`
+  - `raw/x-bookmarks/2026-07-29/2082509593280688317.md`
+- Updated durable wiki pages:
+  - `faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026.md` — linked the bookmark provenance for the 80 GB DGX Spark weight-budget heuristic and repaired tags to the schema taxonomy.
+  - `faleth/process/local-model-ownership-agency-2026.md` — added the Kimi K3 1-bit quantization signal and distinguished artifact size from practical memory residency and serving performance.
+  - `faleth/process/delta-phone-interface-grok-voice-hermes-2026.md` — added native Hermes wake-word activation and linked streaming-TTS bookmark provenance.
+- `index.md` unchanged because no new wiki pages were created.
+- Skipped concept synthesis for the rumored Grok 4.6/4.7 release schedule and White House COVID-origins link: both are durable subjects but these single promotional/political posts are insufficient evidence for a defensible page.

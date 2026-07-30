@@ -3,9 +3,10 @@ title: Unified-Memory Inference Budget — DGX Spark and Strix Halo
 created: 2026-07-30
 updated: 2026-07-30
 type: principle
-tags: [ai, llm, inference, hardware, dgx-spark, strix-halo, systems]
+tags: [ai, llm, inference, hardware, systems]
 sources:
   - research/raw/transcripts/lyle-x-share-2082629254731440546.md
+  - raw/x-bookmarks/2026-07-30/2082629254731440546.md
 confidence: medium
 ---
 
@@ -27,7 +28,7 @@ A single DGX Spark operator reports an empirical **~80 GB maximum weight target*
 - **Qwen 3.5 122B-A10B NVFP4:** 74 GB; claimed ~35 tok/s using MTP.
 - **StepFun 3.7 Flash Q4:** 108 GB; reported slow with little headroom, while the NVFP4 build reportedly failed to load and wedged the machine twice.
 
-These are practitioner measurements, not controlled benchmarks. Preserve the heuristic; reproduce the numbers before depending on them. [[research/raw/transcripts/lyle-x-share-2082629254731440546]]
+These are practitioner measurements, not controlled benchmarks. Preserve the heuristic; reproduce the numbers before depending on them. [[research/raw/transcripts/lyle-x-share-2082629254731440546]] [[raw/x-bookmarks/2026-07-30/2082629254731440546]]
 
 ## DGX Spark deployment policy
 
