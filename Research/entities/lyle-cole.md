@@ -30,8 +30,8 @@ Entrepreneur building [[faleth-capital]] — a family-office and holding-company
 - User-reported pipeline includes awarded work, pending-budget work, and high-confidence larger work that may create an intense fulfillment month
 - Automation-services bridge is on hold unless runway math breaks before unemployment and contract cash arrive
 - Amway/LTD remains a leadership and personal-development environment, not the primary economic identity of the current season
-- Serious relationship, not engaged, explicitly confirmed 2026-07-30
-- Stable life priority hierarchy: **God → partner/family → future kids → business**
+- Lyle and his partner consider themselves married in commitment/before God, while not yet legally or civilly married; they are tying up loose ends before formalizing it (confirmed 2026-07-30)
+- Stable life priority hierarchy: **God → wife/family → future kids → business**
 
 ## Current Ventures and Systems
 
@@ -54,10 +54,10 @@ Entrepreneur building [[faleth-capital]] — a family-office and holding-company
 
 - Christian; Scripture is the governing authority, with non-biblical advice treated as prescription rather than command
 - Identity is anchored in Christ rather than revenue, employment, deals, or business performance
-- Current relationship status: serious relationship, not engaged (confirmed 2026-07-30)
+- Current relationship status: Lyle and his partner consider themselves married in commitment/before God, but are not yet legally or civilly married while they tie up loose ends (confirmed 2026-07-30)
 - Family formation and biological children are central long-term aspirations
 - Business purpose: enable others' dreams, preserve agency, remove obstacles, and build durable ownership systems
-- Relationship status is explicitly dated because it can change; current canonical status is serious relationship, not engaged as of 2026-07-30
+- Relationship status is explicitly dated because it can change; current canonical framing is married in commitment/before God, not yet legally or civilly married, as of 2026-07-30
 
 ## Technical Profile
 
