@@ -14,7 +14,11 @@ CRITICAL STRUCTURE:
    - “3 STICK” in calm blue, remaining present but with little growth.
    - “3 DO SOMETHING” in amber, showing small intermittent activity.
    - “3 RUN HARD” in bright cyan, each growing a branching multi-level organization beneath them.
-6. Under the three RUN HARD direct sponsors, draw clear second- and third-level descendant networks. Place ONE luminous gold star/medallion on a DESCENDANT NODE in depth beneath one of these direct sponsors—not on the direct sponsor. Label it “1 EVENTUAL PLATINUM-BEARING GROUP.” Add a nearby callout: “THE PLATINUM MAY EMERGE IN DEPTH.” This is the most important causal idea.
+6. Under the three RUN HARD direct sponsors, label the three branches left to right:
+   - “1,000 PV LEG” with sublabel “~4 PEOPLE”
+   - “2,500 PV LEG” with sublabel “~3/10”
+   - “4,000 PV LEG” with sublabel “~6/25”
+   Bracket all three as “7,500 PV PLATINUM STRUCTURE.” Then draw clear second- and third-level descendant networks beneath them. Place ONE luminous gold star/medallion on a DESCENDANT NODE in depth beneath one of these direct sponsors—not on the direct sponsor. Label it “1 EVENTUAL PLATINUM-BEARING GROUP.” Add a nearby callout: “THE PLATINUM MAY EMERGE IN DEPTH.” This is the most important causal idea.
 7. Do not draw a flat funnel where one of the twelve automatically becomes Platinum. Do not imply certainty or guaranteed earnings.
 
 BOTTOM METRIC PANEL, exactly these six numbers in a clean 2×3 grid:
