@@ -3,7 +3,11 @@ date: 2026-07-12
 type: operating-metric
 business: LTD / Amway
 status: rough-activity-standard
-source: Lyle Telegram note + 2026-07-11 field benchmark document
+source:
+  - Lyle Telegram note
+  - 2026-07-11 field benchmark document
+  - Research/raw/documents/Amway-Business-Reference-Guide-USEN-2024-09.pdf
+  - Research/raw/transcripts/2024-09-amway-business-reference-guide-global-award-recognition-extract.md
 ---
 
 # Platinum / 7500PV Activity Math
@@ -63,29 +67,25 @@ Therefore, finding the **three core legs** that carry a Platinum-shaped business
 
 The working expectation is approximately **two years from a standing start**, assuming the baseline activity is sustained.
 
-## Triple Diamond organizational math
+## Triple Diamond formal qualification
 
-Lyle's corrected Triple Diamond structural target is:
+The September 2024 U.S. [[Research/raw/transcripts/2024-09-amway-business-reference-guide-global-award-recognition-extract|Amway Business Reference Guide]] corrects the earlier conversational shorthand. Executive Diamond and above use two distinct units:
 
-- **52 Platinum-or-higher organizations anywhere in the total team**
-- **At least 10 separate legs**, each containing at least one Platinum-or-higher organization
-- The 52 count **includes** the Platinum organizations in those 10 qualifying-width legs; it does not mean 10 plus 52
-- After satisfying the 10-leg width floor, the remaining **42 Platinum positions** can be distributed deeper through those legs
+- **Width:** sponsored **Founders Platinum (FP) Groups**
+- **Depth:** **Qualification Credits (QC)** under the Global Award Recognition schedule
 
-If every Platinum organization is modeled using the 7500PV unit above, the gross unit-scale equivalent is:
+| Award | Minimum FP Groups | Required QC | Maximum QC per group tier |
+|---|---:|---:|---:|
+| Triple Diamond | **10+** | **43** | Up to 9 |
+| Founders Triple Diamond | **10+** | **52** | Up to 9 |
 
-| Scale | Working equivalent |
-|---|---:|
-| Platinum organizations | 52 |
-| Minimum distinct Platinum-bearing legs | 10 |
-| Remaining Platinum positions available for depth | 42 |
-| 7500PV unit equivalents | 390,000 PV/month |
-| 150PV-seat equivalents | ~2,600 |
-| Three-core-builder equivalents | ~156 |
-| Sponsor-funnel equivalents | ~624–780 total sponsors |
-| MG1 throughput at 80/month per Platinum unit | ~4,160/month in depth |
+Therefore, the canonical target previously described as “10 Platinum legs wide with 52 Platinums in depth” must be stated more precisely:
 
-These multiplication figures express **organizational scale**, not a claim that Lyle personally performs 52 times the frontline activity or that every compensation-plan report will display one simple 390,000PV total. Platinums can be stacked in depth; the governing topology is **10-leg minimum width plus 52 Platinum-or-higher organizations anywhere in the team**.
+> **Founders Triple Diamond = at least 10 Founders Platinum groups in width plus 52 Qualification Credits in depth.**
+
+The 52 figure is **not 52 Platinum organizations**, and one Platinum does not universally equal one QC. Qualification Credits are governed by the official schedule and per-group caps; a Founders Platinum can contribute credits subject to those rules, and contributing more than one requires the relevant multiple business to be an Emerald Bonus Recipient in its local market.
+
+Accordingly, the previous extrapolations of 52 × 7500PV, 2,600 seats, 156 core builders, 624–780 sponsors, and 4,160 monthly MG1s are withdrawn. They multiplied unlike units and were not supported by the official plan. The 7500PV activity model remains useful for developing an individual Platinum-shaped organization; the higher-pin model must separately track FP-group width and Qualification Credits.
 
 ## Interpretation
 
