@@ -87,6 +87,17 @@ The 52 figure is **not 52 Platinum organizations**, and one Platinum does not un
 
 Accordingly, the previous extrapolations of 52 × 7500PV, 2,600 seats, 156 core builders, 624–780 sponsors, and 4,160 monthly MG1s are withdrawn. They multiplied unlike units and were not supported by the official plan. The 7500PV activity model remains useful for developing an individual Platinum-shaped organization; the higher-pin model must separately track FP-group width and Qualification Credits.
 
+## Ratio evidence currently recorded
+
+Several related ratios are preserved, but the vault does **not** attribute a sponsored-batch-to-Platinum conversion directly to Josh Gordon:
+
+- **Josh Gordon, 2026-06-13 Night Owl, 01:46:** out of 10 people contacted, roughly **2 are hungry and 8 are not**. This is a prospect-hunger/filtering ratio, not a sponsor-to-Platinum ratio.
+- **NM Platinum field benchmark, supplied 2026-07-11:** out of every 4 sponsored people, **1 quits, 1 remains for culture without building, 1 incubates, and 1 actively runs**. It estimates **12–15 sponsors** to find three core legs. The preserved source does not name the original speaker.
+- **Ethan Ellenberg, 2026-06-11:** a Platinum-sized organization of roughly 40 people has **3–4 people showing the plan**, and approximately **1 of those 4 plan-showers** goes Platinum. This is a plan-shower-to-Platinum heuristic, not a ratio across every registrant.
+- **Chris Colgrove, 2026-07-02:** out of 100 annual signups, approximately **10–15 stay**; a Platinum team is roughly 50 volume-producing IBOs with **3–4 plan-showers, 1–2 getting results, and 1 making a two-year commitment**. He also noted that fewer than 1% of all registrants go Platinum, while warning that inactive registrations heavily distort that denominator.
+
+The likely remembered “Josh Gordon ratio” is therefore either the **2 hungry out of 10 contacts** rule or an unrecorded talk. The most direct conversion model currently in the vault is the unnamed NM four-person sponsor funnel, supplemented by Ethan's one-in-four plan-shower heuristic.
+
 ## Personal sponsorship planning math for 10 FP groups
 
 The official guide does **not** prescribe how many people Lyle must personally sponsor to create 10 Founders Platinum groups. That is a conversion-funnel planning question, so it must remain separate from formal qualification.
