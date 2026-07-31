@@ -21,6 +21,8 @@ Lyle supplied the U.S. English **Amway Business Reference Guide**, which states 
 
 Original: [[Amway-Business-Reference-Guide-USEN-2024-09.pdf]]
 
+Full searchable extraction: [[2024-09-amway-business-reference-guide-full-text]]
+
 This extract focuses on pages A-12 and A-13 (PDF pages 18–19), which define Diamond and the Global Award Recognition levels.
 
 ## Diamond / Founders Diamond
