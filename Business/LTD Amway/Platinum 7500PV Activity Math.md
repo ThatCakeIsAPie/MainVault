@@ -87,6 +87,31 @@ The 52 figure is **not 52 Platinum organizations**, and one Platinum does not un
 
 Accordingly, the previous extrapolations of 52 × 7500PV, 2,600 seats, 156 core builders, 624–780 sponsors, and 4,160 monthly MG1s are withdrawn. They multiplied unlike units and were not supported by the official plan. The 7500PV activity model remains useful for developing an individual Platinum-shaped organization; the higher-pin model must separately track FP-group width and Qualification Credits.
 
+## Personal sponsorship planning math for 10 FP groups
+
+The official guide does **not** prescribe how many people Lyle must personally sponsor to create 10 Founders Platinum groups. That is a conversion-funnel planning question, so it must remain separate from formal qualification.
+
+The field benchmark already preserved in this vault says that major builders often personally sponsored **60–80 people**. Applied to a 10-FP-group width target:
+
+| Personally sponsored | Required sponsor-to-FP-group outcome | Sponsors per eventual FP group |
+|---:|---:|---:|
+| 40 | 25.0% | 4 |
+| **60** | **16.7%** | **6** |
+| **80** | **12.5%** | **8** |
+| 100 | 10.0% | 10 |
+| 120 | 8.3% | 12 |
+
+The practical model is therefore:
+
+- **Aggressive floor:** 60 personally sponsored
+- **Centerline target:** 80 personally sponsored
+- **Safety range:** 100–120 personally sponsored
+- **Recommended operating scoreboard:** build toward **80**, while maintaining emotional and calendar capacity for **100–120** if leadership conversion is weaker than the field benchmark
+
+At the current working rate of **1–2 sponsors per month**, reaching 80 personally sponsored legs requires roughly **40–80 months**. The current `10 MG1s run → 1–2 sponsors` benchmark implies approximately **400–800 run MG1s** to sponsor 80 people. These are activity-planning equivalents, not guarantees that ten resulting groups will become Founders Platinum.
+
+The controllable job is not to personally “find ten Platinums.” It is to sponsor enough people, identify and develop at least ten durable leaders, and help ten distinct groups sustain Founders Platinum qualification.
+
 ## Interpretation
 
 This is the level of activity required to hit Platinum: not a motivational slogan, but a throughput model. The full causal chain is:
