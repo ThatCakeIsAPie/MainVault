@@ -175,3 +175,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-30
 - Cross-model color matching, fake-video source identification, copyright-risk detection, and a reported $3M IP-clearance-layer raise reinforce production consistency and rights review as first-class workflow stages. No inspected flagship API/pricing change surfaced ([color-matching item](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNEdYa1hZaTJXUFRIQ01XTENvREk5aFR1d1VYU0k0MVlwUktDTG5vVmdjdloxelByc3BJd2VZOGZMRWk0NE5laE03MUlzZS1MZG8zZm5IVTU0cUwwTnZJOXk1OWhhdmM0akpyQXplYV9QNXBZTDRudXBwUUk5Q3hXLXVyM3ZlMk1YQ3djRXJISjdzVFN4OVFF?oc=5); RSS/snippet-level). Signal: **medium–weak**.
+
+### 2026-07-31
+- MiniMax officially released H3 as an open multimodal video model for text/image/video/audio-conditioned generation, reference creation, and editing, with 4–15 second 2K output. Official pricing is $0.13/sec at 2K and $0.09/sec at 768p closed beta. FRR should run one finished repair-explainer benchmark before changing tools ([H3 docs](https://platform.minimax.io/docs/guides/video-generation), [pricing](https://platform.minimax.io/docs/guides/pricing-paygo)). Signal: **strong** for documented capability/pricing; **weak–medium** for day-one quality comparisons.

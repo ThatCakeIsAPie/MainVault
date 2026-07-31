@@ -189,3 +189,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-30
 - Official API **~11:00 UTC**: **367 IDs**, exact full-ID diff **0 additions / 0 removals**. Core stack and pricing remain unchanged: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free` ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**; no reroute, run one bounded batch benchmark.
+
+### 2026-07-31
+- Official API **~11:00 UTC**: **365 IDs**, exact diff **+1 / -3**. Added `deepseek/deepseek-v4-flash-0731` at **$0.14/$0.28/M**; removed paid routes `openai/gpt-5-codex`, `openai/o3-deep-research`, and `openai/o4-mini-deep-research`. OpenRouter currently lists GPT-5.6 Terra at **$1/$6/M** and Luna at **$0.10/$0.60/M** after OpenAI announced direct-price cuts. Core stack remains present, and current Hermes cron/config has no references to removed IDs ([API](https://openrouter.ai/api/v1/models), [OpenAI announcement](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)). Signal: **strong**; core unchanged, fallback pool contracted.

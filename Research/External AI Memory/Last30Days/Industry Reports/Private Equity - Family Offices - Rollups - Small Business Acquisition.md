@@ -175,3 +175,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-30
 - Bloomberg/Canoe and Carta/Claude announcements reinforce consolidation of private-market data extraction, fund operations, and agent interfaces into workflow platforms. This may reduce administrative friction but does not solve sourcing, owner dependence, trust transfer, integration, or working capital; borrow the operating pattern without buying deal complexity ([Bloomberg/Canoe item](https://news.google.com/rss/articles/CBMiggJBVV95cUxNLW9RbXBjajdabXhoWFNSbWwwckhSVGgxMkZFYWNDbHhCWWg3NmM0OG5fTG5OQU5LMmQ5eG84cFpDVDRrUkFlbXZEY2NZc1M5M00zSU9Gc2VqM1luWmRlZ01sMUNTdWlOdTFwT3lxVFJEbFUtWWhzZk8xeTYxTFZOdHp5Y3VtaFBEdFFvWWMxSjBibGJaTzlfZlRfNFo1ZEJyZ2VNd1AyU29tZXU2YnItN0E1dXZacFBTNmNFcHBMVm9LUm8xN245R2E5YTd3NmZFSEQ5bDFsdGxJX3BLWnRDWVRubW41RDhYVmZROXhpa0xvaVNlaGJBTmgtSGx0STVLM1E?oc=5); RSS/snippet-level). Signal: **medium** for platform direction; no Faleth acquisition action.
+
+### 2026-07-31
+- The feed remained dominated by large transactions, sponsor/platform stories, and Bloomberg/Canoe follow-on coverage; no owner-transition, search-fund, or LMM operating evidence changed Faleth's build-first, acquire-selectively stance. Take no acquisition action while VXE cash timing and fulfillment are the real constraints. Signal: **weak** for Faleth-relevant novelty.
