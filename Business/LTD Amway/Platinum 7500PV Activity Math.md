@@ -117,7 +117,8 @@ The practical model is therefore:
 - **Aggressive floor:** 60 personally sponsored
 - **Centerline target:** 80 personally sponsored
 - **Safety range:** 100–120 personally sponsored
-- **Recommended operating scoreboard:** build toward **80**, while maintaining emotional and calendar capacity for **100–120** if leadership conversion is weaker than the field benchmark
+- **Conservative stress test:** 160 personally sponsored. This comes from naively chaining the `1 in 4 sponsored actively runs` heuristic with Ethan's `1 in 4 plan-showers goes Platinum` heuristic, yielding roughly 1 Platinum outcome per 16 sponsors. The denominators come from different field observations, so this is a downside scenario—not a clean statistical forecast.
+- **Recommended operating scoreboard:** build toward **80**, plan seriously for **100–120**, and recognize **160** as the plausible ugly-case number if both filters apply sequentially
 
 At the current working rate of **1–2 sponsors per month**, reaching 80 personally sponsored legs requires roughly **40–80 months**. The current `10 MG1s run → 1–2 sponsors` benchmark implies approximately **400–800 run MG1s** to sponsor 80 people. These are activity-planning equivalents, not guarantees that ten resulting groups will become Founders Platinum.
 
