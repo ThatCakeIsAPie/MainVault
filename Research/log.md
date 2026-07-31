@@ -678,3 +678,26 @@
   - `faleth/process/delta-phone-interface-grok-voice-hermes-2026.md` — added native Hermes wake-word activation and linked streaming-TTS bookmark provenance.
 - `index.md` unchanged because no new wiki pages were created.
 - Skipped concept synthesis for the rumored Grok 4.6/4.7 release schedule and White House COVID-origins link: both are durable subjects but these single promotional/political posts are insufficient evidence for a defensible page.
+
+## [2026-07-31] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 43 were already processed; ingested all 7 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-07-30/2082909527515779164.md`
+  - `raw/x-bookmarks/2026-07-29/2082578552948400144.md`
+  - `raw/x-bookmarks/2026-07-30/2082864166960877718.md`
+  - `raw/x-bookmarks/2026-07-29/2082430003460166142.md`
+  - `raw/x-bookmarks/2026-07-12/2076345051198984637.md`
+  - `raw/x-bookmarks/2026-07-30/2082854011460518352.md`
+  - `raw/x-bookmarks/2026-07-29/2082570290828304553.md`
+- Created linked primary-source captures:
+  - `raw/articles/2026-07-31-waste-inference-engine-readme.md`
+  - `raw/articles/2026-07-31-audio8-tts-preview-readme.md`
+  - `raw/articles/2026-07-31-hermes-flightplan-2-always-on-cloud.md`
+- Updated durable wiki pages:
+  - `faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026.md` — added WASTE's storage-tier MoE proof point, measured constraints, and feasibility-versus-usability boundary.
+  - `faleth/process/delta-phone-interface-grok-voice-hermes-2026.md` — grounded the Audio8-versus-Kokoro choice in the official preview documentation and retained Raspberry Pi voice appliances as a post-validation packaging option.
+  - `faleth/process/hermes-cloud-and-x-mcp-2026.md` — added the one-runtime/multiple-interface Cloud pattern and inspectable Desktop subagent supervision.
+- `index.md` unchanged because no new wiki pages were created.
+- Skipped standalone concept synthesis for the bot-humor screenshot and the one-line Audio8/Kokoro question; the former is a passing joke, while the latter was used only to route evidence into the existing Delta voice page.
+- Verification: all 10 new raw-source SHA-256 values matched their bodies; X OAuth/read reachability succeeded. X article retrieval and image OCR succeeded; the configured web extractor was unavailable, so primary GitHub READMEs were captured directly instead.

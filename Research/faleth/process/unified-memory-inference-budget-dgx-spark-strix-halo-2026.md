@@ -1,12 +1,14 @@
 ---
 title: Unified-Memory Inference Budget — DGX Spark and Strix Halo
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-07-31
 type: principle
 tags: [ai, llm, inference, hardware, systems]
 sources:
   - research/raw/transcripts/lyle-x-share-2082629254731440546.md
   - raw/x-bookmarks/2026-07-30/2082629254731440546.md
+  - raw/x-bookmarks/2026-07-30/2082909527515779164.md
+  - raw/articles/2026-07-31-waste-inference-engine-readme.md
 confidence: medium
 ---
 
@@ -18,7 +20,13 @@ A model that technically fits in unified memory may still be operationally unusa
 
 > **weights + KV cache + draft/MTP model + runtime workspace + operating-system reserve + concurrent-session reserve < usable unified memory**
 
-Context is not free. Long context and concurrency expand KV cache; speculative decoding consumes additional memory; runtimes need workspace; and the operating system still expects to remain conscious. MoE sparsity reduces how many parameters are *activated for compute per token*, but it does not magically remove the expert weights that must remain resident. Filling nearly all memory with weights converts an expensive inference box into a very sophisticated swap demonstrator.
+Context is not free. Long context and concurrency expand KV cache; speculative decoding consumes additional memory; runtimes need workspace; and the operating system still expects to remain conscious. MoE sparsity reduces how many parameters are *activated for compute per token*, but it does not make inactive experts disappear: conventional runtimes keep them memory-resident, while storage-tier designs must still make them reachable within the latency budget. Filling nearly all memory with weights converts an expensive inference box into a very sophisticated swap demonstrator.
+
+## Storage-tier MoE serving — WASTE proof point
+
+WASTE demonstrates an important exception to the assumption that all expert weights must be memory-resident: keep the shared model trunk in RAM, arrange each expert as a single aligned record, stream only routed experts from internal NVMe, and use remaining RAM as a bounded expert cache. Its published Kimi K3 proof point converts the complete 2.78T-parameter model into a 982 GiB container and runs it on a 64 GB MacBook Pro at roughly **0.32–0.34 tok/s**. The measured deployment uses a 46.24 GB RAM budget, including a 17.56 GB expert cache; the engine reports a 29.05 GiB minimum at 4K context, but treats 64 GB and fast internal NVMe as the practical floor. [[raw/x-bookmarks/2026-07-30/2082909527515779164]] [[raw/articles/2026-07-31-waste-inference-engine-readme]]
+
+This changes **feasibility**, not necessarily **usability**. K3 reads about 17 GB of experts per token, and the published laptop result is closer to an offline private oracle than an interactive Hermes worker. More RAM also did not monotonically help: larger cache budgets pushed the operating system into paging and made decoding slower despite higher cache-hit rates. The transferable rule is therefore broader than unified memory: budget **resident trunk + one routed working set + useful cache + OS headroom**, then validate the storage path and latency target. “It generated a sentence” is a systems milestone, not a production SLA.
 
 ## DGX Spark operator signal
 
@@ -83,3 +91,4 @@ The local box should absorb stable, high-volume work while frontier cloud models
 - [[faleth/process/frontier-model-cost-speed-tradeoff-2026]]
 - [[faleth/process/local-model-ownership-agency-2026]]
 - [[faleth/process/member-gated-compute-mesh-for-sovereign-agents-2026]]
+- [[faleth/process/llm-inference-serving-five-optimization-surfaces-2026]]

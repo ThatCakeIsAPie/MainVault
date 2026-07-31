@@ -1,7 +1,7 @@
 ---
 title: Hermes Cloud + Hosted X MCP (agent stack, 2026)
 created: 2026-07-10
-updated: 2026-07-13
+updated: 2026-07-31
 type: principle
 tags: [ai, software, infrastructure, open-source, leverage, systems]
 sources:
@@ -10,6 +10,9 @@ sources:
   - research/raw/x-bookmarks/2026-07-11/2070053292474773772.md
   - research/raw/x-bookmarks/2026-07-13/2076047289756561711.md
   - research/raw/x-bookmarks/2026-07-13/2076277722083463480.md
+  - raw/x-bookmarks/2026-07-12/2076345051198984637.md
+  - raw/x-bookmarks/2026-07-30/2082854011460518352.md
+  - raw/articles/2026-07-31-hermes-flightplan-2-always-on-cloud.md
 confidence: medium
 ---
 
@@ -30,6 +33,14 @@ confidence: medium
 | Runtime | Hosted Hermes | Agent capacity becomes **SKU + seat**, not only self-host ops |
 | Context | Hosted X MCP | Real-time social graph as a **first-class tool** for any MCP client |
 | Stack shape | Cloud agent + social MCP | Personal AI ops converge on **portal billing + OAuth scopes + tool policies** |
+
+## One runtime, multiple operator surfaces
+
+The Flightplan #2 implementation makes the hosted topology concrete: one persistent Hermes Cloud workspace can expose a locked-down Discord lane for ambient chat while Hermes Desktop connects to the same instance as a remote coding backend. Sessions and tool execution remain server-side; the channels are front doors, not separate brains. This is the durable architecture signal: separate **runtime continuity** from **operator interface**, then add each interface under its own authentication and authority boundary. [[raw/x-bookmarks/2026-07-12/2076345051198984637]] [[raw/articles/2026-07-31-hermes-flightplan-2-always-on-cloud]]
+
+The article's July 2026 walkthrough reports browser provisioning, a persistent `/opt/data` workspace, dashboard-managed channels/configuration, Nous OAuth for Desktop, and no SSH requirement for ordinary operation. Its listed prices—$0.32/$0.59/$1.12 per running day for Small/Medium/Large, plus $0.06/day stopped storage and separate inference/tool charges—are dated observations, not procurement constants; check the portal at decision time.
+
+Hermes Desktop's visible subagent activity is likewise more than UI polish. Showing each delegated agent's live status and context turns parallelism into an inspectable operating surface, which lowers supervision cost and makes failed or wandering work easier to catch. The video is product evidence of observability, not evidence that spawning more agents automatically improves outcomes. [[raw/x-bookmarks/2026-07-30/2082854011460518352]] [[faleth/process/agent-swarm-coordination-context-economics-2026]]
 
 ## Faleth take (Lyle)
 

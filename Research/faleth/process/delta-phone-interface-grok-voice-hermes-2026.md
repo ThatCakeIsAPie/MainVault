@@ -1,7 +1,7 @@
 ---
 title: Delta Phone Interface — Grok Voice over Hermes
 created: 2026-07-14
-updated: 2026-07-30
+updated: 2026-07-31
 type: principle
 tags: [ai, infrastructure, software, systems, leverage]
 sources:
@@ -11,6 +11,10 @@ sources:
   - raw/x-bookmarks/2026-07-29/2082339029375426914.md
   - raw/x-bookmarks/2026-07-29/2082509593280688317.md
   - research/raw/transcripts/lyle-x-share-2082864345520722221.md
+  - raw/x-bookmarks/2026-07-29/2082430003460166142.md
+  - raw/x-bookmarks/2026-07-30/2082864166960877718.md
+  - raw/x-bookmarks/2026-07-29/2082570290828304553.md
+  - raw/articles/2026-07-31-audio8-tts-preview-readme.md
 confidence: high
 ---
 
@@ -126,7 +130,7 @@ The VPS currently has local faster-whisper `base` for STT, `voice.auto_tts: true
 
 ## Local-first speech edge — Kokoro + faster-whisper (2026-07-30)
 
-Audio8-TTS Preview is technically impressive: 601,159,424 parameters, 11 languages, zero-shot voice cloning, a bundled 44.1 kHz codec, Apache 2.0 licensing, and a reported English Seed-TTS WER of 1.506. But its own documentation recommends a CUDA-capable GPU, and its DualAR model is roughly seven times larger than Kokoro-82M. Those extra capabilities do not improve the primary Delta requirement enough to justify becoming the default on the current CPU-only VPS. [[research/raw/transcripts/lyle-x-share-2082864345520722221]]
+Audio8-TTS Preview is technically impressive: 601,159,424 parameters, 11 languages, zero-shot voice cloning, a bundled 44.1 kHz codec, Apache 2.0 licensing, and a reported English Seed-TTS WER of 1.506. Its official README identifies a DualAR architecture, a 2,048-position packed text/audio context, and a recommended CUDA-capable GPU. It is roughly seven times larger than Kokoro-82M. Those extra capabilities do not improve the primary Delta requirement enough to justify becoming the default on the current CPU-only VPS. The benchmark is first-party and the release is explicitly a preview, so production latency and pronunciation still require direct testing. [[raw/x-bookmarks/2026-07-29/2082430003460166142]] [[raw/x-bookmarks/2026-07-30/2082864166960877718]] [[raw/articles/2026-07-31-audio8-tts-preview-readme]]
 
 Kokoro better matches the actual job:
 
@@ -194,6 +198,8 @@ Success means:
 ## Scope deletion
 
 Do **not** start with Raspberry Pi wake words, multi-room audio, outbound callbacks, client-facing agents, or every Hermes tool. First prove the single personal inbound line. Revolutionary notion: test whether Lyle actually enjoys calling his computer before wiring the house like Stark Tower.
+
+A Raspberry Pi + USB microphone + local-model Hermes appliance is a credible later packaging pattern, especially now that Hermes has local wake-word detection, but the bookmarked post is a proposal rather than a measured build report. It does not override the sequence above: validate the voice loop on existing hardware, measure latency and false activations, then move the proven edge onto a dedicated appliance if physical placement or privacy justifies it. [[raw/x-bookmarks/2026-07-29/2082570290828304553]]
 
 ## Cost envelope
 
