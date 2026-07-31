@@ -156,3 +156,12 @@ Do not substitute sponsor count or Platinum count for Qualification Credits. Wid
 - Expected cohort: 3 quit / 3 stick / 3 do something / 3 run hard / 1 eventual Platinum-bearing group
 
 The scoreboard judges execution at the funnel stage Lyle controls. It does not morally prosecute him for the maturation schedule of other adults—a feature that should perhaps have been standard equipment on humans.
+
+## Visual reminder
+
+Galaxy S26 wallpaper versions:
+
+- Base S26, 1080 × 2340: ![[Research/ltd-amway/visuals/one-in-twelve-platinum-cohort/one-in-twelve-platinum-galaxy-s26-wallpaper-1080x2340.png]]
+- High-resolution / S26 Ultra master, 1440 × 3120: ![[Research/ltd-amway/visuals/one-in-twelve-platinum-cohort/one-in-twelve-platinum-galaxy-s26-wallpaper-1440x3120.png]]
+
+The top and bottom safe zones preserve room for the camera, status area, clock, and lock-screen controls.
