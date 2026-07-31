@@ -14,6 +14,8 @@ One annual cohort. One Platinum may emerge anywhere in depth.
 - Group C: 3 DO SOMETHING
 - Group D: 3 RUN HARD
 - Each RUN HARD node grows a small multi-level downline network.
+- Label the three RUN HARD branches: 1,000 PV LEG — ~4 PEOPLE / 2,500 PV LEG — ~3/10 / 4,000 PV LEG — ~6/25.
+- Bracket those three branches together as: 7,500 PV PLATINUM STRUCTURE.
 - One gold Platinum emblem appears on a second- or third-level descendant beneath one RUN HARD root, not on a direct sponsor node.
 - Callout: 1 EVENTUAL PLATINUM-BEARING GROUP
 - Callout: THE PLATINUM MAY EMERGE IN DEPTH

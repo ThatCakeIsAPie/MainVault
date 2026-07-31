@@ -42,7 +42,18 @@ The Platinum-producing person may appear **in depth**. The personally sponsored 
 
 Canonical planning conversion:
 
-> **12 personal sponsors → three hard runners → one eventual Platinum-bearing group.**
+> **12 personal sponsors → three hard-running core legs → an approximate 1,000 / 2,500 / 4,000 PV structure → 7,500 PV Platinum shape → one branch eventually contains a Platinum in depth.**
+
+The three hard-running branches commonly serve as the rough core structure of Lyle's own Platinum business:
+
+- **1,000 PV leg:** often an emerging leg of roughly **four people**.
+- **2,500 PV leg:** often approximately a **3/10 organization**.
+- **4,000 PV leg:** often approximately a **6/25 organization**.
+- **7,500 PV total.**
+
+These are rough field shapes, not a claim that each person contributes an identical PV amount. The 4-person, 3/10, and 6/25 descriptions are organizational-density shorthand; the actual PV mix can vary.
+
+One of those three branches may then continue duplicating until the personally sponsored group contains another Platinum in depth. The cohort therefore has two related jobs: establish Lyle's initial Platinum structure and seed an eventual Platinum-bearing group for higher-pin width.
 
 This is Lyle's field-planning heuristic, not an Amway guarantee or a statistically validated corporate conversion rate.
 
