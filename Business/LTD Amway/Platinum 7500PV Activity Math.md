@@ -63,6 +63,30 @@ Therefore, finding the **three core legs** that carry a Platinum-shaped business
 
 The working expectation is approximately **two years from a standing start**, assuming the baseline activity is sustained.
 
+## Triple Diamond organizational math
+
+Lyle's corrected Triple Diamond structural target is:
+
+- **52 Platinum-or-higher organizations anywhere in the total team**
+- **At least 10 separate legs**, each containing at least one Platinum-or-higher organization
+- The 52 count **includes** the Platinum organizations in those 10 qualifying-width legs; it does not mean 10 plus 52
+- After satisfying the 10-leg width floor, the remaining **42 Platinum positions** can be distributed deeper through those legs
+
+If every Platinum organization is modeled using the 7500PV unit above, the gross unit-scale equivalent is:
+
+| Scale | Working equivalent |
+|---|---:|
+| Platinum organizations | 52 |
+| Minimum distinct Platinum-bearing legs | 10 |
+| Remaining Platinum positions available for depth | 42 |
+| 7500PV unit equivalents | 390,000 PV/month |
+| 150PV-seat equivalents | ~2,600 |
+| Three-core-builder equivalents | ~156 |
+| Sponsor-funnel equivalents | ~624–780 total sponsors |
+| MG1 throughput at 80/month per Platinum unit | ~4,160/month in depth |
+
+These multiplication figures express **organizational scale**, not a claim that Lyle personally performs 52 times the frontline activity or that every compensation-plan report will display one simple 390,000PV total. Platinums can be stacked in depth; the governing topology is **10-leg minimum width plus 52 Platinum-or-higher organizations anywhere in the team**.
+
 ## Interpretation
 
 This is the level of activity required to hit Platinum: not a motivational slogan, but a throughput model. The full causal chain is:
