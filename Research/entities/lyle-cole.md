@@ -38,7 +38,7 @@ Entrepreneur building [[faleth-capital]] — a family-office and holding-company
 - **[[faleth-capital]]** — family-office/holding-company philosophy, contribution architecture, and future portfolio system
 - **VXE / government contracts** — current primary operating focus with brother; opportunity selection, sourcing, proposals, vendor coordination, and fulfillment
 - **[[ltd-amway]]** — leadership formation and community; intentionally sequenced beneath VXE in the current season
-- **Free Range Repair** — rebranded mobile/house-call electronics repair business; historical operating experience and possible future vehicle, but not the current primary focus
+- **Free Range Repair** — historical operating experience from the rebranded mobile/house-call electronics repair business; no longer being pursued (confirmed 2026-07-30)
 - **Delta/Hermes** — personal AI operating system spanning Telegram, voice, GBrain, Honcho, Obsidian, terminal tools, cron, and delegated agents
 
 ## Working Style
@@ -74,7 +74,7 @@ Currently executing the active-income/GovCon stage of the [[foundational/five-st
 ## Historical / Shelved / Secondary Projects
 
 - **grok-narrate.html** — document-to-audio web app using xAI Grok TTS API
-- **Free Range Repair** — mobile electronics repair operating experience; currently secondary
+- **Free Range Repair** — former mobile electronics repair business; no longer being pursued as of 2026-07-30
 - **Earlier OpenClaw/personal-AI experiments** — superseded by the practical Hermes/Delta stack
 - **JARVIS-style Delta voice interface** — revived as a practical Hermes extension; see [[faleth/process/delta-phone-interface-grok-voice-hermes-2026]]
 - Explored RAG systems, local inference hardware, AI-assisted board diagnostics, manufacturing systems, and other Faleth subsidiary concepts

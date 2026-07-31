@@ -58,7 +58,7 @@ This is a **dated external memory export**, not current ground truth. Current ex
 | Grok export claim | Current treatment |
 |---|---|
 | Employed at Vox / factory role drains after-hours energy | **Superseded:** laid off 2026-06-27; no current day job. |
-| Repair, Amway, and GovCon all actively competing for primary attention | **Superseded:** July 2026 primary play is VXE/GovCon cash timing; automation bridge and Amway are held beneath that season. |
+| Repair, Amway, and GovCon all actively competing for primary attention | **Superseded:** Free Range Repair is no longer being pursued; July 2026 primary play is VXE/GovCon cash timing, while Amway remains beneath that season. |
 | VXE described mainly as an early proposal/certification pipeline | **Superseded:** later user-reported pipeline includes awarded, pending-budget, and high-confidence work with a likely intense fulfillment month. |
 | Girlfriend/significant-other language and marriage planning | **Confirmed current 2026-07-30:** Lyle and his partner consider themselves married in their own commitment/before God, while not yet legally or civilly married in the eyes of the world; they are tying up loose ends before formalizing it. Older courtship-ending language is superseded. |
 | Specific house, product-line, hardware-purchase, health-device, and model-shopping ideas | Treat as historical interests unless Lyle reactivates them. |
