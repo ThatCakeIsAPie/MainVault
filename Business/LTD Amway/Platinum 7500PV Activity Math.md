@@ -100,29 +100,13 @@ The likely remembered “Josh Gordon ratio” is therefore either the **2 hungry
 
 ## Personal sponsorship planning math for 10 FP groups
 
-The official guide does **not** prescribe how many people Lyle must personally sponsor to create 10 Founders Platinum groups. That is a conversion-funnel planning question, so it must remain separate from formal qualification.
+Lyle's user-confirmed working model now supersedes the earlier 60–160 scenario range:
 
-The field benchmark already preserved in this vault says that major builders often personally sponsored **60–80 people**. Applied to a 10-FP-group width target:
+> **12 personal sponsors in a baseline year → 3 quit / 3 stick / 3 do something / 3 run hard → 1 of the hard runners eventually produces a Platinum-bearing group.**
 
-| Personally sponsored | Required sponsor-to-FP-group outcome | Sponsors per eventual FP group |
-|---:|---:|---:|
-| 40 | 25.0% | 4 |
-| **60** | **16.7%** | **6** |
-| **80** | **12.5%** | **8** |
-| 100 | 10.0% | 10 |
-| 120 | 8.3% | 12 |
+The Platinum may appear in depth; the personally sponsored individual does not have to qualify personally. At this one-in-twelve planning conversion, ten FP-bearing width groups require an expected **120 personal sponsors**. The complete daily, weekly, annual, stretch-year, cumulative, and maturity-lag calculations are maintained in [[Founders Triple Diamond Work Requirement Model]].
 
-The practical model is therefore:
-
-- **Aggressive floor:** 60 personally sponsored
-- **Centerline target:** 80 personally sponsored
-- **Safety range:** 100–120 personally sponsored
-- **Conservative stress test:** 160 personally sponsored. This comes from naively chaining the `1 in 4 sponsored actively runs` heuristic with Ethan's `1 in 4 plan-showers goes Platinum` heuristic, yielding roughly 1 Platinum outcome per 16 sponsors. The denominators come from different field observations, so this is a downside scenario—not a clean statistical forecast.
-- **Recommended operating scoreboard:** build toward **80**, plan seriously for **100–120**, and recognize **160** as the plausible ugly-case number if both filters apply sequentially
-
-At the current working rate of **1–2 sponsors per month**, reaching 80 personally sponsored legs requires roughly **40–80 months**. The current `10 MG1s run → 1–2 sponsors` benchmark implies approximately **400–800 run MG1s** to sponsor 80 people. These are activity-planning equivalents, not guarantees that ten resulting groups will become Founders Platinum.
-
-The controllable job is not to personally “find ten Platinums.” It is to sponsor enough people, identify and develop at least ten durable leaders, and help ten distinct groups sustain Founders Platinum qualification.
+The baseline personal covenant is **12 sponsors/year** from 250 active workdays; **16 sponsors/year** is the stretch case. This is a user-confirmed field-planning heuristic, not an official Amway conversion guarantee.
 
 ## Interpretation
 

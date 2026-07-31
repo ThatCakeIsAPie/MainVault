@@ -14,6 +14,8 @@ This file tracks which source notes and folders have already been reviewed for p
 
 ## LTD Amway
 
+- **2026-07-31** — Codified Lyle's user-confirmed one-in-twelve sponsor cohort model in `Business/LTD Amway/Founders Triple Diamond Work Requirement Model.md`; preserved the exact conversational source at `Research/raw/transcripts/2026-07-31-lyle-one-in-twelve-platinum-cohort-model.md`. Baseline: 5 active days/week for 50 weeks; 12 personal sponsors/year → 3 quit / 3 stick / 3 do something / 3 run hard → 1 eventual Platinum-bearing group. Stretch: 16 sponsors/year.
+
 - **2026-07-31** — Ingested Lyle-supplied U.S. `Amway Business Reference Guide` (current as of September 2024). Canonical PDF: `Research/raw/documents/Amway-Business-Reference-Guide-USEN-2024-09.pdf`; full searchable extraction: `Research/raw/transcripts/2024-09-amway-business-reference-guide-full-text.md`; focused Global Award Recognition extract: `Research/raw/transcripts/2024-09-amway-business-reference-guide-global-award-recognition-extract.md`. Corrected higher-pin math: Triple Diamond = 10+ FP Groups + 43 QCs; Founders Triple Diamond = 10+ FP Groups + 52 QCs. The 52 figure is Qualification Credits, not 52 Platinum organizations.
 
 - **2026-07-12** — Ingested `Elevate 2026.md` conference notes; preserved full raw source at `Research/raw/transcripts/2026-07-12-elevate-2026-conference-notes.md`; created synthesis at `Research/ltd-amway/conferences/2026-07-12-elevate-2026-distillate.md`. High-signal themes: input discipline, confidence through evidence, leading-indicator tracking, depth/systematic leadership, environment, Christ-rooted identity, and AI-era agency.
