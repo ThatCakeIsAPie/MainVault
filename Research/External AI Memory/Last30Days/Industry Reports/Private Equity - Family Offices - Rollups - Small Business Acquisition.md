@@ -178,3 +178,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-31
 - The feed remained dominated by large transactions, sponsor/platform stories, and Bloomberg/Canoe follow-on coverage; no owner-transition, search-fund, or LMM operating evidence changed Faleth's build-first, acquire-selectively stance. Take no acquisition action while VXE cash timing and fulfillment are the real constraints. Signal: **weak** for Faleth-relevant novelty.
+
+### 2026-08-01
+- Succession-planning education, a turkey-processor acquisition, and broad anti-PE housing/healthcare coverage produced no inspected search-fund, owner-transition, or LMM operating evidence that changes Faleth's build-first, acquire-selectively stance. Screen owner dependence, trust transfer, recurring cash, working capital, operator assignment, seller continuity, and integration ownership; take no acquisition action while VXE cash timing dominates ([succession item](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOekdiYUV2YjVISUlXTXNleGl2dHpFdnJNeHp6bm1ORmlMblFwa2JRWkNNd1R4bnktbEg5d2lHU2dtc3VndWs1cHE5Qy0waWdWOWstMFF2UUlFM3VMUFF6bGxQT25YS0x6V0tsMVdhejMyU3oxVnV3WFRvZ0RZUVVNSXF6Z29OdVMtZGxV?oc=5); RSS/snippet-level). Signal: **weak** for Faleth relevance.

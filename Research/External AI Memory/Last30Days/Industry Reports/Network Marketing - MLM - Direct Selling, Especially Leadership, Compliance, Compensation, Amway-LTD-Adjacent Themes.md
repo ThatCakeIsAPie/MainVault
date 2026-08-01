@@ -177,3 +177,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-31
 - A current Australian ABC headline criticized a shampoo direct-selling business, but the underlying article remained unopened/RSS-snippet-level. No Amway/LTD compensation, IDS, enforcement, or official compliance change surfaced. Direct FTC inspection again confirmed typical net-outcome, expense, evidence, and adjacent multimedia-disclosure requirements ([FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing)). Signal: **weak** for novelty, **strong** for durable context.
+
+### 2026-08-01
+- Targeted strict-window RSS was acronym/financial-disclosure noise, and no Amway/LTD compensation, IDS, enforcement, or official leadership-compliance change surfaced. Maintain separate controls for job, investment, earnings, limited-hours, recruiting, health, lifestyle, and synthetic-testimonial claims ([FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing), [Amway IDS](https://www.amway.com/en_US/income-disclosure) — background). Signal: **weak** for novelty, **strong** for durable context.

@@ -10,9 +10,9 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Prompt-cache and response-cache visibility should become part of every recurring agent workflow budget (OpenAI notes more predictable prompt caching / cache breakpoints on GPT-5.6).
 - **MCP-native routing** on aggregators (OpenRouter-class) is becoming the default interface for agent tool loops—not a side integration.
 - Provider **service tiers** (`flex` / `priority`) and per-endpoint price, latency, throughput, and uptime are becoming machine-readable routing inputs; a model ID alone no longer describes the operational service being bought.
-- **Batch inference is now a first-class routing tier:** OpenRouter's July 29 catalog added 28 discounted `:batch` variants across Anthropic, Google, OpenAI, and MiniMax. Latency-tolerant research, evaluation, and backlog work should be priced separately from interactive agent turns.
+- **Batch inference is a volatile opportunistic tier, not durable infrastructure:** OpenRouter added 28 discounted `:batch` variants on July 29 and removed all 28 by August 1. Latency-tolerant work may use batch only behind same-run availability preflights and a paid non-batch fallback.
 - **Effort controls and premium speed variants** are now explicit routing dimensions: Claude Opus 5 standard versus Fast makes latency value and supervision savings part of accepted-result economics, not merely a model-family choice.
-- Cheap coding/agent workers such as **poolside/laguna-xs-2.1** and **meituan/longcat-2.0** matter for cron/volume economics, but must be benchmarked on accepted-result cost. The July 21 removal of **tencent/hy3:free** confirms that promotional free routes cannot be treated as durable dependencies.
+- Cheap coding/agent workers such as **poolside/laguna-xs-2.1** and **meituan/longcat-2.0** matter for cron/volume economics, but must be benchmarked on accepted-result cost. Repeated free, batch, and paid-route removals confirm that every non-core route needs an availability preflight and fallback.
 - Daily full-ID snapshots and pricing checks are now mandatory operational evidence: catalog removals are exactly auditable, and DeepSeek V3.2's July 15 cache-price jump shows why cheap-worker assumptions must expire automatically.
 - Free routes are opportunistic capacity, not durable infrastructure: July 20 removed six free endpoints at once, reinforcing preflight checks and paid fallback requirements.
 
@@ -25,7 +25,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - **Tiered frontier families** (Sol/Terra/Luna pattern) will force explicit Hermes routing policies, not a single “default model.”
 
 ## Faleth Relevance
-- Maintain a Faleth/OpenRouter routing policy: cheap model for classification/extraction (Luna / Laguna XS), discounted batch variants for latency-tolerant research/evaluation, mid-tier for drafting/orchestration (Terra A/B vs Sonnet 5 / GPT-5.5), premium for final reasoning/review (Sol / GPT-5.5 / Sonnet 5), multimodal only when required.
+- Maintain a Faleth/OpenRouter routing policy: cheap model for classification/extraction (Luna / Laguna XS), preflighted batch only for disposable latency-tolerant work with a paid fallback, mid-tier for drafting/orchestration (Terra A/B vs Sonnet 5 / GPT-5.5), premium for final reasoning/review (Sol / GPT-5.5 / Sonnet 5), multimodal only when required.
 - Log model ID, provider, input/output tokens, cache read/write, response-cache hit, cost, workflow, and quality outcome.
 - Use budget caps for compound models and recurring agents; do not assume OpenRouter Fusion placeholder pricing is meaningful.
 
@@ -192,3 +192,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-31
 - Official API **~11:00 UTC**: **365 IDs**, exact diff **+1 / -3**. Added `deepseek/deepseek-v4-flash-0731` at **$0.14/$0.28/M**; removed paid routes `openai/gpt-5-codex`, `openai/o3-deep-research`, and `openai/o4-mini-deep-research`. OpenRouter currently lists GPT-5.6 Terra at **$1/$6/M** and Luna at **$0.10/$0.60/M** after OpenAI announced direct-price cuts. Core stack remains present, and current Hermes cron/config has no references to removed IDs ([API](https://openrouter.ai/api/v1/models), [OpenAI announcement](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)). Signal: **strong**; core unchanged, fallback pool contracted.
+
+### 2026-08-01
+- Official API **~11:00 UTC**: **336 IDs**, exact diff **+1 / -30**. Added `thinkingmachines/inkling-small` at **$0.50/$1.20/M**. Removed **28 paid `:batch` routes** introduced days earlier plus `mistralai/devstral-2512` and `openai/gpt-5.1-chat`. Core non-batch stack remains present and unchanged: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free` ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**; batch/fallback availability contracted sharply, so preflight every non-core route.

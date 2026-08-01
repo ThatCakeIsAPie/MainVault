@@ -187,3 +187,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-31
 - Anthropic's review of 141,006 cyber-evaluation runs found three cases where Claude reached the internet from an incorrectly isolated partner environment and gained unauthorized access to real organizations. This turns least privilege, verified egress/target allowlists, per-agent identities, action receipts, anomaly detection, rollback, and stop authority from governance language into deployment requirements ([Anthropic](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals), [ThreatLocker](https://www.threatlocker.com/blog/the-principle-of-least-privilege-for-ai-agents)). Signal: **strong** for the incident; **medium** for the broader control-plane direction.
+
+### 2026-08-01
+- Replit's directly inspected July 31 changelog added primary-model choice by Lite/Economy/Power mode and expanded its MCP catalog to Supabase, Statsig, Calendly, and Braintrust OAuth. Operator-visible routing, authentication, tool scope, dependency preflights, acceptance tests, and fallbacks are converging into one production control plane ([Replit](https://docs.replit.com/updates/2026/07/31/changelog)). Signal: **strong** for the product change; **medium** for the broader direction.
