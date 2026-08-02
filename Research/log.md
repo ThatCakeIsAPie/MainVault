@@ -701,3 +701,14 @@
 - `index.md` unchanged because no new wiki pages were created.
 - Skipped standalone concept synthesis for the bot-humor screenshot and the one-line Audio8/Kokoro question; the former is a passing joke, while the latter was used only to route evidence into the existing Delta voice page.
 - Verification: all 10 new raw-source SHA-256 values matched their bodies; X OAuth/read reachability succeeded. X article retrieval and image OCR succeeded; the configured web extractor was unavailable, so primary GitHub READMEs were captured directly instead.
+
+## [2026-08-02] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 48 were already processed; ingested both 2 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-01/2083652162450538507.md`
+  - `raw/x-bookmarks/2026-08-01/2083372797456458077.md`
+- Updated durable wiki page:
+  - `faleth/process/text-to-cad-as-engineering-compiler-2026.md` — added headless, agent-callable CAD as the reliable execution substrate, while marking the unreleased tool's “full featured” and open-source claims as unverified.
+- Updated `log.md` with this ingest record; `index.md` unchanged because no new wiki page was created.
+- Skipped concept synthesis for the marriage/date-idea post because the captured text cuts off before the promised 42-item list; retained it only as immutable raw evidence rather than manufacturing wisdom from a sentence fragment. A heroic act of restraint, apparently.
