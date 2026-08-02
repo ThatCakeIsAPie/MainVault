@@ -14,6 +14,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Browser-agent maturity increasingly depends on **debuggable execution evidence**—stable page identity, network/console traces, snapshots, heap diagnostics, and explicit filesystem boundaries—not only model quality.
 - **MCP-native model discovery and evaluation** now includes task-usage insights, price/benchmark filters, and provider pinning; reproducible routing is joining permissions and audit as a control-plane primitive.
 - **Non-human identity and supervisor load** are emerging as first-class agent controls: shared human credentials destroy attribution, while unmeasured fleet-management burden can erase automation gains.
+- **Packaged and white-label agent deployment** is emerging as a distribution model; predictable tenant isolation, unit cost, accepted-result evidence, and support burden now need to be productized alongside the workflow.
 
 ## Major Shifts to Watch
 - Enterprise platforms bundling agent builders, performance dashboards, and outcome pricing.
@@ -190,3 +191,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-01
 - Replit's directly inspected July 31 changelog added primary-model choice by Lite/Economy/Power mode and expanded its MCP catalog to Supabase, Statsig, Calendly, and Braintrust OAuth. Operator-visible routing, authentication, tool scope, dependency preflights, acceptance tests, and fallbacks are converging into one production control plane ([Replit](https://docs.replit.com/updates/2026/07/31/changelog)). Signal: **strong** for the product change; **medium** for the broader direction.
+
+### 2026-08-02
+- Agentic.ai's directly inspected Aug. 1 page listed WEXTL moving to public production as a visual workflow/agent builder and GreenCore launching a white-label agency program; RSS/X signal also emphasized reducing MCP call count and preserving identity/approval boundaries. Agent deployment is becoming a packaged/reseller product, so predictable unit cost, tenant isolation, accepted-result evidence, and supervision belong in the SKU ([Agentic.ai](https://agentic.ai/news), [MCP-cost item](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSUNuZDQzM3ZzWEVDTHZXT0FmX3Q3MHN6T3Eyd0xzRTBKa2pkQ2lsaFhuRjl2eEFJTVlXNGE5UlB1bUdDQ2JkcVUyOTB3Vlh5VW5WemxHeWJ4enZzN3ROUC1CYU1SN2V1VWZiRWs5WnRGSzE1VFZLRVBBOE5RTDUzVXY3cXJBN3U3dGtwUDhFLVQ?oc=5); second source RSS/snippet-level). Signal: **medium** for direction, **medium–weak** for exact cost claims.

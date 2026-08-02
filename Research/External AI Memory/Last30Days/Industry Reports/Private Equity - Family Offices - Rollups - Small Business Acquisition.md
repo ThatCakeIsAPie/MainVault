@@ -181,3 +181,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-01
 - Succession-planning education, a turkey-processor acquisition, and broad anti-PE housing/healthcare coverage produced no inspected search-fund, owner-transition, or LMM operating evidence that changes Faleth's build-first, acquire-selectively stance. Screen owner dependence, trust transfer, recurring cash, working capital, operator assignment, seller continuity, and integration ownership; take no acquisition action while VXE cash timing dominates ([succession item](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOekdiYUV2YjVISUlXTXNleGl2dHpFdnJNeHp6bm1ORmlMblFwa2JRWkNNd1R4bnktbEg5d2lHU2dtc3VndWs1cHE5Qy0waWdWOWstMFF2UUlFM3VMUFF6bGxQT25YS0x6V0tsMVdhejMyU3oxVnV3WFRvZ0RZUVVNSXF6Z29OdVMtZGxV?oc=5); RSS/snippet-level). Signal: **weak** for Faleth relevance.
+
+### 2026-08-02
+- Strict-window coverage remained large-transaction/anti-PE heavy. X cited 2026 search-fund success and speed-to-LOI statistics, but the primary Stanford tables were not inspected in this run; treat the numbers as social-level. No owner-transition/LMM evidence changed Faleth's build-first, acquire-selectively stance or VXE-first priority ([search-fund X signal](https://x.com/tmaeno/status/2083342680420155452)). Signal: **weak** for Faleth-relevant novelty.

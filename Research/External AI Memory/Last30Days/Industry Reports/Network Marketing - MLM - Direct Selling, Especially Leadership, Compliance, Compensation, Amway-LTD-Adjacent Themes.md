@@ -180,3 +180,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-01
 - Targeted strict-window RSS was acronym/financial-disclosure noise, and no Amway/LTD compensation, IDS, enforcement, or official leadership-compliance change surfaced. Maintain separate controls for job, investment, earnings, limited-hours, recruiting, health, lifestyle, and synthetic-testimonial claims ([FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing), [Amway IDS](https://www.amway.com/en_US/income-disclosure) — background). Signal: **weak** for novelty, **strong** for durable context.
+
+### 2026-08-02
+- Targeted strict-window RSS again returned unrelated tax/income-disclosure noise, and X returned only generic MLM promotion. No Amway/LTD compensation, IDS, enforcement, or official leadership-compliance change surfaced. Maintain product/customer value, typical net-results/expenses, approved claims, IDS linkage, and human review ([FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing), [Amway IDS](https://www.amway.com/en_US/income-disclosure) — background). Signal: **weak** for novelty, **strong** for durable context.

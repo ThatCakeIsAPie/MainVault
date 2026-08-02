@@ -14,6 +14,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - **Effort controls and premium speed variants** are now explicit routing dimensions: Claude Opus 5 standard versus Fast makes latency value and supervision savings part of accepted-result economics, not merely a model-family choice.
 - Cheap coding/agent workers such as **poolside/laguna-xs-2.1** and **meituan/longcat-2.0** matter for cron/volume economics, but must be benchmarked on accepted-result cost. Repeated free, batch, and paid-route removals confirm that every non-core route needs an availability preflight and fallback.
 - Daily full-ID snapshots and pricing checks are now mandatory operational evidence: catalog removals are exactly auditable, and DeepSeek V3.2's July 15 cache-price jump shows why cheap-worker assumptions must expire automatically.
+- Moving `~...latest` aliases add convenience but reduce reproducibility; production receipts should log both the requested alias and the resolved dated/provider route.
 - Free routes are opportunistic capacity, not durable infrastructure: July 20 removed six free endpoints at once, reinforcing preflight checks and paid fallback requirements.
 
 ## Major Shifts to Watch
@@ -195,3 +196,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-01
 - Official API **~11:00 UTC**: **336 IDs**, exact diff **+1 / -30**. Added `thinkingmachines/inkling-small` at **$0.50/$1.20/M**. Removed **28 paid `:batch` routes** introduced days earlier plus `mistralai/devstral-2512` and `openai/gpt-5.1-chat`. Core non-batch stack remains present and unchanged: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free` ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**; batch/fallback availability contracted sharply, so preflight every non-core route.
+
+### 2026-08-02
+- Official API **~11:00 UTC**: **337 IDs**, exact diff **+1 / -0**. Added alias `~deepseek/deepseek-v4-flash-latest`; it and dated `deepseek/deepseek-v4-flash-0731` list **$0.09/$0.18/M** with **$0.018/M cache reads**, a **35.7%** input/output cut from yesterday's dated-route listing. Core stack pricing remains unchanged. If using a moving alias, log requested and resolved IDs; benchmark the dated route before rerouting ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
