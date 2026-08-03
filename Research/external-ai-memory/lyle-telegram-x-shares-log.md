@@ -1,7 +1,7 @@
 ---
 type: note
 title: Lyle Telegram X Shares Log
-updated: '2026-08-02T03:43:20.000Z'
+updated: '2026-08-03T12:00:00.000Z'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -21,6 +21,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-08-03 | [2083794337586974823](https://x.com/liebert_2026/status/2083794337586974823) | first-principles in Peterson career vs good life | [[research/raw/transcripts/lyle-x-share-2083794337586974823]] | [[research/faleth/mindset/wholeness-over-unidimensional-perfection-2026]]; [[concepts/offshoots/portfolio-life-as-antifragile-strategy]] |
 | 2026-08-02 | [2083652162450538507](https://x.com/i/status/2083652162450538507) | save as reusable date-night ideas pool | [[research/raw/transcripts/lyle-x-share-2083652162450538507]] | [[research/personal/date-night-ideas-pool]] |
 | 2026-07-30 | [2082864345520722221](https://x.com/i/status/2082864345520722221) | Kokoro TTS + faster-whisper STT as the local Delta speech edge | [[research/raw/transcripts/lyle-x-share-2082864345520722221]] | [[research/faleth/process/delta-phone-interface-grok-voice-hermes-2026]] |
 | 2026-07-30 | [2082808601765093698](https://x.com/MiaAI_lab/status/2082808601765093698) | unusually high Cursor Pro Grok 4.5 token allowance plus separate $20 API usage | [[research/raw/transcripts/lyle-x-share-2082808601765093698]] | [[research/faleth/process/frontier-model-cost-speed-tradeoff-2026]] |
