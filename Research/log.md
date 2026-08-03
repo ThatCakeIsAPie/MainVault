@@ -712,3 +712,20 @@
   - `faleth/process/text-to-cad-as-engineering-compiler-2026.md` — added headless, agent-callable CAD as the reliable execution substrate, while marking the unreleased tool's “full featured” and open-source claims as unverified.
 - Updated `log.md` with this ingest record; `index.md` unchanged because no new wiki page was created.
 - Skipped concept synthesis for the marriage/date-idea post because the captured text cuts off before the promised 42-item list; retained it only as immutable raw evidence rather than manufacturing wisdom from a sentence fragment. A heroic act of restraint, apparently.
+
+## [2026-08-03] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 45 were already processed; ingested all 5 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-02/2083794337586974823.md`
+  - `raw/x-bookmarks/2026-08-02/2083751868132454668.md`
+  - `raw/x-bookmarks/2026-08-02/2084065915004747888.md`
+  - `raw/x-bookmarks/2026-08-02/2083940637921943803.md`
+  - `raw/x-bookmarks/2026-08-01/2083458624202944694.md`
+- Updated durable wiki pages:
+  - `concepts/offshoots/portfolio-life-as-antifragile-strategy.md` — linked the immutable bookmark provenance and normalized frontmatter tags/source paths.
+  - `faleth/process/agentic-loops-design-2026.md` — added harness reliability as model leverage and node graphs as workflow observability, while normalizing the page to schema frontmatter.
+- Updated `log.md` with this ingest record and updated the processed-ID ledger after verification.
+- `index.md` unchanged because this ingest created no new wiki pages.
+- Skipped standalone synthesis for the viral “method” video and truncated “I got a guy” joke: neither captured enough defensible durable substance. The two useful visual posts were routed into the existing agentic-loops page instead of breeding more tiny pages.
+- Verification: X OAuth/read reachability succeeded; all 5 raw-source SHA-256 values matched their bodies.

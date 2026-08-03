@@ -2,7 +2,7 @@
 title: Agentic Loops — Design Over Prompting (2026)
 created: 2026-07-07
 updated: 2026-08-03
-tags: [ai, software, systems, automation, framework]
+tags: [ai, software, systems, operations, framework]
 type: principle
 sources:
   - raw/transcripts/lyle-x-share-2074424941286719706.md
