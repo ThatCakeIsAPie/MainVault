@@ -184,3 +184,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-02
 - Strict-window coverage remained large-transaction/anti-PE heavy. X cited 2026 search-fund success and speed-to-LOI statistics, but the primary Stanford tables were not inspected in this run; treat the numbers as social-level. No owner-transition/LMM evidence changed Faleth's build-first, acquire-selectively stance or VXE-first priority ([search-fund X signal](https://x.com/tmaeno/status/2083342680420155452)). Signal: **weak** for Faleth-relevant novelty.
+
+### 2026-08-03
+- X promoted Holdmark, an AI-agent FBA/DTC rollup framed against Thrasio's operating-cost failures, while the strict-window PE feed remained dominated by large transactions and anti-PE healthcare coverage. “AI cost” is not an integration plan: require accepted-output, inventory/working-capital, channel concentration, retention, supervision, fallback, operator assignment, and 90-day integration ownership before crediting any rollup thesis. No Faleth acquisition action; VXE cash timing remains first ([Holdmark X signal](https://x.com/polsia/status/2084047625737973771)). Signal: **weak–medium** for narrative, **weak** for Faleth-relevant deal evidence.
