@@ -3,10 +3,11 @@ title: Portfolio Life as Antifragile Strategy
 created: 2026-08-03
 updated: 2026-08-03
 type: principle
-tags: [philosophy, family, identity, strategy, first-principles, time]
+tags: [philosophy, relationships, strategy, purpose, mental-model]
 sources:
-  - research/raw/transcripts/lyle-x-share-2083794337586974823.md
-  - research/faleth/mindset/wholeness-over-unidimensional-perfection-2026.md
+  - raw/transcripts/lyle-x-share-2083794337586974823.md
+  - raw/x-bookmarks/2026-08-02/2083794337586974823.md
+  - faleth/mindset/wholeness-over-unidimensional-perfection-2026.md
 confidence: high
 ---
 
@@ -54,6 +55,7 @@ Founders under runway pressure default to unidimensional grind because domain ma
 
 ### References
 
+- [[raw/x-bookmarks/2026-08-02/2083794337586974823]]
 - [[research/raw/transcripts/lyle-x-share-2083794337586974823]]
 - [[research/faleth/mindset/wholeness-over-unidimensional-perfection-2026]]
 - [[research/faleth/mindset/transition-agency-2026]]
