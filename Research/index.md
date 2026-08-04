@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-30 | Total pages: 50+
+> Last updated: 2026-08-04 | Total pages: 50+
 
 ## Meta / schema
 
@@ -150,4 +150,5 @@
 - [[faleth/process/offline-application-distribution-resilient-comms-2026]] — Resilient communication systems must distribute and verify the client software offline, not merely carry messages offline.
 - [[faleth/process/text-to-cad-as-engineering-compiler-2026]] — Text-to-CAD becomes operational when it compiles intent into editable engineering, simulation, fabrication, and DFM artifacts.
 - [[faleth/process/llm-inference-serving-five-optimization-surfaces-2026]] — Continuous batching, phase disaggregation, KV-cache management, prefix routing, and MoE sharding as the core LLM-serving optimization surfaces.
+- [[faleth/process/ocr-gated-pdf-ingestion-pipelines-2026]] — Classify PDFs cheaply, extract native text locally, and reserve OCR for the pages that actually need it.
 

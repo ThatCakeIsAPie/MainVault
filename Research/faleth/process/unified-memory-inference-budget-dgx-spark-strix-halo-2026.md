@@ -1,7 +1,7 @@
 ---
 title: Unified-Memory Inference Budget — DGX Spark and Strix Halo
 created: 2026-07-30
-updated: 2026-07-31
+updated: 2026-08-04
 type: principle
 tags: [ai, llm, inference, hardware, systems]
 sources:
@@ -9,6 +9,7 @@ sources:
   - raw/x-bookmarks/2026-07-30/2082629254731440546.md
   - raw/x-bookmarks/2026-07-30/2082909527515779164.md
   - raw/articles/2026-07-31-waste-inference-engine-readme.md
+  - raw/x-bookmarks/2026-08-02/2083705845670650195.md
 confidence: medium
 ---
 
@@ -37,6 +38,12 @@ A single DGX Spark operator reports an empirical **~80 GB maximum weight target*
 - **StepFun 3.7 Flash Q4:** 108 GB; reported slow with little headroom, while the NVFP4 build reportedly failed to load and wedged the machine twice.
 
 These are practitioner measurements, not controlled benchmarks. Preserve the heuristic; reproduce the numbers before depending on them. [[research/raw/transcripts/lyle-x-share-2082629254731440546]] [[raw/x-bookmarks/2026-07-30/2082629254731440546]]
+
+### DeepSeek V4 Flash quantization ladder (2026-08-02)
+
+A second operator report adds a useful boundary test for **DeepSeek V4 Flash 0731** (284B total / 13B active MoE) in CUDA-enabled llama.cpp on one 128 GB Spark. The reported ladder is **UD-IQ3_XXS at 104 GB fully GPU-resident**, **IQ3_S at 116 GB too tight**, both 128 GB Q3 variants OOM, and the 162 GB Q8 build unable to fit. This does not invalidate the conservative 60–80 GB commissioning envelope: it shows that a 104 GB model can technically load when the intended KV cache and workload fit the remaining memory, while roughly 116 GB leaves too little operating room. [[raw/x-bookmarks/2026-08-02/2083705845670650195]]
+
+The practical distinction is **safe operating target versus maximum loadable artifact**. Use 60–80 GB when buying for flexible context, concurrency, speculative decoding, and co-resident services; test larger artifacts only as workload-specific exceptions with measured KV growth and failure behavior.
 
 ## DGX Spark deployment policy
 

@@ -1,7 +1,7 @@
 ---
 title: Frontier Model Cost-Speed Tradeoff (SWE-1.7 signal, 2026)
 created: 2026-07-09
-updated: 2026-07-30
+updated: 2026-08-04
 type: principle
 tags: [ai, llm, inference, strategy, systems, leverage]
 sources:
@@ -19,6 +19,7 @@ sources:
   - raw/x-bookmarks/2026-07-26/2081347811140841487.md
   - research/raw/transcripts/lyle-x-share-2082629254731440546.md
   - research/raw/transcripts/lyle-x-share-2082808601765093698.md
+  - raw/x-bookmarks/2026-08-02/2084006770704302437.md
 confidence: medium
 ---
 
@@ -51,6 +52,8 @@ Two related signals sharpen the architecture behind the cost-speed rule:
 - After SpaceXAI open-sourced Grok Build, a developer showed the harness pointed at an OpenAI-compatible endpoint with separate coding, vision, and web-search components. The exact setup was not reproduced here, but the durable design principle is sound: **keep the agent harness separable from the model/provider** so routing changes are configuration work instead of a rewrite.
 
 For Lyle's stack, the practical portfolio remains: strong orchestrator for decomposition and review, fast coding specialist for implementation, and tool-grounded verification as the stop condition. Provider labels may change; those roles should not. This extends [[faleth/process/agentic-loops-design-2026]] and keeps local/cloud optionality compatible with [[faleth/process/local-model-ownership-agency-2026]].
+
+A four-DGX-Spark operator post proposes **GLM 5.2 as orchestrator and DeepSeek V4 Flash as worker**, reinforcing role-specialized routing on owned hardware. Its attached diagram, however, labels one DeepSeek node and three GLM nodes in a way that does not cleanly match the prose, and it provides no workload, quality, throughput, or cost measurements. Preserve the architecture hypothesis; do not preserve “hard to beat” as a benchmark result. [[raw/x-bookmarks/2026-08-02/2084006770704302437]]
 
 ## Cursor SQLite swarm economics (2026-07-20)
 

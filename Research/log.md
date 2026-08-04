@@ -729,3 +729,22 @@
 - `index.md` unchanged because this ingest created no new wiki pages.
 - Skipped standalone synthesis for the viral “method” video and truncated “I got a guy” joke: neither captured enough defensible durable substance. The two useful visual posts were routed into the existing agentic-loops page instead of breeding more tiny pages.
 - Verification: X OAuth/read reachability succeeded; all 5 raw-source SHA-256 values matched their bodies.
+
+## [2026-08-04] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 45 were already processed; ingested all 5 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-03/2084164823638519843.md`
+  - `raw/x-bookmarks/2026-08-02/2083705845670650195.md`
+  - `raw/x-bookmarks/2026-08-02/2084006770704302437.md`
+  - `raw/x-bookmarks/2026-08-02/2083759818133688517.md`
+  - `raw/x-bookmarks/2026-08-02/2083783390453751898.md`
+- Created durable wiki page:
+  - `faleth/process/ocr-gated-pdf-ingestion-pipelines-2026.md` — cheap native-text classification and extraction before page-selective OCR, with corpus-specific acceptance tests.
+- Updated durable wiki pages:
+  - `faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026.md` — added the DeepSeek V4 Flash quant ladder and separated conservative operating headroom from maximum loadable artifact size.
+  - `faleth/process/frontier-model-cost-speed-tradeoff-2026.md` — added the four-Spark GLM/DeepSeek role-routing hypothesis while flagging the prose/diagram mismatch and absent benchmark.
+  - `index.md` — listed the new OCR-gated PDF page and bumped the date.
+  - `log.md` — this ingest record.
+- Raw-only/skipped wiki: the salary/dreams image was an unattributed motivational aphorism overlapping existing career-identity material; the Steve Jobs MIT video wrapper supplied no transcript, primary archive, or extractable claims.
+- Verification context: X OAuth/read reachability succeeded; official API expansions recovered Note Tweets, quoted-post context, media URLs, and the pdf-inspector repository. Local OCR recovered the attached image text and exposed the four-Spark diagram mismatch. Vendor performance claims remain independently unverified.
