@@ -28,7 +28,7 @@ Any consumer-facing subsidiary — retail or services sold to individuals and ho
 
 **The bonus is 20% of the referred customer's topline spend, paid to the referrer, for as long as that customer keeps spending.** Not a finder's fee. A customer who sticks around forever is value that sticks to us forever, and the person who brought them is paid accordingly. Equivalent exchange.
 
-The arithmetic is the part worth remembering: **refer five customers who spend what you spend, and your own service is free.** Refer more and it pays you. Refer enough across enough subsidiaries and a household's ordinary expenses start funding themselves. There's no trick in that — it's five times twenty percent.
+The arithmetic is the part worth remembering: **refer five customers who spend what you spend, and your own service is free.** Refer more and it pays you. Refer enough across enough subsidiaries and a household's ordinary expenses start funding themselves. That's just five times twenty percent.
 
 It runs **one level deep**. A referrer earns on the people they personally brought, not on anyone those people bring. That boundary is deliberate: a second level makes this a network marketing compensation plan, which requires far more of topline than this model allocates and a different business built around it from day one. Anyone who wants income that compounds through a network already has that path available independently. This is a customer loyalty tool, and it should stay simple enough to explain in one sentence.
 

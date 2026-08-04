@@ -7,7 +7,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Seedance, Veo, Kling, Runway, Luma, and similar tools are being compared by role rather than as a single winner.
 - Aggregator/workflow platforms such as Runway are gaining strategic value by giving creators access to multiple top models in one controlled environment.
 - Creative testing and commerce workflows are becoming the next value layer: generation matters only when variants can be measured against audience and conversion outcomes.
-- As output volume rises, **originality, editability, provenance, and full-asset completion** are becoming more valuable than isolated generation quality.
+- As output volume rises, **originality, editability, provenance, explicit approval authority, rollback, and full-asset completion** are becoming more valuable than isolated generation quality.
 
 ## Major Shifts to Watch
 - Native 4K, longer coherent clips, and character/object consistency becoming expected rather than miraculous.
@@ -166,3 +166,9 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-27
 - No inspected flagship API or pricing change surfaced. Multi-model platform promotion, continuing FLUX 3 coverage, and platform filtering of low-quality generative content reinforce that distribution quality gates and completed-asset outcomes matter more than generator access. FRR should run the measured repair-explainer test before adding tools ([FLUX 3 item](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWFhGWXN4V3JUM3VoTXpjRUNfcGhGYUZQRHR4NjFQR0hYNDlvRzhsLUlFdWIxazJnWkZMNVpHbGQxQURYejlmT3phUzVyOWpjZTZpdERjWUtsQmN2MWg5U2hZaDl4S1JSeTNKN3l6WXh1STZEbXRlYzhKd3RURzEwdGxOWW5tNm9oQzZRbmw5WWRxRzF2SWZtZjdrOHhURXBkU1FQV1h2cVRVYV9nS0FUdjBvTHpDXzZ6eTBqZllWT0swUjlRS2tkNFZ3NTVtNDFoLW1Nem9MNDhWT19uclVESTd3?oc=5); RSS/snippet-level). Signal: **weak–medium**.
+
+### 2026-07-28
+- Animation-agent launches, vertical content partnerships, local/privacy-first tooling, and synthetic-media confusion reinforced workflow packaging plus provenance/distribution controls; no inspected flagship API or price change surfaced. FRR should run the measured repair-explainer test before adding tools ([OiiOii item](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZlY2eml2c2NCSlNlOUdUR2owQWtUZnRYWUFOQWk3S0p4dHF6SFZEMGR5NHpOUUlmRXpEd3dyek1KZzQ1STNrc29YRHIxWDNuX3ZXclQzSHV0eVNqZDZ5WTltY3MyZlgwcEdxNnhRbEZyWlo5TElhTnE5WUg0akM3Z0h3a2pLT3I2QXVYRk9makpJd0UxVUZWeGJzcXJ4b05GVW1LZmpDODNCTDRsTmpBdlhYZlRyaDVVZzBtZXpReDVrdDVrVkhma0V3NTR3VFNCNF9sNFp6b0ZSZW4zX1HSAeMBQVVfeXFMTnNXMWFscDRpMmRzbTRzSjZMcWViY2o4VnUxd1ZIdm9Pb3JXa1h4THNHczJWS2RWeHpad0pNU05NM25zY2hBQ0hrN3h3OWFsV3Z6QVJyeElfMkJjQ01ianYxVDlpMFh0TGVkbGFnbm9JSjY5WjVvNW9GdktUeW9uUEQ4QjFrS1c0bzJGSWRNb0pTX09Tc3hpVHhyNG02S21ySFZVOVZJamlLLVNYUTdOTHNFem5vN1ZFdHIwYW1mVXZWMWpMQW9rSVNwMGFxMHRUVG5FVTh5by1HUUxQRWNzZ0tDVm8?oc=5); RSS/snippet-level). Signal: **weak–medium**.
+
+### 2026-07-29
+- Autonomous ad changes, a pulled AI advertisement, and advertiser-verification failure reinforced that approval authority, provenance, brand safety, distribution receipts, and rollback are now part of the creative stack; no inspected flagship video API/pricing change surfaced ([rogue-ad-agent item](https://news.google.com/rss/articles/CBMif0FVX3lxTE5YR3RNT1E2cDYtdmp5SEszREYwNnN6N01xQnRWemtzcEg4cjJTRlptcENNcXJoTTk1emFXaG5VbURYVl9rRFIzWDRSQ3Q1RC1MQWhWLUtGbnZlZWR2RFBoTUdqOHZYNDRabmdmMFdvYzNNNnpieDktOC1vYmg2cjA?oc=5); RSS/snippet-level). Signal: **medium** for governance direction, **weak** for model novelty.

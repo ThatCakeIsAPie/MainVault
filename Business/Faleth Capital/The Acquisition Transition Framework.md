@@ -46,7 +46,7 @@ No two acquisitions are alike, and the sequencing, timing, and department order 
 
 **Education and observation.** The Contribution Framework is introduced to the whole team — philosophy, mechanics, and math — with honest answers to the hard questions. Then people are invited, not required, to spend time at a working subsidiary: the dashboards, the point tracking, the weekly payouts, the quarterly profit share, and conversations with people who live in it every day. Documents can explain the system. Only a working subsidiary can prove it.
 
-At the end of that comes the **opt-out window**, where every person makes a real choice: transition, or take the severance and go. This isn't a cost to be minimized. It's what makes the confidence of the team that stays worth anything, because everyone still there chose to be.
+At the end of that comes the **opt-out window**, where every person makes a real choice: transition, or take the severance and go. Everyone still there chose to be, which is what makes the confidence of the team that stays worth anything.
 
 **Department by department.** The rollout proceeds one team at a time, typically starting closest to direct value creation, where the link between effort and output is most visible and most immediately rewarding. As each department transitions, existing wages convert to the non-credited floor, processes are mapped and point values calibrated with the team ([[The Governance Framework#3. Calibration|The Governance Framework]]), the COF rate is set, the pool begins operating, and tracking goes live so people can watch their earnings in real time. The first department across becomes the proof for every one that follows.
 

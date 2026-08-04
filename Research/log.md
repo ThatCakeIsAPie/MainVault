@@ -551,3 +551,102 @@
 - Raw-only/skipped wiki: Huberman focus advice lacked primary evidence; the solitude clip was motivational; the funeral story was incomplete engagement bait; the Lewis image was a single attributed quote without source verification. These did not clear the durable-page threshold.
 - Verification context: full Note Tweet text, referenced posts, and media URLs were recovered through the official X API; two images and two short videos were inspected locally with OCR/frame extraction.
 - Ledger target after successful file/hash and wiki verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+9 IDs).
+
+## [2026-07-27] ingest | Faleth Constitution and seven-framework v2 rewrite
+
+- Synced vault through commit `22e1082` before reading and writing.
+- Corpus: `Faleth Capital Constitution.md`; Contribution, Governance, Cell, Financial, Equity, Marketing and Brand, and Acquisition Transition frameworks. `Beyond the Wage.md` intentionally excluded.
+- Foundational created: `concepts/foundational/equip-people-until-they-no-longer-need-you.md`.
+- Offshoots created: `book-value-symmetry-and-anti-speculation.md`; `principles-permanent-parameters-adaptive.md`; `security-enables-agency-without-creating-dependence.md`; `value-creators-share-in-value-customers-included.md`.
+- Rewritten syntheses: `concepts/foundational/faleth-capital-economic-philosophy.md`; `queries/faleth-capital-operating-philosophy.md`.
+- Updated related doctrine: contribution, earned equity, self-governance, trust, conflict escalation, and Peaceful Fork pages.
+- Updated `index.md` and `raw/processed-sources.md`.
+
+## [2026-07-27] update | Marketplace discipleship as Faleth's lived commandment
+
+- Preserved Lyle's exact Telegram clarification at `raw/transcripts/lyle-marketplace-discipleship-its-just-business-2026-07-27.md` with SHA-256 provenance.
+- Clarified that “equip people until they no longer need you” is intended as a marketplace commandment across industries, not merely a Faleth leadership method.
+- Added the explicit opposition to “it's just business” as moral evasion that places money above responsibility for people.
+- Added Lyle's attraction to network marketing's discipleship dynamics and his frustration that they remain trapped in sales and marketing rather than spreading across the marketplace.
+- Updated the apex principle, Faleth economic philosophy, operating synthesis, and index.
+
+## [2026-07-27] update | Business as organized service, reciprocal gift, and joy
+
+- Preserved Lyle's exact Telegram refinement at `raw/transcripts/lyle-business-as-organized-service-reciprocal-gift-and-joy-2026-07-27.md` with SHA-256 provenance.
+- Extended the Faleth apex from moral accountability to a positive theology of enterprise: business done rightly is organized service at scale and one of the greatest expressions of human joy.
+- Captured money as the customer's portable reciprocal gift rather than the purpose of the exchange.
+- Added the failure mode: making money the sole object removes the joy of improving other people's lives even when revenue remains.
+- Added a boundary condition distinguishing genuinely voluntary, beneficial exchange from revenue produced through coercion, deception, addiction, monopoly leverage, or manufactured dependence.
+- Updated the apex principle, economic philosophy, operating synthesis, customer value-sharing principle, and index.
+
+## [2026-07-27] update | Fulfillment as the internal fruit of genuine service
+
+- Preserved Lyle's exact Telegram refinement at `raw/transcripts/lyle-fulfillment-as-internal-fruit-of-genuine-service-2026-07-27.md` with SHA-256 provenance.
+- Added the two-fruit test: external improvement in the recipient's life and internal fulfillment in the provider rooted in genuinely helping.
+- Distinguished purchased pleasure, status, and domination from the durable joy of service.
+- Preserved Lyle's observation about coercive or indifferent people as personal experience rather than turning it into a universal or clinical diagnosis.
+- Updated the apex principle, Faleth economic philosophy, operating synthesis, and index.
+
+## [2026-07-27] query | Faleth through Maslow's hierarchy of needs
+
+- Created `queries/faleth-through-maslow-hierarchy-of-needs.md`.
+- Mapped physiological, safety, belonging, esteem, self-actualization, and self-transcendence needs to concrete Faleth mechanisms and failure risks.
+- Mapped the three compensation layers to developmental functions: enough to stand, evidence of contribution, and ownership beyond immediate labor.
+- Added the two-fruit service test at the top of the model and treated the hierarchy as a recursive flywheel rather than a rigid staircase.
+- Added the anti-cult boundary: Faleth can provide scaffolding for human development but cannot replace family, church, friendship, health, rest, or identity beyond economic performance.
+- Updated `index.md`.
+
+## [2026-07-27] update | Faleth as unobstructive scaffolding and anti-cult boundary
+
+- Preserved Lyle's exact Telegram refinement at `raw/transcripts/lyle-faleth-unobstructive-scaffolding-anti-cult-boundary-2026-07-27.md` with SHA-256 provenance.
+- Clarified that Faleth helps people fulfill needs themselves by removing avoidable organizational obstacles, not by providing identity, belonging, esteem, purpose, or fulfillment for them.
+- Added the distinction between belief that energizes agency and belief that demands dependence.
+- Added practical anti-cult tests around disagreement, exit, portable value and relationships, external institutions, and Faleth becoming less necessary as people mature.
+- Updated the Maslow synthesis, apex principle, and Faleth economic philosophy.
+
+## [2026-07-27] update | Exit as a measure of Faleth's health
+
+- Preserved Lyle's exact Telegram refinement at `raw/transcripts/lyle-exit-as-measure-of-faleth-health-2026-07-27.md` with SHA-256 provenance.
+- Clarified how the three income streams materially reduce dependence on Faleth over time.
+- Reframed actual use of the exit door as possible evidence of successful development, changed alignment, and genuinely portable earned value.
+- Distinguished healthy exit from preventable leakage caused by exploitation, opacity, broken promises, avoidable conflict, or failed economics.
+- Added cause-and-quality-of-exit measures to the Peaceful Fork doctrine; rejected raw retention as the supreme KPI.
+- Updated the apex principle, Peaceful Fork doctrine, Maslow synthesis, and operating philosophy.
+
+## [2026-07-28] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 46 were already processed; ingested 4 new bookmarks.
+- Created `raw/x-bookmarks/2026-07-27/2081873768087998927.md` — polemical image exchange about animal behavior, naturalness, religion, and morality; preserved both attached and quoted-image OCR.
+- Created `raw/x-bookmarks/2026-07-26/2081415714221822227.md` — “darkness” versus cuddles pet meme; OCR preserved.
+- Created `raw/x-bookmarks/2026-07-27/2081681249676951762.md` — stove-drawer warming claim; preserved with appliance-dependent caveat.
+- Created `raw/x-bookmarks/2026-07-27/2081598350147621043.md` — 164.8-second visual-only video; media provenance preserved, but no intelligible speech or durable claim was extractable.
+- Created no concept/entity/query pages: this batch was mostly humor or appliance trivia, while the ethics image was a single polemical exchange insufficient for a durable synthesis without stronger sources.
+- `index.md` unchanged because no wiki pages were created.
+
+## [2026-07-29] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 36 were already processed; ingested all 14 new bookmarks.
+- Created immutable raw sources:
+  - `raw/x-bookmarks/2026-07-25/2081060081278558271.md`
+  - `raw/x-bookmarks/2026-07-27/2081826428295729284.md`
+  - `raw/x-bookmarks/2026-07-27/2081873321516528053.md`
+  - `raw/x-bookmarks/2026-07-28/2081897250121236905.md`
+  - `raw/x-bookmarks/2026-07-28/2081941466125840799.md`
+  - `raw/x-bookmarks/2026-07-28/2081975477930176683.md`
+  - `raw/x-bookmarks/2026-07-28/2081994764488986676.md`
+  - `raw/x-bookmarks/2026-07-28/2082044844759757058.md`
+  - `raw/x-bookmarks/2026-07-28/2082091462531953087.md`
+  - `raw/x-bookmarks/2026-07-28/2082092497619030246.md`
+  - `raw/x-bookmarks/2026-07-28/2082106744788955310.md`
+  - `raw/x-bookmarks/2026-07-28/2082115636281446800.md`
+  - `raw/x-bookmarks/2026-07-28/2082207544626339930.md`
+  - `raw/x-bookmarks/2026-07-28/2082231281941913851.md`
+- Created durable wiki pages:
+  - `faleth/process/grapheneos-hardware-diversification-2026.md`
+  - `faleth/process/offline-application-distribution-resilient-comms-2026.md`
+  - `faleth/process/text-to-cad-as-engineering-compiler-2026.md`
+  - `faleth/process/llm-inference-serving-five-optimization-surfaces-2026.md`
+- Updated `faleth/process/local-model-ownership-agency-2026.md` with the Bonsai 27B / RTX 3060 Ti practitioner benchmark and reproduction caveats.
+- Updated `index.md` for the four newly created pages.
+- Skipped concept synthesis for nine low-evidence or non-durable items: satire, memes, reaction images, an unidentified site demo, an image-only solution, and an incomplete Monero/Tor vulnerability claim awaiting primary-source details.
+- Retrieval notes: X API media expansion and local OCR/transcription succeeded; general web search was unavailable because the configured provider reported depleted credits.

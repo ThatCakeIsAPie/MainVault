@@ -35,7 +35,7 @@ This is the logic behind everything else. Elections widen a choice to the whole 
 
 ## 2. Leadership & Representation
 
-A winner-take-all vote leaves a resentful minority and a Lead who knows half the team didn't want them there. So leadership is representative by design: a team that produced three credible candidates probably needs more than one of them leading.
+Leadership is representative by design: a team that produced three credible candidates probably needs more than one of them leading.
 
 A Lead is elected authority, but bottom-up — the stitching, not the ruler. The job is to coordinate and unblock, with real operational authority and no standing to override the team on anything framework-level; those decisions stay with everyone. And the team can always take that authority back: if a Lead isn't doing the job, anyone can call a confidence vote or a new election to remove one or more of them.
 
@@ -49,7 +49,7 @@ The executive is a Lead one notch up. Same job — reduce the friction that slow
 
 He's elected the same way too, by the cell Leads rather than by every participant — the same representative logic that seats a Lead, applied one level up. A founder is the exception, holding the seat because there was no team yet to elect anyone. And it scales the same way: one person while one person can carry it, a larger elected team when the job outgrows that, all of them paid from that same share and never from the team pool.
 
-That share is what keeps this from being a hand above. He is paid out of the office's fee, not the margin the team produces ([[The Financial Framework#1. How Money Moves Through a Subsidiary|the Financial Framework]]), so his income and theirs come from different numbers and can never trade against each other.
+He is paid out of the office's fee, not the margin the team produces ([[The Financial Framework#1. How Money Moves Through a Subsidiary|the Financial Framework]]), so his income and theirs come from different numbers and can never trade against each other.
 
 Removal is a confidence vote like any other, carried to the office because that is how far the seat reaches. Below the scale where there are cell Leads to convene one, anyone can fork out instead ([[Faleth Capital Constitution#5.3 — How a Fork Works|Article V of the Constitution]]). He can step down whenever he likes, nothing is retained, and he keeps compounding through a Managed Capital Account.
 
@@ -77,7 +77,7 @@ One thing is deliberately not on this agenda: the executive's seat itself, for t
 
 A conflict is just a decision that couldn't be made at the lowest level, so it follows the same rule as everything else: start with the people closest to it, and widen only if it can't be settled there. Most disputes are small — a correction to how a piece of work was credited, a value entered wrong, who did what. Those should resolve fast, between the people involved.
 
-Picture that small correction. Two people are directly involved, and there's a Lead nearby. Think of it as three keys. If the two agree, that's two keys and it's done — the Lead is only notified, for transparency. If they don't, the Lead breaks the tie — not as the boss, but because being the neutral third party who keeps things moving is exactly the job they were elected to do. Whichever side their judgment joins has two keys, and that's the call.
+Picture that small correction. Two people are directly involved, and there's a Lead nearby. Think of it as three keys. If the two agree, that's two keys and it's done — the Lead is only notified, for transparency. If they don't, the Lead breaks the tie — being the neutral third party who keeps things moving is exactly the job they were elected to do. Whichever side their judgment joins has two keys, and that's the call.
 
 The losing side isn't stuck with it. If the disagreement is real — not just distaste for the outcome — they can widen the circle. Take it to another Lead; if that Lead sees it their way, the Leads now disagree, and it goes to a vote among them. Still convinced? Bring in their associates, and with enough support behind them, call a full cell vote. Each step pulls in more people and more distance from the work, exactly as far as the impact justifies and no further.
 

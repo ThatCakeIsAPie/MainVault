@@ -1,7 +1,7 @@
 ---
 title: Trust as Coordination Infrastructure
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-07-27
 type: concept
 tags: [business, strategy, operations]
 sources: [raw/transcripts/Trust_Effective_Effort_and_The_Factory.md, Business/LTD Amway/Info Sessions/2026/2026-06-04 Tyler Sheridan.md]
@@ -26,6 +26,8 @@ Trust can be framed as: "If I invest my effort here, I will not regret it." When
 
 Trust is rarely built through declarations. It compounds through visible evidence: consistency, results, transparency, time, and completed work. A portfolio of finished projects demonstrates capability more powerfully than verbal positioning.
 
+The rewritten Faleth suite turns that into architecture. Anyone can inspect pay math, points, margins, book value, share count, dilution, and distribution bases. Leaders are elected and removable. Acquired employees see a working subsidiary before choosing the model. People may leave with earned stakes intact. Trust therefore does not require faith in a benevolent authority; the system makes consequential claims observable and keeps the exit door real.
+
 ### Connection to LTD / Network Marketing
 
 The Tyler Sheridan session frames the business as people helping other people win: "If I win and you lose, that isn't right. If you win and I lose, that isn't right." The structure works because success is relationally and economically aligned: mentors are rewarded when others build real businesses, not when they merely extract fees from prospects. ^[Business/LTD Amway/Info Sessions/2026/2026-06-04 Tyler Sheridan.md]
@@ -40,3 +42,15 @@ Many apparent constraints are downstream of trust. A business may think it lacks
 - [[offshoots/character-assessment-through-fruit-inspection]]
 - [[offshoots/honor-edification-and-communication-rhythm]]
 - [[foundational/network-marketing-as-leadership-development-system]]
+- [[offshoots/book-value-symmetry-and-anti-speculation]]
+- [[offshoots/principles-permanent-parameters-adaptive]]
+- [[foundational/equip-people-until-they-no-longer-need-you]]
+
+### References
+
+- [[Business/Faleth Capital/Faleth Capital Constitution]]
+- [[Business/Faleth Capital/The Contribution Framework]]
+- [[Business/Faleth Capital/The Governance Framework]]
+- [[Business/Faleth Capital/The Financial Framework]]
+- [[Business/Faleth Capital/The Equity Framework]]
+- [[Business/Faleth Capital/The Acquisition Transition Framework]]

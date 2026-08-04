@@ -1,7 +1,7 @@
 ---
 title: Conflict Escalation, Trust Preservation, and Anti-Bureaucratic Governance
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-07-27
 type: principle
 status: active-design-direction
 owner: Lyle Cole
@@ -247,20 +247,19 @@ This direction extends rather than replaces:
 - **Self-governance by contributors:** those bearing consequences retain decision proximity.
 - **Standards with grace:** standards protect interfaces without turning people into permission-seeking machinery.
 
-## Integration status and reconciliation points
+## Integration status
 
-This page is active context for future design work, but the formal [[The Governance Framework]] remains the operative draft until a deliberate v2 integration pass.
+The 2026-07-27 Constitution and seven-framework rewrite integrated the central doctrine into the formal suite:
 
-Known items to reconcile during that pass:
+- direct parties resolve first; an impartial Lead breaks a genuine tie;
+- escalation widens by scope rather than hierarchy;
+- trust is defaulted for limited, visible, reversible action and verified through transparency;
+- standards are preferred to accumulating rules;
+- cells govern their interiors while explicit interfaces protect shared work;
+- cooperation may be suspended before ownership is touched;
+- value preservation, book-value settlement, and the Peaceful Fork are formal commitments.
 
-1. **First dispute step:** the current formal framework sends day-to-day disputes to a Lead first; this doctrine starts with direct participant resolution before lead facilitation.
-2. **Lead authority:** define precisely when a lead facilitates, recommends, or rules—and how an affected person appeals.
-3. **Ticket approval keys:** specify when agreement of both parties is sufficient and when lead approval is mandatory.
-4. **Contributor review:** define consensus, voting, abstention, quorum, and conflict rules without turning every ticket into parliament.
-5. **Impartial panel:** define selection, independence, evidence access, appeal, and service-level timelines.
-6. **Founding-scale removal key:** still requires explicit ratification in the sanctioning architecture.
-7. **Peaceful Fork valuation:** align book value, asset portability, customer/contracts, liabilities, and IP with the Constitution and legal agreements.
-8. **Emergency action:** distinguish temporary protective suspension from final economic or membership adjudication.
+The rewrite intentionally did **not** constitutionalize every proposed software or panel mechanic on this page. Ticket workflows, outlier thresholds, panel composition, emergency suspension, and service-level timelines remain implementation parameters to test against real operations. This page now serves as the detailed design bank beneath the simpler formal doctrine rather than as an unintegrated future direction.
 
 ## Maxims
 

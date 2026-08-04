@@ -29,7 +29,7 @@ One note on how to read it. What follows builds in order: what we are, how we're
 
 Faleth Capital is a family office that owns, funds, and mentors operating businesses in any industry — a holding entity, a shared liquidity pool, and a governance body. It is not an employer in the traditional sense. It's an economic ecosystem designed to produce owners rather than employees.
 
-The name comes from *Fah Leth*, meaning "individual," and that isn't ornamental branding. It's the root of the model. Faleth begins with the individual contributor: the person whose agency, skill, and judgment should be strengthened by an organization rather than swallowed by it. The goal isn't isolated individualism. It's voluntary alignment — sovereign people choosing to work together because together they can build, protect, and multiply more than they can alone.
+The name comes from *Fah Leth*, meaning "individual," and it's the root of the model. Faleth begins with the individual contributor: the person whose agency, skill, and judgment should be strengthened by an organization rather than swallowed by it. The goal isn't isolated individualism. It's voluntary alignment — sovereign people choosing to work together because together they can build, protect, and multiply more than they can alone.
 
 The mission is to **create and steward generational wealth**: to make it reachable for people who never had a path to it, and to grow it by reinvesting in the ones just starting. We do that by building a portfolio of businesses run by people with genuine ownership of their results, and by proving that paying for value beats paying for time on every measure that matters — productivity, retention, innovation, and human dignity.
 
@@ -87,7 +87,7 @@ Class A membership is earned, never granted.
 
 A participant demonstrates they can build — through performance inside a subsidiary, through a venture of their own, or both. When ready, they propose a business. The office funds and owns it; they run it with full autonomy. An existing member mentors them throughout, compensated out of the office fee for as long as the mentorship lasts ([[The Financial Framework]]).
 
-Once that subsidiary has been profitable for **eight consecutive quarters** above a material income threshold, its founder earns Class A membership.
+Once that subsidiary has been profitable for **eight consecutive quarters** above a material income threshold, its founder earns Class A membership. At that point whatever Class B they hold is burned at book value and the same value is credited to a Managed Capital Account, so governance and financial ownership stay in separate hands ([[The Equity Framework#4. Managed Capital Accounts|The Equity Framework]]).
 
 That threshold is deliberately not a fixed dollar figure. A number that means something today won't mean the same in a decade, and what counts as material for a portfolio of three subsidiaries isn't material for a portfolio of thirty. It's set by the members who built the office to date and reviewed each year. What doesn't change is the principle: a subsidiary must produce sustained, material income for the office — not one good quarter, not a promising first year — before its founder takes a seat.
 
@@ -97,7 +97,7 @@ Membership, once earned, is permanent. It recognizes what someone built, and tha
 
 It may be revoked only for cause, narrowly defined: material violation of this constitution or its frameworks, sustained and demonstrable harm to the portfolio or its people, or prolonged dereliction of the responsibilities below despite direct engagement from other members. Revocation requires a two-thirds supermajority of active members and may be appealed once at the next annual conference. A member removed for cause loses their seat but keeps their Class B shares and any mentoring relationships on the terms already agreed.
 
-For disagreement without cause — a member who no longer trusts the direction, or who finds themselves persistently at odds with how the portfolio is run — the remedy is not removal. It's the fork in Article V. Political removal would create precisely the power dynamic the rest of this system exists to avoid. Cause-based removal protects members from being voted out over policy while still letting the body address real harm. And the fork gives legitimate disagreement a door, rather than forcing a majority to suppress a minority it cannot otherwise accommodate.
+For disagreement without cause — a member who no longer trusts the direction, or who finds themselves persistently at odds with how the portfolio is run — the remedy is not removal. It's the fork in Article V. Boards remove people over direction all the time, and that is the power dynamic the rest of this system exists to avoid. Cause-based removal exists to address real harm; the fork exists to give legitimate disagreement a door.
 
 ## 3.3 — What Members Owe
 
@@ -125,7 +125,7 @@ Leadership is elected and removable, never appointed. Nobody holds standing to o
 
 Radical transparency isn't a value we admire, it's an operating requirement. Open to every participant across every subsidiary, quarterly: the office's consolidated balance sheet, the dilution factor and dividend per share, the total Class B share count and book value per share, and each subsidiary's margin performance in aggregate — plus this constitution, always.
 
-The balance sheet is the single source of truth for what a share is worth. Its accuracy isn't an accounting obligation, it's a structural commitment to every person who converted earned profit share into equity. Whoever's numbers are wrong is responsible for them — a cell's to its Leads, a subsidiary's to its executive team. Clean books are non-negotiable.
+The balance sheet is the single source of truth for what a share is worth. Its accuracy is a structural commitment to every person who converted earned profit share into equity. Whoever's numbers are wrong is responsible for them — a cell's to its Leads, a subsidiary's to its executive team. Clean books are non-negotiable.
 
 ## 4.4 — The Quarterly Earnings Call
 
@@ -159,7 +159,7 @@ This is also what makes Article IV mean anything. Elections and votes are the or
 
 The same shape applies at every level, with one difference that matters.
 
-**Cells and subsidiaries owe book value upward.** Any participant or group may declare an intent to fork — no threshold, no minimum headcount, no justification required. Each person decides individually whether to go or stay; nobody moves as a block without consenting to it. Those who stay keep the existing entity, its name, and its affiliation. Those who leave take what they built, valued at book, and pay that book value to whatever sits above them. That isn't a penalty. It's returning what the shared pool deployed to build the thing, so the pool stays intact for the builders who come next. How and when it's repaid is negotiable. That it's repaid is not.
+**Cells and subsidiaries owe book value upward.** Any participant or group may declare an intent to fork — no threshold, no minimum headcount, no justification required. Each person decides individually whether to go or stay; nobody moves as a block without consenting to it. Those who stay keep the existing entity, its name, and its affiliation. Those who leave take what they built, valued at book, and pay that book value to whatever sits above them. It returns what the shared pool deployed to build the thing, so the pool stays intact for the builders who come next. How and when it's repaid is negotiable. That it's repaid is not.
 
 **The office is the exception**, because there's nothing above it. When Class A members fork the office, there's no external party to be made whole — the pool belongs to everyone in it, so when it divides, it simply divides. Neither side owes the other, because both sides *are* the office. The pool is split by negotiation, anchored on the book value of the subsidiaries and assets each side takes. Class B shares held by departing participants are burned in the old office at current book value and minted fresh in the new one at its founding book value, so the stake transfers rather than evaporating.
 
@@ -192,7 +192,7 @@ This constitution may be amended by a two-thirds majority of active Class A memb
 Some things cannot be amended at all:
 
 - The prohibition on wages and salaries inside subsidiaries.
-- That Class B shares can only be acquired through earned profit share or reinvested dividends.
+- That Class B shares can only be acquired through earned profit share.
 - The transparency requirements in Article IV.
 - The mint-and-burn mechanism, and the right of any Class B holder to cash out at book value at any time.
 - The liquidity reserve policy — liquid capital held equivalent to the combined book value of the operating subsidiaries.
@@ -252,21 +252,47 @@ Not everyone will walk all five, and not everyone needs to. But each step is rea
 
 ## 8.4 — Why Three Streams
 
-That sequence isn't arbitrary. Here is the mechanism it's built around, and it is the reason this whole system exists.
+With all of that out of the way, we can finally explain the practical objective we hope to achieve for as many of our participants as possible.
 
-Investing compounds only if you leave it alone. Live on what a pile of capital returns and the pile never moves — you've bought an income, not a growing asset, and the only way out is living on less than it produces.
+*Our system was first started to help people achieve compounding on compounding interest.*
 
-Now feed that pile from something that compounds on its own. That is exactly what a network built properly does: developing people to the point they no longer need you means the income grows as you step back rather than lean in. Point one at the other and the arithmetic changes shape. Bucket One grows from its own returns *and* from a stream that is itself expanding — compounding on top of compounding, without you. That's the intent: not an income, but a vehicle that builds itself.
+That isn't a typo, we are talking about X to the power of Y to the power of Z.
 
-One thing stands in the way. Routing that income into the bucket means not spending it, and you still have to eat. The traditional job is supposed to answer that and instead makes it worse, for the reasons this document opened with.
+Robert Kiyosaki outlines his ideal plan for wealth creation in his book "Rich Dad, Poor Dad":
 
-Faleth Capital exists to be the other kind of job — one that pays for output, asks nothing of your calendar, and hands over equity that keeps compounding after you leave. An income a builder can hold *while* building.
+Active income into assets -> Asset income into other assets -> Live on the interest from the second group of assets.
 
-The maximal outcome isn't required. Most won't reach the exponential version, and a modest steady feed still raises the floor every year.
+The reason is simple. If you have, say, $1M invested into assets, with 10% annual interest, you have an income stream of $100k/yr. If you lived on exactly that, your income would not increase or decrease.
 
-Three streams, three jobs. Bucket One's returns are the floor, network marketing is the engine that raises it, and Faleth income buys the time to build both. The timing even has its own symmetry: dividends run strongest early, while someone is actively contributing and minting shares, exactly when a network is weakest and still being built. Later, as they step back from subsidiary work, dividends thin through dilution while the network matures and compounds without them. One decays without involvement, the other grows without it. They cross in the middle, and whoever built both never has a gap.
+However, if you had a first-asset class feeding its income into your second-asset class, and you lived off of that second-asset class income as discussed above, your income would continue to increase.
 
-**On the three streams as a standard.** Network marketing income filling Bucket One, its returns covering the floor, and Faleth income covering life — that's what we look for in someone who wants to found a subsidiary. Not as a checklist, but because each stream produces a specific shift in how a person makes decisions. Someone whose family is covered regardless of outcome negotiates differently, hires differently, and thinks in longer arcs. That is the fruit we're after. It can ripen other ways, and exceptions are warranted when someone demonstrates the same fruit by another road. We stay open on the form and steadfast on the substance.
+There are many ways to achieve this, and we believe our system can help achieve it through those other means, however, the way we recommend is as described in our previous sections. If one follows the five-step blueprint, the outcome should be as follows:
+
+*Network Marketing income -> Index Funds/Real Estate -> Bucket One income*
+
+This is what we mean by compounding on compounding. Network Marketing, done right, can become a compounding asset. If one chooses not to live on that income, rather, have that income flood into index funds, real estate, or other capital-intensive streams of income that can compound if all one does is wait, then one can access a compounding on compounding income.
+
+Think of it like this: network marketing is a sweat-equity asset while other assets are capital-equity assets. If you have the first going into the second, you achieve what we believe is the ultimate, replicable engine of wealth for anyone.
+
+However, while network marketing on its own can be decent income, to get to world-class levels of wealth is something that very, very few are able to access using just that system. That is why we recommend instead to pour it into the "land" third of the Talmudic One-Third principle, as even a modest income in NM can turn into generational wealth if left alone for 50 years.
+
+The problem? One needs to still eat. Very few achieve this compounding on compounding vehicle because they need to leave it alone for long enough for it to work, while also having a roof over their heads and food on the table for their families.
+
+*Faleth Capital was born to solve this problem at scale.*
+
+By having a flexible no-time-clock system, one can build a network marketing business and not go broke in the pursuit of it. Then, once it has reached enough mass to start compounding, or at least once one has enough customers to maintain their income with minimal effort, then they can switch to being aggressive with Bucket Two.
+
+That is the reason for the back-and-forth structure of the five steps.
+
+One starts in network marketing, then with the help of the mentorship and skill development there, maximizes the amount of income they can immediately create through their active endeavors. We have found that most people can quickly multiply their active income by 2-5x just by changing what kind of work they do and by changing their thinking.
+
+However, they quickly hit a wall in their active income, and to progress they must start to delegate and develop others in order for it to increase. To solve this, they go back to network marketing to pursue it as their leadership skills dojo. In their pursuit of this, they should be minting class B shares and using their dividend income to supplement their Bucket One investments alongside their growing network marketing business to help quickly develop their nest egg.
+
+As soon as they have built a substantial enough team in their network marketing business to have a mostly hands-off, full-time income through it alone, they should have minted enough class B shares to have a dividend income at around the same, and ideally, enough interest coming from their investments to do the same.
+
+With enough income through network marketing, investments, and dividends, where any one of the three can fuel all of their personal expenses, they should have the skills and financial durability that we trust them to start a brand new subsidiary underneath Faleth Capital. It is by no means a hard requirement of ours for one to start a subsidiary, but we felt it necessary to explicitly list the qualities of our desired candidate.
+
+Whether they start a subsidiary under us or decide to step back and live on their investment income so they can spend more time with their families and travel the world, it doesn't bother us. What matters to us is helping anyone who is ready and able to develop that compounding on compounding asset.
 
 ---
 
@@ -282,7 +308,7 @@ That is discipleship applied to economic life. A disciple who never leaves isn't
 
 The alternative traps everyone in it. A leader who builds an organization that depends on them has built their own prison: they can't step away, can't get sick, can't pursue anything else, and their identity fuses with their control. The people under them learn, correctly, that advancement depends on approval rather than capability. That system rewards loyalty over competence and presence over contribution, and we reject the outcome along with the structure that produces it.
 
-So read the rest of this document again with that in mind, because it explains every choice in it. Leads are elected and removable. Cells split when the people in them decide to. Equity decays without active involvement. Anyone can fork out and take what they built. Mentors are paid to make founders independent, and founders are paid to make their teams independent. Nothing here requires any single person to be present for it to function — which is the proof it was built correctly, not a weakness in it.
+So read the rest of this document again with that in mind, because it explains every choice in it. Leads are elected and removable. Cells split when the people in them decide to. Equity decays without active involvement. Anyone can fork out and take what they built. Mentors are paid to make founders independent, and founders are paid to make their teams independent. Nothing here requires any single person to be present for it to function, which is the proof it was built correctly.
 
 It's also why this document is open. We don't want to be the only organization that works this way. If someone reads these frameworks, takes the ideas, and builds something better without our name on it, that isn't a loss — that's the mission working. The goal was never to build an empire. It was to prove there is a better way to organize human effort, and to make that proof so accessible that the old model becomes indefensible.
 

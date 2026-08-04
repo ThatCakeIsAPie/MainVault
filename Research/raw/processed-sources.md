@@ -30,6 +30,8 @@ This file tracks which source notes and folders have already been reviewed for p
 
 ## Faleth Capital
 
+- **2026-07-27** — Reprocessed the complete rewritten Faleth v2 suite from synced commit `22e1082`: `Faleth Capital Constitution.md` plus all seven frameworks (Contribution, Governance, Cell, Financial, Equity, Marketing and Brand, Acquisition Transition). `Beyond the Wage.md` was intentionally excluded from the rewrite corpus. Created the foundational principle `equip-people-until-they-no-longer-need-you`; created offshoots for adaptive parameters, book-value symmetry, customer value-sharing, and security-enabled agency; rewrote the Faleth economic and operating syntheses; refreshed related compensation, equity, self-governance, trust, conflict, and Peaceful Fork pages.
+
 - **2026-05-18** — Business/Faleth Capital (core frameworks)
   - The Contribution Framework.md
   - The Equity Framework.md

@@ -16,7 +16,7 @@ Two more things come out of operating profit, and they are calculated side by si
 
 The **office fee** is the higher of 5% of revenue or one-third of operating profit. Two calculations, whichever is larger that quarter. The revenue side protects the office's income floor so it isn't starved by a lean quarter; the profit side makes sure a genuinely profitable subsidiary contributes in proportion to how well it did. The fee funds the shared liquidity pool, the dividends, the office-level profit share, and the office's own modest operating costs. A fifth of it never reaches the office: 14% goes to the subsidiary's executive team, and 6% to the mentor who developed them, leaving 80% for the pool ([[The Governance Framework#2.1 — The Executive Seat|The Governance Framework]]).
 
-Notice what the office does *not* do: it doesn't allocate its overhead down. It takes a fee off the top and leaves each subsidiary to manage its own costs, which is what makes a subsidiary's numbers actually its own — nobody's margin is quietly determined by someone else's spending.
+The fee is the whole of what the office charges. Overhead is never allocated downward, so a subsidiary's margin is set by its own spending and nothing else.
 
 That arrangement repeats exactly one layer further in. A multi-cell subsidiary charges its cells on identical terms — the higher of 5% of topline or one-third of operating profit — and that fee is how it funds shared costs, whatever reserve it chooses to carry, and anything it builds for itself. No cell is ever billed for the roof; it pays a fee, and the subsidiary manages its own costs from there ([[The Cell Framework#4. One Body, One Pool|The Cell Framework]]). How thick a cushion to hold is the subsidiary's own call rather than a rule from above — the Leads set it together, and a thicker slice buys stability while a thinner one puts more in the cells. The check on running it too lean is that a subsidiary needing office capital to stay alive is a confidence question, not a funding request ([[The Governance Framework]]).
 
@@ -37,9 +37,9 @@ Every rule above is visible in those numbers. Cost of fulfillment is 20% of gros
 
 ## 2. The Office Pool
 
-The office account is a war chest. Money pumps into it — fees, retained profit, returns — and nothing routinely comes out. There is no standing drain and no overhead quietly eating at it. Capital leaves only when Class A members decide to deploy it ([[Faleth Capital Constitution#Article IV Governance|Article IV of the Constitution]]). A bucket with no holes fills whether or not anyone is watching it.
+The office account is a war chest. Money pumps into it — fees, retained profit, returns — and nothing routinely comes out. Capital leaves only when Class A members decide to deploy it ([[Faleth Capital Constitution#Article IV Governance|Article IV of the Constitution]]). A bucket with no holes fills whether or not anyone is watching it.
 
-The office runs one pool, not a fund and a side fund beside it. The office's own equity and any investor capital sit in the same pool, with ownership tracked as a percentage rather than split into parallel structures. If the office holds $2 million and an investor contributes $3 million, the pool is $5 million — the office owns 40%, the investor 60%. Every dollar is deployed by the same people, under the same philosophy and the same discipline. It isn't a fund within a fund; it's a shared table, and the percentages decide who owns what share of the outcome.
+The office runs one pool. Its own equity and any investor capital sit in the same place, and ownership is tracked as a percentage. If the office holds $2 million and an investor contributes $3 million, the pool is $5 million — the office owns 40%, the investor 60%. Every dollar is deployed by the same people under the same discipline, and the percentages decide who owns what share of the outcome.
 
 Half that pool should be working and half should be waiting. **Deployed capital** is the combined book value of the operating subsidiaries; **liquid capital** is everything held in reserve. Keeping the two roughly equal is how the office covers the business and liquidity thirds of the one-third rule the whole system rests on ([[Faleth Capital Constitution#8.1 — The One-Third Rule and the Two Buckets|Article VIII of the Constitution]]).
 
@@ -49,17 +49,17 @@ The ratio drifts, and when it does it's a signal rather than a crisis. Too much 
 
 ## 3. The Quarterly Snapshot
 
-Everything the office pays out is calculated once a quarter off a single number: **the growth of the total pool.** Not the cash on hand, and not the office's own slice of it — the whole thing, cash and assets together, liquid reserves plus the combined book value of every operating subsidiary underneath. A quarter where the cash pile stayed flat while the subsidiaries grew is still a quarter the pool grew. If that total rose, there's something to share. If it didn't, there isn't, and nothing at this layer pays out. No projections, no adjustments, no accruals to argue about. Two balance sheets and a subtraction.
+Everything the office pays out is calculated once a quarter off a single number: **the growth of the total pool.** The pool is cash and assets together — liquid reserves plus the combined book value of every operating subsidiary underneath. Its growth is what that total is worth at the end of the quarter minus what it was worth at the start. If it rose, there's something to share. If it didn't, there isn't. Two balance sheets and a subtraction.
 
 Each allocation is then drawn from a clearly named base, which is what keeps the layers siloed and stops the same dollar being paid out twice.
 
 **The team's share comes off total pool growth.** Twenty percent of everything the pool gained goes to participants across every subsidiary, because their work is what made it grow. It comes off the total, every party's slice included, before anything is divided by ownership.
 
-**Investors pay the office to manage their capital**, on the standard private-equity terms: a 2% annual management fee, charged as 0.5% per quarter against their capital in the pool, and a 20% performance fee on their share of the pool's growth. The management fee applies whether or not the pool grew — it covers the work of managing either way. The performance fee only exists if there was growth to charge against. Both are income to the office.
+**Investors pay a 20% performance fee** on their share of the pool's growth, and nothing else. It's income to the office. If the pool doesn't grow, they pay nothing.
 
 **What remains on the office's side** — its own share of the growth, plus the fees it earned — pays 30% out to Class B shareholders as dividends. Everything after that stays in the war chest. Retention isn't a target so much as the default: money that hasn't been explicitly paid out doesn't leave.
 
-Both of those office-side numbers resolve to a figure per share. The dividend pool divides evenly across every Class B share outstanding, so the quarter's dividend per share is that pool over that count. What's retained raises the share itself: **book value per share** is the office's own equity divided by shares outstanding, which means every dollar kept in the war chest lifts the value of every share already held. Dividends reward holding; retention compounds it. Investor capital doesn't distort either figure — it sits on the balance sheet as an asset and a matching liability that cancel out, so book value reflects only what the office itself owns.
+Both of those office-side numbers resolve to a figure per share. The dividend pool divides evenly across every Class B share outstanding, so the quarter's dividend per share is that pool over that count. What's retained raises the share itself: **book value per share** is the office's own equity divided by shares outstanding, which means every dollar kept in the war chest lifts the value of every share already held. Dividends reward holding; retention compounds it. Investor capital sits on the balance sheet as an asset and a matching liability that cancel out, so book value reflects only what the office itself owns.
 
 Every one of these comes off the same snapshot, and every payment goes out in the same quarterly distribution — profit share and dividends landing together. The arithmetic is deliberately plain enough that anyone who wants to check it can, with a calculator and ten minutes.
 
@@ -93,23 +93,22 @@ Numbers make this concrete. Say the pool holds $5 million: the office's own equi
 | → investor's 60% | $240,000 |
 | → office's 40% | $160,000 |
 | Performance fee — 20% of the investor's share | −$48,000 → office |
-| Management fee — 0.5% of the investor's $3M | −$15,000 → office |
-| **Investor keeps** | **$177,000** |
-| Office total — its $160,000 plus $63,000 in fees | $223,000 |
-| → Class B dividends, 30% | $66,900 |
-| → retained in the war chest | $156,100 |
+| **Investor keeps** | **$192,000** |
+| Office total — its $160,000 plus the $48,000 fee | $208,000 |
+| → Class B dividends, 30% | $62,400 |
+| → retained in the war chest | $145,600 |
 
-What each party sees. **The team** splits $100,000 across every participant in the portfolio by Layer 2 income, on top of whatever their own subsidiary's profit share paid. **Class B holders** divide $66,900 across 10,000 shares — $6.69 a share, so 500 shares pays $3,345. **Book value** rises as the retained $156,100 lands in office equity: $2,156,100 over 10,000 shares is $215.61, up from $200, which every holder keeps whether or not they took the dividend. **The investor** nets $177,000 on $3 million, about 5.9% for the quarter.
+What each party sees. **The team** splits $100,000 across every participant in the portfolio by Layer 2 income, on top of whatever their own subsidiary's profit share paid. **Class B holders** divide $62,400 across 10,000 shares — $6.24 a share, so 500 shares pays $3,120. **Book value** rises as the retained $145,600 lands in office equity: $2,145,600 over 10,000 shares is $214.56, up from $200, which every holder keeps whether or not they took the dividend. **The investor** nets $192,000 on $3 million, about 6.4% for the quarter.
 
-It reconciles: $500,000 of growth, less $100,000 paid to the team and $66,900 paid in dividends, leaves the pool at $5,333,100.
+It reconciles: $500,000 of growth, less $100,000 paid to the team and $62,400 paid in dividends, leaves the pool at $5,337,600.
 
-A flat or down quarter is much shorter to describe. No growth means no team share and no performance fee, because both are percentages of a number that doesn't exist, and there is nothing to fund dividends with. The management fee still applies — it pays for the work of managing either way — and it is the only thing that does.
+A flat or down quarter is much shorter to describe. No growth means no team share, no performance fee, and nothing to fund dividends with — every charge in the system is a percentage of growth that didn't happen. An investor pays nothing at all.
 
 ---
 
 ## 6. Why It Doesn't Break
 
-None of these layers were designed as a backup for the others. Each one solves its own problem — weekly pay for immediate productivity, the subsidiary share for local ownership, the office share for portfolio-wide thinking, dividends for long-term compounding. The resilience wasn't bolted on; it fell out of solving each problem honestly, which is usually a sign the architecture is sound.
+Each layer solves its own problem — weekly pay for immediate productivity, the subsidiary share for local ownership, the office share for portfolio-wide thinking, dividends for long-term compounding. None was designed as a backup for the others. The resilience is a byproduct.
 
 The deepest protection is that the largest expense flexes on its own. Labor is paid as a share of gross margin, so when revenue falls, labor cost falls with it, in the same proportion, without anyone deciding anything. A traditional company with fixed payroll bleeds whether or not customers show up, and its answer to a downturn is layoffs. Here the system contracts automatically and keeps its people. The floor is the only fixed labor cost, and it is deliberately modest ([[The Contribution Framework#2. The Three Layers|The Contribution Framework]]).
 

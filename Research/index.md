@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-27 | Total pages: 50+
+> Last updated: 2026-07-29 | Total pages: 50+
 
 ## Meta / schema
 
@@ -26,11 +26,13 @@
 ## Concepts
 
 **Foundational Principles**
+- [[foundational/equip-people-until-they-no-longer-need-you]] — Faleth's marketplace commandment: service should improve the recipient and produce fulfilled builders rather than hollow dependents.
 - [[foundational/faleth-capital-economic-philosophy]] — The philosophical foundation underlying [[faleth-capital]]'s structure.
 - [[foundational/five-step-sequencing-model]] — Lyle's framework for sequencing major life/business commitments rather than pursuing them simultaneously.
 - [[foundational/network-marketing-as-leadership-development-system]] — Network marketing, when approached seriously, functions primarily as a leadership development system rather than just a product distribution model.
 
 **Offshoots (recurring situational patterns)**
+- [[offshoots/book-value-symmetry-and-anti-speculation]] — One observable valuation rule in every direction prevents punitive exits and speculative ownership games.
 - [[offshoots/alignment-as-voluntary-shared-direction]] — Alignment means voluntarily moving in the same direction as the team and upline without becoming a carbon copy or submitting to subjugation.
 - [[offshoots/asset-creation-over-linear-income]] — The model prioritizes building something that generates returns without requiring continuous personal time input.
 - [[offshoots/awareness-as-agent-for-change]] — Awareness of one's blind spots, habits, and energy is positioned as the primary driver of personal and professional transformation.
@@ -50,13 +52,16 @@
 - [[offshoots/networking-and-connection-skills]] — Networking and genuine connection are learnable, teachable skills rather than innate talents.
 - [[offshoots/persistent-consistent-action]] — Long-term success requires persistent, consistent daily action over an extended period.
 - [[offshoots/pipeline-abundance-through-repetition]] — Confidence in people work comes from having enough people in process that no single prospect carries emotional weight.
+- [[offshoots/principles-permanent-parameters-adaptive]] — Protect durable commitments while continuously recalibrating context-sensitive operating dials.
 - [[offshoots/purpose-and-vision-as-focusing-mechanisms]] — Clear vision and purpose simplify decisions, priorities, reading lists, and relationships.
 - [[offshoots/self-governance-by-contributors]] — People doing the work and bearing the consequences should govern the conditions under which they work.
+- [[offshoots/security-enables-agency-without-creating-dependence]] — Bounded security makes voluntary choice real without severing reward from contribution.
 - [[offshoots/sweat-equity-as-primary-selection-mechanism]] — Because there is little formal buy-in, consistent effort becomes the real filter for who succeeds.
 - [[offshoots/systems-and-duplication-as-leverage]] — Systems and duplication create leverage so results are no longer limited by personal time or effort.
 - [[offshoots/systems-building-through-training-and-delegation]] — True systems emerge from training others until they can execute independently at a high level.
 - [[offshoots/traditions-and-experiences-build-teams]] — Traditions and shared experiences turn a group into a real team with heart, belonging, and loyalty.
 - [[offshoots/trust-as-coordination-infrastructure]] — Trust is the invisible infrastructure that lets people coordinate effort without every interaction becoming expensive or defensive.
+- [[offshoots/value-creators-share-in-value-customers-included]] — Labor, capital, and customer advocacy receive distinct returns from the value each contributes.
 - [[offshoots/generosity-as-stewardship-time-talent-treasure]] — Generosity as steward identity over time, talent, and treasure—not occasional overflow.
 - [[offshoots/ongoing-spirit-filling-and-gifts-for-common-good]] — Spirit-filled life and gifts exercised for the body, not gatekept performance.
 - [[offshoots/transition-comparison-insecurity-and-surrendered-control]] — Waiting seasons: comparison, insecurity, and surrendering control without losing agency.
@@ -109,6 +114,7 @@
 
 ## Queries
 
+- [[faleth-through-maslow-hierarchy-of-needs]] — Faleth as developmental scaffolding from subsistence and safety through belonging, esteem, actualization, and service beyond self.
 - [[what-why-how-three-by-three-action-architecture]] — Pyramid with What at the apex, Why/How beneath it, and Push–Pull–Process plus Time–Talent–Treasure as their foundations.
 - [[faleth-capital-operating-philosophy]] — Durable synthesis of Faleth's contribution, ownership, governance, trust, and discipleship logic.
 - [[heart-upstream-of-identity-theological-horticulture]] — Theological horticulture metaphor: heart/root upstream of identity and behavior/fruit.
@@ -139,4 +145,8 @@
 - [[faleth/process/demonstration-to-skill-capture-2026]] — Screen demonstration plus narration as a low-friction path from tacit operator knowledge to testable agent procedures.
 - [[faleth/process/image-to-3d-asset-compilation-agent-loops-2026]] — Compile visual references into project-native procedural 3D assets under renderer, performance, and verification constraints.
 - [[faleth/content/reply-led-audience-discovery-2026]] — Use substantive replies as an early discovery and market-learning channel, measured by qualified attention rather than comment volume.
+- [[faleth/process/grapheneos-hardware-diversification-2026]] — GrapheneOS's planned 2027 move beyond Pixel illustrates supplier diversification without weakening security requirements.
+- [[faleth/process/offline-application-distribution-resilient-comms-2026]] — Resilient communication systems must distribute and verify the client software offline, not merely carry messages offline.
+- [[faleth/process/text-to-cad-as-engineering-compiler-2026]] — Text-to-CAD becomes operational when it compiles intent into editable engineering, simulation, fabrication, and DFM artifacts.
+- [[faleth/process/llm-inference-serving-five-optimization-surfaces-2026]] — Continuous batching, phase disaggregation, KV-cache management, prefix routing, and MoE sharding as the core LLM-serving optimization surfaces.
 

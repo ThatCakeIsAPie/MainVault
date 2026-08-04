@@ -36,11 +36,11 @@ Pay has to do three different jobs at once: keep you steady enough to think past
 
 ## 3. The Value Share
 
-Layer 2 is calculated per unit of work, not as a weekly pot split among everyone. Every completed job generates its own small labor pool out of its own gross margin, and each person earns from that job based only on the points they put into it. Your weekly pay is just the sum of those per-job earnings. The distinction matters: a weekly-pool model would pay you off the team's average, while a per-unit model pays the specific person who created the specific value on the specific ticket.
+Layer 2 is calculated per unit of work. Every completed job generates its own small labor pool out of its own gross margin, and each person earns from that job based only on the points they put into it. Your weekly pay is just the sum of those per-job earnings — the specific person paid for the specific value they created on the specific ticket.
 
 The formula is short. A unit's **gross margin** is what the customer paid minus what the materials cost. Multiply that by the **Cost of Fulfillment (COF) rate** — the share of gross margin set aside for labor — and you get the unit's **labor pool**. Your cut of that pool is your points on the job over the total points on the job. That's it, one ticket at a time.
 
-Because the pool comes from each unit's own margin, the dollar value of a point floats. A high-margin job makes every point on it worth more; a thin one makes each worth less. Nobody has to police this — labor cost scales with the value of the work automatically, and the person who grows a ticket, by adding a service or catching a second problem the customer didn't know they had, earns directly from the larger pool they created rather than seeing it averaged away.
+Because the pool comes from each unit's own margin, the dollar value of a point floats. A high-margin job makes every point on it worth more; a thin one makes each worth less. Labor cost scales with the value of the work automatically, and the person who grows a ticket — by adding a service, or catching a second problem the customer didn't know they had — earns directly from the larger pool they created.
 
 Gross margin is the anchor on purpose: it's the value the team makes with its own hands and judgment — the spread between price and parts — and the team moves it every day through the quality, speed, and sourcing of the work.
 
@@ -68,7 +68,7 @@ The reward starts personal. When someone improves a process so it takes a fracti
 
 Automation is the same mechanism rather than an exception to it. Points are earned on completion, so someone who uses a new tool to finish a diagnosis in five minutes instead of thirty earns exactly what they always did, just faster and more often. When a tool takes a process over entirely, that process leaves the board at the next calibration and its points dissolve into the value of what remains. No reorg. A conversation between peers about what the work is now.
 
-That part deserves saying plainly, because it's where most companies do the opposite. Suppose work that took a hundred people now takes thirty. In a traditional firm that's a layoff. Here it isn't, because nobody was bound to a role to begin with — the constraint has just moved from supply to demand, from "can we do the work?" to "is there enough work?", and the valuable processes shift with it, toward acquisition and drumming up the demand that refills the pipeline. Either you're doing the work or you're finding more of it, and people flow to whichever side is short.
+Suppose work that took a hundred people now takes thirty. In a traditional firm that's a layoff. Here it isn't, because nobody was bound to a role to begin with — the constraint has just moved from supply to demand, from "can we do the work?" to "is there enough work?", and the valuable processes shift with it, toward acquisition and drumming up the demand that refills the pipeline. Either you're doing the work or you're finding more of it, and people flow to whichever side is short.
 
 None of this rides on one brilliant stroke. Winning is rarely a silver bullet; it's a million golden BBs — small improvements made by the people closest to the friction, compounding across the whole business. This framework exists so that those people are the ones who profit from finding them.
 
