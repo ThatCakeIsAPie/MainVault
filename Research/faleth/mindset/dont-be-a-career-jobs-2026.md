@@ -1,7 +1,7 @@
 ---
 title: Don't Be a Career (Jobs, 2026)
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-08-03
 type: principle
 tags: [personal-development, purpose, vision, identity, business, strategy]
 sources:
@@ -37,5 +37,7 @@ confidence: medium
 ## Related
 
 - [[faleth/mindset/transition-agency-2026]]
+- [[faleth/mindset/wholeness-over-unidimensional-perfection-2026]]
+- [[concepts/offshoots/portfolio-life-as-antifragile-strategy]]
 - [[faleth/mindset/anti-charismatic-exceptional-work-2026]]
 - [[concepts/offshoots/identity-and-belief-drive-behavior]]

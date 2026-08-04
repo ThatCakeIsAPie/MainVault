@@ -93,8 +93,11 @@ Links: [[faleth/mindset/transition-agency-2026]], [[faleth/process/ai-as-sparrin
 
 ### Triple Diamond Daily Battle Sheet
 
-Lyle explicitly wants a daily operating sheet that tracks the few leading indicators that predict growth. The useful design is not a maximal dashboard—a beloved Lyle species—but a compact feedback instrument:
+Lyle explicitly wants a daily operating sheet that tracks the few leading indicators that predict growth. The September 2024 U.S. Amway Business Reference Guide defines the Founders Triple Diamond destination as **10+ Founders Platinum groups in width plus 52 Qualification Credits in depth**; Triple Diamond itself is 10+ FP groups plus 43 QCs. The 52 figure is Qualification Credits, not 52 Platinum organizations. The daily sheet should therefore track personal inputs, duplication, FP-group development, and QCs as separate layers—not 52-fold personal heroics.
 
+The useful design is not a maximal dashboard—a beloved Lyle species—but a compact feedback instrument. Its baseline annual covenant is defined in [[Business/LTD Amway/Founders Triple Diamond Work Requirement Model]]: 250 active workdays, 2,500 conversations, 750 opened doors, 200 booked MG1s, 120 run MG1s, and 12 personal sponsors, with one eventual Platinum-bearing group expected from each 12-person sponsor cohort.
+
+The sheet should track:
 - New conversations
 - Opening-the-door conversations
 - MG1s booked / run

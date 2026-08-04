@@ -3,7 +3,11 @@ date: 2026-07-12
 type: operating-metric
 business: LTD / Amway
 status: rough-activity-standard
-source: Lyle Telegram note + 2026-07-11 field benchmark document
+source:
+  - Lyle Telegram note
+  - 2026-07-11 field benchmark document
+  - Research/raw/documents/Amway-Business-Reference-Guide-USEN-2024-09.pdf
+  - Research/raw/transcripts/2024-09-amway-business-reference-guide-global-award-recognition-extract.md
 ---
 
 # Platinum / 7500PV Activity Math
@@ -62,6 +66,47 @@ Therefore, finding the **three core legs** that carry a Platinum-shaped business
 - **Year 2:** Develop those builders in depth until the organization takes a Platinum shape.
 
 The working expectation is approximately **two years from a standing start**, assuming the baseline activity is sustained.
+
+## Triple Diamond formal qualification
+
+The September 2024 U.S. [[Research/raw/transcripts/2024-09-amway-business-reference-guide-global-award-recognition-extract|Amway Business Reference Guide]] corrects the earlier conversational shorthand. Executive Diamond and above use two distinct units:
+
+- **Width:** sponsored **Founders Platinum (FP) Groups**
+- **Depth:** **Qualification Credits (QC)** under the Global Award Recognition schedule
+
+| Award | Minimum FP Groups | Required QC | Maximum QC per group tier |
+|---|---:|---:|---:|
+| Triple Diamond | **10+** | **43** | Up to 9 |
+| Founders Triple Diamond | **10+** | **52** | Up to 9 |
+
+Therefore, the canonical target previously described as “10 Platinum legs wide with 52 Platinums in depth” must be stated more precisely:
+
+> **Founders Triple Diamond = at least 10 Founders Platinum groups in width plus 52 Qualification Credits in depth.**
+
+The 52 figure is **not 52 Platinum organizations**, and one Platinum does not universally equal one QC. Qualification Credits are governed by the official schedule and per-group caps; a Founders Platinum can contribute credits subject to those rules, and contributing more than one requires the relevant multiple business to be an Emerald Bonus Recipient in its local market.
+
+Accordingly, the previous extrapolations of 52 × 7500PV, 2,600 seats, 156 core builders, 624–780 sponsors, and 4,160 monthly MG1s are withdrawn. They multiplied unlike units and were not supported by the official plan. The 7500PV activity model remains useful for developing an individual Platinum-shaped organization; the higher-pin model must separately track FP-group width and Qualification Credits.
+
+## Ratio evidence currently recorded
+
+Several related ratios are preserved, but the vault does **not** attribute a sponsored-batch-to-Platinum conversion directly to Josh Gordon:
+
+- **Josh Gordon, 2026-06-13 Night Owl, 01:46:** out of 10 people contacted, roughly **2 are hungry and 8 are not**. This is a prospect-hunger/filtering ratio, not a sponsor-to-Platinum ratio.
+- **NM Platinum field benchmark, supplied 2026-07-11:** out of every 4 sponsored people, **1 quits, 1 remains for culture without building, 1 incubates, and 1 actively runs**. It estimates **12–15 sponsors** to find three core legs. The preserved source does not name the original speaker.
+- **Ethan Ellenberg, 2026-06-11:** a Platinum-sized organization of roughly 40 people has **3–4 people showing the plan**, and approximately **1 of those 4 plan-showers** goes Platinum. This is a plan-shower-to-Platinum heuristic, not a ratio across every registrant.
+- **Chris Colgrove, 2026-07-02:** out of 100 annual signups, approximately **10–15 stay**; a Platinum team is roughly 50 volume-producing IBOs with **3–4 plan-showers, 1–2 getting results, and 1 making a two-year commitment**. He also noted that fewer than 1% of all registrants go Platinum, while warning that inactive registrations heavily distort that denominator.
+
+The likely remembered “Josh Gordon ratio” is therefore either the **2 hungry out of 10 contacts** rule or an unrecorded talk. The most direct conversion model currently in the vault is the unnamed NM four-person sponsor funnel, supplemented by Ethan's one-in-four plan-shower heuristic.
+
+## Personal sponsorship planning math for 10 FP groups
+
+Lyle's user-confirmed working model now supersedes the earlier 60–160 scenario range:
+
+> **12 personal sponsors in a baseline year → 3 quit / 3 stick / 3 do something / 3 run hard → 1 of the hard runners eventually produces a Platinum-bearing group.**
+
+The Platinum may appear in depth; the personally sponsored individual does not have to qualify personally. At this one-in-twelve planning conversion, ten FP-bearing width groups require an expected **120 personal sponsors**. The complete daily, weekly, annual, stretch-year, cumulative, and maturity-lag calculations are maintained in [[Founders Triple Diamond Work Requirement Model]].
+
+The baseline personal covenant is **12 sponsors/year** from 250 active workdays; **16 sponsors/year** is the stretch case. This is a user-confirmed field-planning heuristic, not an official Amway conversion guarantee.
 
 ## Interpretation
 

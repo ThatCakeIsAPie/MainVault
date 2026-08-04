@@ -66,3 +66,5 @@ God → wife → kids → business → everything else.
 
 - [[faleth/bridge-strategy/automation-services-2026]]
 - [[research/business/vxe/full-time-transition-research-2026]]
+- [[faleth/mindset/wholeness-over-unidimensional-perfection-2026]] — hell-month as bounded unidimensional sprint inside a portfolio life
+- [[concepts/offshoots/portfolio-life-as-antifragile-strategy]]

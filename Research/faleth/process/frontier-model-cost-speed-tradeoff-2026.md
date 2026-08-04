@@ -1,7 +1,7 @@
 ---
 title: Frontier Model Cost-Speed Tradeoff (SWE-1.7 signal, 2026)
 created: 2026-07-09
-updated: 2026-07-27
+updated: 2026-08-04
 type: principle
 tags: [ai, llm, inference, strategy, systems, leverage]
 sources:
@@ -17,6 +17,9 @@ sources:
   - raw/x-bookmarks/2026-07-24/2080645121096241521.md
   - raw/x-bookmarks/2026-07-25/2080955069755711878.md
   - raw/x-bookmarks/2026-07-26/2081347811140841487.md
+  - research/raw/transcripts/lyle-x-share-2082629254731440546.md
+  - research/raw/transcripts/lyle-x-share-2082808601765093698.md
+  - raw/x-bookmarks/2026-08-02/2084006770704302437.md
 confidence: medium
 ---
 
@@ -50,6 +53,8 @@ Two related signals sharpen the architecture behind the cost-speed rule:
 
 For Lyle's stack, the practical portfolio remains: strong orchestrator for decomposition and review, fast coding specialist for implementation, and tool-grounded verification as the stop condition. Provider labels may change; those roles should not. This extends [[faleth/process/agentic-loops-design-2026]] and keeps local/cloud optionality compatible with [[faleth/process/local-model-ownership-agency-2026]].
 
+A four-DGX-Spark operator post proposes **GLM 5.2 as orchestrator and DeepSeek V4 Flash as worker**, reinforcing role-specialized routing on owned hardware. Its attached diagram, however, labels one DeepSeek node and three GLM nodes in a way that does not cleanly match the prose, and it provides no workload, quality, throughput, or cost measurements. Preserve the architecture hypothesis; do not preserve “hard to beat” as a benchmark result. [[raw/x-bookmarks/2026-08-02/2084006770704302437]]
+
 ## Cursor SQLite swarm economics (2026-07-20)
 
 Cursor's vendor-reported SQLite reconstruction experiment provides a much stronger job-level signal than model launch positioning. Its new swarm reportedly reached similar eventual functional quality across model mixes while named total costs ranged from **$1,339** for an Opus 4.8 planner + Composer 2.5 worker hybrid to **$10,565** for GPT-5.5 alone. Cursor's X headline described a wider 15× model-mix spread. Workers carried at least 69% of tokens and over 90% in most runs; reported worker spend was $9,373 for GPT-5.5 versus $411 for Composer under the Opus planner.
@@ -73,6 +78,18 @@ Three operator/vendor posts reinforce that a model name is not a complete deploy
 - MiaAI_lab maps different Qwen3.6-27B quantizations to RTX 3090, RTX 5090, dual-GPU, and DGX Spark/RTX 6000 Pro configurations. This is a useful deployment recipe, but “one of the best local coding models” and “near-lossless” remain source claims until tested on Lyle's workloads. [[raw/x-bookmarks/2026-07-26/2081347811140841487]]
 
 The durable decision rule is therefore: select **model + precision/format + runtime + hardware + workload** as one system. Compare accepted-result quality, latency, concurrency, memory headroom, energy/capital cost, and operational burden. A theoretically better model in the wrong format can be less useful than a smaller model with a native, well-supported deployment path. This extends [[faleth/process/local-model-ownership-agency-2026]] without changing the current cloud-first cash-timing priority.
+
+A subsequent single-DGX-Spark operator report adds a concrete memory heuristic: keep weights below roughly **80 GB** on the 128 GB system so KV cache, long context, speculative decoding, runtime workspace, and the operating system retain 35–45 GB of headroom. The exact cutoff and reported throughput remain workload-specific, and NVIDIA-native NVFP4 recipes do not transfer directly to AMD Strix Halo. See [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] for the commissioning and cross-platform rule.
+
+## Subscription subsidies can dominate API list pricing (Cursor Pro, 2026-07-30)
+
+MiaAI_lab reports consuming **648,015,199 tokens** through Cursor + Grok 4.5 while the screenshot shows the $20/month Pro plan's Cursor Models allowance at 97%. The same screenshot shows the separate Other Models bucket at 0% and says the plan includes “at least $20 of API usage.” This makes the bundle's apparent fixed-price work capacity exceptional, especially if the separate allowance remains available for models outside Cursor's subsidized pool. [[research/raw/transcripts/lyle-x-share-2082808601765093698]]
+
+The comparison needs discipline: this is a self-reported token total, not audited equivalent API spend. Cached input, input/output mix, internal accounting, model-specific inference cost, and temporary promotional economics can inflate the apparent list-price value. Nor does the screenshot establish that the $20 allowance is a fungible external API credit; it establishes included usage inside Cursor.
+
+At xAI's official Grok 4.5 rates checked on 2026-07-30—**$2/M input, $6/M output, $0.30/M cached input**, with standard prices doubling for prompts of at least 200,000 tokens—the 648,015,199-token report corresponds to about **$1,555** at a 90/10 input-output mix, **$1,814** at 80/20, or **$2,074** at 70/30. Even the artificial all-cache-read floor is about **$194**; an 80/20 long-context case is about **$3,629**. The ordinary blended estimate therefore implies roughly **78–104×** the $20 subscription price. [Official model pricing](https://docs.x.ai/developers/models/grok-4-5)
+
+The operational rule is still powerful: optimize for **accepted work per subscription dollar**. Route high-volume executor work into unusually subsidized model pools; preserve flexible premium quota for tasks where it changes outcomes; keep the harness provider-swappable because product subsidies can disappear much faster than architecture should. In other words, enjoy the buffet, but do not redesign the kitchen around the restaurant never changing its menu.
 
 ## Faleth / Hermes implications
 

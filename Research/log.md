@@ -5,6 +5,17 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-07-30] ingest | DGX Spark and Strix Halo unified-memory inference budget
+- Raw source: [[raw/transcripts/lyle-x-share-2082629254731440546]]
+- Created: [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]]
+- Updated: [[faleth/process/frontier-model-cost-speed-tradeoff-2026]], [[index]], and Telegram X shares log
+- Preserved the operator's ~80 GB DGX Spark weight ceiling as a commissioning heuristic, not a universal hardware fact; separated NVIDIA NVFP4/CUDA recipes from AMD Strix Halo GGUF/ROCm/Vulkan paths
+
+## [2026-07-29] ingest | Hermes streaming TTS stack fit
+- Raw source: [[raw/transcripts/lyle-x-share-2082339029375426914]]
+- Updated: [[faleth/process/delta-phone-interface-grok-voice-hermes-2026]] with native Desktop/CLI voice before phone/SIP sequencing
+- Verified current Hermes stack resolves the xAI streaming provider; retained Edge sentence-level playback as the zero-cost fallback
+
 ## [2026-05-14] create | Wiki initialized
 - Domain: General (AI/ML, business, philosophy, technology, theology, whatever comes up)
 - Location: /home/lylecole4/Documents/Main Vault/Research/
@@ -650,3 +661,90 @@
 - Updated `index.md` for the four newly created pages.
 - Skipped concept synthesis for nine low-evidence or non-durable items: satire, memes, reaction images, an unidentified site demo, an image-only solution, and an incomplete Monero/Tor vulnerability claim awaiting primary-source details.
 - Retrieval notes: X API media expansion and local OCR/transcription succeeded; general web search was unavailable because the configured provider reported depleted credits.
+
+## [2026-07-30] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 44 were already processed; ingested all 6 new bookmarks.
+- Created immutable raw sources:
+  - `raw/x-bookmarks/2026-07-28/2082123925283041545.md`
+  - `raw/x-bookmarks/2026-07-30/2082629254731440546.md`
+  - `raw/x-bookmarks/2026-07-29/2082463988953367031.md`
+  - `raw/x-bookmarks/2026-07-29/2082339029375426914.md`
+  - `raw/x-bookmarks/2026-07-29/2082467621220307445.md`
+  - `raw/x-bookmarks/2026-07-29/2082509593280688317.md`
+- Updated durable wiki pages:
+  - `faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026.md` — linked the bookmark provenance for the 80 GB DGX Spark weight-budget heuristic and repaired tags to the schema taxonomy.
+  - `faleth/process/local-model-ownership-agency-2026.md` — added the Kimi K3 1-bit quantization signal and distinguished artifact size from practical memory residency and serving performance.
+  - `faleth/process/delta-phone-interface-grok-voice-hermes-2026.md` — added native Hermes wake-word activation and linked streaming-TTS bookmark provenance.
+- `index.md` unchanged because no new wiki pages were created.
+- Skipped concept synthesis for the rumored Grok 4.6/4.7 release schedule and White House COVID-origins link: both are durable subjects but these single promotional/political posts are insufficient evidence for a defensible page.
+
+## [2026-07-31] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 43 were already processed; ingested all 7 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-07-30/2082909527515779164.md`
+  - `raw/x-bookmarks/2026-07-29/2082578552948400144.md`
+  - `raw/x-bookmarks/2026-07-30/2082864166960877718.md`
+  - `raw/x-bookmarks/2026-07-29/2082430003460166142.md`
+  - `raw/x-bookmarks/2026-07-12/2076345051198984637.md`
+  - `raw/x-bookmarks/2026-07-30/2082854011460518352.md`
+  - `raw/x-bookmarks/2026-07-29/2082570290828304553.md`
+- Created linked primary-source captures:
+  - `raw/articles/2026-07-31-waste-inference-engine-readme.md`
+  - `raw/articles/2026-07-31-audio8-tts-preview-readme.md`
+  - `raw/articles/2026-07-31-hermes-flightplan-2-always-on-cloud.md`
+- Updated durable wiki pages:
+  - `faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026.md` — added WASTE's storage-tier MoE proof point, measured constraints, and feasibility-versus-usability boundary.
+  - `faleth/process/delta-phone-interface-grok-voice-hermes-2026.md` — grounded the Audio8-versus-Kokoro choice in the official preview documentation and retained Raspberry Pi voice appliances as a post-validation packaging option.
+  - `faleth/process/hermes-cloud-and-x-mcp-2026.md` — added the one-runtime/multiple-interface Cloud pattern and inspectable Desktop subagent supervision.
+- `index.md` unchanged because no new wiki pages were created.
+- Skipped standalone concept synthesis for the bot-humor screenshot and the one-line Audio8/Kokoro question; the former is a passing joke, while the latter was used only to route evidence into the existing Delta voice page.
+- Verification: all 10 new raw-source SHA-256 values matched their bodies; X OAuth/read reachability succeeded. X article retrieval and image OCR succeeded; the configured web extractor was unavailable, so primary GitHub READMEs were captured directly instead.
+
+## [2026-08-02] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 48 were already processed; ingested both 2 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-01/2083652162450538507.md`
+  - `raw/x-bookmarks/2026-08-01/2083372797456458077.md`
+- Updated durable wiki page:
+  - `faleth/process/text-to-cad-as-engineering-compiler-2026.md` — added headless, agent-callable CAD as the reliable execution substrate, while marking the unreleased tool's “full featured” and open-source claims as unverified.
+- Updated `log.md` with this ingest record; `index.md` unchanged because no new wiki page was created.
+- Skipped concept synthesis for the marriage/date-idea post because the captured text cuts off before the promised 42-item list; retained it only as immutable raw evidence rather than manufacturing wisdom from a sentence fragment. A heroic act of restraint, apparently.
+
+## [2026-08-03] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 45 were already processed; ingested all 5 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-02/2083794337586974823.md`
+  - `raw/x-bookmarks/2026-08-02/2083751868132454668.md`
+  - `raw/x-bookmarks/2026-08-02/2084065915004747888.md`
+  - `raw/x-bookmarks/2026-08-02/2083940637921943803.md`
+  - `raw/x-bookmarks/2026-08-01/2083458624202944694.md`
+- Updated durable wiki pages:
+  - `concepts/offshoots/portfolio-life-as-antifragile-strategy.md` — linked the immutable bookmark provenance and normalized frontmatter tags/source paths.
+  - `faleth/process/agentic-loops-design-2026.md` — added harness reliability as model leverage and node graphs as workflow observability, while normalizing the page to schema frontmatter.
+- Updated `log.md` with this ingest record and updated the processed-ID ledger after verification.
+- `index.md` unchanged because this ingest created no new wiki pages.
+- Skipped standalone synthesis for the viral “method” video and truncated “I got a guy” joke: neither captured enough defensible durable substance. The two useful visual posts were routed into the existing agentic-loops page instead of breeding more tiny pages.
+- Verification: X OAuth/read reachability succeeded; all 5 raw-source SHA-256 values matched their bodies.
+
+## [2026-08-04] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 45 were already processed; ingested all 5 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-03/2084164823638519843.md`
+  - `raw/x-bookmarks/2026-08-02/2083705845670650195.md`
+  - `raw/x-bookmarks/2026-08-02/2084006770704302437.md`
+  - `raw/x-bookmarks/2026-08-02/2083759818133688517.md`
+  - `raw/x-bookmarks/2026-08-02/2083783390453751898.md`
+- Created durable wiki page:
+  - `faleth/process/ocr-gated-pdf-ingestion-pipelines-2026.md` — cheap native-text classification and extraction before page-selective OCR, with corpus-specific acceptance tests.
+- Updated durable wiki pages:
+  - `faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026.md` — added the DeepSeek V4 Flash quant ladder and separated conservative operating headroom from maximum loadable artifact size.
+  - `faleth/process/frontier-model-cost-speed-tradeoff-2026.md` — added the four-Spark GLM/DeepSeek role-routing hypothesis while flagging the prose/diagram mismatch and absent benchmark.
+  - `index.md` — listed the new OCR-gated PDF page and bumped the date.
+  - `log.md` — this ingest record.
+- Raw-only/skipped wiki: the salary/dreams image was an unattributed motivational aphorism overlapping existing career-identity material; the Steve Jobs MIT video wrapper supplied no transcript, primary archive, or extractable claims.
+- Verification context: X OAuth/read reachability succeeded; official API expansions recovered Note Tweets, quoted-post context, media URLs, and the pdf-inspector repository. Local OCR recovered the attached image text and exposed the four-Spark diagram mismatch. Vendor performance claims remain independently unverified.

@@ -171,3 +171,21 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-07-29
 - Targeted strict-window RSS returned zero items; no Amway/LTD compensation, IDS, enforcement, or leadership-compliance change surfaced. Directly inspected FTC guidance still requires substantiated typical net-outcome framing and says “results not typical” is not enough to cure atypical earnings impressions ([FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing); background). Signal: **weak** for novelty, **strong** for durable context.
+
+### 2026-07-30
+- The targeted feed returned only an unrelated tobacco-regulator item; no Amway/LTD compensation, IDS, enforcement, or leadership-compliance change surfaced. Direct FTC inspection again confirmed that typical participant revenue and expenses must be clear and substantiated and that “results not typical” is insufficient, including in video/audio ads ([FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing); background). Signal: **weak** for novelty, **strong** for durable context.
+
+### 2026-07-31
+- A current Australian ABC headline criticized a shampoo direct-selling business, but the underlying article remained unopened/RSS-snippet-level. No Amway/LTD compensation, IDS, enforcement, or official compliance change surfaced. Direct FTC inspection again confirmed typical net-outcome, expense, evidence, and adjacent multimedia-disclosure requirements ([FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing)). Signal: **weak** for novelty, **strong** for durable context.
+
+### 2026-08-01
+- Targeted strict-window RSS was acronym/financial-disclosure noise, and no Amway/LTD compensation, IDS, enforcement, or official leadership-compliance change surfaced. Maintain separate controls for job, investment, earnings, limited-hours, recruiting, health, lifestyle, and synthetic-testimonial claims ([FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing), [Amway IDS](https://www.amway.com/en_US/income-disclosure) — background). Signal: **weak** for novelty, **strong** for durable context.
+
+### 2026-08-02
+- Targeted strict-window RSS again returned unrelated tax/income-disclosure noise, and X returned only generic MLM promotion. No Amway/LTD compensation, IDS, enforcement, or official leadership-compliance change surfaced. Maintain product/customer value, typical net-results/expenses, approved claims, IDS linkage, and human review ([FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing), [Amway IDS](https://www.amway.com/en_US/income-disclosure) — background). Signal: **weak** for novelty, **strong** for durable context.
+
+### 2026-08-03
+- Targeted RSS returned zero items; no Amway/LTD compensation, IDS, enforcement, or official compliance change surfaced. X promoted Cordelys as a compliance-first supplement-network-marketing operations platform spanning onboarding, fulfillment, commissions, and cold-recruit alerts. Treat it as competitor/MVP signal, not customer proof or regulatory authority; refine the LTD Compliance-Safe Leadership OS with claim categories, approved sources, expense/typical-results context, human disposition, and review receipts ([Cordelys X post](https://x.com/polsia/status/2083949925310832682), [FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing) — background). Signal: **weak–medium** for product direction, **weak** for official novelty.
+
+### 2026-08-04
+- Targeted RSS returned zero items, and X was fragmented into generic legitimacy/definition debates. No Amway/LTD compensation, IDS, enforcement, Rules, or official compliance change surfaced. Maintain product/customer-value, typical-net-results/expenses, official IDS, approved-claims, and human-review discipline ([FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing), [Amway IDS](https://www.amway.com/en_US/income-disclosure) — background). Signal: **weak** for novelty, **strong** for durable context.

@@ -7,6 +7,7 @@ tags: [ai, ml, open-source, leverage, software, infrastructure]
 sources:
   - research/raw/x-bookmarks/2026-07-10/2070980335157047691.md
   - raw/x-bookmarks/2026-07-25/2081060081278558271.md
+  - raw/x-bookmarks/2026-07-29/2082463988953367031.md
 confidence: medium
 ---
 
@@ -28,6 +29,12 @@ A July 2026 single-stream benchmark from @sudoingX reports a 1-bit Bonsai 27B qu
 
 Treat these as a practitioner benchmark, not a vendor-independent result: speed depends on custom 1-bit kernels, llama.cpp fork/build, prompt length, cache state, and workload. The durable signal is that extreme quantization plus hardware-aware kernels can move agent-capable local inference onto commodity GPUs; the exact numbers still require reproduction on the intended stack.
 
+## Kimi K3 quantization signal
+
+Unsloth reports shrinking a Kimi K3 artifact from **1.56 TB to 594 GB** with a 1-bit quantization while retaining roughly **78.9% accuracy**, and advertises a local Mac Studio workflow. This is a useful frontier signal for open-weight compression, but not evidence that the entire 594 GB artifact resides in a 128 GB Mac's unified memory: the post does not specify offloading, storage streaming, active experts, runtime, context, throughput, or the benchmark behind “accuracy.” Treat “can run locally” as a deployment claim awaiting a complete memory-and-speed recipe, not as shorthand for practical interactive serving. [[raw/x-bookmarks/2026-07-29/2082463988953367031]]
+
+The procurement lesson matches [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]]: artifact size alone cannot establish operational usability; require the exact hardware, quantization, runtime, residency/offload strategy, context, and measured tokens per second.
+
 ## Faleth take
 
 - Lyle’s stack is currently **Hermes + multi-provider cloud models** (Grok, GPT, etc.) for leverage during cash timing — correct default.
@@ -40,6 +47,7 @@ Treat these as a practitioner benchmark, not a vendor-independent result: speed 
 - X bookmark @sudoingX (2026-06-27), batch 2026-07-10.
 - Raw: [[research/raw/x-bookmarks/2026-07-10/2070980335157047691]]
 - Raw benchmark: [[raw/x-bookmarks/2026-07-25/2081060081278558271]]
+- Raw Kimi K3 claim: [[raw/x-bookmarks/2026-07-29/2082463988953367031]]
 
 ## Related
 
