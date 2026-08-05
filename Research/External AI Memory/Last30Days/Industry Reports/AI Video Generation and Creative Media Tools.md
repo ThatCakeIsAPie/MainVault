@@ -190,3 +190,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-04
 - Direct inspection of H3's August 2 community license found that the standard open-weight grant excludes the U.S., EU, UK, and South Korea; separate authorization is required there, and commercial products over $20M annual revenue also need written authorization. For FRR, benchmark an authorized hosted/API route rather than planning local U.S. deployment ([official license](https://huggingface.co/MiniMaxAI/MiniMax-H3/blob/main/LICENSE)). Signal: **strong** for licensing; local-hardware enthusiasm has met paperwork, its natural predator.
+
+### 2026-08-05
+- Autodesk officially launched Flow Studio 3D Editor + Canvas for editable 3D scene blocking, camera/animation direction, and node-based AI rendering; VEED's public OpenEdit repo packages prompt-driven editing for coding agents. Creative advantage is shifting from generation access toward directable scenes, reusable references, editability, approval, and complete-asset outcomes ([Autodesk](https://adsknews.autodesk.com/en/news/direct-ai-3d-editor-canvas-flow-studio/), [OpenEdit](https://github.com/veedstudio/open-edit)). Signal: **strong** for official/public product direction, **medium** for the broader workflow shift.

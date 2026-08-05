@@ -200,3 +200,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-04
 - Guidewire's Qusar release made a governed, model-agnostic Agentic Framework generally available with native policy/claims/billing integration. This strengthens the vertical-agent thesis: system-of-record access, permissions, domain schema, workflow events, acceptance tests, audit receipts, handoff, and stop authority are the product—not generic chat ([Guidewire release](https://ir.guidewire.com/news-releases/news-release-details/guidewire-introduces-qusar-release-help-insurers-build-and)). Signal: **strong** for the official launch, **medium** for the broader direction.
+
+### 2026-08-05
+- SailPoint officially launched unified identity security for human, machine, and AI-agent identities, reinforcing discovery, accountable ownership, least privilege, lifecycle certification, behavioral monitoring, and stop controls as production-agent requirements. Add unique identity, credential source, owner, allowed tools/data/egress, just-in-time access, acceptance test, incident trigger, rollback, and kill authority to Faleth's agent registry ([official release](https://www.sailpoint.com/press-releases/sailpoint-identity-security-solution)). Signal: **strong** for the launch, **medium** for the broader direction.

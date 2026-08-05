@@ -190,3 +190,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-04
 - A congressional tour of employee-owned Butler County companies raised visibility, while India-specific ESOP tax chatter did not supply a U.S. governance mechanism. Preserve explicit separation among compensation, profit participation, ownership vehicle, control, eligibility, vesting, valuation, liquidity, information rights, fiduciary duty, formula-change authority, review, and appeal ([Butler Eagle](https://x.com/ButlerEagle/status/2084421591841079644), [India ESOP tax signal](https://x.com/tarunmallappa/status/2084104718167777552)). Signal: **medium–weak** for visibility, **weak** for mechanism novelty.
+
+### 2026-08-05
+- Current coverage amplified the July 17 Seventh Circuit *Rush v. GreatBanc* ESOP-sale ruling and Canadian EOT succession advocacy. The durable Faleth lesson is process evidence: independent fiduciary investigation, valuation, conflicts, board/trustee roles, fairness, participant economics, information rights, and review—not copying an ownership label ([case analysis](https://natlawreview.com/article/seventh-circuit-recognizes-deferential-standard-review-trustee-and-companys-board), [EOT signal](https://x.com/TonyLoffreda/status/2084763977133834597)). Signal: **medium** for legal/process context, **weak** for new mechanism design.

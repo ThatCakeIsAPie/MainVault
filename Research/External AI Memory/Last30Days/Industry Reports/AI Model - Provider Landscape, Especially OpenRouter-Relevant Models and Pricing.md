@@ -205,3 +205,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-04
 - Official API **~11:00 UTC**: **338 IDs**, exact diff **+1 / -0**. Added `qwen/qwen3.8-max` with **1M context** at **$2/$6/M**. Core stack pricing remains unchanged: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free`. Benchmark Qwen on accepted-result quality, tool use, latency, caching, and provider/data policy before routing changes ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
+
+### 2026-08-05
+- Official API **~11:00 UTC**: **338 IDs**, exact diff **0 additions / 0 removals**. Core stack pricing remains unchanged: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free`. No dependency migration today; continue Qwen3.8-Max benchmarking and accepted-result cost accounting ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
