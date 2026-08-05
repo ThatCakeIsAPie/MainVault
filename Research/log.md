@@ -748,3 +748,20 @@
   - `log.md` — this ingest record.
 - Raw-only/skipped wiki: the salary/dreams image was an unattributed motivational aphorism overlapping existing career-identity material; the Steve Jobs MIT video wrapper supplied no transcript, primary archive, or extractable claims.
 - Verification context: X OAuth/read reachability succeeded; official API expansions recovered Note Tweets, quoted-post context, media URLs, and the pdf-inspector repository. Local OCR recovered the attached image text and exposed the four-Spark diagram mismatch. Vendor performance claims remain independently unverified.
+
+## [2026-08-05] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 46 were already processed; ingested all 4 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-04/2084661711521366108.md`
+  - `raw/x-bookmarks/2026-08-04/2084645635815284821.md`
+  - `raw/x-bookmarks/2026-08-03/2084378415818579975.md`
+  - `raw/x-bookmarks/2026-08-04/2084473233684697461.md`
+- Updated durable wiki pages:
+  - `faleth/process/member-gated-compute-mesh-for-sovereign-agents-2026.md` — added Block's official Buzz/MeshLLM product signal and separated request routing from latency-sensitive layer splitting; normalized frontmatter to schema.
+  - `faleth/process/local-model-ownership-agency-2026.md` — added LFM2.5-2.6B as evidence that agent performance is harness-relative and requires task-level Hermes evaluation.
+  - `faleth/process/delta-phone-interface-grok-voice-hermes-2026.md` — added continuous full-duplex audio as a transport architecture independent of variable-latency reasoning and tools.
+  - `log.md` — this ingest record.
+- `index.md` unchanged because no new wiki page was created.
+- Raw-only/skipped wiki: Tanya's nostalgia/family post was truncated before its complete thought and linked only to a generic prompt; retaining it as source evidence avoids inventing the missing emotional conclusion.
+- Verification: all 4 raw-source SHA-256 values matched their bodies; X OAuth/read reachability succeeded. Product claims remain first-party and should be benchmarked before deployment.

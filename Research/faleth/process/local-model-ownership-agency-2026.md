@@ -1,13 +1,14 @@
 ---
 title: Local Model Ownership Agency (2026)
 created: 2026-07-10
-updated: 2026-07-29
+updated: 2026-08-05
 type: principle
 tags: [ai, ml, open-source, leverage, software, infrastructure]
 sources:
   - research/raw/x-bookmarks/2026-07-10/2070980335157047691.md
   - raw/x-bookmarks/2026-07-25/2081060081278558271.md
   - raw/x-bookmarks/2026-07-29/2082463988953367031.md
+  - raw/x-bookmarks/2026-08-04/2084645635815284821.md
 confidence: medium
 ---
 
@@ -35,6 +36,12 @@ Unsloth reports shrinking a Kimi K3 artifact from **1.56 TB to 594 GB** with a 1
 
 The procurement lesson matches [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]]: artifact size alone cannot establish operational usability; require the exact hardware, quantization, runtime, residency/offload strategy, context, and measured tokens per second.
 
+## Harness-native small agent model signal
+
+Liquid AI's August 2026 LFM2.5-2.6B release is notable less for another small local model and more for **training-environment fit**. Liquid AI says it ran agentic reinforcement learning through the Hermes Agent harness—including its tools, system prompts, and interaction patterns—so the model was optimized for the environment in which it is expected to act. The launch post describes on-device planning, tool calls, and multi-step work across phones, laptops, PCs, and robots, with private local execution and near-zero marginal inference cost. [[raw/x-bookmarks/2026-08-04/2084645635815284821]]
+
+This is a durable deployment lesson: model capability is partly **harness-relative**. A smaller model trained against the actual tool protocol and loop may outperform a nominally stronger generic model on bounded local tasks. It is not yet proof that LFM2.5-2.6B can replace Delta's frontier planner; require task-level Hermes evaluations covering tool selection, argument validity, recovery, completion, latency, and memory use. This complements [[faleth/process/agentic-loops-design-2026]] and [[faleth/process/frontier-model-cost-speed-tradeoff-2026]].
+
 ## Faleth take
 
 - Lyle’s stack is currently **Hermes + multi-provider cloud models** (Grok, GPT, etc.) for leverage during cash timing — correct default.
@@ -48,6 +55,7 @@ The procurement lesson matches [[faleth/process/unified-memory-inference-budget-
 - Raw: [[research/raw/x-bookmarks/2026-07-10/2070980335157047691]]
 - Raw benchmark: [[raw/x-bookmarks/2026-07-25/2081060081278558271]]
 - Raw Kimi K3 claim: [[raw/x-bookmarks/2026-07-29/2082463988953367031]]
+- Raw LFM2.5/Hermes claim: [[raw/x-bookmarks/2026-08-04/2084645635815284821]]
 
 ## Related
 

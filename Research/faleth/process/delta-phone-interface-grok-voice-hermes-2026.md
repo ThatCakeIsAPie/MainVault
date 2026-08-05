@@ -1,7 +1,7 @@
 ---
 title: Delta Phone Interface — Grok Voice over Hermes
 created: 2026-07-14
-updated: 2026-07-31
+updated: 2026-08-05
 type: principle
 tags: [ai, infrastructure, software, systems, leverage]
 sources:
@@ -15,6 +15,7 @@ sources:
   - raw/x-bookmarks/2026-07-30/2082864166960877718.md
   - raw/x-bookmarks/2026-07-29/2082570290828304553.md
   - raw/articles/2026-07-31-audio8-tts-preview-readme.md
+  - raw/x-bookmarks/2026-08-03/2084378415818579975.md
 confidence: high
 ---
 
@@ -117,6 +118,12 @@ The two architectures therefore serve different mobility envelopes:
 2. **Phone/SIP voice:** works while driving or away from a computer, but still needs a narrow remote bridge, telephony controls, and stricter confirmation boundaries.
 
 The correct sequence is now: prove native Hermes Desktop voice first; add phone/SIP only if Lyle repeatedly needs voice access away from the Desktop machine. This deletes a rather heroic amount of telephony engineering before proving the behavior is valuable.
+
+### Full-duplex reasoning without conversational stalls — 2026-08-03
+
+OpenAI's GPT-Live announcement adds a useful architecture signal: the voice stack can continue listening while speaking and keep audio flowing while deeper reasoning and tool use occur. The important pattern is **continuous transport decoupled from variable-latency cognition**. A natural agent should not freeze the audio session merely because a planner or tool call takes longer than one conversational beat. [[raw/x-bookmarks/2026-08-03/2084378415818579975]]
+
+For Delta, this strengthens the case for an event-driven voice edge with concurrent input, output, interruption handling, and asynchronous task state—not a serial `record → transcribe → think → speak` pipeline. It does not establish that OpenAI's proprietary stack should replace [[faleth/process/hermes-cloud-and-x-mcp-2026|Hermes]] or the Grok phone edge; the post supplies an architectural claim, not latency benchmarks, pricing, or integration details. The practical KPI is whether Lyle can interrupt, clarify, or continue talking while Delta's deeper work proceeds without losing conversational state.
 
 ### Local wake-word activation
 
