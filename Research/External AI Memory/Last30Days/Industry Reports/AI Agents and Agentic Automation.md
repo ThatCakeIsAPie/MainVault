@@ -203,3 +203,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-05
 - SailPoint officially launched unified identity security for human, machine, and AI-agent identities, reinforcing discovery, accountable ownership, least privilege, lifecycle certification, behavioral monitoring, and stop controls as production-agent requirements. Add unique identity, credential source, owner, allowed tools/data/egress, just-in-time access, acceptance test, incident trigger, rollback, and kill authority to Faleth's agent registry ([official release](https://www.sailpoint.com/press-releases/sailpoint-identity-security-solution)). Signal: **strong** for the launch, **medium** for the broader direction.
+
+### 2026-08-06
+- Meta released Muse Spark 1.2 with the Muse Code beta terminal agent, and OpenRouter added the 1M-context model at **$1.25/$4.25/M**. Persistent coding agents reinforce task/branch ownership, scoped tools/credentials, acceptance tests, independent verification, cost receipts, rollback, and stop authority; benchmark before promotion ([Meta](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2), [OpenRouter API](https://openrouter.ai/api/v1/models)). Signal: **strong** for availability, **medium** for the broader agent-work direction.

@@ -193,3 +193,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-05
 - Autodesk officially launched Flow Studio 3D Editor + Canvas for editable 3D scene blocking, camera/animation direction, and node-based AI rendering; VEED's public OpenEdit repo packages prompt-driven editing for coding agents. Creative advantage is shifting from generation access toward directable scenes, reusable references, editability, approval, and complete-asset outcomes ([Autodesk](https://adsknews.autodesk.com/en/news/direct-ai-3d-editor-canvas-flow-studio/), [OpenEdit](https://github.com/veedstudio/open-edit)). Signal: **strong** for official/public product direction, **medium** for the broader workflow shift.
+
+### 2026-08-06
+- TikTok integrated Dreamina Seedance 2.5 into Symphony for selected paid advertisers/markets, extending generated ads from 15 to 30 seconds and supporting up to 50 multimodal references plus timestamped direction. Generation, direction, API access, and distribution are converging; FRR should test one complete repair explainer against factual, edit-time, provenance, watch-through, inquiry, and booking metrics ([TikTok](https://ads.tiktok.com/business/en-US/blog/transforming-video-creation-tiktok-symphony-dreamina-seedance)). Signal: **strong** for official positioning.

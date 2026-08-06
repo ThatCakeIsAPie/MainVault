@@ -192,3 +192,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-05
 - Targeted RSS returned zero items, and X found no substantive Amway/LTD compensation, IDS, enforcement, Rules, or leadership-compliance change. Maintain product/customer-value, typical-net-results/expenses, official IDS, approved-claims, and human-review discipline ([FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing), [Amway IDS](https://www.amway.com/en_US/income-disclosure) — background). Signal: **weak** for novelty, **strong** for durable context.
+
+### 2026-08-06
+- Direct Selling News published current industry guidance on FTC earnings-claim exposure and IDS design: population inclusion, median/distribution reporting, expense context, training, monitoring, and enforcement. No Amway/LTD rule or compensation change surfaced. Add those fields plus reviewer/disposition receipts to the LTD content checklist ([DSN](https://www.directsellingnews.com/2026/08/05/dont-be-the-ftcs-next-target/), [FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing) — background). Signal: **medium** for industry guidance, **weak** for official novelty.
