@@ -765,3 +765,17 @@
 - `index.md` unchanged because no new wiki page was created.
 - Raw-only/skipped wiki: Tanya's nostalgia/family post was truncated before its complete thought and linked only to a generic prompt; retaining it as source evidence avoids inventing the missing emotional conclusion.
 - Verification: all 4 raw-source SHA-256 values matched their bodies; X OAuth/read reachability succeeded. Product claims remain first-party and should be benchmarked before deployment.
+
+## [2026-08-06] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 46 were already processed; ingested all 4 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-06/2085156837561893117.md`
+  - `raw/x-bookmarks/2026-08-05/2085018834528849974.md`
+  - `raw/x-bookmarks/2026-08-04/2084660790297051487.md`
+  - `raw/x-bookmarks/2026-08-04/2084669934194266370.md`
+- Created `faleth/process/local-multiformat-document-to-markdown-ingestion-2026.md` — local, format-normalized Markdown as a common evidence boundary for agent workflows; vendor benchmarks remain first-party.
+- Updated `faleth/mindset/action-without-audience-permission-2026.md` — added the Christ-centered correction that public approval is not a reliable authority for truth, obedience, or worthy work.
+- Updated `index.md` for the new multiformat-ingestion page.
+- Raw-only/skipped wiki: the Mike Tyson-style workout clip supplied a movement demo but no evidence for 200 daily repetitions or promised one-month changes.
+- Retrieval: X OAuth/read succeeded; official media expansion plus local frame OCR recovered both video-only posts; the upstream anydoc README grounded format, interface, benchmark, and limitation details.
