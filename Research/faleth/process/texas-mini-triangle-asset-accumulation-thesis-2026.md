@@ -2,7 +2,7 @@
 type: strategy-thesis
 title: Texas Mini-Triangle Asset Accumulation Thesis
 created: '2026-08-06T18:55:23+00:00'
-updated: '2026-08-06T18:55:23+00:00'
+updated: '2026-08-06T19:06:57+00:00'
 status: emerging-thesis
 confidence: directional-not-underwritten
 source:
@@ -51,6 +51,30 @@ Before treating a parcel as an asset rather than an attractively photographed li
 8. **Exit depth:** More than one plausible future buyer or operator.
 9. **Productive use:** Agriculture, storage, industrial yard, housing, energy, operating-company site, or another way to offset carry.
 10. **Price discipline:** Compare against local income, rents, replacement cost, comparable acreage, and infrastructure cost rather than assuming every cheap acre converges to metro pricing.
+
+## 2026 price baseline
+
+Texas A&M's verified-transaction data through Q1 2026 puts the broad rural regions intersecting the mini-triangle at **$8,028/acre for Austin–Waco–Hill Country**, **$8,960/acre for Northeast Texas**, and **$11,698/acre for Gulf Coast–Brazos Bottom**. These are moving regional medians for large rural tracts, not parcel-specific appraisals.
+
+Current undeveloped-land asking medians are higher and more local: Limestone **$9,928/acre**, Freestone **$11,050**, Robertson **$11,498**, Falls **$11,868**, Navarro **$12,500**, Milam **$15,000**, Madison **$16,503**, and Burleson **$18,279**. Asking prices are not closed-sale prices, and small subdivided tracts usually carry a substantial per-acre premium.
+
+The initial acquisition search band should therefore treat roughly **$8,000–$12,000 per acre** as the present central-interior baseline for larger, genuinely rural tracts. Pricing of **$15,000–$18,000+ per acre** indicates that Austin/College Station spillover, tract subdivision, utilities, frontage, or development expectations are already being capitalized.
+
+### Forty-year scenario frame
+
+At a $10,000/acre basis, forty years of nominal appreciation would produce approximately **$32,620/acre at 3%**, **$70,400 at 5%**, or **$149,745 at 7%** annual growth. These are sensitivity cases, not forecasts. The real return must be measured after inflation, property tax, maintenance, financing, transaction costs, and any income produced by the land.
+
+### Price sources
+
+- [Texas A&M Texas Rural Land Markets — Q1 2026](https://trerc.tamu.edu/reports/texas-rural-land-markets-first-quarter-2026/)
+- [Limestone County undeveloped listings](https://www.land.com/Limestone-County-TX/undeveloped-land/)
+- [Falls County undeveloped listings](https://www.land.com/Falls-County-TX/undeveloped-land/)
+- [Robertson County undeveloped listings](https://www.land.com/Robertson-County-TX/undeveloped-land/)
+- [Freestone County undeveloped listings](https://www.land.com/Freestone-County-TX/undeveloped-land/)
+- [Navarro County undeveloped listings](https://www.land.com/Navarro-County-TX/undeveloped-land/)
+- [Milam County undeveloped listings](https://www.land.com/Milam-County-TX/undeveloped-land/)
+- [Madison County undeveloped listings](https://www.land.com/Madison-County-TX/undeveloped-land/)
+- [Burleson County undeveloped listings](https://www.land.com/Burleson-County-TX/undeveloped-land/)
 
 ## Geographic research frame
 
