@@ -211,3 +211,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-06
 - Official API **~11:00 UTC**: **340 IDs**, exact diff **+2 / -0**. Added `meta/muse-spark-1.2` (**$1.25/$4.25/M**, 1M context) and `inclusionai/ling-3.0-flash` (**$0.075/$0.22/M**). Core stack pricing remains unchanged: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free`. Benchmark Muse for coding and Ling for triage before any route change ([API](https://openrouter.ai/api/v1/models), [Meta](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)). Signal: **strong**.
+
+### 2026-08-07
+- Official API **~11:00 UTC**: **400 IDs**, exact diff **+61 / -1**. Added **60 `:batch` routes** plus `inclusionai/ling-3.0-tiny:free`; removed `inclusionai/ling-3.0-flash:free`. Ling Flash paid pricing fell to **$0.021/$0.063/M** (72.0%/71.4% lower than yesterday). Core non-batch stack remains unchanged; Sonnet 5 batch is **$1/$5/M** and GPT-5.5 batch **$2.50/$15/M**. Treat batch as preflighted spot capacity with a tested non-batch fallback ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
