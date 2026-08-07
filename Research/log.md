@@ -779,3 +779,16 @@
 - Updated `index.md` for the new multiformat-ingestion page.
 - Raw-only/skipped wiki: the Mike Tyson-style workout clip supplied a movement demo but no evidence for 200 daily repetitions or promised one-month changes.
 - Retrieval: X OAuth/read succeeded; official media expansion plus local frame OCR recovered both video-only posts; the upstream anydoc README grounded format, interface, benchmark, and limitation details.
+
+## [2026-08-07] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 47 were already processed; ingested all 3 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-06/2085413416353538176.md`
+  - `raw/x-bookmarks/2026-08-06/2085411664568914182.md`
+  - `raw/x-bookmarks/2026-08-06/2085321846379925689.md`
+- Created `faleth/mindset/eschatology-shapes-present-stewardship-2026.md` — future expectations shape present posture; preserved the screenshot's Christ/redemption/hope frame while marking the interpretation contested and low-confidence.
+- Updated `faleth/process/texas-mini-triangle-asset-accumulation-thesis-2026.md` — linked the independent bookmark provenance and normalized frontmatter/tags to the wiki schema.
+- Updated `index.md` for the new eschatology page.
+- Raw-only/skipped wiki: the refrigerator coffee-table video is an appealing product demo but supplied no manufacturer, specifications, price, or defensible general principle. Furniture remains undefeated at becoming appliances for no obvious reason.
+- Verification: X OAuth/read reachability succeeded; official media expansion plus local OCR/frame inspection recovered the image text and video context. The Texas transport map and Terafab render remain proposals/promotional evidence, not funded-buildout proof.

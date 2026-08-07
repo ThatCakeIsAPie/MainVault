@@ -1,18 +1,14 @@
 ---
-type: strategy-thesis
 title: Texas Mini-Triangle Asset Accumulation Thesis
-created: '2026-08-06T18:55:23+00:00'
-updated: '2026-08-06T19:06:57+00:00'
-status: emerging-thesis
-confidence: directional-not-underwritten
-source:
-  - https://x.com/i/status/2085411664568914182
-tags:
-  - faleth
-  - asset-accumulation
-  - texas-triangle
-  - real-estate
-  - long-term-strategy
+created: 2026-08-06
+updated: 2026-08-07
+type: concept
+tags: [strategy, finance, infrastructure, operations]
+sources:
+  - raw/transcripts/lyle-x-share-2085411664568914182.md
+  - raw/x-bookmarks/2026-08-06/2085411664568914182.md
+confidence: medium
+contested: true
 ---
 
 # Texas Mini-Triangle Asset Accumulation Thesis
@@ -104,4 +100,10 @@ The X post’s “mini-triangle” transport network is a proposal, not a verifi
 ## Source
 
 - [[research/raw/transcripts/lyle-x-share-2085411664568914182]]
+- [[raw/x-bookmarks/2026-08-06/2085411664568914182]]
 - [YIMBYLAND post](https://x.com/i/status/2085411664568914182)
+
+## Related
+
+- [[entities/faleth-capital]]
+- [[concepts/offshoots/asset-creation-over-linear-income]]

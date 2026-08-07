@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-06 | Total pages: 50+
+> Last updated: 2026-08-07 | Total pages: 50+
 
 ## Meta / schema
 
@@ -88,6 +88,7 @@
 - [[faleth/mindset/heart-intuition-guts-over-analysis-2026]] — Best bets use judgment under uncertainty, not spreadsheet theater.
 - [[faleth/mindset/action-without-audience-permission-2026]] — Stop treating imagined spectators as a permissioning authority; act when the feared audience is neither real nor consequential.
 - [[faleth/mindset/unstructured-time-as-cognitive-infrastructure-2026]] — Preserve input-free space for synthesis, reflection, and original judgment; Claude screenshot claims remain contested pending stronger evidence.
+- [[faleth/mindset/eschatology-shapes-present-stewardship-2026]] — Future expectations shape present Christian posture; Christ-centered preparation, redemptive stewardship, and hope without pretending one image settles eschatological debates.
 
 **Bridge & strategy**
 - [[faleth/bridge-strategy/game-finish-bridge-2026]] — Indie game ship as cash-timing bridge alongside GovCon deals.
