@@ -199,3 +199,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-07
 - Current professional/social discussion reinforced ESOP participation, vesting, distributions, succession, strategy, and EOT education/data/planning/financing; no new U.S. rule or primary mechanism-grade case surfaced. Add participant education and financing mechanics while preserving explicit economics, governance, valuation, liquidity, information, fiduciary, formula-change, review, and appeal fields ([BDO USA](https://x.com/BDO_USA/status/2085423178726154710), [EOT symposium signal](https://x.com/TonyLoffreda/status/2085493015028621400)). Signal: **medium–weak** for reinforcement, **weak** for novelty.
+
+### 2026-08-08
+- Peanuts Deluxe Cafe was reported as nearing worker-cooperative ownership, with employees running the business and profits reportedly shared by hours worked. The useful Faleth distinction is that ownership, democratic control, and allocation formula are separate mechanisms: this time-based cooperative formula is not Faleth's value/process-point model ([current item](https://www.bizjournals.com/sanjose/news/2026/08/07/peanuts-deluxe-cafe-san-jose-co-op.html); snippet-level). Signal: **medium–weak** for the example, **weak** for mechanism detail.

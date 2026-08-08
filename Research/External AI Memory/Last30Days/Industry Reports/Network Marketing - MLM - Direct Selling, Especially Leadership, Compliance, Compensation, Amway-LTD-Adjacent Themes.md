@@ -198,3 +198,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-07
 - Targeted RSS/X produced no substantive Amway/LTD compensation, IDS, Rules, enforcement, or leadership-compliance change. Maintain product/customer value, typical net-results/expenses, IDS linkage, approved sources, reviewer/disposition, and training/enforcement receipts; scalable AI outreach increases claim blast radius ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing) — background). Signal: **weak** for novelty, **strong** for durable discipline.
+
+### 2026-08-08
+- No Amway/LTD compensation, IDS, Rules, FTC MLM, enforcement, or leadership-compliance change surfaced. Current X warned that crypto/Ponzi schemes increasingly borrow MLM language, reinforcing separate controls for investment/return, earnings, recruitment, product, health, lifestyle, and synthetic-testimonial claims ([current signal](https://x.com/StrategyIndia/status/2085657519314358595), [Amway IDS](https://www.amway.com/en_US/income-disclosure) — background). Signal: **weak** for official novelty, **medium–weak** for category-risk reinforcement.
