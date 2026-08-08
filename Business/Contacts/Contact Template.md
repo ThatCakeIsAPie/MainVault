@@ -7,16 +7,14 @@ tags:
 contact_roles: []
 relationship_status: unreviewed
 organizations: []
+company_profile:
 job_titles: []
-industries: []
-capabilities: []
-geographies: []
-naics: []
-psc: []
+personal_specialties: []
+contact_geographies: []
 relevance_to: []
-vendor_fit: none
-customer_fit: none
-strategic_fit: none
+relationship_value: none
+influence_level: unknown
+decision_role: unknown
 source_type: business-card
 date_met:
 place_met:
@@ -30,6 +28,8 @@ linkedin:
 ---
 
 # Full Name — Company
+
+**Company profile:** [[Company Name]]
 
 > [!summary] Contact Summary
 > Two to five sentences identifying the person, their organization, what they appear able to provide or buy, and why the relationship may matter.
@@ -81,47 +81,37 @@ Record this section exactly as stated on the card. Do not merge researched claim
 
 - 
 
-## Company Research
+## Company Context
 
-### Company Summary
+**Canonical company profile:** [[Company Name]]
 
-- **Legal/common name:**
-- **Headquarters:**
-- **Service area:**
-- **Ownership/size:**
-- **Core products or services:**
-- **Primary customers/markets:**
-- **Relevant certifications or registrations:**
-- **NAICS/PSC codes:**
+Do not repeat organization-wide facts here. Put products, services, markets, certifications, NAICS/PSC codes, company-level fit, and company sources in the canonical company profile.
 
-### Evidence and Recent Activity
+Record only what is specific to this person's position inside the company:
 
-- 
+- **Current role:**
+- **Responsibilities:**
+- **Decision authority:** unknown / influencer / recommender / decision-maker / owner
+- **Relevant department or business unit:**
+- **Personal specialties:**
+- **Relationship to the opportunity:**
 
-## Relevance Assessment
+## Contact Relevance Assessment
 
-### Potential Vendor Fit
+### Access and Influence
 
-- **Fit:** none / low / medium / high
-- **What they could supply:**
-- **Relevant capabilities:**
-- **Operational or compliance concerns:**
-- **Best-fit opportunity:**
+- **Relationship value:** none / low / medium / high
+- **Influence level:** unknown / low / medium / high
+- **Can introduce us to:**
+- **Likely priorities or pain points:**
+- **Why this person specifically matters:**
 
-### Potential Customer Fit
+### Best Relationship Path
 
-- **Fit:** none / low / medium / high
-- **What they may need:**
-- **Likely buyer/problem:**
-- **Relevant Faleth/VXE/partner offering:**
-- **Best-fit opportunity:**
-
-### Strategic Relationship Fit
-
-- **Fit:** none / low / medium / high
-- **Potential role:** partner / subcontractor / prime contractor / referral source / advisor / other
-- **Why the relationship matters:**
-- **Network or market access:**
+- **Relevant role:** vendor contact / potential buyer / partner contact / subcontractor contact / prime-contractor contact / referral source / advisor / other
+- **Best-fit conversation or opportunity:**
+- **Preferred approach:**
+- **Known objections or constraints:**
 
 ### Risks and Constraints
 
