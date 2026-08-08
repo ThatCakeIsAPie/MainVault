@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-07 | Total pages: 50+
+> Last updated: 2026-08-08 | Total pages: 50+
 
 ## Meta / schema
 
@@ -153,4 +153,6 @@
 - [[faleth/process/llm-inference-serving-five-optimization-surfaces-2026]] — Continuous batching, phase disaggregation, KV-cache management, prefix routing, and MoE sharding as the core LLM-serving optimization surfaces.
 - [[faleth/process/ocr-gated-pdf-ingestion-pipelines-2026]] — Classify PDFs cheaply, extract native text locally, and reserve OCR for the pages that actually need it.
 - [[faleth/process/local-multiformat-document-to-markdown-ingestion-2026]] — Convert mixed office formats locally into one inspectable Markdown evidence interface before agent reasoning.
+- [[faleth/process/book-to-skill-compilation-for-agent-knowledge-2026]] — Compile long books and PDFs into navigable, testable agent skills rather than one giant prompt.
+- [[faleth/process/free-electron-laser-euv-light-utility-2026]] — FEL-based central EUV utility for multiple lithography scanners; technically credible concept, contested Terafab interpretation.
 

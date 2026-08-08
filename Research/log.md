@@ -792,3 +792,20 @@
 - Updated `index.md` for the new eschatology page.
 - Raw-only/skipped wiki: the refrigerator coffee-table video is an appealing product demo but supplied no manufacturer, specifications, price, or defensible general principle. Furniture remains undefeated at becoming appliances for no obvious reason.
 - Verification: X OAuth/read reachability succeeded; official media expansion plus local OCR/frame inspection recovered the image text and video context. The Texas transport map and Terafab render remain proposals/promotional evidence, not funded-buildout proof.
+
+## [2026-08-08] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 44 were already processed; ingested all 6 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-07/2085591051314610650.md`
+  - `raw/x-bookmarks/2026-08-07/2085761587550519420.md`
+  - `raw/x-bookmarks/2026-08-07/2085545377651212626.md`
+  - `raw/x-bookmarks/2026-08-07/2085574138715054540.md`
+  - `raw/x-bookmarks/2026-08-07/2085652168573661404.md`
+  - `raw/x-bookmarks/2026-08-06/2085507337943749009.md`
+- Created `faleth/process/book-to-skill-compilation-for-agent-knowledge-2026.md` — long-source ingestion as extraction plus compilation into navigable, testable agent skills.
+- Created `faleth/process/free-electron-laser-euv-light-utility-2026.md` — FEL as a central multi-scanner EUV utility; marked low-confidence and contested because Terafab deployment is inferred from promotional imagery and “FEL FTW,” not production evidence.
+- Updated `index.md` for both new wiki pages.
+- Raw-only/skipped wiki: the 61-second “in awe” clip yielded no reliable text; the husband clip yielded only its question, not the answer; the animal-friendship clip supplied no durable claim.
+- Retrieval: X OAuth/read succeeded; official media expansion and local frame OCR inspected all three video-only bookmarks. External search found official Hermes documentation and independent FEL/ERL reporting; production performance was not independently verified.
+- Files updated in this ingest: 6 raw notes, 2 wiki pages, `index.md`, and `log.md`.
