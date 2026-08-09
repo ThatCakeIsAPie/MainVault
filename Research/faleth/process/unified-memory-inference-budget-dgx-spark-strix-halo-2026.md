@@ -76,7 +76,7 @@ Lyle's strongest RTX Spark thesis is **repeatable 128 GB unified-memory nodes**:
 
 Do not treat multiple RTX Spark boxes as one transparent pool of URAM. A two-node setup has **two 128 GB memory domains**, not one automatically coherent 256 GB GPU. Running one model across both requires a distributed runtime and explicit tensor or pipeline partitioning; on slower interconnects, single-request latency may stagnate or worsen even while aggregate throughput improves.[7]
 
-The first announced ASUS RTX Spark desktop documents **10 GbE** but no ConnectX-7/RDMA interface.[5] Ten-gigabit Ethernet has a theoretical ceiling of 1.25 GB/s before protocol overhead. By contrast, each DGX Spark QSFP/ConnectX-7 port supports up to **200 Gb/s** or 25 GB/s—20 times the line rate—and NVIDIA provides direct multi-Spark clustering playbooks.[6] This distinction makes DGX Spark materially better for sharding one large, communication-heavy model across nodes.
+RTX Spark networking appears to be an **OEM configuration choice**, not a settled platform-wide omission. The announced ASUS desktop documents **10 GbE** but no ConnectX-7/RDMA interface.[5] Conversely, HP displayed an unnamed RTX Spark mini-PC prototype with what reporters identified as two ConnectX-7 ports; HP has not named the unit or confirmed that those ports will survive into the retail specification.[8] Ten-gigabit Ethernet has a theoretical ceiling of 1.25 GB/s before protocol overhead. By contrast, each DGX Spark QSFP/ConnectX-7 port supports up to **200 Gb/s** or 25 GB/s—20 times the line rate—and NVIDIA provides direct multi-Spark clustering playbooks.[6] This distinction makes a ConnectX-equipped RTX Spark materially more valuable for sharding one large, communication-heavy model across nodes.
 
 Therefore separate the procurement claims:
 
@@ -84,7 +84,7 @@ Therefore separate the procurement claims:
 - **DGX Spark cluster:** stronger fit for one model or tightly coupled workload spanning nodes because the high-speed interconnect is part of the appliance.
 - **Custom PC cluster:** not impossible and can exceed either platform with add-in 100/200 GbE or InfiniBand, but loses Spark's compact, homogeneous, low-power 128 GB unified-memory package and may cost more to make operationally equivalent.
 
-The gating procurement requirement for RTX Spark is now explicit: buy only an OEM configuration with 128 GB memory, 10 GbE or better, Linux/container viability if required, and demonstrated multi-node inference. Treat claims of “clusterable” as incomplete until the benchmark states whether it measured **aggregate independent throughput, single-model capacity, or single-request latency**.
+The gating procurement requirement for RTX Spark is now explicit: buy only an OEM configuration with 128 GB memory, **ConnectX-7/QSFP if tightly coupled clustering is central** (10 GbE is acceptable for independent-worker scaling), Linux/container viability if required, and demonstrated multi-node inference. Treat claims of “clusterable” as incomplete until the benchmark states whether it measured **aggregate independent throughput, single-model capacity, or single-request latency**.
 
 ## Strix Halo translation
 
@@ -140,3 +140,4 @@ The local box should absorb stable, high-volume work while frontier cloud models
 [5] https://www.asus.com/us/displays-desktops/mini-pcs/proart-mini-pc-series/proart-gr1x-mini-pc — ASUS ProArt GR1X RTX Spark desktop specifications
 [6] https://docs.nvidia.com/dgx/dgx-spark/spark-clustering.html — NVIDIA DGX Spark ConnectX-7 clustering guide
 [7] https://docs.vllm.ai/en/stable/serving/parallelism_scaling — vLLM parallelism and scaling guidance
+[8] https://www.notebookcheck.net/Mac-challenger-Nvidia-RTX-Spark-HP-mini-PC-previewed-with-ConnectX-7-ports-up-to-128GB-RAM.1317028.0.html — HP RTX Spark prototype reportedly shown with ConnectX-7 ports
