@@ -202,3 +202,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-08
 - Peanuts Deluxe Cafe was reported as nearing worker-cooperative ownership, with employees running the business and profits reportedly shared by hours worked. The useful Faleth distinction is that ownership, democratic control, and allocation formula are separate mechanisms: this time-based cooperative formula is not Faleth's value/process-point model ([current item](https://www.bizjournals.com/sanjose/news/2026/08/07/peanuts-deluxe-cafe-san-jose-co-op.html); snippet-level). Signal: **medium–weak** for the example, **weak** for mechanism detail.
+
+### 2026-08-09
+- Current professional/social discussion contrasted third-party sale, ESOP, and trust ownership as seller-transition paths and highlighted Canadian EOT policy awareness; strict-window RSS contained mostly acronym collisions and public-company option plans. No new U.S. rule or mechanism-grade case surfaced. Preserve explicit economics, control, financing, valuation, liquidity, information, fiduciary, formula-change, review, and appeal fields ([seller-options signal](https://x.com/PKFOD/status/2086201810671255871), [Canadian EOT signal](https://x.com/TonyLoffreda/status/2086146614410817815)). Signal: **medium–weak** for education/policy awareness, **weak** for mechanism novelty.

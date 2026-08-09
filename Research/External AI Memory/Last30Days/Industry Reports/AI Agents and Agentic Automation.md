@@ -4,6 +4,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ## Current Direction
 - Agentic automation is moving from demo bots to governed enterprise work units: scoped permissions, operational metrics, human handoff, and audit logs.
+- Government systems are becoming agent-addressable through standardized MCP surfaces over open data and service-delivery systems; public-sector authorization, auditability, and read/write boundaries are emerging as reference architecture.
 - The strongest buying context is still vertical operational pain — contact centers, telecom operations, ERP/document workflows, internal admin, and regulated workflows.
 - Practical differentiation is shifting from raw model ability to orchestration quality: tool access, policy, evals, replay, escalation, incident response, and **enterprise agent inventory** (shadow agents, daily sprawl).
 - **Live model routing** (e.g. OpenRouter MCP) is becoming part of the agent stack—not optional for cost-aware production cron/delegate loops.
@@ -212,3 +213,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-08
 - nCino announced Mortgage MCP with Admin and Loan Officer action surfaces operating inside existing permissions/compliance controls. This reinforces governed vertical MCP over systems of record: narrow tools, inherited authority, action receipts, human escalation, rollback, and stop authority—not universal agent access ([nCino](https://www.ncino.com/news/ncino-releases-mortgage-mcp-connect-ai-agents)). Signal: **medium–strong** for the official launch/direction; exact detail was search-snippet level.
+
+### 2026-08-09
+- GSA is promoting a September–October government-wide MCP Server and AI Agent Hackathon to prototype standardized interfaces over federal open data and service-delivery systems. Current governance/security discussion reinforced per-agent identity, scoped authority, approvals, logging, rollback, stop authority, and hostile-context handling. Add these fields to Faleth's agent registry ([GSA](https://www.gsa.gov/artificial-intelligence/ai-community-of-practice/events-and-training/2026-ai-hackathon), [governance signal](https://x.com/adam_volt/status/2085984735063314635), [security signal](https://x.com/HermesShield/status/2086012390936580118)). Signal: **strong** for official public-sector MCP direction, **medium** for current controls discussion.
