@@ -809,3 +809,20 @@
 - Raw-only/skipped wiki: the 61-second “in awe” clip yielded no reliable text; the husband clip yielded only its question, not the answer; the animal-friendship clip supplied no durable claim.
 - Retrieval: X OAuth/read succeeded; official media expansion and local frame OCR inspected all three video-only bookmarks. External search found official Hermes documentation and independent FEL/ERL reporting; production performance was not independently verified.
 - Files updated in this ingest: 6 raw notes, 2 wiki pages, `index.md`, and `log.md`.
+
+## [2026-08-09] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 43 were already processed; ingested all 7 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-09/2086253065657790895.md`
+  - `raw/x-bookmarks/2026-08-08/2086171185134686509.md`
+  - `raw/x-bookmarks/2026-08-08/2086123156431855959.md`
+  - `raw/x-bookmarks/2026-08-08/2086103296641507456.md`
+  - `raw/x-bookmarks/2026-08-08/2086122488094675410.md`
+  - `raw/x-bookmarks/2026-08-07/2085656265397518771.md`
+  - `raw/x-bookmarks/2026-08-07/2085823819608957365.md`
+- Created `faleth/process/local-minimax-h3-video-generation-tradeoffs-2026.md` — local H3 feasibility on four RTX 3090s, with four-step Turbo-LoRA speed, fast-motion smearing, accepted-result economics, and licensing checks.
+- Updated `index.md` for the new H3 page and bumped its date.
+- Raw-only/skipped wiki: the Krea-2 conditioning-node posts were sparse creator observations without reproducible workflow details; the Nano Banana photorealism guide was truncated; the FF7 and sea-lion posts were entertainment/commentary rather than durable research claims.
+- Verification: X OAuth status succeeded; all 7 raw-source SHA-256 values matched their bodies. H3 performance remains a single practitioner report rather than a controlled benchmark.
+- Files changed in this ingest: 7 raw notes, 1 wiki page, `index.md`, and `log.md`.
