@@ -92,6 +92,18 @@ The site shows running prototypes and partial-power demonstrations, but I found 
 - fault-injection results;
 - named independent test laboratory and uncertainty budget.
 
+## The core decision issue: complexity versus evasion
+
+Lyle's concern is the right one: “efficiency” can legitimately be complicated because the answer changes with RPM, torque, temperature, controller inclusion, and whether the boundary ends at the shaft or at aerodynamic thrust. But that complexity requires the vendor to define the boundary and publish a map; it does not excuse the absence of numbers.
+
+Existing rim-driven, hub-style, axial-flux, and external-rotor motors already offer many of the architectural benefits ParaNetics describes. The commercial question is therefore not whether the motor spins or whether the field geometry is novel. It is whether ParaNetics moves the normalized performance frontier relative to those alternatives.
+
+The minimum normalized comparison should include continuous specific power in kW/kg, continuous torque density in N·m/kg, DC-bus-to-shaft efficiency across the operating envelope, thermal derating, total installed propulsion mass, and—when a fan is included—thrust per electrical watt at both static and forward-flight conditions.
+
+If a seller repeatedly explains why efficiency is “weird” but cannot state the measurement boundary, operating point, and raw inputs and outputs, the ambiguity has changed from an engineering caveat into a due-diligence warning.
+
+Source reflection: [[lyle-telegram-paranetics-efficiency-reflection-2026-08-09]]
+
 ## Minimum evidence to request
 
 Ask for a **signed test report or raw time-series data**, not another slide deck.
