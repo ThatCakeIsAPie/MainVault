@@ -1,7 +1,7 @@
 ---
-title: Unified-Memory Inference Budget — DGX Spark and Strix Halo
+title: Unified-Memory Inference Budget — DGX Spark, RTX Spark, and Strix Halo
 created: 2026-07-30
-updated: 2026-08-04
+updated: 2026-08-09
 type: principle
 tags: [ai, llm, inference, hardware, systems]
 sources:
@@ -13,7 +13,7 @@ sources:
 confidence: medium
 ---
 
-# Unified-Memory Inference Budget — DGX Spark and Strix Halo
+# Unified-Memory Inference Budget — DGX Spark, RTX Spark, and Strix Halo
 
 ## Principle
 
@@ -54,6 +54,21 @@ For one 128 GB DGX Spark:
 3. Measure memory after loading the intended context length and speculative-decoding configuration, not at an empty prompt.
 4. Reserve explicit headroom for Hermes, the model server, monitoring, and at least one realistic concurrent job.
 5. Reject any setup that survives only at short context or after closing every other process.
+
+## RTX Spark translation (2026-08-09)
+
+The flagship RTX Spark and DGX Spark occupy essentially the same **model-fit class** on NVIDIA's published headline specifications: up to 6,144 Blackwell CUDA cores, a 20-core Grace CPU, up to 1 PFLOP FP4 compute, and up to 128 GB unified memory.[1][2] For an inference workload that is supported and given a 128 GB RTX Spark configuration, the same conservative **60–80 GB weight envelope** should transfer.
+
+The products are not yet operationally interchangeable. DGX Spark is a shipping, dedicated Linux AI appliance with a documented 128 GB at 273 GB/s, 1 TB or 4 TB NVMe, 10 GbE, and ConnectX-7 networking for multi-node scaling.[3] RTX Spark is a fall-2026 Windows-on-Arm platform spanning laptops and compact desktops; NVIDIA has not published one fixed power limit, memory bandwidth, storage, networking specification, or official price because OEM configurations will vary.[1][2]
+
+### Decision split
+
+- Choose **DGX Spark** when the job is a dedicated, always-on Linux/Hermes inference node; mature CUDA containers, predictable thermals, 10 GbE/ConnectX clustering, and deployment certainty matter more than acquisition cost.
+- Prefer a **128 GB RTX Spark desktop** when it can replace the daily PC as well as the AI box; Windows creation, gaming, ComfyUI, and local-agent use are first-class goals; and independent benchmarks confirm that the OEM's sustained power and cooling preserve near-DGX performance.
+- Treat an **RTX Spark laptop** as portability-first. The same capacity can determine what models load, but a thin chassis may not sustain the same throughput as a desktop AI appliance. Do not infer sustained parity from the shared “1 PFLOP” peak figure.
+- Keep the software-risk distinction explicit: RTX Spark has native CUDA and vendor commitments from ComfyUI, Adobe, llama.cpp, and others, but Windows-on-Arm application, Python-wheel, custom-node, driver, and emulation compatibility must be proven on the shipping systems.[2]
+
+DGX Spark currently lists at **$4,699** from NVIDIA.[4] RTX Spark pricing is not official. For Lyle's present cash-timing season, there is no reason to pay the DGX premium before the fall RTX desktop configurations, prices, sustained benchmarks, and software compatibility are known—unless a paid workload immediately requires the DGX Linux appliance.
 
 ## Strix Halo translation
 
@@ -99,3 +114,10 @@ The local box should absorb stable, high-volume work while frontier cloud models
 - [[faleth/process/local-model-ownership-agency-2026]]
 - [[faleth/process/member-gated-compute-mesh-for-sovereign-agents-2026]]
 - [[faleth/process/llm-inference-serving-five-optimization-surfaces-2026]]
+
+## Sources
+
+[1] https://www.nvidia.com/en-us/products/rtx-spark — NVIDIA RTX Spark product page
+[2] https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark — NVIDIA RTX Spark announcement
+[3] https://docs.nvidia.com/dgx/dgx-spark/hardware.html — NVIDIA DGX Spark hardware overview
+[4] https://marketplace.nvidia.com/en-us/enterprise/personal-ai-supercomputers/dgx-spark — NVIDIA DGX Spark marketplace listing
