@@ -70,6 +70,22 @@ The products are not yet operationally interchangeable. DGX Spark is a shipping,
 
 DGX Spark currently lists at **$4,699** from NVIDIA.[4] RTX Spark pricing is not official. For Lyle's present cash-timing season, there is no reason to pay the DGX premium before the fall RTX desktop configurations, prices, sustained benchmarks, and software compatibility are known—unless a paid workload immediately requires the DGX Linux appliance.
 
+### Clusterability is workload-specific
+
+Lyle's strongest RTX Spark thesis is **repeatable 128 GB unified-memory nodes**: begin with one useful local-LLM/creative machine, then add homogeneous nodes as demand grows. That is compelling for horizontal scaling—independent agents, batch requests, concurrent model servers, retrieval, embeddings, and separate image/video generations can be assigned by node with little inter-node communication.
+
+Do not treat multiple RTX Spark boxes as one transparent pool of URAM. A two-node setup has **two 128 GB memory domains**, not one automatically coherent 256 GB GPU. Running one model across both requires a distributed runtime and explicit tensor or pipeline partitioning; on slower interconnects, single-request latency may stagnate or worsen even while aggregate throughput improves.[7]
+
+The first announced ASUS RTX Spark desktop documents **10 GbE** but no ConnectX-7/RDMA interface.[5] Ten-gigabit Ethernet has a theoretical ceiling of 1.25 GB/s before protocol overhead. By contrast, each DGX Spark QSFP/ConnectX-7 port supports up to **200 Gb/s** or 25 GB/s—20 times the line rate—and NVIDIA provides direct multi-Spark clustering playbooks.[6] This distinction makes DGX Spark materially better for sharding one large, communication-heavy model across nodes.
+
+Therefore separate the procurement claims:
+
+- **RTX Spark cluster:** potentially excellent price/capacity/efficiency for a distributed fleet of mostly independent workers; one node can fail or upgrade without retiring the fleet.
+- **DGX Spark cluster:** stronger fit for one model or tightly coupled workload spanning nodes because the high-speed interconnect is part of the appliance.
+- **Custom PC cluster:** not impossible and can exceed either platform with add-in 100/200 GbE or InfiniBand, but loses Spark's compact, homogeneous, low-power 128 GB unified-memory package and may cost more to make operationally equivalent.
+
+The gating procurement requirement for RTX Spark is now explicit: buy only an OEM configuration with 128 GB memory, 10 GbE or better, Linux/container viability if required, and demonstrated multi-node inference. Treat claims of “clusterable” as incomplete until the benchmark states whether it measured **aggregate independent throughput, single-model capacity, or single-request latency**.
+
 ## Strix Halo translation
 
 The **budgeting principle transfers; the model recipe does not automatically transfer**.
@@ -121,3 +137,6 @@ The local box should absorb stable, high-volume work while frontier cloud models
 [2] https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark — NVIDIA RTX Spark announcement
 [3] https://docs.nvidia.com/dgx/dgx-spark/hardware.html — NVIDIA DGX Spark hardware overview
 [4] https://marketplace.nvidia.com/en-us/enterprise/personal-ai-supercomputers/dgx-spark — NVIDIA DGX Spark marketplace listing
+[5] https://www.asus.com/us/displays-desktops/mini-pcs/proart-mini-pc-series/proart-gr1x-mini-pc — ASUS ProArt GR1X RTX Spark desktop specifications
+[6] https://docs.nvidia.com/dgx/dgx-spark/spark-clustering.html — NVIDIA DGX Spark ConnectX-7 clustering guide
+[7] https://docs.vllm.ai/en/stable/serving/parallelism_scaling — vLLM parallelism and scaling guidance
