@@ -30,6 +30,8 @@ This is useful feasibility evidence, not a controlled benchmark. The post does n
 
 ## ClipProj versus Bonsai
 
+The question came from an X reply asking why ClipProj was not using Bonsai.[1] The underlying H3 release is a multimodal video-and-audio generation system whose official model card separates the text encoder, generative transformer, video VAE, and audio VAE components.[6]
+
 The August 9 ClipProj release attacks only H3's conditioning bottleneck. It runs Qwen3-VL-4B instead of Qwen3-VL-32B, then applies a learned linear projection into the representation expected by H3. The released adapter has roughly 37 million parameters and the model card reports the text-encoder VRAM figure falling from 15.7 GB to 5.2 GB, with acknowledged quality degradation.[2][8]
 
 That is a 66.9% reduction for the text encoder, but not a 66.9% reduction for the whole H3 pipeline. ComfyUI reports that its already-pruned and quantized smallest H3 stack occupies about 42.5 GB in total before dynamic GPU offloading; replacing 15.7 GB with 5.2 GB would reduce that rough total to about 32.0 GB, or approximately 24.7%, assuming the components are otherwise identical.[5]
@@ -71,9 +73,11 @@ The lesson matches [[faleth/process/frontier-model-cost-speed-tradeoff-2026]]: o
 
 ## Sources
 
+[1] https://x.com/goldenelephant1/status/2086532726967112049 — Jason reply asking why ClipProj does not use Bonsai
 [2] https://huggingface.co/NicoLab28/ClipProj-MiniMax-H3 — ClipProj MiniMax H3 model card
 [3] https://docs.prismml.com/get-started/introduction — PrismML Bonsai introduction
 [4] https://prismml.com/news/bonsai-27b — PrismML Bonsai 27B announcement
 [5] https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui — ComfyUI MiniMax H3 local inference optimization
+[6] https://huggingface.co/MiniMaxAI/MiniMax-H3 — Official MiniMax H3 model card
 [7] https://github.com/PrismML-Eng/Bonsai-Image-Demo — PrismML Bonsai Image Demo repository
 [8] https://github.com/nicolab28/ComfyUI-ClipProj — ComfyUI ClipProj repository
