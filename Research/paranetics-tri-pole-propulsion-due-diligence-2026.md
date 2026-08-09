@@ -26,7 +26,9 @@ The company claims 96–98% efficiency, 25–30% torque gains, 30% or greater th
 
 The propulsion patent places permanent magnets around the outside of the fan-blade housing and drives that rotating housing with stationary magnetic-field generators.[4] Functionally, this is a circumferential or rim-driven external-rotor permanent-magnet motor integrated with a ducted fan, although ParaNetics distinguishes it from conventional rim-drive motors.[1]
 
-The core patent describes a magnetic field pattern with three spatial poles—north–south–north or the inverse—created by a particular magnetic structure.[3] The motor arranges many such field generators around a circular path and electronically commutates them so the permanent-magnet rotor is successively attracted and repelled.[1][3][4]
+The core patent describes a magnetic field pattern with three spatial poles—north–south–north or the inverse—created by a particular magnetic structure.[3]
+
+The motor arranges many such field generators around a circular path and electronically commutates them so the permanent-magnet rotor is successively attracted and repelled.[1][3][4]
 
 The key novelty is therefore **field geometry and packaging**, not altered electromagnetic laws. Permanent magnets provide flux, windings and the controller create a traveling field, and electrical input is converted into torque through ordinary electromagnetic interaction.
 
