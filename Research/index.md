@@ -8,6 +8,7 @@
 
 - [[SCHEMA]] — Wiki conventions, frontmatter, tags, raw provenance
 - [[SOURCE-MANIFEST]] — Where knowledge lives (Obsidian, GBrain, Hermes, AgentMemory, Honcho, External AI Memory)
+- [[External AI Memory/memory-system-bakeoff-baseline-2026-06-11]] — Lyle's layered-memory baseline, updated with the August 2026 seven-provider MemConflict benchmark and conflict-arbitration decision.
 - [[OKF-COMPATIBILITY]] — Open Knowledge Format v0.1 alignment and gaps
 - [[VALIDATION-REPORT]] — Latest `_tools/validate_vault.py` baseline (2026-06-22)
 

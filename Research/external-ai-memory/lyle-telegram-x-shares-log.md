@@ -1,7 +1,7 @@
 ---
 type: note
 title: Lyle Telegram X Shares Log
-updated: '2026-08-06T18:55:23+00:00'
+updated: '2026-08-09T14:32:10+00:00'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -21,6 +21,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-08-09 | [2086418529008443421](https://x.com/i/status/2086418529008443421) | interesting; independent seven-provider Hermes memory benchmark | [[research/raw/transcripts/lyle-x-share-2086418529008443421]] | [[External AI Memory/memory-system-bakeoff-baseline-2026-06-11]] |
 | 2026-08-06 | [2085411664568914182](https://x.com/i/status/2085411664568914182) | long-term plan to accumulate productive assets within the Texas mini-triangle while land remains comparatively cheap | [[research/raw/transcripts/lyle-x-share-2085411664568914182]] | [[research/faleth/process/texas-mini-triangle-asset-accumulation-thesis-2026]] |
 | 2026-08-03 | [2083794337586974823](https://x.com/liebert_2026/status/2083794337586974823) | first-principles in Peterson career vs good life | [[research/raw/transcripts/lyle-x-share-2083794337586974823]] | [[research/faleth/mindset/wholeness-over-unidimensional-perfection-2026]]; [[concepts/offshoots/portfolio-life-as-antifragile-strategy]] |
 | 2026-08-02 | [2083652162450538507](https://x.com/i/status/2083652162450538507) | save as reusable date-night ideas pool | [[research/raw/transcripts/lyle-x-share-2083652162450538507]] | [[research/personal/date-night-ideas-pool]] |

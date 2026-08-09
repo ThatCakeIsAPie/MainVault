@@ -5,6 +5,12 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-08-09] ingest | Independent Hermes memory-provider benchmark
+- Raw source: [[raw/transcripts/lyle-x-share-2086418529008443421]]
+- Updated: [[External AI Memory/memory-system-bakeoff-baseline-2026-06-11]], [[external-ai-memory/lyle-telegram-x-shares-log]], and [[index]]
+- Public benchmark: 30 simulated users, 1,579 sessions, 71,060 turns, and 3,750 conflict questions per provider; Honcho led overall at 0.477 macro score, while no provider reliably rejected planted false memories.
+- Decision: retain Hermes compact memory + Honcho tools-only recall + Obsidian source of truth + GBrain retrieval; make explicit correction/canonical-source precedence and conflict surfacing the primary reliability control.
+
 ## [2026-07-30] ingest | DGX Spark and Strix Halo unified-memory inference budget
 - Raw source: [[raw/transcripts/lyle-x-share-2082629254731440546]]
 - Created: [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]]
