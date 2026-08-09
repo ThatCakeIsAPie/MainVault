@@ -4,7 +4,7 @@ created: 2026-08-09
 updated: 2026-08-09
 type: concept
 tags: [ai, ml, hardware, inference]
-sources: [raw/x-bookmarks/2026-08-09/2086253065657790895.md, raw/x-bookmarks/2026-08-08/2086171185134686509.md, raw/transcripts/lyle-x-share-2086532726967112049.md]
+sources: [raw/x-bookmarks/2026-08-09/2086253065657790895.md, raw/x-bookmarks/2026-08-08/2086171185134686509.md, raw/transcripts/lyle-x-share-2086532726967112049.md, raw/transcripts/lyle-x-share-2086531287754448949.md]
 confidence: medium
 ---
 
@@ -60,6 +60,27 @@ A Bonsai-compressed version of the original Qwen3-VL-32B encoder is a credible r
 
 Until that comparison exists, “Bonsai should be better” is a technically plausible hypothesis—not an available optimization.
 
+## Unsloth GGUF release and the “8 GB” claim
+
+A second August 9 post says Unsloth's pruned MiniMax H3 GGUFs now fit 8 GB cards “without question.”[9] The underlying release is real and materially more useful for low-memory hardware: it supplies GGUF quantizations of the pruned FL2VA denoiser plus GGUF versions of H3's Qwen3-VL-32B text encoder, and is intended for runtimes including stable-diffusion.cpp and ComfyUI.[10][11]
+
+The wording still overstates what “fits” means. The smallest denoiser is 6.26 GiB and the smallest text encoder is 12.20 GiB. Together they are 18.46 GiB before loading the video VAE, audio VAE, activations, latent tensors, CUDA workspace, or the UI. Therefore the complete H3 stack cannot remain resident inside 8 GB VRAM.[10]
+
+What can fit is a staged execution plan: keep the 6.26 GiB Q2 denoiser or part of it on the GPU, run the larger text encoder through CPU/system-memory placement, and move other components as required. This is the same distinction ComfyUI's earlier consumer-hardware claim relied upon: its approximately 42.5 GB optimized stack runs on lower-memory GPUs through dynamic offloading rather than complete residency.[5]
+
+### Limits of the release
+
+- The files cover the **pruned FL2VA** variant: text plus zero, one, or two first/last-frame images. They do not provide the full Ref2VA omni-reference workflow.[10]
+- Q2 is an aggressive quantization level. The release provides a sample but no controlled original-versus-Q2 quality benchmark.[10]
+- The post provides no GPU model, peak-memory trace, wall-clock time, system-RAM requirement, or output-quality comparison supporting “without question.”[9]
+- The smallest denoiser leaves only 1.74 GiB of nominal space on an 8 GB card before activations and runtime buffers, making further offload likely.
+
+### Lyle's GTX 1070 Ti
+
+This changes the verdict from **effectively unavailable** to **possibly runnable as an experiment**. It does not make H3 a comfortable local workflow on an 8 GB Pascal card. The decisive unknowns are Pascal-compatible build/runtime support, low-bit kernel speed, available system RAM, NVMe bandwidth, output dimensions, frame count, and how much of the denoiser can remain resident during sampling.
+
+The rational test target is the 6.26 GiB `Q2_K` pruned denoiser at reduced resolution and duration, with the text encoder and VAEs offloaded. Success should mean a completed clip with measured peak VRAM, peak RAM, wall-clock time, and acceptable output—not merely reaching the loading screen, an accomplishment Windows has trained humanity to celebrate prematurely.
+
 ## Faleth relevance
 
 The lesson matches [[faleth/process/frontier-model-cost-speed-tradeoff-2026]]: optimize for accepted output rather than impressive throughput. Hardware planning should also follow [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] and [[faleth/process/local-model-ownership-agency-2026]]—weights, runtime, memory, workflow quality, licensing, and operator burden are one system.
@@ -81,3 +102,6 @@ The lesson matches [[faleth/process/frontier-model-cost-speed-tradeoff-2026]]: o
 [6] https://huggingface.co/MiniMaxAI/MiniMax-H3 — Official MiniMax H3 model card
 [7] https://github.com/PrismML-Eng/Bonsai-Image-Demo — PrismML Bonsai Image Demo repository
 [8] https://github.com/nicolab28/ComfyUI-ClipProj — ComfyUI ClipProj repository
+[9] https://x.com/realrebelai/status/2086531287754448949 — Rebel AI post claiming MiniMax H3 fits 8GB VRAM
+[10] https://huggingface.co/unsloth/MiniMax-H3-GGUF — Unsloth MiniMax H3 GGUF model card
+[11] https://github.com/leejet/stable-diffusion.cpp — stable-diffusion.cpp repository and MiniMax H3 support

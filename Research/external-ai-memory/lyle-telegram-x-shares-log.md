@@ -2,7 +2,7 @@
 type: note
 title: Lyle Telegram X Shares Log
 created: '2026-06-22T00:00:00+00:00'
-updated: '2026-08-09T22:17:22+00:00'
+updated: '2026-08-09T22:29:00+00:00'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -18,6 +18,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-08-09 | [2086531287754448949](https://x.com/i/status/2086531287754448949) | asked whether Unsloth's pruned H3 GGUFs make 8 GB GPUs genuinely viable | [[research/raw/transcripts/lyle-x-share-2086531287754448949]] | [[research/faleth/process/local-minimax-h3-video-generation-tradeoffs-2026]] |
 | 2026-08-09 | [2086532726967112049](https://x.com/i/status/2086532726967112049) | asked whether Bonsai compression should replace ClipProj's 4B encoder substitution for MiniMax H3 | [[research/raw/transcripts/lyle-x-share-2086532726967112049]] | [[research/faleth/process/local-minimax-h3-video-generation-tradeoffs-2026]] |
 | 2026-08-09 | [2086418529008443421](https://x.com/i/status/2086418529008443421) | interesting; independent seven-provider Hermes memory benchmark | [[research/raw/transcripts/lyle-x-share-2086418529008443421]] | [[External AI Memory/memory-system-bakeoff-baseline-2026-06-11]] |
 | 2026-08-06 | [2085411664568914182](https://x.com/i/status/2085411664568914182) | long-term plan to accumulate productive assets within the Texas mini-triangle while land remains comparatively cheap | [[research/raw/transcripts/lyle-x-share-2085411664568914182]] | [[research/faleth/process/texas-mini-triangle-asset-accumulation-thesis-2026]] |
