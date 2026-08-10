@@ -1,7 +1,7 @@
 ---
 title: Frontier Model Cost-Speed Tradeoff (SWE-1.7 signal, 2026)
 created: 2026-07-09
-updated: 2026-08-04
+updated: 2026-08-10
 type: principle
 tags: [ai, llm, inference, strategy, systems, leverage]
 sources:
@@ -19,6 +19,7 @@ sources:
   - raw/x-bookmarks/2026-07-26/2081347811140841487.md
   - research/raw/transcripts/lyle-x-share-2082629254731440546.md
   - research/raw/transcripts/lyle-x-share-2082808601765093698.md
+  - research/raw/transcripts/lyle-x-share-2086576283211710957.md
   - raw/x-bookmarks/2026-08-02/2084006770704302437.md
 confidence: medium
 ---
@@ -90,6 +91,14 @@ The comparison needs discipline: this is a self-reported token total, not audite
 At xAI's official Grok 4.5 rates checked on 2026-07-30—**$2/M input, $6/M output, $0.30/M cached input**, with standard prices doubling for prompts of at least 200,000 tokens—the 648,015,199-token report corresponds to about **$1,555** at a 90/10 input-output mix, **$1,814** at 80/20, or **$2,074** at 70/30. Even the artificial all-cache-read floor is about **$194**; an 80/20 long-context case is about **$3,629**. The ordinary blended estimate therefore implies roughly **78–104×** the $20 subscription price. [Official model pricing](https://docs.x.ai/developers/models/grok-4-5)
 
 The operational rule is still powerful: optimize for **accepted work per subscription dollar**. Route high-volume executor work into unusually subsidized model pools; preserve flexible premium quota for tasks where it changes outcomes; keep the harness provider-swappable because product subsidies can disappear much faster than architecture should. In other words, enjoy the buffet, but do not redesign the kitchen around the restaurant never changing its menu.
+
+## Measured subscription capacity still is not equal productivity (2026-08-09)
+
+MiaAI_lab subsequently reports a measured SuperGrok weekly ceiling of **246,975,735 tokens** using Grok 4.5 on Low. Multiplied across four weeks, that is **987,902,940 tokens**. The attached chart infers **716,077,180 tokens** for Cursor's $20 Pro plan, making SuperGrok's raw allowance **271,825,760 tokens** or **37.96%** larger. The arithmetic is internally consistent. [[research/raw/transcripts/lyle-x-share-2086576283211710957]]
+
+The procurement conclusion is narrower than “SuperGrok wins.” This is a user-measured ceiling under one mode and account, not an official entitlement or completed-work benchmark. Cursor includes repository context, editing, orchestration, and execution; SuperGrok exposes a different workflow. Hidden reasoning, caching, tool traffic, cooldowns, and product-specific token accounting may also make the units non-equivalent.
+
+Compare subscriptions on two scorecards: **measured usable capacity** and **accepted work produced**. Raw tokens reveal the subsidy; accepted-result cost reveals whether the product turns that subsidy into leverage. Lyle's own experience of limits remains more decision-relevant than a stranger's theoretical ceiling—because apparently even token buffets can have a bouncer.
 
 ## Faleth / Hermes implications
 
