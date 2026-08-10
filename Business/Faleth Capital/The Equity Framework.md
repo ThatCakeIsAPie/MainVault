@@ -58,7 +58,7 @@ An MCA is not equity. Not a share, not a claim on the office's profits, not a st
 
 The pool is genuinely shared — office capital and investor capital in one place, deployed by the same people under the same discipline, ownership tracked as a percentage ([[The Financial Framework#2. The Office Pool|The Financial Framework]]). The office charges a 20% performance fee on growth and nothing else, and the team's profit share comes off total pool growth before anything divides by ownership. That order is deliberate. The pool grew because operators whose own pay depends on performance made it grow, and paying them first is what keeps that true.
 
-That fee lands in office equity, where 30% funds Class B dividends and the retained 70% lifts book value per share. Class A holds governance without financial ownership, so membership itself receives none of it. A Class A member earns financially through the subsidiary they run and any MCA they personally hold, not from the performance fee by virtue of governing. The fee therefore makes outside capital an investment into the operators as well as the assets: investor success compounds the share value and dividend income of the people who earned Class B by working.
+That fee lands in office equity, where it pays Class B dividends and lifts book value per share. Class A holds governance without financial ownership, so none of it reaches the members who run the office — it goes to the people who earned shares by working.
 
 **What an MCA doesn't include.** No Class B dividends: that pool belongs to the people who earned it through labor and reinvested profit share. No vote: governance stays with Class A, earned by building subsidiaries that generate real income.
 
