@@ -1,10 +1,10 @@
 ---
 title: Local MiniMax H3 Video Generation Tradeoffs
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-10
 type: concept
 tags: [ai, ml, hardware, inference]
-sources: [raw/x-bookmarks/2026-08-09/2086253065657790895.md, raw/x-bookmarks/2026-08-08/2086171185134686509.md, raw/transcripts/lyle-x-share-2086532726967112049.md, raw/transcripts/lyle-x-share-2086531287754448949.md]
+sources: [raw/x-bookmarks/2026-08-09/2086253065657790895.md, raw/x-bookmarks/2026-08-08/2086171185134686509.md, raw/x-bookmarks/2026-08-08/2086106500766843287.md, raw/x-bookmarks/2026-08-09/2086521366300512391.md, raw/transcripts/lyle-x-share-2086532726967112049.md, raw/transcripts/lyle-x-share-2086531287754448949.md]
 confidence: medium
 ---
 
@@ -19,6 +19,12 @@ Local video generation should be evaluated as an **accepted-result system**, not
 Alexey Fateev reported generating a 30-second, 1344×768 first-person-action clip on four RTX 3090 GPUs in 44 minutes. The workflow used a four-step Turbo LoRA that he described as three times faster than the base model, while explicitly noting motion smearing during fast movement.
 
 This is useful feasibility evidence, not a controlled benchmark. The post does not provide power draw, memory residency, software versions, base-model timing, seed reproducibility, or an objective quality score.
+
+## Long-sequence continuity in WanGP 12.44
+
+WanGP 12.44 claims full sliding-window support for both FL2VA and Ref2VA. Instead of carrying only a one-frame overlap between windows, the workflow carries a longer motion overlap and matching audio into the next window.[12] That attacks a different bottleneck from quantization or encoder substitution: **continuity across generated segments**.
+
+The operational test should compare identical long prompts with one-frame versus extended overlap and score visible cuts, motion continuity, identity/reference drift, audio synchronization, peak memory, wall-clock time, and accepted-result rate. The bookmark is a developer release claim with truncated text, not a benchmark; it establishes a workflow direction, not proven quality superiority.
 
 ## Operational interpretation
 
@@ -105,3 +111,5 @@ The lesson matches [[faleth/process/frontier-model-cost-speed-tradeoff-2026]]: o
 [9] https://x.com/realrebelai/status/2086531287754448949 — Rebel AI post claiming MiniMax H3 fits 8GB VRAM
 [10] https://huggingface.co/unsloth/MiniMax-H3-GGUF — Unsloth MiniMax H3 GGUF model card
 [11] https://github.com/leejet/stable-diffusion.cpp — stable-diffusion.cpp repository and MiniMax H3 support
+[12] https://x.com/deepbeepmeep/status/2086106500766843287 — WanGP 12.44 sliding-window continuity claim
+[13] https://x.com/SD_Tutorial/status/2086521366300512391 — ClipProj VRAM summary linking the released adapter

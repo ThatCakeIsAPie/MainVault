@@ -832,3 +832,21 @@
 - Raw-only/skipped wiki: the Krea-2 conditioning-node posts were sparse creator observations without reproducible workflow details; the Nano Banana photorealism guide was truncated; the FF7 and sea-lion posts were entertainment/commentary rather than durable research claims.
 - Verification: X OAuth status succeeded; all 7 raw-source SHA-256 values matched their bodies. H3 performance remains a single practitioner report rather than a controlled benchmark.
 - Files changed in this ingest: 7 raw notes, 1 wiki page, `index.md`, and `log.md`.
+
+## [2026-08-10] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 42 were already processed; ingested all 8 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-08/2086106500766843287.md`
+  - `raw/x-bookmarks/2026-08-09/2086521366300512391.md`
+  - `raw/x-bookmarks/2026-08-09/2086512844594679820.md`
+  - `raw/x-bookmarks/2026-08-09/2086448663295881648.md`
+  - `raw/x-bookmarks/2026-08-09/2086359888083775814.md`
+  - `raw/x-bookmarks/2026-08-09/2086382342214410275.md`
+  - `raw/x-bookmarks/2026-08-08/2086157480216989831.md`
+  - `raw/x-bookmarks/2026-08-09/2086418529008443421.md`
+- Updated `faleth/process/local-minimax-h3-video-generation-tradeoffs-2026.md` with WanGP 12.44 sliding-window continuity and direct ClipProj bookmark provenance.
+- Updated `faleth/process/self-writing-vault-operating-loop-2026.md` with coding-agent histories as behavioral evidence, bounded by privacy, selection-bias, and non-diagnostic guardrails.
+- `index.md` unchanged because no new wiki page was created.
+- Raw-only/skipped wiki: MotionBricks was a hype-heavy secondary claim without inspected primary evidence; two video posts were context-poor relationship/future-self memes; the Bible-text exchange was truncated and polemical; the Hermes memory benchmark bookmark duplicated the full report already ingested on 2026-08-09.
+- Verification: X OAuth/read reachability succeeded; all 8 raw-source SHA-256 values matched their bodies.
