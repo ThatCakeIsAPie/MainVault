@@ -57,6 +57,10 @@ Each allocation is then drawn from a clearly named base, which is what keeps the
 
 **Investors pay a 20% performance fee** on their share of the pool's growth, and nothing else. It's income to the office. If the pool doesn't grow, they pay nothing.
 
+That fee belongs economically to Class B, not Class A. Thirty percent reaches Class B holders as cash dividends, while the retained seventy percent raises office equity and therefore Class B book value per share. Class A status grants stewardship but no claim on this income; a Class A member's financial return comes instead from the subsidiary they run and from any MCA capital they personally place in the pool.
+
+This makes an MCA more than exposure to a pool of assets. The investor is backing the people who build, deploy, and operate those assets, and the performance fee compounds the ownership and dividend income of those working participants when the investors prosper.
+
 **What remains on the office's side** — its own share of the growth, plus the fees it earned — pays 30% out to Class B shareholders as dividends. Everything after that stays in the war chest. Retention isn't a target so much as the default: money that hasn't been explicitly paid out doesn't leave.
 
 Both of those office-side numbers resolve to a figure per share. The dividend pool divides evenly across every Class B share outstanding, so the quarter's dividend per share is that pool over that count. What's retained raises the share itself: **book value per share** is the office's own equity divided by shares outstanding, which means every dollar kept in the war chest lifts the value of every share already held. Dividends reward holding; retention compounds it. Investor capital sits on the balance sheet as an asset and a matching liability that cancel out, so book value reflects only what the office itself owns.
