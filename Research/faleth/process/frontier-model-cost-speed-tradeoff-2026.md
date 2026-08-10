@@ -98,7 +98,9 @@ MiaAI_lab subsequently reports a measured SuperGrok weekly ceiling of **246,975,
 
 The procurement conclusion is narrower than “SuperGrok wins.” This is a user-measured ceiling under one mode and account, not an official entitlement or completed-work benchmark. Cursor includes repository context, editing, orchestration, and execution; SuperGrok exposes a different workflow. Hidden reasoning, caching, tool traffic, cooldowns, and product-specific token accounting may also make the units non-equivalent.
 
-Compare subscriptions on two scorecards: **measured usable capacity** and **accepted work produced**. Raw tokens reveal the subsidy; accepted-result cost reveals whether the product turns that subsidy into leverage. Lyle's own experience of limits remains more decision-relevant than a stranger's theoretical ceiling—because apparently even token buffets can have a bouncer.
+Compare subscriptions on two scorecards: **measured usable capacity** and **accepted work produced**. Raw tokens reveal the subsidy; accepted-result cost reveals whether the product turns that subsidy into leverage.
+
+Lyle's August 2026 retest supplies useful firsthand corroboration: after resubscribing specifically to evaluate the changes, SuperGrok's usable limits feel materially better. The apparent UI paradox is mostly cadence and denominator. Cursor presents a very large **monthly** pool, so its percentage barely moves; SuperGrok presents a smaller-period **weekly** pool, so the meter moves faster even though four weekly allowances can exceed Cursor's monthly capacity. Compare equivalent time windows before trusting how “large” a quota feels—revolutionary mathematics, apparently.
 
 ## Faleth / Hermes implications
 
