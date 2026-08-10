@@ -220,3 +220,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-09
 - Official API **~11:00 UTC**: **400 IDs**, exact diff **0 additions / 0 removals**. Yesterday's DeepSeek V3.2 cut reverted: live pricing is **$0.269/$0.40/M** with **$0.1345/M** cache read. Sonnet 5 remains **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free`. No reroute; revert cost assumptions and compare live prices as well as IDs ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
+
+### 2026-08-10
+- Official API **~11:00 UTC**: **400 IDs**, exact diff **0 additions / 0 removals**. Core pricing held: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free`. No reroute; treat current price headlines as unverified until API-confirmed ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
