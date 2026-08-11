@@ -223,3 +223,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-10
 - Official API **~11:00 UTC**: **400 IDs**, exact diff **0 additions / 0 removals**. Core pricing held: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free`. No reroute; treat current price headlines as unverified until API-confirmed ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
+
+### 2026-08-11
+- Official API **~11:00 UTC**: **402 IDs**, exact diff **+3 / -1**. Added `meta/muse-glimmer-30b` ($0.35/$1.50/M; 131K), `sakana/sakana-namazu` ($0.95/$4/M; 262K), and `upstage/solar-pro4` ($0.03/$0.12/M; 524K); removed `openai/gpt-5.3-chat`. Core/delegate stack pricing held and the removed ID is outside it. OpenRouter also announced usage-informed Auto Router logic; benchmark Solar Pro 4 on low-risk document work, but do not reroute without accepted-output evidence ([API](https://openrouter.ai/api/v1/models), [Auto Router](https://x.com/OpenRouter/status/2086854699576180940)). Signal: **strong** for API facts, **medium** for routing quality.

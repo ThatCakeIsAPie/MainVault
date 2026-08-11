@@ -219,3 +219,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-10
 - Current Dimensions MCP-server and governance coverage reinforced vertical, governed access to authoritative data. Register `data owner`, `source/version`, `read/write scope`, `agent identity`, `permission source`, `receipts`, `approval`, `rollback`, and `stop authority` for every Faleth tool surface ([Dimensions item](https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2E1QlFGZGIzNkpVcDlYU0JoanVCMGRQdWdpM3B1bURCVHVwazkwZU5FcDhpSF9zQ2lYSUI2TS1TRTVaYXMtNHFXSFBQVnJuT3RMMWc0SnJIUzVtUkJFT0hSSjVVS3cydm1pdWM5MzMyMm8xaWdoRTdkak9IWURVSHpQM3k4S3ZmV1FPdHd4VnNIZWlB?oc=5); RSS/snippet-level). Signal: **medium**.
+
+### 2026-08-11
+- Nutanix officially launched an open-source MCP server for hybrid-cloud operations through Prism v4, preserving platform security policies; Cisco, Upwork, Belvo, and Dimensions coverage reinforced vertical MCP proliferation. Treat every interface as a governed tool contract with inherited RBAC, throttles, metering, audit, approval, rollback, and stop authority ([Nutanix](https://www.nutanix.com/press-releases/2026/nutanix-puts-agentic-ai-into-action-for-enterprises)). Signal: **strong** for launch, **medium** for cross-vendor direction.
