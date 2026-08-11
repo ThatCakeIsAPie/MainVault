@@ -1,7 +1,7 @@
 ---
 title: Frontier Model Cost-Speed Tradeoff (SWE-1.7 signal, 2026)
 created: 2026-07-09
-updated: 2026-08-10
+updated: 2026-08-11
 type: principle
 tags: [ai, llm, inference, strategy, systems, leverage]
 sources:
@@ -21,6 +21,8 @@ sources:
   - research/raw/transcripts/lyle-x-share-2082808601765093698.md
   - research/raw/transcripts/lyle-x-share-2086576283211710957.md
   - raw/x-bookmarks/2026-08-02/2084006770704302437.md
+  - raw/x-bookmarks/2026-08-09/2086576283211710957.md
+  - raw/x-bookmarks/2026-08-11/2087034740939411905.md
 confidence: medium
 ---
 
@@ -99,6 +101,10 @@ MiaAI_lab subsequently reports a measured SuperGrok weekly ceiling of **246,975,
 The procurement conclusion is narrower than “SuperGrok wins.” This is a user-measured ceiling under one mode and account, not an official entitlement or completed-work benchmark. Cursor includes repository context, editing, orchestration, and execution; SuperGrok exposes a different workflow. Hidden reasoning, caching, tool traffic, cooldowns, and product-specific token accounting may also make the units non-equivalent.
 
 Compare subscriptions on two scorecards: **measured usable capacity** and **accepted work produced**. Raw tokens reveal the subsidy; accepted-result cost reveals whether the product turns that subsidy into leverage.
+
+The source's full X Note adds an important price-normalization correction omitted from the truncated timeline text: SuperGrok's measured four-week allowance was **37.96% larger**, but its $30 price was **50% higher** than Cursor Pro's $20 price. On the author's own normalization, Cursor supplied **8.73% more tokens per dollar**. This does not settle productivity—Cursor and Grok package different harnesses—but it prevents a larger quota from masquerading as better unit economics. [[raw/x-bookmarks/2026-08-09/2086576283211710957]]
+
+A separate GrokInsider post estimates that the $100/month SuperGrok Heavy tier provides **$2,700–3,000 of Grok 4.5 usage** and says the $30 tier will be tested. Treat that as a prospective single-source estimate, not an entitlement: no workload mix, accounting method, completed-work measure, or finished test was supplied. It belongs on the watchlist, not in procurement math yet. [[raw/x-bookmarks/2026-08-11/2087034740939411905]]
 
 Lyle's August 2026 retest supplies useful firsthand corroboration: after resubscribing specifically to evaluate the changes, SuperGrok's usable limits feel materially better. The apparent UI paradox is mostly cadence and denominator. Cursor presents a very large **monthly** pool, so its percentage barely moves; SuperGrok presents a smaller-period **weekly** pool, so the meter moves faster even though four weekly allowances can exceed Cursor's monthly capacity. Compare equivalent time windows before trusting how “large” a quota feels—revolutionary mathematics, apparently.
 

@@ -850,3 +850,21 @@
 - `index.md` unchanged because no new wiki page was created.
 - Raw-only/skipped wiki: MotionBricks was a hype-heavy secondary claim without inspected primary evidence; two video posts were context-poor relationship/future-self memes; the Bible-text exchange was truncated and polemical; the Hermes memory benchmark bookmark duplicated the full report already ingested on 2026-08-09.
 - Verification: X OAuth/read reachability succeeded; all 8 raw-source SHA-256 values matched their bodies.
+
+## [2026-08-11] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 44 were already processed; ingested all 6 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-11/2086988060357488659.md`
+  - `raw/x-bookmarks/2026-08-11/2087034740939411905.md`
+  - `raw/x-bookmarks/2026-08-10/2086961142329725233.md`
+  - `raw/x-bookmarks/2026-08-09/2086434570031993112.md`
+  - `raw/x-bookmarks/2026-08-09/2086560843362079171.md`
+  - `raw/x-bookmarks/2026-08-09/2086576283211710957.md`
+- Updated `faleth/process/frontier-model-cost-speed-tradeoff-2026.md` with SuperGrok-versus-Cursor price normalization and a provisional SuperGrok Heavy usage-value estimate.
+- Updated `faleth/mindset/heart-intuition-guts-over-analysis-2026.md` with Jensen Huang's definition of intelligence as technical competence plus empathy and anticipatory judgment.
+- Updated `faleth/process/agentic-loops-design-2026.md` with Hermes Pixel Office as a visual-observability prototype, not yet a reproducible productivity result.
+- `index.md` unchanged because no new wiki page was created.
+- Raw-only/skipped wiki: the relationship quote was a context-poor meme; the Guang Wu image made a historical-theological claim without primary-text provenance or sufficient verification.
+- Retrieval and verification: X OAuth/read succeeded; official media expansion, image OCR, and local transcription inspected the attachments. All 6 raw-source SHA-256 values matched their bodies.
+- Files changed in this ingest: 6 raw notes, 3 existing wiki pages, and `log.md`.

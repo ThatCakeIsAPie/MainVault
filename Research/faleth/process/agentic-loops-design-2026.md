@@ -1,13 +1,14 @@
 ---
 title: Agentic Loops — Design Over Prompting (2026)
 created: 2026-07-07
-updated: 2026-08-03
+updated: 2026-08-11
 tags: [ai, software, systems, operations, framework]
 type: principle
 sources:
   - raw/transcripts/lyle-x-share-2074424941286719706.md
   - raw/x-bookmarks/2026-08-02/2084065915004747888.md
   - raw/x-bookmarks/2026-08-01/2083458624202944694.md
+  - raw/x-bookmarks/2026-08-10/2086961142329725233.md
 confidence: medium
 ---
 
@@ -51,6 +52,8 @@ A short visual demo represented UI implementation, code review, and a visual jud
 
 Use node views when they reveal state that would otherwise be hidden across parallel agents. Keep the executable workflow file-native and testable where possible, consistent with [[faleth/process/file-native-agent-canvases-2026]]. If the diagram becomes a second source of truth or adds manual wiring without improving diagnosis, delete the diagram. We have enough enterprise spaghetti already.
 
+Teknium's “Hermes Pixel Office” screenshot is a lightweight version of the same observability idea: agents and subagents are represented in a visual office while the Hermes terminal remains visible. The author says it was made in one session but had not yet published setup or usage links, so the bookmark establishes a prototype—not a reproducible tool or productivity gain. The durable acceptance test is whether a spatial view makes ownership, activity, blocking, or handoffs easier to inspect; cute sprites alone are agent theater with better interior design. [[raw/x-bookmarks/2026-08-10/2086961142329725233]]
+
 ## Faleth / Three Ps
 
 - **Process** bedrock: compress manual steering into **repeatable loops** with clear stop rules.
@@ -69,3 +72,4 @@ Use node views when they reveal state that would otherwise be hidden across para
 - Ingest: [[Research/raw/transcripts/lyle-x-share-2074424941286719706]]
 - Hermes efficiency announcement: [[raw/x-bookmarks/2026-08-02/2084065915004747888]]
 - Node-workflow demo: [[raw/x-bookmarks/2026-08-01/2083458624202944694]]
+- Hermes Pixel Office prototype: [[raw/x-bookmarks/2026-08-10/2086961142329725233]]
