@@ -2,7 +2,7 @@
 type: note
 title: Lyle Telegram X Shares Log
 created: '2026-06-22T00:00:00+00:00'
-updated: '2026-08-10T17:06:23+00:00'
+updated: '2026-08-12T03:32:41+00:00'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -18,6 +18,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-08-12 | [2087247083971760207](https://x.com/narkhip/status/2087247083971760207) | Wtf this is dope; Cursor Field CTO living on Grok Bot | [[research/raw/transcripts/lyle-x-share-2087247083971760207]] | [[research/faleth/process/messaging-ui-as-agent-operating-surface-2026]] |
 | 2026-08-10 | [2086576283211710957](https://x.com/i/status/2086576283211710957) | measured SuperGrok versus Cursor Pro Grok 4.5 token ceilings | [[research/raw/transcripts/lyle-x-share-2086576283211710957]] | [[research/faleth/process/frontier-model-cost-speed-tradeoff-2026]] |
 | 2026-08-09 | [2086531287754448949](https://x.com/i/status/2086531287754448949) | asked whether Unsloth's pruned H3 GGUFs make 8 GB GPUs genuinely viable | [[research/raw/transcripts/lyle-x-share-2086531287754448949]] | [[research/faleth/process/local-minimax-h3-video-generation-tradeoffs-2026]] |
 | 2026-08-09 | [2086532726967112049](https://x.com/i/status/2086532726967112049) | asked whether Bonsai compression should replace ClipProj's 4B encoder substitution for MiniMax H3 | [[research/raw/transcripts/lyle-x-share-2086532726967112049]] | [[research/faleth/process/local-minimax-h3-video-generation-tradeoffs-2026]] |
