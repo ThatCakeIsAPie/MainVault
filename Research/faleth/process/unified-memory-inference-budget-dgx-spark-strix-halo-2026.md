@@ -1,7 +1,7 @@
 ---
 title: Unified-Memory Inference Budget — DGX Spark, RTX Spark, and Strix Halo
 created: 2026-07-30
-updated: 2026-08-09
+updated: 2026-08-12
 type: principle
 tags: [ai, llm, inference, hardware, systems]
 sources:
@@ -114,6 +114,14 @@ Choose **hardware + model + quantization + runtime + context target + concurrenc
 - watts and completed-job cost.
 
 The local box should absorb stable, high-volume work while frontier cloud models retain planning, hard judgment, and overflow. Ownership is useful; forcing every workload onto owned hardware is merely cloud lock-in wearing a homemade hat.
+
+## Multi-GPU DS4 throughput signal (2026-08-12)
+
+0xSero reports **DeepSeek-V4-Flash-0731** reaching **407 tok/s single-stream decode** and **1,387 tok/s aggregate across eight sessions** on **4 × RTX PRO 6000**, with approximately **5 million tokens of total KV/context capacity**, using the model-specific **DS4 / DwarfStar** runtime. A phone recording shows the resulting coding agent through **Local Studio** and its **Litter** mobile client: the model reasons, edits a Python SVG generator, runs it, encounters failures, inspects the file, and continues repairing it from the phone interface. [[raw/transcripts/lyle-x-share-2087544650559025190]]
+
+Keep the layers separate: DS4 plus four large GPUs produce the throughput; Local Studio coordinates the local agent/backend; Litter turns it into a usable mobile surface. This is legitimately "Cerebras at home" responsiveness, but not Cerebras-at-home economics—the hardware is workstation/server class, and the exact DS4 configuration has not yet been published. Treat the figures as a highly specific practitioner signal pending a reproducible recipe, power measurements, and accepted-task benchmarks.
+
+This strengthens the procurement rule: specialized model-runtime co-design can materially outperform a generic server on fixed hardware, while interface quality determines whether that speed becomes real operator leverage. Raw tokens per second without an agent surface are a benchmark; tokens per second inside a working edit-run-debug loop are a tool.
 
 ## First commissioning sequence
 
