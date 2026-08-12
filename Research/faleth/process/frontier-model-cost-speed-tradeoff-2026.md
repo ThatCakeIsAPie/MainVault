@@ -1,7 +1,7 @@
 ---
 title: Frontier Model Cost-Speed Tradeoff (SWE-1.7 signal, 2026)
 created: 2026-07-09
-updated: 2026-08-11
+updated: 2026-08-12
 type: principle
 tags: [ai, llm, inference, strategy, systems, leverage]
 sources:
