@@ -868,3 +868,23 @@
 - Raw-only/skipped wiki: the relationship quote was a context-poor meme; the Guang Wu image made a historical-theological claim without primary-text provenance or sufficient verification.
 - Retrieval and verification: X OAuth/read succeeded; official media expansion, image OCR, and local transcription inspected the attachments. All 6 raw-source SHA-256 values matched their bodies.
 - Files changed in this ingest: 6 raw notes, 3 existing wiki pages, and `log.md`.
+
+## [2026-08-12] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 43 were already processed; ingested all 7 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-11/2087252657589412119.md`
+  - `raw/x-bookmarks/2026-08-12/2087354679718297992.md`
+  - `raw/x-bookmarks/2026-08-11/2087247083971760207.md`
+  - `raw/x-bookmarks/2026-08-11/2087234458336604370.md`
+  - `raw/x-bookmarks/2026-08-11/2087259441435713888.md`
+  - `raw/x-bookmarks/2026-08-11/2086987966283694580.md`
+  - `raw/x-bookmarks/2026-08-11/2086988399085584510.md`
+- Updated `faleth/process/messaging-ui-as-agent-operating-surface-2026.md` with Grok Bot's persistent VM, human handoff, user/agent/project memory, event triggers, workflow recording, reviewer controls, and trigger-to-evidence demo loop; normalized its frontmatter to the wiki schema.
+- Updated `faleth/process/frontier-model-cost-speed-tradeoff-2026.md` with the claimed SuperGrok Heavy → one-month Cursor Ultra bundle, explicitly treated as an unverified temporary subsidy rather than recurring economics.
+- Updated `concepts/offshoots/persistent-consistent-action.md` with the education → execution → consistency diagnostic ladder.
+- Created `faleth/process/spring-damper-undulation-procedural-secondary-motion-2026.md` from the physics-based MaxScript demonstration and linked tutorial.
+- Updated `index.md` for the new procedural-animation page and the same-day Grok Bot principle created by the earlier inbound-share workflow.
+- Raw-only/skipped wiki: the secondary Grok Bot launch and cloud-VM reply were consolidated into the existing Grok Bot principle; no duplicate entity pages were created.
+- Retrieval and verification: X OAuth/read succeeded; full X Article text, official media expansion, image OCR, Japanese translation, and the author's tutorial link were inspected. All 7 raw-source SHA-256 values matched their bodies.
+- Files changed in this ingest: 7 raw notes, 1 new wiki page, 3 existing wiki pages, `index.md`, and `log.md`.

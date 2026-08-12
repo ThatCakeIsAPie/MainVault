@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-09 | Total pages: 50+
+> Last updated: 2026-08-12 | Total pages: 50+
 
 ## Meta / schema
 
@@ -157,4 +157,6 @@
 - [[faleth/process/book-to-skill-compilation-for-agent-knowledge-2026]] — Compile long books and PDFs into navigable, testable agent skills rather than one giant prompt.
 - [[faleth/process/free-electron-laser-euv-light-utility-2026]] — FEL-based central EUV utility for multiple lithography scanners; technically credible concept, contested Terafab interpretation.
 - [[faleth/process/local-minimax-h3-video-generation-tradeoffs-2026]] — Local H3 feasibility on four RTX 3090s, with Turbo-LoRA speed, motion-smear, accepted-result-cost, and licensing caveats.
+- [[faleth/process/messaging-ui-as-agent-operating-surface-2026]] — Messaging becomes an effective agent cockpit only when persistent compute, layered memory, triggers, handoffs, review controls, and verified tool execution sit underneath.
+- [[faleth/process/spring-damper-undulation-procedural-secondary-motion-2026]] — Simple spring-damper dynamics and length constraints can produce inspectable, reusable wave-like secondary animation without generative models.
 

@@ -23,6 +23,7 @@ sources:
   - raw/x-bookmarks/2026-08-02/2084006770704302437.md
   - raw/x-bookmarks/2026-08-09/2086576283211710957.md
   - raw/x-bookmarks/2026-08-11/2087034740939411905.md
+  - raw/x-bookmarks/2026-08-11/2087259441435713888.md
 confidence: medium
 ---
 
@@ -103,6 +104,8 @@ The procurement conclusion is narrower than “SuperGrok wins.” This is a user
 Compare subscriptions on two scorecards: **measured usable capacity** and **accepted work produced**. Raw tokens reveal the subsidy; accepted-result cost reveals whether the product turns that subsidy into leverage.
 
 The source's full X Note adds an important price-normalization correction omitted from the truncated timeline text: SuperGrok's measured four-week allowance was **37.96% larger**, but its $30 price was **50% higher** than Cursor Pro's $20 price. On the author's own normalization, Cursor supplied **8.73% more tokens per dollar**. This does not settle productivity—Cursor and Grok package different harnesses—but it prevents a larger quota from masquerading as better unit economics. [[raw/x-bookmarks/2026-08-09/2086576283211710957]]
+
+A 2026-08-11 GrokInsider post claims an additional temporary bundle: starting Grok Bot from SuperGrok Heavy automatically provisions one month of Cursor Ultra (described as roughly $200) with a separate usage pool and no pre-existing Cursor account required. If accurate, that subsidy can dominate a short evaluation window, but it is a secondary account, not official entitlement documentation; duration, eligibility, renewal behavior, regional availability, and whether the pools are truly independent were not verified. Treat it as a trial opportunity to confirm in-product—not recurring unit economics. [[raw/x-bookmarks/2026-08-11/2087259441435713888]]
 
 A separate GrokInsider post estimates that the $100/month SuperGrok Heavy tier provides **$2,700–3,000 of Grok 4.5 usage** and says the $30 tier will be tested. Treat that as a prospective single-source estimate, not an entitlement: no workload mix, accounting method, completed-work measure, or finished test was supplied. It belongs on the watchlist, not in procurement math yet. [[raw/x-bookmarks/2026-08-11/2087034740939411905]]
 
