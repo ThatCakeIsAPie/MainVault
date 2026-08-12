@@ -226,3 +226,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-11
 - Official API **~11:00 UTC**: **402 IDs**, exact diff **+3 / -1**. Added `meta/muse-glimmer-30b` ($0.35/$1.50/M; 131K), `sakana/sakana-namazu` ($0.95/$4/M; 262K), and `upstage/solar-pro4` ($0.03/$0.12/M; 524K); removed `openai/gpt-5.3-chat`. Core/delegate stack pricing held and the removed ID is outside it. OpenRouter also announced usage-informed Auto Router logic; benchmark Solar Pro 4 on low-risk document work, but do not reroute without accepted-output evidence ([API](https://openrouter.ai/api/v1/models), [Auto Router](https://x.com/OpenRouter/status/2086854699576180940)). Signal: **strong** for API facts, **medium** for routing quality.
+
+### 2026-08-12
+- Official API **~11:00 UTC**: **406 IDs**, exact diff **+4 / -0**. Added `nvidia/nemotron-3.5-lightning` ($0.10/$0.25/M) plus `:free`, `liquid/lfm-2.5-2.6b:free`, and `bytedance-seed/seed-2.0-code` ($0.50/$3/M). Core/delegate pricing and cache rates held. Keep routes stable; benchmark paid Nemotron only on a bounded low-risk agent task with preflight and fallback ([API](https://openrouter.ai/api/v1/models), [launch](https://x.com/OpenRouter/status/2087166520564834482)). Signal: **strong**.

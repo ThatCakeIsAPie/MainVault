@@ -211,3 +211,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-11
 - FLUX 3 Video's official materials document up to 20-second video, native synchronized audio, keyframes, continuation, and Draft Mode; current discussion highlighted roughly $0.06/sec draft economics. FRR should benchmark one complete draft-to-final repair explainer and measure keeper rate, corrections, edit time, provenance, platform acceptance, bookings, and accepted-result cost ([BFL](https://bfl.ai/models/flux-3), [release](https://bfl.ai/blog/flux-3-video)). Signal: **strong** for documented capability, **medium** for current economics discussion.
+
+### 2026-08-12
+- LTX-2.5 launch coverage emphasized open weights, multi-shot continuity, professional HDR/RAW workflows, and rapid high-end inference. Exact benchmarks remain social/RSS-level because primary extraction was unavailable. Add it to the one-asset FRR benchmark list; score continuity, corrections, edit time, rights, acceptance, inquiries, bookings, and accepted-result cost ([LTX launch](https://x.com/i/status/2087255203489755243), [technical signal](https://x.com/AGTPinsights/status/2087269254248689936)). Signal: **medium–strong** for direction.

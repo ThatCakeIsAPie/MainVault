@@ -222,3 +222,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-11
 - Nutanix officially launched an open-source MCP server for hybrid-cloud operations through Prism v4, preserving platform security policies; Cisco, Upwork, Belvo, and Dimensions coverage reinforced vertical MCP proliferation. Treat every interface as a governed tool contract with inherited RBAC, throttles, metering, audit, approval, rollback, and stop authority ([Nutanix](https://www.nutanix.com/press-releases/2026/nutanix-puts-agentic-ai-into-action-for-enterprises)). Signal: **strong** for launch, **medium** for cross-vendor direction.
+
+### 2026-08-12
+- Ryanair's five-year Google Cloud partnership puts Gemini Enterprise agents into crew-logistics and workforce workflows while MCP discussion converged on registries, policy runtime, observability, and governed execution. Standardize owner, identity, permission source, data class, scope, receipt, reviewer, rollback, and kill authority for every Faleth agent/tool ([Google Cloud](https://www.googlecloudpresscorner.com/2026-08-12-Ryanair-and-Google-Cloud-Announce-Five-Year-Data-and-AI-Partnership), [Arcade/Smithery signal](https://x.com/TryArcade/status/2087300784438309312)). Signal: **strong** for official adoption, **medium** for governance convergence.
