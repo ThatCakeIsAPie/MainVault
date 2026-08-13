@@ -229,3 +229,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-12
 - Official API **~11:00 UTC**: **406 IDs**, exact diff **+4 / -0**. Added `nvidia/nemotron-3.5-lightning` ($0.10/$0.25/M) plus `:free`, `liquid/lfm-2.5-2.6b:free`, and `bytedance-seed/seed-2.0-code` ($0.50/$3/M). Core/delegate pricing and cache rates held. Keep routes stable; benchmark paid Nemotron only on a bounded low-risk agent task with preflight and fallback ([API](https://openrouter.ai/api/v1/models), [launch](https://x.com/OpenRouter/status/2087166520564834482)). Signal: **strong**.
+
+### 2026-08-13
+- Official API **~11:00 UTC**: **409 IDs**, exact diff **+4 / -1**. Added `x-ai/grok-4.6` ($2/$6/M), `deepseek/deepseek-v4-pro-0813` ($0.435/$0.87/M), `qwen/qwen3.8-2.4t-a95b` ($2/$6/M), and `bytedance-seed/seed-2-1-turbo` ($0.50/$2.50/M); removed `inclusionai/ling-3.0-tiny:free`. Core/delegate pricing and cache held. Keep production routes stable; benchmark DeepSeek V4 Pro only on a bounded task and verify no fallback depends on the removed free ID ([API](https://openrouter.ai/api/v1/models), [Grok launch](https://x.com/OpenRouter/status/2087567951809655120)). Signal: **strong**.

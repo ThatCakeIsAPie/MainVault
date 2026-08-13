@@ -214,3 +214,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-12
 - No new U.S. ESOP/EOT rule or mechanism-grade Faleth analogue surfaced. The care-cooperative case continued as background, reinforcing that ownership, voice, allocation, governance, liquidity, retention, and service quality must be separately specified and measured ([The Nation](https://www.thenation.com/article/society/worker-coops-elder-care-dementia/)). Signal: **weak** for novelty, **medium–weak** for continuing direction.
+
+### 2026-08-13
+- The targeted strict-window feed returned no items, and no new U.S. ESOP/EOT rule, major employee-ownership transaction, or mechanism-grade Faleth analogue surfaced. Make no design change; continue specifying and measuring ownership, voice, allocation, governance, liquidity, retention, and service quality separately ([DOL report — background](https://beta.dol.gov/system/files/research-data/2026-02/employee-ownership-report-to-congress.pdf)). Signal: **weak** for novelty.

@@ -214,3 +214,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-12
 - Current coverage emphasized continuation-vehicle tradeoffs, credit-secondary valuations, evergreen structures, and private-market access through retirement accounts. Liquidity engineering can postpone an exit without creating operating value; screen valuation source, conflicts, leverage/refinancing, cash conversion, owner dependence, operator assignment, and no-exit downside. No Faleth acquisition action; VXE execution remains first. Signal: **medium** for liquidity direction, **weak** for opportunity.
+
+### 2026-08-13
+- An AI freight roll-up acquisition and lower-middle-market private-credit coverage reinforced integration capacity and financing certainty as core constraints. Screen owner dependence, customer concentration, operator assignment, leverage/refinancing, data/software fragility, cash conversion, and no-exit downside. No Faleth acquisition action; VXE cash timing and fulfillment remain first ([AI freight item](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVpEM1hpY3p2WWMzeHVSa2FYaEFEejdxSmFFLVh0bXRGQW0xTkxsdG0zWVNRY3hWQmlNbHozdTVEZFJLU3NOOVN1dkxQRUJNd1ViV1NvRXA1QkZWeEFRTldzS2lfcW5WQlp4aHBsUVoxakJEUC02WlotbVhuTjhzdTFHbzc?oc=5)). Signal: **medium–weak**; RSS/snippet-level.
