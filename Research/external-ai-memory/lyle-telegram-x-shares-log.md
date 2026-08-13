@@ -2,7 +2,7 @@
 type: note
 title: Lyle Telegram X Shares Log
 created: '2026-06-22T00:00:00+00:00'
-updated: '2026-08-13T19:05:00+00:00'
+updated: '2026-08-13T22:45:00+00:00'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -18,6 +18,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-08-13 | [2087986084592709814](https://x.com/Teknium/status/2087986084592709814) | Hermes Subagent Orchestra; asked to update | [[research/raw/transcripts/lyle-x-share-2087986084592709814]] | [[research/faleth/process/hermes-subagent-orchestra-2026]] |
 | 2026-08-13 | [2087969186219778252](https://x.com/doganuraldesign/status/2087969186219778252) | asked Grok 4.6 to read For You algorithm post | [[research/raw/transcripts/lyle-x-share-2087969186219778252]] | [[research/faleth/content/x-for-you-algorithm-action-weights-2026]] |
 | 2026-08-12 | [2087544650559025190](https://x.com/0xSero/status/2087544650559025190) | ambient share; DS4 Flash through Litter + Local Studio at claimed 400 tok/s | [[research/raw/transcripts/lyle-x-share-2087544650559025190]] | [[research/faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] |
 | 2026-08-12 | [2087247083971760207](https://x.com/narkhip/status/2087247083971760207) | Wtf this is dope; Cursor Field CTO living on Grok Bot | [[research/raw/transcripts/lyle-x-share-2087247083971760207]] | [[research/faleth/process/messaging-ui-as-agent-operating-surface-2026]] |
