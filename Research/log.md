@@ -888,3 +888,15 @@
 - Raw-only/skipped wiki: the secondary Grok Bot launch and cloud-VM reply were consolidated into the existing Grok Bot principle; no duplicate entity pages were created.
 - Retrieval and verification: X OAuth/read succeeded; full X Article text, official media expansion, image OCR, Japanese translation, and the author's tutorial link were inspected. All 7 raw-source SHA-256 values matched their bodies.
 - Files changed in this ingest: 7 raw notes, 1 new wiki page, 3 existing wiki pages, `index.md`, and `log.md`.
+
+## [2026-08-13] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 48 were already processed; ingested all 2 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-12/2087493068735819924.md` — two-DGX-Spark DeepSeek V4 Flash long-context latency claim after six vLLM 0.27 patch backports.
+  - `raw/x-bookmarks/2026-08-12/2087544650559025190.md` — DS4 Flash + Local Studio + Litter demonstration claiming roughly 400 tok/s.
+- Updated `faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026.md` with long-context latency as a separate commissioning metric and linked the duplicate bookmark provenance for the already-ingested DS4 mobile-agent demonstration.
+- `index.md` unchanged because no new wiki page was created.
+- Evidence limits: both are practitioner claims without reproducible configurations or complete measurements; the 0xSero bookmark duplicates the Telegram source rather than independently corroborating it.
+- Verification: X OAuth/read reachability succeeded; both raw-source SHA-256 values matched their bodies.
+- Files changed in this ingest: 2 raw notes, 1 existing wiki page, and `log.md`.

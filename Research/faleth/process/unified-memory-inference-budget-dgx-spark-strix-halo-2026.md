@@ -1,7 +1,7 @@
 ---
 title: Unified-Memory Inference Budget — DGX Spark, RTX Spark, and Strix Halo
 created: 2026-07-30
-updated: 2026-08-12
+updated: 2026-08-13
 type: principle
 tags: [ai, llm, inference, hardware, systems]
 sources:
@@ -10,6 +10,8 @@ sources:
   - raw/x-bookmarks/2026-07-30/2082909527515779164.md
   - raw/articles/2026-07-31-waste-inference-engine-readme.md
   - raw/x-bookmarks/2026-08-02/2083705845670650195.md
+  - raw/x-bookmarks/2026-08-12/2087493068735819924.md
+  - raw/x-bookmarks/2026-08-12/2087544650559025190.md
 confidence: medium
 ---
 
@@ -122,6 +124,14 @@ The local box should absorb stable, high-volume work while frontier cloud models
 Keep the layers separate: DS4 plus four large GPUs produce the throughput; Local Studio coordinates the local agent/backend; Litter turns it into a usable mobile surface. This is legitimately "Cerebras at home" responsiveness, but not Cerebras-at-home economics—the hardware is workstation/server class, and the exact DS4 configuration has not yet been published. Treat the figures as a highly specific practitioner signal pending a reproducible recipe, power measurements, and accepted-task benchmarks.
 
 This strengthens the procurement rule: specialized model-runtime co-design can materially outperform a generic server on fixed hardware, while interface quality determines whether that speed becomes real operator leverage. Raw tokens per second without an agent surface are a benchmark; tokens per second inside a working edit-run-debug loop are a tool.
+
+The bookmark preserves the same 0xSero demonstration already captured through Telegram, so it adds provenance rather than an independent second result. [[raw/x-bookmarks/2026-08-12/2087544650559025190]]
+
+### Long-context latency is a separate acceptance metric
+
+Mia reports backporting six vLLM 0.27 performance patches into a **two-DGX-Spark DeepSeek V4 Flash** deployment and describes a major latency improvement as context grows from **65K to 262K tokens**. The post does not provide the chart's underlying measurements, patch list, runtime configuration, prompt-processing rate, time-to-first-token, inter-token latency, or quality checks, so it is an operator signal rather than a reproducible benchmark. [[raw/x-bookmarks/2026-08-12/2087493068735819924]]
+
+The durable correction is still valuable: once decode throughput becomes comfortably interactive, **latency under realistic context** can dominate usability. Commissioning should therefore record time-to-first-token and tail latency at fixed context checkpoints—not merely average tok/s—and test whether runtime patches preserve stability and output quality. This complements [[faleth/process/llm-inference-serving-five-optimization-surfaces-2026]] and the accepted-job framing in [[faleth/process/frontier-model-cost-speed-tradeoff-2026]].
 
 ## First commissioning sequence
 
