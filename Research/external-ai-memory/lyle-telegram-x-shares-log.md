@@ -18,6 +18,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-08-14 | [2088365268443496586](https://x.com/0xSero/status/2088365268443496586) | Oddly related | [[research/raw/transcripts/lyle-x-share-2088365268443496586]] | [[research/faleth/content/x-creator-payout-impressions-signal-2026]] |
 | 2026-08-14 | [2088305236003926468](https://x.com/HouseHackerJon/status/2088305236003926468) | ambient share | [[research/raw/transcripts/lyle-x-share-2088305236003926468]] | [[research/faleth/process/owner-manages-agent-manager-not-the-work-2026]] |
 | 2026-08-13 | [2087986084592709814](https://x.com/Teknium/status/2087986084592709814) | Hermes Subagent Orchestra; asked to update | [[research/raw/transcripts/lyle-x-share-2087986084592709814]] | [[research/faleth/process/hermes-subagent-orchestra-2026]] |
 | 2026-08-13 | [2087969186219778252](https://x.com/doganuraldesign/status/2087969186219778252) | asked Grok 4.6 to read For You algorithm post | [[research/raw/transcripts/lyle-x-share-2087969186219778252]] | [[research/faleth/content/x-for-you-algorithm-action-weights-2026]] |

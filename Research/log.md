@@ -949,3 +949,10 @@
 - Updated: [[faleth/content/x-ocr-to-supergrok-prosumer-2026]] and [[index]]
 - Lyle named the stack: Hardy sell-in-bulk, Brunson Dream 100, Hormozi test (collaborator not clone)
 - 100 is the living catalog; this season's working set stays 8
+
+## [2026-08-14] ingest | 0xSero $2008 / 8.5M rev-share sample
+
+- Raw source: [[raw/transcripts/lyle-x-share-2088365268443496586]]
+- Updated: [[faleth/content/x-creator-payout-impressions-signal-2026]] and shares log
+- Lyle note: oddly related to SuperGrok / Dream 100 thread
+- Dying-program sample (ads revenue share); implied ~$0.24/1K this window; not an OCR forecast
