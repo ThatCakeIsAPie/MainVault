@@ -132,6 +132,8 @@
 - [[faleth/process/hermes-agent-long-horizon-codebases-2026]] — Hermes on huge legacy codebases
 - [[faleth/content/hermes-grok-x-content-machine-2026]] — automated X content machine packaging
 - [[faleth/content/x-ocr-to-supergrok-prosumer-2026]] — X Original Content Rewards as the only live payout path; replies build the room, originals pay; SuperGrok is prosumer inventory after Premium and two covering payouts.
+- [[faleth/content/dream-100-bulk-congregation-2026]] — Hardy bulk + Brunson Dream 100: borrow the room by becoming someone a named operator would platform, not a smaller clone.
+
 - [[faleth/process/llm-foundations-skill-stack-2026]] — CS229 foundations as future curriculum
 - [[faleth/process/agentic-loops-design-2026]] — Anthropic four loop types (prior + re-indexed)
 - [[faleth/process/hermes-cloud-and-x-mcp-2026]] — Hermes Cloud + hosted X MCP agent surface

@@ -942,3 +942,10 @@
 - Lyle refinement: relevant-to-larger-operators as borrowed distribution
 - Split quote/repost/copy-link (pays) from reply-guy-on-their-thread (room only)
 - Sequence: named eight, useful increment, then original they can export; weekly KPI is quotes from those names
+
+## [2026-08-14] create | Dream 100 bulk congregation
+
+- Created: [[faleth/content/dream-100-bulk-congregation-2026]]
+- Updated: [[faleth/content/x-ocr-to-supergrok-prosumer-2026]] and [[index]]
+- Lyle named the stack: Hardy sell-in-bulk, Brunson Dream 100, Hormozi test (collaborator not clone)
+- 100 is the living catalog; this season's working set stays 8

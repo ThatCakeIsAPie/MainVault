@@ -71,13 +71,15 @@ Write originals people **export**. Farm likes and you are decorating.
 
 ## Write for the person who can export you
 
-Lyle's 2026-08-14 refinement: post work that is relevant **even to a larger operator**, so a follow or share taps their already-assembled room.
+Lyle's 2026-08-14 refinement, then named: this is Hardy bulk + Brunson **Dream 100**, not "post what big accounts like."
 
-Keep it. Kill the cargo-cult version.
+Sell in bulk by going where the avatar already congregates. The Dream 100 is the list of people who hold that room. The Hormozi test is Lyle's: do not *be* Hormozi. Be someone Hormozi would want to talk about.
 
-**Good version:** name 8 operators you already read. Write originals they would **quote** because you added a missing piece they do not have (Faleth process, sanitized GovCon, faith-and-agency, owner-manages-the-manager). Reply in their threads with that same missing piece. Measure quotes and profile visits from those eight names.
+Full principle: [[faleth/content/dream-100-bulk-congregation-2026]].
 
-**Bad version:** post in their genre so you look like a smaller them. For You's similar-post reranker (θ = 0.65) is built to spread lookalikes. Stranger replies never ride into a random For You. Tagging "would love your thoughts" is just asking. One viral borrow is a lottery ticket, not a system.
+**Good version:** keep a living Dream 100. This season's **working set is 8** named operators you already read. Write originals they would **quote** because you added a missing piece they do not have (Faleth process, sanitized GovCon, faith-and-agency, owner-manages-the-manager). Reply in their threads with that same missing piece. Measure quotes and profile visits from those eight names. 100 is the catalog. Eight is the work.
+
+**Bad version:** post in their genre so you look like a smaller them. For You's similar-post reranker (θ = 0.65) is built to spread lookalikes. Stranger replies never ride into a random For You. Tagging "would love your thoughts" or "let's collab" is just asking. One viral borrow is a lottery ticket, not a system. Cold-DMing 100 celebrities is not Brunson. Being worth the platform is.
 
 How the borrow actually pays:
 
@@ -168,4 +170,5 @@ $500/mo from X is possible for accounts that already hold Premium attention. It 
 - [[faleth/content/x-creator-payout-impressions-signal-2026]]
 - [[faleth/content/hermes-grok-x-content-machine-2026]]
 - [[faleth/process/owner-manages-agent-manager-not-the-work-2026]]
+- [[faleth/content/dream-100-bulk-congregation-2026]]
 - [[concepts/offshoots/asset-creation-over-linear-income]]
