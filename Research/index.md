@@ -161,4 +161,5 @@
 - [[faleth/process/messaging-ui-as-agent-operating-surface-2026]] — Messaging becomes an effective agent cockpit only when persistent compute, layered memory, triggers, handoffs, review controls, and verified tool execution sit underneath.
 - [[faleth/process/spring-damper-undulation-procedural-secondary-motion-2026]] — Simple spring-damper dynamics and length constraints can produce inspectable, reusable wave-like secondary animation without generative models.
 - [[faleth/process/hermes-bot-mode-persistent-profiles-2026]] — Hermes Bot Mode treats named agent profiles as standing teammates with jobs, memory, and inter-bot chat, distinct from disposable sessions and from mid-flight subagent steering.
+- [[faleth/process/owner-manages-agent-manager-not-the-work-2026]] — Owner manages a named manager-agent; that agent owns review and the next specialist hire; inbound jobs are the scoreboard.
 

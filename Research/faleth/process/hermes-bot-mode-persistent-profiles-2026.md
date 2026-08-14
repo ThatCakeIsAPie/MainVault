@@ -57,3 +57,4 @@ That maps onto the same stack already running as Delta: Telegram is the operator
 - [[faleth/process/hermes-subagent-orchestra-2026]]
 - [[faleth/process/hermes-agent-long-horizon-codebases-2026]]
 - [[faleth/process/agentic-loops-design-2026]]
+- [[faleth/process/owner-manages-agent-manager-not-the-work-2026]]

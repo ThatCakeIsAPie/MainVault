@@ -11,6 +11,7 @@ sources:
   - raw/x-bookmarks/2026-08-11/2087247083971760207.md
   - raw/x-bookmarks/2026-08-11/2087234458336604370.md
   - raw/x-bookmarks/2026-08-13/2088003994904113614.md
+  - raw/transcripts/lyle-x-share-2088305236003926468.md
 confidence: medium
 ---
 
@@ -86,7 +87,7 @@ Voice is an additional edge (see [[research/faleth/process/delta-phone-interface
 
 1. **Prefer chat over panels** for operator intent; use structured UIs only where chat is worse (diff review, dense tables, approvals).
 2. **Never trust “done” without proof** — re-run tests, read-back files, fetch URLs.
-3. **Specialize agents by role**, not by multiplying dashboards.
+3. **Specialize agents by role**, not by multiplying dashboards. A trades operator's 2026-08-14 Grok Bot thread makes the next cut: the owner manages a **manager-agent**, and that agent owns review plus the next specialist hire. See [[faleth/process/owner-manages-agent-manager-not-the-work-2026]].
 4. **Persist corrections same-turn** (Honcho / vault / skills) so feedback compounds.
 5. **One-ask KPI:** each session should reduce how many times Lyle restates context or re-steers mechanical steps.
 6. **Authority boundaries stay human** — tool sign-in and outbound actions need explicit scope; finished work without review is how you automate regret.
