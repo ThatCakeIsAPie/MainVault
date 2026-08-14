@@ -7,9 +7,12 @@ related:
   - research/faleth/content/x-creator-payout-impressions-signal-2026
   - research/faleth/content/reply-led-audience-discovery-2026
   - research/faleth/content/systematic-x-voice-layer-printer-2026
+  - raw/x-bookmarks/2026-08-13/2087969186219778252.md
 sources:
   - 'https://x.com/doganuraldesign/status/2087969186219778252'
+  - raw/x-bookmarks/2026-08-13/2087969186219778252.md
 effective_date: '2026-08-13'
+updated: 2026-08-14
 tags:
   - content
   - faleth
@@ -90,6 +93,7 @@ Second-hand Grok Bot read of public `x-algorithm` as relayed by the post. Weight
 ## Related
 
 - [[research/raw/transcripts/lyle-x-share-2087969186219778252]]
+- [[raw/x-bookmarks/2026-08-13/2087969186219778252]]
 - [[research/faleth/content/x-creator-payout-impressions-signal-2026]]
 - [[research/faleth/content/reply-led-audience-discovery-2026]]
 - [[research/faleth/content/systematic-x-voice-layer-printer-2026]]

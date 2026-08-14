@@ -1,7 +1,7 @@
 ---
 title: Messaging UI as the Agent Operating Surface
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-08-14
 type: principle
 tags: [ai, software, infrastructure, systems, leverage]
 sources:
@@ -10,6 +10,7 @@ sources:
   - raw/x-bookmarks/2026-08-12/2087354679718297992.md
   - raw/x-bookmarks/2026-08-11/2087247083971760207.md
   - raw/x-bookmarks/2026-08-11/2087234458336604370.md
+  - raw/x-bookmarks/2026-08-13/2088003994904113614.md
 confidence: medium
 ---
 
@@ -79,6 +80,7 @@ Voice is an additional edge (see [[research/faleth/process/delta-phone-interface
 - Cursor’s Field CTO living on it is a strong **cross-vendor workflow signal**: even people inside a coding-agent company feel the pull of a general messaging agent surface.
 - Lyle does not need to abandon Hermes for Grok Bot. He needs to keep Hermes’s surface as frictionless as messaging and its underbelly as ruthless about verification, memory, and real side effects.
 - If Grok Bot later becomes a better **edge** (phone, tool logins, multi-bot staffing UX), integrate it the same way voice is integrated: **edge in, Hermes OS out**.
+- Hermes now has a native version of the same bet: **Bot Mode** (2026-08-13, Teknium). Sessions stay disposable threads. Bots are named teammates with a job, description, picture, their own memory/skills, and inter-bot chat. That is the Hermes-side confirmation of "staff by conversation" — see [[faleth/process/hermes-bot-mode-persistent-profiles-2026]]. Do not confuse it with [[faleth/process/hermes-subagent-orchestra-2026]], which is mid-flight parent control of a child, not standing identity.
 
 ## Design rules for Delta
 
@@ -105,3 +107,4 @@ The market is catching up to a thesis Lyle already built: **messaging is the coc
 - [[raw/x-bookmarks/2026-08-12/2087354679718297992]] — cloud-VM clarification
 - [[raw/x-bookmarks/2026-08-11/2087247083971760207]] — messaging-teammates workflow endorsement
 - [[raw/x-bookmarks/2026-08-11/2087234458336604370]] — secondary launch description and screenshots
+- [[raw/x-bookmarks/2026-08-13/2088003994904113614]] — Hermes Bot Mode public-beta launch and Desktop screenshots

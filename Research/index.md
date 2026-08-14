@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-12 | Total pages: 50+
+> Last updated: 2026-08-14 | Total pages: 52+
 
 ## Meta / schema
 
@@ -67,6 +67,7 @@
 - [[offshoots/ongoing-spirit-filling-and-gifts-for-common-good]] — Spirit-filled life and gifts exercised for the body, not gatekept performance.
 - [[offshoots/transition-comparison-insecurity-and-surrendered-control]] — Waiting seasons: comparison, insecurity, and surrendering control without losing agency.
 - [[offshoots/spiritual-gatekeeping-in-the-home]] — Household faith without performance-based spiritual gatekeeping.
+- [[offshoots/nature-as-telos-not-occurrence-catalog]] — “Natural” means what a thing is for, not whatever appears in nature; animal occurrence is not a human ought.
 
 ## Faleth mindset & transition
 
@@ -159,4 +160,5 @@
 - [[faleth/process/local-minimax-h3-video-generation-tradeoffs-2026]] — Local H3 feasibility on four RTX 3090s, with Turbo-LoRA speed, motion-smear, accepted-result-cost, and licensing caveats.
 - [[faleth/process/messaging-ui-as-agent-operating-surface-2026]] — Messaging becomes an effective agent cockpit only when persistent compute, layered memory, triggers, handoffs, review controls, and verified tool execution sit underneath.
 - [[faleth/process/spring-damper-undulation-procedural-secondary-motion-2026]] — Simple spring-damper dynamics and length constraints can produce inspectable, reusable wave-like secondary animation without generative models.
+- [[faleth/process/hermes-bot-mode-persistent-profiles-2026]] — Hermes Bot Mode treats named agent profiles as standing teammates with jobs, memory, and inter-bot chat, distinct from disposable sessions and from mid-flight subagent steering.
 

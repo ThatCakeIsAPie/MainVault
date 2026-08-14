@@ -900,3 +900,21 @@
 - Evidence limits: both are practitioner claims without reproducible configurations or complete measurements; the 0xSero bookmark duplicates the Telegram source rather than independently corroborating it.
 - Verification: X OAuth/read reachability succeeded; both raw-source SHA-256 values matched their bodies.
 - Files changed in this ingest: 2 raw notes, 1 existing wiki page, and `log.md`.
+
+## [2026-08-14] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 45 were already processed; ingested all 5 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-13/2088003994904113614.md` — Teknium Hermes Bot Mode public beta: named bots with jobs, memory, and inter-bot chat.
+  - `raw/x-bookmarks/2026-08-13/2087969186219778252.md` — Dogan Ural Grok Bot summary of the re-open-sourced For You ranker; already distilled via Telegram.
+  - `raw/x-bookmarks/2026-08-12/2087602554616074709.md` — Joseph Spurgeon long-form natural-law argument that “natural” is teleology, not an animal-behavior catalog.
+  - `raw/x-bookmarks/2026-08-12/2087430803890323480.md` — quote-image reaction to a poverty-versus-abortion compassion claim.
+  - `raw/x-bookmarks/2026-08-12/2087543711097848292.md` — Portuguese bathroom-joke meme with photos.
+- Created `faleth/process/hermes-bot-mode-persistent-profiles-2026.md`.
+- Created `concepts/offshoots/nature-as-telos-not-occurrence-catalog.md` as a contested concept capturing the telos-versus-occurrence distinction.
+- Updated `faleth/process/messaging-ui-as-agent-operating-surface-2026.md` and `faleth/process/hermes-subagent-orchestra-2026.md` to keep Bot Mode distinct from Grok Bot messaging and from parent-child steering.
+- Updated `faleth/content/x-for-you-algorithm-action-weights-2026.md` with bookmark provenance only; no new weights.
+- Updated `index.md` for the two new pages.
+- Raw-only/skipped wiki: the compassion quote-image and the bathroom joke were context-poor memes.
+- Retrieval and verification: X OAuth/read succeeded; official media expansion, image OCR, and the Spurgeon `note_tweet` long text were inspected. All 5 raw-source SHA-256 values matched their bodies.
+- Files changed in this ingest: 5 raw notes, 2 new wiki pages, 3 existing wiki pages, `index.md`, and `log.md`.
