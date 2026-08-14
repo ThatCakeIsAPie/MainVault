@@ -49,10 +49,15 @@ Payout logic is less “flat CPM on headcount” and more **who you’re actuall
 
 5. **Pairs with voice-layer systems** — system + consistency makes payout *possible*, not guaranteed.
 
+## Program change (2026-08-14)
+
+New enrollments into Creator Revenue Sharing **closed 2026-08-07** and the program retires **2026-09-07**. The live path is **Original Content Rewards**: 500 verified followers, 500k verified Home Timeline impressions in 90 days, **replies excluded**, payouts on qualified Premium HT impressions. See [[faleth/content/x-ocr-to-supergrok-prosumer-2026]].
+
 ## Lyle application (2026 bridge context)
 
-- Flywheel: real Hermes/GovCon/automation artifacts → posts → optional rev-share **plus** leads.
+- Flywheel: real Hermes/GovCon/automation artifacts → posts → optional OCR **plus** leads.
 - Do **not** fuse identity to payout screenshots (scoreboard idol).
+- @LyleBCole baseline 2026-08-14: 22 followers, not Premium. OCR is a later gate, not a runway tool.
 
 ## Provenance
 

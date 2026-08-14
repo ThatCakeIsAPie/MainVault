@@ -928,3 +928,10 @@
 - Evidence limits: $2k/month savings, one Friday inbound call, day-one HTML catch, and ServiceTitan API friendliness are author-reported; dashboard activity is not a job ledger
 - Verification: official X API for root + thread posts; vision read of attached Atlas dashboard; raw SHA-256 matched body
 - Files changed in this ingest: 1 raw note, 1 new wiki page, 2 existing wiki pages, shares log, `index.md`, and `log.md`.
+
+## [2026-08-14] create | X OCR to SuperGrok prosumer strategy
+
+- Created: [[faleth/content/x-ocr-to-supergrok-prosumer-2026]]
+- Updated: [[faleth/content/x-creator-payout-impressions-signal-2026]], [[faleth/content/hermes-grok-x-content-machine-2026]], [[faleth/content/x-for-you-algorithm-action-weights-2026]], [[faleth/content/reply-led-audience-discovery-2026]], and [[index]]
+- Official change: ads revenue share closed to new enrollments 2026-08-07; OCR is the live path; replies excluded from the 500k HT gate
+- Baseline: @LyleBCole 22 followers, not Premium; $500/mo is a later asset target, not a 90-day cash plan

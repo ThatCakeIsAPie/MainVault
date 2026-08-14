@@ -98,3 +98,4 @@ Second-hand Grok Bot read of public `x-algorithm` as relayed by the post. Weight
 - [[research/faleth/content/reply-led-audience-discovery-2026]]
 - [[research/faleth/content/systematic-x-voice-layer-printer-2026]]
 - [[research/faleth/content/hermes-grok-x-content-machine-2026]]
+- [[research/faleth/content/x-ocr-to-supergrok-prosumer-2026]]

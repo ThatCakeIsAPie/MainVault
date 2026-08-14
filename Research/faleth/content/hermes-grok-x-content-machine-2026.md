@@ -24,7 +24,7 @@ Guide framing: pair **Hermes Agent** with **Grok 4.5** to run an **automated X c
 ## Open actions for Lyle
 
 - Keep daily X drafts job paused until VXE cash timing allows mindshare.
-- When re-enabled: Grok for draft velocity; Hermes for vault grounding + humanizer pass.
+- When re-enabled: Grok for draft velocity; Hermes for vault grounding + humanizer pass. Money path is [[faleth/content/x-ocr-to-supergrok-prosumer-2026]], not ads revenue share.
 
 ## Links
 
