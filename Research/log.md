@@ -935,3 +935,10 @@
 - Updated: [[faleth/content/x-creator-payout-impressions-signal-2026]], [[faleth/content/hermes-grok-x-content-machine-2026]], [[faleth/content/x-for-you-algorithm-action-weights-2026]], [[faleth/content/reply-led-audience-discovery-2026]], and [[index]]
 - Official change: ads revenue share closed to new enrollments 2026-08-07; OCR is the live path; replies excluded from the 500k HT gate
 - Baseline: @LyleBCole 22 followers, not Premium; $500/mo is a later asset target, not a 90-day cash plan
+
+## [2026-08-14] update | Write for the person who can export you
+
+- Updated: [[faleth/content/x-ocr-to-supergrok-prosumer-2026]]
+- Lyle refinement: relevant-to-larger-operators as borrowed distribution
+- Split quote/repost/copy-link (pays) from reply-guy-on-their-thread (room only)
+- Sequence: named eight, useful increment, then original they can export; weekly KPI is quotes from those names

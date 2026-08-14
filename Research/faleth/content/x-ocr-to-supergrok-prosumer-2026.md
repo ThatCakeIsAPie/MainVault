@@ -69,6 +69,37 @@ This grows **Talent**. It is not VXE cash timing. It does not replace showing up
 
 Write originals people **export**. Farm likes and you are decorating.
 
+## Write for the person who can export you
+
+Lyle's 2026-08-14 refinement: post work that is relevant **even to a larger operator**, so a follow or share taps their already-assembled room.
+
+Keep it. Kill the cargo-cult version.
+
+**Good version:** name 8 operators you already read. Write originals they would **quote** because you added a missing piece they do not have (Faleth process, sanitized GovCon, faith-and-agency, owner-manages-the-manager). Reply in their threads with that same missing piece. Measure quotes and profile visits from those eight names.
+
+**Bad version:** post in their genre so you look like a smaller them. For You's similar-post reranker (θ = 0.65) is built to spread lookalikes. Stranger replies never ride into a random For You. Tagging "would love your thoughts" is just asking. One viral borrow is a lottery ticket, not a system.
+
+How the borrow actually pays:
+
+| Their action | What it does |
+|--------------|--------------|
+| **Quote** | Highest-value borrow. Their quote is an original in *their* in-network feed. Predicted quote is +5 on yours; the real win is their followers seeing their words plus yours. |
+| **Repost** | Weaker (+1) but still puts the original in their room. |
+| **Copy-link / DM** | +20 on the ranker. Rare. Worth writing for. |
+| **Follow** | +4 and a verified-follower toward the 500 gate. |
+| **Reply on your original** | Mutual reply on an original is +20. This is the room forming. |
+| **You reply on theirs** | Recognition and profile clicks. **Does not** count for OCR eligibility. Does not put you in strangers' For You. |
+
+Sequence that matches a 22-follower account:
+
+1. Pick eight names. Not "large creators." Named people whose audience you actually want.
+2. Reply with a useful increment they did not write. Stop.
+3. Same day or next, publish the fuller original on your timeline so a profile click has something to export.
+4. Do not mention them unless you are adding a fact. Never ask for the share.
+5. Weekly review: quotes, not impressions. If the eight names never touch you after 30 days, the work is not actually relevant to them. Change the missing piece, not the volume.
+
+This is [[faleth/content/reply-led-audience-discovery-2026]] plus For You export weights. It is still not a substitute for VXE days.
+
 ## Operating cadence (30 minutes, VXE first)
 
 Hard cap: **one original + 8 to 12 replies** on a workday. Zero on a VXE hell day. The 2026 Ideas note's "3–10 posts/day" is too many for a 22-follower account under the same-author haircut.
