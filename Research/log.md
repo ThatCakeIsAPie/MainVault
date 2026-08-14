@@ -918,3 +918,13 @@
 - Raw-only/skipped wiki: the compassion quote-image and the bathroom joke were context-poor memes.
 - Retrieval and verification: X OAuth/read succeeded; official media expansion, image OCR, and the Spurgeon `note_tweet` long text were inspected. All 5 raw-source SHA-256 values matched their bodies.
 - Files changed in this ingest: 5 raw notes, 2 new wiki pages, 3 existing wiki pages, `index.md`, and `log.md`.
+
+## [2026-08-14] ingest | HouseHackerJon Grok Bot named-role ops team
+
+- Raw source: [[raw/transcripts/lyle-x-share-2088305236003926468]]
+- Created: [[faleth/process/owner-manages-agent-manager-not-the-work-2026]]
+- Updated: [[faleth/process/messaging-ui-as-agent-operating-surface-2026]], [[faleth/process/hermes-bot-mode-persistent-profiles-2026]], [[external-ai-memory/lyle-telegram-x-shares-log]], and [[index]]
+- Published 10/10 thread plus quoted office-automation root; discarded near-duplicate draft conversation `2088299292108926979`
+- Evidence limits: $2k/month savings, one Friday inbound call, day-one HTML catch, and ServiceTitan API friendliness are author-reported; dashboard activity is not a job ledger
+- Verification: official X API for root + thread posts; vision read of attached Atlas dashboard; raw SHA-256 matched body
+- Files changed in this ingest: 1 raw note, 1 new wiki page, 2 existing wiki pages, shares log, `index.md`, and `log.md`.
