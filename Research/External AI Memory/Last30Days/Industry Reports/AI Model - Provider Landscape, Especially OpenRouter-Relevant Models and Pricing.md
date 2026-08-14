@@ -16,6 +16,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Daily full-ID snapshots and pricing checks are now mandatory operational evidence: catalog removals are exactly auditable, and DeepSeek V3.2's July 15 cache-price jump shows why cheap-worker assumptions must expire automatically.
 - Moving `~...latest` aliases add convenience but reduce reproducibility; production receipts should log both the requested alias and the resolved dated/provider route.
 - Free routes are opportunistic capacity, not durable infrastructure: July 20 removed six free endpoints at once, reinforcing preflight checks and paid fallback requirements.
+- **Flash-class Google models now ship on a weeks-not-quarters cadence.** Gemini 3.7 Flash (Aug 13) is a coding/agent workhorse with a Google intro list of $0.75/$3.75/M through Dec 31, 2026 and $1.50/$7.50/M from Jan 1, 2027; OpenRouter listed it the next morning at $0.375/$1.875/M plus a `:batch` half-price row.
+- **Native DeepSeek V4 peak/off-peak billing starts 16:00 UTC Aug 16** (peak 01:00–04:00 and 06:00–10:00 UTC). OpenRouter `deepseek/deepseek-v4-pro-0813` can lag native list; production `deepseek/deepseek-v3.2` is a different ID and must be checked separately.
 
 ## Major Shifts to Watch
 - Promotional cache pricing and cheap large-context models are becoming decisive for agent loops and recurring research jobs.
@@ -232,3 +234,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-13
 - Official API **~11:00 UTC**: **409 IDs**, exact diff **+4 / -1**. Added `x-ai/grok-4.6` ($2/$6/M), `deepseek/deepseek-v4-pro-0813` ($0.435/$0.87/M), `qwen/qwen3.8-2.4t-a95b` ($2/$6/M), and `bytedance-seed/seed-2-1-turbo` ($0.50/$2.50/M); removed `inclusionai/ling-3.0-tiny:free`. Core/delegate pricing and cache held. Keep production routes stable; benchmark DeepSeek V4 Pro only on a bounded task and verify no fallback depends on the removed free ID ([API](https://openrouter.ai/api/v1/models), [Grok launch](https://x.com/OpenRouter/status/2087567951809655120)). Signal: **strong**.
+
+### 2026-08-14
+- Official API **~11:00 UTC**: **411 IDs**, exact diff **+2 / −0**. Added `google/gemini-3.7-flash` ($0.375/$1.875/M; cache read $0.0375; 1,048,576 ctx) and `google/gemini-3.7-flash:batch` ($0.1875/$0.9375/M). Core stack unchanged. Google official intro is $0.75/$3.75/M through Dec 31, 2026 then $1.50/$7.50/M. DeepSeek native V4 peak/off-peak starts 16:00 UTC Aug 16; OpenRouter V4-Pro-0813 still $0.435/$0.87; production V3.2 unchanged. Benchmark Flash on one bounded task; do not reroute V3.2/Sonnet/GPT-5.5 without accepted-output evidence ([API](https://openrouter.ai/api/v1/models), [Google blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/), [DeepSeek pricing](https://api-docs.deepseek.com/quick_start/pricing/)). Signal: **strong**.

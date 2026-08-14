@@ -16,6 +16,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - **MCP-native model discovery and evaluation** now includes task-usage insights, price/benchmark filters, and provider pinning; reproducible routing is joining permissions and audit as a control-plane primitive.
 - **Non-human identity and supervisor load** are emerging as first-class agent controls: shared human credentials destroy attribution, while unmeasured fleet-management burden can erase automation gains.
 - **Packaged and white-label agent deployment** is emerging as a distribution model; predictable tenant isolation, unit cost, accepted-result evidence, and support burden now need to be productized alongside the workflow.
+- **Hours-long unattended vendor agents** (Writer-class 8-hour claims; Workfront-class packaged collaborators) are being sold on cost/speed/quality packages — still claims until accepted-result evidence exists.
+- **Human-credential reuse** is a live identity failure mode: if the agent uses a person's login, attribution, receipts, and kill authority collapse.
 
 ## Major Shifts to Watch
 - Enterprise platforms bundling agent builders, performance dashboards, and outcome pricing.
@@ -228,3 +230,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-13
 - Getty and Dun & Bradstreet surfaced vertical MCP access to licensed creative media and authoritative commercial data, while strict-window discussion emphasized scoped tokens, identity, permissions, transactional authority, and auditability. Add licensing/authorized-use owner, token/cost ceiling, receipt, rollback, and kill authority to Faleth's governed tool contracts ([Getty item](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNDBjeWJncmlwSkNaSXAwZHpLbVJleXhraURyWWlLYVYyWW5nbS1EanZwTXJDWWN2c2Y0eGQ2MEFja1pVWjF5RGluY1JJUm5uQ0ExNnpuQ0ZHazZpbGNmam85VHlsSVh2bXlGRmtyT094c1lveUJkYzJBWnRoQ0VWQ1BZWVloZ2dQYjNOU3A0endHUVV6YUJVV2s0cXBtUDhtYkpqUTRFUlgwSzEzcDBwbzAtRWowTkI4di1QMm5lNWpzQkp6MjRTVzg4RmpmUDZZVDQ2ekpOLTl6TjB6XzM5bGhoQThDdEE?oc=5), [authority signal](https://x.com/mykcaron/status/2087534652487504361)). Signal: **medium–strong** for direction; launch detail is RSS/snippet-level.
+
+### 2026-08-14
+- Current recaps positioned cheaper long-running agents (Writer Palmyra X6; claimed 8-hour unattended work) and packaged Workfront collaborators next to GitGuardian's warning that agents still use human credentials. Do not adopt vendor speed/cost claims; require named non-human identity, permission source, budget, receipts, reviewer, rollback, and kill authority on every Faleth worker ([AI Agent Store](https://aiagentstore.ai/ai-agent-news/this-week), [Adobe Workfront](https://business.adobe.com/blog/the-latest/unlocking-the-next-era-of-work-management-introducing-adobe-workfront-ai-collaborators), [GitGuardian](https://blog.gitguardian.com/your-ai-agent-is-using-your-credentials/)). Signal: **medium–strong** for identity/governance direction; **weak** for vendor performance numbers.
