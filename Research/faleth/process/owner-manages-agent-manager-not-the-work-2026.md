@@ -17,7 +17,7 @@ confidence: medium
 
 Jon ONeill (@HouseHackerJon), a Phoenix drain/sewer owner, published this as a Grok Bot operating story on 2026-08-14. The useful part is not "AI does marketing." It is the org chart: he stopped reviewing weekday articles himself, staffed **Mary** as marketing manager, and kept himself one layer up. Mary owns the content planner. Mary reviews the human marketer. A later specialist agent is supposed to own Webflow so he is not in the builder at 11pm.
 
-Scoreboard he named: **real Google customers**, not "we posted more." Cost he named: stop paying **$2,000/month forever to be the review bottleneck**, with a $200/month Cursor subscription mentioned as the compute bill in the same arc.
+Scoreboard he named: **real Google customers**, not "we posted more." Cost he named: stop paying **$2,000/month forever to be the review bottleneck.** That figure is his claim about remaining the human review layer, not a reconstructed P&L.
 
 Treat the dollar figures and the one 7:30am hydro-jetter call as **author-reported anecdote**. Keep the architecture.
 
