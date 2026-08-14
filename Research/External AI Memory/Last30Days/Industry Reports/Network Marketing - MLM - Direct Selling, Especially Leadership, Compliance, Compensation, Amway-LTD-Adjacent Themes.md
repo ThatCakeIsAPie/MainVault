@@ -216,3 +216,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-13
 - The targeted strict-window feed returned no items, and no Amway/LTD compensation, IDS, Rules, FTC MLM, enforcement, or leadership-compliance change surfaced. Preserve consent/source, approved claims, IDS linkage, typical-results/expense context, reviewer, and disposition for AI-assisted outreach ([IBOAI](https://www.iboai.com/resource-center/compliance-messages), [Amway IDS](https://www.amway.com/en_US/income-disclosure)). Signal: **weak** for novelty.
+
+### 2026-08-14
+- Targeted RSS returned only keyword-collision finance items. Official IBOAI index still shows latest earnings-claim/disclosure messages dated August 4, 2026; Amway IDS was 403 from this host. No compensation, Rules, or FTC MLM change. Keep consent/source, approved claims, IDS, typical-results/expense context, reviewer, and disposition ([IBOAI](https://www.iboai.com/resource-center/compliance-messages)). Signal: **weak** for novelty, **strong** for official continuity.

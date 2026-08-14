@@ -217,3 +217,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-13
 - An AI freight roll-up acquisition and lower-middle-market private-credit coverage reinforced integration capacity and financing certainty as core constraints. Screen owner dependence, customer concentration, operator assignment, leverage/refinancing, data/software fragility, cash conversion, and no-exit downside. No Faleth acquisition action; VXE cash timing and fulfillment remain first ([AI freight item](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVpEM1hpY3p2WWMzeHVSa2FYaEFEejdxSmFFLVh0bXRGQW0xTkxsdG0zWVNRY3hWQmlNbHozdTVEZFJLU3NOOVN1dkxQRUJNd1ViV1NvRXA1QkZWeEFRTldzS2lfcW5WQlp4aHBsUVoxakJEUC02WlotbVhuTjhzdTFHbzc?oc=5)). Signal: **medium–weak**; RSS/snippet-level.
+
+### 2026-08-14
+- Headlines were mega-cap (Silver Lake/Workday; Thoma Bravo/Accelerant), not LMM. More useful: LOI-stage SBA affiliation risk in small-business M&A. Take no Faleth acquisition action; do not let informal deal paper create size/affiliation facts around VXE/LibreTech ([JD Supra](https://www.jdsupra.com/legalnews/don-t-get-ahead-of-yourself-how-letters-77031/)). Signal: **medium** for affiliation caution, **weak** for Faleth-scale opportunity.

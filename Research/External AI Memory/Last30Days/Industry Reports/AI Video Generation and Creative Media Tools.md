@@ -8,6 +8,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Aggregator/workflow platforms such as Runway are gaining strategic value by giving creators access to multiple top models in one controlled environment.
 - Creative testing and commerce workflows are becoming the next value layer: generation matters only when variants can be measured against audience and conversion outcomes.
 - As output volume rises, **originality, editability, provenance, explicit approval authority, rollback, and full-asset completion** are becoming more valuable than isolated generation quality.
+- **Commercial/rights enforcement is now a product feature:** Seedance 2.5-class cloud platforms are pairing longer cinematic clips with IP blocking and usage discounts, while LTX-2.5-class open weights compete on local speed and post-production control.
 
 ## Major Shifts to Watch
 - Native 4K, longer coherent clips, and character/object consistency becoming expected rather than miraculous.
@@ -217,3 +218,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-13
 - Fal launched a creative agent positioned to orchestrate image, video, and 3D models; LTX-2.5/Seedance discussion reinforced local/open control versus longer cloud generation. For FRR, test one full repair explainer and record source rights, routes, retries, corrections, edit time, acceptance, bookings, and accepted-result cost ([fal Agent item](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZExGeFB4TUtKbnFUa2ttN3pNQ0hldzhEdFBiVEhURFpuR1BZU0IyX3cxQmpZcHdFNGduWGhqVTZXN242SmZ6c213T2d6YkV0RGh1dVQyRDgzdDk4RjVrYUJTa0h2OFBhSjJBV3BrazBfMy02dmRyWWFCY0Rpb2lvZnNpalBYX01LS0o2UXNpanBrdHNHQ1dpWWNUYUgyNUhwT24ySkNCTnVxSUd6R0NxMUFCalRjOENTWVF2ajhJSnpZZUFfbUE?oc=5), [LTX workflow signal](https://x.com/SamJWasserman/status/2087590861668536451)). Signal: **medium**; launch detail is RSS/snippet-level.
+
+### 2026-08-14
+- Seedance 2.5 commercial rollout (Dreamina/CapCut-class access, IP/copyright blocking, discounts) sat next to continued LTX-2.5 open-weights/local-speed discussion. Score one FRR repair explainer on source rights, commercial-use clearance, retries, edit time, platform acceptance, inquiries, bookings, and accepted-result cost before treating either as default ([APOB X](https://x.com/apob_ai/status/2088219374746558671), [LTX X](https://x.com/shawnchauhan1/status/2087834125709566459)). Signal: **medium**; platform pricing/blocking rules remain RSS/social.

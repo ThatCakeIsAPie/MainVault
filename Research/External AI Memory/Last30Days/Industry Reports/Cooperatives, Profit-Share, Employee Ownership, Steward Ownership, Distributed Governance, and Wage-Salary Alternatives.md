@@ -217,3 +217,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-13
 - The targeted strict-window feed returned no items, and no new U.S. ESOP/EOT rule, major employee-ownership transaction, or mechanism-grade Faleth analogue surfaced. Make no design change; continue specifying and measuring ownership, voice, allocation, governance, liquidity, retention, and service quality separately ([DOL report — background](https://beta.dol.gov/system/files/research-data/2026-02/employee-ownership-report-to-congress.pdf)). Signal: **weak** for novelty.
+
+### 2026-08-14
+- Targeted RSS returned one Washington Post care-crisis title (unopened beyond RSS). No U.S. ESOP/EOT rule, major transaction, or mechanism-grade Faleth analogue. Make no Contribution Framework change; keep wage, bonus, profit share, equity, governance, and liquidity separate ([WaPo RSS](https://news.google.com/rss/articles/CBMiigFBVV95cUxOczd1cExPQ3lGanpkWl9ZVUlURS16a1hrUk1LbDRzcjVGY3QwTUNoQ2EwWEM0TzNTVXZGZDNLdzdxczNYSEk4RS03aUlrUDZ0dllGWTNXWG1IYlQ0cGlqc3NILUNpdjRHREFZQlFUU0F4RWRMZlBVaUtwN0RycVdvRXlqbnVOYVJLUnc?oc=5); RSS/snippet-level). Signal: **weak**.
