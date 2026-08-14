@@ -17,6 +17,8 @@ tags:
 
 LTD slide drop (2026-08-13). Room photos. Romans 12:2 as the banner.
 
+**Lyle confirmation (2026-08-14):** the mindset already matches how he thinks. The deck is recognition, not conversion.
+
 ## What the room was selling
 
 Three beats:
