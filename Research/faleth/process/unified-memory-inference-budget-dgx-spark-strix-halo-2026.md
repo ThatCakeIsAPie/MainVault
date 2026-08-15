@@ -1,7 +1,7 @@
 ---
 title: Unified-Memory Inference Budget — DGX Spark, RTX Spark, and Strix Halo
 created: 2026-07-30
-updated: 2026-08-13
+updated: 2026-08-15
 type: principle
 tags: [ai, llm, inference, hardware, systems]
 sources:
@@ -12,6 +12,7 @@ sources:
   - raw/x-bookmarks/2026-08-02/2083705845670650195.md
   - raw/x-bookmarks/2026-08-12/2087493068735819924.md
   - raw/x-bookmarks/2026-08-12/2087544650559025190.md
+  - raw/x-bookmarks/2026-08-13/2087983106972057602.md
 confidence: medium
 ---
 
@@ -127,6 +128,14 @@ This strengthens the procurement rule: specialized model-runtime co-design can m
 
 The bookmark preserves the same 0xSero demonstration already captured through Telegram, so it adds provenance rather than an independent second result. [[raw/x-bookmarks/2026-08-12/2087544650559025190]]
 
+### One-box multimodal stack is not one-model residency (2026-08-13)
+
+Steve Darlow reports a complete open-weight creative loop on **one DGX Spark**: DeepSeek V4 Flash 0731, Qwen 3 VL 2B, Qwen Image 3, MiniMax H3, LTX 2.5, faster-whisper base, Chatterbox Turbo, and MiniMax Music 3. [[raw/x-bookmarks/2026-08-13/2087983106972057602]]
+
+This is a **catalog claim**, not a memory budget. The post gives no concurrent-residency numbers, offload map, wall-clock, or accepted-result rates. The useful correction is still real: a 128 GB Spark can host a *menu* of local modalities if models are staged, not if every named weight file is expected to sit in unified memory at once. Commission the stack as sequential jobs with measured peak RAM per job. Do not treat “all on one Spark” as proof that H3 video, V4 Flash, and image/music models are a comfortable co-resident studio.
+
+Contrast with [[faleth/process/magi-2-open-moe-video-generation-2026]]: MAGI-2’s 6B-active headline still documents an 8× Hopper, ~307 GB inference path. Open video is not one hardware class.
+
 ### Long-context latency is a separate acceptance metric
 
 Mia reports backporting six vLLM 0.27 performance patches into a **two-DGX-Spark DeepSeek V4 Flash** deployment and describes a major latency improvement as context grows from **65K to 262K tokens**. The post does not provide the chart's underlying measurements, patch list, runtime configuration, prompt-processing rate, time-to-first-token, inter-token latency, or quality checks, so it is an operator signal rather than a reproducible benchmark. [[raw/x-bookmarks/2026-08-12/2087493068735819924]]
@@ -148,6 +157,7 @@ The durable correction is still valuable: once decode throughput becomes comfort
 - [[faleth/process/local-model-ownership-agency-2026]]
 - [[faleth/process/member-gated-compute-mesh-for-sovereign-agents-2026]]
 - [[faleth/process/llm-inference-serving-five-optimization-surfaces-2026]]
+- [[faleth/process/magi-2-open-moe-video-generation-2026]]
 
 ## Sources
 

@@ -1,11 +1,12 @@
 ---
 title: Owner Manages the Agent Manager, Not the Work
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-15
 type: principle
 tags: [ai, software, systems, leverage, marketing, operations, leadership]
 sources:
   - raw/transcripts/lyle-x-share-2088305236003926468.md
+  - raw/x-bookmarks/2026-08-14/2088305236003926468.md
 confidence: medium
 ---
 
@@ -61,6 +62,7 @@ It is also the applied version of [[faleth/process/hermes-bot-mode-persistent-pr
 ## Related
 
 - [[raw/transcripts/lyle-x-share-2088305236003926468]]
+- [[raw/x-bookmarks/2026-08-14/2088305236003926468]] — same tweet as a later X bookmark; no new thread facts
 - [[faleth/process/messaging-ui-as-agent-operating-surface-2026]]
 - [[faleth/process/hermes-bot-mode-persistent-profiles-2026]]
 - [[faleth/process/hermes-subagent-orchestra-2026]]

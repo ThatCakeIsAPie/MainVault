@@ -161,6 +161,7 @@
 - [[faleth/process/book-to-skill-compilation-for-agent-knowledge-2026]] — Compile long books and PDFs into navigable, testable agent skills rather than one giant prompt.
 - [[faleth/process/free-electron-laser-euv-light-utility-2026]] — FEL-based central EUV utility for multiple lithography scanners; technically credible concept, contested Terafab interpretation.
 - [[faleth/process/local-minimax-h3-video-generation-tradeoffs-2026]] — Local H3 feasibility on four RTX 3090s, with Turbo-LoRA speed, motion-smear, accepted-result-cost, and licensing caveats.
+- [[faleth/process/magi-2-open-moe-video-generation-2026]] — MAGI-2 Preview: 114B / 6B-active open MoE video; 8× Hopper and ~307 GB weights, not a Spark workflow.
 - [[faleth/process/messaging-ui-as-agent-operating-surface-2026]] — Messaging becomes an effective agent cockpit only when persistent compute, layered memory, triggers, handoffs, review controls, and verified tool execution sit underneath.
 - [[faleth/process/spring-damper-undulation-procedural-secondary-motion-2026]] — Simple spring-damper dynamics and length constraints can produce inspectable, reusable wave-like secondary animation without generative models.
 - [[faleth/process/hermes-bot-mode-persistent-profiles-2026]] — Hermes Bot Mode treats named agent profiles as standing teammates with jobs, memory, and inter-bot chat, distinct from disposable sessions and from mid-flight subagent steering.

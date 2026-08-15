@@ -956,3 +956,21 @@
 - Updated: [[faleth/content/x-creator-payout-impressions-signal-2026]] and shares log
 - Lyle note: oddly related to SuperGrok / Dream 100 thread
 - Dying-program sample (ads revenue share); implied ~$0.24/1K this window; not an OCR forecast
+
+## [2026-08-15] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 46 were already processed; ingested all 4 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-14/2088076337445527670.md` — viral shelter-adoption video; no durable operating claim.
+  - `raw/x-bookmarks/2026-08-14/2088152335008571532.md` — Sand.ai MAGI-2 Preview: 114B / 6B-active open MoE video.
+  - `raw/x-bookmarks/2026-08-14/2088305236003926468.md` — HouseHackerJon Grok Bot plumbing thread; duplicate of yesterday's Telegram ingest.
+  - `raw/x-bookmarks/2026-08-13/2087983106972057602.md` — Steve Darlow one-Spark open creative stack catalog.
+- Created `faleth/process/magi-2-open-moe-video-generation-2026.md`.
+- Updated `faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026.md`, `faleth/process/local-model-ownership-agency-2026.md`, and `faleth/process/local-minimax-h3-video-generation-tradeoffs-2026.md` with the Spark catalog vs residency distinction.
+- Updated `faleth/process/owner-manages-agent-manager-not-the-work-2026.md` with bookmark provenance only.
+- Updated `index.md` for the MAGI-2 page.
+- Raw-only/skipped wiki: the GoldieLocks shelter video.
+- Evidence limits: MAGI-2 hardware/weight figures are from the official blog and GitHub README; Darlow names a stack without measurements; HouseHackerJon adds no new thread facts.
+- Verification: bookmark snapshot from the pre-run collector; MAGI-2 blog + GitHub README opened; all 4 raw-source SHA-256 values matched their bodies.
+- Files changed in this ingest: 4 raw notes, 1 new wiki page, 4 existing wiki pages, `index.md`, and `log.md`.
+

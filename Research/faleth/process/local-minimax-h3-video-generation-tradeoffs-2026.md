@@ -1,10 +1,10 @@
 ---
 title: Local MiniMax H3 Video Generation Tradeoffs
 created: 2026-08-09
-updated: 2026-08-10
+updated: 2026-08-15
 type: concept
 tags: [ai, ml, hardware, inference]
-sources: [raw/x-bookmarks/2026-08-09/2086253065657790895.md, raw/x-bookmarks/2026-08-08/2086171185134686509.md, raw/x-bookmarks/2026-08-08/2086106500766843287.md, raw/x-bookmarks/2026-08-09/2086521366300512391.md, raw/transcripts/lyle-x-share-2086532726967112049.md, raw/transcripts/lyle-x-share-2086531287754448949.md]
+sources: [raw/x-bookmarks/2026-08-09/2086253065657790895.md, raw/x-bookmarks/2026-08-08/2086171185134686509.md, raw/x-bookmarks/2026-08-08/2086106500766843287.md, raw/x-bookmarks/2026-08-09/2086521366300512391.md, raw/transcripts/lyle-x-share-2086532726967112049.md, raw/transcripts/lyle-x-share-2086531287754448949.md, raw/x-bookmarks/2026-08-13/2087983106972057602.md, raw/x-bookmarks/2026-08-14/2088152335008571532.md]
 confidence: medium
 ---
 
@@ -90,6 +90,14 @@ The rational test target is the 6.26 GiB `Q2_K` pruned denoiser at reduced resol
 ## Faleth relevance
 
 The lesson matches [[faleth/process/frontier-model-cost-speed-tradeoff-2026]]: optimize for accepted output rather than impressive throughput. Hardware planning should also follow [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] and [[faleth/process/local-model-ownership-agency-2026]]—weights, runtime, memory, workflow quality, licensing, and operator burden are one system.
+
+## DGX Spark catalog signal (2026-08-13)
+
+Steve Darlow lists MiniMax H3 next to LTX 2.5 inside a one-Spark open creative stack (LLM, vision, image, video, STT, voice clone, music). [[raw/x-bookmarks/2026-08-13/2087983106972057602]] That is feasibility-as-menu evidence, not a new H3 benchmark. Keep scoring H3 on accepted clips, retries, and peak memory. Do not infer that H3 plus LTX plus an LLM are simultaneously resident.
+
+## Not MAGI-2
+
+Sand.ai MAGI-2 Preview is a different class: 114B / 6B-active open MoE video with a documented 8× Hopper inference path. [[faleth/process/magi-2-open-moe-video-generation-2026]] Use H3 for local experiments; treat MAGI-2 as research-scale until a distilled, smaller serving recipe exists.
 
 ## Open questions
 
