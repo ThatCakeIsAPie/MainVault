@@ -220,3 +220,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-14
 - Headlines were mega-cap (Silver Lake/Workday; Thoma Bravo/Accelerant), not LMM. More useful: LOI-stage SBA affiliation risk in small-business M&A. Take no Faleth acquisition action; do not let informal deal paper create size/affiliation facts around VXE/LibreTech ([JD Supra](https://www.jdsupra.com/legalnews/don-t-get-ahead-of-yourself-how-letters-77031/)). Signal: **medium** for affiliation caution, **weak** for Faleth-scale opportunity.
+
+### 2026-08-15
+- Tape remained mega-cap (PayPal talks with Stripe and Advent; Vista/CAIS $2B mark). No inspected LMM owner-transition or Faleth-scale rollup. Take no acquisition action; VXE cash timing first; keep LOI/affiliation discipline ([TechCrunch](https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/), [JD Supra — background](https://www.jdsupra.com/legalnews/don-t-get-ahead-of-yourself-how-letters-77031/)). Signal: **medium** for mega-cap activity, **weak** for Faleth opportunity.

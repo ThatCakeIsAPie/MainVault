@@ -6,6 +6,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Employee ownership and alternative compensation remain driven by succession, retention, culture preservation, and alignment — not merely “nice capitalism.”
 - ESOPs/EOTs/cooperatives/steward ownership/profit-share solve different problems; precision matters because economics, governance, liquidity, and control are not the same thing.
 - Ownership culture requires management training, employee financial literacy, and communication practices—not just a transaction document or variable-pay formula.
+- **Fully employee-owned contractors can now win DoD sole-source follow-ons** under the FY2022/FY2024 NDAA pilot (Torch / Air Force $992M, Aug 14–15). Ownership structure is a capture mechanism, not only a succession story.
 
 ## Major Shifts to Watch
 - EOT and ESOP transitions continue appearing as founder-exit alternatives to PE/strategic sale.
@@ -220,3 +221,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-14
 - Targeted RSS returned one Washington Post care-crisis title (unopened beyond RSS). No U.S. ESOP/EOT rule, major transaction, or mechanism-grade Faleth analogue. Make no Contribution Framework change; keep wage, bonus, profit share, equity, governance, and liquidity separate ([WaPo RSS](https://news.google.com/rss/articles/CBMiigFBVV95cUxOczd1cExPQ3lGanpkWl9ZVUlURS16a1hrUk1LbDRzcjVGY3QwTUNoQ2EwWEM0TzNTVXZGZDNLdzdxczNYSEk4RS03aUlrUDZ0dllGWTNXWG1IYlQ0cGlqc3NILUNpdjRHREFZQlFUU0F4RWRMZlBVaUtwN0RycVdvRXlqbnVOYVJLUnc?oc=5); RSS/snippet-level). Signal: **weak**.
+
+### 2026-08-15
+- Air Force used the NDAA employee-ownership sole-source pilot to award Torch Technologies a potential five-year, $992M Eglin follow-on after Torch missed TMAS 3. Torch is a 100% S-Corp ESOP. This is mechanism-grade GovCon evidence, not a Faleth conversion trigger: research which follow-ons could use the pilot, then keep wage/bonus/profit-share/equity/governance/liquidity separate ([Washington Technology](https://www.washingtontechnology.com/contracts/2026/08/air-force-leans-esop-legislation-sole-source-992m-contract/415430/), [SAM notice](https://sam.gov/workspace/contract/opp/8594be87a1f940aebfe52f8a282d1b24/view)). Signal: **strong**.

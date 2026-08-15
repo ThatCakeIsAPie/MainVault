@@ -221,3 +221,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-14
 - Seedance 2.5 commercial rollout (Dreamina/CapCut-class access, IP/copyright blocking, discounts) sat next to continued LTX-2.5 open-weights/local-speed discussion. Score one FRR repair explainer on source rights, commercial-use clearance, retries, edit time, platform acceptance, inquiries, bookings, and accepted-result cost before treating either as default ([APOB X](https://x.com/apob_ai/status/2088219374746558671), [LTX X](https://x.com/shawnchauhan1/status/2087834125709566459)). Signal: **medium**; platform pricing/blocking rules remain RSS/social.
+
+### 2026-08-15
+- No inspected flagship API/pricing change. Creator/X traffic remained Seedance 2.5 (native 30s / cinematic motion) versus Kling/Veo stitching. A Gemini image-watermark-toggle headline stayed RSS/snippet-level after the cited Verge URL 404'd. Do not add a vendor; finish one FRR explainer and score rights, retries, edit time, acceptance, bookings, and accepted-result cost ([X Seedance](https://x.com/Ryan_blake_ai/status/2088582070209851668), [ByteDance — background](https://seed.bytedance.com/en/seedance2_5)). Signal: **medium** for usage continuity, **weak** for new product facts.
