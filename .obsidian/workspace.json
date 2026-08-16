@@ -1,69 +1,56 @@
 {
   "main": {
-    "id": "4fc789165d65d9a2",
+    "id": "5863b143200136b7",
     "type": "split",
     "children": [
       {
-        "id": "fce941220e303483",
+        "id": "689aa2c9ab072154",
         "type": "tabs",
         "children": [
           {
-            "id": "3ac9129fe16a04a9",
+            "id": "5270cec8d0f70362",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Faleth Capital/Faleth Capital Constitution.md",
+                "file": "Personal/Church/2026/2026-08-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faleth Capital Constitution"
-            }
-          },
-          {
-            "id": "fe4992aebbeb5439",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business/LTD Amway/Info Sessions/2026/2026-07-30 Dale Jones.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-30 Dale Jones"
+              "title": "2026-08-16"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fb38253af2146777",
+    "id": "6bd6dbcf3d775f62",
     "type": "split",
     "children": [
       {
-        "id": "4ca347522263c76d",
+        "id": "1597ac5406e6a613",
         "type": "tabs",
         "children": [
           {
-            "id": "e9b0fe4d30c16436",
+            "id": "457b34fb9bed2545",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "dc011984a7a8ca77",
+            "id": "1493196bdc1510ec",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +67,7 @@
             }
           },
           {
-            "id": "d52491ea0ddd4e4f",
+            "id": "3f4e932d6dada17c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,18 +80,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 474.5
   },
   "right": {
-    "id": "470b47d8d5d3f7a8",
+    "id": "65632d954e7e4cfb",
     "type": "split",
     "children": [
       {
-        "id": "4ff42b3473c39925",
+        "id": "b0c0eaa9496ee999",
         "type": "tabs",
         "children": [
           {
-            "id": "dee1becf99b42a7e",
+            "id": "ef8ad9fa3fd79369",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -122,7 +109,7 @@
             }
           },
           {
-            "id": "ed43b99ea8f85312",
+            "id": "c3697da85cc832c4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -135,7 +122,7 @@
             }
           },
           {
-            "id": "5197323882f12a6a",
+            "id": "a7debd7e489b3f50",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,7 +137,7 @@
             }
           },
           {
-            "id": "2a7862861aaea23e",
+            "id": "1a4506d4b65a16f3",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -164,7 +151,7 @@
             }
           },
           {
-            "id": "a8c6d8a64c911eb9",
+            "id": "50edf71ae43ddc2c",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -178,91 +165,113 @@
             }
           },
           {
-            "id": "76bae343f9778f76",
+            "id": "8d8366357578089d",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "b019b1ba8faf3e7c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "ff218a46625ad90b",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Personal/Church/2026/2026-06-09 MYA.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
-      "publish:Publish changes...": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fe4992aebbeb5439",
+  "active": "5270cec8d0f70362",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Business/LTD Amway/Info Sessions/2026/2026-07-30 Dale Jones.md",
     "Business/Faleth Capital/Faleth Capital Constitution.md",
-    "Research/raw/x-bookmarks/2026-07-30/2082909527515779164.md",
-    "Research/raw/x-bookmarks/2026-07-30/2082864166960877718.md",
-    "Research/raw/x-bookmarks/2026-07-30/2082854011460518352.md",
-    "Research/raw/x-bookmarks/2026-07-30/2082629254731440546.md",
-    "Research/raw/x-bookmarks/2026-07-30",
-    "Research/raw/x-bookmarks/2026-07-29/2082578552948400144.md",
-    "Research/raw/x-bookmarks/2026-07-29/2082570290828304553.md",
-    "Research/raw/x-bookmarks/2026-07-29/2082509593280688317.md",
-    "Research/raw/x-bookmarks/2026-07-29/2082467621220307445.md",
-    "Research/raw/x-bookmarks/2026-07-29/2082463988953367031.md",
-    "Research/raw/x-bookmarks/2026-07-29/2082430003460166142.md",
-    "Research/raw/x-bookmarks/2026-07-29/2082339029375426914.md",
-    "Research/raw/x-bookmarks/2026-07-29",
-    "Research/raw/x-bookmarks/2026-08-03/2084164823638519843.md",
-    "Research/raw/x-bookmarks/2026-08-03",
-    "Research/raw/x-bookmarks/2026-08-02/2084065915004747888.md",
-    "Research/raw/x-bookmarks/2026-08-02/2084006770704302437.md",
-    "Research/raw/x-bookmarks/2026-08-02/2083940637921943803.md",
-    "Research/raw/x-bookmarks/2026-08-02/2083794337586974823.md",
-    "Research/raw/x-bookmarks/2026-08-02/2083783390453751898.md",
-    "Research/raw/x-bookmarks/2026-08-02/2083759818133688517.md",
-    "Research/raw/x-bookmarks/2026-08-02/2083751868132454668.md",
-    "Research/raw/x-bookmarks/2026-08-02/2083705845670650195.md",
-    "Research/raw/x-bookmarks/2026-08-02",
-    "Research/raw/x-bookmarks/2026-08-01/2083652162450538507.md",
-    "Research/raw/x-bookmarks/2026-08-01/2083458624202944694.md",
-    "Research/raw/x-bookmarks/2026-08-01/2083372797456458077.md",
-    "Research/raw/x-bookmarks/2026-08-01",
-    "Research/raw/x-bookmarks/2026-07-12",
-    "Research/raw/documents/Amway-Business-Reference-Guide-USEN-2024-09.pdf",
-    "Research/personal",
-    "Research/ltd-amway/visuals/one-in-twelve-platinum-cohort/prompts",
-    "Research/ltd-amway/visuals/one-in-twelve-platinum-cohort/one-in-twelve-platinum-galaxy-s26-wallpaper-1440x3120.png",
-    "Research/ltd-amway/visuals/one-in-twelve-platinum-cohort/one-in-twelve-platinum-galaxy-s26-wallpaper-1080x2340.png",
-    "Research/ltd-amway/visuals/one-in-twelve-platinum-cohort/infographic.png",
-    "Research/ltd-amway/visuals/one-in-twelve-platinum-cohort",
+    "Personal/Church/2026/2026-08-16.md",
+    "Business/LTD Amway/Info Sessions/2026/2026-08-13 Joshe Jackson.md",
+    "Business/LTD Amway/Info Sessions/2026/2026-08-04 Joe Markiewicz.md",
+    "Research/raw/ltd-amway/2026-08-13-independent-thinking-slides/03-lets-think-together.jpg",
+    "Research/raw/ltd-amway/2026-08-13-independent-thinking-slides/02-cashflow-quadrant.jpg",
+    "Research/raw/ltd-amway/2026-08-13-independent-thinking-slides/01-independent-thinking.jpg",
+    "Research/External AI Memory/Last30Days/Daily Debriefs/Past Debriefs/2026-08-08-daily-industry-landscape-debrief.md",
+    "Research/External AI Memory/Last30Days/Daily Debriefs/Past Debriefs/2026-08-09-daily-industry-landscape-debrief.md",
+    "Research/External AI Memory/Last30Days/Daily Debriefs/Past Debriefs/2026-08-12-daily-industry-landscape-debrief.md",
+    "Research/External AI Memory/Last30Days/Daily Debriefs/Past Debriefs/2026-08-11-daily-industry-landscape-debrief.md",
+    "Research/External AI Memory/Last30Days/Daily Debriefs/Past Debriefs/2026-08-10-daily-industry-landscape-debrief.md",
+    "Research/External AI Memory/Last30Days/Daily Debriefs/2026-08-13-daily-industry-landscape-debrief.md",
+    "Research/paranetics-tri-pole-propulsion-due-diligence-2026.md",
+    "Research/raw/x-bookmarks/2026-08-11/2087252657589412119.md",
+    "Research/faleth/process/local-minimax-h3-video-generation-tradeoffs-2026.md",
+    "Research/External AI Memory/Last30Days/Daily Debriefs/Past Debriefs/Older Than 31 Days/2026-07-10-daily-industry-landscape-debrief.md",
+    "Research/External AI Memory/Last30Days/Daily Debriefs/Past Debriefs/Older Than 31 Days/2026-07-09-daily-industry-landscape-debrief.md",
+    "Research/raw/transcripts/lyle-x-share-2087969186219778252.md",
+    "Research/External AI Memory/Last30Days/Daily Debriefs/Past Debriefs/Older Than 31 Days/2026-07-08-daily-industry-landscape-debrief.md",
+    "Research/faleth/process/messaging-ui-as-agent-operating-surface-2026.md",
+    "Research/raw/transcripts/lyle-x-share-2086418529008443421.md",
+    "Research/raw/transcripts/2026-08-13-ltd-independent-thinking-slides.md",
+    "Research/faleth/content/x-for-you-algorithm-action-weights-2026.md",
+    "Research/raw/transcripts/lyle-x-share-2086576283211710957.md",
+    "Research/raw/transcripts/lyle-x-share-2087247083971760207.md",
+    "Research/raw/transcripts/lyle-x-share-2087544650559025190.md",
+    "Research/raw/x-bookmarks/2026-08-11/2087234458336604370.md",
+    "Research/faleth/process/spring-damper-undulation-procedural-secondary-motion-2026.md",
+    "Research/raw/ltd-amway/2026-08-13-independent-thinking-slides",
+    "Research/raw/x-bookmarks/2026-08-08",
+    "Research/raw/x-bookmarks/2026-08-09",
+    "Research/raw/x-bookmarks/2026-08-10",
+    "Research/raw/x-bookmarks/2026-08-11",
+    "Research/raw/x-bookmarks/2026-08-12",
+    "Research/raw/ltd-amway",
+    "Research/raw/x-bookmarks/2026-08-07",
+    "Research/raw/x-bookmarks/2026-08-06",
+    "Research/raw/x-bookmarks/2026-08-05",
     "Research/assets/what-why-how-pyramid-in-motion-2026-07-24.png",
-    "Research/raw/assets/social/2026-07-15-tristan-ghazal-instagram-comment.jpg",
+    "Research/raw/assets/books/2026-07-12-maverick-semler-unit-size-pp124-125.jpg",
+    "Research/raw/assets/books/2026-07-12-maverick-semler-small-units-p118.jpg",
     "Research/raw/assets/books/2026-07-12-maverick-semler-small-units-p117.jpg",
     "Research/raw/assets/books/2026-07-12-maverick-semler-employee-participation.jpg",
-    "Research/raw/assets/books/2026-07-12-maverick-semler-amoeba-results-pp122-123.jpg",
-    "Research/raw/assets/books/2026-07-12-maverick-semler-unit-size-pp124-125.jpg",
-    "Research/raw/assets/books/2026-07-12-maverick-semler-small-units-p118.jpg"
+    "Research/raw/assets/books/2026-07-12-maverick-semler-amoeba-results-pp122-123.jpg"
   ]
 }
