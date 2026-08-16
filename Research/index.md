@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-14 | Total pages: 52+
+> Last updated: 2026-08-16 | Total pages: 52+
 
 ## Meta / schema
 
@@ -100,6 +100,7 @@
 - [[faleth/governance/peaceful-fork-voluntary-alignment-2026]] — Voluntary alignment and peaceful fork without coercive upline rent.
 - [[faleth/governance/conflict-escalation-trust-preservation-2026]] — Scope-based conflict escalation, trust-by-default, proportional safeguards, interface governance, standards lifecycles, and value-preserving separation.
 - [[faleth/governance/document-review-sanctioning-architecture-2026-07-09]] — Graduated sanctions, body-decided removal, and open v2 governance decisions.
+- [[faleth/governance/investor-concentration-and-office-pool-floor-2026]] — Proposed 10% per-investor cap and 25% office floor so book-value pricing cannot buy soft leverage.
 - [[faleth/operating-style/lyle-two-week-insights-2026-06-24]] — Jun 10–24 operating profile synthesis (goals, constraints, patterns).
 - [[faleth/biography-operating-system]] — Biographies compressed into queryable strategic intelligence for Faleth.
 - [[research/ltd-amway/case-studies/tristan-ghazal-amway-termination-2026]] — Contested 2026 termination account as a platform-ownership, due-process, and peaceful-fork governance stress test.

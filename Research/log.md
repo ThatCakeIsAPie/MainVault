@@ -5,6 +5,13 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-08-16] create | Faleth investor concentration and office pool floor
+- Raw source: [[raw/transcripts/lyle-faleth-investor-concentration-and-office-floor-2026-08-16]]
+- Created: [[faleth/governance/investor-concentration-and-office-pool-floor-2026]]
+- Idea note: [[Business/Ideas/Faleth MCA 10 Percent Cap and 25 Percent Office Floor]]
+- Proposed parameters: 10% individual MCA cap, 25% office floor, book-value price freeze; 10% was spoken in drafting and never numbered in the frameworks
+- Frameworks left untouched; Equity Framework still lists cap size and total MCA share as unset
+
 ## [2026-08-09] ingest | Independent Hermes memory-provider benchmark
 - Raw source: [[raw/transcripts/lyle-x-share-2086418529008443421]]
 - Updated: [[External AI Memory/memory-system-bakeoff-baseline-2026-06-11]], [[external-ai-memory/lyle-telegram-x-shares-log]], and [[index]]
