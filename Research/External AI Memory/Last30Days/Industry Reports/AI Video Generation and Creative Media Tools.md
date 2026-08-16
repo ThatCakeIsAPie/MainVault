@@ -224,3 +224,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-15
 - No inspected flagship API/pricing change. Creator/X traffic remained Seedance 2.5 (native 30s / cinematic motion) versus Kling/Veo stitching. A Gemini image-watermark-toggle headline stayed RSS/snippet-level after the cited Verge URL 404'd. Do not add a vendor; finish one FRR explainer and score rights, retries, edit time, acceptance, bookings, and accepted-result cost ([X Seedance](https://x.com/Ryan_blake_ai/status/2088582070209851668), [ByteDance — background](https://seed.bytedance.com/en/seedance2_5)). Signal: **medium** for usage continuity, **weak** for new product facts.
+
+### 2026-08-16
+- No inspected flagship API/pricing change. X still treats Seedance 2.5 as the usage leader (1080p / aggregator access including Runway early access) versus Kling/Veo stitching. Targeted 24h news was mostly airport-runway keyword collisions. Do not add a vendor; finish one FRR explainer and score rights, retries, edit time, acceptance, bookings, and accepted-result cost ([X Seedance](https://x.com/hedo_ist/status/2088501606580998246), [X Runway hosting](https://x.com/neuraltechai/status/2088654435639562568), [ByteDance — background](https://seed.bytedance.com/en/seedance2_5)). Signal: **medium** for usage continuity, **weak** for new product facts.

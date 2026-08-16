@@ -19,6 +19,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - **Hours-long unattended vendor agents** (Writer-class 8-hour claims; Workfront-class packaged collaborators) are being sold on cost/speed/quality packages — still claims until accepted-result evidence exists.
 - **Human-credential reuse** is a live identity failure mode: if the agent uses a person's login, attribution, receipts, and kill authority collapse.
 - **Hosted MCP is now a vendor product**, not just a local install: MongoDB Atlas Managed MCP (Aug 13–15 press) sells no-infra connectors into Claude Code, Codex, Grok Build, and Devin. Connection convenience is not an identity or write-scope control.
+- **Shadow MCP is now a network-control product:** Cloudflare Gateway can classify MCP via `MCP-Protocol-Version` and block traffic that does not arrive through an approved MCP Server Portal (`experimental.is_mcp == true`). Path control still cannot see local `stdio` MCP.
 
 ## Major Shifts to Watch
 - Enterprise platforms bundling agent builders, performance dashboards, and outcome pricing.
@@ -237,3 +238,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-15
 - MongoDB Atlas Managed MCP is circulating as a hosted, no-infra connector into Claude Code, Codex, Grok Build, and Devin (30k+ weekly MCP installs claimed). GitHub put Grok 4.6 into Copilot as an agentic-coding model (Business/Enterprise policy off by default). Treat hosted MCP as a governed connector: owner, non-human identity, permission source, data class, write scope, token/cost ceiling, receipts, reviewer, rollback, kill authority ([MongoDB updates](https://www.mongodb.com/products/updates/), [MongoDB PR](https://www.mongodb.com/company/newsroom/press-releases/mongodb-brings-live-operational-data-to-the-agentic-coding-stack), [GitHub Changelog](https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot/)). Signal: **strong**.
+
+### 2026-08-16
+- Cloudflare Gateway now detects inspected MCP via protocol headers and exposes `experimental.is_mcp == true` so Zero Trust customers can log shadow MCP and block connections that bypass an approved Portal. Pair hosted connectors with an approved-path rule; do not treat the SWG as a substitute for server-side write gates (it cannot see local `stdio`) ([Cloudflare MCP security](https://blog.cloudflare.com/mcp-security-updates/), [Cloudflare MCP portals](https://developers.cloudflare.com/cloudflare-one/access-controls/ai-controls/mcp-portals/)). Signal: **strong** for official control shape; **weak** for Grok Bot / payroll-agent press.
