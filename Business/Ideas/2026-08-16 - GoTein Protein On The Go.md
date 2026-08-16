@@ -50,6 +50,10 @@ Names that already sit near the idea, not a verdict:
 
 The possible gap is dose + simplicity: 50g drinks / 100g meals as the default, not 25–40g “high protein” as a menu adjective.
 
+## Unit economics
+
+First pass: [[2026-08-16 - GoTein Unit Economics]]
+
 ## Faleth Relevance
 
 Unassigned. Not VXE. Not a current-season cash play unless Lyle says otherwise.
