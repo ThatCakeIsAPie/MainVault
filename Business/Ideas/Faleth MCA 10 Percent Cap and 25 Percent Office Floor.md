@@ -9,7 +9,8 @@ status: proposed
 
 Contemplated 2026-08-16. Not written into the frameworks.
 
-- Any one investor: no more than **10%** of the total pool.
+- Any one investor: cannot **add** money past **10%** of the total pool.
+- Organic inflation from other exits is allowed until **past 15%**, then auto-withdraw starts.
 - The office: no less than **25%** of the total pool.
 - Price stays at **book value**. The discount versus market is the attractor; the caps are the ration.
 - Purpose: durability against soft leverage, not a fundraising feature.

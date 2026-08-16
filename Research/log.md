@@ -5,6 +5,11 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-08-16] update | Faleth 10/15 investor band
+- Updated: [[faleth/governance/investor-concentration-and-office-pool-floor-2026]], [[raw/transcripts/lyle-faleth-investor-concentration-and-office-floor-2026-08-16]], [[Business/Ideas/Faleth MCA 10 Percent Cap and 25 Percent Office Floor]]
+- New mechanic: 10% is a no-add gate; past 15% starts auto-withdraw at book value off the liquid side
+- Still open: trim landing (recommended reset is 10%); cascade handling if several accounts trip together
+
 ## [2026-08-16] create | Faleth investor concentration and office pool floor
 - Raw source: [[raw/transcripts/lyle-faleth-investor-concentration-and-office-floor-2026-08-16]]
 - Created: [[faleth/governance/investor-concentration-and-office-pool-floor-2026]]
