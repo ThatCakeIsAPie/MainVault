@@ -41,6 +41,16 @@ The protein SKU does not change. The calorie dial does. Same wells, two builds. 
 
 Named counter shake: **Milky-Whey** (milk plus whey). Cut version leans Fairlife or skim. Bulk version leans whole milk, maybe Greek or peanut.
 
+## Shelf
+
+Six independent bays. Cut / Bulk across Breakfast / Lunch / Dinner. Three to five options per bay.
+
+Start at 3 live per bay: 18 SKUs on the glass. A 5-item library can rotate without 30 things dying in the case. Twenty units deep is 360 meals on hand. That is a week of quota if they actually walk out the door.
+
+Breakfast / lunch / dinner on a sealed shelf is the eater’s next meal, not the store’s clock. All six bays stay up all day. People grab tomorrow’s breakfast at 7pm. That is why meal prep starts looking attractive.
+
+Warm eat-now plus a drive-thru is the other loop: same six-section board, order “Bulk Lunch 2,” do not park. Window does not need 18 pans on the line if the shelf is already cooked. Drive-thru is a second-gen box problem (lane, rent), not a recipe problem.
+
 ## Timing
 
 Not now. Possible first-wave Faleth subsidiary after VXE has generated cash for a while and after LTD platinum or ruby. Parked until then.

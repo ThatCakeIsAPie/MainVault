@@ -82,6 +82,8 @@ Operationally: one line, two builds, color on the label. Do not clone the menu. 
 
 Concurrent tracks, not a seasonal flip. People are not all in the same season. A calendar cut menu fires the bulker for four months.
 
+Shelf as specified: 6 bays, 3 live SKUs each = 18 on the glass. A 5-deep library is 30 recipes, not 30 dying pans. Drive-thru sells the same codes warm. Extra fixed is the box and the lane, not another kitchen.
+
 ### Shelf burrito, 50g at $8
 
 This is the SKU that matches the quick-stop story.
