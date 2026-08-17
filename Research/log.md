@@ -5,6 +5,30 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-08-17] create | Calcify Honcho + GBrain unique memory
+- Folder: [[raw/memory-layers-2026-08-17/README]]
+- Honcho: 7,553 conclusions archived; 1,712 unique Delta→Lyle in readable markdown
+- GBrain: takes/facts empty; 56 timeline entries saved; wiki pages already in vault
+- Why: retire those services without losing the derived layer
+
+## [2026-08-17] update | Hermes Cloud is not a HermesDelta replacement
+- Raw: [[raw/transcripts/lyle-nous-cloud-vs-hetzner-2026-08-17]]
+- Updated: [[faleth/process/hermes-cloud-and-x-mcp-2026]]
+- Portal 2026-08-17: Small/Medium/Large $0.29 / $0.56 / $1.09 per running day; stopped $0.03/day; inference extra
+- Decision: retain Hetzner HermesDelta; Cloud is a thin managed agent SKU, not this stack
+
+## [2026-08-16] update | Faleth 10/15 investor band
+- Updated: [[faleth/governance/investor-concentration-and-office-pool-floor-2026]], [[raw/transcripts/lyle-faleth-investor-concentration-and-office-floor-2026-08-16]], [[Business/Ideas/Faleth MCA 10 Percent Cap and 25 Percent Office Floor]]
+- New mechanic: 10% is a no-add gate; past 15% starts auto-withdraw at book value off the liquid side
+- Still open: trim landing (recommended reset is 10%); cascade handling if several accounts trip together
+
+## [2026-08-16] create | Faleth investor concentration and office pool floor
+- Raw source: [[raw/transcripts/lyle-faleth-investor-concentration-and-office-floor-2026-08-16]]
+- Created: [[faleth/governance/investor-concentration-and-office-pool-floor-2026]]
+- Idea note: [[Business/Ideas/Faleth MCA 10 Percent Cap and 25 Percent Office Floor]]
+- Proposed parameters: 10% individual MCA cap, 25% office floor, book-value price freeze; 10% was spoken in drafting and never numbered in the frameworks
+- Frameworks left untouched; Equity Framework still lists cap size and total MCA share as unset
+
 ## [2026-08-09] ingest | Independent Hermes memory-provider benchmark
 - Raw source: [[raw/transcripts/lyle-x-share-2086418529008443421]]
 - Updated: [[External AI Memory/memory-system-bakeoff-baseline-2026-06-11]], [[external-ai-memory/lyle-telegram-x-shares-log]], and [[index]]
@@ -974,3 +998,15 @@
 - Verification: bookmark snapshot from the pre-run collector; MAGI-2 blog + GitHub README opened; all 4 raw-source SHA-256 values matched their bodies.
 - Files changed in this ingest: 4 raw notes, 1 new wiki page, 4 existing wiki pages, `index.md`, and `log.md`.
 
+
+## [2026-08-17] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 49 were already processed; ingested the 1 new bookmark.
+- Created immutable raw bookmark source:
+  - `raw/x-bookmarks/2026-08-15/2088722152283308243.md` — @Gundamritter quote-tweet: *polemios* (public/polis enemy) vs *echthros* (private/neighbor enemy) as the Matthew 5:44 category.
+- Created `concepts/offshoots/echthros-vs-polemios-enemy-categories.md` as a contested concept. Marked `contested: true`; *echthros* is not a sealed private-only box.
+- Updated `index.md` and `external-ai-memory/lyle-telegram-x-shares-log.md`.
+- No existing wiki page already owned this distinction; conflict-escalation and peaceful-fork were linked, not rewritten.
+- Evidence limits: viral dunk plus official quoted-thread context and Tesseract on two photos. Not a lexicon paper.
+- Verification: bookmark snapshot from the pre-run collector; `xurl --app hermes` read of bookmark + quoted posts; media expansion + OCR. Raw SHA-256 matched body.
+- Files changed in this ingest: 1 raw note, 1 new wiki page, shares log, `index.md`, and `log.md`.
