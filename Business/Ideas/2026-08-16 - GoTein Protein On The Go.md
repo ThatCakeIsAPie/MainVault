@@ -67,6 +67,8 @@ Heart, not the poster: whoever brings a customer shares in that spend. App is th
 
 Credits still accrue as COA when earned. App-gated + unredeemed points help cash like gift cards. P&L follows the framework unless GoTein sets a different expiry.
 
+If profit after fixed is about 15% of revenue, office fee sits on the 5% floor (one-third of 15% is also 5%). Written rule takes profit share side by side off the same OP: 3%, net 7%. Taking share after the fee is 2% and 8%. Same neighborhood. Either way is a decent food-service net.
+
 ## Timing
 
 Not now. Possible first-wave Faleth subsidiary after VXE has generated cash for a while and after LTD platinum or ruby. Parked until then.
