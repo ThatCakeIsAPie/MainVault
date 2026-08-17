@@ -12,8 +12,11 @@ Chicken-led 100g is cheap. Whey-led 50g is currently the worse ingredient. A pic
 
 ## Working dose
 
-- Shake: 50g protein
-- Meal / prep: 100g protein
+- Shake / grab breakfast: 50g protein
+- Hero eat-now meals: 100g protein
+- Shelf example: 50g breakfast burrito at $8, reheat later
+
+Lyle refined the format on 2026-08-16: quick-stop, every SKU protein-first, hot and cold grab-and-go shelf. Not a delivery box. Not “Chipotle if you know the hack.” Parked until after VXE cash and LTD platinum or ruby.
 
 ## Ingredient math
 
@@ -45,6 +48,24 @@ Other = $0.80 milk, $0.40 fruit, $0.25 cup/lid. Planning extras, not invoices.[u
 Ticket to land 28–32% food cost: about $9–$12.
 
 A $9 shake at boom whey is 36% food cost. That is fat for QSR. Price it like a meal-adjacent drink, not a $6 promo.
+
+### Shelf burrito, 50g at $8
+
+This is the SKU that matches the quick-stop story.
+
+| Build | Protein $ | Wrap + foil | Plate COGS | Food cost at $8 |
+|---|---:|---:|---:|---:|
+| 50g chicken | 1.27 | 0.98 | 2.25 | 28% |
+| 30g chicken + ~3 eggs | 1.39 | 0.98 | 2.37 | 30% |
+| 25g chicken + egg white + cheese | 1.29 | 0.98 | 2.27 | 28% |
+
+Wrap extras are planning numbers: tortilla $0.32, cheese $0.28, salsa $0.12, foil/label $0.18, oil/spice $0.08.[unverified]
+
+At $8 this is 6.3 grams per dollar, better than My Fit Foods retail and a Chipotle 81g bowl, worse than Chipotle’s $3.82 protein cup.[6][7][17][9]
+
+Batch labor is the real test, not the tortilla. Two people, five hours, 200 burritos: about $1.00 labor each at the loaded $20/hr used above. Food plus that batch labor is about $3.40, or 42% of $8. That still fits a grab-and-go prime-cost story if the room is a shelf, not a dining room.
+
+$8 is a real target if chicken and eggs carry the grams. It dies if the burrito is whey-padded or sold out of a full restaurant labor load.
 
 ### Meal, 100g
 
