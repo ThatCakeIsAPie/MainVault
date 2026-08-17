@@ -20,6 +20,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - **Human-credential reuse** is a live identity failure mode: if the agent uses a person's login, attribution, receipts, and kill authority collapse.
 - **Hosted MCP is now a vendor product**, not just a local install: MongoDB Atlas Managed MCP (Aug 13–15 press) sells no-infra connectors into Claude Code, Codex, Grok Build, and Devin. Connection convenience is not an identity or write-scope control.
 - **Shadow MCP is now a network-control product:** Cloudflare Gateway can classify MCP via `MCP-Protocol-Version` and block traffic that does not arrive through an approved MCP Server Portal (`experimental.is_mcp == true`). Path control still cannot see local `stdio` MCP.
+- **The Inference Paradox is now named:** Gartner (Aug 17) says inference cost per agentic workflow rises more than fivefold through 2028 because cheaper tokens unlock more expensive multi-step agents. Default-to-agent is a margin failure mode; inference-tiering belongs in the control plane.
+- **Local coding-agent containment is a product:** Hazmat-class tools run Claude Code / Codex / OpenCode / Cursor under a separate OS account so home-dir keys stay out of reach. Network MCP gates and OS isolation do not substitute for each other.
 
 ## Major Shifts to Watch
 - Enterprise platforms bundling agent builders, performance dashboards, and outcome pricing.
@@ -241,3 +243,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-16
 - Cloudflare Gateway now detects inspected MCP via protocol headers and exposes `experimental.is_mcp == true` so Zero Trust customers can log shadow MCP and block connections that bypass an approved Portal. Pair hosted connectors with an approved-path rule; do not treat the SWG as a substitute for server-side write gates (it cannot see local `stdio`) ([Cloudflare MCP security](https://blog.cloudflare.com/mcp-security-updates/), [Cloudflare MCP portals](https://developers.cloudflare.com/cloudflare-one/access-controls/ai-controls/mcp-portals/)). Signal: **strong** for official control shape; **weak** for Grok Bot / payroll-agent press.
+
+### 2026-08-17
+- Gartner named the Inference Paradox: agentic-workflow inference cost rises more than fivefold through 2028; an agentic reasoning hop is at least 5x a chatbot. Hazmat (open source) wraps Claude Code / Codex / OpenCode / Cursor in a separate local account. DeepSeek Harness remains MIT developer preview, not GA. Add inference-tier/cost ceiling and containment class to the agent registry; do not adopt Harness or Hazmat this week ([Gartner](https://www.gartner.com/en/newsroom/press-releases/2026-08-17-gartner-predicts-ai-inference-costs-per-agentic-workflow-will-increase-more-than-fivefold-through-2028), [Hazmat](https://www.helpnetsecurity.com/2026/08/17/hazmat-open-source-ai-coding-agent-containment/), [DeepSeek Harness](https://deepseek.com/harness/en/)). Signal: **strong** for Gartner/Hazmat; **medium** for Harness heat.

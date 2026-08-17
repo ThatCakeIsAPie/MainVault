@@ -10,8 +10,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - **Third-party model routers** (OpenRouter-class) are discussed for **non-CUI** GovCon prototyping; sensitive bid/CUI paths should stay on self-hosted or gov-grade clouds.
 - SAM.gov's ISR/SSR **AI “Validate Remarks”** pattern makes the proper automation boundary concrete: AI can suggest improvements, while named humans still own compliance review, anomaly handling, certification, and evidence retention.
 - The **July 2026 CMMC Phase 2 suspension and reform task force** shift compliance from a simple implementation calendar into a clause-specific evidence and policy-feedback problem; existing contractual controls remain active unless authoritative guidance changes them.
-- The **CMMC Reform RFI comment window closed August 14, 2026 at 12:00 p.m. ET**. Next official clock is the Task Force report (~mid-September). Mid-year ISR remains a SAM.gov showing-up problem (32 days past as of 2026-08-15).
-- **SAM.gov Saturday maintenance** (August 15, 8:00 a.m.–1:00 p.m. EST) is a live filing-risk window even when the alert later flips to Inactive.
+- The **CMMC Reform RFI comment window closed August 14, 2026 at 12:00 p.m. ET**. Next official clock is the Task Force report (~mid-September; ~29 days from 2026-08-17 to Sep 15). Mid-year ISR remains a SAM.gov showing-up problem (**34 days past** as of 2026-08-17).
+- **SAM.gov Saturday maintenance** (August 15) is over. Next plumbing change: Entity Management Daily extracts post **every day of the week effective 09/06/2026** (20 days out).
 
 ## Major Shifts to Watch
 - Small-contractor tools marketing 24/7 SAM.gov monitoring plus compliant drafting as a lightweight alternative to GovWin-style platforms.
@@ -235,3 +235,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-16
 - Saturday SAM window is **done** (alert Inactive). New official SAM alert: Entity Management Daily extracts post **every day of the week effective 09/06/2026** (was Tue–Sat). Direct SPR retrieval unchanged. **33 days after mid-year ISR.** CMMC RFI remains closed; next clock is Task Force ~mid-September. Close VXE rows; store LibreTech submit/no-submit; add Sep 6 extract cadence to the calendar ([SAM extract-schedule alert](https://sam.gov/alerts/entity-management-extract-publishing-schedule-change), [SAM.gov SPR](https://sam.gov/esrs), [CMMC RFI](https://sam.gov/workspace/contract/opp/89ef9bfb0834473791e991c712698d94/view)). Signal: **strong** for official calendar, **weak** for CMMC webinar noise.
+
+### 2026-08-17
+- Extract-schedule alert still Active (last updated Aug 15): daily Entity Management extracts start **09/06/2026**. Direct SPR retrieval unchanged. **34 days after mid-year ISR.** CMMC RFI remains closed; Task Force ~mid-September. Close VXE rows; store LibreTech submit/no-submit; no autonomous filing ([SAM extract-schedule alert](https://sam.gov/alerts/entity-management-extract-publishing-schedule-change), [SAM.gov SPR](https://sam.gov/esrs), [CMMC RFI](https://sam.gov/workspace/contract/opp/89ef9bfb0834473791e991c712698d94/view), [RFO](https://www.acquisition.gov/far-overhaul)). Signal: **strong** for official calendar, **weak** for last-24h novelty.
