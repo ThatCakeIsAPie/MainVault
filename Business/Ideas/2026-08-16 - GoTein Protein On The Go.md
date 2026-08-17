@@ -65,7 +65,7 @@ Heart, not the poster: whoever brings a customer shares in that spend. App is th
 
 **Unlock (the heart):** not advertised. After 5 referred people who clear a spend threshold over time, they get a private notice they can switch to the 20% credit system instead of points on those tickets. No double dip. Anyone who asks still gets a complete answer ([[The Marketing and Brand Framework#Transparency]]).
 
-Credits still accrue as COA when earned. App-gated + unredeemed points help cash like gift cards. P&L follows the framework unless GoTein sets a different expiry.
+COA is a quarterly pile, not a swipe-time tax. Ads, billboards, and people pulling points all land in the same bucket and get spread across every ticket. Per ticket, the live levers are COG and COF. Everything after that just tells you OP.
 
 If profit after fixed is about 15% of revenue, office fee sits on the 5% floor (one-third of 15% is also 5%). Written rule takes profit share side by side off the same OP: 3%, net 7%. Taking share after the fee is 2% and 8%. Same neighborhood. Either way is a decent food-service net.
 
