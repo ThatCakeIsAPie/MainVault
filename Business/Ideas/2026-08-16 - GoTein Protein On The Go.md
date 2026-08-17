@@ -73,7 +73,7 @@ If profit after fixed is about 15% of revenue, office fee sits on the 5% floor (
 
 **Two ledgers.** Own-spend points: food only. Referral points: the ones that can climb. 100k and 1M gates read the referral ledger only.
 
-At 100 pts / $1: 100k referral points is $1,000 of their spend. 1M is $10,000. Cash-out at menu face is $533 / $5,333. Cash-out at waterfall cost is about $230 / $2,300. Par ($1 per 100 pts) is $1,000 / $10,000 and eats the ticket. If a cash-out exists, price it like fulfillment or like 20% of referred spend, not like a gift card at full menu.
+At 100 pts / $1: 100k referral points is $1,000 of their spend. 1M is $10,000. Do not price a cash-out or a pile of burritos at menu face. COF is 20% of GM and does not move when COA moves. Pulls (food or cash) amortize as COA across the tickets. Book the fulfillment, not the $8. A $530 face hole on a $1,000 book is what happens if you treat the wall price as the cost. Amortized at cost, even heavy redemption still looks like a COA line, and OP is what flexes.
 
 **Ladder (thought exercise, not a mandate):** points on the board → quiet 5-person unlock to 20% credits → referral-balance wrap into an MCA. That last door is already in [[The Marketing and Brand Framework]] and [[The Equity Framework]]. MCA is not offered until the legal box you already flagged is real. One path. Do not also invent a third currency.
 
