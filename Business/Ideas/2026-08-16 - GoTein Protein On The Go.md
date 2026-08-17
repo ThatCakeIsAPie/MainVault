@@ -63,3 +63,5 @@ $8 / 50g burrito: food cost can work on chicken and eggs. A staffed dining room 
 ## Faleth Relevance
 
 Parked future subsidiary. After VXE cash and platinum/ruby. Not a current-season play.
+
+Unit shape already fits [[The Financial Framework]]: ~33% COG, COG+COF under ~50%, 20% COA room, ~30% before fixed. See [[2026-08-16 - GoTein Unit Economics]].

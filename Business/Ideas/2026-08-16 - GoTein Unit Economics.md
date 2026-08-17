@@ -134,6 +134,26 @@ Two people, 8 hours, 800 sf cheap industrial:
 
 That is the cheap test. Same kitchen can feed a Friday gym-pickup fridge without a dining room.
 
+## Faleth waterfall
+
+Lyle’s target for most businesses: about 33% COG, or about 50% COG + COF, leaving about 20% COA and about 30% before fixed. That is the spoken shape of [[The Financial Framework]].
+
+The written table is the same idea with COF defined as 20% of gross margin, which is about 13% of revenue when COG is 33%. Restaurant “food cost” is COG. Restaurant labor is not COF. COF is a pool off gross margin, not a wage line.
+
+| SKU | Price | COG | COG % | COF (20% of GM) | COG+COF | After 20% COA |
+|---|---:|---:|---:|---:|---:|---:|
+| Breakfast burrito | $8 | $2.30 | 29% | $1.14 | 43% | 37% |
+| Shake, WPI | $10 | $2.80 | 28% | $1.44 | 42% | 38% |
+| Shake, boom whey | $9 | $3.27 | 36% | $1.15 | 49% | 31% |
+| 100g chicken meal | $16 | $3.84 | 24% | $2.43 | 39% | 41% |
+| 100g chicken meal | $13 | $3.84 | 30% | $1.83 | 44% | 36% |
+
+The $8 burrito and the $13–$16 meals sit inside his 33% COG and 50% COG+COF bands. The $9 whey shake is the one that pokes through 33% COG.
+
+Walk-in shelf tickets can carry near-zero COA ([[The Marketing and Brand Framework]]). That 20% is room, not a bill you must spend. Delivery platforms would spend it for you.
+
+A staffed dining room does not break COG. It breaks the 30% before fixed. Rent and idle labor are the lines that eat the waterfall after the plate is already honest.
+
 ## What the numbers actually say
 
 1. Do not build the brand around whey grams. Whey is in a squeeze. Chicken grams are cheaper and more stable.[3][15]
