@@ -68,6 +68,7 @@
 - [[offshoots/transition-comparison-insecurity-and-surrendered-control]] — Waiting seasons: comparison, insecurity, and surrendering control without losing agency.
 - [[offshoots/spiritual-gatekeeping-in-the-home]] — Household faith without performance-based spiritual gatekeeping.
 - [[offshoots/nature-as-telos-not-occurrence-catalog]] — “Natural” means what a thing is for, not whatever appears in nature; animal occurrence is not a human ought.
+- [[offshoots/echthros-vs-polemios-enemy-categories]] — “Enemy” is not one word: personal/private enmity (*echthros*) is not public enmity of the *polis* (*polemios*).
 
 ## Faleth mindset & transition
 

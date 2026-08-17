@@ -986,3 +986,15 @@
 - Verification: bookmark snapshot from the pre-run collector; MAGI-2 blog + GitHub README opened; all 4 raw-source SHA-256 values matched their bodies.
 - Files changed in this ingest: 4 raw notes, 1 new wiki page, 4 existing wiki pages, `index.md`, and `log.md`.
 
+
+## [2026-08-17] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 49 were already processed; ingested the 1 new bookmark.
+- Created immutable raw bookmark source:
+  - `raw/x-bookmarks/2026-08-15/2088722152283308243.md` — @Gundamritter quote-tweet: *polemios* (public/polis enemy) vs *echthros* (private/neighbor enemy) as the Matthew 5:44 category.
+- Created `concepts/offshoots/echthros-vs-polemios-enemy-categories.md` as a contested concept. Marked `contested: true`; *echthros* is not a sealed private-only box.
+- Updated `index.md` and `external-ai-memory/lyle-telegram-x-shares-log.md`.
+- No existing wiki page already owned this distinction; conflict-escalation and peaceful-fork were linked, not rewritten.
+- Evidence limits: viral dunk plus official quoted-thread context and Tesseract on two photos. Not a lexicon paper.
+- Verification: bookmark snapshot from the pre-run collector; `xurl --app hermes` read of bookmark + quoted posts; media expansion + OCR. Raw SHA-256 matched body.
+- Files changed in this ingest: 1 raw note, 1 new wiki page, shares log, `index.md`, and `log.md`.
