@@ -5,6 +5,12 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-08-17] update | Retired Honcho + GBrain from HermesDelta
+- Agent: `hermes memory off`; MCP `gbrain` removed; cron `bab3a87dc850` paused
+- Host: compose `down` (volumes kept); user timer `gbrain-obsidian-sync` disabled
+- Archive: [[raw/memory-layers-2026-08-17/README]]
+- Needs gateway `/restart` for this session to drop honcho/gbrain tools
+
 ## [2026-08-17] create | Calcify Honcho + GBrain unique memory
 - Folder: [[raw/memory-layers-2026-08-17/README]]
 - Honcho: 7,553 conclusions archived; 1,712 unique Delta→Lyle in readable markdown
