@@ -55,7 +55,12 @@ Warm bay holds a few of each live SKU. The rest stay cold. Hero trip: five cold 
 
 Receipt prints calories, protein grams, and price per line, plus a combined total. QR on the receipt opens a macro breakdown. That is a receipt feature, not a second company.
 
-Referral / rewards, GoTein parameter: about $0.10 per $1 to the buyer and the same $0.10 to their referrer when they spend. Together that is the 20% COA envelope on a referred ticket ([[The Marketing and Brand Framework]]). Official Faleth default is 20% to the referrer only, one level deep, walk-in carries none. 10+10 is allowed as a subsidiary parameter if it stays inside acquisition and can be explained in one sentence. Tradeoff: referrer now needs about ten same-spend friends to zero their own bill, not five. Walk-in with buyer-only points is 10% COA, not zero. Credits still accrue as COA when earned; breakage helps cash, not the P&L, if you follow the framework.
+Referral / rewards, GoTein parameter (refined):
+
+- Default Faleth: **20% of referred topline to the referrer**, one level deep, walk-in carries none ([[The Marketing and Brand Framework]]).
+- Referred person gets a reason to join, not a second 10% forever. App is the rail: referral code, receipt QR, macros, credit balance. The dime to the buyer, if it exists, is **app-gated** and will see gift-card-like non-redemption.
+- Do not stack 20% referrer + 10% buyer on the same ticket. That is 30% COA. Keep the referred perk inside the 20% envelope (split), or make it a one-time welcome / app benefit, or accept a thinner referrer flywheel (10+10, ten friends not five).
+- Framework expenses credits when they accrue and says they never expire. Breakage then helps cash, not the P&L. Gift-card economics (expire / forget) are a different parameter than the written rule.
 
 ## Timing
 
