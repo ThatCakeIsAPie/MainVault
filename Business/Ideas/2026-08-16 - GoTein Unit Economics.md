@@ -154,6 +154,25 @@ Walk-in shelf tickets can carry near-zero COA ([[The Marketing and Brand Framewo
 
 A staffed dining room does not break COG. It breaks the 30% before fixed. Rent and idle labor are the lines that eat the waterfall after the plate is already honest.
 
+## Quota, not wage labor
+
+If this is a Faleth subsidiary, labor is COF off gross margin through points. It flexes with tickets. Idle bodies are not a payroll problem unless Layer 2 falls under the Layer 1 floor. The floor is then the only fixed labor ([[The Contribution Framework]], [[The Financial Framework#6. Why It Doesn't Break]]).
+
+True fixed: rent, utilities, insurance, waste, Layer 1. Know that number, divide by contribution after COG and COF, and you have the daily quota. Past that is operating profit, before office fee and profit share.
+
+Walk-in COA treated as zero. Contribution after COG+COF is about 57% on the $8 burrito and about 61% on the $16 meal.
+
+Layer 1 dollars below are a planning stub, not a sanctioned floor. Using $400/week per person.[unverified]
+
+| Shape | Fixed / day (stub) | Quota sales | Units |
+|---|---:|---:|---:|
+| Commissary, 2 people, cheap box | ~$220 | ~$390 | ~48 burritos or ~24 meals |
+| Quick-stop box, 4 floors, 1,800 sf | ~$770 | ~$1,290 | ~80 mix tickets at $16 / ~160 at $8 |
+
+Waste belongs in the quota as a dollar budget or a few points of COG, not as a vibe.
+
+The restaurant-industry labor scare was wage-world. Under Faleth, the question is only: can the shelf beat rent, utilities, insurance, waste, and the floor.
+
 ## What the numbers actually say
 
 1. Do not build the brand around whey grams. Whey is in a squeeze. Chicken grams are cheaper and more stable.[3][15]
