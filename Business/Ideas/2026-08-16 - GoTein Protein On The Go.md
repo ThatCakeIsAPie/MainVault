@@ -69,6 +69,14 @@ Credits still accrue as COA when earned. App-gated + unredeemed points help cash
 
 If profit after fixed is about 15% of revenue, office fee sits on the 5% floor (one-third of 15% is also 5%). Written rule takes profit share side by side off the same OP: 3%, net 7%. Taking share after the fee is 2% and 8%. Same neighborhood. Either way is a decent food-service net.
 
+**Identity:** Points beat a posted 20% credit because a card swipe has no “who sent you” unless you store cards. Do not store cards. The app is the name. Buyer wants points, so they open it, so the referrer can be paid. Walk-in card-only stays zero COA.
+
+**Two ledgers.** Own-spend points: food only. Referral points: the ones that can climb. 100k and 1M gates read the referral ledger only.
+
+At 100 pts / $1: 100k referral points is $1,000 of their spend. 1M is $10,000. Cash-out at menu face is $533 / $5,333. Cash-out at waterfall cost is about $230 / $2,300. Par ($1 per 100 pts) is $1,000 / $10,000 and eats the ticket. If a cash-out exists, price it like fulfillment or like 20% of referred spend, not like a gift card at full menu.
+
+**Ladder (thought exercise, not a mandate):** points on the board → quiet 5-person unlock to 20% credits → referral-balance wrap into an MCA. That last door is already in [[The Marketing and Brand Framework]] and [[The Equity Framework]]. MCA is not offered until the legal box you already flagged is real. One path. Do not also invent a third currency.
+
 ## Timing
 
 Not now. Possible first-wave Faleth subsidiary after VXE has generated cash for a while and after LTD platinum or ruby. Parked until then.
