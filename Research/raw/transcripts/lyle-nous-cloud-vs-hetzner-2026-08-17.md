@@ -53,3 +53,5 @@ If Running is pro-rated by hour (Flightplan said hourly), Large at 8 working hou
 ## Decision this session
 
 Do not treat Cloud as a drop-in for Honcho + GBrain + Faleth. The billing argument is open: it wins only if idle actually hibernates and Lyle accepts a thinner runtime, or keeps a cheap box for the DBs.
+
+Lyle later said he was already thinking of retiring Honcho and GBrain. He asked where Obsidian was excluded. It was not. Cloud has a persistent `/opt/data` workspace and a FILES pane. The vault is markdown + git; phone already syncs GitHub. That can live on Cloud. What does not is the Docker query/profile stack.
