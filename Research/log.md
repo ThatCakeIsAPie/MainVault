@@ -5,6 +5,12 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-08-17] update | Hermes Cloud is not a HermesDelta replacement
+- Raw: [[raw/transcripts/lyle-nous-cloud-vs-hetzner-2026-08-17]]
+- Updated: [[faleth/process/hermes-cloud-and-x-mcp-2026]]
+- Portal 2026-08-17: Small/Medium/Large $0.29 / $0.56 / $1.09 per running day; stopped $0.03/day; inference extra
+- Decision: retain Hetzner HermesDelta; Cloud is a thin managed agent SKU, not this stack
+
 ## [2026-08-16] update | Faleth 10/15 investor band
 - Updated: [[faleth/governance/investor-concentration-and-office-pool-floor-2026]], [[raw/transcripts/lyle-faleth-investor-concentration-and-office-floor-2026-08-16]], [[Business/Ideas/Faleth MCA 10 Percent Cap and 25 Percent Office Floor]]
 - New mechanic: 10% is a no-add gate; past 15% starts auto-withdraw at book value off the liquid side

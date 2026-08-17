@@ -1,7 +1,7 @@
 ---
 title: Hermes Cloud + Hosted X MCP (agent stack, 2026)
 created: 2026-07-10
-updated: 2026-07-31
+updated: 2026-08-17
 type: principle
 tags: [ai, software, infrastructure, open-source, leverage, systems]
 sources:
@@ -13,6 +13,7 @@ sources:
   - raw/x-bookmarks/2026-07-12/2076345051198984637.md
   - raw/x-bookmarks/2026-07-30/2082854011460518352.md
   - raw/articles/2026-07-31-hermes-flightplan-2-always-on-cloud.md
+  - raw/transcripts/lyle-nous-cloud-vs-hetzner-2026-08-17.md
 confidence: medium
 ---
 
@@ -38,13 +39,14 @@ confidence: medium
 
 The Flightplan #2 implementation makes the hosted topology concrete: one persistent Hermes Cloud workspace can expose a locked-down Discord lane for ambient chat while Hermes Desktop connects to the same instance as a remote coding backend. Sessions and tool execution remain server-side; the channels are front doors, not separate brains. This is the durable architecture signal: separate **runtime continuity** from **operator interface**, then add each interface under its own authentication and authority boundary. [[raw/x-bookmarks/2026-07-12/2076345051198984637]] [[raw/articles/2026-07-31-hermes-flightplan-2-always-on-cloud]]
 
-The article's July 2026 walkthrough reports browser provisioning, a persistent `/opt/data` workspace, dashboard-managed channels/configuration, Nous OAuth for Desktop, and no SSH requirement for ordinary operation. Its listed prices—$0.32/$0.59/$1.12 per running day for Small/Medium/Large, plus $0.06/day stopped storage and separate inference/tool charges—are dated observations, not procurement constants; check the portal at decision time.
+The article's July 2026 walkthrough reports browser provisioning, a persistent `/opt/data` workspace, dashboard-managed channels/configuration, Nous OAuth for Desktop, and no SSH requirement for ordinary operation. Flightplan prices ($0.32/$0.59/$1.12 running, $0.06 stopped) are dated. Portal info on 2026-08-17: Small/Medium/Large **$0.29 / $0.56 / $1.09 per running day**, stopped **$0.03/day**, still excluding inference and tools. Cloud remains preview. [[raw/transcripts/lyle-nous-cloud-vs-hetzner-2026-08-17]]
 
 Hermes Desktop's visible subagent activity is likewise more than UI polish. Showing each delegated agent's live status and context turns parallelism into an inspectable operating surface, which lowers supervision cost and makes failed or wandering work easier to catch. The video is product evidence of observability, not evidence that spawning more agents automatically improves outcomes. [[raw/x-bookmarks/2026-07-30/2082854011460518352]] [[faleth/process/agent-swarm-coordination-context-economics-2026]]
 
 ## Faleth take (Lyle)
 
 - **Already running Hermes self-hosted/VPS path** with xurl OAuth and bookmark cron. Cloud SKU is a **fallback / team path**, not a forced migration while solo.
+- **2026-08-17 switch check:** do **not** replace HermesDelta with Hermes Cloud. Live box is a Hillsboro Hetzner vServer (3 vCPU / 3.7 GiB / 75G) running Hermes plus Honcho, GBrain, Faleth CRM Postgres, Tailscale, and systemd backups. Cloud Large is 4 GB in an isolated no-SSH container. The cheap $8.70/mo Small rate is 1 GB and cannot host this stack. If the pain is US Hetzner CPX pricing, the comparable self-host move is an EU CX-class box, not a managed 1–4 GB agent SKU.
 - **X MCP** validates the ambient-learning architecture: bookmarks + STEAL ingest + agent tools over the same API surface. Prefer **owned OAuth + ledger** over opaque scrapers.
 - **GovCon/VXE priority still wins calendar.** Cloud convenience is leverage only if it reduces babysitting; do not open a second agent-ops rabbit hole during cash-timing hell month.
 - **Steering is the useful primitive:** keep long jobs alive while correcting direction at tool boundaries. The smartwatch is merely one interface; the durable value is cheap, non-destructive operator intervention.
@@ -52,6 +54,7 @@ Hermes Desktop's visible subagent activity is likewise more than UI polish. Show
 
 ## Open questions
 
+- Exact current HermesDelta invoice vs EU CX33 / US CPX after the June 2026 Hetzner hike.
 - Cost vs self-host for multi-model + long jobs.
 - Data residency / client-work isolation on multi-tenant cloud agents.
 - Whether hosted X MCP scopes match bookmark/DM needs or remain read-heavy.
