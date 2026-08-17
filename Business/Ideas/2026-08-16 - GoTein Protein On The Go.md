@@ -13,7 +13,7 @@ A quick-stop whose only job is high protein. Not “healthy.” Not “fit lifes
 
 Working dose targets:
 
-- Shake / grab breakfast: about 50g protein
+- Shake / grab breakfast: about 50g protein, including a **Milky-Whey** counter shake (milk plus whey)
 - Hero eat-now meals: about 100g protein
 - Grab-and-go shelf (hot and cold): same honesty per item, including an $8 / 50g breakfast burrito that reheats in a microwave or on a stove
 
@@ -32,6 +32,15 @@ Two loops in one kitchen:
 1. Immediate: counter shakes and hot plates
 2. Deferred: sealed hot/cold grab-and-go that stores and reheats later
 
+Two tracks on one board, guest picks their season:
+
+- **Cut:** same protein, fewer calories. Leaner builds, smaller carb sides, Fairlife / egg white / veg.
+- **Bulk:** same protein, more calories. Rice, potato, tortilla, whole milk, bigger plates. 100g lives here.
+
+The protein SKU does not change. The calorie dial does. Same wells, two builds. Not two kitchens.
+
+Named counter shake: **Milky-Whey** (milk plus whey). Cut version leans Fairlife or skim. Bulk version leans whole milk, maybe Greek or peanut.
+
 ## Timing
 
 Not now. Possible first-wave Faleth subsidiary after VXE has generated cash for a while and after LTD platinum or ruby. Parked until then.
@@ -41,6 +50,7 @@ Not now. Possible first-wave Faleth subsidiary after VXE has generated cash for 
 - Who is the customer first: serious lifters, busy parents, cutters, office lunch?
 - Footprint: gym-adjacent quick stop, strip end-cap, or commissary plus fridge?
 - Is 100g the brand promise, or is 50g the shelf default and 100g the hero plate?
+- Cut / bulk as two concurrent tracks (guest’s season), or a calendar flip? Concurrent is the default so you do not fire half the room.
 - DFW first?
 
 ## Nearby Concepts (not yet a full scan)

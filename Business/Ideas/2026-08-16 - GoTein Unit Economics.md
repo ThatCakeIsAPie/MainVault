@@ -49,6 +49,39 @@ Ticket to land 28–32% food cost: about $9–$12.
 
 A $9 shake at boom whey is 36% food cost. That is fat for QSR. Price it like a meal-adjacent drink, not a $6 promo.
 
+### Milky-Whey shake, 50g
+
+Name is the recipe: milk carries part of the grams, whey tops it off.
+
+US Dairy Market News, recent week: regular WPC 80% $12–$13/lb, WPI $14 to the upper $14s.[8] That is cheaper than the May EU WPC80 print used above. Mid case here: WPC $12.50/lb.
+
+Regular milk ~8g protein per cup. Fairlife ultra-filtered ~13g per cup.[0][1]
+
+| Build (50g) | Milk $ | Whey $ | Cup/flavor | COGS | COG at $8 | COG at $10 |
+|---|---:|---:|---:|---:|---:|---:|
+| 16 oz regular + 34g WPC | 0.35 | 1.17 | 0.45 | 1.97 | 25% | 20% |
+| 12 oz regular + Greek + 23g WPC | 0.96 | 0.79 | 0.45 | 2.20 | 28% | 22% |
+| 16 oz Fairlife + 24g WPC | 1.48 | 0.83 | 0.45 | 2.75 | 34% | 28% |
+| All-whey 50g + 8 oz milk | 0.18 | 1.72 | 0.45 | 2.35 | 29% | 23% |
+
+Fairlife dollars are grocery-ish ($4.80 per 52 oz planning). Foodservice milk will be cheaper.[unverified]
+
+The cheap honest version is regular milk plus whey at $8–$9. That is 25% COG, COF about $1.20, COG+COF about 40%, and about 40% left after a full 20% COA. Inside the waterfall.
+
+Fairlife as a $10 “milky” upgrade still clears 33% COG. At $8 it pokes the line.
+
+Do not let whey do all 50 grams unless you want the shake to taste like a gym bag and the COG to ride a dairy-commodity roller coaster.
+
+### Cut vs bulk
+
+Same protein cost. Different calorie payload. Protein is the expensive line. Rice, oil, cheese, and banana are cheap.
+
+So a Cut 50g and a Bulk 50g have almost the same COG. Bulk looks cheaper as a percent because the ticket can be a dollar or two higher for calories that cost pennies. Cut should not be discounted just because the plate is smaller. You are still selling the grams.
+
+Operationally: one line, two builds, color on the label. Do not clone the menu. 100g plates default to Bulk. 50g shelf defaults can live on both sides. Milky-Whey Cut = Fairlife or skim. Milky-Whey Bulk = whole milk.
+
+Concurrent tracks, not a seasonal flip. People are not all in the same season. A calendar cut menu fires the bulker for four months.
+
 ### Shelf burrito, 50g at $8
 
 This is the SKU that matches the quick-stop story.
