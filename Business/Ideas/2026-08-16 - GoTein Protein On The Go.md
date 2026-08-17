@@ -51,6 +51,12 @@ Breakfast / lunch / dinner on a sealed shelf is the eater’s next meal, not the
 
 Warm eat-now plus a drive-thru is the other loop: same six-section board, order “Bulk Lunch 2,” do not park. Window does not need 18 pans on the line if the shelf is already cooked. Drive-thru is a second-gen box problem (lane, rent), not a recipe problem.
 
+Warm bay holds a few of each live SKU. The rest stay cold. Hero trip: five cold lunches for the work week plus one warm breakfast through the window.
+
+Receipt prints calories, protein grams, and price per line, plus a combined total. QR on the receipt opens a macro breakdown. That is a receipt feature, not a second company.
+
+Referral / rewards, GoTein parameter: about $0.10 per $1 to the buyer and the same $0.10 to their referrer when they spend. Together that is the 20% COA envelope on a referred ticket ([[The Marketing and Brand Framework]]). Official Faleth default is 20% to the referrer only, one level deep, walk-in carries none. 10+10 is allowed as a subsidiary parameter if it stays inside acquisition and can be explained in one sentence. Tradeoff: referrer now needs about ten same-spend friends to zero their own bill, not five. Walk-in with buyer-only points is 10% COA, not zero. Credits still accrue as COA when earned; breakage helps cash, not the P&L, if you follow the framework.
+
 ## Timing
 
 Not now. Possible first-wave Faleth subsidiary after VXE has generated cash for a while and after LTD platinum or ruby. Parked until then.
