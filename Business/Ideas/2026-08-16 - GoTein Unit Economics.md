@@ -171,6 +171,8 @@ Layer 1 dollars below are a planning stub, not a sanctioned floor. Using $400/we
 
 Waste belongs in the quota as a dollar budget or a few points of COG, not as a vibe.
 
+A $1,500 daily quota over a 12-hour day is 94 meals at $16 or 188 at $8: about 8–16 tickets an hour, one every 4–8 minutes. That is a slow QSR day. If the shelf is batched, most of those tickets are grabs, not cooked-to-order.
+
 The restaurant-industry labor scare was wage-world. Under Faleth, the question is only: can the shelf beat rent, utilities, insurance, waste, and the floor.
 
 ## What the numbers actually say
