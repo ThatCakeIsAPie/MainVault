@@ -61,7 +61,7 @@ Ditch the posted 20% credit. Use a points catalog everyone already understands. 
 
 Heart, not the poster: whoever brings a customer shares in that spend. App is the rail. Walk-in with no app carries none.
 
-**Rate check:** 1500 points for an $8 burrito at 100 points per dollar is $15 spend for $8 back (53%). Same again to the referrer on a referred ticket is over 100% COA. That is a punch-card hook, not a rate. To keep ~10% buyer (and ~20% on a referred ticket if the referrer earns the same), the catalog is about 8000 points for the $8 burrito, 12000 for a $12 / 80g shake, 16000 for a $16 / 100g burger. Or earn 10 points per dollar and keep his 1500 / 6000 / 12000 numbers, which then imply $80 / $32 / $64 tickets and do not match. Pick one: pretty numbers or 10% math. Do not stack both.
+**Rate check (corrected):** Do not price the gift at $8. Price it at what leaves the building: about $2.30 COG and about $1 COF. $15 of spend for a $3–4 fulfillment is the real trade. $15 ticket plus one redeemed burrito still leaves about 35% before fixed. Buyer and referrer both redeeming a burrito on that same $15 drops it to about 16% before fixed — thinner, not dead. Booking the $8 face as COA is what zeros the ticket. The waterfall does not. If COG or COA runs hot on one order, OP falls, and office fee and profit share fall with it. That is the flexibility.
 
 **Unlock (the heart):** not advertised. After 5 referred people who clear a spend threshold over time, they get a private notice they can switch to the 20% credit system instead of points on those tickets. No double dip. Anyone who asks still gets a complete answer ([[The Marketing and Brand Framework#Transparency]]).
 
