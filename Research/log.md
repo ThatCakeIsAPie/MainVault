@@ -5,6 +5,12 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-08-17] create | Calcify Honcho + GBrain unique memory
+- Folder: [[raw/memory-layers-2026-08-17/README]]
+- Honcho: 7,553 conclusions archived; 1,712 unique Delta→Lyle in readable markdown
+- GBrain: takes/facts empty; 56 timeline entries saved; wiki pages already in vault
+- Why: retire those services without losing the derived layer
+
 ## [2026-08-17] update | Hermes Cloud is not a HermesDelta replacement
 - Raw: [[raw/transcripts/lyle-nous-cloud-vs-hetzner-2026-08-17]]
 - Updated: [[faleth/process/hermes-cloud-and-x-mcp-2026]]

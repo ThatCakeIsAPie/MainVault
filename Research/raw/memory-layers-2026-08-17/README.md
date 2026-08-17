@@ -20,7 +20,8 @@ GBrain **pages are already the vault**. This folder is the *other* memory: Honch
 | [[honcho-conclusions-lyle]] | All unique Delta→Lyle conclusions, newest first |
 | `honcho-conclusions-full.jsonl` | Complete Honcho conclusion store (7,553 rows, all observer/observed pairs) |
 | `honcho-conclusions-lyle-unique.json` | Machine copy of the Lyle-only set |
-| [[gbrain-snapshot]] | GBrain identity, empty takes/facts, table counts |
+|| [[gbrain-snapshot]] | GBrain identity, empty takes/facts, table counts |
+| [[gbrain-timeline]] | 56 GBrain timeline entries |
 
 ## What is not here
 
