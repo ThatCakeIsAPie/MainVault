@@ -40,6 +40,16 @@ First-party hosted Hermes Agent on a dedicated instance. Dashboard-managed. Pers
 
 Headline $/day is for a locked-down Hermes container. It is not a price for this box. Large (4 GB) matches RAM class only if you delete Honcho, GBrain, Faleth DB, Docker, and most of the 24G working set. Hillsboro Hetzner has no cheap CX/CAX SKUs; US CPX is why the VPS feels expensive. EU CX would be the cheap self-host comparison, not Cloud Small.
 
+## Lyle's refinement (same session)
+
+He wants the switch because Hetzner raised rates, Cloud bills $1.09 only while running and $0.03 idle, and first-party Hermes Cloud is built for this agent.
+
+Live box matches **CPX21 in hil-dc1** (3 vCPU / 4 GB / 80 GB). After the 15 June 2026 hike, US list is **$13.99 → $37.49/mo**. Unknown whether this instance still has legacy pricing.
+
+Marketing on /cloud says the agent “scales to zero when idle.” Official /info prices are **Running vs Stopped instance**, billed as a daily UTC charge, excluding inference. Those are not the same claim. Telegram polling cannot sleep on a normal VPS; Cloud may use webhooks internally. Unverified whether an online instance with no chat is $0.03 or $1.09.
+
+If Running is pro-rated by hour (Flightplan said hourly), Large at 8 working hours/day is ~$11.50/mo compute. If any Running stamps the whole day, Large is ~$32.70 — close to new CPX21. Inference extra either way.
+
 ## Decision this session
 
-Retain HermesDelta. Cloud is a possible overflow/second agent, not a drop-in replacement.
+Do not treat Cloud as a drop-in for Honcho + GBrain + Faleth. The billing argument is open: it wins only if idle actually hibernates and Lyle accepts a thinner runtime, or keeps a cheap box for the DBs.
