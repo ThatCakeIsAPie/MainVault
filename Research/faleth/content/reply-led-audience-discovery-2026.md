@@ -39,3 +39,4 @@ For Lyle, replies can function as low-cost market research and relationship buil
 
 - [[faleth/content/twitter-drafting-system-2026]]
 - [[concepts/offshoots/persistent-consistent-action]]
+- [[faleth/content/x-ocr-to-supergrok-prosumer-2026]]

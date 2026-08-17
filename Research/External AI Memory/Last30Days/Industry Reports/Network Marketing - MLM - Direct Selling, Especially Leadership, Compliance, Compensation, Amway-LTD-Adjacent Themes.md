@@ -189,3 +189,39 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-04
 - Targeted RSS returned zero items, and X was fragmented into generic legitimacy/definition debates. No Amway/LTD compensation, IDS, enforcement, Rules, or official compliance change surfaced. Maintain product/customer-value, typical-net-results/expenses, official IDS, approved-claims, and human-review discipline ([FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing), [Amway IDS](https://www.amway.com/en_US/income-disclosure) — background). Signal: **weak** for novelty, **strong** for durable context.
+
+### 2026-08-05
+- Targeted RSS returned zero items, and X found no substantive Amway/LTD compensation, IDS, enforcement, Rules, or leadership-compliance change. Maintain product/customer-value, typical-net-results/expenses, official IDS, approved-claims, and human-review discipline ([FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing), [Amway IDS](https://www.amway.com/en_US/income-disclosure) — background). Signal: **weak** for novelty, **strong** for durable context.
+
+### 2026-08-06
+- Direct Selling News published current industry guidance on FTC earnings-claim exposure and IDS design: population inclusion, median/distribution reporting, expense context, training, monitoring, and enforcement. No Amway/LTD rule or compensation change surfaced. Add those fields plus reviewer/disposition receipts to the LTD content checklist ([DSN](https://www.directsellingnews.com/2026/08/05/dont-be-the-ftcs-next-target/), [FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing) — background). Signal: **medium** for industry guidance, **weak** for official novelty.
+
+### 2026-08-07
+- Targeted RSS/X produced no substantive Amway/LTD compensation, IDS, Rules, enforcement, or leadership-compliance change. Maintain product/customer value, typical net-results/expenses, IDS linkage, approved sources, reviewer/disposition, and training/enforcement receipts; scalable AI outreach increases claim blast radius ([Amway IDS](https://www.amway.com/en_US/income-disclosure), [FTC guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing) — background). Signal: **weak** for novelty, **strong** for durable discipline.
+
+### 2026-08-08
+- No Amway/LTD compensation, IDS, Rules, FTC MLM, enforcement, or leadership-compliance change surfaced. Current X warned that crypto/Ponzi schemes increasingly borrow MLM language, reinforcing separate controls for investment/return, earnings, recruitment, product, health, lifestyle, and synthetic-testimonial claims ([current signal](https://x.com/StrategyIndia/status/2085657519314358595), [Amway IDS](https://www.amway.com/en_US/income-disclosure) — background). Signal: **weak** for official novelty, **medium–weak** for category-risk reinforcement.
+
+### 2026-08-09
+- Targeted RSS returned unrelated disclosure noise, and no Amway/LTD compensation, IDS, Rules, FTC MLM, enforcement, or leadership-compliance change surfaced. Current skepticism again centered on minimal-work/high-income, recruitment-heavy, upfront-cost, and vague-workflow pitches. Maintain customer value, work/effort, expenses, typical net results, IDS linkage, approved sources, reviewer/disposition, and training receipts ([current signal](https://x.com/zeo_ex/status/2086001686087450636), [Amway IDS](https://www.amway.com/en_US/income-disclosure) — background). Signal: **weak** for official novelty, **medium–weak** for category sentiment.
+
+### 2026-08-10
+- No Amway/LTD compensation, IDS, Rules, or FTC MLM change surfaced. A current celebrity-MLM article repeated concerns around “be your own boss,” dream-selling, and pricey buy-ins. Use influencer-style pitches as red-team examples for autonomy, lifestyle, limited-hours, earnings, expense, and buy-in implications ([current item](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZlI0U1FpZWlwNEFZWnBCTVY1RUt4UDhwc2xNcVE5UEdadFRYcmxnVWpSUkZ5NjNVa0UzaEhaWnRPa0hXeEI5UzJnRlNLTFVTamFwc3QxUTJJUTBRdUg0VW0yQk8tSjFva2xzcWJlVmd1eExvZHlWR3hvQk1IWnMxbkRKdDBjVkFZekFCYmN0ZGxSMFpWekVqQWVPaXhhSVBBcnVaMDl5Y3hkWno5dGRaV1dnR0tCN1ZqYVBVXw?oc=5); RSS/snippet-level). Signal: **weak** for official novelty, **medium–weak** for reputation signal.
+
+### 2026-08-11
+- Reworthing launched a self-described independent 100-point direct-selling score across revenue trend, legal risk, product legitimacy, social presence, seller validation, and search visibility. No Amway/LTD compensation, IDS, Rules, or FTC MLM change surfaced. Borrow the dimensions for source-audited red-teaming, but do not treat an opaque private score as regulatory truth ([Reworthing](https://reworthing.com/news/reworthing-launches-independent-intelligence-direct-selling)). Signal: **medium–weak**.
+
+### 2026-08-12
+- No Amway/LTD compensation, IDS, Rules, or FTC MLM change surfaced. Current company results and France's unsolicited-telemarketing ban reinforce that scale does not loosen consent or claim controls. For automated outreach, record consent/source, claim class, approved evidence, IDS, typical-results/expense context, reviewer, and disposition ([IBOAI](https://www.iboai.com/resource-center/compliance-messages), [Amway IDS](https://www.amway.com/en_US/income-disclosure)). Signal: **weak** for official novelty, **medium–weak** for channel discipline.
+
+### 2026-08-13
+- The targeted strict-window feed returned no items, and no Amway/LTD compensation, IDS, Rules, FTC MLM, enforcement, or leadership-compliance change surfaced. Preserve consent/source, approved claims, IDS linkage, typical-results/expense context, reviewer, and disposition for AI-assisted outreach ([IBOAI](https://www.iboai.com/resource-center/compliance-messages), [Amway IDS](https://www.amway.com/en_US/income-disclosure)). Signal: **weak** for novelty.
+
+### 2026-08-14
+- Targeted RSS returned only keyword-collision finance items. Official IBOAI index still shows latest earnings-claim/disclosure messages dated August 4, 2026; Amway IDS was 403 from this host. No compensation, Rules, or FTC MLM change. Keep consent/source, approved claims, IDS, typical-results/expense context, reviewer, and disposition ([IBOAI](https://www.iboai.com/resource-center/compliance-messages)). Signal: **weak** for novelty, **strong** for official continuity.
+
+### 2026-08-15
+- Official IBOAI index still dated August 4 for earnings-claim/disclosure messages. DSN covered Bravenly/RIMAN field events; Mumbai Origin-AI Ponzi/MLM arrests are a banned-language exhibit (guaranteed/passive/AI-income), not an Amway rule change. No compensation, IDS, or FTC MLM change ([IBOAI](https://www.iboai.com/resource-center/compliance-messages), [Amway IDS](https://www.amway.com/en_US/income-disclosure)). Signal: **weak** for novelty, **strong** for official continuity.
+
+### 2026-08-16
+- Targeted 24h RSS returned no items. Official IBOAI index still dated August 4 for earnings-claim/disclosure messages. DSN Amway Week of Service (Aug 13) is CSR background, not compensation. No IDS, Rules, or FTC MLM change. Keep consent/source, approved claims, IDS, typical-results/expense context, reviewer, and disposition ([IBOAI](https://www.iboai.com/resource-center/compliance-messages), [Amway IDS](https://www.amway.com/en_US/income-disclosure)). Signal: **weak** for novelty, **strong** for official continuity.

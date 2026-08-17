@@ -24,14 +24,14 @@ For a sense of the target shape, here is roughly how a healthy subsidiary's reve
 
 | Line item                           | Target share of revenue |
 | ----------------------------------- | ----------------------- |
-| Cost of goods                       | ~33%                    |
+| Cost of goods                       | ~33.3%                  |
 | Cost of acquisition                 | ~20%                    |
 | Cost of fulfillment (the team pool) | ~13.3%                  |
 | Office fee                          | ~11.1%                  |
 | Profit share                        | ~6.7%                   |
 | Net margin                          | ~15.9%                  |
 
-Every rule above is visible in those numbers. Cost of fulfillment is 20% of gross margin. Operating profit lands near 33.7%, so the office fee is one-third of it and the profit share is 20% of the same figure — and because 5% of revenue would only be 5%, the profit-based calculation is the one that applies. Fixed expenses sit outside the table because they vary too widely between a repair shop and a factory to benchmark; in a live subsidiary they come out before operating profit, which scales the last three lines down together. These are benchmarks, not mandates.
+Every rule above is visible in those numbers. Cost of fulfillment is 20% of gross margin. Operating profit lands near 33.3%, so the office fee is one-third of it and the profit share is 20% of the same figure — and because 5% of revenue would only be 5%, the profit-based calculation is the one that applies. Fixed expenses sit outside the table because they vary too widely between a repair shop and a factory to benchmark; in a live subsidiary they come out before operating profit, which scales the last three lines down together. These are benchmarks, not mandates.
 
 ---
 

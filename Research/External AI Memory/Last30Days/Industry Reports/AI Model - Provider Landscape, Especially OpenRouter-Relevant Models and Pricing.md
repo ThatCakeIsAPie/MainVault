@@ -16,6 +16,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Daily full-ID snapshots and pricing checks are now mandatory operational evidence: catalog removals are exactly auditable, and DeepSeek V3.2's July 15 cache-price jump shows why cheap-worker assumptions must expire automatically.
 - Moving `~...latest` aliases add convenience but reduce reproducibility; production receipts should log both the requested alias and the resolved dated/provider route.
 - Free routes are opportunistic capacity, not durable infrastructure: July 20 removed six free endpoints at once, reinforcing preflight checks and paid fallback requirements.
+- **Flash-class Google models now ship on a weeks-not-quarters cadence.** Gemini 3.7 Flash (Aug 13) is a coding/agent workhorse with a Google intro list of $0.75/$3.75/M through Dec 31, 2026 and $1.50/$7.50/M from Jan 1, 2027; OpenRouter listed it the next morning at $0.375/$1.875/M plus a `:batch` half-price row.
+- **Native DeepSeek V4 peak/off-peak billing starts 16:00 UTC Aug 16** (peak 01:00–04:00 and 06:00–10:00 UTC). Official V4-Pro peak becomes $1.32/$3.96 cache-miss/output; off-peak $0.66/$1.98. OpenRouter `deepseek/deepseek-v4-pro-0813` can lag native list on the DeepSeek host while third-party hosts already post peak-like rows; production `deepseek/deepseek-v3.2` is a different ID and must be checked separately. Receipts must log provider, not just model ID.
 
 ## Major Shifts to Watch
 - Promotional cache pricing and cheap large-context models are becoming decisive for agent loops and recurring research jobs.
@@ -205,3 +207,39 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-04
 - Official API **~11:00 UTC**: **338 IDs**, exact diff **+1 / -0**. Added `qwen/qwen3.8-max` with **1M context** at **$2/$6/M**. Core stack pricing remains unchanged: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free`. Benchmark Qwen on accepted-result quality, tool use, latency, caching, and provider/data policy before routing changes ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
+
+### 2026-08-05
+- Official API **~11:00 UTC**: **338 IDs**, exact diff **0 additions / 0 removals**. Core stack pricing remains unchanged: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free`. No dependency migration today; continue Qwen3.8-Max benchmarking and accepted-result cost accounting ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
+
+### 2026-08-06
+- Official API **~11:00 UTC**: **340 IDs**, exact diff **+2 / -0**. Added `meta/muse-spark-1.2` (**$1.25/$4.25/M**, 1M context) and `inclusionai/ling-3.0-flash` (**$0.075/$0.22/M**). Core stack pricing remains unchanged: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free`. Benchmark Muse for coding and Ling for triage before any route change ([API](https://openrouter.ai/api/v1/models), [Meta](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)). Signal: **strong**.
+
+### 2026-08-07
+- Official API **~11:00 UTC**: **400 IDs**, exact diff **+61 / -1**. Added **60 `:batch` routes** plus `inclusionai/ling-3.0-tiny:free`; removed `inclusionai/ling-3.0-flash:free`. Ling Flash paid pricing fell to **$0.021/$0.063/M** (72.0%/71.4% lower than yesterday). Core non-batch stack remains unchanged; Sonnet 5 batch is **$1/$5/M** and GPT-5.5 batch **$2.50/$15/M**. Treat batch as preflighted spot capacity with a tested non-batch fallback ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
+
+### 2026-08-08
+- Official API **~11:00 UTC**: **400 IDs**, exact diff **0 additions / 0 removals**. DeepSeek V3.2 fell to **$0.26/$0.38/M** with **$0.13/M** cache read (cuts of 3.35% input/cache and 5.0% output). Sonnet 5 remains **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free`. No reroute; update cost assumptions and keep batch behind preflight/fallback ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
+
+### 2026-08-09
+- Official API **~11:00 UTC**: **400 IDs**, exact diff **0 additions / 0 removals**. Yesterday's DeepSeek V3.2 cut reverted: live pricing is **$0.269/$0.40/M** with **$0.1345/M** cache read. Sonnet 5 remains **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free`. No reroute; revert cost assumptions and compare live prices as well as IDs ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
+
+### 2026-08-10
+- Official API **~11:00 UTC**: **400 IDs**, exact diff **0 additions / 0 removals**. Core pricing held: Sonnet 5 **$2/$10/M** (cache **$0.20**), GPT-5.5 **$5/$30/M** (cache **$0.50**), DeepSeek V3.2 **$0.269/$0.40/M** (cache **$0.1345**), and Laguna XS 2.1 **$0.06/$0.12/M** (cache **$0.03**) plus `:free`. No reroute; treat current price headlines as unverified until API-confirmed ([API](https://openrouter.ai/api/v1/models)). Signal: **strong**.
+
+### 2026-08-11
+- Official API **~11:00 UTC**: **402 IDs**, exact diff **+3 / -1**. Added `meta/muse-glimmer-30b` ($0.35/$1.50/M; 131K), `sakana/sakana-namazu` ($0.95/$4/M; 262K), and `upstage/solar-pro4` ($0.03/$0.12/M; 524K); removed `openai/gpt-5.3-chat`. Core/delegate stack pricing held and the removed ID is outside it. OpenRouter also announced usage-informed Auto Router logic; benchmark Solar Pro 4 on low-risk document work, but do not reroute without accepted-output evidence ([API](https://openrouter.ai/api/v1/models), [Auto Router](https://x.com/OpenRouter/status/2086854699576180940)). Signal: **strong** for API facts, **medium** for routing quality.
+
+### 2026-08-12
+- Official API **~11:00 UTC**: **406 IDs**, exact diff **+4 / -0**. Added `nvidia/nemotron-3.5-lightning` ($0.10/$0.25/M) plus `:free`, `liquid/lfm-2.5-2.6b:free`, and `bytedance-seed/seed-2.0-code` ($0.50/$3/M). Core/delegate pricing and cache rates held. Keep routes stable; benchmark paid Nemotron only on a bounded low-risk agent task with preflight and fallback ([API](https://openrouter.ai/api/v1/models), [launch](https://x.com/OpenRouter/status/2087166520564834482)). Signal: **strong**.
+
+### 2026-08-13
+- Official API **~11:00 UTC**: **409 IDs**, exact diff **+4 / -1**. Added `x-ai/grok-4.6` ($2/$6/M), `deepseek/deepseek-v4-pro-0813` ($0.435/$0.87/M), `qwen/qwen3.8-2.4t-a95b` ($2/$6/M), and `bytedance-seed/seed-2-1-turbo` ($0.50/$2.50/M); removed `inclusionai/ling-3.0-tiny:free`. Core/delegate pricing and cache held. Keep production routes stable; benchmark DeepSeek V4 Pro only on a bounded task and verify no fallback depends on the removed free ID ([API](https://openrouter.ai/api/v1/models), [Grok launch](https://x.com/OpenRouter/status/2087567951809655120)). Signal: **strong**.
+
+### 2026-08-14
+- Official API **~11:00 UTC**: **411 IDs**, exact diff **+2 / −0**. Added `google/gemini-3.7-flash` ($0.375/$1.875/M; cache read $0.0375; 1,048,576 ctx) and `google/gemini-3.7-flash:batch` ($0.1875/$0.9375/M). Core stack unchanged. Google official intro is $0.75/$3.75/M through Dec 31, 2026 then $1.50/$7.50/M. DeepSeek native V4 peak/off-peak starts 16:00 UTC Aug 16; OpenRouter V4-Pro-0813 still $0.435/$0.87; production V3.2 unchanged. Benchmark Flash on one bounded task; do not reroute V3.2/Sonnet/GPT-5.5 without accepted-output evidence ([API](https://openrouter.ai/api/v1/models), [Google blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/), [DeepSeek pricing](https://api-docs.deepseek.com/quick_start/pricing/)). Signal: **strong**.
+
+### 2026-08-15
+- Official API **~11:00 UTC**: **413 IDs**, exact diff **+2 / −0**. Added `qwen/qwen3.8-27b` ($0.45/$3.20/M; 262K; 67.96% 3-day availability) and `dots-studio/dots-3-note-preview:free`. Core/delegate stack unchanged. GitHub Copilot now lists Grok 4.6 at provider list pricing. Native DeepSeek V4 peak/off-peak still starts **16:00 UTC Aug 16**; do not confuse `deepseek/deepseek-v4-pro` ($1.168/$2.336) with `deepseek-v4-pro-0813` or production V3.2. Keep routes; optional one-task Flash/27B bench only ([API](https://openrouter.ai/api/v1/models), [Qwen3.8 27B](https://openrouter.ai/qwen/qwen3.8-27b), [DeepSeek pricing](https://api-docs.deepseek.com/quick_start/pricing/), [GitHub Changelog](https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot/)). Signal: **strong**.
+
+### 2026-08-16
+- Official API **~11:00 UTC**: **413 IDs**, exact diff **+0 / −0**. Core/delegate stack unchanged. Native DeepSeek V4 peak/off-peak starts **today 16:00 UTC**; official V4-Pro peak $1.32/$3.96, off-peak $0.66/$1.98. OpenRouter `deepseek/deepseek-v4-pro-0813` still lists DeepSeek-host $0.435/$0.87 while several third-party hosts already post $1.32/$3.96. Production `deepseek/deepseek-v3.2` still $0.269/$0.40. Re-check after 16:00 UTC; do not assume yesterday's V4-Pro list holds on every provider ([API](https://openrouter.ai/api/v1/models), [DeepSeek pricing](https://api-docs.deepseek.com/quick_start/pricing/), [OpenRouter V4-Pro-0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)). Signal: **strong**.

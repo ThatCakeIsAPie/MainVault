@@ -2,12 +2,13 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-04 | Total pages: 50+
+> Last updated: 2026-08-14 | Total pages: 52+
 
 ## Meta / schema
 
 - [[SCHEMA]] — Wiki conventions, frontmatter, tags, raw provenance
 - [[SOURCE-MANIFEST]] — Where knowledge lives (Obsidian, GBrain, Hermes, AgentMemory, Honcho, External AI Memory)
+- [[External AI Memory/memory-system-bakeoff-baseline-2026-06-11]] — Lyle's layered-memory baseline, updated with the August 2026 seven-provider MemConflict benchmark and conflict-arbitration decision.
 - [[OKF-COMPATIBILITY]] — Open Knowledge Format v0.1 alignment and gaps
 - [[VALIDATION-REPORT]] — Latest `_tools/validate_vault.py` baseline (2026-06-22)
 
@@ -66,6 +67,7 @@
 - [[offshoots/ongoing-spirit-filling-and-gifts-for-common-good]] — Spirit-filled life and gifts exercised for the body, not gatekept performance.
 - [[offshoots/transition-comparison-insecurity-and-surrendered-control]] — Waiting seasons: comparison, insecurity, and surrendering control without losing agency.
 - [[offshoots/spiritual-gatekeeping-in-the-home]] — Household faith without performance-based spiritual gatekeeping.
+- [[offshoots/nature-as-telos-not-occurrence-catalog]] — “Natural” means what a thing is for, not whatever appears in nature; animal occurrence is not a human ought.
 
 ## Faleth mindset & transition
 
@@ -88,6 +90,7 @@
 - [[faleth/mindset/heart-intuition-guts-over-analysis-2026]] — Best bets use judgment under uncertainty, not spreadsheet theater.
 - [[faleth/mindset/action-without-audience-permission-2026]] — Stop treating imagined spectators as a permissioning authority; act when the feared audience is neither real nor consequential.
 - [[faleth/mindset/unstructured-time-as-cognitive-infrastructure-2026]] — Preserve input-free space for synthesis, reflection, and original judgment; Claude screenshot claims remain contested pending stronger evidence.
+- [[faleth/mindset/eschatology-shapes-present-stewardship-2026]] — Future expectations shape present Christian posture; Christ-centered preparation, redemptive stewardship, and hope without pretending one image settles eschatological debates.
 
 **Bridge & strategy**
 - [[faleth/bridge-strategy/game-finish-bridge-2026]] — Indie game ship as cash-timing bridge alongside GovCon deals.
@@ -128,6 +131,9 @@
 - [[faleth/process/microproductivity-requires-workflow-redesign-2026]] — AI task gains become organizational outcomes only after staffing, incentives, and downstream workflows are redesigned around the new capacity.
 - [[faleth/process/hermes-agent-long-horizon-codebases-2026]] — Hermes on huge legacy codebases
 - [[faleth/content/hermes-grok-x-content-machine-2026]] — automated X content machine packaging
+- [[faleth/content/x-ocr-to-supergrok-prosumer-2026]] — X Original Content Rewards as the only live payout path; replies build the room, originals pay; SuperGrok is prosumer inventory after Premium and two covering payouts.
+- [[faleth/content/dream-100-bulk-congregation-2026]] — Hardy bulk + Brunson Dream 100: borrow the room by becoming someone a named operator would platform, not a smaller clone.
+
 - [[faleth/process/llm-foundations-skill-stack-2026]] — CS229 foundations as future curriculum
 - [[faleth/process/agentic-loops-design-2026]] — Anthropic four loop types (prior + re-indexed)
 - [[faleth/process/hermes-cloud-and-x-mcp-2026]] — Hermes Cloud + hosted X MCP agent surface
@@ -151,4 +157,13 @@
 - [[faleth/process/text-to-cad-as-engineering-compiler-2026]] — Text-to-CAD becomes operational when it compiles intent into editable engineering, simulation, fabrication, and DFM artifacts.
 - [[faleth/process/llm-inference-serving-five-optimization-surfaces-2026]] — Continuous batching, phase disaggregation, KV-cache management, prefix routing, and MoE sharding as the core LLM-serving optimization surfaces.
 - [[faleth/process/ocr-gated-pdf-ingestion-pipelines-2026]] — Classify PDFs cheaply, extract native text locally, and reserve OCR for the pages that actually need it.
+- [[faleth/process/local-multiformat-document-to-markdown-ingestion-2026]] — Convert mixed office formats locally into one inspectable Markdown evidence interface before agent reasoning.
+- [[faleth/process/book-to-skill-compilation-for-agent-knowledge-2026]] — Compile long books and PDFs into navigable, testable agent skills rather than one giant prompt.
+- [[faleth/process/free-electron-laser-euv-light-utility-2026]] — FEL-based central EUV utility for multiple lithography scanners; technically credible concept, contested Terafab interpretation.
+- [[faleth/process/local-minimax-h3-video-generation-tradeoffs-2026]] — Local H3 feasibility on four RTX 3090s, with Turbo-LoRA speed, motion-smear, accepted-result-cost, and licensing caveats.
+- [[faleth/process/magi-2-open-moe-video-generation-2026]] — MAGI-2 Preview: 114B / 6B-active open MoE video; 8× Hopper and ~307 GB weights, not a Spark workflow.
+- [[faleth/process/messaging-ui-as-agent-operating-surface-2026]] — Messaging becomes an effective agent cockpit only when persistent compute, layered memory, triggers, handoffs, review controls, and verified tool execution sit underneath.
+- [[faleth/process/spring-damper-undulation-procedural-secondary-motion-2026]] — Simple spring-damper dynamics and length constraints can produce inspectable, reusable wave-like secondary animation without generative models.
+- [[faleth/process/hermes-bot-mode-persistent-profiles-2026]] — Hermes Bot Mode treats named agent profiles as standing teammates with jobs, memory, and inter-bot chat, distinct from disposable sessions and from mid-flight subagent steering.
+- [[faleth/process/owner-manages-agent-manager-not-the-work-2026]] — Owner manages a named manager-agent; that agent owns review and the next specialist hire; inbound jobs are the scoreboard.
 

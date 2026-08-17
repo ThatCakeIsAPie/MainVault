@@ -1,7 +1,7 @@
 ---
 title: Faleth Capital — System Overview & Takeaways
 created: 2026-05-14
-updated: 2026-06-22
+updated: 2026-08-10
 type: analysis
 tags: [faleth-capital, philosophy, business-architecture]
 ---
@@ -45,9 +45,9 @@ The wage/salary model was designed for an industrial era that needed interchange
 - Both can be taken as cash or minted into Class B shares
 
 ## Equity System
-- **Class A:** Office members — 100% ownership, voting rights, non-dividend
-- **Class B:** All participants — non-voting, dividend-participating, minted via profit share, burned on cash-out
-- **MCA:** External investors — proportional co-ownership of the unified pool, 2-and-20 fee structure
+- **Class A:** Office members — voting rights and stewardship, but no dividend or claim on performance fees; their financial return comes from subsidiaries they run and any MCAs they personally hold
+- **Class B:** Working participants — non-voting, dividend-participating, minted via profit share, burned on cash-out; the investor performance fee funds both their dividends and retained book-value growth
+- **MCA:** External investors — proportional co-ownership of the unified pool; their 20% performance fee is economically paid to the Class B operators who build and manage what the capital is invested into
 - Book value = (Office Equity − Liabilities) ÷ Total Class B Shares Outstanding
 - Dilution factor reported quarterly — measures growth velocity
 

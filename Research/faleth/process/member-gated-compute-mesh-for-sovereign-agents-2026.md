@@ -1,11 +1,14 @@
 ---
-type: analysis
-status: active
-date: 2026-07-22
-origin: Delta synthesis for Lyle Cole
-sources: ["[[research/raw/transcripts/lyle-x-share-2079684905991118892]]", "[[research/raw/sources/mesh-llm-2026-07-22]]"]
-related: ["[[research/faleth/process/buzz-sovereign-agent-workspace-analysis-2026]]", "[[research/faleth/process/three-treasures-resource-conversion-and-stewardship-2026]]", "[[concepts/offshoots/trust-as-coordination-infrastructure]]", "[[concepts/offshoots/systems-and-duplication-as-leverage]]"]
-tags: [faleth, mesh-llm, distributed-compute, gpu, agents, sovereignty, capital-coordination]
+title: Member-Gated Compute Mesh for Sovereign Agents
+created: 2026-07-22
+updated: 2026-08-05
+type: concept
+tags: [ai, llm, hardware, infrastructure, inference, systems, leverage]
+sources:
+  - raw/transcripts/lyle-x-share-2079684905991118892.md
+  - raw/sources/mesh-llm-2026-07-22.md
+  - raw/x-bookmarks/2026-08-04/2084661711521366108.md
+confidence: medium
 ---
 
 # Member-Gated Compute Mesh for Sovereign Agents
@@ -36,6 +39,12 @@ Mesh-LLM supplies the compute plane:
 - health and demand signals.
 
 The combination is materially more interesting than either product alone.
+
+## Official product signal — 2026-08-04
+
+Block's Buzz team now publicly frames the integration as **GPU matchmaking for agents**: idle gaming PCs and homelab machines can serve the owner's agents or share inference capacity with a community. The linked engineering article describes three distinct modes—pooling models for additional capacity, mixture-of-agents for more robust responses, and splitting a large model across machines. That strengthens the evidence that shared compute is a product direction rather than a buried repository experiment, while leaving reliability, trust, and performance as deployment questions. [[raw/x-bookmarks/2026-08-04/2084661711521366108]]
+
+The durable distinction remains crucial: routing independent requests across idle machines is the easy economic win; putting network hops inside one model's token path is the glamorous but latency-sensitive case. See [[faleth/process/buzz-sovereign-agent-workspace-analysis-2026]] and [[faleth/process/llm-inference-serving-five-optimization-surfaces-2026]].
 
 ## Three Treasures interpretation
 

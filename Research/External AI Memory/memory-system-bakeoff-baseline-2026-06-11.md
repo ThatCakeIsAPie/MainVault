@@ -140,3 +140,34 @@ Lyle asked to wire the stack properly after discovering GBrain had not been inge
 - Which layer handled live user/project profile best?
 - Did AgentMemory accumulate useful operational memories or remain mostly empty?
 - Should AgentMemory be removed, retained as explicit operational memory, or replaced by Honcho/GBrain?
+
+## 2026-08-09 independent MemConflict benchmark
+
+Source: [[raw/transcripts/lyle-x-share-2086418529008443421]] · [public report](https://engturtle.github.io/hermes-memconflict/report/) · [repository](https://github.com/EngTurtle/hermes-memconflict)
+
+An independent community benchmark compared seven self-hostable Hermes memory providers on 30 simulated users, 1,579 sessions, 71,060 dialogue turns, and 3,750 questions per provider. It tested changing facts, planted false contradictions, and condition-bound preferences.
+
+### Results relevant to this stack
+
+- **Honcho led overall:** 0.477 macro score, 60.0% fully correct, 7.3% wrong. It was strongest at reconstructing personal histories and genuine changes over time.
+- **mem0 led conditional preferences:** 84.5% correct, but its ADD-only storage left stale values beside newer ones and produced a 20.6% dynamic wrong-answer rate.
+- **Every provider degraded with longer histories.** Honcho's wrong-answer share rose from 4.3% in sessions 6–10 to 7.8% in sessions 46–50.
+- **No provider reliably rejected planted false memories.** Even the leader sometimes blended contradictions into a plausible but false biography.
+- Honcho's strongest tested configuration injected roughly 25,000 tokens per question and could produce contradictory derived context across profiles, peer cards, summaries, and Dialectic output.
+
+### Applicability boundary
+
+This is supportive evidence for Honcho, not a direct benchmark of Lyle's deployment. The study tested automatic ingestion plus automatic hybrid pre-answer injection with Dream forced after every session. Lyle uses Honcho in **tools-only recall mode**. The study also did not test Hermes' compact built-in memory, Obsidian, GBrain, explicit agent-callable recall tools, human inspectability, or a layered source-of-truth architecture.
+
+### Current decision
+
+**Retain the layered stack; do not migrate to a single-provider winner.**
+
+1. Hermes built-in memory holds compact standing facts and corrections.
+2. Honcho reconstructs broad personal history when deliberately queried.
+3. Obsidian remains the inspectable, editable, portable source of truth.
+4. GBrain supplies search, synthesis, and graph retrieval over the vault.
+
+The principal failure mode is now **cross-layer conflict arbitration**, not storage scarcity. Recent explicit user corrections and canonical vault pages outrank old Honcho-derived observations. When evidence conflicts, Delta should expose the conflict rather than silently inventing a reconciliation.
+
+This is already visible in Lyle's Honcho history: old observations about Vox employment and Free Range Repair coexist with later corrections. The public benchmark therefore describes a live risk in our stack, not an abstract laboratory curiosity. Wonderful—our memory system has graduated from forgetting things to remembering contradictory things at scale.

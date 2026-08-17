@@ -6,6 +6,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Employee ownership and alternative compensation remain driven by succession, retention, culture preservation, and alignment — not merely “nice capitalism.”
 - ESOPs/EOTs/cooperatives/steward ownership/profit-share solve different problems; precision matters because economics, governance, liquidity, and control are not the same thing.
 - Ownership culture requires management training, employee financial literacy, and communication practices—not just a transaction document or variable-pay formula.
+- **Fully employee-owned contractors can now win DoD sole-source follow-ons** under the FY2022/FY2024 NDAA pilot (Torch / Air Force $992M, Aug 14–15). Ownership structure is a capture mechanism, not only a succession story.
 
 ## Major Shifts to Watch
 - EOT and ESOP transitions continue appearing as founder-exit alternatives to PE/strategic sale.
@@ -190,3 +191,39 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-04
 - A congressional tour of employee-owned Butler County companies raised visibility, while India-specific ESOP tax chatter did not supply a U.S. governance mechanism. Preserve explicit separation among compensation, profit participation, ownership vehicle, control, eligibility, vesting, valuation, liquidity, information rights, fiduciary duty, formula-change authority, review, and appeal ([Butler Eagle](https://x.com/ButlerEagle/status/2084421591841079644), [India ESOP tax signal](https://x.com/tarunmallappa/status/2084104718167777552)). Signal: **medium–weak** for visibility, **weak** for mechanism novelty.
+
+### 2026-08-05
+- Current coverage amplified the July 17 Seventh Circuit *Rush v. GreatBanc* ESOP-sale ruling and Canadian EOT succession advocacy. The durable Faleth lesson is process evidence: independent fiduciary investigation, valuation, conflicts, board/trustee roles, fairness, participant economics, information rights, and review—not copying an ownership label ([case analysis](https://natlawreview.com/article/seventh-circuit-recognizes-deferential-standard-review-trustee-and-companys-board), [EOT signal](https://x.com/TonyLoffreda/status/2084763977133834597)). Signal: **medium** for legal/process context, **weak** for new mechanism design.
+
+### 2026-08-06
+- A Lancaster-company profile promoted direct employee ownership, while current EOT/ESOP discussion continued around succession and engagement. No new U.S. rule or primary mechanism-grade document surfaced. Preserve Faleth's separation among compensation, profit participation, ownership vehicle, control, eligibility, valuation, liquidity, information rights, fiduciary duty, formula-change authority, review, and appeal ([Lancaster item](https://news.google.com/rss/articles/CBMiggFBVV95cUxONXI4NVhiM2tJM3VoMVBmRmlfSmRIMUJBQmllbE1icHpxWUdPTUpTTGU0WkZhaDg4Qzk0a24xc2dlN2NVX0RmMERWZk1VNHpZR1lFRVpJcl81d3ZWbFV6cThjYVJlYmk3RzBiTTd1WURzdjhtTkhseVU4WDhGUTE4VzVB?oc=5); RSS/snippet-level). Signal: **weak–medium** for visibility, **weak** for mechanism novelty.
+
+### 2026-08-07
+- Current professional/social discussion reinforced ESOP participation, vesting, distributions, succession, strategy, and EOT education/data/planning/financing; no new U.S. rule or primary mechanism-grade case surfaced. Add participant education and financing mechanics while preserving explicit economics, governance, valuation, liquidity, information, fiduciary, formula-change, review, and appeal fields ([BDO USA](https://x.com/BDO_USA/status/2085423178726154710), [EOT symposium signal](https://x.com/TonyLoffreda/status/2085493015028621400)). Signal: **medium–weak** for reinforcement, **weak** for novelty.
+
+### 2026-08-08
+- Peanuts Deluxe Cafe was reported as nearing worker-cooperative ownership, with employees running the business and profits reportedly shared by hours worked. The useful Faleth distinction is that ownership, democratic control, and allocation formula are separate mechanisms: this time-based cooperative formula is not Faleth's value/process-point model ([current item](https://www.bizjournals.com/sanjose/news/2026/08/07/peanuts-deluxe-cafe-san-jose-co-op.html); snippet-level). Signal: **medium–weak** for the example, **weak** for mechanism detail.
+
+### 2026-08-09
+- Current professional/social discussion contrasted third-party sale, ESOP, and trust ownership as seller-transition paths and highlighted Canadian EOT policy awareness; strict-window RSS contained mostly acronym collisions and public-company option plans. No new U.S. rule or mechanism-grade case surfaced. Preserve explicit economics, control, financing, valuation, liquidity, information, fiduciary, formula-change, review, and appeal fields ([seller-options signal](https://x.com/PKFOD/status/2086201810671255871), [Canadian EOT signal](https://x.com/TonyLoffreda/status/2086146614410817815)). Signal: **medium–weak** for education/policy awareness, **weak** for mechanism novelty.
+
+### 2026-08-10
+- A current story highlighted broad employee stock participation at a hedge fund, including support staff reportedly holding substantial wealth, but supplied no mechanism-grade ESOP/EOT/cooperative detail. Treat it as wealth-sharing narrative, not governance design; keep equity value, vesting, liquidity, concentration, information, and control separate ([current item](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaGp3anh5RmkycmNOQXRMb2x4akxEU3htRUs2SEtxNTlPZjYtQkh1c0RQRC0zNGoyZEw5WjF4U0ZiWC1uSGZ3SFZOZGI1cDl1Q1hraGZQcER1cTdvbmtLaFZHbWJ5clRZeVpQWmsxaDR0THNMdHlKWVhQWno5NDhBaU5wOGYtNDV3V1FTczJRanpxRGMwdENRYWhhazRFY0RFeWY1M3F4Z3FRa0lfRHNWWmhJbVFzenpuQk84eE9mVDBFd3lZS2w4VkZHQVlWank3d2RlbzI3dGU4NDJrTVV2UE91MmxmckNpaFVNVUNKeUk?oc=5); RSS/snippet-level). Signal: **weak–medium** for narrative, **weak** for mechanism evidence.
+
+### 2026-08-11
+- A current article framed worker-owned home-care cooperatives as an operating response to low pay, turnover, weak worker voice, and care-quality pressure. Study training, voice, retention, and customer outcomes, but keep ownership, governance, and allocation formula separate; do not import hours-based sharing into Faleth's value/process-point model ([The Nation](https://www.thenation.com/article/society/worker-coops-elder-care-dementia/)). Signal: **medium–weak** for sector direction, **weak** for mechanism transfer.
+
+### 2026-08-12
+- No new U.S. ESOP/EOT rule or mechanism-grade Faleth analogue surfaced. The care-cooperative case continued as background, reinforcing that ownership, voice, allocation, governance, liquidity, retention, and service quality must be separately specified and measured ([The Nation](https://www.thenation.com/article/society/worker-coops-elder-care-dementia/)). Signal: **weak** for novelty, **medium–weak** for continuing direction.
+
+### 2026-08-13
+- The targeted strict-window feed returned no items, and no new U.S. ESOP/EOT rule, major employee-ownership transaction, or mechanism-grade Faleth analogue surfaced. Make no design change; continue specifying and measuring ownership, voice, allocation, governance, liquidity, retention, and service quality separately ([DOL report — background](https://beta.dol.gov/system/files/research-data/2026-02/employee-ownership-report-to-congress.pdf)). Signal: **weak** for novelty.
+
+### 2026-08-14
+- Targeted RSS returned one Washington Post care-crisis title (unopened beyond RSS). No U.S. ESOP/EOT rule, major transaction, or mechanism-grade Faleth analogue. Make no Contribution Framework change; keep wage, bonus, profit share, equity, governance, and liquidity separate ([WaPo RSS](https://news.google.com/rss/articles/CBMiigFBVV95cUxOczd1cExPQ3lGanpkWl9ZVUlURS16a1hrUk1LbDRzcjVGY3QwTUNoQ2EwWEM0TzNTVXZGZDNLdzdxczNYSEk4RS03aUlrUDZ0dllGWTNXWG1IYlQ0cGlqc3NILUNpdjRHREFZQlFUU0F4RWRMZlBVaUtwN0RycVdvRXlqbnVOYVJLUnc?oc=5); RSS/snippet-level). Signal: **weak**.
+
+### 2026-08-15
+- Air Force used the NDAA employee-ownership sole-source pilot to award Torch Technologies a potential five-year, $992M Eglin follow-on after Torch missed TMAS 3. Torch is a 100% S-Corp ESOP. This is mechanism-grade GovCon evidence, not a Faleth conversion trigger: research which follow-ons could use the pilot, then keep wage/bonus/profit-share/equity/governance/liquidity separate ([Washington Technology](https://www.washingtontechnology.com/contracts/2026/08/air-force-leans-esop-legislation-sole-source-992m-contract/415430/), [SAM notice](https://sam.gov/workspace/contract/opp/8594be87a1f940aebfe52f8a282d1b24/view)). Signal: **strong**.
+
+### 2026-08-16
+- Targeted 24h RSS returned no items. No new ESOP/EOT rule or transaction. Torch $992M (FA2489-26-D-B003) remains background/reinforcement, not a new award. Make no Contribution Framework change; keep the research row on which VXE/LibreTech follow-ons could theoretically use the NDAA ESOP sole-source pilot ([Washington Technology — background](https://www.washingtontechnology.com/contracts/2026/08/air-force-leans-esop-legislation-sole-source-992m-contract/415430/), [DoW contracts Aug 11 — background](https://www.war.gov/News/Contracts/Contract/Article/4568855/contracts-for-aug-11-2026/)). Signal: **weak** for novelty, **strong** for yesterday's mechanism as durable context.

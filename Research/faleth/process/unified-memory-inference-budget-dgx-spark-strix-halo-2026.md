@@ -1,7 +1,7 @@
 ---
-title: Unified-Memory Inference Budget — DGX Spark and Strix Halo
+title: Unified-Memory Inference Budget — DGX Spark, RTX Spark, and Strix Halo
 created: 2026-07-30
-updated: 2026-08-04
+updated: 2026-08-15
 type: principle
 tags: [ai, llm, inference, hardware, systems]
 sources:
@@ -10,10 +10,13 @@ sources:
   - raw/x-bookmarks/2026-07-30/2082909527515779164.md
   - raw/articles/2026-07-31-waste-inference-engine-readme.md
   - raw/x-bookmarks/2026-08-02/2083705845670650195.md
+  - raw/x-bookmarks/2026-08-12/2087493068735819924.md
+  - raw/x-bookmarks/2026-08-12/2087544650559025190.md
+  - raw/x-bookmarks/2026-08-13/2087983106972057602.md
 confidence: medium
 ---
 
-# Unified-Memory Inference Budget — DGX Spark and Strix Halo
+# Unified-Memory Inference Budget — DGX Spark, RTX Spark, and Strix Halo
 
 ## Principle
 
@@ -55,6 +58,37 @@ For one 128 GB DGX Spark:
 4. Reserve explicit headroom for Hermes, the model server, monitoring, and at least one realistic concurrent job.
 5. Reject any setup that survives only at short context or after closing every other process.
 
+## RTX Spark translation (2026-08-09)
+
+The flagship RTX Spark and DGX Spark occupy essentially the same **model-fit class** on NVIDIA's published headline specifications: up to 6,144 Blackwell CUDA cores, a 20-core Grace CPU, up to 1 PFLOP FP4 compute, and up to 128 GB unified memory.[1][2] For an inference workload that is supported and given a 128 GB RTX Spark configuration, the same conservative **60–80 GB weight envelope** should transfer.
+
+The products are not yet operationally interchangeable. DGX Spark is a shipping, dedicated Linux AI appliance with a documented 128 GB at 273 GB/s, 1 TB or 4 TB NVMe, 10 GbE, and ConnectX-7 networking for multi-node scaling.[3] RTX Spark is a fall-2026 Windows-on-Arm platform spanning laptops and compact desktops; NVIDIA has not published one fixed power limit, memory bandwidth, storage, networking specification, or official price because OEM configurations will vary.[1][2]
+
+### Decision split
+
+- Choose **DGX Spark** when the job is a dedicated, always-on Linux/Hermes inference node; mature CUDA containers, predictable thermals, 10 GbE/ConnectX clustering, and deployment certainty matter more than acquisition cost.
+- Prefer a **128 GB RTX Spark desktop** when it can replace the daily PC as well as the AI box; Windows creation, gaming, ComfyUI, and local-agent use are first-class goals; and independent benchmarks confirm that the OEM's sustained power and cooling preserve near-DGX performance.
+- Treat an **RTX Spark laptop** as portability-first. The same capacity can determine what models load, but a thin chassis may not sustain the same throughput as a desktop AI appliance. Do not infer sustained parity from the shared “1 PFLOP” peak figure.
+- Keep the software-risk distinction explicit: RTX Spark has native CUDA and vendor commitments from ComfyUI, Adobe, llama.cpp, and others, but Windows-on-Arm application, Python-wheel, custom-node, driver, and emulation compatibility must be proven on the shipping systems.[2]
+
+DGX Spark currently lists at **$4,699** from NVIDIA.[4] RTX Spark pricing is not official. For Lyle's present cash-timing season, there is no reason to pay the DGX premium before the fall RTX desktop configurations, prices, sustained benchmarks, and software compatibility are known—unless a paid workload immediately requires the DGX Linux appliance.
+
+### Clusterability is workload-specific
+
+Lyle's strongest RTX Spark thesis is **repeatable 128 GB unified-memory nodes**: begin with one useful local-LLM/creative machine, then add homogeneous nodes as demand grows. The intended acquisition sequence is options-based rather than speculative: the first 128 GB desktop must justify itself as the daily-PC replacement; additional nodes are funded only from strong VXE performance and only after the chosen OEM's ConnectX hardware, drivers, and distributed inference are verified. If shipping RTX Spark desktops lack a credible tightly coupled cluster path, the fallback is to keep one RTX Spark as the standalone daily PC/local-AI workstation and—only from later VXE surplus cash—build a separate ConnectX-equipped DGX Spark cluster for very large distributed models. This remains dreambuilding rather than a current procurement commitment. That is compelling for horizontal scaling—independent agents, batch requests, concurrent model servers, retrieval, embeddings, and separate image/video generations can be assigned by node with little inter-node communication.
+
+Do not treat multiple RTX Spark boxes as one transparent pool of URAM. A two-node setup has **two 128 GB memory domains**, not one automatically coherent 256 GB GPU. Running one model across both requires a distributed runtime and explicit tensor or pipeline partitioning; on slower interconnects, single-request latency may stagnate or worsen even while aggregate throughput improves.[7]
+
+RTX Spark networking appears to be an **OEM configuration choice**, not a settled platform-wide omission. The announced ASUS desktop documents **10 GbE** but no ConnectX-7/RDMA interface.[5] Conversely, HP displayed an unnamed RTX Spark mini-PC prototype with what reporters identified as two ConnectX-7 ports; HP has not named the unit or confirmed that those ports will survive into the retail specification.[8] Ten-gigabit Ethernet has a theoretical ceiling of 1.25 GB/s before protocol overhead. By contrast, each DGX Spark QSFP/ConnectX-7 port supports up to **200 Gb/s** or 25 GB/s—20 times the line rate—and NVIDIA provides direct multi-Spark clustering playbooks.[6] This distinction makes a ConnectX-equipped RTX Spark materially more valuable for sharding one large, communication-heavy model across nodes.
+
+Therefore separate the procurement claims:
+
+- **RTX Spark cluster:** potentially excellent price/capacity/efficiency for a distributed fleet of mostly independent workers; one node can fail or upgrade without retiring the fleet.
+- **DGX Spark cluster:** stronger fit for one model or tightly coupled workload spanning nodes because the high-speed interconnect is part of the appliance.
+- **Custom PC cluster:** not impossible and can exceed either platform with add-in 100/200 GbE or InfiniBand, but loses Spark's compact, homogeneous, low-power 128 GB unified-memory package and may cost more to make operationally equivalent.
+
+The gating procurement requirement for RTX Spark is now explicit: buy only an OEM configuration with 128 GB memory, **ConnectX-7/QSFP if tightly coupled clustering is central** (10 GbE is acceptable for independent-worker scaling), Linux/container viability if required, and demonstrated multi-node inference. Treat claims of “clusterable” as incomplete until the benchmark states whether it measured **aggregate independent throughput, single-model capacity, or single-request latency**.
+
 ## Strix Halo translation
 
 The **budgeting principle transfers; the model recipe does not automatically transfer**.
@@ -84,6 +118,30 @@ Choose **hardware + model + quantization + runtime + context target + concurrenc
 
 The local box should absorb stable, high-volume work while frontier cloud models retain planning, hard judgment, and overflow. Ownership is useful; forcing every workload onto owned hardware is merely cloud lock-in wearing a homemade hat.
 
+## Multi-GPU DS4 throughput signal (2026-08-12)
+
+0xSero reports **DeepSeek-V4-Flash-0731** reaching **407 tok/s single-stream decode** and **1,387 tok/s aggregate across eight sessions** on **4 × RTX PRO 6000**, with approximately **5 million tokens of total KV/context capacity**, using the model-specific **DS4 / DwarfStar** runtime. A phone recording shows the resulting coding agent through **Local Studio** and its **Litter** mobile client: the model reasons, edits a Python SVG generator, runs it, encounters failures, inspects the file, and continues repairing it from the phone interface. [[raw/transcripts/lyle-x-share-2087544650559025190]]
+
+Keep the layers separate: DS4 plus four large GPUs produce the throughput; Local Studio coordinates the local agent/backend; Litter turns it into a usable mobile surface. This is legitimately "Cerebras at home" responsiveness, but not Cerebras-at-home economics—the hardware is workstation/server class, and the exact DS4 configuration has not yet been published. Treat the figures as a highly specific practitioner signal pending a reproducible recipe, power measurements, and accepted-task benchmarks.
+
+This strengthens the procurement rule: specialized model-runtime co-design can materially outperform a generic server on fixed hardware, while interface quality determines whether that speed becomes real operator leverage. Raw tokens per second without an agent surface are a benchmark; tokens per second inside a working edit-run-debug loop are a tool.
+
+The bookmark preserves the same 0xSero demonstration already captured through Telegram, so it adds provenance rather than an independent second result. [[raw/x-bookmarks/2026-08-12/2087544650559025190]]
+
+### One-box multimodal stack is not one-model residency (2026-08-13)
+
+Steve Darlow reports a complete open-weight creative loop on **one DGX Spark**: DeepSeek V4 Flash 0731, Qwen 3 VL 2B, Qwen Image 3, MiniMax H3, LTX 2.5, faster-whisper base, Chatterbox Turbo, and MiniMax Music 3. [[raw/x-bookmarks/2026-08-13/2087983106972057602]]
+
+This is a **catalog claim**, not a memory budget. The post gives no concurrent-residency numbers, offload map, wall-clock, or accepted-result rates. The useful correction is still real: a 128 GB Spark can host a *menu* of local modalities if models are staged, not if every named weight file is expected to sit in unified memory at once. Commission the stack as sequential jobs with measured peak RAM per job. Do not treat “all on one Spark” as proof that H3 video, V4 Flash, and image/music models are a comfortable co-resident studio.
+
+Contrast with [[faleth/process/magi-2-open-moe-video-generation-2026]]: MAGI-2’s 6B-active headline still documents an 8× Hopper, ~307 GB inference path. Open video is not one hardware class.
+
+### Long-context latency is a separate acceptance metric
+
+Mia reports backporting six vLLM 0.27 performance patches into a **two-DGX-Spark DeepSeek V4 Flash** deployment and describes a major latency improvement as context grows from **65K to 262K tokens**. The post does not provide the chart's underlying measurements, patch list, runtime configuration, prompt-processing rate, time-to-first-token, inter-token latency, or quality checks, so it is an operator signal rather than a reproducible benchmark. [[raw/x-bookmarks/2026-08-12/2087493068735819924]]
+
+The durable correction is still valuable: once decode throughput becomes comfortably interactive, **latency under realistic context** can dominate usability. Commissioning should therefore record time-to-first-token and tail latency at fixed context checkpoints—not merely average tok/s—and test whether runtime patches preserve stability and output quality. This complements [[faleth/process/llm-inference-serving-five-optimization-surfaces-2026]] and the accepted-job framing in [[faleth/process/frontier-model-cost-speed-tradeoff-2026]].
+
 ## First commissioning sequence
 
 1. Install and validate one conservative model below the memory ceiling.
@@ -99,3 +157,15 @@ The local box should absorb stable, high-volume work while frontier cloud models
 - [[faleth/process/local-model-ownership-agency-2026]]
 - [[faleth/process/member-gated-compute-mesh-for-sovereign-agents-2026]]
 - [[faleth/process/llm-inference-serving-five-optimization-surfaces-2026]]
+- [[faleth/process/magi-2-open-moe-video-generation-2026]]
+
+## Sources
+
+[1] https://www.nvidia.com/en-us/products/rtx-spark — NVIDIA RTX Spark product page
+[2] https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark — NVIDIA RTX Spark announcement
+[3] https://docs.nvidia.com/dgx/dgx-spark/hardware.html — NVIDIA DGX Spark hardware overview
+[4] https://marketplace.nvidia.com/en-us/enterprise/personal-ai-supercomputers/dgx-spark — NVIDIA DGX Spark marketplace listing
+[5] https://www.asus.com/us/displays-desktops/mini-pcs/proart-mini-pc-series/proart-gr1x-mini-pc — ASUS ProArt GR1X RTX Spark desktop specifications
+[6] https://docs.nvidia.com/dgx/dgx-spark/spark-clustering.html — NVIDIA DGX Spark ConnectX-7 clustering guide
+[7] https://docs.vllm.ai/en/stable/serving/parallelism_scaling — vLLM parallelism and scaling guidance
+[8] https://www.notebookcheck.net/Mac-challenger-Nvidia-RTX-Spark-HP-mini-PC-previewed-with-ConnectX-7-ports-up-to-128GB-RAM.1317028.0.html — HP RTX Spark prototype reportedly shown with ConnectX-7 ports

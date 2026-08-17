@@ -79,12 +79,14 @@ The goal is not virality for its own sake. The goal is to become visibly useful 
 
 ## First Version
 
-30-day experiment:
+30-day experiment (updated 2026-08-14 for For You same-author tax + OCR):
 
-- Daily: 3-10 short posts from actual work/discoveries.
-- Daily: 10-30 thoughtful replies to relevant AI/founder/GovCon/operator posts.
-- Weekly: 1 longer thread/article summarizing a project, lesson, or system.
-- Weekly: review what posts created useful conversations, not just impressions.
+- Workday cap: **1 original** from actual work + **8–12 thoughtful replies** in four rooms.
+- VXE hell day: zero X. The feed does not get to eat fulfillment.
+- Weekly: 1 thread or X Article + 1 artifact post.
+- Weekly: review conversations and verified-follower quality, not raw impressions.
+
+Money path is Original Content Rewards, not ads revenue share. See `Research/faleth/content/x-ocr-to-supergrok-prosumer-2026.md`.
 
 Potential weekly themes:
 

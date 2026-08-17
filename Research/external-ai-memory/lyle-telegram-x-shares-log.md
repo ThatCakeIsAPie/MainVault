@@ -1,16 +1,13 @@
 ---
 type: note
 title: Lyle Telegram X Shares Log
-updated: '2026-08-03T12:00:00.000Z'
+created: '2026-06-22T00:00:00+00:00'
+updated: '2026-08-14T21:45:00+00:00'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
 source_kind: 'mcp:put_page'
-tags:
-  - external-ai-memory
-  - faleth
-  - lyle-x-share
-  - x-ingest
+tags: [external-ai-memory, faleth, lyle-x-share, x-ingest]
 ---
 
 # Lyle Telegram → X Shares Log
@@ -21,6 +18,17 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-08-14 | [2088365268443496586](https://x.com/0xSero/status/2088365268443496586) | Oddly related | [[research/raw/transcripts/lyle-x-share-2088365268443496586]] | [[research/faleth/content/x-creator-payout-impressions-signal-2026]] |
+| 2026-08-14 | [2088305236003926468](https://x.com/HouseHackerJon/status/2088305236003926468) | ambient share | [[research/raw/transcripts/lyle-x-share-2088305236003926468]] | [[research/faleth/process/owner-manages-agent-manager-not-the-work-2026]] |
+| 2026-08-13 | [2087986084592709814](https://x.com/Teknium/status/2087986084592709814) | Hermes Subagent Orchestra; asked to update | [[research/raw/transcripts/lyle-x-share-2087986084592709814]] | [[research/faleth/process/hermes-subagent-orchestra-2026]] |
+| 2026-08-13 | [2087969186219778252](https://x.com/doganuraldesign/status/2087969186219778252) | asked Grok 4.6 to read For You algorithm post | [[research/raw/transcripts/lyle-x-share-2087969186219778252]] | [[research/faleth/content/x-for-you-algorithm-action-weights-2026]] |
+| 2026-08-12 | [2087544650559025190](https://x.com/0xSero/status/2087544650559025190) | ambient share; DS4 Flash through Litter + Local Studio at claimed 400 tok/s | [[research/raw/transcripts/lyle-x-share-2087544650559025190]] | [[research/faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] |
+| 2026-08-12 | [2087247083971760207](https://x.com/narkhip/status/2087247083971760207) | Wtf this is dope; Cursor Field CTO living on Grok Bot | [[research/raw/transcripts/lyle-x-share-2087247083971760207]] | [[research/faleth/process/messaging-ui-as-agent-operating-surface-2026]] |
+| 2026-08-10 | [2086576283211710957](https://x.com/i/status/2086576283211710957) | measured SuperGrok versus Cursor Pro Grok 4.5 token ceilings | [[research/raw/transcripts/lyle-x-share-2086576283211710957]] | [[research/faleth/process/frontier-model-cost-speed-tradeoff-2026]] |
+| 2026-08-09 | [2086531287754448949](https://x.com/i/status/2086531287754448949) | asked whether Unsloth's pruned H3 GGUFs make 8 GB GPUs genuinely viable | [[research/raw/transcripts/lyle-x-share-2086531287754448949]] | [[research/faleth/process/local-minimax-h3-video-generation-tradeoffs-2026]] |
+| 2026-08-09 | [2086532726967112049](https://x.com/i/status/2086532726967112049) | asked whether Bonsai compression should replace ClipProj's 4B encoder substitution for MiniMax H3 | [[research/raw/transcripts/lyle-x-share-2086532726967112049]] | [[research/faleth/process/local-minimax-h3-video-generation-tradeoffs-2026]] |
+| 2026-08-09 | [2086418529008443421](https://x.com/i/status/2086418529008443421) | interesting; independent seven-provider Hermes memory benchmark | [[research/raw/transcripts/lyle-x-share-2086418529008443421]] | [[External AI Memory/memory-system-bakeoff-baseline-2026-06-11]] |
+| 2026-08-06 | [2085411664568914182](https://x.com/i/status/2085411664568914182) | long-term plan to accumulate productive assets within the Texas mini-triangle while land remains comparatively cheap | [[research/raw/transcripts/lyle-x-share-2085411664568914182]] | [[research/faleth/process/texas-mini-triangle-asset-accumulation-thesis-2026]] |
 | 2026-08-03 | [2083794337586974823](https://x.com/liebert_2026/status/2083794337586974823) | first-principles in Peterson career vs good life | [[research/raw/transcripts/lyle-x-share-2083794337586974823]] | [[research/faleth/mindset/wholeness-over-unidimensional-perfection-2026]]; [[concepts/offshoots/portfolio-life-as-antifragile-strategy]] |
 | 2026-08-02 | [2083652162450538507](https://x.com/i/status/2083652162450538507) | save as reusable date-night ideas pool | [[research/raw/transcripts/lyle-x-share-2083652162450538507]] | [[research/personal/date-night-ideas-pool]] |
 | 2026-07-30 | [2082864345520722221](https://x.com/i/status/2082864345520722221) | Kokoro TTS + faster-whisper STT as the local Delta speech edge | [[research/raw/transcripts/lyle-x-share-2082864345520722221]] | [[research/faleth/process/delta-phone-interface-grok-voice-hermes-2026]] |

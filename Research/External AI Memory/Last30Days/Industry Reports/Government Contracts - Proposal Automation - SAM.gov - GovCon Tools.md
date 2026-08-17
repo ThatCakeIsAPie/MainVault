@@ -4,11 +4,14 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ## Current Direction
 - GovCon AI is moving toward vertical capture/proposal operating systems: SAM.gov discovery, bid alerts, fit scoring, solicitation parsing, compliance matrices, grounded drafting, pipeline tracking, and human review.
+- Federal open data and service-delivery systems are beginning to gain MCP interfaces, making identity, authority, data classification, approval, and action receipts part of the GovCon automation architecture rather than downstream compliance paperwork.
 - The most practical first wedge remains Opportunity Radar before full proposal drafting: score opportunities, extract requirements, preserve sources, and route human decisions.
 - Government-data safeguards, CUI posture, model-retention settings, and audit trails are part of the product, not optional plumbing.
 - **Third-party model routers** (OpenRouter-class) are discussed for **non-CUI** GovCon prototyping; sensitive bid/CUI paths should stay on self-hosted or gov-grade clouds.
 - SAM.gov's ISR/SSR **AI “Validate Remarks”** pattern makes the proper automation boundary concrete: AI can suggest improvements, while named humans still own compliance review, anomaly handling, certification, and evidence retention.
 - The **July 2026 CMMC Phase 2 suspension and reform task force** shift compliance from a simple implementation calendar into a clause-specific evidence and policy-feedback problem; existing contractual controls remain active unless authoritative guidance changes them.
+- The **CMMC Reform RFI comment window closed August 14, 2026 at 12:00 p.m. ET**. Next official clock is the Task Force report (~mid-September). Mid-year ISR remains a SAM.gov showing-up problem (32 days past as of 2026-08-15).
+- **SAM.gov Saturday maintenance** (August 15, 8:00 a.m.–1:00 p.m. EST) is a live filing-risk window even when the alert later flips to Inactive.
 
 ## Major Shifts to Watch
 - Small-contractor tools marketing 24/7 SAM.gov monitoring plus compliant drafting as a lightweight alternative to GovWin-style platforms.
@@ -196,3 +199,39 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-04
 - Twenty-one days after ISR and 10 days before the CMMC reform-comment deadline, SAM.gov text remains unchanged. Current X promoted Northbar for continuous CMMC Level 2 evidence automation and mapped GSA's proposed AI clause across developer/operator/integrator/service-provider roles. Add AI-layer role, government-data category, training/reuse prohibition, flowdown, CUI/ITAR boundary, evidence source, control owner, reviewer, and evidence path; treat vendor claims as signal, not compliance authority ([SAM.gov](https://sam.gov/esrs), [Northbar](https://x.com/polsia/status/2084346280550211846), [GSAR mapping](https://x.com/vulcantechteam/status/2084367328448278955)). Signal: **strong** for official continuity, **medium** for workflow direction.
+
+### 2026-08-05
+- Twenty-two days after ISR and nine days before the CMMC reform-comment deadline, direct SAM.gov inspection still shows FFATA first-tier >$550,000 eligibility, missing-record incorporation, Part 8 BPA Call reporting, correction capability, and named-human responsibility despite AI remarks review. Current CMMC/proposal-automation posts reinforce evidence collection and source-grounded drafting, not autonomous compliance authority ([SAM.gov](https://sam.gov/esrs), [CMMC signal](https://x.com/NatLawGovtCon/status/2084756358583488683), [proposal signal](https://x.com/enplabs/status/2084731122630422936)). Signal: **strong** for official continuity, **medium–weak** for current workflow discussion.
+
+### 2026-08-06
+- Army Contracting Command published its Army MAX pilot for AI-assisted service acquisition, validating structured requirements-to-solicitation workflows, standardized artifacts, and reduced manual entry. ISR is 23 days past; the CMMC reform-comment deadline is eight days away. Add stage, artifact, source/version, human owner, AI assistance, approval authority, handoff, elapsed time, exception, and receipt to the GovCon OS ([Army](https://www.army.mil/article/294416/acc_is_changing_how_it_buys_ai_services), [CMMC RFI](https://sam.gov/workspace/contract/opp/89ef9bfb0834473791e991c712698d94/view)). Signal: **strong** for the official pilot/deadline.
+
+### 2026-08-07
+- Twenty-four days after ISR and seven days before the CMMC reform-comment deadline, direct SAM.gov inspection still shows FFATA first-tier eligibility above $550,000, Part 8 BPA Call reporting/correction, and AI `Validate Remarks`. Close VXE rows with receipts/disposition/tickets/notices; LibreTech should submit CMMC feedback only if it has quantified burden, control-effectiveness, cost, and risk evidence ([SAM.gov](https://sam.gov/esrs), [CMMC RFI](https://sam.gov/workspace/contract/opp/89ef9bfb0834473791e991c712698d94/view)). Signal: **strong** for official continuity, **weak** for new proposal-tool novelty.
+
+### 2026-08-08
+- Twenty-five days after ISR and six days before the CMMC reform-comment deadline, direct SAM.gov retrieval still shows FFATA first-tier eligibility above $550,000, Part 8 BPA Call handling/corrections, and AI-assisted review with named-human responsibility. Current X introduced Clausewright and LaunchCadence as SAM-registration/profile, RFP-scoring, proposal, and compliance tools; add them to the competitor sheet but treat product claims as social/vendor signal ([SAM.gov](https://sam.gov/esrs), [Clausewright](https://x.com/polsia/status/2085810337371304376), [LaunchCadence](https://x.com/polsia/status/2085677297198354767)). Signal: **strong** for official continuity, **medium–weak** for competitor validation.
+
+### 2026-08-09
+- Twenty-six days after ISR and five days before the CMMC reform-comment deadline, direct SAM.gov retrieval still shows FFATA first-tier eligibility above $550,000, Part 8 BPA Call reporting/corrections, and AI-assisted review. GSA's MCP hackathon validates agent-ready federal data; Prospectr and Bidmast add current competitor signal for continuous opportunity monitoring, fit scoring, and drafting. Add them to the competitor sheet, but keep human approval and evidence receipts mandatory ([SAM.gov](https://sam.gov/esrs), [GSA](https://www.gsa.gov/artificial-intelligence/ai-community-of-practice/events-and-training/2026-ai-hackathon), [Prospectr](https://x.com/i/status/2085968309707751584), [Bidmast](https://x.com/i/status/2086022576330133644)). Signal: **strong** for official direction/calendar, **medium–weak** for product validation.
+
+### 2026-08-10
+- Twenty-seven days after ISR and four days before the CMMC reform-comment deadline, direct SAM.gov retrieval still shows FFATA first-tier eligibility above $550,000 and correction-related SPR functionality. The strict-window GovCon feed was noise; prioritize VXE closure receipts and LibreTech's quantified CMMC response decision ([SAM.gov](https://sam.gov/esrs), [CMMC RFI](https://sam.gov/workspace/contract/opp/89ef9bfb0834473791e991c712698d94/view)). Signal: **strong** for official continuity/calendar, **weak** for market novelty.
+
+### 2026-08-11
+- Twenty-eight days after ISR and three days before the CMMC reform-comment deadline, direct SAM.gov retrieval still shows correction capability, FFATA first-tier ISR eligibility above $550,000, and AI review/business validations. No material strict-window GovCon launch surfaced; close VXE evidence rows and make LibreTech's quantified comment decision ([SAM.gov](https://sam.gov/esrs), [CMMC RFI](https://sam.gov/workspace/contract/opp/89ef9bfb0834473791e991c712698d94/view)). Signal: **strong** for official continuity/calendar.
+
+### 2026-08-12
+- Twenty-nine days after ISR and two days before the CMMC reform-comment deadline, no material strict-window federal rule, SAM.gov operating change, or proposal-tool launch surfaced. Close VXE rows with receipts/dispositions and make LibreTech's quantified submit/no-submit decision ([SAM.gov](https://sam.gov/esrs), [CMMC RFI](https://sam.gov/workspace/contract/opp/89ef9bfb0834473791e991c712698d94/view)). Signal: **strong** for calendar/continuity, **weak** for novelty.
+
+### 2026-08-13
+- Thirty days after ISR and one day before the CMMC reform-comment deadline, no material federal rule, SAM.gov operating change, or proposal-tool launch surfaced. Close VXE evidence rows now; LibreTech must submit quantified burden/control evidence or record a deliberate no-submit decision ([SAM.gov](https://sam.gov/esrs), [CMMC RFI](https://sam.gov/workspace/contract/opp/89ef9bfb0834473791e991c712698d94/view)). Signal: **strong** for calendar/continuity, **weak** for novelty.
+
+### 2026-08-14
+- **CMMC Reform RFI comments due today, 12:00 p.m. ET.** Official SAM notice remained JS-gated; deadline corroborated by SBA Advocacy, Alaska APEX, and DoW Small Business. Direct SAM.gov SPR retrieval still shows eSRS retired, FFATA first-tier ISR eligibility above $550,000, Part 8 BPA Calls, and corrections. **31 days after mid-year ISR.** SAM banner crawl also flagged Saturday, August 15, 8:00 a.m.–1:00 p.m. EST maintenance (snippet-level). Submit quantified LibreTech comments or record no-submit; do not file during the Saturday window ([SAM.gov](https://sam.gov/esrs), [CMMC RFI](https://sam.gov/workspace/contract/opp/89ef9bfb0834473791e991c712698d94/view), [SBA Advocacy](https://advocacy.sba.gov/2026/07/20/dow-requests-information-for-cmmc-reform-task-force/)). Signal: **strong** for calendar, **medium** for SAM maintenance banner.
+
+### 2026-08-15
+- CMMC Reform RFI comment window is **closed**. Official SAM Saturday maintenance is **today 8:00 a.m.–1:00 p.m. EST** (alert status Inactive; still treat as live until after the window). Direct SPR retrieval unchanged. **32 days after mid-year ISR.** Do not file during the window; record LibreTech submit/no-submit; next official CMMC clock is Task Force ~mid-September ([SAM Saturday alert](https://sam.gov/alerts/scheduled-sam-maintenance-12), [SAM.gov SPR](https://sam.gov/esrs), [CMMC RFI](https://sam.gov/workspace/contract/opp/89ef9bfb0834473791e991c712698d94/view)). Signal: **strong** for calendar/continuity.
+
+### 2026-08-16
+- Saturday SAM window is **done** (alert Inactive). New official SAM alert: Entity Management Daily extracts post **every day of the week effective 09/06/2026** (was Tue–Sat). Direct SPR retrieval unchanged. **33 days after mid-year ISR.** CMMC RFI remains closed; next clock is Task Force ~mid-September. Close VXE rows; store LibreTech submit/no-submit; add Sep 6 extract cadence to the calendar ([SAM extract-schedule alert](https://sam.gov/alerts/entity-management-extract-publishing-schedule-change), [SAM.gov SPR](https://sam.gov/esrs), [CMMC RFI](https://sam.gov/workspace/contract/opp/89ef9bfb0834473791e991c712698d94/view)). Signal: **strong** for official calendar, **weak** for CMMC webinar noise.

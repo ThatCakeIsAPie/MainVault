@@ -5,6 +5,12 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-08-09] ingest | Independent Hermes memory-provider benchmark
+- Raw source: [[raw/transcripts/lyle-x-share-2086418529008443421]]
+- Updated: [[External AI Memory/memory-system-bakeoff-baseline-2026-06-11]], [[external-ai-memory/lyle-telegram-x-shares-log]], and [[index]]
+- Public benchmark: 30 simulated users, 1,579 sessions, 71,060 turns, and 3,750 conflict questions per provider; Honcho led overall at 0.477 macro score, while no provider reliably rejected planted false memories.
+- Decision: retain Hermes compact memory + Honcho tools-only recall + Obsidian source of truth + GBrain retrieval; make explicit correction/canonical-source precedence and conflict surfacing the primary reliability control.
+
 ## [2026-07-30] ingest | DGX Spark and Strix Halo unified-memory inference budget
 - Raw source: [[raw/transcripts/lyle-x-share-2082629254731440546]]
 - Created: [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]]
@@ -748,3 +754,223 @@
   - `log.md` — this ingest record.
 - Raw-only/skipped wiki: the salary/dreams image was an unattributed motivational aphorism overlapping existing career-identity material; the Steve Jobs MIT video wrapper supplied no transcript, primary archive, or extractable claims.
 - Verification context: X OAuth/read reachability succeeded; official API expansions recovered Note Tweets, quoted-post context, media URLs, and the pdf-inspector repository. Local OCR recovered the attached image text and exposed the four-Spark diagram mismatch. Vendor performance claims remain independently unverified.
+
+## [2026-08-05] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 46 were already processed; ingested all 4 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-04/2084661711521366108.md`
+  - `raw/x-bookmarks/2026-08-04/2084645635815284821.md`
+  - `raw/x-bookmarks/2026-08-03/2084378415818579975.md`
+  - `raw/x-bookmarks/2026-08-04/2084473233684697461.md`
+- Updated durable wiki pages:
+  - `faleth/process/member-gated-compute-mesh-for-sovereign-agents-2026.md` — added Block's official Buzz/MeshLLM product signal and separated request routing from latency-sensitive layer splitting; normalized frontmatter to schema.
+  - `faleth/process/local-model-ownership-agency-2026.md` — added LFM2.5-2.6B as evidence that agent performance is harness-relative and requires task-level Hermes evaluation.
+  - `faleth/process/delta-phone-interface-grok-voice-hermes-2026.md` — added continuous full-duplex audio as a transport architecture independent of variable-latency reasoning and tools.
+  - `log.md` — this ingest record.
+- `index.md` unchanged because no new wiki page was created.
+- Raw-only/skipped wiki: Tanya's nostalgia/family post was truncated before its complete thought and linked only to a generic prompt; retaining it as source evidence avoids inventing the missing emotional conclusion.
+- Verification: all 4 raw-source SHA-256 values matched their bodies; X OAuth/read reachability succeeded. Product claims remain first-party and should be benchmarked before deployment.
+
+## [2026-08-06] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 46 were already processed; ingested all 4 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-06/2085156837561893117.md`
+  - `raw/x-bookmarks/2026-08-05/2085018834528849974.md`
+  - `raw/x-bookmarks/2026-08-04/2084660790297051487.md`
+  - `raw/x-bookmarks/2026-08-04/2084669934194266370.md`
+- Created `faleth/process/local-multiformat-document-to-markdown-ingestion-2026.md` — local, format-normalized Markdown as a common evidence boundary for agent workflows; vendor benchmarks remain first-party.
+- Updated `faleth/mindset/action-without-audience-permission-2026.md` — added the Christ-centered correction that public approval is not a reliable authority for truth, obedience, or worthy work.
+- Updated `index.md` for the new multiformat-ingestion page.
+- Raw-only/skipped wiki: the Mike Tyson-style workout clip supplied a movement demo but no evidence for 200 daily repetitions or promised one-month changes.
+- Retrieval: X OAuth/read succeeded; official media expansion plus local frame OCR recovered both video-only posts; the upstream anydoc README grounded format, interface, benchmark, and limitation details.
+
+## [2026-08-07] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 47 were already processed; ingested all 3 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-06/2085413416353538176.md`
+  - `raw/x-bookmarks/2026-08-06/2085411664568914182.md`
+  - `raw/x-bookmarks/2026-08-06/2085321846379925689.md`
+- Created `faleth/mindset/eschatology-shapes-present-stewardship-2026.md` — future expectations shape present posture; preserved the screenshot's Christ/redemption/hope frame while marking the interpretation contested and low-confidence.
+- Updated `faleth/process/texas-mini-triangle-asset-accumulation-thesis-2026.md` — linked the independent bookmark provenance and normalized frontmatter/tags to the wiki schema.
+- Updated `index.md` for the new eschatology page.
+- Raw-only/skipped wiki: the refrigerator coffee-table video is an appealing product demo but supplied no manufacturer, specifications, price, or defensible general principle. Furniture remains undefeated at becoming appliances for no obvious reason.
+- Verification: X OAuth/read reachability succeeded; official media expansion plus local OCR/frame inspection recovered the image text and video context. The Texas transport map and Terafab render remain proposals/promotional evidence, not funded-buildout proof.
+
+## [2026-08-08] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 44 were already processed; ingested all 6 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-07/2085591051314610650.md`
+  - `raw/x-bookmarks/2026-08-07/2085761587550519420.md`
+  - `raw/x-bookmarks/2026-08-07/2085545377651212626.md`
+  - `raw/x-bookmarks/2026-08-07/2085574138715054540.md`
+  - `raw/x-bookmarks/2026-08-07/2085652168573661404.md`
+  - `raw/x-bookmarks/2026-08-06/2085507337943749009.md`
+- Created `faleth/process/book-to-skill-compilation-for-agent-knowledge-2026.md` — long-source ingestion as extraction plus compilation into navigable, testable agent skills.
+- Created `faleth/process/free-electron-laser-euv-light-utility-2026.md` — FEL as a central multi-scanner EUV utility; marked low-confidence and contested because Terafab deployment is inferred from promotional imagery and “FEL FTW,” not production evidence.
+- Updated `index.md` for both new wiki pages.
+- Raw-only/skipped wiki: the 61-second “in awe” clip yielded no reliable text; the husband clip yielded only its question, not the answer; the animal-friendship clip supplied no durable claim.
+- Retrieval: X OAuth/read succeeded; official media expansion and local frame OCR inspected all three video-only bookmarks. External search found official Hermes documentation and independent FEL/ERL reporting; production performance was not independently verified.
+- Files updated in this ingest: 6 raw notes, 2 wiki pages, `index.md`, and `log.md`.
+
+## [2026-08-09] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 43 were already processed; ingested all 7 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-09/2086253065657790895.md`
+  - `raw/x-bookmarks/2026-08-08/2086171185134686509.md`
+  - `raw/x-bookmarks/2026-08-08/2086123156431855959.md`
+  - `raw/x-bookmarks/2026-08-08/2086103296641507456.md`
+  - `raw/x-bookmarks/2026-08-08/2086122488094675410.md`
+  - `raw/x-bookmarks/2026-08-07/2085656265397518771.md`
+  - `raw/x-bookmarks/2026-08-07/2085823819608957365.md`
+- Created `faleth/process/local-minimax-h3-video-generation-tradeoffs-2026.md` — local H3 feasibility on four RTX 3090s, with four-step Turbo-LoRA speed, fast-motion smearing, accepted-result economics, and licensing checks.
+- Updated `index.md` for the new H3 page and bumped its date.
+- Raw-only/skipped wiki: the Krea-2 conditioning-node posts were sparse creator observations without reproducible workflow details; the Nano Banana photorealism guide was truncated; the FF7 and sea-lion posts were entertainment/commentary rather than durable research claims.
+- Verification: X OAuth status succeeded; all 7 raw-source SHA-256 values matched their bodies. H3 performance remains a single practitioner report rather than a controlled benchmark.
+- Files changed in this ingest: 7 raw notes, 1 wiki page, `index.md`, and `log.md`.
+
+## [2026-08-10] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 42 were already processed; ingested all 8 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-08/2086106500766843287.md`
+  - `raw/x-bookmarks/2026-08-09/2086521366300512391.md`
+  - `raw/x-bookmarks/2026-08-09/2086512844594679820.md`
+  - `raw/x-bookmarks/2026-08-09/2086448663295881648.md`
+  - `raw/x-bookmarks/2026-08-09/2086359888083775814.md`
+  - `raw/x-bookmarks/2026-08-09/2086382342214410275.md`
+  - `raw/x-bookmarks/2026-08-08/2086157480216989831.md`
+  - `raw/x-bookmarks/2026-08-09/2086418529008443421.md`
+- Updated `faleth/process/local-minimax-h3-video-generation-tradeoffs-2026.md` with WanGP 12.44 sliding-window continuity and direct ClipProj bookmark provenance.
+- Updated `faleth/process/self-writing-vault-operating-loop-2026.md` with coding-agent histories as behavioral evidence, bounded by privacy, selection-bias, and non-diagnostic guardrails.
+- `index.md` unchanged because no new wiki page was created.
+- Raw-only/skipped wiki: MotionBricks was a hype-heavy secondary claim without inspected primary evidence; two video posts were context-poor relationship/future-self memes; the Bible-text exchange was truncated and polemical; the Hermes memory benchmark bookmark duplicated the full report already ingested on 2026-08-09.
+- Verification: X OAuth/read reachability succeeded; all 8 raw-source SHA-256 values matched their bodies.
+
+## [2026-08-11] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 44 were already processed; ingested all 6 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-11/2086988060357488659.md`
+  - `raw/x-bookmarks/2026-08-11/2087034740939411905.md`
+  - `raw/x-bookmarks/2026-08-10/2086961142329725233.md`
+  - `raw/x-bookmarks/2026-08-09/2086434570031993112.md`
+  - `raw/x-bookmarks/2026-08-09/2086560843362079171.md`
+  - `raw/x-bookmarks/2026-08-09/2086576283211710957.md`
+- Updated `faleth/process/frontier-model-cost-speed-tradeoff-2026.md` with SuperGrok-versus-Cursor price normalization and a provisional SuperGrok Heavy usage-value estimate.
+- Updated `faleth/mindset/heart-intuition-guts-over-analysis-2026.md` with Jensen Huang's definition of intelligence as technical competence plus empathy and anticipatory judgment.
+- Updated `faleth/process/agentic-loops-design-2026.md` with Hermes Pixel Office as a visual-observability prototype, not yet a reproducible productivity result.
+- `index.md` unchanged because no new wiki page was created.
+- Raw-only/skipped wiki: the relationship quote was a context-poor meme; the Guang Wu image made a historical-theological claim without primary-text provenance or sufficient verification.
+- Retrieval and verification: X OAuth/read succeeded; official media expansion, image OCR, and local transcription inspected the attachments. All 6 raw-source SHA-256 values matched their bodies.
+- Files changed in this ingest: 6 raw notes, 3 existing wiki pages, and `log.md`.
+
+## [2026-08-12] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 43 were already processed; ingested all 7 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-11/2087252657589412119.md`
+  - `raw/x-bookmarks/2026-08-12/2087354679718297992.md`
+  - `raw/x-bookmarks/2026-08-11/2087247083971760207.md`
+  - `raw/x-bookmarks/2026-08-11/2087234458336604370.md`
+  - `raw/x-bookmarks/2026-08-11/2087259441435713888.md`
+  - `raw/x-bookmarks/2026-08-11/2086987966283694580.md`
+  - `raw/x-bookmarks/2026-08-11/2086988399085584510.md`
+- Updated `faleth/process/messaging-ui-as-agent-operating-surface-2026.md` with Grok Bot's persistent VM, human handoff, user/agent/project memory, event triggers, workflow recording, reviewer controls, and trigger-to-evidence demo loop; normalized its frontmatter to the wiki schema.
+- Updated `faleth/process/frontier-model-cost-speed-tradeoff-2026.md` with the claimed SuperGrok Heavy → one-month Cursor Ultra bundle, explicitly treated as an unverified temporary subsidy rather than recurring economics.
+- Updated `concepts/offshoots/persistent-consistent-action.md` with the education → execution → consistency diagnostic ladder.
+- Created `faleth/process/spring-damper-undulation-procedural-secondary-motion-2026.md` from the physics-based MaxScript demonstration and linked tutorial.
+- Updated `index.md` for the new procedural-animation page and the same-day Grok Bot principle created by the earlier inbound-share workflow.
+- Raw-only/skipped wiki: the secondary Grok Bot launch and cloud-VM reply were consolidated into the existing Grok Bot principle; no duplicate entity pages were created.
+- Retrieval and verification: X OAuth/read succeeded; full X Article text, official media expansion, image OCR, Japanese translation, and the author's tutorial link were inspected. All 7 raw-source SHA-256 values matched their bodies.
+- Files changed in this ingest: 7 raw notes, 1 new wiki page, 3 existing wiki pages, `index.md`, and `log.md`.
+
+## [2026-08-13] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 48 were already processed; ingested all 2 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-12/2087493068735819924.md` — two-DGX-Spark DeepSeek V4 Flash long-context latency claim after six vLLM 0.27 patch backports.
+  - `raw/x-bookmarks/2026-08-12/2087544650559025190.md` — DS4 Flash + Local Studio + Litter demonstration claiming roughly 400 tok/s.
+- Updated `faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026.md` with long-context latency as a separate commissioning metric and linked the duplicate bookmark provenance for the already-ingested DS4 mobile-agent demonstration.
+- `index.md` unchanged because no new wiki page was created.
+- Evidence limits: both are practitioner claims without reproducible configurations or complete measurements; the 0xSero bookmark duplicates the Telegram source rather than independently corroborating it.
+- Verification: X OAuth/read reachability succeeded; both raw-source SHA-256 values matched their bodies.
+- Files changed in this ingest: 2 raw notes, 1 existing wiki page, and `log.md`.
+
+## [2026-08-14] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 45 were already processed; ingested all 5 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-13/2088003994904113614.md` — Teknium Hermes Bot Mode public beta: named bots with jobs, memory, and inter-bot chat.
+  - `raw/x-bookmarks/2026-08-13/2087969186219778252.md` — Dogan Ural Grok Bot summary of the re-open-sourced For You ranker; already distilled via Telegram.
+  - `raw/x-bookmarks/2026-08-12/2087602554616074709.md` — Joseph Spurgeon long-form natural-law argument that “natural” is teleology, not an animal-behavior catalog.
+  - `raw/x-bookmarks/2026-08-12/2087430803890323480.md` — quote-image reaction to a poverty-versus-abortion compassion claim.
+  - `raw/x-bookmarks/2026-08-12/2087543711097848292.md` — Portuguese bathroom-joke meme with photos.
+- Created `faleth/process/hermes-bot-mode-persistent-profiles-2026.md`.
+- Created `concepts/offshoots/nature-as-telos-not-occurrence-catalog.md` as a contested concept capturing the telos-versus-occurrence distinction.
+- Updated `faleth/process/messaging-ui-as-agent-operating-surface-2026.md` and `faleth/process/hermes-subagent-orchestra-2026.md` to keep Bot Mode distinct from Grok Bot messaging and from parent-child steering.
+- Updated `faleth/content/x-for-you-algorithm-action-weights-2026.md` with bookmark provenance only; no new weights.
+- Updated `index.md` for the two new pages.
+- Raw-only/skipped wiki: the compassion quote-image and the bathroom joke were context-poor memes.
+- Retrieval and verification: X OAuth/read succeeded; official media expansion, image OCR, and the Spurgeon `note_tweet` long text were inspected. All 5 raw-source SHA-256 values matched their bodies.
+- Files changed in this ingest: 5 raw notes, 2 new wiki pages, 3 existing wiki pages, `index.md`, and `log.md`.
+
+## [2026-08-14] ingest | HouseHackerJon Grok Bot named-role ops team
+
+- Raw source: [[raw/transcripts/lyle-x-share-2088305236003926468]]
+- Created: [[faleth/process/owner-manages-agent-manager-not-the-work-2026]]
+- Updated: [[faleth/process/messaging-ui-as-agent-operating-surface-2026]], [[faleth/process/hermes-bot-mode-persistent-profiles-2026]], [[external-ai-memory/lyle-telegram-x-shares-log]], and [[index]]
+- Published 10/10 thread plus quoted office-automation root; discarded near-duplicate draft conversation `2088299292108926979`
+- Evidence limits: $2k/month savings, one Friday inbound call, day-one HTML catch, and ServiceTitan API friendliness are author-reported; dashboard activity is not a job ledger
+- Verification: official X API for root + thread posts; vision read of attached Atlas dashboard; raw SHA-256 matched body
+- Files changed in this ingest: 1 raw note, 1 new wiki page, 2 existing wiki pages, shares log, `index.md`, and `log.md`.
+
+## [2026-08-14] create | X OCR to SuperGrok prosumer strategy
+
+- Created: [[faleth/content/x-ocr-to-supergrok-prosumer-2026]]
+- Updated: [[faleth/content/x-creator-payout-impressions-signal-2026]], [[faleth/content/hermes-grok-x-content-machine-2026]], [[faleth/content/x-for-you-algorithm-action-weights-2026]], [[faleth/content/reply-led-audience-discovery-2026]], and [[index]]
+- Official change: ads revenue share closed to new enrollments 2026-08-07; OCR is the live path; replies excluded from the 500k HT gate
+- Baseline: @LyleBCole 22 followers, not Premium; $500/mo is a later asset target, not a 90-day cash plan
+
+## [2026-08-14] update | Write for the person who can export you
+
+- Updated: [[faleth/content/x-ocr-to-supergrok-prosumer-2026]]
+- Lyle refinement: relevant-to-larger-operators as borrowed distribution
+- Split quote/repost/copy-link (pays) from reply-guy-on-their-thread (room only)
+- Sequence: named eight, useful increment, then original they can export; weekly KPI is quotes from those names
+
+## [2026-08-14] create | Dream 100 bulk congregation
+
+- Created: [[faleth/content/dream-100-bulk-congregation-2026]]
+- Updated: [[faleth/content/x-ocr-to-supergrok-prosumer-2026]] and [[index]]
+- Lyle named the stack: Hardy sell-in-bulk, Brunson Dream 100, Hormozi test (collaborator not clone)
+- 100 is the living catalog; this season's working set stays 8
+
+## [2026-08-14] ingest | 0xSero $2008 / 8.5M rev-share sample
+
+- Raw source: [[raw/transcripts/lyle-x-share-2088365268443496586]]
+- Updated: [[faleth/content/x-creator-payout-impressions-signal-2026]] and shares log
+- Lyle note: oddly related to SuperGrok / Dream 100 thread
+- Dying-program sample (ads revenue share); implied ~$0.24/1K this window; not an OCR forecast
+
+## [2026-08-15] ingest | Daily X bookmarks
+
+- Fetched 50 bookmarks; 46 were already processed; ingested all 4 new bookmarks.
+- Created immutable raw bookmark sources:
+  - `raw/x-bookmarks/2026-08-14/2088076337445527670.md` — viral shelter-adoption video; no durable operating claim.
+  - `raw/x-bookmarks/2026-08-14/2088152335008571532.md` — Sand.ai MAGI-2 Preview: 114B / 6B-active open MoE video.
+  - `raw/x-bookmarks/2026-08-14/2088305236003926468.md` — HouseHackerJon Grok Bot plumbing thread; duplicate of yesterday's Telegram ingest.
+  - `raw/x-bookmarks/2026-08-13/2087983106972057602.md` — Steve Darlow one-Spark open creative stack catalog.
+- Created `faleth/process/magi-2-open-moe-video-generation-2026.md`.
+- Updated `faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026.md`, `faleth/process/local-model-ownership-agency-2026.md`, and `faleth/process/local-minimax-h3-video-generation-tradeoffs-2026.md` with the Spark catalog vs residency distinction.
+- Updated `faleth/process/owner-manages-agent-manager-not-the-work-2026.md` with bookmark provenance only.
+- Updated `index.md` for the MAGI-2 page.
+- Raw-only/skipped wiki: the GoldieLocks shelter video.
+- Evidence limits: MAGI-2 hardware/weight figures are from the official blog and GitHub README; Darlow names a stack without measurements; HouseHackerJon adds no new thread facts.
+- Verification: bookmark snapshot from the pre-run collector; MAGI-2 blog + GitHub README opened; all 4 raw-source SHA-256 values matched their bodies.
+- Files changed in this ingest: 4 raw notes, 1 new wiki page, 4 existing wiki pages, `index.md`, and `log.md`.
+
