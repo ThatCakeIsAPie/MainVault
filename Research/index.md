@@ -2,12 +2,13 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-14 | Total pages: 52+
+> Last updated: 2026-08-17 | Total pages: 52+
 
 ## Meta / schema
 
 - [[SCHEMA]] — Wiki conventions, frontmatter, tags, raw provenance
-- [[SOURCE-MANIFEST]] — Where knowledge lives (Obsidian, GBrain, Hermes, AgentMemory, Honcho, External AI Memory)
+|- [[SOURCE-MANIFEST]] — Where knowledge lives (Obsidian, GBrain, Hermes, AgentMemory, Honcho, External AI Memory)
+- [[raw/memory-layers-2026-08-17/README]] — Calcified Honcho conclusions/card plus GBrain timeline; wiki pages were already the vault.
 - [[External AI Memory/memory-system-bakeoff-baseline-2026-06-11]] — Lyle's layered-memory baseline, updated with the August 2026 seven-provider MemConflict benchmark and conflict-arbitration decision.
 - [[OKF-COMPATIBILITY]] — Open Knowledge Format v0.1 alignment and gaps
 - [[VALIDATION-REPORT]] — Latest `_tools/validate_vault.py` baseline (2026-06-22)
@@ -68,6 +69,7 @@
 - [[offshoots/transition-comparison-insecurity-and-surrendered-control]] — Waiting seasons: comparison, insecurity, and surrendering control without losing agency.
 - [[offshoots/spiritual-gatekeeping-in-the-home]] — Household faith without performance-based spiritual gatekeeping.
 - [[offshoots/nature-as-telos-not-occurrence-catalog]] — “Natural” means what a thing is for, not whatever appears in nature; animal occurrence is not a human ought.
+- [[offshoots/echthros-vs-polemios-enemy-categories]] — “Enemy” is not one word: personal/private enmity (*echthros*) is not public enmity of the *polis* (*polemios*).
 
 ## Faleth mindset & transition
 
@@ -100,9 +102,21 @@
 - [[faleth/governance/peaceful-fork-voluntary-alignment-2026]] — Voluntary alignment and peaceful fork without coercive upline rent.
 - [[faleth/governance/conflict-escalation-trust-preservation-2026]] — Scope-based conflict escalation, trust-by-default, proportional safeguards, interface governance, standards lifecycles, and value-preserving separation.
 - [[faleth/governance/document-review-sanctioning-architecture-2026-07-09]] — Graduated sanctions, body-decided removal, and open v2 governance decisions.
+- [[faleth/governance/investor-concentration-and-office-pool-floor-2026]] — Proposed 10% subscription gate, 15% auto-trim, and 25% office floor so book-value pricing cannot buy soft leverage.
 - [[faleth/operating-style/lyle-two-week-insights-2026-06-24]] — Jun 10–24 operating profile synthesis (goals, constraints, patterns).
 - [[faleth/biography-operating-system]] — Biographies compressed into queryable strategic intelligence for Faleth.
 - [[research/ltd-amway/case-studies/tristan-ghazal-amway-termination-2026]] — Contested 2026 termination account as a platform-ownership, due-process, and peaceful-fork governance stress test.
+
+## LTD / Amway operating playbooks (2026-08-17)
+
+- [[ltd-amway/playbooks/network-growth-operating-system-2026]] — Canonical network-growth OS: engines, ratios, scoreboard, compliance, season guardrail.
+- [[ltd-amway/playbooks/recruiting-and-pipeline-playbook]] — Conversations → opens → MG1s → sponsors; hunger filter; funnel diagnostics.
+- [[ltd-amway/playbooks/retention-and-first-90-days-playbook]] — Onboarding, early proof, skin-in-the-game, customer lifetime value.
+- [[ltd-amway/playbooks/leadership-duplication-playbook]] — Master once, depth systems, mentorship rhythm, Platinum-right.
+- [[ltd-amway/playbooks/rank-advancement-and-volume-architecture-playbook]] — Personal PV vs org shape vs FP width vs QC depth.
+- [[ltd-amway/playbooks/systems-habits-and-scoreboard-playbook]] — Daily/weekly cadence, WKRP diagnosis, battle sheet.
+- [[ltd-amway/playbooks/reconciled-tensions-and-anti-patterns]] — Funnel vs velocity, ratio stack, season honesty, anti-patterns.
+- Field models: [[Business/LTD Amway/Platinum 7500PV Activity Math]], [[Business/LTD Amway/Founders Triple Diamond Work Requirement Model]]
 
 ## Personal vision
 

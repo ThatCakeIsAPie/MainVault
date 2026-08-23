@@ -225,3 +225,6 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-16
 - Targeted 24h RSS returned no items. Official IBOAI index still dated August 4 for earnings-claim/disclosure messages. DSN Amway Week of Service (Aug 13) is CSR background, not compensation. No IDS, Rules, or FTC MLM change. Keep consent/source, approved claims, IDS, typical-results/expense context, reviewer, and disposition ([IBOAI](https://www.iboai.com/resource-center/compliance-messages), [Amway IDS](https://www.amway.com/en_US/income-disclosure)). Signal: **weak** for novelty, **strong** for official continuity.
+
+### 2026-08-17
+- Targeted 24h RSS returned no items. Official IBOAI index still dated August 4. Amway 2025 U.S. IDS average remains $750 before expenses (Founders Platinum and below, including zeros). No IDS, Rules, or FTC MLM change. Keep IDS-backed customer-value language; red-team any AI-does-the-business pitch ([IBOAI](https://www.iboai.com/resource-center/compliance-messages), [Amway IDS](https://www.amway.com/en_US/income-disclosure)). Signal: **weak** for novelty, **strong** for official continuity.
