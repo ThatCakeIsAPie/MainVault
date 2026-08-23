@@ -11,10 +11,14 @@
             "id": "b5f23c4b831f0020",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Church/2026/2026-08-23.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-08-23"
             }
           }
         ]
@@ -224,6 +228,7 @@
   },
   "active": "b5f23c4b831f0020",
   "lastOpenFiles": [
+    "Personal/Church/2026/2026-08-23.md",
     "Personal/Church/2026/2026-08-16.md",
     "conflict-files-obsidian-git.md",
     "Research/raw/memory-layers-2026-08-17/retirement.md",
@@ -258,7 +263,6 @@
     "Research/raw/x-bookmarks/2026-08-15/2088722152283308243.md",
     "Research/raw/transcripts/lyle-faleth-investor-concentration-and-office-floor-2026-08-16.md",
     "Research/raw/memory-layers-2026-08-17/README.md",
-    "Business/Ideas/Faleth MCA 10 Percent Cap and 25 Percent Office Floor.md",
     "Research/raw/memory-layers-2026-08-17",
     "Research/raw/ltd-amway/2026-08-13-independent-thinking-slides/03-lets-think-together.jpg",
     "Research/raw/ltd-amway/2026-08-13-independent-thinking-slides/02-cashflow-quadrant.jpg",
