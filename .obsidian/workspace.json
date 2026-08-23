@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "689aa2c9ab072154",
+        "id": "0af3731613bee36b",
         "type": "tabs",
         "children": [
           {
-            "id": "5270cec8d0f70362",
+            "id": "b5f23c4b831f0020",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Church/2026/2026-08-16.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-08-16"
+              "title": "New tab"
             }
           }
         ]
@@ -226,8 +222,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "457b34fb9bed2545",
+  "active": "b5f23c4b831f0020",
   "lastOpenFiles": [
+    "Personal/Church/2026/2026-08-16.md",
+    "conflict-files-obsidian-git.md",
+    "Research/raw/memory-layers-2026-08-17/retirement.md",
+    "Research/raw/memory-layers-2026-08-17/honcho-representation.json",
+    "Research/raw/memory-layers-2026-08-17/honcho-conclusions-lyle-unique.json",
+    "Research/raw/memory-layers-2026-08-17/honcho-conclusions-full.jsonl",
+    "Research/raw/memory-layers-2026-08-17/honcho-card.json",
+    "Research/raw/memory-layers-2026-08-17/gbrain-timeline_entries.jsonl",
+    "Research/raw/memory-layers-2026-08-17/gbrain-tables.txt",
+    "Research/raw/memory-layers-2026-08-17/gbrain-table-counts.json",
+    "Research/External AI Memory/Last30Days/Daily Debriefs/Model Snapshots/2026-08-17-openrouter-model-ids.json",
     "Business/LTD Amway/Info Sessions/2026/2026-08-20 Tyler Hadden.md",
     "Research/External AI Memory/Last30Days/Daily Debriefs/2026-08-17-daily-industry-landscape-debrief.md",
     "Research/ltd-amway/playbooks/network-growth-operating-system-2026.md",
@@ -252,21 +259,10 @@
     "Research/raw/transcripts/lyle-faleth-investor-concentration-and-office-floor-2026-08-16.md",
     "Research/raw/memory-layers-2026-08-17/README.md",
     "Business/Ideas/Faleth MCA 10 Percent Cap and 25 Percent Office Floor.md",
-    "Research/raw/memory-layers-2026-08-17/gbrain-snapshot.md",
-    "Research/raw/memory-layers-2026-08-17/honcho-card.md",
     "Research/raw/memory-layers-2026-08-17",
-    "Research/raw/x-bookmarks/2026-08-15",
-    "Personal/Ideas/Inbox.md",
     "Research/raw/ltd-amway/2026-08-13-independent-thinking-slides/03-lets-think-together.jpg",
     "Research/raw/ltd-amway/2026-08-13-independent-thinking-slides/02-cashflow-quadrant.jpg",
     "Research/raw/ltd-amway/2026-08-13-independent-thinking-slides/01-independent-thinking.jpg",
-    "Research/raw/ltd-amway/2026-08-13-independent-thinking-slides",
-    "Research/raw/x-bookmarks/2026-08-08",
-    "Research/raw/x-bookmarks/2026-08-09",
-    "Research/raw/x-bookmarks/2026-08-10",
-    "Research/raw/x-bookmarks/2026-08-11",
-    "Research/raw/x-bookmarks/2026-08-12",
-    "Research/raw/ltd-amway",
     "Research/assets/what-why-how-pyramid-in-motion-2026-07-24.png",
     "Research/raw/assets/books/2026-07-12-maverick-semler-unit-size-pp124-125.jpg",
     "Research/raw/assets/books/2026-07-12-maverick-semler-small-units-p118.jpg",
