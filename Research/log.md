@@ -5,6 +5,12 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-08-24] ingest | Fertility incentives + baby-boom demographic flywheel
+- Raw: [[raw/transcripts/lyle-telegram-fertility-incentives-2026-08-24]], [[raw/transcripts/lyle-telegram-chatgpt-baby-boom-causes-2026-08-24]], [[raw/transcripts/lyle-ideas-fertility-retirement-was-kids-2026-08-24]]
+- Created: [[offshoots/family-formation-demographic-flywheel]], [[queries/fertility-crisis-is-incentives]]
+- Why: Lyle's incentive thesis plus ChatGPT boom essay; flywheel saved as required condition set, not historical trivia
+- Inbox + processed-sources + SCHEMA tags family/demography updated
+
 ## [2026-08-24] ingest | NousResearch Hermes HUD Mode
 - Raw: [[raw/transcripts/lyle-x-share-2091893618801885456]]
 - Created: [[faleth/process/hermes-hud-overlay-as-context-2026]]
@@ -1028,10 +1034,11 @@
 ## [2026-08-24] ingest | CrubTV / Valve rejection and goal-current-state-path principle
 
 - Source: `https://x.com/CrubTV/status/2091942214087606585?s=20`
-- Lyle refinement: “Here is the goal, here is where we are, and this is the path towards achieving it.”
+- Lyle refinement: “Here is the goal, here is where we are, and this is the path towards achieving it.” He further identified the emotional mechanism: most rejections say “no” without “why not,” leaving a causal vacuum that makes the decision feel personal.
 - Raw transcripts:
   - `raw/transcripts/2026-08-24-crubtv-valve-rejection-letter.md`
   - `raw/transcripts/2026-08-24-lyle-goal-current-state-path-principle.md`
+  - `raw/transcripts/2026-08-24-lyle-why-not-rejection-feels-personal.md`
 - Created principles:
   - `concepts/offshoots/rejection-that-preserves-agency.md`
   - `concepts/offshoots/goal-current-state-path.md`

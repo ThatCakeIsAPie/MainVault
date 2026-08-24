@@ -1,7 +1,7 @@
 ---
 title: Processed Sources Tracker
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-08-24
 ---
 
 # Processed Sources Tracker
@@ -12,7 +12,13 @@ This file tracks which source notes and folders have already been reviewed for p
 - `YYYY-MM-DD` — Folder or note reviewed
 - List specific files when only a sample was taken
 
+## Telegram / conversation
+
+- **2026-08-24** — Fertility incentives thesis + ChatGPT US baby-boom causes paste. Raw: `Research/raw/transcripts/lyle-telegram-fertility-incentives-2026-08-24.md`, `Research/raw/transcripts/lyle-telegram-chatgpt-baby-boom-causes-2026-08-24.md`. Created offshoot `family-formation-demographic-flywheel` (required loop) and query `fertility-crisis-is-incentives`. Adjacent, not merged: fertility as nonrenewable life-window in `wholeness-over-unidimensional-perfection-2026` / `portfolio-life-as-antifragile-strategy`. Sources not moved.
+
 ## LTD Amway
+
+- **2026-08-17** — Network-growth deepdive synthesis (Atlas request). Ingested/reconciled: Business/LTD Amway operating models + Info Sessions/FNL/conferences already in corpus (including 2026-08-04 Joe Markiewicz, 2026-07-30 Dale Jones, 2026-08-13 Joshe Jackson, Spring Forward 2026, Josh Gordon Night Owl 2026-06-13); Research/ltd-amway distillates; Platinum/FTD math; Amway BRG QC correction; NM room-tension note; External AI Memory NM/MLM compliance industry report; independent-thinking slides raw. Produced playbooks under `Research/ltd-amway/playbooks/` (operating system + recruiting, retention, duplication, rank/volume, habits/scoreboard, reconciled tensions). No new cross-domain foundational principle; reinforced existing concepts/offshoots. Sources not moved.
 
 - **2026-07-31** — Codified Lyle's user-confirmed one-in-twelve sponsor cohort model in `Business/LTD Amway/Founders Triple Diamond Work Requirement Model.md`; preserved the exact conversational source at `Research/raw/transcripts/2026-07-31-lyle-one-in-twelve-platinum-cohort-model.md`. Baseline: 5 active days/week for 50 weeks; 12 personal sponsors/year → 3 quit / 3 stick / 3 do something / 3 run hard → 1 eventual Platinum-bearing group. Stretch: 16 sponsors/year.
 

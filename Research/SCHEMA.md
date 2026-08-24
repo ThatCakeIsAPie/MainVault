@@ -61,7 +61,8 @@ Top-level tags — add new tags here BEFORE using them in pages.
 
 - **Technology:** ai, ml, llm, hardware, software, infrastructure, open-source
 - **Business:** business, startup, finance, strategy, marketing, operations, compensation, equity, governance, network-marketing, systems, leverage
-- **Leadership & People:** leadership, person, company, lab, investor, founder, teams, culture, relationships, networking, skills, standards, environment, personal-development
+- **Leadership & People:** leadership, person, company, lab, investor, founder, teams, culture, relationships, family, networking, skills, standards, environment, personal-development
+- **Society:** demography
 - **Research:** paper, benchmark, architecture, training, inference, alignment, data
 - **Philosophy & Faith:** philosophy, theology, ethics, epistemology, worldview, purpose, vision
 - **Practice Patterns:** discipline, persistence, duplication, traditions

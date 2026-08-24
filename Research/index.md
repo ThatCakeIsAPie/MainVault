@@ -45,6 +45,7 @@
 - [[offshoots/environment-design-and-standards]] — Environment shapes behavior; deliberately choose people and culture that lift standards rather than lower them.
 - [[offshoots/factory-over-product-thinking]] — The highest-leverage builders focus less on the visible product and more on the factory that repeatedly produces products, teams, leaders, and capacity.
 - [[offshoots/faith-anchored-action-and-obedience]] — Faith is treated as action taken before full proof appears, especially when rooted in obedience rather than vague optimism.
+- [[offshoots/family-formation-demographic-flywheel]] — Required loop for fertility at scale: good jobs → early marriage → inexpensive housing → children → community growth → schools/demand → more jobs.
 - [[offshoots/family-legacy-as-mission-multiplier]] — Business is repeatedly framed as a vehicle for family, marriage, legacy, and generational impact.
 - [[offshoots/honor-edification-and-communication-rhythm]] — Healthy duplication depends on honoring the mentorship chain, edifying the right people, and maintaining clear communication rhythms.
 - [[offshoots/identity-and-belief-drive-behavior]] — Lasting behavioral change comes from identity and belief change, not temporary motivation or surface discipline.
@@ -133,6 +134,7 @@
 
 ## Queries
 
+- [[fertility-crisis-is-incentives]] — Fertility crisis as dead household incentives, not household cash; civic repair is the family-formation flywheel.
 - [[faleth-through-maslow-hierarchy-of-needs]] — Faleth as developmental scaffolding from subsistence and safety through belonging, esteem, actualization, and service beyond self.
 - [[what-why-how-three-by-three-action-architecture]] — Pyramid with What at the apex, Why/How beneath it, and Push–Pull–Process plus Time–Talent–Treasure as their foundations.
 - [[faleth-capital-operating-philosophy]] — Durable synthesis of Faleth's contribution, ownership, governance, trust, and discipleship logic.
