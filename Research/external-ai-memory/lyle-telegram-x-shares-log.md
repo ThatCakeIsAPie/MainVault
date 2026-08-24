@@ -2,7 +2,7 @@
 type: note
 title: Lyle Telegram X Shares Log
 created: '2026-06-22T00:00:00+00:00'
-updated: '2026-08-17T05:32:00+00:00'
+updated: '2026-08-24T00:00:00+00:00'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -18,6 +18,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-08-24 | [2091942214087606585](https://x.com/CrubTV/status/2091942214087606585) | coolest rejection letter | [[research/raw/transcripts/2026-08-24-crubtv-valve-rejection-letter]] | [[research/concepts/offshoots/rejection-that-preserves-agency]] |
 | 2026-08-17 | [2088722152283308243](https://x.com/Gundamritter/status/2088722152283308243) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-08-15/2088722152283308243]] | [[research/concepts/offshoots/echthros-vs-polemios-enemy-categories]] |
 | 2026-08-14 | [2088365268443496586](https://x.com/0xSero/status/2088365268443496586) | Oddly related | [[research/raw/transcripts/lyle-x-share-2088365268443496586]] | [[research/faleth/content/x-creator-payout-impressions-signal-2026]] |
 | 2026-08-14 | [2088305236003926468](https://x.com/HouseHackerJon/status/2088305236003926468) | ambient share | [[research/raw/transcripts/lyle-x-share-2088305236003926468]] | [[research/faleth/process/owner-manages-agent-manager-not-the-work-2026]] |
