@@ -18,6 +18,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-08-24 | [2091942214087606585](https://x.com/CrubTV/status/2091942214087606585) | coolest rejection letter | [[research/raw/transcripts/2026-08-24-crubtv-valve-rejection-letter]] | [[research/concepts/offshoots/rejection-that-preserves-agency]] |
 | 2026-08-24 | [2091893618801885456](https://x.com/NousResearch/status/2091893618801885456) | ambient share; Hermes HUD Mode WoW overlay | [[research/raw/transcripts/lyle-x-share-2091893618801885456]] | [[research/faleth/process/hermes-hud-overlay-as-context-2026]] |
 | 2026-08-17 | [2088722152283308243](https://x.com/Gundamritter/status/2088722152283308243) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-08-15/2088722152283308243]] | [[research/concepts/offshoots/echthros-vs-polemios-enemy-categories]] |
 | 2026-08-14 | [2088365268443496586](https://x.com/0xSero/status/2088365268443496586) | Oddly related | [[research/raw/transcripts/lyle-x-share-2088365268443496586]] | [[research/faleth/content/x-creator-payout-impressions-signal-2026]] |

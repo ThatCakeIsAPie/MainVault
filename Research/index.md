@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-24 | Total pages: 53+
+> Last updated: 2026-08-24 | Total pages: 55+
 
 ## Meta / schema
 
@@ -56,6 +56,7 @@
 - [[offshoots/pipeline-abundance-through-repetition]] — Confidence in people work comes from having enough people in process that no single prospect carries emotional weight.
 - [[offshoots/principles-permanent-parameters-adaptive]] — Protect durable commitments while continuously recalibrating context-sensitive operating dials.
 - [[offshoots/purpose-and-vision-as-focusing-mechanisms]] — Clear vision and purpose simplify decisions, priorities, reading lists, and relationships.
+- [[offshoots/rejection-that-preserves-agency]] — A truthful rejection can preserve standards and equip future growth by making the present gap and route back legible.
 - [[offshoots/self-governance-by-contributors]] — People doing the work and bearing the consequences should govern the conditions under which they work.
 - [[offshoots/security-enables-agency-without-creating-dependence]] — Bounded security makes voluntary choice real without severing reward from contribution.
 - [[offshoots/sweat-equity-as-primary-selection-mechanism]] — Because there is little formal buy-in, consistent effort becomes the real filter for who succeeds.
@@ -65,6 +66,7 @@
 - [[offshoots/trust-as-coordination-infrastructure]] — Trust is the invisible infrastructure that lets people coordinate effort without every interaction becoming expensive or defensive.
 - [[offshoots/value-creators-share-in-value-customers-included]] — Labor, capital, and customer advocacy receive distinct returns from the value each contributes.
 - [[offshoots/generosity-as-stewardship-time-talent-treasure]] — Generosity as steward identity over time, talent, and treasure—not occasional overflow.
+- [[offshoots/goal-current-state-path]] — Improvement requires a visible destination, an honest starting point, and a credible path across the gap.
 - [[offshoots/ongoing-spirit-filling-and-gifts-for-common-good]] — Spirit-filled life and gifts exercised for the body, not gatekept performance.
 - [[offshoots/transition-comparison-insecurity-and-surrendered-control]] — Waiting seasons: comparison, insecurity, and surrendering control without losing agency.
 - [[offshoots/spiritual-gatekeeping-in-the-home]] — Household faith without performance-based spiritual gatekeeping.
