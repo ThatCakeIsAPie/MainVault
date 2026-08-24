@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-16 | Total pages: 52+
+> Last updated: 2026-08-24 | Total pages: 53+
 
 ## Meta / schema
 
@@ -107,6 +107,17 @@
 - [[faleth/biography-operating-system]] — Biographies compressed into queryable strategic intelligence for Faleth.
 - [[research/ltd-amway/case-studies/tristan-ghazal-amway-termination-2026]] — Contested 2026 termination account as a platform-ownership, due-process, and peaceful-fork governance stress test.
 
+## LTD / Amway operating playbooks (2026-08-17)
+
+- [[ltd-amway/playbooks/network-growth-operating-system-2026]] — Canonical network-growth OS: engines, ratios, scoreboard, compliance, season guardrail.
+- [[ltd-amway/playbooks/recruiting-and-pipeline-playbook]] — Conversations → opens → MG1s → sponsors; hunger filter; funnel diagnostics.
+- [[ltd-amway/playbooks/retention-and-first-90-days-playbook]] — Onboarding, early proof, skin-in-the-game, customer lifetime value.
+- [[ltd-amway/playbooks/leadership-duplication-playbook]] — Master once, depth systems, mentorship rhythm, Platinum-right.
+- [[ltd-amway/playbooks/rank-advancement-and-volume-architecture-playbook]] — Personal PV vs org shape vs FP width vs QC depth.
+- [[ltd-amway/playbooks/systems-habits-and-scoreboard-playbook]] — Daily/weekly cadence, WKRP diagnosis, battle sheet.
+- [[ltd-amway/playbooks/reconciled-tensions-and-anti-patterns]] — Funnel vs velocity, ratio stack, season honesty, anti-patterns.
+- Field models: [[Business/LTD Amway/Platinum 7500PV Activity Math]], [[Business/LTD Amway/Founders Triple Diamond Work Requirement Model]]
+
 ## Personal vision
 
 - [[Personal/Dream Compound Vision]] — Long-term sovereign compound: remote businesses, family presence, advanced manufacturing and AI “brain” (dream-building, not church sermon).
@@ -168,5 +179,6 @@
 - [[faleth/process/messaging-ui-as-agent-operating-surface-2026]] — Messaging becomes an effective agent cockpit only when persistent compute, layered memory, triggers, handoffs, review controls, and verified tool execution sit underneath.
 - [[faleth/process/spring-damper-undulation-procedural-secondary-motion-2026]] — Simple spring-damper dynamics and length constraints can produce inspectable, reusable wave-like secondary animation without generative models.
 - [[faleth/process/hermes-bot-mode-persistent-profiles-2026]] — Hermes Bot Mode treats named agent profiles as standing teammates with jobs, memory, and inter-bot chat, distinct from disposable sessions and from mid-flight subagent steering.
+- [[faleth/process/hermes-hud-overlay-as-context-2026]] — HUD overlay parks on the live app; bar position is the referent. Gaming demos are costume.
 - [[faleth/process/owner-manages-agent-manager-not-the-work-2026]] — Owner manages a named manager-agent; that agent owns review and the next specialist hire; inbound jobs are the scoreboard.
 

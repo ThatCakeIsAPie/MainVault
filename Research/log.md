@@ -5,6 +5,20 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-08-24] ingest | NousResearch Hermes HUD Mode
+- Raw: [[raw/transcripts/lyle-x-share-2091893618801885456]]
+- Created: [[faleth/process/hermes-hud-overlay-as-context-2026]]
+- Updated: [[faleth/process/messaging-ui-as-agent-operating-surface-2026]], [[faleth/process/hermes-cloud-and-x-mcp-2026]]
+- Why: overlay-as-context is the durable mechanism; WoW demo is marketing costume
+- Shares log + index updated
+
+## [2026-08-17] create | LTD network-growth operating playbooks
+- Canonical: [[ltd-amway/playbooks/network-growth-operating-system-2026]]
+- Playbooks: recruiting/pipeline, retention/90-days, leadership duplication, rank/volume architecture, systems/habits/scoreboard, reconciled tensions
+- Sources: Business/LTD Amway models + sessions/conferences; Research/ltd-amway distillates; BRG QC math; NM compliance industry report
+- Why: actionable network-growth OS for recruiting, retention, duplication, rank, PV vs org, habits—without identity fluff or all-in-LTD season drift
+- Index + processed-sources updated
+
 ## [2026-08-17] create | Calcify Honcho + GBrain unique memory
 - Folder: [[raw/memory-layers-2026-08-17/README]]
 - Honcho: 7,553 conclusions archived; 1,712 unique Delta→Lyle in readable markdown

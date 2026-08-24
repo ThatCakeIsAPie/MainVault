@@ -1,7 +1,7 @@
 ---
 title: Hermes Cloud + Hosted X MCP (agent stack, 2026)
 created: 2026-07-10
-updated: 2026-08-17
+updated: 2026-08-24
 type: principle
 tags: [ai, software, infrastructure, open-source, leverage, systems]
 sources:
@@ -14,6 +14,7 @@ sources:
   - raw/x-bookmarks/2026-07-30/2082854011460518352.md
   - raw/articles/2026-07-31-hermes-flightplan-2-always-on-cloud.md
   - raw/transcripts/lyle-nous-cloud-vs-hetzner-2026-08-17.md
+  - raw/transcripts/lyle-x-share-2091893618801885456.md
 confidence: medium
 ---
 
@@ -40,6 +41,8 @@ confidence: medium
 The Flightplan #2 implementation makes the hosted topology concrete: one persistent Hermes Cloud workspace can expose a locked-down Discord lane for ambient chat while Hermes Desktop connects to the same instance as a remote coding backend. Sessions and tool execution remain server-side; the channels are front doors, not separate brains. This is the durable architecture signal: separate **runtime continuity** from **operator interface**, then add each interface under its own authentication and authority boundary. [[raw/x-bookmarks/2026-07-12/2076345051198984637]] [[raw/articles/2026-07-31-hermes-flightplan-2-always-on-cloud]]
 
 The article's July 2026 walkthrough reports browser provisioning, a persistent `/opt/data` workspace, dashboard-managed channels/configuration, Nous OAuth for Desktop, and no SSH requirement for ordinary operation. Flightplan prices ($0.32/$0.59/$1.12 running, $0.06 stopped) are dated. Portal info on 2026-08-17: Small/Medium/Large **$0.29 / $0.56 / $1.09 per running day**, stopped **$0.03/day**, still excluding inference and tools. Cloud remains preview. [[raw/transcripts/lyle-nous-cloud-vs-hetzner-2026-08-17]]
+
+HUD mode is another local front door on the same runtime: Ctrl+Shift+H detaches chat into an always-on-top bar whose **parked position is the referent**. Gaming demos are costume. The operator use is overlay-as-context on the live work app. See [[faleth/process/hermes-hud-overlay-as-context-2026]].
 
 Hermes Desktop's visible subagent activity is likewise more than UI polish. Showing each delegated agent's live status and context turns parallelism into an inspectable operating surface, which lowers supervision cost and makes failed or wandering work easier to catch. The video is product evidence of observability, not evidence that spawning more agents automatically improves outcomes. [[raw/x-bookmarks/2026-07-30/2082854011460518352]] [[faleth/process/agent-swarm-coordination-context-economics-2026]]
 
