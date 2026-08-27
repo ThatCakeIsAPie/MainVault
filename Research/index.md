@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-24 | Total pages: 55+
+> Last updated: 2026-08-26 | Total pages: 55+
 
 ## Meta / schema
 
@@ -101,6 +101,11 @@
 - [[faleth/bridge-strategy/game-finish-bridge-2026]] — Indie game ship as cash-timing bridge alongside GovCon deals.
 - [[faleth/bridge-strategy/automation-services-2026]] — Automation services bridge (on hold unless runway forces linear income).
 
+## VXE / GovCon ops
+
+- [[business/vxe/piee-solicitation-email-notifications-after-proposal-manager-activation]] — After admin activates Proposal Manager (SOL): confirm Active, SOL POC emails, Outlook routing, acceptance test; no BOT/RPA scrape by default.
+- [[business/vxe/full-time-transition-research-2026]] — Five-path facility and income transition research (June 2026).
+
 **Governance & operating style**
 - [[faleth/governance/peaceful-fork-voluntary-alignment-2026]] — Voluntary alignment and peaceful fork without coercive upline rent.
 - [[faleth/governance/conflict-escalation-trust-preservation-2026]] — Scope-based conflict escalation, trust-by-default, proportional safeguards, interface governance, standards lifecycles, and value-preserving separation.
@@ -183,6 +188,6 @@
 - [[faleth/process/messaging-ui-as-agent-operating-surface-2026]] — Messaging becomes an effective agent cockpit only when persistent compute, layered memory, triggers, handoffs, review controls, and verified tool execution sit underneath.
 - [[faleth/process/spring-damper-undulation-procedural-secondary-motion-2026]] — Simple spring-damper dynamics and length constraints can produce inspectable, reusable wave-like secondary animation without generative models.
 - [[faleth/process/hermes-bot-mode-persistent-profiles-2026]] — Hermes Bot Mode treats named agent profiles as standing teammates with jobs, memory, and inter-bot chat, distinct from disposable sessions and from mid-flight subagent steering.
-- [[faleth/process/hermes-hud-overlay-as-context-2026]] — HUD overlay parks on the live app; bar position is the referent. Gaming demos are costume.
+- [[faleth/process/hermes-hud-overlay-as-context-2026]] — HUD overlay parks on the live app; bar position is the referent. Screen-draw (`annotate_screen`) is a 2026-08-27 OPEN PR, not shipped here.
 - [[faleth/process/owner-manages-agent-manager-not-the-work-2026]] — Owner manages a named manager-agent; that agent owns review and the next specialist hire; inbound jobs are the scoreboard.
 

@@ -1,11 +1,13 @@
 ---
 title: Hermes HUD Overlay as Context
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-27
 type: principle
 tags: [ai, software, systems, leverage, operations]
 sources:
   - raw/transcripts/lyle-x-share-2091893618801885456.md
+  - raw/transcripts/lyle-x-share-2092445686331740219.md
+  - raw/sources/hermes-agent-pr-94350-2026-08-27.md
 confidence: medium
 ---
 
@@ -51,6 +53,7 @@ An independent 2026-08-17 walkthrough (Tonbi) reports the same mechanism on GitH
 3. **Escalate pane size with job size.** Overlay for referent + short ask; full window for proof.
 4. **Same verification law.** Overlay answers are still claims. Read back the file, the portal, the quote cell.
 5. **One runtime, many doors.** HUD, Telegram, CLI, and remote Desktop are front doors, not separate brains ([[faleth/process/hermes-cloud-and-x-mcp-2026]]).
+6. **Pointing beats describing — when it actually ships.** A contributor PR ([NousResearch/hermes-agent#94350](https://github.com/NousResearch/hermes-agent/pull/94350)) proposes `annotate_screen`: draw circles/arrows/labels on a click-through overlay over the app behind HUD. As of 2026-08-27 that PR is **OPEN**, labeled `needs-decision` / P3, no maintainer merge. This install still has `annotate_preview` only (in-app browser). Do not treat the tweet as a shipping announcement.
 
 ## Related
 
@@ -59,3 +62,5 @@ An independent 2026-08-17 walkthrough (Tonbi) reports the same mechanism on GitH
 - [[faleth/process/delta-phone-interface-grok-voice-hermes-2026]]
 - [[faleth/process/owner-manages-agent-manager-not-the-work-2026]]
 - [[raw/transcripts/lyle-x-share-2091893618801885456]]
+- [[raw/transcripts/lyle-x-share-2092445686331740219]]
+- [[raw/sources/hermes-agent-pr-94350-2026-08-27]]

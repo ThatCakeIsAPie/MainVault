@@ -5,6 +5,18 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-08-27] ingest | iamlukethedev HUD annotate_screen PR (not merged)
+- Raw: [[raw/transcripts/lyle-x-share-2092445686331740219]], [[raw/sources/hermes-agent-pr-94350-2026-08-27]]
+- Updated: [[faleth/process/hermes-hud-overlay-as-context-2026]]
+- Why: tweet asked Teknium to take screen-draw into Desktop; GitHub shows PR 94350 OPEN / needs-decision; this install still has annotate_preview only
+- Shares log + index updated
+
+## [2026-08-26] create | PIEE solicitation email next steps after Proposal Manager activation
+- Created: [[business/vxe/piee-solicitation-email-notifications-after-proposal-manager-activation]]
+- Why: Capture post-admin checklist (activation gate → SOL POC emails → Outlook Inbound Solicitations → acceptance test) after Albert NECO-replacement guidance + PIEE self-register mail (LyleCole / Lyle@vxecorp.com / 13KH1)
+- Index + VXE AI Reference link updated
+- Explicit non-goal: Hermes/BOT scrape of PIEE
+
 ## [2026-08-24] ingest | Fertility incentives + baby-boom demographic flywheel
 - Raw: [[raw/transcripts/lyle-telegram-fertility-incentives-2026-08-24]], [[raw/transcripts/lyle-telegram-chatgpt-baby-boom-causes-2026-08-24]], [[raw/transcripts/lyle-ideas-fertility-retirement-was-kids-2026-08-24]]
 - Created: [[offshoots/family-formation-demographic-flywheel]], [[queries/fertility-crisis-is-incentives]]

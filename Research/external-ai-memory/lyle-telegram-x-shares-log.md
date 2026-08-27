@@ -2,7 +2,7 @@
 type: note
 title: Lyle Telegram X Shares Log
 created: '2026-06-22T00:00:00+00:00'
-updated: '2026-08-24T00:00:00+00:00'
+updated: '2026-08-27T00:00:00+00:00'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -18,6 +18,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-08-27 | [2092445686331740219](https://x.com/iamlukethedev/status/2092445686331740219) | Did this PR get accepted? HUD screen-draw annotations | [[research/raw/transcripts/lyle-x-share-2092445686331740219]] | [[research/faleth/process/hermes-hud-overlay-as-context-2026]]; [[research/raw/sources/hermes-agent-pr-94350-2026-08-27]] |
 | 2026-08-24 | [2091942214087606585](https://x.com/CrubTV/status/2091942214087606585) | coolest rejection letter | [[research/raw/transcripts/2026-08-24-crubtv-valve-rejection-letter]] | [[research/concepts/offshoots/rejection-that-preserves-agency]] |
 | 2026-08-24 | [2091893618801885456](https://x.com/NousResearch/status/2091893618801885456) | ambient share; Hermes HUD Mode WoW overlay | [[research/raw/transcripts/lyle-x-share-2091893618801885456]] | [[research/faleth/process/hermes-hud-overlay-as-context-2026]] |
 | 2026-08-17 | [2088722152283308243](https://x.com/Gundamritter/status/2088722152283308243) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-08-15/2088722152283308243]] | [[research/concepts/offshoots/echthros-vs-polemios-enemy-categories]] |
