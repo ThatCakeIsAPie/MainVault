@@ -60,3 +60,20 @@ If you say it is hard, it will be hard. If you say it is easy, it will be easy.
 It is only going to take one person in here to actually do it
 
 ## Kyle and Nicole Arsimov
+We are emotional beings, we like to think we are logical, but we are emotional.
+After 7.5 years, you will find versions of yourself you didn't know existed.
+
+## Rob and Grace Fanning
+The wrong question is "what do they have that I dont?" The right question os "what do they not have that I do?"
+What matters is that you stick with it long enough to get into that room
+
+## Adrian and Bianca Perez
+Every downline wants to be there with their upline
+Everytime they get around their heroes, they get confirmation after confirmation that they are on the right track
+People aren't further along because they let little distractions get them off track
+Matt Grotewold networks more than you, everywhere he networks
+You just have to network
+
+## Dale and Victoria Jones
+If you believe it to be easy, it will be easy. Core 300 is easy. 6/25 is easy. What narrative are you putting on in this business?
+Why did we get so soft?

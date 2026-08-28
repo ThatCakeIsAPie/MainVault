@@ -4,7 +4,7 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ## Current Direction
 - Lower-middle-market investing continues to center on owner transition, founder-dependence reduction, operational maturity, and credible operator benches.
-- Search funds and family offices are increasingly visible as acquisition paths, but the hard part remains sourcing, integration, management, and value creation.
+- Search funds and family offices are increasingly visible as acquisition paths, but the hard part remains sourcing, integration, management, and value creation. North American search-fund count is now quoted near **900**, with **100+** funds launched in three years — crowding is the operating fact, not a side note.
 - European succession-focused funds/searchers are reinforcing **generational transition** as a durable acquisition driver; this is more strategically meaningful for Faleth than generic consolidation volume.
 - Faleth’s strongest stance remains build-first, acquire-selectively: buy only where operational improvement and mission-aligned governance are real, not because “rollup” sounds fancy in a pitch deck.
 
@@ -217,3 +217,15 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-13
 - An AI freight roll-up acquisition and lower-middle-market private-credit coverage reinforced integration capacity and financing certainty as core constraints. Screen owner dependence, customer concentration, operator assignment, leverage/refinancing, data/software fragility, cash conversion, and no-exit downside. No Faleth acquisition action; VXE cash timing and fulfillment remain first ([AI freight item](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVpEM1hpY3p2WWMzeHVSa2FYaEFEejdxSmFFLVh0bXRGQW0xTkxsdG0zWVNRY3hWQmlNbHozdTVEZFJLU3NOOVN1dkxQRUJNd1ViV1NvRXA1QkZWeEFRTldzS2lfcW5WQlp4aHBsUVoxakJEUC02WlotbVhuTjhzdTFHbzc?oc=5)). Signal: **medium–weak**; RSS/snippet-level.
+
+### 2026-08-14
+- Headlines were mega-cap (Silver Lake/Workday; Thoma Bravo/Accelerant), not LMM. More useful: LOI-stage SBA affiliation risk in small-business M&A. Take no Faleth acquisition action; do not let informal deal paper create size/affiliation facts around VXE/LibreTech ([JD Supra](https://www.jdsupra.com/legalnews/don-t-get-ahead-of-yourself-how-letters-77031/)). Signal: **medium** for affiliation caution, **weak** for Faleth-scale opportunity.
+
+### 2026-08-15
+- Tape remained mega-cap (PayPal talks with Stripe and Advent; Vista/CAIS $2B mark). No inspected LMM owner-transition or Faleth-scale rollup. Take no acquisition action; VXE cash timing first; keep LOI/affiliation discipline ([TechCrunch](https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/), [JD Supra — background](https://www.jdsupra.com/legalnews/don-t-get-ahead-of-yourself-how-letters-77031/)). Signal: **medium** for mega-cap activity, **weak** for Faleth opportunity.
+
+### 2026-08-16
+- Targeted 24h RSS returned no items. Searchfunder's ~56 identified 2026 SF closes (Europe ~50–60%) is week-old background, not a last-24h print. No inspected Faleth-scale owner-transition. Take no acquisition action; VXE cash timing first; keep LOI/affiliation discipline ([Searchfunder — background](https://searchfunder.com/post/more-than-56-search-fund-acquisitions-identified-so-far-in-2026), [JD Supra — background](https://www.jdsupra.com/legalnews/don-t-get-ahead-of-yourself-how-letters-77031/)). Signal: **weak** for novelty.
+
+### 2026-08-17
+- NOLA.com profiled Search Fund Accelerator (salary + expenses, firm fronts the buy; 19 ventures / 27 acquisitions cited). Piece quotes ~900 North American funds and 100+ launched in three years; industry failure ~50%. No Faleth-scale LOI. Take no acquisition action; VXE cash first; keep LOI/affiliation discipline ([NOLA.com SFA](https://www.nola.com/news/business/innovation/new-orleans-firm-search-fund-accelerator-pays-entrepreneurs-to-find-companies-worth-buying/article_e42b2990-7f93-4bbb-a8d3-d8385a799ea0.html), [Stanford — background](https://www.gsb.stanford.edu/insights/search-funds-keep-offering-proven-path-ownership)). Signal: **medium**.

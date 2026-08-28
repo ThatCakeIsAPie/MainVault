@@ -8,6 +8,8 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 - Aggregator/workflow platforms such as Runway are gaining strategic value by giving creators access to multiple top models in one controlled environment.
 - Creative testing and commerce workflows are becoming the next value layer: generation matters only when variants can be measured against audience and conversion outcomes.
 - As output volume rises, **originality, editability, provenance, explicit approval authority, rollback, and full-asset completion** are becoming more valuable than isolated generation quality.
+- **Commercial/rights enforcement is now a product feature:** Seedance 2.5-class cloud platforms are pairing longer cinematic clips with IP blocking and usage discounts, while LTX-2.5-class open weights compete on local speed and post-production control.
+- **Enterprise marketing video is attracting mega-rounds:** Higgsfield's reported $400M at $5.4B (Aug 16–17) is a capital event, not a reason to change FRR's one-explainer stack. Revenue run-rate claims already conflict across outlets.
 
 ## Major Shifts to Watch
 - Native 4K, longer coherent clips, and character/object consistency becoming expected rather than miraculous.
@@ -217,3 +219,15 @@ Purpose: rolling industry report informed by daily Last30Days debriefs. This fil
 
 ### 2026-08-13
 - Fal launched a creative agent positioned to orchestrate image, video, and 3D models; LTX-2.5/Seedance discussion reinforced local/open control versus longer cloud generation. For FRR, test one full repair explainer and record source rights, routes, retries, corrections, edit time, acceptance, bookings, and accepted-result cost ([fal Agent item](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZExGeFB4TUtKbnFUa2ttN3pNQ0hldzhEdFBiVEhURFpuR1BZU0IyX3cxQmpZcHdFNGduWGhqVTZXN242SmZ6c213T2d6YkV0RGh1dVQyRDgzdDk4RjVrYUJTa0h2OFBhSjJBV3BrazBfMy02dmRyWWFCY0Rpb2lvZnNpalBYX01LS0o2UXNpanBrdHNHQ1dpWWNUYUgyNUhwT24ySkNCTnVxSUd6R0NxMUFCalRjOENTWVF2ajhJSnpZZUFfbUE?oc=5), [LTX workflow signal](https://x.com/SamJWasserman/status/2087590861668536451)). Signal: **medium**; launch detail is RSS/snippet-level.
+
+### 2026-08-14
+- Seedance 2.5 commercial rollout (Dreamina/CapCut-class access, IP/copyright blocking, discounts) sat next to continued LTX-2.5 open-weights/local-speed discussion. Score one FRR repair explainer on source rights, commercial-use clearance, retries, edit time, platform acceptance, inquiries, bookings, and accepted-result cost before treating either as default ([APOB X](https://x.com/apob_ai/status/2088219374746558671), [LTX X](https://x.com/shawnchauhan1/status/2087834125709566459)). Signal: **medium**; platform pricing/blocking rules remain RSS/social.
+
+### 2026-08-15
+- No inspected flagship API/pricing change. Creator/X traffic remained Seedance 2.5 (native 30s / cinematic motion) versus Kling/Veo stitching. A Gemini image-watermark-toggle headline stayed RSS/snippet-level after the cited Verge URL 404'd. Do not add a vendor; finish one FRR explainer and score rights, retries, edit time, acceptance, bookings, and accepted-result cost ([X Seedance](https://x.com/Ryan_blake_ai/status/2088582070209851668), [ByteDance — background](https://seed.bytedance.com/en/seedance2_5)). Signal: **medium** for usage continuity, **weak** for new product facts.
+
+### 2026-08-16
+- No inspected flagship API/pricing change. X still treats Seedance 2.5 as the usage leader (1080p / aggregator access including Runway early access) versus Kling/Veo stitching. Targeted 24h news was mostly airport-runway keyword collisions. Do not add a vendor; finish one FRR explainer and score rights, retries, edit time, acceptance, bookings, and accepted-result cost ([X Seedance](https://x.com/hedo_ist/status/2088501606580998246), [X Runway hosting](https://x.com/neuraltechai/status/2088654435639562568), [ByteDance — background](https://seed.bytedance.com/en/seedance2_5)). Signal: **medium** for usage continuity, **weak** for new product facts.
+
+### 2026-08-17
+- Higgsfield reported at **$400M / $5.4B** (Goldman, Intel, DST Global cited). Revenue run-rate claims conflict ($500M vs $700M). X still pushes Seedance 2.5 1080p promos; Reddit still complains about unclear unlimited terms. No inspected Seedance/Veo/Kling API change. Do not add a vendor; finish one FRR explainer ([Yahoo](https://finance.yahoo.com/technology/ai/articles/higgsfield-hits-5-4-billion-061508226.html), [TFN](https://techfundingnews.com/higgsfield-raises-400m-from-goldman-sachs-dst-global-at-5-4b-valuation/), [ByteDance — background](https://seed.bytedance.com/en/seedance2_5)). Signal: **medium–strong** for the funding event; **weak** for exact revenue.

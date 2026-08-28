@@ -7,6 +7,8 @@ related:
   - concepts/offshoots/asset-creation-over-linear-income
 sources:
   - 'https://x.com/i/status/2073218889446728183'
+  - 'https://x.com/0xSero/status/2088365268443496586'
+  - raw/transcripts/lyle-x-share-2088365268443496586.md
 effective_date: '2026-07-04T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-04T17:53:52.117Z'
@@ -22,10 +24,26 @@ tags:
 
 Living principles from @0xSero payout screenshot (July 2026) — Lyle ambient share + Lyle synthesis (voice, 2026-07-04).
 
-## Datapoint
+## Datapoint (July 2026)
 
 - **~$3,500** creator payout for **~12M impressions** in one month (author’s claim + screenshot).
 - Implied **~$0.29 per 1K impressions** on that month only (order-of-magnitude; not a platform guarantee).
+
+## Datapoint (August 2026, same author)
+
+Lyle share **2026-08-14** ([2088365268443496586](https://x.com/0xSero/status/2088365268443496586)), note: "Oddly related."
+
+Screenshot, Revenue Sharing UI:
+
+- Lifetime total shown: **$21,485.97**
+- **$2,008.86** for Aug 1–15, 2026
+- Prior biweeks: $1,640.96 / $1,379.50 / $1,814.70
+- Author claim for the newest window: **8.5M impressions**, "~2,000$ for 2 weeks of yapping"
+- Implied this window only: **~$0.24 per 1K impressions**
+
+The July "largest month" and this "highest ever biweek" can both be true. Rate moved. Audience mix moved. Do not average them into a Faleth spreadsheet.
+
+This is still **ads revenue share**, closed to new enrollments. It is a dying-program sample from an already-enrolled local-AI account. It is **not** an Original Content Rewards forecast and not @LyleBCole's path this quarter.
 
 ## Lyle’s model (who is watching > raw reach)
 
@@ -49,10 +67,15 @@ Payout logic is less “flat CPM on headcount” and more **who you’re actuall
 
 5. **Pairs with voice-layer systems** — system + consistency makes payout *possible*, not guaranteed.
 
+## Program change (2026-08-14)
+
+New enrollments into Creator Revenue Sharing **closed 2026-08-07** and the program retires **2026-09-07**. The live path is **Original Content Rewards**: 500 verified followers, 500k verified Home Timeline impressions in 90 days, **replies excluded**, payouts on qualified Premium HT impressions. See [[faleth/content/x-ocr-to-supergrok-prosumer-2026]].
+
 ## Lyle application (2026 bridge context)
 
-- Flywheel: real Hermes/GovCon/automation artifacts → posts → optional rev-share **plus** leads.
+- Flywheel: real Hermes/GovCon/automation artifacts → posts → optional OCR **plus** leads.
 - Do **not** fuse identity to payout screenshots (scoreboard idol).
+- @LyleBCole baseline 2026-08-14: 22 followers, not Premium. OCR is a later gate, not a runway tool.
 
 ## Provenance
 
@@ -62,4 +85,7 @@ Payout logic is less “flat CPM on headcount” and more **who you’re actuall
 ## Related
 
 - [[research/raw/transcripts/lyle-x-share-2073218889446728183]]
+- [[research/raw/transcripts/lyle-x-share-2088365268443496586]]
 - [[research/faleth/content/systematic-x-voice-layer-printer-2026]]
+- [[faleth/content/x-ocr-to-supergrok-prosumer-2026]]
+- [[faleth/content/dream-100-bulk-congregation-2026]]

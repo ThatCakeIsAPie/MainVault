@@ -1,7 +1,7 @@
 ---
 title: Local Model Ownership Agency (2026)
 created: 2026-07-10
-updated: 2026-08-05
+updated: 2026-08-15
 type: principle
 tags: [ai, ml, open-source, leverage, software, infrastructure]
 sources:
@@ -9,6 +9,7 @@ sources:
   - raw/x-bookmarks/2026-07-25/2081060081278558271.md
   - raw/x-bookmarks/2026-07-29/2082463988953367031.md
   - raw/x-bookmarks/2026-08-04/2084645635815284821.md
+  - raw/x-bookmarks/2026-08-13/2087983106972057602.md
 confidence: medium
 ---
 
@@ -42,6 +43,12 @@ Liquid AI's August 2026 LFM2.5-2.6B release is notable less for another small lo
 
 This is a durable deployment lesson: model capability is partly **harness-relative**. A smaller model trained against the actual tool protocol and loop may outperform a nominally stronger generic model on bounded local tasks. It is not yet proof that LFM2.5-2.6B can replace Delta's frontier planner; require task-level Hermes evaluations covering tool selection, argument validity, recovery, completion, latency, and memory use. This complements [[faleth/process/agentic-loops-design-2026]] and [[faleth/process/frontier-model-cost-speed-tradeoff-2026]].
 
+## Complete local creative stack signal
+
+An August 2026 practitioner report lists a full open-weight loop on one DGX Spark: DeepSeek V4 Flash 0731, Qwen 3 VL 2B, Qwen Image 3, MiniMax H3, LTX 2.5, faster-whisper base, Chatterbox Turbo, MiniMax Music 3. [[raw/x-bookmarks/2026-08-13/2087983106972057602]]
+
+The ownership lesson is **coverage**, not co-residency: one owned box can now name a replacement for LLM, vision, image, video, STT, clone, and music APIs. That is the craft-loop expanding. It is not proof the stack is cheaper, faster, or legally cleaner than renting frontier APIs for accepted work. Memory budgeting stays on [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]].
+
 ## Faleth take
 
 - Lyle’s stack is currently **Hermes + multi-provider cloud models** (Grok, GPT, etc.) for leverage during cash timing — correct default.
@@ -56,6 +63,7 @@ This is a durable deployment lesson: model capability is partly **harness-relati
 - Raw benchmark: [[raw/x-bookmarks/2026-07-25/2081060081278558271]]
 - Raw Kimi K3 claim: [[raw/x-bookmarks/2026-07-29/2082463988953367031]]
 - Raw LFM2.5/Hermes claim: [[raw/x-bookmarks/2026-08-04/2084645635815284821]]
+- Raw Spark stack catalog: [[raw/x-bookmarks/2026-08-13/2087983106972057602]]
 
 ## Related
 

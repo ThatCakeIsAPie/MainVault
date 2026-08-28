@@ -2,12 +2,13 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-12 | Total pages: 50+
+> Last updated: 2026-08-17 | Total pages: 52+
 
 ## Meta / schema
 
 - [[SCHEMA]] — Wiki conventions, frontmatter, tags, raw provenance
-- [[SOURCE-MANIFEST]] — Where knowledge lives (Obsidian, GBrain, Hermes, AgentMemory, Honcho, External AI Memory)
+|- [[SOURCE-MANIFEST]] — Where knowledge lives (Obsidian, GBrain, Hermes, AgentMemory, Honcho, External AI Memory)
+- [[raw/memory-layers-2026-08-17/README]] — Calcified Honcho conclusions/card plus GBrain timeline; wiki pages were already the vault.
 - [[External AI Memory/memory-system-bakeoff-baseline-2026-06-11]] — Lyle's layered-memory baseline, updated with the August 2026 seven-provider MemConflict benchmark and conflict-arbitration decision.
 - [[OKF-COMPATIBILITY]] — Open Knowledge Format v0.1 alignment and gaps
 - [[VALIDATION-REPORT]] — Latest `_tools/validate_vault.py` baseline (2026-06-22)
@@ -67,6 +68,8 @@
 - [[offshoots/ongoing-spirit-filling-and-gifts-for-common-good]] — Spirit-filled life and gifts exercised for the body, not gatekept performance.
 - [[offshoots/transition-comparison-insecurity-and-surrendered-control]] — Waiting seasons: comparison, insecurity, and surrendering control without losing agency.
 - [[offshoots/spiritual-gatekeeping-in-the-home]] — Household faith without performance-based spiritual gatekeeping.
+- [[offshoots/nature-as-telos-not-occurrence-catalog]] — “Natural” means what a thing is for, not whatever appears in nature; animal occurrence is not a human ought.
+- [[offshoots/echthros-vs-polemios-enemy-categories]] — “Enemy” is not one word: personal/private enmity (*echthros*) is not public enmity of the *polis* (*polemios*).
 
 ## Faleth mindset & transition
 
@@ -99,9 +102,21 @@
 - [[faleth/governance/peaceful-fork-voluntary-alignment-2026]] — Voluntary alignment and peaceful fork without coercive upline rent.
 - [[faleth/governance/conflict-escalation-trust-preservation-2026]] — Scope-based conflict escalation, trust-by-default, proportional safeguards, interface governance, standards lifecycles, and value-preserving separation.
 - [[faleth/governance/document-review-sanctioning-architecture-2026-07-09]] — Graduated sanctions, body-decided removal, and open v2 governance decisions.
+- [[faleth/governance/investor-concentration-and-office-pool-floor-2026]] — Proposed 10% subscription gate, 15% auto-trim, and 25% office floor so book-value pricing cannot buy soft leverage.
 - [[faleth/operating-style/lyle-two-week-insights-2026-06-24]] — Jun 10–24 operating profile synthesis (goals, constraints, patterns).
 - [[faleth/biography-operating-system]] — Biographies compressed into queryable strategic intelligence for Faleth.
 - [[research/ltd-amway/case-studies/tristan-ghazal-amway-termination-2026]] — Contested 2026 termination account as a platform-ownership, due-process, and peaceful-fork governance stress test.
+
+## LTD / Amway operating playbooks (2026-08-17)
+
+- [[ltd-amway/playbooks/network-growth-operating-system-2026]] — Canonical network-growth OS: engines, ratios, scoreboard, compliance, season guardrail.
+- [[ltd-amway/playbooks/recruiting-and-pipeline-playbook]] — Conversations → opens → MG1s → sponsors; hunger filter; funnel diagnostics.
+- [[ltd-amway/playbooks/retention-and-first-90-days-playbook]] — Onboarding, early proof, skin-in-the-game, customer lifetime value.
+- [[ltd-amway/playbooks/leadership-duplication-playbook]] — Master once, depth systems, mentorship rhythm, Platinum-right.
+- [[ltd-amway/playbooks/rank-advancement-and-volume-architecture-playbook]] — Personal PV vs org shape vs FP width vs QC depth.
+- [[ltd-amway/playbooks/systems-habits-and-scoreboard-playbook]] — Daily/weekly cadence, WKRP diagnosis, battle sheet.
+- [[ltd-amway/playbooks/reconciled-tensions-and-anti-patterns]] — Funnel vs velocity, ratio stack, season honesty, anti-patterns.
+- Field models: [[Business/LTD Amway/Platinum 7500PV Activity Math]], [[Business/LTD Amway/Founders Triple Diamond Work Requirement Model]]
 
 ## Personal vision
 
@@ -130,6 +145,9 @@
 - [[faleth/process/microproductivity-requires-workflow-redesign-2026]] — AI task gains become organizational outcomes only after staffing, incentives, and downstream workflows are redesigned around the new capacity.
 - [[faleth/process/hermes-agent-long-horizon-codebases-2026]] — Hermes on huge legacy codebases
 - [[faleth/content/hermes-grok-x-content-machine-2026]] — automated X content machine packaging
+- [[faleth/content/x-ocr-to-supergrok-prosumer-2026]] — X Original Content Rewards as the only live payout path; replies build the room, originals pay; SuperGrok is prosumer inventory after Premium and two covering payouts.
+- [[faleth/content/dream-100-bulk-congregation-2026]] — Hardy bulk + Brunson Dream 100: borrow the room by becoming someone a named operator would platform, not a smaller clone.
+
 - [[faleth/process/llm-foundations-skill-stack-2026]] — CS229 foundations as future curriculum
 - [[faleth/process/agentic-loops-design-2026]] — Anthropic four loop types (prior + re-indexed)
 - [[faleth/process/hermes-cloud-and-x-mcp-2026]] — Hermes Cloud + hosted X MCP agent surface
@@ -157,6 +175,9 @@
 - [[faleth/process/book-to-skill-compilation-for-agent-knowledge-2026]] — Compile long books and PDFs into navigable, testable agent skills rather than one giant prompt.
 - [[faleth/process/free-electron-laser-euv-light-utility-2026]] — FEL-based central EUV utility for multiple lithography scanners; technically credible concept, contested Terafab interpretation.
 - [[faleth/process/local-minimax-h3-video-generation-tradeoffs-2026]] — Local H3 feasibility on four RTX 3090s, with Turbo-LoRA speed, motion-smear, accepted-result-cost, and licensing caveats.
+- [[faleth/process/magi-2-open-moe-video-generation-2026]] — MAGI-2 Preview: 114B / 6B-active open MoE video; 8× Hopper and ~307 GB weights, not a Spark workflow.
 - [[faleth/process/messaging-ui-as-agent-operating-surface-2026]] — Messaging becomes an effective agent cockpit only when persistent compute, layered memory, triggers, handoffs, review controls, and verified tool execution sit underneath.
 - [[faleth/process/spring-damper-undulation-procedural-secondary-motion-2026]] — Simple spring-damper dynamics and length constraints can produce inspectable, reusable wave-like secondary animation without generative models.
+- [[faleth/process/hermes-bot-mode-persistent-profiles-2026]] — Hermes Bot Mode treats named agent profiles as standing teammates with jobs, memory, and inter-bot chat, distinct from disposable sessions and from mid-flight subagent steering.
+- [[faleth/process/owner-manages-agent-manager-not-the-work-2026]] — Owner manages a named manager-agent; that agent owns review and the next specialist hire; inbound jobs are the scoreboard.
 

@@ -78,6 +78,14 @@ Useful sources:
 - [Yahoo Finance / announcement](https://finance.yahoo.com/markets/stocks/articles/p-terrys-burger-stand-transitions-133000017.html)
 - [KUT local reporting](https://www.kut.org/business/2026-06-09/austin-tx-p-terrys-restaurant-employee-worker-ownership-profit)
 
+### 2026-08-15 — DoD ESOP sole-source follow-on (Torch / Air Force)
+
+Washington Technology reported that the Air Force used FY2022/FY2024 NDAA authority promoting fully employee-owned contractors to sole-source a potential five-year, $992 million technical and management advisory follow-on to Torch Technologies after Torch missed the TMAS 3 recompete. Torch converted to a 100% S-Corp ESOP in 2011. SAM notice: https://sam.gov/workspace/contract/opp/8594be87a1f940aebfe52f8a282d1b24/view
+
+Implication for Faleth: employee ownership can be a **capture mechanism**, not only a succession/culture wrapper. Do not convert any subsidiary. Do add a research row: which VXE/LibreTech follow-ons could theoretically use this pilot, what “fully employee-owned” requires, and which economics/control/liquidity fields must exist first. Keep wage, bonus, profit share, equity, governance, and liquidity as separate levers.
+
+Source: [Washington Technology, Aug 14, 2026](https://www.washingtontechnology.com/contracts/2026/08/air-force-leans-esop-legislation-sole-source-992m-contract/415430/)
+
 ## Next Step
 
 Draft a one-page Faleth Steward-Profit Framework v0.1 that is explicitly non-legal, operational, and testable inside one subsidiary or project before formalizing. Include a small appendix comparing simple profit share, phantom equity, operator equity, ESOP, EOT, and steward trust concepts.
