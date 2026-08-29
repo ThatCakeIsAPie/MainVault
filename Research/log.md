@@ -5,6 +5,13 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-08-29] ingest | Teknium quotes Box Hermes “company brain”
+- Raw: [[raw/transcripts/lyle-x-share-2093537700561461374]]
+- Created: [[faleth/process/governed-content-plane-not-company-brain-2026]]
+- Updated: [[faleth/process/self-writing-vault-operating-loop-2026]]
+- Why: architecture is identity + content plane + vendor RAG + write verification; “brain” is costume
+- Shares log + index updated
+
 ## [2026-08-27] ingest | iamlukethedev HUD annotate_screen PR (not merged)
 - Raw: [[raw/transcripts/lyle-x-share-2092445686331740219]], [[raw/sources/hermes-agent-pr-94350-2026-08-27]]
 - Updated: [[faleth/process/hermes-hud-overlay-as-context-2026]]

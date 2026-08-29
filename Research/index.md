@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-26 | Total pages: 55+
+> Last updated: 2026-08-29 | Total pages: 56+
 
 ## Meta / schema
 
@@ -189,5 +189,6 @@
 - [[faleth/process/spring-damper-undulation-procedural-secondary-motion-2026]] — Simple spring-damper dynamics and length constraints can produce inspectable, reusable wave-like secondary animation without generative models.
 - [[faleth/process/hermes-bot-mode-persistent-profiles-2026]] — Hermes Bot Mode treats named agent profiles as standing teammates with jobs, memory, and inter-bot chat, distinct from disposable sessions and from mid-flight subagent steering.
 - [[faleth/process/hermes-hud-overlay-as-context-2026]] — HUD overlay parks on the live app; bar position is the referent. Screen-draw (`annotate_screen`) is a 2026-08-27 OPEN PR, not shipped here.
+- [[faleth/process/governed-content-plane-not-company-brain-2026]] — Box+Hermes is a permissioned content/retrieval plane plus orchestrator, not a company brain; steal the planes, not the product.
 - [[faleth/process/owner-manages-agent-manager-not-the-work-2026]] — Owner manages a named manager-agent; that agent owns review and the next specialist hire; inbound jobs are the scoreboard.
 
