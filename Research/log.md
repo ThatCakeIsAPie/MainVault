@@ -5,6 +5,10 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-08-30] update | Relocate Faleth session summary out of canonical docs
+- Moved Claude session summary from `Business/Faleth Capital/` (canonical suite) to `Research/External AI Memory/2026-07-09 Faleth Document Review and Sanctioning Architecture.md`
+- Updated source links on `Research/faleth/governance/document-review-sanctioning-architecture-2026-07-09.md`
+
 ## [2026-08-17] update | Retired Honcho + GBrain from HermesDelta
 - Agent: `hermes memory off`; MCP `gbrain` removed; cron `bab3a87dc850` paused
 - Host: compose `down` (volumes kept); user timer `gbrain-obsidian-sync` disabled

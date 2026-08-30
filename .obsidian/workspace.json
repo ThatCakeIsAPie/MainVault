@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0af3731613bee36b",
+        "id": "2e1b005cc1ea89cf",
         "type": "tabs",
         "children": [
           {
-            "id": "b5f23c4b831f0020",
+            "id": "c96e24121813616c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -226,12 +226,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b5f23c4b831f0020",
+  "active": "457b34fb9bed2545",
   "lastOpenFiles": [
-    "Business/Faleth Capital/Beyond the Wage.md",
+    "Research/External AI Memory/2026-07-09 Faleth Document Review and Sanctioning Architecture.md",
+    "Business/Faleth Capital/2026-07-09 Faleth Document Review and Sanctioning Architecture.md",
     "Personal/Church/2026/2026-08-30.md",
+    "Business/Faleth Capital/Beyond the Wage.md",
     "Personal/Church/2026/2026-08-23.md",
-    "Personal/Church/2026/2026-08-27 Adrian Perez.md",
+    "Business/LTD Amway/Info Sessions/2026/2026-08-27 Adrian Perez.md",
     "Personal/Church/2026/2026-08-16.md",
     "conflict-files-obsidian-git.md",
     "Research/raw/memory-layers-2026-08-17/retirement.md",
@@ -261,8 +263,6 @@
     "Research/raw/memory-layers-2026-08-17/honcho-representation.md",
     "Business/Ideas/2026-08-16 - GoTein Protein On The Go.md",
     "Research/faleth/governance/investor-concentration-and-office-pool-floor-2026.md",
-    "Research/raw/transcripts/lyle-nous-cloud-vs-hetzner-2026-08-17.md",
-    "Research/concepts/offshoots/echthros-vs-polemios-enemy-categories.md",
     "Research/raw/memory-layers-2026-08-17",
     "Research/raw/ltd-amway/2026-08-13-independent-thinking-slides/03-lets-think-together.jpg",
     "Research/raw/ltd-amway/2026-08-13-independent-thinking-slides/02-cashflow-quadrant.jpg",

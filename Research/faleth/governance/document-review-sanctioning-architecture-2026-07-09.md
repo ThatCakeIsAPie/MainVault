@@ -1,11 +1,11 @@
 ---
 title: Faleth Document Review and Sanctioning Architecture (2026-07-09)
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-08-30
 type: principle
 tags: [governance, equity, compensation, leadership, business, standards, framework]
 sources:
-  - "[[Business/Faleth Capital/2026-07-09 Faleth Document Review and Sanctioning Architecture]]"
+  - "[[Research/External AI Memory/2026-07-09 Faleth Document Review and Sanctioning Architecture]]"
   - Claude Fable 5 session (Lyle)
 status: open-decisions-pending
 related:
@@ -19,7 +19,7 @@ related:
 
 # Faleth Document Review and Sanctioning Architecture (2026-07-09)
 
-> Session summary from Lyle + Claude Fable 5 full suite review. **Source of truth for this capture:** [[Business/Faleth Capital/2026-07-09 Faleth Document Review and Sanctioning Architecture]].
+> Session summary from Lyle + Claude Fable 5 full suite review. **Source of truth for this capture:** [[Research/External AI Memory/2026-07-09 Faleth Document Review and Sanctioning Architecture]].
 
 ## Delta read (compressed)
 
