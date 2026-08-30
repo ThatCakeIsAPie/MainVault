@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Church/2026/2026-08-23.md",
+                "file": "Personal/Church/2026/2026-08-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-23"
+              "title": "2026-08-30"
             }
           }
         ]
@@ -96,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Church/2026/2026-08-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,8 +197,7 @@
               "title": "Footnotes"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,7 +228,10 @@
   },
   "active": "b5f23c4b831f0020",
   "lastOpenFiles": [
+    "Business/Faleth Capital/Beyond the Wage.md",
+    "Personal/Church/2026/2026-08-30.md",
     "Personal/Church/2026/2026-08-23.md",
+    "Personal/Church/2026/2026-08-27 Adrian Perez.md",
     "Personal/Church/2026/2026-08-16.md",
     "conflict-files-obsidian-git.md",
     "Research/raw/memory-layers-2026-08-17/retirement.md",
@@ -260,9 +263,6 @@
     "Research/faleth/governance/investor-concentration-and-office-pool-floor-2026.md",
     "Research/raw/transcripts/lyle-nous-cloud-vs-hetzner-2026-08-17.md",
     "Research/concepts/offshoots/echthros-vs-polemios-enemy-categories.md",
-    "Research/raw/x-bookmarks/2026-08-15/2088722152283308243.md",
-    "Research/raw/transcripts/lyle-faleth-investor-concentration-and-office-floor-2026-08-16.md",
-    "Research/raw/memory-layers-2026-08-17/README.md",
     "Research/raw/memory-layers-2026-08-17",
     "Research/raw/ltd-amway/2026-08-13-independent-thinking-slides/03-lets-think-together.jpg",
     "Research/raw/ltd-amway/2026-08-13-independent-thinking-slides/02-cashflow-quadrant.jpg",

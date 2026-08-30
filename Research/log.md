@@ -1040,3 +1040,23 @@
 - Core distinctions: reject present fit without sentencing a person's future; every useful improvement loop needs a legible goal, honest current state, and credible path across the gap; a truthful “why not” prevents institutional silence from becoming an identity-level verdict.
 - Evidence limits: the letter and follow-ups were recovered through X Search with image understanding and are preserved as attributed source text, not independently verified Valve policy.
 - Updated `index.md`, the Telegram X shares log, and `log.md`; all three raw body SHA-256 values verified.
+<<<<<<< HEAD
+=======
+
+## [2026-08-24] ingest | CrubTV / Valve rejection and goal-current-state-path principle
+
+- Source: `https://x.com/CrubTV/status/2091942214087606585?s=20`
+- Lyle refinements:
+  - “Here is the goal, here is where we are, and this is the path towards achieving it.”
+  - Most rejections say “no” without “why not,” leaving a causal vacuum that makes the decision feel personal.
+- Raw transcripts:
+  - `raw/transcripts/2026-08-24-crubtv-valve-rejection-letter.md`
+  - `raw/transcripts/2026-08-24-lyle-goal-current-state-path-principle.md`
+  - `raw/transcripts/2026-08-24-lyle-why-not-rejection-feels-personal.md`
+- Created principles:
+  - `concepts/offshoots/rejection-that-preserves-agency.md`
+  - `concepts/offshoots/goal-current-state-path.md`
+- Core distinctions: reject present fit without sentencing a person's future; every useful improvement loop needs a legible goal, honest current state, and credible path across the gap; a truthful “why not” prevents institutional silence from becoming an identity-level verdict.
+- Evidence limits: the letter and follow-ups were recovered through X Search with image understanding and are preserved as attributed source text, not independently verified Valve policy.
+- Updated `index.md`, the Telegram X shares log, and `log.md`; all three raw body SHA-256 values verified.
+>>>>>>> FETCH_HEAD
