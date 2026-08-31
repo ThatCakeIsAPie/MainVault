@@ -5,6 +5,22 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-08-31] ingest | Ugkbodybuilding insulin-spike reply on fake Blizzard study
+- Raw: [[raw/transcripts/lyle-x-share-2094235666825499025]]
+- Created: [[faleth/mindset/extract-the-mechanism-swap-the-vehicle-2026]]
+- Why: comment chain cargo-cults the Blizzard; one reply extracts insulin spike and swaps the vehicle
+- Shares log + index updated
+
+## [2026-08-30] create | VXE open to-dos (Lyle capture)
+- Created: [[business/vxe/open-todos]]
+- Why: Lyle asked Atlas to save three VXE to-dos: solicitation follow-up procedure, SAR submitted for every SAR objection, pricing (high priority).
+- Index updated
+
+## [2026-08-30] create | Federal electronics-repair TAM from USASpending
+- Created: [[business/vxe/federal-electronics-repair-market-usaspending-2026]]
+- Why: Lyle asked VXE to size USASpending electronics repair (TAM, not a quote). Core PSC J058+J059 FY21–25 obligated $8.938B (~$1.788B/year); FY26 YTD through 2026-08-30 $938.4M. New-buy PSC 58/59 kept separate. SAM opportunity volume not pulled (API 404).
+- Index updated
+
 ## [2026-08-29] ingest | Teknium quotes Box Hermes “company brain”
 - Raw: [[raw/transcripts/lyle-x-share-2093537700561461374]]
 - Created: [[faleth/process/governed-content-plane-not-company-brain-2026]]

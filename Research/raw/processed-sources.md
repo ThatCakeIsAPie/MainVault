@@ -1,7 +1,7 @@
 ---
 title: Processed Sources Tracker
 created: 2026-05-18
-updated: 2026-08-29
+updated: 2026-08-31
 ---
 
 # Processed Sources Tracker
@@ -13,6 +13,8 @@ This file tracks which source notes and folders have already been reviewed for p
 - List specific files when only a sample was taken
 
 ## Telegram / conversation
+
+- **2026-08-31** — Ugkbodybuilding insulin-spike reply on Satoshipeptides fake DQ Blizzard MPS meme (status 2094235666825499025, root 2094219502166663273). Raw: `Research/raw/transcripts/lyle-x-share-2094235666825499025.md`. Created `Research/faleth/mindset/extract-the-mechanism-swap-the-vehicle-2026.md`. Sources not moved.
 
 - **2026-08-29** — Teknium quotes Box Hermes “company brain” (status 2093537700561461374). Raw: `Research/raw/transcripts/lyle-x-share-2093537700561461374.md`. Created `Research/faleth/process/governed-content-plane-not-company-brain-2026.md`. Sources not moved.
 

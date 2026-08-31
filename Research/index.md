@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-29 | Total pages: 56+
+> Last updated: 2026-08-30 | Total pages: 57+
 
 ## Meta / schema
 
@@ -96,6 +96,7 @@
 - [[faleth/mindset/action-without-audience-permission-2026]] — Stop treating imagined spectators as a permissioning authority; act when the feared audience is neither real nor consequential.
 - [[faleth/mindset/unstructured-time-as-cognitive-infrastructure-2026]] — Preserve input-free space for synthesis, reflection, and original judgment; Claude screenshot claims remain contested pending stronger evidence.
 - [[faleth/mindset/eschatology-shapes-present-stewardship-2026]] — Future expectations shape present Christian posture; Christ-centered preparation, redemptive stewardship, and hope without pretending one image settles eschatological debates.
+- [[faleth/mindset/extract-the-mechanism-swap-the-vehicle-2026]] — Isolate the lever in a meme or ritual, then swap the vehicle; do not cargo-cult the Blizzard.
 
 **Bridge & strategy**
 - [[faleth/bridge-strategy/game-finish-bridge-2026]] — Indie game ship as cash-timing bridge alongside GovCon deals.
@@ -103,8 +104,10 @@
 
 ## VXE / GovCon ops
 
+- [[business/vxe/open-todos]] — Living VXE working list (pricing, solicitation follow-up, SAR-objection responses).
 - [[business/vxe/piee-solicitation-email-notifications-after-proposal-manager-activation]] — After admin activates Proposal Manager (SOL): confirm Active, SOL POC emails, Outlook routing, acceptance test; no BOT/RPA scrape by default.
 - [[business/vxe/full-time-transition-research-2026]] — Five-path facility and income transition research (June 2026).
+- [[business/vxe/federal-electronics-repair-market-usaspending-2026]] — USASpending TAM: PSC J058+J059 ~$1.79B/year obligated FY2021–FY2025; new-buy PSC 58 excluded; small-business set-aside floor ~$126M/year.
 
 **Governance & operating style**
 - [[faleth/governance/peaceful-fork-voluntary-alignment-2026]] — Voluntary alignment and peaceful fork without coercive upline rent.

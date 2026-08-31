@@ -2,7 +2,7 @@
 type: note
 title: Lyle Telegram X Shares Log
 created: '2026-06-22T00:00:00+00:00'
-updated: '2026-08-29T00:00:00+00:00'
+updated: '2026-08-31T00:00:00+00:00'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -18,6 +18,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-08-31 | [2094235666825499025](https://x.com/Ugkbodybuilding/status/2094235666825499025) | this reply in this entire comment chain is actually kinda crazy | [[research/raw/transcripts/lyle-x-share-2094235666825499025]] | [[research/faleth/mindset/extract-the-mechanism-swap-the-vehicle-2026]] |
 | 2026-08-29 | [2093537700561461374](https://x.com/Teknium/status/2093537700561461374) | architecture of Box+Hermes (retry after gateway restore) | [[research/raw/transcripts/lyle-x-share-2093537700561461374]] | [[research/faleth/process/governed-content-plane-not-company-brain-2026]] |
 | 2026-08-27 | [2092445686331740219](https://x.com/iamlukethedev/status/2092445686331740219) | Did this PR get accepted? HUD screen-draw annotations | [[research/raw/transcripts/lyle-x-share-2092445686331740219]] | [[research/faleth/process/hermes-hud-overlay-as-context-2026]]; [[research/raw/sources/hermes-agent-pr-94350-2026-08-27]] |
 | 2026-08-24 | [2091942214087606585](https://x.com/CrubTV/status/2091942214087606585) | coolest rejection letter | [[research/raw/transcripts/2026-08-24-crubtv-valve-rejection-letter]] | [[research/concepts/offshoots/rejection-that-preserves-agency]] |
