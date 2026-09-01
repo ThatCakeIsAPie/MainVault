@@ -5,6 +5,12 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-09-01] ingest | RoundtableSpace Obsidian official CLI
+- Raw: [[raw/transcripts/lyle-x-share-2094723185904365880]]
+- Created: [[faleth/process/obsidian-cli-as-semantic-vault-interface-2026]]
+- Why: filesystem access is not a vault API; official CLI is the semantic plane (tasks, Bases, link-safe moves). Tweet version 1.12.0 is not the install bar (docs: 1.12.7+)
+- Shares log + index updated
+
 ## [2026-08-31] ingest | Ugkbodybuilding insulin-spike reply on fake Blizzard study
 - Raw: [[raw/transcripts/lyle-x-share-2094235666825499025]]
 - Created: [[faleth/mindset/extract-the-mechanism-swap-the-vehicle-2026]]

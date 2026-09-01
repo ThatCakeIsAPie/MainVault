@@ -193,5 +193,6 @@
 - [[faleth/process/hermes-bot-mode-persistent-profiles-2026]] — Hermes Bot Mode treats named agent profiles as standing teammates with jobs, memory, and inter-bot chat, distinct from disposable sessions and from mid-flight subagent steering.
 - [[faleth/process/hermes-hud-overlay-as-context-2026]] — HUD overlay parks on the live app; bar position is the referent. Screen-draw (`annotate_screen`) is a 2026-08-27 OPEN PR, not shipped here.
 - [[faleth/process/governed-content-plane-not-company-brain-2026]] — Box+Hermes is a permissioned content/retrieval plane plus orchestrator, not a company brain; steal the planes, not the product.
+- [[faleth/process/obsidian-cli-as-semantic-vault-interface-2026]] — Official Obsidian CLI is the semantic vault API (tasks, Bases, link-safe moves), not the first time agents can touch markdown.
 - [[faleth/process/owner-manages-agent-manager-not-the-work-2026]] — Owner manages a named manager-agent; that agent owns review and the next specialist hire; inbound jobs are the scoreboard.
 

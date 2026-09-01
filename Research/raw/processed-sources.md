@@ -1,7 +1,7 @@
 ---
 title: Processed Sources Tracker
 created: 2026-05-18
-updated: 2026-08-31
+updated: 2026-09-01
 ---
 
 # Processed Sources Tracker
@@ -13,6 +13,8 @@ This file tracks which source notes and folders have already been reviewed for p
 - List specific files when only a sample was taken
 
 ## Telegram / conversation
+
+- **2026-09-01** — RoundtableSpace Obsidian official CLI (status 2094723185904365880). Raw: `Research/raw/transcripts/lyle-x-share-2094723185904365880.md`. Created `Research/faleth/process/obsidian-cli-as-semantic-vault-interface-2026.md`. Official help https://help.obsidian.md/cli verified same turn. Sources not moved.
 
 - **2026-08-31** — Ugkbodybuilding insulin-spike reply on Satoshipeptides fake DQ Blizzard MPS meme (status 2094235666825499025, root 2094219502166663273). Raw: `Research/raw/transcripts/lyle-x-share-2094235666825499025.md`. Created `Research/faleth/mindset/extract-the-mechanism-swap-the-vehicle-2026.md`. Sources not moved.
 
