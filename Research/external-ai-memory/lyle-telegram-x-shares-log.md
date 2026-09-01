@@ -2,11 +2,7 @@
 type: note
 title: Lyle Telegram X Shares Log
 created: '2026-06-22T00:00:00+00:00'
-<<<<<<< HEAD
-updated: '2026-08-24T00:00:00+00:00'
-=======
-updated: '2026-08-24T00:00:00+00:00'
->>>>>>> FETCH_HEAD
+updated: '2026-09-01T00:00:00+00:00'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -22,10 +18,12 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
-<<<<<<< HEAD
-=======
+| 2026-09-01 | [2094723185904365880](https://x.com/RoundtableSpace/status/2094723185904365880) | ambient share | [[research/raw/transcripts/lyle-x-share-2094723185904365880]] | [[research/faleth/process/obsidian-cli-as-semantic-vault-interface-2026]] |
+| 2026-08-31 | [2094235666825499025](https://x.com/Ugkbodybuilding/status/2094235666825499025) | this reply in this entire comment chain is actually kinda crazy | [[research/raw/transcripts/lyle-x-share-2094235666825499025]] | [[research/faleth/mindset/extract-the-mechanism-swap-the-vehicle-2026]] |
+| 2026-08-29 | [2093537700561461374](https://x.com/Teknium/status/2093537700561461374) | architecture of Box+Hermes (retry after gateway restore) | [[research/raw/transcripts/lyle-x-share-2093537700561461374]] | [[research/faleth/process/governed-content-plane-not-company-brain-2026]] |
+| 2026-08-27 | [2092445686331740219](https://x.com/iamlukethedev/status/2092445686331740219) | Did this PR get accepted? HUD screen-draw annotations | [[research/raw/transcripts/lyle-x-share-2092445686331740219]] | [[research/faleth/process/hermes-hud-overlay-as-context-2026]]; [[research/raw/sources/hermes-agent-pr-94350-2026-08-27]] |
 | 2026-08-24 | [2091942214087606585](https://x.com/CrubTV/status/2091942214087606585) | coolest rejection letter | [[research/raw/transcripts/2026-08-24-crubtv-valve-rejection-letter]] | [[research/concepts/offshoots/rejection-that-preserves-agency]] |
->>>>>>> FETCH_HEAD
+| 2026-08-24 | [2091893618801885456](https://x.com/NousResearch/status/2091893618801885456) | ambient share; Hermes HUD Mode WoW overlay | [[research/raw/transcripts/lyle-x-share-2091893618801885456]] | [[research/faleth/process/hermes-hud-overlay-as-context-2026]] |
 | 2026-08-17 | [2088722152283308243](https://x.com/Gundamritter/status/2088722152283308243) | X bookmark ingest (daily cron) | [[research/raw/x-bookmarks/2026-08-15/2088722152283308243]] | [[research/concepts/offshoots/echthros-vs-polemios-enemy-categories]] |
 | 2026-08-14 | [2088365268443496586](https://x.com/0xSero/status/2088365268443496586) | Oddly related | [[research/raw/transcripts/lyle-x-share-2088365268443496586]] | [[research/faleth/content/x-creator-payout-impressions-signal-2026]] |
 | 2026-08-14 | [2088305236003926468](https://x.com/HouseHackerJon/status/2088305236003926468) | ambient share | [[research/raw/transcripts/lyle-x-share-2088305236003926468]] | [[research/faleth/process/owner-manages-agent-manager-not-the-work-2026]] |

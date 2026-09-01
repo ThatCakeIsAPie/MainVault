@@ -1,7 +1,7 @@
 ---
 title: Processed Sources Tracker
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-09-01
 ---
 
 # Processed Sources Tracker
@@ -11,6 +11,16 @@ This file tracks which source notes and folders have already been reviewed for p
 ## Format
 - `YYYY-MM-DD` — Folder or note reviewed
 - List specific files when only a sample was taken
+
+## Telegram / conversation
+
+- **2026-09-01** — RoundtableSpace Obsidian official CLI (status 2094723185904365880). Raw: `Research/raw/transcripts/lyle-x-share-2094723185904365880.md`. Created `Research/faleth/process/obsidian-cli-as-semantic-vault-interface-2026.md`. Official help https://help.obsidian.md/cli verified same turn. Sources not moved.
+
+- **2026-08-31** — Ugkbodybuilding insulin-spike reply on Satoshipeptides fake DQ Blizzard MPS meme (status 2094235666825499025, root 2094219502166663273). Raw: `Research/raw/transcripts/lyle-x-share-2094235666825499025.md`. Created `Research/faleth/mindset/extract-the-mechanism-swap-the-vehicle-2026.md`. Sources not moved.
+
+- **2026-08-29** — Teknium quotes Box Hermes “company brain” (status 2093537700561461374). Raw: `Research/raw/transcripts/lyle-x-share-2093537700561461374.md`. Created `Research/faleth/process/governed-content-plane-not-company-brain-2026.md`. Sources not moved.
+
+- **2026-08-24** — Fertility incentives thesis + ChatGPT US baby-boom causes paste. Raw: `Research/raw/transcripts/lyle-telegram-fertility-incentives-2026-08-24.md`, `Research/raw/transcripts/lyle-telegram-chatgpt-baby-boom-causes-2026-08-24.md`. Created offshoot `family-formation-demographic-flywheel` (required loop) and query `fertility-crisis-is-incentives`. Adjacent, not merged: fertility as nonrenewable life-window in `wholeness-over-unidimensional-perfection-2026` / `portfolio-life-as-antifragile-strategy`. Sources not moved.
 
 ## LTD Amway
 

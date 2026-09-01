@@ -1,7 +1,7 @@
 ---
 title: Self-Writing Vault as an Operating Loop (2026)
 created: 2026-07-13
-updated: 2026-08-10
+updated: 2026-09-01
 type: principle
 tags: [ai, software, systems, automation, personal-development]
 sources:
@@ -54,6 +54,8 @@ That does **not** make agent logs an unfiltered psychological ground truth. Peop
 - [[SOURCE-MANIFEST]]
 - [[OKF-COMPATIBILITY]]
 - [[faleth/process/hermes-cloud-and-x-mcp-2026]]
+- [[faleth/process/governed-content-plane-not-company-brain-2026]]
+- [[faleth/process/obsidian-cli-as-semantic-vault-interface-2026]]
 
 ## Provenance
 

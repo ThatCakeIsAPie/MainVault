@@ -67,4 +67,5 @@ VXE operates in the government contracts space.
 - [[offshoots/contribution-over-wage-compensation]] — GovCon operator upside vs wage dependence.
 - [[offshoots/self-governance-by-contributors]] — Partnership structure preserving operator agency.
 - [[research/business/vxe/full-time-transition-research-2026]] — Five-path facility and income transition research.
+- [[research/business/vxe/piee-solicitation-email-notifications-after-proposal-manager-activation]] — After Proposal Manager (SOL) is activated: native PIEE solicitation email path (POC, Outlook, test); not BOT/RPA.
 - [[faleth/mindset/transition-agency-2026]] — Lyle's agency-first transition mindset (GovCon timeline).

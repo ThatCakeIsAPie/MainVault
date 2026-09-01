@@ -100,6 +100,10 @@ Not now. Possible first-wave Faleth subsidiary after VXE has generated cash for 
 
 The possible gap is identity + shelf: a protein customer can walk in, grab, pay, go.
 
+## Shelf menu
+
+First live board (9 names, Cut/Bulk = 18 labels): [[2026-08-23 - GoTein Shelf Menu v1]]
+
 ## Unit economics
 
 First pass: [[2026-08-16 - GoTein Unit Economics]]

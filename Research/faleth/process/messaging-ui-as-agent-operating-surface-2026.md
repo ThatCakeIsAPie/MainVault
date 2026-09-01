@@ -1,7 +1,7 @@
 ---
 title: Messaging UI as the Agent Operating Surface
 created: 2026-08-12
-updated: 2026-08-14
+updated: 2026-08-24
 type: principle
 tags: [ai, software, infrastructure, systems, leverage]
 sources:
@@ -12,6 +12,7 @@ sources:
   - raw/x-bookmarks/2026-08-11/2087234458336604370.md
   - raw/x-bookmarks/2026-08-13/2088003994904113614.md
   - raw/transcripts/lyle-x-share-2088305236003926468.md
+  - raw/transcripts/lyle-x-share-2091893618801885456.md
 confidence: medium
 ---
 
@@ -74,6 +75,8 @@ From the launch + endorsement, keep these as design criteria — not brand loyal
 | Work actually moves | Verified tool outcomes, not self-reported “done” |
 
 Voice is an additional edge (see [[research/faleth/process/delta-phone-interface-grok-voice-hermes-2026]]): ears/mouth can move to Grok Voice or local STT/TTS, but **Hermes remains the operating system**.
+
+Local Desktop now has a fourth pointing method: **HUD overlay**. Park the chrome-free bar on the live app; "this/here/that page" resolve to what sits underneath it. Messaging stays the remote cockpit. HUD is the stay-in-the-work cockpit. See [[faleth/process/hermes-hud-overlay-as-context-2026]].
 
 ## Competitive read (calm, not fanboy)
 
