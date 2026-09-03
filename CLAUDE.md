@@ -6,6 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is an [Obsidian](https://obsidian.md/) knowledge vault — a collection of interconnected Markdown notes. There are no build systems, tests, or compiled artifacts.
 
+Prefer the official `obsidian` CLI for create/search/update when the desktop app is running (`obsidian version` should print `1.13.7`). Paths are vault-relative. If the CLI cannot find Obsidian, start it with `obsidian-app` and retry.
+
 ## Structure
 
 ```

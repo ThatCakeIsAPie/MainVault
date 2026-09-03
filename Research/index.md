@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-30 | Total pages: 57+
+> Last updated: 2026-09-01 | Total pages: 151+
 
 ## Meta / schema
 
@@ -195,4 +195,3 @@
 - [[faleth/process/governed-content-plane-not-company-brain-2026]] — Box+Hermes is a permissioned content/retrieval plane plus orchestrator, not a company brain; steal the planes, not the product.
 - [[faleth/process/obsidian-cli-as-semantic-vault-interface-2026]] — Official Obsidian CLI is the semantic vault API (tasks, Bases, link-safe moves), not the first time agents can touch markdown.
 - [[faleth/process/owner-manages-agent-manager-not-the-work-2026]] — Owner manages a named manager-agent; that agent owns review and the next specialist hire; inbound jobs are the scoreboard.
-

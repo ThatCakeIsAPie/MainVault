@@ -4,7 +4,7 @@ created: 2026-08-24
 updated: 2026-08-24
 type: principle
 tags: [leadership, culture, standards, personal-development]
-sources: [raw/transcripts/2026-08-24-crubtv-valve-rejection-letter.md]
+sources: [raw/transcripts/2026-08-24-crubtv-valve-rejection-letter.md, raw/transcripts/2026-08-24-lyle-why-not-rejection-feels-personal.md]
 confidence: medium
 ---
 
@@ -23,6 +23,14 @@ A high-quality rejection does not blur the standard or manufacture false hope. I
 Valve rejected the application without lowering its hiring bar. It explained that its structure depended on experienced people capable of substantial independent contribution, named the approximate experience profile, and described the harder-to-measure traits that separated ordinary candidates from exceptional ones. Then it reopened the future: perfect the craft and contact us again.
 
 That combination made the rejection useful. It converted an opaque institutional verdict into a development map. Six years into a gaming career, the recipient still remembered the person who wrote it and credited the letter with strengthening his resolve.
+
+## Why an unexplained no feels personal
+
+Most rejection says only **no**, not **why not**. That creates a causal vacuum. The rejected person must invent an explanation, and the easiest explanation is often identity-level: *I am not good enough; they saw something wrong with me.*
+
+A truthful reason relocates the decision from the person's worth to the present relationship between the person and the standard. “You do not yet demonstrate the independent experience this structure requires” is bounded and actionable. “No” alone can feel like an unbounded verdict on the self.
+
+The reason does not have to erase disappointment or become exhaustive coaching. It only has to make the actual criterion legible enough that the recipient is not forced to treat institutional silence as a judgment of human value.
 
 ## Underlying pattern
 
