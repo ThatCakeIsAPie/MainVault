@@ -22,3 +22,5 @@ The simplicity of this is you won't have to twist someone's arm for them to buy 
 These are things that people need.
 There are no businesses worth anything that are free.
 The starter packs are optional, but on this team, it is mandatory to start with two starter kits. Why? Because what business opens its doors with no products on the shelves?
+Tyler had to realize that maybe he didn't have everything figured out and neither did his parents. That is a tough pill to swallow, but being able to get around those who do have more figured out and pick their brains are able to grow so much more.
+The mentorship opportunities are free as long as you are willing to stop being lazy and start moving.
