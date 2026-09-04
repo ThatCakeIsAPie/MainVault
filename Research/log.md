@@ -5,6 +5,12 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-09-03] ingest | Hundreds for team and customers
+- Raw: [[raw/transcripts/lyle-telegram-hundreds-team-and-customers-2026-09-03]]
+- Created: [[queries/hundreds-for-team-and-customers]]
+- Updated: pipeline-abundance, recruiting playbook, network-growth OS ratio stack, reconciled-tensions denominators
+- Why: Lyle's dual-100s courage/volume phrase; 10–20 keep; 10 personals → ~100 interviews/month → linear ~100/year. Does not replace one-in-twelve Platinum math.
+
 ## [2026-09-01] ingest | RoundtableSpace Obsidian official CLI
 - Raw: [[raw/transcripts/lyle-x-share-2094723185904365880]]
 - Created: [[faleth/process/obsidian-cli-as-semantic-vault-interface-2026]]

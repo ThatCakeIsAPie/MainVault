@@ -1,7 +1,7 @@
 ---
 title: Pipeline Abundance Through Repetition
 created: 2026-06-04
-updated: 2026-07-16
+updated: 2026-09-03
 type: concept
 tags: [business, operations, mental-model, framework]
 sources:
@@ -11,6 +11,7 @@ sources:
   - Business/LTD Amway/Info Sessions/2025/04_10_25 Richard Anderson.md
   - Business/LTD Amway/Info Sessions/2026/04_02_26 Chase McIlroy.md
   - raw/x-bookmarks/2026-07-15/2077258699412812056.md
+  - raw/transcripts/lyle-telegram-hundreds-team-and-customers-2026-09-03.md
 confidence: medium
 ---
 
@@ -36,6 +37,12 @@ This is the practical operating system behind [[offshoots/networking-and-connect
 
 A bookmarked aphorism compresses the idea into “take more shots” across clients, friends, and dating, using illustrative 1-in-100 ratios. The durable business lesson is **increase qualified attempts so one outcome does not control the pipeline**. The ratios are rhetoric, not measured conversion rates; track actual channel-specific numbers and improve targeting, offer quality, and follow-up through [[offshoots/networking-and-connection-skills]]. Human relationships also should not be reduced to interchangeable funnel units. [[raw/x-bookmarks/2026-07-15/2077258699412812056]]
 
+### The 100s (Lyle, 2026-09-03)
+
+Lyle’s later compression: want a team, interview 100; want customers, tell 100 about the products; if either is not enough, do 100 more. Expected keep is about 10–20 per hundred. Ten personals sharing about 100 interviews a month is the duplication sketch (~10 adds a month, ~100 on the team in a year).
+
+This is volume/courage and duplicated activity, not a measured conversion table and not a replacement for the Platinum funnel. Canonical synthesis: [[queries/hundreds-for-team-and-customers]].
+
 ### Why It Matters
 
 A full pipeline deletes desperation. It also converts rejection from personal judgment into process feedback. That makes [[offshoots/sweat-equity-as-primary-selection-mechanism]] more concrete: sweat equity is not generic effort; it is repeated, tracked, relational action.
@@ -46,6 +53,7 @@ A full pipeline deletes desperation. It also converts rejection from personal ju
 - [[offshoots/persistent-consistent-action]]
 - [[offshoots/sweat-equity-as-primary-selection-mechanism]]
 - [[offshoots/systems-and-duplication-as-leverage]]
+- [[queries/hundreds-for-team-and-customers]]
 
 ### References
 
@@ -54,3 +62,4 @@ A full pipeline deletes desperation. It also converts rejection from personal ju
 - [[Business/LTD Amway/Others/2026/1_16_26 FNL Josh and Taylor]]
 - [[Business/LTD Amway/Info Sessions/2025/04_10_25 Richard Anderson]]
 - [[Business/LTD Amway/Info Sessions/2026/04_02_26 Chase McIlroy]]
+- [[raw/transcripts/lyle-telegram-hundreds-team-and-customers-2026-09-03]]

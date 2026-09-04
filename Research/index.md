@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-09-01 | Total pages: 151+
+> Last updated: 2026-09-03 | Total pages: 152+
 
 ## Meta / schema
 
@@ -148,6 +148,7 @@
 - [[faleth-capital-operating-philosophy]] — Durable synthesis of Faleth's contribution, ownership, governance, trust, and discipleship logic.
 - [[heart-upstream-of-identity-theological-horticulture]] — Theological horticulture metaphor: heart/root upstream of identity and behavior/fruit.
 - [[how-ltd-amway-functions-as-leadership-incubator]] — Explains how LTD Amway develops leadership through mentorship, duplication, environment, and sweat equity.
+- [[hundreds-for-team-and-customers]] — Want a team? Interview 100. Want customers? Tell 100. Not enough? Another 100. Keep ~10–20; 10 personals share ~100 interviews/month.
 - [[trust-as-root-of-business-systems]] — Synthesizes trust as the root asset beneath compensation, mentorship, delegation, governance, sales, and culture.
 
 ## X bookmark principles (2026-07)

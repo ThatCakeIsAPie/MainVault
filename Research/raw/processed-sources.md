@@ -1,7 +1,7 @@
 ---
 title: Processed Sources Tracker
 created: 2026-05-18
-updated: 2026-09-01
+updated: 2026-09-03
 ---
 
 # Processed Sources Tracker
@@ -13,6 +13,8 @@ This file tracks which source notes and folders have already been reviewed for p
 - List specific files when only a sample was taken
 
 ## Telegram / conversation
+
+- **2026-09-03** — Lyle dual-100s Amway phrase (interview 100 / tell 100 / another 100; 10–20 keep; 10 personals → ~100 interviews/month). Raw: `Research/raw/transcripts/lyle-telegram-hundreds-team-and-customers-2026-09-03.md`. Created query `hundreds-for-team-and-customers`. Patched pipeline-abundance, recruiting playbook, network-growth OS, reconciled-tensions. Sources not moved.
 
 - **2026-09-01** — RoundtableSpace Obsidian official CLI (status 2094723185904365880). Raw: `Research/raw/transcripts/lyle-x-share-2094723185904365880.md`. Created `Research/faleth/process/obsidian-cli-as-semantic-vault-interface-2026.md`. Official help https://help.obsidian.md/cli verified same turn. Sources not moved.
 
