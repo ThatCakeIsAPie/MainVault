@@ -4,7 +4,7 @@ created: 2026-07-24
 updated: 2026-07-24
 type: principle
 tags: [ai, software, systems, skills, leverage]
-sources: [raw/x-bookmarks/2026-07-23/2080158264323448978.md]
+sources: [raw/x-bookmarks/26-07-23/2080158264323448978.md]
 confidence: low
 contested: true
 ---
@@ -48,4 +48,4 @@ This is one creator-reported video demonstration. The skill's implementation, ge
 
 ## Provenance
 
-- [[raw/x-bookmarks/2026-07-23/2080158264323448978]]
+- [[raw/x-bookmarks/26-07-23/2080158264323448978]]

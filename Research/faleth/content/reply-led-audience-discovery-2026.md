@@ -5,7 +5,7 @@ updated: 2026-07-27
 type: principle
 tags: [marketing, networking, strategy, persistence]
 sources:
-  - raw/x-bookmarks/2026-07-25/2081077962682835074.md
+  - raw/x-bookmarks/26-07-25/2081077962682835074.md
 confidence: low
 ---
 
@@ -27,7 +27,7 @@ This is distribution before production applied to public learning: participate i
 
 ## Evidence and limits
 
-Sudo su reports using **100–150 replies per day** to reach 10,000 followers and describes a later shift toward original posts. That is one creator's retrospective, not a controlled growth law. Account age, topic, reply quality, platform ranking, and survivorship bias are unknown; the specific volume should not become cargo-cult quota theater. [[raw/x-bookmarks/2026-07-25/2081077962682835074]]
+Sudo su reports using **100–150 replies per day** to reach 10,000 followers and describes a later shift toward original posts. That is one creator's retrospective, not a controlled growth law. Account age, topic, reply quality, platform ranking, and survivorship bias are unknown; the specific volume should not become cargo-cult quota theater. [[raw/x-bookmarks/26-07-25/2081077962682835074]]
 
 The testable version is smaller: publish a sustainable number of high-signal replies, track profile visits and relevant follower/conversation quality, and compare the result with equivalent effort spent on standalone posts. The KPI is useful relationships and qualified attention—not comment count.
 

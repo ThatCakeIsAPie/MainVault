@@ -50,4 +50,4 @@ This pattern is a feature to be designed around, not a bug to be corrected.
 
 - Lyle shared via Telegram: **2026-06-25** — [X post](https://x.com/i/status/2069890117456552206) (Adam Shuaib — anti-charismatic exceptional work).
 - Raw ingest: [[research/raw/transcripts/lyle-x-share-2069890117456552206]]
-- Re-bookmarked: [[research/raw/x-bookmarks/2026-07-11/2069890117456552206]] (2026-07-11 cron)
+- Re-bookmarked: [[research/raw/x-bookmarks/26-07-11/2069890117456552206]] (2026-07-11 cron)

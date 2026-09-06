@@ -5,7 +5,7 @@ updated: 2026-07-29
 type: framework
 tags: [ai, llm, inference, infrastructure, architecture, systems]
 sources:
-  - raw/x-bookmarks/2026-07-27/2081873321516528053.md
+  - raw/x-bookmarks/26-07-27/2081873321516528053.md
 confidence: high
 ---
 
@@ -34,4 +34,4 @@ Use this framework when comparing hosted endpoints, self-hosted inference, or ag
 ## Provenance
 
 - X bookmark by @0x0SojalSec pointing to a 6:40 video; local transcription recovered the five explanations and the linked original post named the techniques.
-- Raw bookmark: [[raw/x-bookmarks/2026-07-27/2081873321516528053]]
+- Raw bookmark: [[raw/x-bookmarks/26-07-27/2081873321516528053]]

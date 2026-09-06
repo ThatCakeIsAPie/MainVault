@@ -5,7 +5,7 @@ updated: 2026-07-11
 type: principle
 tags: [ai, llm, skills, mental-model, systems]
 sources:
-  - research/raw/x-bookmarks/2026-07-11/2069884250132721840.md
+  - research/raw/x-bookmarks/26-07-11/2069884250132721840.md
 confidence: medium
 ---
 
@@ -30,7 +30,7 @@ A ~24-minute Anthropic engineer talk on **how Claude’s own team prompts** was 
 ## Provenance
 
 - X bookmark batch 2026-07-11 — [@Raytar](https://x.com/Raytar/status/2069884250132721840)
-- Raw: [[research/raw/x-bookmarks/2026-07-11/2069884250132721840]]
+- Raw: [[research/raw/x-bookmarks/26-07-11/2069884250132721840]]
 - Note: original Anthropic video may be unavailable; claims are secondhand.
 
 ## Related

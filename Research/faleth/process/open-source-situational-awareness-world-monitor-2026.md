@@ -5,7 +5,7 @@ updated: 2026-07-21
 type: concept
 tags: [software, ai, open-source, infrastructure, strategy, data]
 sources:
-  - raw/x-bookmarks/2026-07-20/2079156922406875492.md
+  - raw/x-bookmarks/26-07-20/2079156922406875492.md
 confidence: medium
 contested: true
 ---
@@ -72,4 +72,4 @@ For GovCon work, the correct wedge is usually not â€œclone the whole war room.â€
 - [[faleth/process/file-native-agent-canvases-2026]]
 - [[faleth/process/ai-as-sparring-partner-house-method-2026]]
 - [[faleth/process/zero-data-retention-ai-procurement-control-2026]]
-- [[raw/x-bookmarks/2026-07-20/2079156922406875492]]
+- [[raw/x-bookmarks/26-07-20/2079156922406875492]]

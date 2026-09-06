@@ -5,7 +5,7 @@ updated: 2026-08-15
 type: concept
 tags: [ai, ml, open-source, architecture, inference, hardware]
 sources:
-  - raw/x-bookmarks/2026-08-14/2088152335008571532.md
+  - raw/x-bookmarks/26-08-14/2088152335008571532.md
 confidence: medium
 ---
 
@@ -17,7 +17,7 @@ confidence: medium
 
 ## What shipped
 
-@SandAI_HQ bookmarked MAGI-2 Preview as an open-source ultra-fine-grained MoE video model: **114B total parameters, ~6B activated per token**. The 2026-08-05 tech report and the Apache-2.0 inference repo back the launch copy. [[raw/x-bookmarks/2026-08-14/2088152335008571532]]
+@SandAI_HQ bookmarked MAGI-2 Preview as an open-source ultra-fine-grained MoE video model: **114B total parameters, ~6B activated per token**. The 2026-08-05 tech report and the Apache-2.0 inference repo back the launch copy. [[raw/x-bookmarks/26-08-14/2088152335008571532]]
 
 Inspected official materials:
 

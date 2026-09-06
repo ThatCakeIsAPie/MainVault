@@ -5,7 +5,7 @@ updated: 2026-07-19
 type: principle
 tags: [ai, llm, skills, systems, standards]
 sources:
-  - research/raw/x-bookmarks/2026-07-18/2078492579511906771.md
+  - research/raw/x-bookmarks/26-07-18/2078492579511906771.md
 confidence: medium
 ---
 
@@ -41,5 +41,5 @@ Use a defined language constraint when producing SOPs, agent runbooks, GovCon fu
 
 ## Provenance
 
-- Bookmark: [[research/raw/x-bookmarks/2026-07-18/2078492579511906771]]
+- Bookmark: [[research/raw/x-bookmarks/26-07-18/2078492579511906771]]
 - Source: [@geogristle on X](https://x.com/geogristle/status/2078492579511906771), bookmarked in the 2026-07-19 daily batch.

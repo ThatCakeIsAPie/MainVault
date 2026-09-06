@@ -5,8 +5,8 @@ updated: 2026-07-14
 type: principle
 tags: [mental-model, personal-development, philosophy, purpose, vision, persistence]
 sources:
-  - research/raw/x-bookmarks/2026-07-10/2071263156148519319.md
-  - raw/x-bookmarks/2026-07-14/2076508413962416274.md
+  - research/raw/x-bookmarks/26-07-10/2071263156148519319.md
+  - raw/x-bookmarks/26-07-14/2076508413962416274.md
 confidence: medium
 ---
 
@@ -42,7 +42,7 @@ For Lyle, the useful translation is not to romanticize the layoff or manufacture
 ## Provenance
 
 - X bookmark @thebeautyofsaas (2026-06-28), batch 2026-07-10.
-- Raw: [[research/raw/x-bookmarks/2026-07-10/2071263156148519319]]
+- Raw: [[research/raw/x-bookmarks/26-07-10/2071263156148519319]]
 
 ## Related
 

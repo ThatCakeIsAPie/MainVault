@@ -5,7 +5,7 @@ updated: 2026-07-10
 type: principle
 tags: [mental-model, personal-development, discipline, systems, operations]
 sources:
-  - research/raw/x-bookmarks/2026-07-10/2075058629301198853.md
+  - research/raw/x-bookmarks/26-07-10/2075058629301198853.md
 confidence: medium
 ---
 
@@ -35,7 +35,7 @@ Chronic fatigue is often less about raw workload and more about **unclosed loops
 ## Provenance
 
 - X bookmark @bluewdrift (2026-07-09), batch ingest 2026-07-10.
-- Raw: [[research/raw/x-bookmarks/2026-07-10/2075058629301198853]]
+- Raw: [[research/raw/x-bookmarks/26-07-10/2075058629301198853]]
 
 ## Related
 

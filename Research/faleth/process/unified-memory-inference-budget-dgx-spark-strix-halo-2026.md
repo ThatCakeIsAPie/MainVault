@@ -6,13 +6,13 @@ type: principle
 tags: [ai, llm, inference, hardware, systems]
 sources:
   - research/raw/transcripts/lyle-x-share-2082629254731440546.md
-  - raw/x-bookmarks/2026-07-30/2082629254731440546.md
-  - raw/x-bookmarks/2026-07-30/2082909527515779164.md
+  - raw/x-bookmarks/26-07-30/2082629254731440546.md
+  - raw/x-bookmarks/26-07-30/2082909527515779164.md
   - raw/articles/2026-07-31-waste-inference-engine-readme.md
-  - raw/x-bookmarks/2026-08-02/2083705845670650195.md
-  - raw/x-bookmarks/2026-08-12/2087493068735819924.md
-  - raw/x-bookmarks/2026-08-12/2087544650559025190.md
-  - raw/x-bookmarks/2026-08-13/2087983106972057602.md
+  - raw/x-bookmarks/26-08-02/2083705845670650195.md
+  - raw/x-bookmarks/26-08-12/2087493068735819924.md
+  - raw/x-bookmarks/26-08-12/2087544650559025190.md
+  - raw/x-bookmarks/26-08-13/2087983106972057602.md
 confidence: medium
 ---
 
@@ -28,7 +28,7 @@ Context is not free. Long context and concurrency expand KV cache; speculative d
 
 ## Storage-tier MoE serving — WASTE proof point
 
-WASTE demonstrates an important exception to the assumption that all expert weights must be memory-resident: keep the shared model trunk in RAM, arrange each expert as a single aligned record, stream only routed experts from internal NVMe, and use remaining RAM as a bounded expert cache. Its published Kimi K3 proof point converts the complete 2.78T-parameter model into a 982 GiB container and runs it on a 64 GB MacBook Pro at roughly **0.32–0.34 tok/s**. The measured deployment uses a 46.24 GB RAM budget, including a 17.56 GB expert cache; the engine reports a 29.05 GiB minimum at 4K context, but treats 64 GB and fast internal NVMe as the practical floor. [[raw/x-bookmarks/2026-07-30/2082909527515779164]] [[raw/articles/2026-07-31-waste-inference-engine-readme]]
+WASTE demonstrates an important exception to the assumption that all expert weights must be memory-resident: keep the shared model trunk in RAM, arrange each expert as a single aligned record, stream only routed experts from internal NVMe, and use remaining RAM as a bounded expert cache. Its published Kimi K3 proof point converts the complete 2.78T-parameter model into a 982 GiB container and runs it on a 64 GB MacBook Pro at roughly **0.32–0.34 tok/s**. The measured deployment uses a 46.24 GB RAM budget, including a 17.56 GB expert cache; the engine reports a 29.05 GiB minimum at 4K context, but treats 64 GB and fast internal NVMe as the practical floor. [[raw/x-bookmarks/26-07-30/2082909527515779164]] [[raw/articles/2026-07-31-waste-inference-engine-readme]]
 
 This changes **feasibility**, not necessarily **usability**. K3 reads about 17 GB of experts per token, and the published laptop result is closer to an offline private oracle than an interactive Hermes worker. More RAM also did not monotonically help: larger cache budgets pushed the operating system into paging and made decoding slower despite higher cache-hit rates. The transferable rule is therefore broader than unified memory: budget **resident trunk + one routed working set + useful cache + OS headroom**, then validate the storage path and latency target. “It generated a sentence” is a systems milestone, not a production SLA.
 
@@ -40,11 +40,11 @@ A single DGX Spark operator reports an empirical **~80 GB maximum weight target*
 - **Qwen 3.5 122B-A10B NVFP4:** 74 GB; claimed ~35 tok/s using MTP.
 - **StepFun 3.7 Flash Q4:** 108 GB; reported slow with little headroom, while the NVFP4 build reportedly failed to load and wedged the machine twice.
 
-These are practitioner measurements, not controlled benchmarks. Preserve the heuristic; reproduce the numbers before depending on them. [[research/raw/transcripts/lyle-x-share-2082629254731440546]] [[raw/x-bookmarks/2026-07-30/2082629254731440546]]
+These are practitioner measurements, not controlled benchmarks. Preserve the heuristic; reproduce the numbers before depending on them. [[research/raw/transcripts/lyle-x-share-2082629254731440546]] [[raw/x-bookmarks/26-07-30/2082629254731440546]]
 
 ### DeepSeek V4 Flash quantization ladder (2026-08-02)
 
-A second operator report adds a useful boundary test for **DeepSeek V4 Flash 0731** (284B total / 13B active MoE) in CUDA-enabled llama.cpp on one 128 GB Spark. The reported ladder is **UD-IQ3_XXS at 104 GB fully GPU-resident**, **IQ3_S at 116 GB too tight**, both 128 GB Q3 variants OOM, and the 162 GB Q8 build unable to fit. This does not invalidate the conservative 60–80 GB commissioning envelope: it shows that a 104 GB model can technically load when the intended KV cache and workload fit the remaining memory, while roughly 116 GB leaves too little operating room. [[raw/x-bookmarks/2026-08-02/2083705845670650195]]
+A second operator report adds a useful boundary test for **DeepSeek V4 Flash 0731** (284B total / 13B active MoE) in CUDA-enabled llama.cpp on one 128 GB Spark. The reported ladder is **UD-IQ3_XXS at 104 GB fully GPU-resident**, **IQ3_S at 116 GB too tight**, both 128 GB Q3 variants OOM, and the 162 GB Q8 build unable to fit. This does not invalidate the conservative 60–80 GB commissioning envelope: it shows that a 104 GB model can technically load when the intended KV cache and workload fit the remaining memory, while roughly 116 GB leaves too little operating room. [[raw/x-bookmarks/26-08-02/2083705845670650195]]
 
 The practical distinction is **safe operating target versus maximum loadable artifact**. Use 60–80 GB when buying for flexible context, concurrency, speculative decoding, and co-resident services; test larger artifacts only as workload-specific exceptions with measured KV growth and failure behavior.
 
@@ -126,11 +126,11 @@ Keep the layers separate: DS4 plus four large GPUs produce the throughput; Local
 
 This strengthens the procurement rule: specialized model-runtime co-design can materially outperform a generic server on fixed hardware, while interface quality determines whether that speed becomes real operator leverage. Raw tokens per second without an agent surface are a benchmark; tokens per second inside a working edit-run-debug loop are a tool.
 
-The bookmark preserves the same 0xSero demonstration already captured through Telegram, so it adds provenance rather than an independent second result. [[raw/x-bookmarks/2026-08-12/2087544650559025190]]
+The bookmark preserves the same 0xSero demonstration already captured through Telegram, so it adds provenance rather than an independent second result. [[raw/x-bookmarks/26-08-12/2087544650559025190]]
 
 ### One-box multimodal stack is not one-model residency (2026-08-13)
 
-Steve Darlow reports a complete open-weight creative loop on **one DGX Spark**: DeepSeek V4 Flash 0731, Qwen 3 VL 2B, Qwen Image 3, MiniMax H3, LTX 2.5, faster-whisper base, Chatterbox Turbo, and MiniMax Music 3. [[raw/x-bookmarks/2026-08-13/2087983106972057602]]
+Steve Darlow reports a complete open-weight creative loop on **one DGX Spark**: DeepSeek V4 Flash 0731, Qwen 3 VL 2B, Qwen Image 3, MiniMax H3, LTX 2.5, faster-whisper base, Chatterbox Turbo, and MiniMax Music 3. [[raw/x-bookmarks/26-08-13/2087983106972057602]]
 
 This is a **catalog claim**, not a memory budget. The post gives no concurrent-residency numbers, offload map, wall-clock, or accepted-result rates. The useful correction is still real: a 128 GB Spark can host a *menu* of local modalities if models are staged, not if every named weight file is expected to sit in unified memory at once. Commission the stack as sequential jobs with measured peak RAM per job. Do not treat “all on one Spark” as proof that H3 video, V4 Flash, and image/music models are a comfortable co-resident studio.
 
@@ -138,7 +138,7 @@ Contrast with [[faleth/process/magi-2-open-moe-video-generation-2026]]: MAGI-2�
 
 ### Long-context latency is a separate acceptance metric
 
-Mia reports backporting six vLLM 0.27 performance patches into a **two-DGX-Spark DeepSeek V4 Flash** deployment and describes a major latency improvement as context grows from **65K to 262K tokens**. The post does not provide the chart's underlying measurements, patch list, runtime configuration, prompt-processing rate, time-to-first-token, inter-token latency, or quality checks, so it is an operator signal rather than a reproducible benchmark. [[raw/x-bookmarks/2026-08-12/2087493068735819924]]
+Mia reports backporting six vLLM 0.27 performance patches into a **two-DGX-Spark DeepSeek V4 Flash** deployment and describes a major latency improvement as context grows from **65K to 262K tokens**. The post does not provide the chart's underlying measurements, patch list, runtime configuration, prompt-processing rate, time-to-first-token, inter-token latency, or quality checks, so it is an operator signal rather than a reproducible benchmark. [[raw/x-bookmarks/26-08-12/2087493068735819924]]
 
 The durable correction is still valuable: once decode throughput becomes comfortably interactive, **latency under realistic context** can dominate usability. Commissioning should therefore record time-to-first-token and tail latency at fixed context checkpoints—not merely average tok/s—and test whether runtime patches preserve stability and output quality. This complements [[faleth/process/llm-inference-serving-five-optimization-surfaces-2026]] and the accepted-job framing in [[faleth/process/frontier-model-cost-speed-tradeoff-2026]].
 

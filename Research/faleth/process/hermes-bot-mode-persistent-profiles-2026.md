@@ -5,7 +5,7 @@ updated: 2026-08-14
 type: principle
 tags: [ai, software, infrastructure, systems, leverage]
 sources:
-  - raw/x-bookmarks/2026-08-13/2088003994904113614.md
+  - raw/x-bookmarks/26-08-13/2088003994904113614.md
 confidence: medium
 ---
 
@@ -52,7 +52,7 @@ That maps onto the same stack already running as Delta: Telegram is the operator
 
 ## Related
 
-- [[raw/x-bookmarks/2026-08-13/2088003994904113614]]
+- [[raw/x-bookmarks/26-08-13/2088003994904113614]]
 - [[faleth/process/messaging-ui-as-agent-operating-surface-2026]]
 - [[faleth/process/hermes-subagent-orchestra-2026]]
 - [[faleth/process/hermes-agent-long-horizon-codebases-2026]]

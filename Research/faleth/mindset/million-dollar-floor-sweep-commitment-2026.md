@@ -5,7 +5,7 @@ updated: 2026-07-11
 type: principle
 tags: [discipline, personal-development, persistence, mental-model, standards]
 sources:
-  - research/raw/x-bookmarks/2026-07-11/2069818079744512167.md
+  - research/raw/x-bookmarks/26-07-11/2069818079744512167.md
 confidence: high
 ---
 
@@ -30,7 +30,7 @@ Terry Crews describes beating depression by **imagining he was paid a million do
 ## Provenance
 
 - X bookmark batch 2026-07-11 — [@saradotxyz](https://x.com/saradotxyz/status/2069818079744512167)
-- Raw: [[research/raw/x-bookmarks/2026-07-11/2069818079744512167]]
+- Raw: [[research/raw/x-bookmarks/26-07-11/2069818079744512167]]
 
 ## Related
 

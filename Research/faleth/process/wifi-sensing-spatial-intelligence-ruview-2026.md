@@ -5,7 +5,7 @@ updated: 2026-07-21
 type: concept
 tags: [hardware, ai, infrastructure, open-source, ethics, data]
 sources:
-  - raw/x-bookmarks/2026-07-20/2079236265254285617.md
+  - raw/x-bookmarks/26-07-20/2079236265254285617.md
 confidence: medium
 contested: true
 ---
@@ -73,4 +73,4 @@ This follows [[faleth/process/ai-as-sparring-partner-house-method-2026]]: the re
 - [[faleth/process/ai-as-sparring-partner-house-method-2026]]
 - [[faleth/process/zero-data-retention-ai-procurement-control-2026]]
 - [[faleth/process/open-source-situational-awareness-world-monitor-2026]]
-- [[raw/x-bookmarks/2026-07-20/2079236265254285617]]
+- [[raw/x-bookmarks/26-07-20/2079236265254285617]]

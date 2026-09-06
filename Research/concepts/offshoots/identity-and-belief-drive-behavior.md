@@ -13,8 +13,8 @@ sources:
     raw/transcripts/lyle-theological-horticulture-heart-upstream-identity-2026-06-04.md
   - >-
     raw/transcripts/lyle-religion-as-behavior-collection-churchianity-2026-06-04.md
-  - raw/x-bookmarks/2026-07-13/2076626535977554251.md
-  - raw/x-bookmarks/2026-07-15/2077197706326671377.md
+  - raw/x-bookmarks/26-07-13/2076626535977554251.md
+  - raw/x-bookmarks/26-07-15/2077197706326671377.md
 updated: '2026-07-16T00:00:00.000Z'
 confidence: medium
 ingested_via: 'mcp:put_page'
@@ -59,7 +59,7 @@ This makes identity more foundational than goal-setting. A person who sees himse
 
 A bookmarked *Psycho-Cybernetics* excerpt reinforces the same mechanism: self-image acts as a constraint on performance, while deliberately rehearsed mental pictures can help practice traits and attitudes before they feel natural. The useful operating claim is not that visualization replaces work; it is that **repetition should train both execution and the self-concept capable of sustaining it**. Pair imagined rehearsal with observable action and feedback through [[offshoots/persistent-consistent-action]].
 
-The bookmark is secondary social-media evidence, and its quotation/excerpt provenance was not independently verified; treat it as conceptual corroboration rather than a settled scientific result. [[raw/x-bookmarks/2026-07-15/2077197706326671377]]
+The bookmark is secondary social-media evidence, and its quotation/excerpt provenance was not independently verified; treat it as conceptual corroboration rather than a settled scientific result. [[raw/x-bookmarks/26-07-15/2077197706326671377]]
 
 ### Theological Frame: Heart Before Behavior
 

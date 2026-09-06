@@ -4,7 +4,7 @@ created: 2026-07-15
 updated: 2026-07-15
 type: concept
 tags: [personal-development, mental-model, systems, philosophy]
-sources: [raw/x-bookmarks/2026-07-13/2076704921601351856.md]
+sources: [raw/x-bookmarks/26-07-13/2076704921601351856.md]
 confidence: low
 contested: true
 ---

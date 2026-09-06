@@ -102,7 +102,7 @@
 
 - Fetched 50 bookmarks; 49 were already processed; ingested the 1 new bookmark.
 - Created immutable raw bookmark source:
-  - `raw/x-bookmarks/2026-08-15/2088722152283308243.md` — @Gundamritter quote-tweet: *polemios* (public/polis enemy) vs *echthros* (private/neighbor enemy) as the Matthew 5:44 category.
+  - `raw/x-bookmarks/26-08-15/2088722152283308243.md` — @Gundamritter quote-tweet: *polemios* (public/polis enemy) vs *echthros* (private/neighbor enemy) as the Matthew 5:44 category.
 - Created `concepts/offshoots/echthros-vs-polemios-enemy-categories.md` as a contested concept. Marked `contested: true`; *echthros* is not a sealed private-only box.
 - Updated `index.md` and `external-ai-memory/lyle-telegram-x-shares-log.md`.
 - No existing wiki page already owned this distinction; conflict-escalation and peaceful-fork were linked, not rewritten.
@@ -139,10 +139,10 @@
 
 - Fetched 50 bookmarks; 46 were already processed; ingested all 4 new bookmarks.
 - Created immutable raw bookmark sources:
-  - `raw/x-bookmarks/2026-08-14/2088076337445527670.md` — viral shelter-adoption video; no durable operating claim.
-  - `raw/x-bookmarks/2026-08-14/2088152335008571532.md` — Sand.ai MAGI-2 Preview: 114B / 6B-active open MoE video.
-  - `raw/x-bookmarks/2026-08-14/2088305236003926468.md` — HouseHackerJon Grok Bot plumbing thread; duplicate of yesterday's Telegram ingest.
-  - `raw/x-bookmarks/2026-08-13/2087983106972057602.md` — Steve Darlow one-Spark open creative stack catalog.
+  - `raw/x-bookmarks/26-08-14/2088076337445527670.md` — viral shelter-adoption video; no durable operating claim.
+  - `raw/x-bookmarks/26-08-14/2088152335008571532.md` — Sand.ai MAGI-2 Preview: 114B / 6B-active open MoE video.
+  - `raw/x-bookmarks/26-08-14/2088305236003926468.md` — HouseHackerJon Grok Bot plumbing thread; duplicate of yesterday's Telegram ingest.
+  - `raw/x-bookmarks/26-08-13/2087983106972057602.md` — Steve Darlow one-Spark open creative stack catalog.
 - Created `faleth/process/magi-2-open-moe-video-generation-2026.md`.
 - Updated `faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026.md`, `faleth/process/local-model-ownership-agency-2026.md`, and `faleth/process/local-minimax-h3-video-generation-tradeoffs-2026.md` with the Spark catalog vs residency distinction.
 - Updated `faleth/process/owner-manages-agent-manager-not-the-work-2026.md` with bookmark provenance only.
@@ -173,11 +173,11 @@
 
 - Fetched 50 bookmarks; 45 were already processed; ingested all 5 new bookmarks.
 - Created immutable raw bookmark sources:
-  - `raw/x-bookmarks/2026-08-13/2088003994904113614.md` — Teknium Hermes Bot Mode public beta: named bots with jobs, memory, and inter-bot chat.
-  - `raw/x-bookmarks/2026-08-13/2087969186219778252.md` — Dogan Ural Grok Bot summary of the re-open-sourced For You ranker; already distilled via Telegram.
-  - `raw/x-bookmarks/2026-08-12/2087602554616074709.md` — Joseph Spurgeon long-form natural-law argument that “natural” is teleology, not an animal-behavior catalog.
-  - `raw/x-bookmarks/2026-08-12/2087430803890323480.md` — quote-image reaction to a poverty-versus-abortion compassion claim.
-  - `raw/x-bookmarks/2026-08-12/2087543711097848292.md` — Portuguese bathroom-joke meme with photos.
+  - `raw/x-bookmarks/26-08-13/2088003994904113614.md` — Teknium Hermes Bot Mode public beta: named bots with jobs, memory, and inter-bot chat.
+  - `raw/x-bookmarks/26-08-13/2087969186219778252.md` — Dogan Ural Grok Bot summary of the re-open-sourced For You ranker; already distilled via Telegram.
+  - `raw/x-bookmarks/26-08-12/2087602554616074709.md` — Joseph Spurgeon long-form natural-law argument that “natural” is teleology, not an animal-behavior catalog.
+  - `raw/x-bookmarks/26-08-12/2087430803890323480.md` — quote-image reaction to a poverty-versus-abortion compassion claim.
+  - `raw/x-bookmarks/26-08-12/2087543711097848292.md` — Portuguese bathroom-joke meme with photos.
 - Created `faleth/process/hermes-bot-mode-persistent-profiles-2026.md`.
 - Created `concepts/offshoots/nature-as-telos-not-occurrence-catalog.md` as a contested concept capturing the telos-versus-occurrence distinction.
 - Updated `faleth/process/messaging-ui-as-agent-operating-surface-2026.md` and `faleth/process/hermes-subagent-orchestra-2026.md` to keep Bot Mode distinct from Grok Bot messaging and from parent-child steering.
@@ -212,8 +212,8 @@
 
 - Fetched 50 bookmarks; 48 were already processed; ingested all 2 new bookmarks.
 - Created immutable raw bookmark sources:
-  - `raw/x-bookmarks/2026-08-12/2087493068735819924.md` — two-DGX-Spark DeepSeek V4 Flash long-context latency claim after six vLLM 0.27 patch backports.
-  - `raw/x-bookmarks/2026-08-12/2087544650559025190.md` — DS4 Flash + Local Studio + Litter demonstration claiming roughly 400 tok/s.
+  - `raw/x-bookmarks/26-08-12/2087493068735819924.md` — two-DGX-Spark DeepSeek V4 Flash long-context latency claim after six vLLM 0.27 patch backports.
+  - `raw/x-bookmarks/26-08-12/2087544650559025190.md` — DS4 Flash + Local Studio + Litter demonstration claiming roughly 400 tok/s.
 - Updated `faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026.md` with long-context latency as a separate commissioning metric and linked the duplicate bookmark provenance for the already-ingested DS4 mobile-agent demonstration.
 - `index.md` unchanged because no new wiki page was created.
 - Evidence limits: both are practitioner claims without reproducible configurations or complete measurements; the 0xSero bookmark duplicates the Telegram source rather than independently corroborating it.
@@ -224,13 +224,13 @@
 
 - Fetched 50 bookmarks; 43 were already processed; ingested all 7 new bookmarks.
 - Created immutable raw bookmark sources:
-  - `raw/x-bookmarks/2026-08-11/2087252657589412119.md`
-  - `raw/x-bookmarks/2026-08-12/2087354679718297992.md`
-  - `raw/x-bookmarks/2026-08-11/2087247083971760207.md`
-  - `raw/x-bookmarks/2026-08-11/2087234458336604370.md`
-  - `raw/x-bookmarks/2026-08-11/2087259441435713888.md`
-  - `raw/x-bookmarks/2026-08-11/2086987966283694580.md`
-  - `raw/x-bookmarks/2026-08-11/2086988399085584510.md`
+  - `raw/x-bookmarks/26-08-11/2087252657589412119.md`
+  - `raw/x-bookmarks/26-08-12/2087354679718297992.md`
+  - `raw/x-bookmarks/26-08-11/2087247083971760207.md`
+  - `raw/x-bookmarks/26-08-11/2087234458336604370.md`
+  - `raw/x-bookmarks/26-08-11/2087259441435713888.md`
+  - `raw/x-bookmarks/26-08-11/2086987966283694580.md`
+  - `raw/x-bookmarks/26-08-11/2086988399085584510.md`
 - Updated `faleth/process/messaging-ui-as-agent-operating-surface-2026.md` with Grok Bot's persistent VM, human handoff, user/agent/project memory, event triggers, workflow recording, reviewer controls, and trigger-to-evidence demo loop; normalized its frontmatter to the wiki schema.
 - Updated `faleth/process/frontier-model-cost-speed-tradeoff-2026.md` with the claimed SuperGrok Heavy → one-month Cursor Ultra bundle, explicitly treated as an unverified temporary subsidy rather than recurring economics.
 - Updated `concepts/offshoots/persistent-consistent-action.md` with the education → execution → consistency diagnostic ladder.
@@ -244,12 +244,12 @@
 
 - Fetched 50 bookmarks; 44 were already processed; ingested all 6 new bookmarks.
 - Created immutable raw bookmark sources:
-  - `raw/x-bookmarks/2026-08-11/2086988060357488659.md`
-  - `raw/x-bookmarks/2026-08-11/2087034740939411905.md`
-  - `raw/x-bookmarks/2026-08-10/2086961142329725233.md`
-  - `raw/x-bookmarks/2026-08-09/2086434570031993112.md`
-  - `raw/x-bookmarks/2026-08-09/2086560843362079171.md`
-  - `raw/x-bookmarks/2026-08-09/2086576283211710957.md`
+  - `raw/x-bookmarks/26-08-11/2086988060357488659.md`
+  - `raw/x-bookmarks/26-08-11/2087034740939411905.md`
+  - `raw/x-bookmarks/26-08-10/2086961142329725233.md`
+  - `raw/x-bookmarks/26-08-09/2086434570031993112.md`
+  - `raw/x-bookmarks/26-08-09/2086560843362079171.md`
+  - `raw/x-bookmarks/26-08-09/2086576283211710957.md`
 - Updated `faleth/process/frontier-model-cost-speed-tradeoff-2026.md` with SuperGrok-versus-Cursor price normalization and a provisional SuperGrok Heavy usage-value estimate.
 - Updated `faleth/mindset/heart-intuition-guts-over-analysis-2026.md` with Jensen Huang's definition of intelligence as technical competence plus empathy and anticipatory judgment.
 - Updated `faleth/process/agentic-loops-design-2026.md` with Hermes Pixel Office as a visual-observability prototype, not yet a reproducible productivity result.
@@ -262,14 +262,14 @@
 
 - Fetched 50 bookmarks; 42 were already processed; ingested all 8 new bookmarks.
 - Created immutable raw bookmark sources:
-  - `raw/x-bookmarks/2026-08-08/2086106500766843287.md`
-  - `raw/x-bookmarks/2026-08-09/2086521366300512391.md`
-  - `raw/x-bookmarks/2026-08-09/2086512844594679820.md`
-  - `raw/x-bookmarks/2026-08-09/2086448663295881648.md`
-  - `raw/x-bookmarks/2026-08-09/2086359888083775814.md`
-  - `raw/x-bookmarks/2026-08-09/2086382342214410275.md`
-  - `raw/x-bookmarks/2026-08-08/2086157480216989831.md`
-  - `raw/x-bookmarks/2026-08-09/2086418529008443421.md`
+  - `raw/x-bookmarks/26-08-08/2086106500766843287.md`
+  - `raw/x-bookmarks/26-08-09/2086521366300512391.md`
+  - `raw/x-bookmarks/26-08-09/2086512844594679820.md`
+  - `raw/x-bookmarks/26-08-09/2086448663295881648.md`
+  - `raw/x-bookmarks/26-08-09/2086359888083775814.md`
+  - `raw/x-bookmarks/26-08-09/2086382342214410275.md`
+  - `raw/x-bookmarks/26-08-08/2086157480216989831.md`
+  - `raw/x-bookmarks/26-08-09/2086418529008443421.md`
 - Updated `faleth/process/local-minimax-h3-video-generation-tradeoffs-2026.md` with WanGP 12.44 sliding-window continuity and direct ClipProj bookmark provenance.
 - Updated `faleth/process/self-writing-vault-operating-loop-2026.md` with coding-agent histories as behavioral evidence, bounded by privacy, selection-bias, and non-diagnostic guardrails.
 - `index.md` unchanged because no new wiki page was created.
@@ -286,13 +286,13 @@
 
 - Fetched 50 bookmarks; 43 were already processed; ingested all 7 new bookmarks.
 - Created immutable raw bookmark sources:
-  - `raw/x-bookmarks/2026-08-09/2086253065657790895.md`
-  - `raw/x-bookmarks/2026-08-08/2086171185134686509.md`
-  - `raw/x-bookmarks/2026-08-08/2086123156431855959.md`
-  - `raw/x-bookmarks/2026-08-08/2086103296641507456.md`
-  - `raw/x-bookmarks/2026-08-08/2086122488094675410.md`
-  - `raw/x-bookmarks/2026-08-07/2085656265397518771.md`
-  - `raw/x-bookmarks/2026-08-07/2085823819608957365.md`
+  - `raw/x-bookmarks/26-08-09/2086253065657790895.md`
+  - `raw/x-bookmarks/26-08-08/2086171185134686509.md`
+  - `raw/x-bookmarks/26-08-08/2086123156431855959.md`
+  - `raw/x-bookmarks/26-08-08/2086103296641507456.md`
+  - `raw/x-bookmarks/26-08-08/2086122488094675410.md`
+  - `raw/x-bookmarks/26-08-07/2085656265397518771.md`
+  - `raw/x-bookmarks/26-08-07/2085823819608957365.md`
 - Created `faleth/process/local-minimax-h3-video-generation-tradeoffs-2026.md` — local H3 feasibility on four RTX 3090s, with four-step Turbo-LoRA speed, fast-motion smearing, accepted-result economics, and licensing checks.
 - Updated `index.md` for the new H3 page and bumped its date.
 - Raw-only/skipped wiki: the Krea-2 conditioning-node posts were sparse creator observations without reproducible workflow details; the Nano Banana photorealism guide was truncated; the FF7 and sea-lion posts were entertainment/commentary rather than durable research claims.
@@ -303,12 +303,12 @@
 
 - Fetched 50 bookmarks; 44 were already processed; ingested all 6 new bookmarks.
 - Created immutable raw bookmark sources:
-  - `raw/x-bookmarks/2026-08-07/2085591051314610650.md`
-  - `raw/x-bookmarks/2026-08-07/2085761587550519420.md`
-  - `raw/x-bookmarks/2026-08-07/2085545377651212626.md`
-  - `raw/x-bookmarks/2026-08-07/2085574138715054540.md`
-  - `raw/x-bookmarks/2026-08-07/2085652168573661404.md`
-  - `raw/x-bookmarks/2026-08-06/2085507337943749009.md`
+  - `raw/x-bookmarks/26-08-07/2085591051314610650.md`
+  - `raw/x-bookmarks/26-08-07/2085761587550519420.md`
+  - `raw/x-bookmarks/26-08-07/2085545377651212626.md`
+  - `raw/x-bookmarks/26-08-07/2085574138715054540.md`
+  - `raw/x-bookmarks/26-08-07/2085652168573661404.md`
+  - `raw/x-bookmarks/26-08-06/2085507337943749009.md`
 - Created `faleth/process/book-to-skill-compilation-for-agent-knowledge-2026.md` — long-source ingestion as extraction plus compilation into navigable, testable agent skills.
 - Created `faleth/process/free-electron-laser-euv-light-utility-2026.md` — FEL as a central multi-scanner EUV utility; marked low-confidence and contested because Terafab deployment is inferred from promotional imagery and “FEL FTW,” not production evidence.
 - Updated `index.md` for both new wiki pages.
@@ -320,9 +320,9 @@
 
 - Fetched 50 bookmarks; 47 were already processed; ingested all 3 new bookmarks.
 - Created immutable raw bookmark sources:
-  - `raw/x-bookmarks/2026-08-06/2085413416353538176.md`
-  - `raw/x-bookmarks/2026-08-06/2085411664568914182.md`
-  - `raw/x-bookmarks/2026-08-06/2085321846379925689.md`
+  - `raw/x-bookmarks/26-08-06/2085413416353538176.md`
+  - `raw/x-bookmarks/26-08-06/2085411664568914182.md`
+  - `raw/x-bookmarks/26-08-06/2085321846379925689.md`
 - Created `faleth/mindset/eschatology-shapes-present-stewardship-2026.md` — future expectations shape present posture; preserved the screenshot's Christ/redemption/hope frame while marking the interpretation contested and low-confidence.
 - Updated `faleth/process/texas-mini-triangle-asset-accumulation-thesis-2026.md` — linked the independent bookmark provenance and normalized frontmatter/tags to the wiki schema.
 - Updated `index.md` for the new eschatology page.
@@ -333,10 +333,10 @@
 
 - Fetched 50 bookmarks; 46 were already processed; ingested all 4 new bookmarks.
 - Created immutable raw bookmark sources:
-  - `raw/x-bookmarks/2026-08-06/2085156837561893117.md`
-  - `raw/x-bookmarks/2026-08-05/2085018834528849974.md`
-  - `raw/x-bookmarks/2026-08-04/2084660790297051487.md`
-  - `raw/x-bookmarks/2026-08-04/2084669934194266370.md`
+  - `raw/x-bookmarks/26-08-06/2085156837561893117.md`
+  - `raw/x-bookmarks/26-08-05/2085018834528849974.md`
+  - `raw/x-bookmarks/26-08-04/2084660790297051487.md`
+  - `raw/x-bookmarks/26-08-04/2084669934194266370.md`
 - Created `faleth/process/local-multiformat-document-to-markdown-ingestion-2026.md` — local, format-normalized Markdown as a common evidence boundary for agent workflows; vendor benchmarks remain first-party.
 - Updated `faleth/mindset/action-without-audience-permission-2026.md` — added the Christ-centered correction that public approval is not a reliable authority for truth, obedience, or worthy work.
 - Updated `index.md` for the new multiformat-ingestion page.
@@ -347,10 +347,10 @@
 
 - Fetched 50 bookmarks; 46 were already processed; ingested all 4 new bookmarks.
 - Created immutable raw bookmark sources:
-  - `raw/x-bookmarks/2026-08-04/2084661711521366108.md`
-  - `raw/x-bookmarks/2026-08-04/2084645635815284821.md`
-  - `raw/x-bookmarks/2026-08-03/2084378415818579975.md`
-  - `raw/x-bookmarks/2026-08-04/2084473233684697461.md`
+  - `raw/x-bookmarks/26-08-04/2084661711521366108.md`
+  - `raw/x-bookmarks/26-08-04/2084645635815284821.md`
+  - `raw/x-bookmarks/26-08-03/2084378415818579975.md`
+  - `raw/x-bookmarks/26-08-04/2084473233684697461.md`
 - Updated durable wiki pages:
   - `faleth/process/member-gated-compute-mesh-for-sovereign-agents-2026.md` — added Block's official Buzz/MeshLLM product signal and separated request routing from latency-sensitive layer splitting; normalized frontmatter to schema.
   - `faleth/process/local-model-ownership-agency-2026.md` — added LFM2.5-2.6B as evidence that agent performance is harness-relative and requires task-level Hermes evaluation.
@@ -364,11 +364,11 @@
 
 - Fetched 50 bookmarks; 45 were already processed; ingested all 5 new bookmarks.
 - Created immutable raw bookmark sources:
-  - `raw/x-bookmarks/2026-08-03/2084164823638519843.md`
-  - `raw/x-bookmarks/2026-08-02/2083705845670650195.md`
-  - `raw/x-bookmarks/2026-08-02/2084006770704302437.md`
-  - `raw/x-bookmarks/2026-08-02/2083759818133688517.md`
-  - `raw/x-bookmarks/2026-08-02/2083783390453751898.md`
+  - `raw/x-bookmarks/26-08-03/2084164823638519843.md`
+  - `raw/x-bookmarks/26-08-02/2083705845670650195.md`
+  - `raw/x-bookmarks/26-08-02/2084006770704302437.md`
+  - `raw/x-bookmarks/26-08-02/2083759818133688517.md`
+  - `raw/x-bookmarks/26-08-02/2083783390453751898.md`
 - Created durable wiki page:
   - `faleth/process/ocr-gated-pdf-ingestion-pipelines-2026.md` — cheap native-text classification and extraction before page-selective OCR, with corpus-specific acceptance tests.
 - Updated durable wiki pages:
@@ -383,11 +383,11 @@
 
 - Fetched 50 bookmarks; 45 were already processed; ingested all 5 new bookmarks.
 - Created immutable raw bookmark sources:
-  - `raw/x-bookmarks/2026-08-02/2083794337586974823.md`
-  - `raw/x-bookmarks/2026-08-02/2083751868132454668.md`
-  - `raw/x-bookmarks/2026-08-02/2084065915004747888.md`
-  - `raw/x-bookmarks/2026-08-02/2083940637921943803.md`
-  - `raw/x-bookmarks/2026-08-01/2083458624202944694.md`
+  - `raw/x-bookmarks/26-08-02/2083794337586974823.md`
+  - `raw/x-bookmarks/26-08-02/2083751868132454668.md`
+  - `raw/x-bookmarks/26-08-02/2084065915004747888.md`
+  - `raw/x-bookmarks/26-08-02/2083940637921943803.md`
+  - `raw/x-bookmarks/26-08-01/2083458624202944694.md`
 - Updated durable wiki pages:
   - `concepts/offshoots/portfolio-life-as-antifragile-strategy.md` — linked the immutable bookmark provenance and normalized frontmatter tags/source paths.
   - `faleth/process/agentic-loops-design-2026.md` — added harness reliability as model leverage and node graphs as workflow observability, while normalizing the page to schema frontmatter.
@@ -400,8 +400,8 @@
 
 - Fetched 50 bookmarks; 48 were already processed; ingested both 2 new bookmarks.
 - Created immutable raw bookmark sources:
-  - `raw/x-bookmarks/2026-08-01/2083652162450538507.md`
-  - `raw/x-bookmarks/2026-08-01/2083372797456458077.md`
+  - `raw/x-bookmarks/26-08-01/2083652162450538507.md`
+  - `raw/x-bookmarks/26-08-01/2083372797456458077.md`
 - Updated durable wiki page:
   - `faleth/process/text-to-cad-as-engineering-compiler-2026.md` — added headless, agent-callable CAD as the reliable execution substrate, while marking the unreleased tool's “full featured” and open-source claims as unverified.
 - Updated `log.md` with this ingest record; `index.md` unchanged because no new wiki page was created.
@@ -411,13 +411,13 @@
 
 - Fetched 50 bookmarks; 43 were already processed; ingested all 7 new bookmarks.
 - Created immutable raw bookmark sources:
-  - `raw/x-bookmarks/2026-07-30/2082909527515779164.md`
-  - `raw/x-bookmarks/2026-07-29/2082578552948400144.md`
-  - `raw/x-bookmarks/2026-07-30/2082864166960877718.md`
-  - `raw/x-bookmarks/2026-07-29/2082430003460166142.md`
-  - `raw/x-bookmarks/2026-07-12/2076345051198984637.md`
-  - `raw/x-bookmarks/2026-07-30/2082854011460518352.md`
-  - `raw/x-bookmarks/2026-07-29/2082570290828304553.md`
+  - `raw/x-bookmarks/26-07-30/2082909527515779164.md`
+  - `raw/x-bookmarks/26-07-29/2082578552948400144.md`
+  - `raw/x-bookmarks/26-07-30/2082864166960877718.md`
+  - `raw/x-bookmarks/26-07-29/2082430003460166142.md`
+  - `raw/x-bookmarks/26-07-12/2076345051198984637.md`
+  - `raw/x-bookmarks/26-07-30/2082854011460518352.md`
+  - `raw/x-bookmarks/26-07-29/2082570290828304553.md`
 - Created linked primary-source captures:
   - `raw/articles/2026-07-31-waste-inference-engine-readme.md`
   - `raw/articles/2026-07-31-audio8-tts-preview-readme.md`
@@ -434,12 +434,12 @@
 
 - Fetched 50 bookmarks; 44 were already processed; ingested all 6 new bookmarks.
 - Created immutable raw sources:
-  - `raw/x-bookmarks/2026-07-28/2082123925283041545.md`
-  - `raw/x-bookmarks/2026-07-30/2082629254731440546.md`
-  - `raw/x-bookmarks/2026-07-29/2082463988953367031.md`
-  - `raw/x-bookmarks/2026-07-29/2082339029375426914.md`
-  - `raw/x-bookmarks/2026-07-29/2082467621220307445.md`
-  - `raw/x-bookmarks/2026-07-29/2082509593280688317.md`
+  - `raw/x-bookmarks/26-07-28/2082123925283041545.md`
+  - `raw/x-bookmarks/26-07-30/2082629254731440546.md`
+  - `raw/x-bookmarks/26-07-29/2082463988953367031.md`
+  - `raw/x-bookmarks/26-07-29/2082339029375426914.md`
+  - `raw/x-bookmarks/26-07-29/2082467621220307445.md`
+  - `raw/x-bookmarks/26-07-29/2082509593280688317.md`
 - Updated durable wiki pages:
   - `faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026.md` — linked the bookmark provenance for the 80 GB DGX Spark weight-budget heuristic and repaired tags to the schema taxonomy.
   - `faleth/process/local-model-ownership-agency-2026.md` — added the Kimi K3 1-bit quantization signal and distinguished artifact size from practical memory residency and serving performance.
@@ -462,20 +462,20 @@
 
 - Fetched 50 bookmarks; 36 were already processed; ingested all 14 new bookmarks.
 - Created immutable raw sources:
-  - `raw/x-bookmarks/2026-07-25/2081060081278558271.md`
-  - `raw/x-bookmarks/2026-07-27/2081826428295729284.md`
-  - `raw/x-bookmarks/2026-07-27/2081873321516528053.md`
-  - `raw/x-bookmarks/2026-07-28/2081897250121236905.md`
-  - `raw/x-bookmarks/2026-07-28/2081941466125840799.md`
-  - `raw/x-bookmarks/2026-07-28/2081975477930176683.md`
-  - `raw/x-bookmarks/2026-07-28/2081994764488986676.md`
-  - `raw/x-bookmarks/2026-07-28/2082044844759757058.md`
-  - `raw/x-bookmarks/2026-07-28/2082091462531953087.md`
-  - `raw/x-bookmarks/2026-07-28/2082092497619030246.md`
-  - `raw/x-bookmarks/2026-07-28/2082106744788955310.md`
-  - `raw/x-bookmarks/2026-07-28/2082115636281446800.md`
-  - `raw/x-bookmarks/2026-07-28/2082207544626339930.md`
-  - `raw/x-bookmarks/2026-07-28/2082231281941913851.md`
+  - `raw/x-bookmarks/26-07-25/2081060081278558271.md`
+  - `raw/x-bookmarks/26-07-27/2081826428295729284.md`
+  - `raw/x-bookmarks/26-07-27/2081873321516528053.md`
+  - `raw/x-bookmarks/26-07-28/2081897250121236905.md`
+  - `raw/x-bookmarks/26-07-28/2081941466125840799.md`
+  - `raw/x-bookmarks/26-07-28/2081975477930176683.md`
+  - `raw/x-bookmarks/26-07-28/2081994764488986676.md`
+  - `raw/x-bookmarks/26-07-28/2082044844759757058.md`
+  - `raw/x-bookmarks/26-07-28/2082091462531953087.md`
+  - `raw/x-bookmarks/26-07-28/2082092497619030246.md`
+  - `raw/x-bookmarks/26-07-28/2082106744788955310.md`
+  - `raw/x-bookmarks/26-07-28/2082115636281446800.md`
+  - `raw/x-bookmarks/26-07-28/2082207544626339930.md`
+  - `raw/x-bookmarks/26-07-28/2082231281941913851.md`
 - Created durable wiki pages:
   - `faleth/process/grapheneos-hardware-diversification-2026.md`
   - `faleth/process/offline-application-distribution-resilient-comms-2026.md`
@@ -489,10 +489,10 @@
 ## [2026-07-28] ingest | Daily X bookmarks
 
 - Fetched 50 bookmarks; 46 were already processed; ingested 4 new bookmarks.
-- Created `raw/x-bookmarks/2026-07-27/2081873768087998927.md` — polemical image exchange about animal behavior, naturalness, religion, and morality; preserved both attached and quoted-image OCR.
-- Created `raw/x-bookmarks/2026-07-26/2081415714221822227.md` — “darkness” versus cuddles pet meme; OCR preserved.
-- Created `raw/x-bookmarks/2026-07-27/2081681249676951762.md` — stove-drawer warming claim; preserved with appliance-dependent caveat.
-- Created `raw/x-bookmarks/2026-07-27/2081598350147621043.md` — 164.8-second visual-only video; media provenance preserved, but no intelligible speech or durable claim was extractable.
+- Created `raw/x-bookmarks/26-07-27/2081873768087998927.md` — polemical image exchange about animal behavior, naturalness, religion, and morality; preserved both attached and quoted-image OCR.
+- Created `raw/x-bookmarks/26-07-26/2081415714221822227.md` — “darkness” versus cuddles pet meme; OCR preserved.
+- Created `raw/x-bookmarks/26-07-27/2081681249676951762.md` — stove-drawer warming claim; preserved with appliance-dependent caveat.
+- Created `raw/x-bookmarks/26-07-27/2081598350147621043.md` — 164.8-second visual-only video; media provenance preserved, but no intelligible speech or durable claim was extractable.
 - Created no concept/entity/query pages: this batch was mostly humor or appliance trivia, while the ethics image was a single polemical exchange insufficient for a durable synthesis without stronger sources.
 - `index.md` unchanged because no wiki pages were created.
 
@@ -552,15 +552,15 @@
 - Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-27T053015Z.json`).
 - Fetched 50; already in ledger 41; new **9**; processed **9**; truncated remainder 0.
 - Raw created:
-  - `raw/x-bookmarks/2026-07-26/2081514215291109879.md` — Huberman claim that sustained attention is trainable.
-  - `raw/x-bookmarks/2026-07-26/2081290423759245499.md` — AI/solitude meme; video text recovered by frame OCR.
-  - `raw/x-bookmarks/2026-07-26/2081457136966484268.md` — incomplete funeral/obedience story hook.
-  - `raw/x-bookmarks/2026-07-26/2081486469521416213.md` — C. S. Lewis argument-from-reason image; text recovered by OCR.
-  - `raw/x-bookmarks/2026-07-26/2081408374315602338.md` — voice-controlled, always-on headquarters workflow.
-  - `raw/x-bookmarks/2026-07-25/2080955069755711878.md` — Nemotron 3 Nano Omni NVFP4 / DGX Spark deployment claim.
-  - `raw/x-bookmarks/2026-07-26/2081347811140841487.md` — Qwen3.6-27B quantization-to-hardware deployment map.
-  - `raw/x-bookmarks/2026-07-24/2080645121096241521.md` — GLM-5.2 Fast throughput/pricing signal; video inspected with frame OCR.
-  - `raw/x-bookmarks/2026-07-25/2081077962682835074.md` — reply-led early X audience-growth claim.
+  - `raw/x-bookmarks/26-07-26/2081514215291109879.md` — Huberman claim that sustained attention is trainable.
+  - `raw/x-bookmarks/26-07-26/2081290423759245499.md` — AI/solitude meme; video text recovered by frame OCR.
+  - `raw/x-bookmarks/26-07-26/2081457136966484268.md` — incomplete funeral/obedience story hook.
+  - `raw/x-bookmarks/26-07-26/2081486469521416213.md` — C. S. Lewis argument-from-reason image; text recovered by OCR.
+  - `raw/x-bookmarks/26-07-26/2081408374315602338.md` — voice-controlled, always-on headquarters workflow.
+  - `raw/x-bookmarks/26-07-25/2080955069755711878.md` — Nemotron 3 Nano Omni NVFP4 / DGX Spark deployment claim.
+  - `raw/x-bookmarks/26-07-26/2081347811140841487.md` — Qwen3.6-27B quantization-to-hardware deployment map.
+  - `raw/x-bookmarks/26-07-24/2080645121096241521.md` — GLM-5.2 Fast throughput/pricing signal; video inspected with frame OCR.
+  - `raw/x-bookmarks/26-07-25/2081077962682835074.md` — reply-led early X audience-growth claim.
 - Wiki created:
   - `faleth/content/reply-led-audience-discovery-2026.md` — substantive replies as discovery and market-learning, with measurement and survivorship-bias caveats.
 - Wiki updated:
@@ -587,9 +587,9 @@
 - Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-26T053005Z.json`).
 - Fetched 50; already in ledger 47; new **3**; processed **3**; truncated remainder 0.
 - Raw created:
-  - `raw/x-bookmarks/2026-07-24/2080607945071686030.md` — Oliver Prompts' OBLITERATUS refusal-removal claim.
-  - `raw/x-bookmarks/2026-07-25/2081134153970688251.md` — Teknium's Hermes-native optional-skill claim for OBLITERATUS.
-  - `raw/x-bookmarks/2026-07-25/2081030730197385304.md` — Joe Muller's vendor-unverified GLM 5.2 throughput report on two DGX Sparks.
+  - `raw/x-bookmarks/26-07-24/2080607945071686030.md` — Oliver Prompts' OBLITERATUS refusal-removal claim.
+  - `raw/x-bookmarks/26-07-25/2081134153970688251.md` — Teknium's Hermes-native optional-skill claim for OBLITERATUS.
+  - `raw/x-bookmarks/26-07-25/2081030730197385304.md` — Joe Muller's vendor-unverified GLM 5.2 throughput report on two DGX Sparks.
 - Wiki created:
   - `faleth/process/refusal-vector-ablation-open-model-control-2026.md` — open-weight refusal-subspace intervention, reversible steering, evaluation, and deployment guardrails.
 - Wiki updated:
@@ -605,13 +605,13 @@
 - Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-25T053056Z.json`).
 - Fetched 50; already in ledger 43; new **7**; processed **7**; truncated remainder 0.
 - Raw created:
-  - `raw/x-bookmarks/2026-07-24/2080671474193432831.md` — repeated-taxation meme; image text recovered with OCR.
-  - `raw/x-bookmarks/2026-07-24/2080709769120329938.md` — Teknium teaser for a forthcoming Nous Research privacy improvement; parent context recovered through the official API.
-  - `raw/x-bookmarks/2026-07-24/2080699367883980924.md` — Garry Tan on staffing/workflow redesign as the bridge from AI microproductivity to macroproductivity.
-  - `raw/x-bookmarks/2026-07-23/2080423407049707749.md` — anti-corporate/anti-credential graduation satire; image text recovered with OCR.
-  - `raw/x-bookmarks/2026-07-23/2080331127990993151.md` — “toxic advice” thread prompt; image text recovered with OCR.
-  - `raw/x-bookmarks/2026-07-24/2080442895543226611.md` — generalized wellness drains/restoratives checklist; image text recovered with OCR.
-  - `raw/x-bookmarks/2026-07-24/2080547884726919201.md` — Economist/Elon Musk interview link; X reported the video removed after a copyright-holder complaint.
+  - `raw/x-bookmarks/26-07-24/2080671474193432831.md` — repeated-taxation meme; image text recovered with OCR.
+  - `raw/x-bookmarks/26-07-24/2080709769120329938.md` — Teknium teaser for a forthcoming Nous Research privacy improvement; parent context recovered through the official API.
+  - `raw/x-bookmarks/26-07-24/2080699367883980924.md` — Garry Tan on staffing/workflow redesign as the bridge from AI microproductivity to macroproductivity.
+  - `raw/x-bookmarks/26-07-23/2080423407049707749.md` — anti-corporate/anti-credential graduation satire; image text recovered with OCR.
+  - `raw/x-bookmarks/26-07-23/2080331127990993151.md` — “toxic advice” thread prompt; image text recovered with OCR.
+  - `raw/x-bookmarks/26-07-24/2080442895543226611.md` — generalized wellness drains/restoratives checklist; image text recovered with OCR.
+  - `raw/x-bookmarks/26-07-24/2080547884726919201.md` — Economist/Elon Musk interview link; X reported the video removed after a copyright-holder complaint.
 - Wiki pages created: none.
 - Wiki pages updated: none; `index.md` intentionally unchanged.
 - Threshold decisions: Garry Tan's idea was already fully represented in `faleth/process/microproductivity-requires-workflow-redesign-2026.md` and its source transcript; the privacy post was only a teaser; the remaining posts were memes, generic wellness advice, or unavailable media without enough durable evidence.
@@ -646,10 +646,10 @@
 - Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-24T053045Z.json`).
 - Fetched 50; already in ledger 46; new **4**; processed **4**; truncated remainder 0.
 - Raw created:
-  - `raw/x-bookmarks/2026-07-22/2080020101290459550.md` — Visual Capitalist/UBS millionaire-growth chart; key image text recovered with OCR.
-  - `raw/x-bookmarks/2026-07-23/2080158264323448978.md` — Codex + `img2threejs` game-asset workflow; video frames and quoted-post context recovered.
-  - `raw/x-bookmarks/2026-07-22/2079993729532989500.md` — Cursor Router launch and vendor-reported 60% cost-reduction claim.
-  - `raw/x-bookmarks/2026-07-22/2079939096231686463.md` — self-talk aphorism; image text recovered with OCR.
+  - `raw/x-bookmarks/26-07-22/2080020101290459550.md` — Visual Capitalist/UBS millionaire-growth chart; key image text recovered with OCR.
+  - `raw/x-bookmarks/26-07-23/2080158264323448978.md` — Codex + `img2threejs` game-asset workflow; video frames and quoted-post context recovered.
+  - `raw/x-bookmarks/26-07-22/2079993729532989500.md` — Cursor Router launch and vendor-reported 60% cost-reduction claim.
+  - `raw/x-bookmarks/26-07-22/2079939096231686463.md` — self-talk aphorism; image text recovered with OCR.
 - Wiki created:
   - `faleth/process/image-to-3d-asset-compilation-agent-loops-2026.md` — visual references compiled into project-native procedural assets under renderer, performance, and test constraints.
 - Wiki updated:
@@ -665,10 +665,10 @@
 - Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-23T053049Z.json`).
 - Fetched 50; already in ledger 46; new **4**; processed **4**; truncated remainder 0.
 - Raw created:
-  - `raw/x-bookmarks/2026-07-21/2079605800998146171.md` — Jack's official launch post for the open-source, self-sovereign human/agent groupchat platform Buzz.
-  - `raw/x-bookmarks/2026-07-22/2079833837417185600.md` — image-only T-shirt-color/body-temperature graphic; OCR context preserved, underlying study absent.
-  - `raw/x-bookmarks/2026-07-22/2079836641687130303.md` — image-only “make yourself at home / you're in my tree” visual joke with quoted-post context.
-  - `raw/x-bookmarks/2026-07-21/2079594120977527102.md` — 2003 Elon Musk Stanford company-building lecture share.
+  - `raw/x-bookmarks/26-07-21/2079605800998146171.md` — Jack's official launch post for the open-source, self-sovereign human/agent groupchat platform Buzz.
+  - `raw/x-bookmarks/26-07-22/2079833837417185600.md` — image-only T-shirt-color/body-temperature graphic; OCR context preserved, underlying study absent.
+  - `raw/x-bookmarks/26-07-22/2079836641687130303.md` — image-only “make yourself at home / you're in my tree” visual joke with quoted-post context.
+  - `raw/x-bookmarks/26-07-21/2079594120977527102.md` — 2003 Elon Musk Stanford company-building lecture share.
 - Wiki created/updated: none. Buzz and the Stanford lecture were already fully preserved and synthesized in `faleth/process/buzz-sovereign-agent-workspace-analysis-2026.md` and `faleth/process/product-focus-parallelism-and-compounding-simplicity-2026.md`; duplicating those pages would add noise rather than knowledge.
 - Raw-only/skipped wiki: the T-shirt graphic lacked study provenance and numeric evidence; the Sparrow post was a visual joke rather than a durable research idea.
 - Updated: `log.md`; `index.md` intentionally unchanged because no wiki page was created.
@@ -679,7 +679,7 @@
 - Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-22T053039Z.json`).
 - Fetched 50; already in ledger 49; new **1**; processed **1**; truncated remainder 0.
 - Raw created:
-  - `raw/x-bookmarks/2026-07-21/2079595988998554047.md` — Claude Cowork announcement for recording a demonstrated task and narration into a reusable skill.
+  - `raw/x-bookmarks/26-07-21/2079595988998554047.md` — Claude Cowork announcement for recording a demonstrated task and narration into a reusable skill.
 - Wiki created:
   - `faleth/process/demonstration-to-skill-capture-2026.md` — demonstration-to-procedure capture, Faleth/VXE applications, verification requirements, and evidence limits.
 - Updated: `index.md` (1 new page; date bumped).
@@ -692,10 +692,10 @@
 - Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-21T053029Z.json`).
 - Fetched 50; already in ledger 46; new **4**; processed **4**; truncated remainder 0.
 - Raw created:
-  - `raw/x-bookmarks/2026-07-20/2079289736250970258.md` — Monid multi-platform social-reading API promotional pricing claim.
-  - `raw/x-bookmarks/2026-07-20/2079236265254285617.md` — RuView WiFi-CSI camera-free spatial sensing and through-wall demo claim.
-  - `raw/x-bookmarks/2026-07-20/2079156922406875492.md` — World Monitor open-source situational-awareness dashboard.
-  - `raw/x-bookmarks/2026-07-20/2079256614238814551.md` — Cursor SQLite swarm headline; duplicate evidence for the already-ingested experiment.
+  - `raw/x-bookmarks/26-07-20/2079289736250970258.md` — Monid multi-platform social-reading API promotional pricing claim.
+  - `raw/x-bookmarks/26-07-20/2079236265254285617.md` — RuView WiFi-CSI camera-free spatial sensing and through-wall demo claim.
+  - `raw/x-bookmarks/26-07-20/2079156922406875492.md` — World Monitor open-source situational-awareness dashboard.
+  - `raw/x-bookmarks/26-07-20/2079256614238814551.md` — Cursor SQLite swarm headline; duplicate evidence for the already-ingested experiment.
 - Wiki created:
   - `faleth/process/open-source-situational-awareness-world-monitor-2026.md` — open OSINT operating-surface architecture, GovCon wedge, and reliability/license guardrails.
   - `faleth/process/wifi-sensing-spatial-intelligence-ruview-2026.md` — WiFi sensing mechanics, required ESP32-class capture hardware, mission validation, and privacy risks.
@@ -709,7 +709,7 @@
 - Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-20T053032Z.json`)
 - Fetched 50; already in ledger 49; new **1**; processed **1**; truncated remainder 0
 - Raw created:
-  - `raw/x-bookmarks/2026-07-19/2078640247982977445.md` — CorridorKey promotional claim for Hiera-plus-CNN green-screen matting
+  - `raw/x-bookmarks/26-07-19/2078640247982977445.md` — CorridorKey promotional claim for Hiera-plus-CNN green-screen matting
 - Wiki created/updated: none; `index.md` unchanged.
 - Raw-only/skipped wiki: the post is a single promotional product claim with no linked repository, paper, benchmark, or independently verifiable comparison against paid tools. It does not yet meet the durable-page threshold.
 - Ledger target after successful verification: `~/.hermes/state/x_bookmarks_llm_wiki/processed_ids.json` (+1 ID)
@@ -728,9 +728,9 @@
 - Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-19T053022Z.json`)
 - Fetched 50; already in ledger 47; new **3**; processed **3**; truncated remainder 0
 - Raw created:
-  - `raw/x-bookmarks/2026-07-18/2078492579511906771.md` — ADS-STE100 Simplified Technical English as an LLM documentation constraint
-  - `raw/x-bookmarks/2026-07-17/2078208114298642520.md` — rediscovering childhood interests in one's twenties; image text recovered by OCR
-  - `raw/x-bookmarks/2026-07-17/2078232346365722816.md` — authority-and-justification response to the divine-killing objection; image question recovered by OCR
+  - `raw/x-bookmarks/26-07-18/2078492579511906771.md` — ADS-STE100 Simplified Technical English as an LLM documentation constraint
+  - `raw/x-bookmarks/26-07-17/2078208114298642520.md` — rediscovering childhood interests in one's twenties; image text recovered by OCR
+  - `raw/x-bookmarks/26-07-17/2078232346365722816.md` — authority-and-justification response to the divine-killing objection; image question recovered by OCR
 - Wiki created:
   - `faleth/process/simplified-technical-english-for-llm-docs-2026.md` — replace vague style requests with a named, inspectable language standard
 - Index updated with the new wiki page.
@@ -742,11 +742,11 @@
 - Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-18T053012Z.json`)
 - Fetched 50; already in ledger 45; new **5**; processed **5**; truncated remainder 0
 - Raw created:
-  - `raw/x-bookmarks/2026-07-17/2078022208429989942.md` — Humanome medication/condition/anatomy mapping claims
-  - `raw/x-bookmarks/2026-07-16/2077784657869902121.md` — tldraw offline article with local files and agent-written scripts
-  - `raw/x-bookmarks/2026-07-17/2078121336572891222.md` — context-poor Nous Research image reply
-  - `raw/x-bookmarks/2026-07-17/2078043200267452580.md` — AWS Cost Explorer trillion-dollar display incident
-  - `raw/x-bookmarks/2026-07-17/2078062745484677232.md` — full attention and childhood-play sensory immersion
+  - `raw/x-bookmarks/26-07-17/2078022208429989942.md` — Humanome medication/condition/anatomy mapping claims
+  - `raw/x-bookmarks/26-07-16/2077784657869902121.md` — tldraw offline article with local files and agent-written scripts
+  - `raw/x-bookmarks/26-07-17/2078121336572891222.md` — context-poor Nous Research image reply
+  - `raw/x-bookmarks/26-07-17/2078043200267452580.md` — AWS Cost Explorer trillion-dollar display incident
+  - `raw/x-bookmarks/26-07-17/2078062745484677232.md` — full attention and childhood-play sensory immersion
 - Wiki created:
   - `faleth/process/file-native-agent-canvases-2026.md` — file-native visual artifacts as shared human/agent work surfaces
 - Index updated with the new wiki page.
@@ -767,14 +767,14 @@
 - Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-17T053002Z.json`)
 - Fetched 50; already in ledger 42; new **8**; processed **8**; truncated remainder 0
 - Raw created:
-  - `raw/x-bookmarks/2026-07-16/2077801728213156044.md` — Decart Lucy 2.5 real-time AI video launch claim
-  - `raw/x-bookmarks/2026-07-16/2077831023329476757.md` — GovCon hallucination meme: Subway sandwich locations misread as subway stations
-  - `raw/x-bookmarks/2026-07-16/2077840176370602179.md` — Kimi K3 one-prompt WebGL/shader single-page demo
-  - `raw/x-bookmarks/2026-07-16/2077650022502744275.md` — DoorDash CLI limited-beta agent-commerce signal
-  - `raw/x-bookmarks/2026-07-16/2077780960054009862.md` — Local Studio local-AI operating-surface launch
-  - `raw/x-bookmarks/2026-07-16/2077683048267845761.md` — open-source Grok Build with provider-swappable model/tool configuration
-  - `raw/x-bookmarks/2026-07-16/2077724627351003268.md` — incomplete “brain wired for wealth” engagement list
-  - `raw/x-bookmarks/2026-07-15/2077467740835926096.md` — Grok 4.5 / Composer 2.5 model weight-class positioning
+  - `raw/x-bookmarks/26-07-16/2077801728213156044.md` — Decart Lucy 2.5 real-time AI video launch claim
+  - `raw/x-bookmarks/26-07-16/2077831023329476757.md` — GovCon hallucination meme: Subway sandwich locations misread as subway stations
+  - `raw/x-bookmarks/26-07-16/2077840176370602179.md` — Kimi K3 one-prompt WebGL/shader single-page demo
+  - `raw/x-bookmarks/26-07-16/2077650022502744275.md` — DoorDash CLI limited-beta agent-commerce signal
+  - `raw/x-bookmarks/26-07-16/2077780960054009862.md` — Local Studio local-AI operating-surface launch
+  - `raw/x-bookmarks/26-07-16/2077683048267845761.md` — open-source Grok Build with provider-swappable model/tool configuration
+  - `raw/x-bookmarks/26-07-16/2077724627351003268.md` — incomplete “brain wired for wealth” engagement list
+  - `raw/x-bookmarks/26-07-15/2077467740835926096.md` — Grok 4.5 / Composer 2.5 model weight-class positioning
 - Wiki updated:
   - `faleth/process/frontier-model-cost-speed-tradeoff-2026.md` — added role-based model weight classes and harness/provider separation
   - `faleth/process/ai-as-sparring-partner-house-method-2026.md` — added a primary-source premise gate before autonomous GovCon action
@@ -787,12 +787,12 @@
 - Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-16T053052Z.json`)
 - Fetched 50; already in ledger 44; new **6**; processed **6**; truncated remainder 0
 - Raw created:
-  - `raw/x-bookmarks/2026-07-15/2077311899604316442.md` — Linux 2 GB RAM visual demo; no reproducible benchmark context
-  - `raw/x-bookmarks/2026-07-15/2077412038503211140.md` — late-night Claude vibe-coding humor video
-  - `raw/x-bookmarks/2026-07-15/2077258699412812056.md` — volume / “take more shots” aphorism
-  - `raw/x-bookmarks/2026-07-15/2077293981776609461.md` — Grok 4.5 model-card cover/release signal
-  - `raw/x-bookmarks/2026-07-15/2077197706326671377.md` — Maxwell Maltz self-image and mental-rehearsal excerpt
-  - `raw/x-bookmarks/2026-07-15/2077257006956601520.md` — image-only reaction meme
+  - `raw/x-bookmarks/26-07-15/2077311899604316442.md` — Linux 2 GB RAM visual demo; no reproducible benchmark context
+  - `raw/x-bookmarks/26-07-15/2077412038503211140.md` — late-night Claude vibe-coding humor video
+  - `raw/x-bookmarks/26-07-15/2077258699412812056.md` — volume / “take more shots” aphorism
+  - `raw/x-bookmarks/26-07-15/2077293981776609461.md` — Grok 4.5 model-card cover/release signal
+  - `raw/x-bookmarks/26-07-15/2077197706326671377.md` — Maxwell Maltz self-image and mental-rehearsal excerpt
+  - `raw/x-bookmarks/26-07-15/2077257006956601520.md` — image-only reaction meme
 - Wiki updated:
   - `concepts/offshoots/identity-and-belief-drive-behavior.md` — self-image ceiling plus mental rehearsal paired with execution and feedback
   - `concepts/offshoots/pipeline-abundance-through-repetition.md` — qualified volume without pretending rhetorical 1-in-100 ratios are measurements
@@ -805,8 +805,8 @@
 - Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-15T053043Z.json`)
 - Fetched 50; already in ledger 48; new **2**; processed **2**; truncated remainder 0
 - Raw created:
-  - `raw/x-bookmarks/2026-07-13/2076626535977554251.md` — 4chan anecdote on performed confidence as an anti-freeze social state tool
-  - `raw/x-bookmarks/2026-07-13/2076704921601351856.md` — Claude screenshot on smartphones, boredom, and the loss of unstructured time
+  - `raw/x-bookmarks/26-07-13/2076626535977554251.md` — 4chan anecdote on performed confidence as an anti-freeze social state tool
+  - `raw/x-bookmarks/26-07-13/2076704921601351856.md` — Claude screenshot on smartphones, boredom, and the loss of unstructured time
 - Wiki created:
   - `faleth/mindset/unstructured-time-as-cognitive-infrastructure-2026.md` — input-free space as synthesis infrastructure; low confidence and contested pending primary evidence
 - Wiki updated:
@@ -839,9 +839,9 @@
 - Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-14T053034Z.json`)
 - Fetched 50; already in ledger 47; new **3**; processed **3**; truncated remainder 0
 - Raw created:
-  - `raw/x-bookmarks/2026-07-14/2076692402442846289.md` — SpaceXAI Grok Build ZDR/privacy claim
-  - `raw/x-bookmarks/2026-07-14/2076351797673824318.md` — Ben Lang X Article, official API article expansion
-  - `raw/x-bookmarks/2026-07-14/2076508413962416274.md` — Jung tree/roots paraphrase with attribution caveat
+  - `raw/x-bookmarks/26-07-14/2076692402442846289.md` — SpaceXAI Grok Build ZDR/privacy claim
+  - `raw/x-bookmarks/26-07-14/2076351797673824318.md` — Ben Lang X Article, official API article expansion
+  - `raw/x-bookmarks/26-07-14/2076508413962416274.md` — Jung tree/roots paraphrase with attribution caveat
 - Wiki created:
   - `faleth/process/zero-data-retention-ai-procurement-control-2026.md`
 - Wiki updated:
@@ -855,7 +855,7 @@
 
 - Channel: xurl bookmarks API as @LyleBCole (cron collector snapshot `2026-07-13T053024Z.json`)
 - Fetched 50; already in ledger 34; new **16**; processed **16**; truncated remainder 0
-- Raw created: `Research/raw/x-bookmarks/2026-07-13/<id>.md` × 16 (immutable body hashes verified)
+- Raw created: `Research/raw/x-bookmarks/26-07-13/<id>.md` × 16 (immutable body hashes verified)
 - Principles **created**:
   - `faleth/mindset/action-without-audience-permission-2026`
   - `faleth/process/self-writing-vault-operating-loop-2026`
@@ -886,7 +886,7 @@
 
 - Channel: xurl bookmarks API as @LyleBCole (cron collect_x_bookmarks.py)
 - Fetched 50; already in ledger 30; new **20**; truncated remainder 0
-- Raw: `Research/raw/x-bookmarks/2026-07-11/<id>.md` × 20
+- Raw: `Research/raw/x-bookmarks/26-07-11/<id>.md` × 20
 - Principles **created**:
   - faleth/mindset/god-planted-dream-capacity-2026
   - faleth/mindset/dont-be-a-career-jobs-2026
@@ -908,7 +908,7 @@
 
 - Channel: xurl bookmarks API as @LyleBCole (cron collect_x_bookmarks.py)
 - Fetched 50; already in ledger 5; new available 45; processed this run **25** (output cap); truncated remainder 20
-- Raw: `Research/raw/x-bookmarks/2026-07-10/<id>.md` × 25
+- Raw: `Research/raw/x-bookmarks/26-07-10/<id>.md` × 25
 - Principles **created**:
   - faleth/mindset/open-loops-cognitive-drain-2026
   - faleth/mindset/first-step-fear-to-problem-solving-2026
@@ -924,7 +924,7 @@
 ## [2026-07-09] ingest | X bookmarks top-5 (post-OAuth)
 
 - Channel: xurl bookmarks API as @LyleBCole
-- Raw: research/raw/transcripts/lyle-x-share-{5 ids} + research/raw/x-bookmarks/2026-07-09/
+- Raw: research/raw/transcripts/lyle-x-share-{5 ids} + research/raw/x-bookmarks/26-07-09/
 - Principles created: faleth/process/frontier-model-cost-speed-tradeoff-2026, hermes-agent-long-horizon-codebases-2026, llm-foundations-skill-stack-2026; faleth/content/hermes-grok-x-content-machine-2026
 - Existing principle linked: faleth/process/agentic-loops-design-2026
 - Index: external-ai-memory/lyle-telegram-x-shares-log updated

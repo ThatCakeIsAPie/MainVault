@@ -5,7 +5,7 @@ updated: 2026-08-17
 type: concept
 tags: [theology, ethics, worldview, controversy, mental-model]
 sources:
-  - raw/x-bookmarks/2026-08-15/2088722152283308243.md
+  - raw/x-bookmarks/26-08-15/2088722152283308243.md
 confidence: medium
 contested: true
 ---
@@ -43,7 +43,7 @@ It maps onto existing Faleth doctrine without becoming Faleth policy:
 
 ## Related
 
-- [[raw/x-bookmarks/2026-08-15/2088722152283308243]]
+- [[raw/x-bookmarks/26-08-15/2088722152283308243]]
 - [[concepts/offshoots/nature-as-telos-not-occurrence-catalog]]
 - [[concepts/offshoots/identity-and-belief-drive-behavior]]
 - [[concepts/offshoots/faith-anchored-action-and-obedience]]

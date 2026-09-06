@@ -5,8 +5,8 @@ updated: 2026-08-06
 type: principle
 tags: [ai, software, open-source, data, systems]
 sources:
-  - raw/x-bookmarks/2026-08-04/2084669934194266370.md
-  - raw/x-bookmarks/2026-08-06/2085156837561893117.md
+  - raw/x-bookmarks/26-08-04/2084669934194266370.md
+  - raw/x-bookmarks/26-08-06/2085156837561893117.md
 confidence: medium
 ---
 
@@ -32,7 +32,7 @@ The repository reports:
 - a 4.4 ms median conversion time and quality score of 81 over a 100-document benchmark;
 - explicit errors for unsupported, malformed, encrypted, resource-limited, or incomplete files.
 
-The social posts' “100x faster,” “top quality,” and zero-setup language is promotional compression. The benchmark is first-party, uses a private corpus and an LLM judge, and should not be treated as production evidence until reproduced against Lyle's files. [[raw/x-bookmarks/2026-08-04/2084669934194266370]] [[raw/x-bookmarks/2026-08-06/2085156837561893117]]
+The social posts' “100x faster,” “top quality,” and zero-setup language is promotional compression. The benchmark is first-party, uses a private corpus and an LLM judge, and should not be treated as production evidence until reproduced against Lyle's files. [[raw/x-bookmarks/26-08-04/2084669934194266370]] [[raw/x-bookmarks/26-08-06/2085156837561893117]]
 
 ## Operational value
 

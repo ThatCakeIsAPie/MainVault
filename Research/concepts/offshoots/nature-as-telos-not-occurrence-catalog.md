@@ -5,7 +5,7 @@ updated: 2026-08-14
 type: concept
 tags: [philosophy, theology, ethics, worldview]
 sources:
-  - raw/x-bookmarks/2026-08-12/2087602554616074709.md
+  - raw/x-bookmarks/26-08-12/2087602554616074709.md
 confidence: medium
 contested: true
 ---
@@ -42,7 +42,7 @@ It connects to [[concepts/offshoots/identity-and-belief-drive-behavior]] (catego
 
 ## Related
 
-- [[raw/x-bookmarks/2026-08-12/2087602554616074709]]
+- [[raw/x-bookmarks/26-08-12/2087602554616074709]]
 - [[concepts/offshoots/identity-and-belief-drive-behavior]]
 - [[concepts/offshoots/faith-anchored-action-and-obedience]]
 - [[faleth/mindset/eschatology-shapes-present-stewardship-2026]]

@@ -5,7 +5,7 @@ updated: 2026-07-10
 type: principle
 tags: [mental-model, personal-development, discipline, philosophy]
 sources:
-  - research/raw/x-bookmarks/2026-07-10/2072808215298117931.md
+  - research/raw/x-bookmarks/26-07-10/2072808215298117931.md
 confidence: medium
 ---
 
@@ -35,7 +35,7 @@ Replacing **“this is hard”** with **“what’s the first step?”** shifts 
 ## Provenance
 
 - X bookmark @bluewmist (2026-07-02), batch 2026-07-10.
-- Raw: [[research/raw/x-bookmarks/2026-07-10/2072808215298117931]]
+- Raw: [[research/raw/x-bookmarks/26-07-10/2072808215298117931]]
 
 ## Related
 

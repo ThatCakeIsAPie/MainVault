@@ -5,7 +5,7 @@ updated: 2026-08-12
 type: concept
 tags: [software, systems, architecture, skills]
 sources:
-  - raw/x-bookmarks/2026-08-11/2086988399085584510.md
+  - raw/x-bookmarks/26-08-11/2086988399085584510.md
 confidence: medium
 ---
 
@@ -38,5 +38,5 @@ It also illustrates [[faleth/process/demonstration-to-skill-capture-2026]] from 
 
 ## Provenance
 
-- [[raw/x-bookmarks/2026-08-11/2086988399085584510]] — Japanese demonstration post, video, and link to the MaxScript tutorial
+- [[raw/x-bookmarks/26-08-11/2086988399085584510]] — Japanese demonstration post, video, and link to the MaxScript tutorial
 - [Physics-Based Animation: Undulation](https://shirzadbahrami.com/physics-based-animation-undulation/)

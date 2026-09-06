@@ -5,8 +5,8 @@ updated: 2026-08-02
 type: principle
 tags: [ai, software, open-source, systems, leverage]
 sources:
-  - raw/x-bookmarks/2026-07-27/2081826428295729284.md
-  - raw/x-bookmarks/2026-08-01/2083372797456458077.md
+  - raw/x-bookmarks/26-07-27/2081826428295729284.md
+  - raw/x-bookmarks/26-08-01/2083372797456458077.md
 confidence: medium
 ---
 
@@ -49,6 +49,6 @@ This complements [[faleth/process/image-to-3d-asset-compilation-agent-loops-2026
 ## Provenance
 
 - X bookmark by @earthtojake describing an open-source text-to-CAD project and its supported outputs; the post reported crossing 10,000 GitHub stars.
-- Raw bookmark: [[raw/x-bookmarks/2026-07-27/2081826428295729284]]
+- Raw bookmark: [[raw/x-bookmarks/26-07-27/2081826428295729284]]
 - X bookmark by @protosphinx announcing a forthcoming free, web-based, headless CAD system with direct agent calls; no released implementation was established from the captured post.
-- Raw bookmark: [[raw/x-bookmarks/2026-08-01/2083372797456458077]]
+- Raw bookmark: [[raw/x-bookmarks/26-08-01/2083372797456458077]]

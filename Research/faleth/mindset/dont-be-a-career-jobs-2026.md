@@ -5,7 +5,7 @@ updated: 2026-08-03
 type: principle
 tags: [personal-development, purpose, vision, identity, business, strategy]
 sources:
-  - research/raw/x-bookmarks/2026-07-11/2070323963817865371.md
+  - research/raw/x-bookmarks/26-07-11/2070323963817865371.md
 confidence: medium
 ---
 
@@ -32,7 +32,7 @@ confidence: medium
 ## Provenance
 
 - X bookmark batch 2026-07-11 — [@zfellows](https://x.com/zfellows/status/2070323963817865371)
-- Raw: [[research/raw/x-bookmarks/2026-07-11/2070323963817865371]]
+- Raw: [[research/raw/x-bookmarks/26-07-11/2070323963817865371]]
 
 ## Related
 

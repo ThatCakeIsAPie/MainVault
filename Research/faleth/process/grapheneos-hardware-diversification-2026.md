@@ -5,7 +5,7 @@ updated: 2026-07-29
 type: concept
 tags: [software, hardware, infrastructure, open-source, strategy]
 sources:
-  - raw/x-bookmarks/2026-07-28/2082044844759757058.md
+  - raw/x-bookmarks/26-07-28/2082044844759757058.md
 confidence: medium
 ---
 
@@ -34,4 +34,4 @@ Treat the announcement as a directional 2027 signal, not a device-buying recomme
 ## Provenance
 
 - Bookmark commentary by @KuptoKosmos, linking an official @GrapheneOS post dated 2026-07-26.
-- Raw bookmark: [[raw/x-bookmarks/2026-07-28/2082044844759757058]]
+- Raw bookmark: [[raw/x-bookmarks/26-07-28/2082044844759757058]]

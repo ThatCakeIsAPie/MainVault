@@ -5,8 +5,8 @@ updated: 2026-08-06
 type: principle
 tags: [personal-development, discipline, philosophy, mental-model]
 sources:
-  - raw/x-bookmarks/2026-07-13/2076194221711581196.md
-  - raw/x-bookmarks/2026-08-05/2085018834528849974.md
+  - raw/x-bookmarks/26-07-13/2076194221711581196.md
+  - raw/x-bookmarks/26-08-05/2085018834528849974.md
 confidence: medium
 ---
 
@@ -20,7 +20,7 @@ This is not permission to ignore real stakeholders or consequences. It is a filt
 
 ## Theological audience correction
 
-The recovered video aphorism—“you've been seeking validation from a world that crucified a perfect man”—sharpens the audience filter for a Christian frame. Public approval is not a reliable measure of truth, obedience, or worthy work; Christ's rejection is the limiting case against treating consensus as moral validation. This does **not** make criticism irrelevant. It changes the authority structure: criticism should be weighed by truth, fruit, responsibility, and alignment with God rather than accepted merely because it is socially loud. [[raw/x-bookmarks/2026-08-05/2085018834528849974]]
+The recovered video aphorism—“you've been seeking validation from a world that crucified a perfect man”—sharpens the audience filter for a Christian frame. Public approval is not a reliable measure of truth, obedience, or worthy work; Christ's rejection is the limiting case against treating consensus as moral validation. This does **not** make criticism irrelevant. It changes the authority structure: criticism should be weighed by truth, fruit, responsibility, and alignment with God rather than accepted merely because it is socially loud. [[raw/x-bookmarks/26-08-05/2085018834528849974]]
 
 ## Faleth application
 
@@ -44,5 +44,5 @@ Then check whether the feared audience is real, relevant, and bearing consequenc
 
 ## Provenance
 
-- [[research/raw/x-bookmarks/2026-07-13/2076194221711581196]]
-- [[raw/x-bookmarks/2026-08-05/2085018834528849974]]
+- [[research/raw/x-bookmarks/26-07-13/2076194221711581196]]
+- [[raw/x-bookmarks/26-08-05/2085018834528849974]]
