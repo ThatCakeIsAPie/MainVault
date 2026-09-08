@@ -75,7 +75,7 @@ The full mechanics — the point system, the floor, the layers, and how a team c
 
 Two share classes and one account structure carry ownership. **Class A** is governance without financial ownership: the vote at the office, held by members who earned it. **Class B** is financial ownership without governance: dividends, no vote, minted only from earned profit share. A **Managed Capital Account** is neither — outside capital placed with the office for a return, with no claim on the firm itself.
 
-Everything prices at book value, always, in every direction. The full equity mechanics are in [[The Equity Framework]], and how money moves through the system is in [[The Financial Framework]].
+Everything prices at Faleth book value, always, in every direction — assets minus liabilities minus unrealized gains, so profit share and performance follow realized economics rather than appraisals. The full equity mechanics are in [[The Equity Framework]], and how money moves through the system is in [[The Financial Framework]].
 
 ---
 
@@ -149,7 +149,8 @@ This is also what makes Article IV mean anything. Elections and votes are the or
 
 **No trapping.** No participant, team, or member may be forced to remain in any part of this system. If someone wants to leave, let them leave. If someone wants to stay, let them stay. Neither requires anyone else's permission.
 
-**Book value, in every direction.** All separations use book value — assets minus liabilities minus unrealized asset gains/losses. No subjective multiples, no negotiated market price, no punitive discounts. The same number that prices shares, acquisitions, and dividends prices separations. One method, applied everywhere, in both directions.
+**Book value, in every direction.** All separations use Faleth book value — assets minus liabilities minus unrealized gains. No subjective multiples, no negotiated market price, no punitive discounts, and no paper appreciation from appraisals or mark-to-market until a gain is realized against basis. The same number that prices shares, acquisitions, dividends, pool growth, and profit share prices separations. One method, applied everywhere, in both directions ([[The Equity Framework]], [[The Financial Framework]]).
+
 
 **Earned stakes travel.** Class B shares go with the person who earned them, whichever side of a fork they choose. This cannot be altered by any fork agreement.
 

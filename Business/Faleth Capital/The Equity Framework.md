@@ -28,6 +28,14 @@ Class B is minted, never bought. The only source is earned profit share, from th
 
 That is the office's own equity, not the total pool. Investor capital in the pool belongs to the investors; Class B is priced on what the office itself owns. A number on the balance sheet divided by a number everyone can see.
 
+**Faleth book value is not plain accounting equity.** For every use of book value in this system — Class B pricing, mint and burn, pool growth, profit share, performance fees, acquisitions, and separations — office equity means:
+
+**assets − liabilities − unrealized gains**
+
+Unrealized gains are any increase in an asset's carrying value above its cost basis that has not been locked in by a completed sale, settlement, or other realization event: a broker's appraisal, a mark-to-market write-up, a comparable-sales revaluation, or any other paper uplift. Those figures may appear on a third-party statement; they do not raise Faleth book value, and they do not create profit share or performance fees, until they are realized against basis. When an asset is sold (or otherwise realized), the gain above basis enters the ordinary economics and only then can move the pool and the shares that depend on it.
+
+The rule is general — real estate, securities, equipment, inventory carried above cost, and anything else. It exists to keep the numbers hard to game. Without it, someone could pressure or bribe a broker for a higher valuation so their performance and profit share look better than the cash economics support. Appreciation still matters to the firm; it simply doesn't pay out until the market has actually cleared it.
+
 Here is how it moves through the books. When a quarter's profit share is calculated, the cash sits in assets and the obligation to pay it sits in accounts payable. Take it in cash and both disappear together. Convert it to Class B instead and the cash never moves at all — the obligation simply shifts out of accounts payable and into Class B equity. Shares live on the same side of the balance sheet as liabilities without being one: a claim against the office's value rather than an asset of it.
 
 And because minting happens *at* book value, it cannot move book value. Adding a dollar of equity along with a dollar's worth of shares leaves the ratio exactly where it was, and burning removes both in the same proportion to the same effect. Nobody's decision to buy in or cash out changes anyone else's share price. Only the office's actual performance does.
@@ -94,4 +102,4 @@ The eventual aim is to open MCAs to anyone willing to accept the fee structure, 
 
 ---
 
-*This is a living framework. Its parameters may be adjusted by Class A members through the amendment process in [[Faleth Capital Constitution#Article VII Amendments|Article VII of the Constitution]]. The principles are the parts meant to last: governance and financial ownership are separate things, both are earned rather than bought, everything prices at book value, cashing out is always available, and MCA returns never touch the Class B dividend pool.*
+*This is a living framework. Its parameters may be adjusted by Class A members through the amendment process in [[Faleth Capital Constitution#Article VII Amendments|Article VII of the Constitution]]. The principles are the parts meant to last: governance and financial ownership are separate things, both are earned rather than bought, everything prices at Faleth book value (assets − liabilities − unrealized gains — realized economics only), cashing out is always available, and MCA returns never touch the Class B dividend pool.*
