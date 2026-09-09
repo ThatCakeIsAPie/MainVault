@@ -28,9 +28,15 @@ Class B is minted, never bought. The only source is earned profit share, from th
 
 That is the office's own equity, not the total pool. Investor capital in the pool belongs to the investors; Class B is priced on what the office itself owns. A number on the balance sheet divided by a number everyone can see.
 
+Office equity is calculated as follows:
+
+**Assets − Liabilities − Unrealized gains/losses = Office Equity**
+
+We are against speculation of all kinds. Portfolio value is not affected by market flucuation.
+
 **Faleth book value is not plain accounting equity.** For every use of book value in this system — Class B pricing, mint and burn, pool growth, profit share, performance fees, acquisitions, and separations — office equity means:
 
-**Assets − Liabilities − Unrealized gains**
+
 
 
 
