@@ -149,7 +149,7 @@ This is also what makes Article IV mean anything. Elections and votes are the or
 
 **No trapping.** No participant, team, or member may be forced to remain in any part of this system. If someone wants to leave, let them leave. If someone wants to stay, let them stay. Neither requires anyone else's permission.
 
-**Book value, in every direction.** All separations use book value — assets minus liabilities. No subjective multiples, no negotiated market price, no punitive discounts. The same number that prices shares, acquisitions, and dividends prices separations. One method, applied everywhere, in both directions.
+**Book value, in every direction.** All separations use book value — assets minus liabilities minus unrealized asset gains/losses. No subjective multiples, no negotiated market price, no punitive discounts. The same number that prices shares, acquisitions, and dividends prices separations. One method, applied everywhere, in both directions.
 
 **Earned stakes travel.** Class B shares go with the person who earned them, whichever side of a fork they choose. This cannot be altered by any fork agreement.
 
