@@ -30,7 +30,9 @@ That is the office's own equity, not the total pool. Investor capital in the poo
 
 **Faleth book value is not plain accounting equity.** For every use of book value in this system — Class B pricing, mint and burn, pool growth, profit share, performance fees, acquisitions, and separations — office equity means:
 
-**assets − liabilities − unrealized gains**
+**Assets − Liabilities − Unrealized gains**
+
+
 
 Unrealized gains are any increase in an asset's carrying value above its cost basis that has not been locked in by a completed sale, settlement, or other realization event: a broker's appraisal, a mark-to-market write-up, a comparable-sales revaluation, or any other paper uplift. Those figures may appear on a third-party statement; they do not raise Faleth book value, and they do not create profit share or performance fees, until they are realized against basis. When an asset is sold (or otherwise realized), the gain above basis enters the ordinary economics and only then can move the pool and the shares that depend on it.
 
