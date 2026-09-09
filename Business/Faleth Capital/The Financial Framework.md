@@ -51,10 +51,6 @@ The ratio drifts, and when it does it's a signal rather than a crisis. Too much 
 
 Everything the office pays out is calculated once a quarter off a single number: **the growth of the total pool.** The pool is cash and assets together — liquid reserves plus the combined book value of every operating subsidiary underneath. Its growth is what that total is worth at the end of the quarter minus what it was worth at the start. If it rose, there's something to share. If it didn't, there isn't. Two balance sheets and a subtraction.
 
-Both snapshots use **Faleth book value**: assets − liabilities − unrealized gains ([[The Equity Framework#2. Earning and Cashing Out Class B|The Equity Framework]]). Appraisals, broker write-ups, mark-to-market, and any other paper appreciation above cost basis are stripped out before the subtraction, so a rising valuation cannot manufacture pool growth, the office profit share, investor performance fees, or Class B book-value lift. Only realized gains — a completed sale or equivalent, measured against basis — count. The same exclusion applies inside a subsidiary: **operating profit** for the office fee and the subsidiary profit share ignores revaluations and unrealized gains; those wait for realization. Appreciation can still sit on the asset; it just doesn't pay anyone until the market clears it.
-
-Each allocation is then drawn from a clearly named base, which is what keeps the layers siloed and stops the same dollar being paid out twice.
-
 **The team's share comes off total pool growth.** Twenty percent of everything the pool gained goes to participants across every subsidiary, because their work is what made it grow. It comes off the total, every party's slice included, before anything is divided by ownership.
 
 **Investors pay a 20% performance fee** on their share of the pool's growth, and nothing else. It's income to the office. If the pool doesn't grow, they pay nothing.
