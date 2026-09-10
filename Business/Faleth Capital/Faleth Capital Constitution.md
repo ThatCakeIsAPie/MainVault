@@ -198,6 +198,8 @@ Some things cannot be amended at all:
 - The mint-and-burn mechanism, and the right of any Class B holder to cash out at book value at any time.
 - The liquidity reserve policy — liquid capital held equivalent to the combined book value of the operating subsidiaries.
 - The principles of separation in Article V: no trapping, book value in every direction, earned stakes traveling with the person who earned them, preserving value over destroying it, and the exit door as the ultimate accountability.
+- The 20% performance fee on Managed Capital accounts, which funds the office equity and the Class B dividend pool.
+- The anti-speculation mechanics behind buying/selling at book value and subtracting unrealized gains/losses on assets in portfolio valuations.
 
 These aren't policy positions. They are commitments to every person who participates, and they're what a majority vote exists to protect rather than to overturn.
 
