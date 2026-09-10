@@ -5,6 +5,10 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-08-30] update | Relocate Faleth session summary out of canonical docs
+- Moved Claude session summary from `Business/Faleth Capital/` (canonical suite) to `Research/External AI Memory/2026-07-09 Faleth Document Review and Sanctioning Architecture.md`
+- Updated source links on `Research/faleth/governance/document-review-sanctioning-architecture-2026-07-09.md`
+
 ## [2026-08-17] update | Retired Honcho + GBrain from HermesDelta
 - Agent: `hermes memory off`; MCP `gbrain` removed; cron `bab3a87dc850` paused
 - Host: compose `down` (volumes kept); user timer `gbrain-obsidian-sync` disabled
@@ -1023,3 +1027,37 @@
 - Evidence limits: viral dunk plus official quoted-thread context and Tesseract on two photos. Not a lexicon paper.
 - Verification: bookmark snapshot from the pre-run collector; `xurl --app hermes` read of bookmark + quoted posts; media expansion + OCR. Raw SHA-256 matched body.
 - Files changed in this ingest: 1 raw note, 1 new wiki page, shares log, `index.md`, and `log.md`.
+
+## [2026-08-24] ingest | CrubTV / Valve rejection and goal-current-state-path principle
+
+- Source: `https://x.com/CrubTV/status/2091942214087606585?s=20`
+- Lyle refinements:
+  - “Here is the goal, here is where we are, and this is the path towards achieving it.”
+  - Most rejections say “no” without “why not,” leaving a causal vacuum that makes the decision feel personal.
+- Raw transcripts:
+  - `raw/transcripts/2026-08-24-crubtv-valve-rejection-letter.md`
+  - `raw/transcripts/2026-08-24-lyle-goal-current-state-path-principle.md`
+  - `raw/transcripts/2026-08-24-lyle-why-not-rejection-feels-personal.md`
+- Created principles:
+  - `concepts/offshoots/rejection-that-preserves-agency.md`
+  - `concepts/offshoots/goal-current-state-path.md`
+- Core distinctions: reject present fit without sentencing a person's future; every useful improvement loop needs a legible goal, honest current state, and credible path across the gap; a truthful “why not” prevents institutional silence from becoming an identity-level verdict.
+- Evidence limits: the letter and follow-ups were recovered through X Search with image understanding and are preserved as attributed source text, not independently verified Valve policy.
+- Updated `index.md`, the Telegram X shares log, and `log.md`; all three raw body SHA-256 values verified.
+
+## [2026-08-24] ingest | CrubTV / Valve rejection and goal-current-state-path principle
+
+- Source: `https://x.com/CrubTV/status/2091942214087606585?s=20`
+- Lyle refinements:
+  - “Here is the goal, here is where we are, and this is the path towards achieving it.”
+  - Most rejections say “no” without “why not,” leaving a causal vacuum that makes the decision feel personal.
+- Raw transcripts:
+  - `raw/transcripts/2026-08-24-crubtv-valve-rejection-letter.md`
+  - `raw/transcripts/2026-08-24-lyle-goal-current-state-path-principle.md`
+  - `raw/transcripts/2026-08-24-lyle-why-not-rejection-feels-personal.md`
+- Created principles:
+  - `concepts/offshoots/rejection-that-preserves-agency.md`
+  - `concepts/offshoots/goal-current-state-path.md`
+- Core distinctions: reject present fit without sentencing a person's future; every useful improvement loop needs a legible goal, honest current state, and credible path across the gap; a truthful “why not” prevents institutional silence from becoming an identity-level verdict.
+- Evidence limits: the letter and follow-ups were recovered through X Search with image understanding and are preserved as attributed source text, not independently verified Valve policy.
+- Updated `index.md`, the Telegram X shares log, and `log.md`; all three raw body SHA-256 values verified.
