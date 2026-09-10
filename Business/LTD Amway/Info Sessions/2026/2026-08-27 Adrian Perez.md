@@ -69,3 +69,4 @@ The fix always happened 30 days ago.
 "What happens if i dont make this happen" is a sign of a weak pipeline
 "What happens if i make this happen" Is a sign of a strong pipeline
 Are you in the game right now, or just in the jersey?
+If you are o
