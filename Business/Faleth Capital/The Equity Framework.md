@@ -32,7 +32,7 @@ Office equity is calculated as follows:
 
 **Assets − Liabilities − Unrealized gains/losses = Office Equity**
 
-We are against speculation of all kinds. Portfolio value is not affected by market flucuation.
+We are against speculation of all kinds. Portfolio value is not affected by market flucuation. We count the cash invested compared to the cash we get back from the investment. Until the cash hits the bank, we don't calculate gains or losses.
 
 Here is how the class B math moves through the books. When a quarter's profit share is calculated, the cash sits in assets and the obligation to pay it sits in accounts payable. Take it in cash and both disappear together. Convert it to Class B instead and the cash never moves at all — the obligation simply shifts out of accounts payable and into Class B equity. Shares live on the same side of the balance sheet as liabilities without being one: a claim against the office's value rather than an asset of it.
 
