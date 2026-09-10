@@ -43,7 +43,8 @@ Source: [[ltd-amway/NM-Room-Tension-Discussion-2026-07-05]]
   - 4-pack: early sponsor outcomes / finding 3 builders.
   - One-in-twelve: personal sponsors → eventual Platinum-bearing width group.
   - Plan-shower: org composition among active builders.
-- **Rule:** Never mix denominators. Plan with the model that matches the decision.
+  - Dual 100s: interviews or product talks as the courage unit; 10–20 keep per hundred; ten personals sharing ~100 interviews/month as linear group adds.
+- **Rule:** Never mix denominators. Plan with the model that matches the decision. The 100s do not replace 12 personal sponsors/year or one-in-twelve Platinum width. Canonical: [[queries/hundreds-for-team-and-customers]].
 
 ## 6. PV / Platinum count vs Qualification Credits
 

@@ -1,17 +1,18 @@
 ---
 title: Messaging UI as the Agent Operating Surface
 created: 2026-08-12
-updated: 2026-08-14
+updated: 2026-08-24
 type: principle
 tags: [ai, software, infrastructure, systems, leverage]
 sources:
   - raw/transcripts/lyle-x-share-2087247083971760207.md
-  - raw/x-bookmarks/2026-08-11/2087252657589412119.md
-  - raw/x-bookmarks/2026-08-12/2087354679718297992.md
-  - raw/x-bookmarks/2026-08-11/2087247083971760207.md
-  - raw/x-bookmarks/2026-08-11/2087234458336604370.md
-  - raw/x-bookmarks/2026-08-13/2088003994904113614.md
+  - raw/x-bookmarks/26-08-11/2087252657589412119.md
+  - raw/x-bookmarks/26-08-12/2087354679718297992.md
+  - raw/x-bookmarks/26-08-11/2087247083971760207.md
+  - raw/x-bookmarks/26-08-11/2087234458336604370.md
+  - raw/x-bookmarks/26-08-13/2088003994904113614.md
   - raw/transcripts/lyle-x-share-2088305236003926468.md
+  - raw/transcripts/lyle-x-share-2091893618801885456.md
 confidence: medium
 ---
 
@@ -75,6 +76,8 @@ From the launch + endorsement, keep these as design criteria — not brand loyal
 
 Voice is an additional edge (see [[research/faleth/process/delta-phone-interface-grok-voice-hermes-2026]]): ears/mouth can move to Grok Voice or local STT/TTS, but **Hermes remains the operating system**.
 
+Local Desktop now has a fourth pointing method: **HUD overlay**. Park the chrome-free bar on the live app; "this/here/that page" resolve to what sits underneath it. Messaging stays the remote cockpit. HUD is the stay-in-the-work cockpit. See [[faleth/process/hermes-hud-overlay-as-context-2026]].
+
 ## Competitive read (calm, not fanboy)
 
 - xAI is productizing **chat-native agent teammates** at consumer/pro scale with tool-use theater and viral launch energy.
@@ -104,8 +107,8 @@ The market is catching up to a thesis Lyle already built: **messaging is the coc
 
 ## Bookmark provenance
 
-- [[raw/x-bookmarks/2026-08-11/2087252657589412119]] — full “Intro to Grok Bot” article and architecture
-- [[raw/x-bookmarks/2026-08-12/2087354679718297992]] — cloud-VM clarification
-- [[raw/x-bookmarks/2026-08-11/2087247083971760207]] — messaging-teammates workflow endorsement
-- [[raw/x-bookmarks/2026-08-11/2087234458336604370]] — secondary launch description and screenshots
-- [[raw/x-bookmarks/2026-08-13/2088003994904113614]] — Hermes Bot Mode public-beta launch and Desktop screenshots
+- [[raw/x-bookmarks/26-08-11/2087252657589412119]] — full “Intro to Grok Bot” article and architecture
+- [[raw/x-bookmarks/26-08-12/2087354679718297992]] — cloud-VM clarification
+- [[raw/x-bookmarks/26-08-11/2087247083971760207]] — messaging-teammates workflow endorsement
+- [[raw/x-bookmarks/26-08-11/2087234458336604370]] — secondary launch description and screenshots
+- [[raw/x-bookmarks/26-08-13/2088003994904113614]] — Hermes Bot Mode public-beta launch and Desktop screenshots

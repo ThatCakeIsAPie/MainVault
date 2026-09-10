@@ -5,7 +5,7 @@ updated: 2026-07-29
 type: principle
 tags: [software, infrastructure, open-source, systems, leverage]
 sources:
-  - raw/x-bookmarks/2026-07-28/2082106744788955310.md
+  - raw/x-bookmarks/26-07-28/2082106744788955310.md
 confidence: medium
 ---
 
@@ -35,4 +35,4 @@ Resilience is not merely “the service works offline.” The onboarding, distri
 ## Provenance
 
 - X bookmark by @callebtc; attached image depicts Bluetooth/hotspot APK transfer and labels the project open source.
-- Raw bookmark: [[raw/x-bookmarks/2026-07-28/2082106744788955310]]
+- Raw bookmark: [[raw/x-bookmarks/26-07-28/2082106744788955310]]

@@ -5,8 +5,8 @@ updated: 2026-08-08
 type: concept
 tags: [hardware, infrastructure, architecture, systems]
 sources:
-  - raw/x-bookmarks/2026-08-07/2085545377651212626.md
-  - raw/x-bookmarks/2026-08-07/2085574138715054540.md
+  - raw/x-bookmarks/26-08-07/2085545377651212626.md
+  - raw/x-bookmarks/26-08-07/2085574138715054540.md
 confidence: low
 contested: true
 ---
@@ -33,7 +33,7 @@ The underlying concept is technically credible enough to have active research an
 
 ## Terafab signal — August 2026
 
-Two bookmarked posts interpret imagery in a SpaceX Terafab video as a circular particle accelerator intended for FEL lithography. One cites Elon Musk's reply, “FEL FTW,” as confirmation of the direction. [[raw/x-bookmarks/2026-08-07/2085545377651212626]] [[raw/x-bookmarks/2026-08-07/2085574138715054540]]
+Two bookmarked posts interpret imagery in a SpaceX Terafab video as a circular particle accelerator intended for FEL lithography. One cites Elon Musk's reply, “FEL FTW,” as confirmation of the direction. [[raw/x-bookmarks/26-08-07/2085545377651212626]] [[raw/x-bookmarks/26-08-07/2085574138715054540]]
 
 The evidence supports only a narrow conclusion: **Musk publicly endorsed FEL in the discussion, and observers inferred a Terafab accelerator from promotional imagery.** It does not verify:
 

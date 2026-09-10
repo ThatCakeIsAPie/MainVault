@@ -1,12 +1,12 @@
 ---
 title: Self-Writing Vault as an Operating Loop (2026)
 created: 2026-07-13
-updated: 2026-08-10
+updated: 2026-09-01
 type: principle
 tags: [ai, software, systems, automation, personal-development]
 sources:
-  - research/raw/x-bookmarks/2026-07-13/2076107957277008100.md
-  - raw/x-bookmarks/2026-08-09/2086512844594679820.md
+  - research/raw/x-bookmarks/26-07-13/2076107957277008100.md
+  - raw/x-bookmarks/26-08-09/2086512844594679820.md
 confidence: medium
 ---
 
@@ -54,9 +54,11 @@ That does **not** make agent logs an unfiltered psychological ground truth. Peop
 - [[SOURCE-MANIFEST]]
 - [[OKF-COMPATIBILITY]]
 - [[faleth/process/hermes-cloud-and-x-mcp-2026]]
+- [[faleth/process/governed-content-plane-not-company-brain-2026]]
+- [[faleth/process/obsidian-cli-as-semantic-vault-interface-2026]]
 
 ## Provenance
 
-- Bookmark: [[research/raw/x-bookmarks/2026-07-13/2076107957277008100]]
+- Bookmark: [[research/raw/x-bookmarks/26-07-13/2076107957277008100]]
 - Referenced article: “The Self-Writing Vault: 8 Rules for Pointing Claude at Obsidian and Letting It Run Without You,” retrieved through the X API on 2026-07-13.
-- [2] [[raw/x-bookmarks/2026-08-09/2086512844594679820]] — claim that coding-agent histories are unusually candid records of the operator's mind; preserved with selection-bias and privacy caveats.
+- [2] [[raw/x-bookmarks/26-08-09/2086512844594679820]] — claim that coding-agent histories are unusually candid records of the operator's mind; preserved with selection-bias and privacy caveats.

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-24 | Total pages: 54+
+> Last updated: 2026-09-03 | Total pages: 152+
 
 ## Meta / schema
 
@@ -45,6 +45,7 @@
 - [[offshoots/environment-design-and-standards]] — Environment shapes behavior; deliberately choose people and culture that lift standards rather than lower them.
 - [[offshoots/factory-over-product-thinking]] — The highest-leverage builders focus less on the visible product and more on the factory that repeatedly produces products, teams, leaders, and capacity.
 - [[offshoots/faith-anchored-action-and-obedience]] — Faith is treated as action taken before full proof appears, especially when rooted in obedience rather than vague optimism.
+- [[offshoots/family-formation-demographic-flywheel]] — Required loop for fertility at scale: good jobs → early marriage → inexpensive housing → children → community growth → schools/demand → more jobs.
 - [[offshoots/family-legacy-as-mission-multiplier]] — Business is repeatedly framed as a vehicle for family, marriage, legacy, and generational impact.
 - [[offshoots/honor-edification-and-communication-rhythm]] — Healthy duplication depends on honoring the mentorship chain, edifying the right people, and maintaining clear communication rhythms.
 - [[offshoots/identity-and-belief-drive-behavior]] — Lasting behavioral change comes from identity and belief change, not temporary motivation or surface discipline.
@@ -97,10 +98,18 @@
 - [[faleth/mindset/action-without-audience-permission-2026]] — Stop treating imagined spectators as a permissioning authority; act when the feared audience is neither real nor consequential.
 - [[faleth/mindset/unstructured-time-as-cognitive-infrastructure-2026]] — Preserve input-free space for synthesis, reflection, and original judgment; Claude screenshot claims remain contested pending stronger evidence.
 - [[faleth/mindset/eschatology-shapes-present-stewardship-2026]] — Future expectations shape present Christian posture; Christ-centered preparation, redemptive stewardship, and hope without pretending one image settles eschatological debates.
+- [[faleth/mindset/extract-the-mechanism-swap-the-vehicle-2026]] — Isolate the lever in a meme or ritual, then swap the vehicle; do not cargo-cult the Blizzard.
 
 **Bridge & strategy**
 - [[faleth/bridge-strategy/game-finish-bridge-2026]] — Indie game ship as cash-timing bridge alongside GovCon deals.
 - [[faleth/bridge-strategy/automation-services-2026]] — Automation services bridge (on hold unless runway forces linear income).
+
+## VXE / GovCon ops
+
+- [[business/vxe/open-todos]] — Living VXE working list (pricing, solicitation follow-up, SAR-objection responses).
+- [[business/vxe/piee-solicitation-email-notifications-after-proposal-manager-activation]] — After admin activates Proposal Manager (SOL): confirm Active, SOL POC emails, Outlook routing, acceptance test; no BOT/RPA scrape by default.
+- [[business/vxe/full-time-transition-research-2026]] — Five-path facility and income transition research (June 2026).
+- [[business/vxe/federal-electronics-repair-market-usaspending-2026]] — USASpending TAM: PSC J058+J059 ~$1.79B/year obligated FY2021–FY2025; new-buy PSC 58 excluded; small-business set-aside floor ~$126M/year.
 
 **Governance & operating style**
 - [[faleth/governance/peaceful-fork-voluntary-alignment-2026]] — Voluntary alignment and peaceful fork without coercive upline rent.
@@ -135,11 +144,13 @@
 
 ## Queries
 
+- [[fertility-crisis-is-incentives]] — Fertility crisis as dead household incentives, not household cash; civic repair is the family-formation flywheel.
 - [[faleth-through-maslow-hierarchy-of-needs]] — Faleth as developmental scaffolding from subsistence and safety through belonging, esteem, actualization, and service beyond self.
 - [[what-why-how-three-by-three-action-architecture]] — Pyramid with What at the apex, Why/How beneath it, and Push–Pull–Process plus Time–Talent–Treasure as their foundations.
 - [[faleth-capital-operating-philosophy]] — Durable synthesis of Faleth's contribution, ownership, governance, trust, and discipleship logic.
 - [[heart-upstream-of-identity-theological-horticulture]] — Theological horticulture metaphor: heart/root upstream of identity and behavior/fruit.
 - [[how-ltd-amway-functions-as-leadership-incubator]] — Explains how LTD Amway develops leadership through mentorship, duplication, environment, and sweat equity.
+- [[hundreds-for-team-and-customers]] — Want a team? Interview 100. Want customers? Tell 100. Not enough? Another 100. Keep ~10–20; 10 personals share ~100 interviews/month.
 - [[trust-as-root-of-business-systems]] — Synthesizes trust as the root asset beneath compensation, mentorship, delegation, governance, sales, and culture.
 
 ## X bookmark principles (2026-07)
@@ -183,5 +194,7 @@
 - [[faleth/process/messaging-ui-as-agent-operating-surface-2026]] — Messaging becomes an effective agent cockpit only when persistent compute, layered memory, triggers, handoffs, review controls, and verified tool execution sit underneath.
 - [[faleth/process/spring-damper-undulation-procedural-secondary-motion-2026]] — Simple spring-damper dynamics and length constraints can produce inspectable, reusable wave-like secondary animation without generative models.
 - [[faleth/process/hermes-bot-mode-persistent-profiles-2026]] — Hermes Bot Mode treats named agent profiles as standing teammates with jobs, memory, and inter-bot chat, distinct from disposable sessions and from mid-flight subagent steering.
+- [[faleth/process/hermes-hud-overlay-as-context-2026]] — HUD overlay parks on the live app; bar position is the referent. Screen-draw (`annotate_screen`) is a 2026-08-27 OPEN PR, not shipped here.
+- [[faleth/process/governed-content-plane-not-company-brain-2026]] — Box+Hermes is a permissioned content/retrieval plane plus orchestrator, not a company brain; steal the planes, not the product.
+- [[faleth/process/obsidian-cli-as-semantic-vault-interface-2026]] — Official Obsidian CLI is the semantic vault API (tasks, Bases, link-safe moves), not the first time agents can touch markdown.
 - [[faleth/process/owner-manages-agent-manager-not-the-work-2026]] — Owner manages a named manager-agent; that agent owns review and the next specialist hire; inbound jobs are the scoreboard.
-

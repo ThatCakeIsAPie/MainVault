@@ -7,7 +7,7 @@ tags: [ai, llm, hardware, infrastructure, inference, systems, leverage]
 sources:
   - raw/transcripts/lyle-x-share-2079684905991118892.md
   - raw/sources/mesh-llm-2026-07-22.md
-  - raw/x-bookmarks/2026-08-04/2084661711521366108.md
+  - raw/x-bookmarks/26-08-04/2084661711521366108.md
 confidence: medium
 ---
 
@@ -42,7 +42,7 @@ The combination is materially more interesting than either product alone.
 
 ## Official product signal — 2026-08-04
 
-Block's Buzz team now publicly frames the integration as **GPU matchmaking for agents**: idle gaming PCs and homelab machines can serve the owner's agents or share inference capacity with a community. The linked engineering article describes three distinct modes—pooling models for additional capacity, mixture-of-agents for more robust responses, and splitting a large model across machines. That strengthens the evidence that shared compute is a product direction rather than a buried repository experiment, while leaving reliability, trust, and performance as deployment questions. [[raw/x-bookmarks/2026-08-04/2084661711521366108]]
+Block's Buzz team now publicly frames the integration as **GPU matchmaking for agents**: idle gaming PCs and homelab machines can serve the owner's agents or share inference capacity with a community. The linked engineering article describes three distinct modes—pooling models for additional capacity, mixture-of-agents for more robust responses, and splitting a large model across machines. That strengthens the evidence that shared compute is a product direction rather than a buried repository experiment, while leaving reliability, trust, and performance as deployment questions. [[raw/x-bookmarks/26-08-04/2084661711521366108]]
 
 The durable distinction remains crucial: routing independent requests across idle machines is the easy economic win; putting network hops inside one model's token path is the glamorous but latency-sensitive case. See [[faleth/process/buzz-sovereign-agent-workspace-analysis-2026]] and [[faleth/process/llm-inference-serving-five-optimization-surfaces-2026]].
 

@@ -26,6 +26,12 @@ Annual width math for one expected Platinum-bearing group: ~2,500 conversations 
 
 Sources: [[Business/LTD Amway/Platinum 7500PV Activity Math]], [[Business/LTD Amway/Founders Triple Diamond Work Requirement Model]]
 
+## The 100s (courage unit, not funnel replacement)
+
+Lyle’s phrase: want a team, interview 100; want a customer base, tell 100 people about the products; if either isn’t enough, do 100 more. Planning keep: about 10–20 per hundred. Ten personals sharing ~100 interviews a month → ~10 adds a month → ~100 on the team in a year (linear group adds).
+
+Do not mix this denominator with daily conversations / MG1s / 12 personal sponsors per year. Canonical: [[queries/hundreds-for-team-and-customers]].
+
 ## Operating rules
 
 1. **Win = meet people**, not "get the number." Agenda-light marketplace presence reduces weirdness and increases authenticity (Hadden / Gordon Night Owl).
@@ -71,6 +77,7 @@ Source: [[ltd-amway/NM-Room-Tension-Discussion-2026-07-05]]
 
 ## Related principles
 
+- [[queries/hundreds-for-team-and-customers]]
 - [[concepts/offshoots/pipeline-abundance-through-repetition]]
 - [[concepts/offshoots/networking-and-connection-skills]]
 - [[concepts/offshoots/sweat-equity-as-primary-selection-mechanism]]

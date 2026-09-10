@@ -6,7 +6,7 @@ type: concept
 tags: [strategy, finance, infrastructure, operations]
 sources:
   - raw/transcripts/lyle-x-share-2085411664568914182.md
-  - raw/x-bookmarks/2026-08-06/2085411664568914182.md
+  - raw/x-bookmarks/26-08-06/2085411664568914182.md
 confidence: medium
 contested: true
 ---
@@ -100,7 +100,7 @@ The X post’s “mini-triangle” transport network is a proposal, not a verifi
 ## Source
 
 - [[research/raw/transcripts/lyle-x-share-2085411664568914182]]
-- [[raw/x-bookmarks/2026-08-06/2085411664568914182]]
+- [[raw/x-bookmarks/26-08-06/2085411664568914182]]
 - [YIMBYLAND post](https://x.com/i/status/2085411664568914182)
 
 ## Related

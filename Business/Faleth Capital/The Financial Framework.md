@@ -51,8 +51,6 @@ The ratio drifts, and when it does it's a signal rather than a crisis. Too much 
 
 Everything the office pays out is calculated once a quarter off a single number: **the growth of the total pool.** The pool is cash and assets together — liquid reserves plus the combined book value of every operating subsidiary underneath. Its growth is what that total is worth at the end of the quarter minus what it was worth at the start. If it rose, there's something to share. If it didn't, there isn't. Two balance sheets and a subtraction.
 
-Each allocation is then drawn from a clearly named base, which is what keeps the layers siloed and stops the same dollar being paid out twice.
-
 **The team's share comes off total pool growth.** Twenty percent of everything the pool gained goes to participants across every subsidiary, because their work is what made it grow. It comes off the total, every party's slice included, before anything is divided by ownership.
 
 **Investors pay a 20% performance fee** on their share of the pool's growth, and nothing else. It's income to the office. If the pool doesn't grow, they pay nothing.
@@ -118,4 +116,4 @@ The system doesn't need every layer performing at once. It needs one, and the ar
 
 ---
 
-*This is a living framework. The parameters — the office fee percentages, the profit-share rates, the dividend split, the deployment target — are set by Class A members through the amendment process in [[Faleth Capital Constitution#Article VII Amendments|Article VII of the Constitution]]. The principles are the parts meant to last: the war chest only fills, costs come off the top rather than pushing down, the biggest expense flexes with revenue, everything is calculated off one snapshot, and people are paid from the number they moved.*
+*This is a living framework. The parameters — the office fee percentages, the profit-share rates, the dividend split, the deployment target — are set by Class A members through the amendment process in [[Faleth Capital Constitution#Article VII Amendments|Article VII of the Constitution]]. The principles are the parts meant to last: the war chest only fills, costs come off the top rather than pushing down, the biggest expense flexes with revenue, everything is calculated off one Faleth-book-value snapshot (realized economics only — unrealized gains excluded), and people are paid from the number they moved.*

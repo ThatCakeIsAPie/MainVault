@@ -5,7 +5,7 @@ updated: 2026-07-14
 type: principle
 tags: [business, skills, networking, relationships]
 sources:
-  - raw/x-bookmarks/2026-07-14/2076351797673824318.md
+  - raw/x-bookmarks/26-07-14/2076351797673824318.md
 confidence: medium
 ---
 
@@ -45,5 +45,5 @@ For GovCon and Faleth, the durable asset is not the number of contacts; it is a 
 ## Provenance
 
 - Ben Lang, “Ideas to help you build a better personal network,” X Article bookmarked 2026-07-14.
-- Raw: [[raw/x-bookmarks/2026-07-14/2076351797673824318]]
+- Raw: [[raw/x-bookmarks/26-07-14/2076351797673824318]]
 - Earlier LTD/Amway sessions consistently framed networking and connection as developable competencies.

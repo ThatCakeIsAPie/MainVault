@@ -28,7 +28,13 @@ Class B is minted, never bought. The only source is earned profit share, from th
 
 That is the office's own equity, not the total pool. Investor capital in the pool belongs to the investors; Class B is priced on what the office itself owns. A number on the balance sheet divided by a number everyone can see.
 
-Here is how it moves through the books. When a quarter's profit share is calculated, the cash sits in assets and the obligation to pay it sits in accounts payable. Take it in cash and both disappear together. Convert it to Class B instead and the cash never moves at all — the obligation simply shifts out of accounts payable and into Class B equity. Shares live on the same side of the balance sheet as liabilities without being one: a claim against the office's value rather than an asset of it.
+Office equity is calculated as follows:
+
+**Assets − Liabilities − Unrealized gains/losses = Office Equity**
+
+We are against speculation of all kinds. Portfolio value is not affected by market flucuation. We count the cash invested compared to the cash we get back from the investment. Until the cash hits the bank, we don't calculate gains or losses.
+
+Here is how the class B math moves through the books. When a quarter's profit share is calculated, the cash sits in assets and the obligation to pay it sits in accounts payable. Take it in cash and both disappear together. Convert it to Class B instead and the cash never moves at all — the obligation simply shifts out of accounts payable and into Class B equity. Shares live on the same side of the balance sheet as liabilities without being one: a claim against the office's value rather than an asset of it.
 
 And because minting happens *at* book value, it cannot move book value. Adding a dollar of equity along with a dollar's worth of shares leaves the ratio exactly where it was, and burning removes both in the same proportion to the same effect. Nobody's decision to buy in or cash out changes anyone else's share price. Only the office's actual performance does.
 
@@ -94,4 +100,4 @@ The eventual aim is to open MCAs to anyone willing to accept the fee structure, 
 
 ---
 
-*This is a living framework. Its parameters may be adjusted by Class A members through the amendment process in [[Faleth Capital Constitution#Article VII Amendments|Article VII of the Constitution]]. The principles are the parts meant to last: governance and financial ownership are separate things, both are earned rather than bought, everything prices at book value, cashing out is always available, and MCA returns never touch the Class B dividend pool.*
+*This is a living framework. Its parameters may be adjusted by Class A members through the amendment process in [[Faleth Capital Constitution#Article VII Amendments|Article VII of the Constitution]]. The principles are the parts meant to last: governance and financial ownership are separate things, both are earned rather than bought, everything prices at Faleth book value (assets − liabilities − unrealized gains — realized economics only), cashing out is always available, and MCA returns never touch the Class B dividend pool.*

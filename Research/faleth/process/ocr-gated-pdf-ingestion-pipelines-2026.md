@@ -5,7 +5,7 @@ updated: 2026-08-04
 type: principle
 tags: [ai, software, open-source, data, systems]
 sources:
-  - raw/x-bookmarks/2026-08-02/2083759818133688517.md
+  - raw/x-bookmarks/26-08-02/2083759818133688517.md
 confidence: medium
 ---
 
@@ -30,7 +30,7 @@ Firecrawl's open-source `pdf-inspector` is a Rust implementation of this pattern
 - Rust, Python, Node.js, browser-WASM, and CLI interfaces;
 - local operation without model or OCR-service dependencies for native-text files.
 
-The repository's July 31, 2026 benchmark reports **0.875 overall quality** and **0.470 seconds for 200 documents** on an Apple M4 Pro against four other local non-model parsers. The social post compresses this to “0.002s per page” and “fastest.” Treat those as vendor-reported results until reproduced on the actual corpus and hardware. [Repository](https://github.com/firecrawl/pdf-inspector) [[raw/x-bookmarks/2026-08-02/2083759818133688517]]
+The repository's July 31, 2026 benchmark reports **0.875 overall quality** and **0.470 seconds for 200 documents** on an Apple M4 Pro against four other local non-model parsers. The social post compresses this to “0.002s per page” and “fastest.” Treat those as vendor-reported results until reproduced on the actual corpus and hardware. [Repository](https://github.com/firecrawl/pdf-inspector) [[raw/x-bookmarks/26-08-02/2083759818133688517]]
 
 ## Why it matters for agent systems
 

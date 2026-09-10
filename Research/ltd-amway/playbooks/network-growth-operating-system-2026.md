@@ -3,7 +3,7 @@ title: Network Growth Operating System (LTD/Amway)
 type: playbook
 status: canonical-synthesis
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-09-03
 business: LTD / Amway
 tags: [ltd, amway, network-marketing, recruiting, retention, duplication, rank, systems]
 confidence: high
@@ -76,6 +76,7 @@ Source models: [[Business/LTD Amway/Platinum 7500PV Activity Math]], [[Business/
 | 12 sponsors → 3 quit / 3 stick / 3 do something / 3 run hard → 1 Platinum-bearing group | Lyle planning conversion for FP width | One-in-twelve model 2026-07-31 |
 | ~3–4 plan-showers in a ~40–50 person Platinum org; ~1 of 4 to Platinum | Org composition heuristic | Ethan Ellenberg; Chris Colgrove |
 | ~10–15 stay / 100 signups | Active builders vs zero-inflated denominator | Chris Colgrove 2026-07-02 |
+| Interview 100 → recruit 10–20; tell 100 about products → keep 10–20 customers; 10 personals → ~100 interviews/month → ~10 adds/month → ~100 on the team in a year | Lyle courage/volume 100s; linear group adds; not marketplace-contact math and not the one-in-twelve Platinum cohort | Lyle Telegram 2026-09-03; [[queries/hundreds-for-team-and-customers]] |
 
 These are field-planning heuristics. Official income reality is anchored to Amway IDS and FTC earnings-claim rules—not room folklore.
 

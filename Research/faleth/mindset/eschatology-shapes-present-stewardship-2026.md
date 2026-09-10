@@ -4,7 +4,7 @@ created: 2026-08-07
 updated: 2026-08-07
 type: concept
 tags: [theology, worldview, purpose, mental-model]
-sources: [raw/x-bookmarks/2026-08-06/2085413416353538176.md]
+sources: [raw/x-bookmarks/26-08-06/2085413416353538176.md]
 confidence: low
 contested: true
 ---
@@ -43,5 +43,5 @@ This page distills a single screenshot attributed to Ben Cremer and re-shared by
 
 ## Source
 
-- [[raw/x-bookmarks/2026-08-06/2085413416353538176]]
+- [[raw/x-bookmarks/26-08-06/2085413416353538176]]
 - [Sola Chad post](https://x.com/sola_chad/status/2085413416353538176)

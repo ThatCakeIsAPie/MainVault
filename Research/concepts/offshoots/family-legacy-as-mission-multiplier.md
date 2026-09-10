@@ -1,7 +1,7 @@
 ---
 title: Family Legacy as Mission Multiplier
 created: 2026-06-04
-updated: 2026-06-28
+updated: 2026-08-24
 type: concept
 tags: [business, theology, philosophy, framework]
 sources:
@@ -20,7 +20,7 @@ The business is repeatedly framed as a vehicle for family, marriage, legacy, and
 
 Across conferences and leadership nights, the emotional center is often family: parents seeing the fruit before they pass, marriages being modeled, kids seeing examples, future generations inheriting stronger patterns, and teams functioning as extended family. This broadens the definition of success from "I made money" to "the people attached to me are better because I built."
 
-This principle extends [[offshoots/purpose-and-vision-as-focusing-mechanisms]] by naming a specific recurring purpose: legacy through family and future generations.
+This principle extends [[offshoots/purpose-and-vision-as-focusing-mechanisms]] by naming a specific recurring purpose: legacy through family and future generations. Civic-scale family formation is a different layer: [[offshoots/family-formation-demographic-flywheel]].
 
 ### Examples from Practice
 
@@ -42,6 +42,7 @@ This principle is the guardrail against business becoming self-centered ambition
 
 ### Related Principles
 
+- [[offshoots/family-formation-demographic-flywheel]]
 - [[offshoots/purpose-and-vision-as-focusing-mechanisms]]
 - [[foundational/faleth-capital-economic-philosophy]]
 - [[offshoots/traditions-and-experiences-build-teams]]
