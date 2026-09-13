@@ -273,7 +273,7 @@ There are many ways to achieve this, and we believe our system can help achieve 
 
 *Network Marketing income -> Index Funds/Real Estate -> Bucket One income*
 
-This is what we mean by compounding on compounding. Network Marketing, done right, can become a compounding asset, as the people you train and develop can train and develop others. At a large enough scale, the group grows on its own at a compounding rate.
+This is what we mean by compounding on compounding. Network Marketing, done right, can become a compounding asset, as the people you train and develop can train and develop others. Once a large enough threshold is met, the group grows on its own at a compounding rate as people with their own desires build their own businesses inside of your business.
 
 If one chooses not to live on that income, rather, have that income flood into index funds, real estate, or other capital-intensive streams of income that can compound if all one does is wait, then one can access a compounding on compounding income.
 
