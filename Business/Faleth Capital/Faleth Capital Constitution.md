@@ -259,7 +259,11 @@ With all of that out of the way, we can finally explain the practical objective 
 
 Our objective is not to help people earn more, but change *how* they earn.
 
-More specifically:
+Some people want to pursue business and make a lot of money. Some want to spend more time with their families. Others want to travel. Everyone has something they wish they could do if they had the adequate freedom to do so.
+
+We believe if a system could exist to help people achieve that, we would unlock so much more potential for the good of all of humanity.
+
+We dis
 *Our system was first started to help people achieve compounding on compounding interest.*
 
 That isn't a typo, we are talking about X to the power of Y to the power of Z.
