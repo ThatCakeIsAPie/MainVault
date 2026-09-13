@@ -257,6 +257,9 @@ Not everyone will walk all five, and not everyone needs to. Each step is designe
 
 With all of that out of the way, we can finally explain the practical objective we hope to achieve for as many of our participants as possible.
 
+Our objective is not to help people earn more, but change *how* they earn.
+
+More specifically:
 *Our system was first started to help people achieve compounding on compounding interest.*
 
 That isn't a typo, we are talking about X to the power of Y to the power of Z.
