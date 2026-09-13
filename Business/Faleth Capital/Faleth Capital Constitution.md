@@ -251,7 +251,7 @@ Five steps, each begun while the previous one is still underway.
 
 **Five: grow both, indefinitely.** There's no finish line. The network matures and self-replicates, the subsidiary grows until you can step back and start another, and eight consecutive quarters of material profit earns a seat at the office. Accumulated wealth is then managed through that same office, under the same philosophy, by the same people. And you begin mentoring the next person through Step One — paid for it, because this system pays people to make themselves unnecessary.
 
-Not everyone will walk all five, and not everyone needs to. But each step is reachable by someone who finished the one before it, and the barrier at every stage is effort and time rather than capital or connections. That is the entire design.
+Not everyone will walk all five, and not everyone needs to. Each step is designed to make your life substantially better than not having walked it. But each step is reachable by someone who finished the one before it, and the barrier at every stage is effort and time rather than capital or connections. That is the entire design.
 
 ## 8.4 — Why Three Streams
 
@@ -273,7 +273,9 @@ There are many ways to achieve this, and we believe our system can help achieve 
 
 *Network Marketing income -> Index Funds/Real Estate -> Bucket One income*
 
-This is what we mean by compounding on compounding. Network Marketing, done right, can become a compounding asset, as the people you train and develop can train and develop others. At a large enough scale, the group grows on its own. If one chooses not to live on that income, rather, have that income flood into index funds, real estate, or other capital-intensive streams of income that can compound if all one does is wait, then one can access a compounding on compounding income.
+This is what we mean by compounding on compounding. Network Marketing, done right, can become a compounding asset, as the people you train and develop can train and develop others. At a large enough scale, the group grows on its own at a compounding rate.
+
+If one chooses not to live on that income, rather, have that income flood into index funds, real estate, or other capital-intensive streams of income that can compound if all one does is wait, then one can access a compounding on compounding income.
 
 Think of it like this: network marketing is a sweat-equity asset while other assets are capital-equity assets. If you have the first going into the second, you achieve what we believe is the ultimate, replicable engine of wealth for anyone.
 
@@ -296,8 +298,6 @@ As soon as they have built a substantial enough team in their network marketing 
 With enough income through network marketing, investments, and dividends, where any one of the three can fuel all of their personal expenses, they should have the skills and financial durability that we trust them to start a brand new subsidiary underneath Faleth Capital. It is by no means a hard requirement of ours for one to start a subsidiary, but we felt it necessary to explicitly list the qualities of our desired candidate.
 
 Whether they start a subsidiary under us or decide to step back and live on their investment income so they can spend more time with their families and travel the world, it doesn't bother us. What matters to us is helping anyone who is ready and able to develop that compounding on compounding asset.
-
-Not everyone will walk the full Five Steps, but they also don't need to.
 
 ---
 
