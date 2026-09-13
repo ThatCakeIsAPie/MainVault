@@ -263,7 +263,7 @@ That isn't a typo, we are talking about X to the power of Y to the power of Z.
 
 Robert Kiyosaki outlines his ideal plan for wealth creation in his book "Rich Dad, Poor Dad":
 
-Active income into assets -> Asset income into other assets -> Live on the interest from the second group of assets.
+Active income into assets -> Asset income into other assets -> Live on the interest from the second class of assets.
 
 The reason is simple. If you have, say, $1M invested into assets, with 10% annual interest, you have an income stream of $100k/yr. If you lived on exactly that, your income would not increase or decrease.
 
@@ -273,7 +273,7 @@ There are many ways to achieve this, and we believe our system can help achieve 
 
 *Network Marketing income -> Index Funds/Real Estate -> Bucket One income*
 
-This is what we mean by compounding on compounding. Network Marketing, done right, can become a compounding asset. If one chooses not to live on that income, rather, have that income flood into index funds, real estate, or other capital-intensive streams of income that can compound if all one does is wait, then one can access a compounding on compounding income.
+This is what we mean by compounding on compounding. Network Marketing, done right, can become a compounding asset, as the people you train and develop can train and develop others. At a large enough scale, the group grows on its own. If one chooses not to live on that income, rather, have that income flood into index funds, real estate, or other capital-intensive streams of income that can compound if all one does is wait, then one can access a compounding on compounding income.
 
 Think of it like this: network marketing is a sweat-equity asset while other assets are capital-equity assets. If you have the first going into the second, you achieve what we believe is the ultimate, replicable engine of wealth for anyone.
 
@@ -296,6 +296,8 @@ As soon as they have built a substantial enough team in their network marketing 
 With enough income through network marketing, investments, and dividends, where any one of the three can fuel all of their personal expenses, they should have the skills and financial durability that we trust them to start a brand new subsidiary underneath Faleth Capital. It is by no means a hard requirement of ours for one to start a subsidiary, but we felt it necessary to explicitly list the qualities of our desired candidate.
 
 Whether they start a subsidiary under us or decide to step back and live on their investment income so they can spend more time with their families and travel the world, it doesn't bother us. What matters to us is helping anyone who is ready and able to develop that compounding on compounding asset.
+
+Not everyone will walk the full Five Steps, but they also don't need to.
 
 ---
 
