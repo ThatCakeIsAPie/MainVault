@@ -261,7 +261,7 @@ Our objective is not to help people earn more, but change *how* they earn.
 
 Some people want to pursue business and make a lot of money. Some want to spend more time with their families. Others want to travel. Everyone has something they wish they could do if they had the adequate freedom to do so.
 
-We believed if a system could exist to help people achieve that, we would unlock so much more potential for the good of all of humanity.
+We believed if a system could exist to help people achieve that, it would unlock so much more potential for the good of all of humanity.
 
 From our research, there was only one dynamic that could unlock that, and it is what our system was designed to accomplish.
 
@@ -275,7 +275,7 @@ Active income into assets -> Asset income into other assets -> Live on the inter
 
 The reason is simple. If you have, say, $1M invested into assets, with 10% annual interest, you have an income stream of $100k/yr. If you lived on exactly that, your income would not increase or decrease.
 
-However, if you had a first-asset class feeding its income into your second-asset class, and you lived off of that second-asset class income as discussed above, your income would continue to increase.
+However, if you had a first-asset class feeding its income into your second-asset class, and you lived off of that second-asset class income as discussed above, your income would continue to increase, regardless of your lifestyle.
 
 There are many ways to achieve this, and we believe our system can help achieve it through those other means, however, the way we recommend is as described in our previous sections. If one follows the five-step blueprint, the outcome should be as follows:
 
