@@ -33,3 +33,16 @@ Room ask: @Faleth @Coder check backend CRM vs overall design; surface discrepanc
 
 ## Payroll clarification (Lyle ask)
 Payroll function is started (Phase 4 spine); not full Contribution floor law or auto payment rails yet.
+
+## Frontend / floor advances (Lyle + Faleth + Coder, same day)
+
+Lyle: earnings tab on person profile; view negative balance; how it hits accounting.
+
+Faleth product shape:
+- Distinguish **soft advance** (repayable from future Layer 2) vs **newcomer grant** (not a debt — don’t call grants “negative balance”).
+- Person earnings: sticky **Pay balance** chip — Advance outstanding / Clear / In grant window.
+- Week rows: Earned (Layer 2) · Floor paid · Δ to balance; drill-down checkable.
+- Floor opt-out on profile.
+- Accounting: cash > earned → Dr Participant advances (asset) / Cr Cash (not extra COF). Later earn-above-floor clears receivable before cash out. Grants → grant/expense, never receivable. Payroll batch carries earned / floor_paid / advance_delta / balance_after.
+
+Coder: will PR that shape once Lyle says soft advances now vs later with items 4/6/7.

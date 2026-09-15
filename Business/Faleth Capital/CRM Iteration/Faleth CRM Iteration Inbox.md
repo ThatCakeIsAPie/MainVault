@@ -103,4 +103,4 @@ Ideas worth keeping, but not worth interrupting current iteration.
 ## Raw Dump — 2026-09-15 Brainstorm Team
 
 CRM note: Faleth + Coder canon pressure-test of FalethCapitalBackend. Open decisions 1–7 in `Research/raw/documents/2026-09-15-brainstorm-crm-canon-discrepancies.md`. Waiting on Lyle approve/deny/clarify especially items 1–3 and PR #5 (anti-gaming book value). Payroll Phase 4 spine confirmed present; floor law incomplete.
-
+CRM feature: Floor advances UI on person earnings (Pay balance chip + week earned/floor/Δ) + GL receivable not COF; grants ≠ debt. Waiting Lyle: soft advances now vs later.
