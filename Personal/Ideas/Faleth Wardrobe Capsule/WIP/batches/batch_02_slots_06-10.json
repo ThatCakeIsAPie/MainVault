@@ -1,0 +1,72 @@
+{
+  "batch_id": "02",
+  "status": "complete",
+  "last_completed_line": 10,
+  "lines": [
+    {
+      "slot": 6,
+      "item": "Dark wash jeans",
+      "vendor": "Levi's",
+      "product_name": "501 Original Men's Jeans",
+      "url": "https://www.levi.com/US/en_US/clothing/men/jeans/straight/501-original-mens-jeans/p/005010115",
+      "color": "Rinse - Dark Wash",
+      "listed_price_usd": 59.99,
+      "price_evidence": "product_page",
+      "size_note": "Size unknown; waist 28-42, length 29-36",
+      "match_notes": "Sale $59.99 from $84.95. Style 005010115. Non-stretch 100% cotton.",
+      "status": "exact"
+    },
+    {
+      "slot": 7,
+      "item": "Khaki/tan chinos",
+      "vendor": "Dockers",
+      "product_name": "Go Airweave Chino, Slim Fit",
+      "url": "https://us.dockers.com/products/go-airweave-chino-slim-fit-002vw0003",
+      "color": "Sahara Khaki",
+      "listed_price_usd": 41.99,
+      "price_evidence": "product_page",
+      "size_note": "Size unknown; waist 28-44, length 29-34",
+      "match_notes": "Sale $41.99 from $80.",
+      "status": "exact"
+    },
+    {
+      "slot": 8,
+      "item": "Dark green polo",
+      "vendor": "Vuori",
+      "product_name": "Ace Polo",
+      "url": "https://vuoriclothing.com/products/ace-polo-ink",
+      "color": "Ink",
+      "listed_price_usd": 78,
+      "price_evidence": "product_page",
+      "size_note": "Size unknown; XXS-3XL",
+      "match_notes": "Forest green polo not found on this pass. Ink performance polo covers classy-casual until a forest restock. $78 PDP.",
+      "status": "equivalent"
+    },
+    {
+      "slot": 9,
+      "item": "Cream or forest quarter-zip",
+      "vendor": "Vuori",
+      "product_name": "Sunday Element Half Zip",
+      "url": "https://vuoriclothing.com/products/sunday-element-half-zip-ink-heather",
+      "color": "Ink Heather",
+      "listed_price_usd": 128,
+      "price_evidence": "product_page",
+      "size_note": "Size unknown; XXS-3XL",
+      "match_notes": "Cream/forest quarter-zip not found. Ink Heather half-zip is the athleisure layer. $128 PDP.",
+      "status": "equivalent"
+    },
+    {
+      "slot": 10,
+      "item": "Western snap or performance western shirt",
+      "vendor": "Wrangler",
+      "product_name": "Cowboy Cut Firm Finish Twill Western Snap Work Shirt",
+      "url": "https://www.wrangler.com/shop/cowboy-cut-firm-finish-twill-western-snap-work-shirt-MS7.html",
+      "color": "Khaki",
+      "listed_price_usd": 44.99,
+      "price_evidence": "product_page",
+      "size_note": "Size unknown; S-4X plus talls. Scrape geo-flagged non-US; confirm US cart.",
+      "match_notes": "Pearl-snap western work shirt in khaki. Product ID MS70319. $44.99 on PDP.",
+      "status": "exact"
+    }
+  ]
+}

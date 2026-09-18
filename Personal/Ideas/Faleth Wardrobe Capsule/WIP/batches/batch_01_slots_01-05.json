@@ -1,0 +1,72 @@
+{
+  "batch_id": "01",
+  "status": "complete",
+  "last_completed_line": 5,
+  "lines": [
+    {
+      "slot": 1,
+      "item": "Forest green suit jacket",
+      "vendor": "SuitShop",
+      "product_name": "Men's Dark Green Suit Jacket",
+      "url": "https://suitshop.com/products/mens-dark-green-suit-jacket/",
+      "color": "Dark Green",
+      "listed_price_usd": 149,
+      "price_evidence": "product_page",
+      "size_note": "Size unknown; SuitShop Fit Finder available; free US returns/exchanges",
+      "match_notes": "Matching 3-piece dark green set with vest + pants on same fabric/color. Price $149 read from SuitShop PDPs Complete the Look (vest, pants, white-shirt pages) linking this jacket SKU. US shipping; free US returns.",
+      "status": "exact"
+    },
+    {
+      "slot": 2,
+      "item": "Forest green waistcoat/vest",
+      "vendor": "SuitShop",
+      "product_name": "Men's Dark Green Suit Vest",
+      "url": "https://suitshop.com/products/green-suit-vest/",
+      "color": "Dark Green",
+      "listed_price_usd": 49,
+      "price_evidence": "product_page",
+      "size_note": "Size unknown; order one size down with Slim jacket; rear clinch adjusters",
+      "match_notes": "Matching piece of SuitShop dark green 3-piece. Price $49 on jacket and pants PDPs Complete the Look for this vest SKU. Fully lined, five-button, 38% recycled poly blend.",
+      "status": "exact"
+    },
+    {
+      "slot": 3,
+      "item": "Forest green dress trousers",
+      "vendor": "SuitShop",
+      "product_name": "Men's Dark Green Suit Pants",
+      "url": "https://suitshop.com/products/mens-dark-green-suit-pants/",
+      "color": "Dark Green",
+      "listed_price_usd": 75,
+      "price_evidence": "product_page",
+      "size_note": "Size unknown; multiple fit/length options; free US returns/exchanges",
+      "match_notes": "Matching piece of SuitShop dark green 3-piece. Price $75 on jacket and vest PDPs Complete the Look for this pants SKU. Dry clean only stretch-fit fabric.",
+      "status": "exact"
+    },
+    {
+      "slot": 4,
+      "item": "White OCBD/dress shirt",
+      "vendor": "Brooks Brothers",
+      "product_name": "American-Made Oxford Cloth Button-Down Dress Shirt",
+      "url": "https://www.brooksbrothers.com/american-made-oxford-cloth-button-down-dress-shirt/ME04455.html?dwvar_ME04455_Color=WHIT",
+      "color": "White",
+      "listed_price_usd": 198,
+      "price_evidence": "product_page",
+      "size_note": "Size unknown; Slim/Regular/Traditional fits; neck 14.5–18.5; sleeve 32–36. Some combos Made on Demand (15 business days, $20 ship fee, no returns).",
+      "match_notes": "Exact white OCBD seed match (ME04455). PDP shows Color White and $198. Made in America. Alt cheaper OCBD: Charles Tyrwhitt Button-Down Stretch Washed Oxford White $119 (CSC0050WHT) if budget preferred.",
+      "status": "exact"
+    },
+    {
+      "slot": 5,
+      "item": "Cream or light tan dress shirt",
+      "vendor": "Charles Tyrwhitt",
+      "product_name": "Non-Iron Twill Shirt - Ivory",
+      "url": "https://www.charlestyrwhitt.com/us/non-iron-twill-shirt---ivory/FON0409VRY.html",
+      "color": "Ivory",
+      "listed_price_usd": 129,
+      "price_evidence": "product_page",
+      "size_note": "Size unknown; classic collar; multibuy $74.75 shown on PDP when qualifying",
+      "match_notes": "Ivory dress shirt = cream/light tan for forest green suit. PDP price $129 single; classic collar pairs with suit. Spread-collar alt same price: FON2405VRY. BB ivory listing currently only patterned/sport shirts, not solid dress shirt.",
+      "status": "equivalent"
+    }
+  ]
+}
