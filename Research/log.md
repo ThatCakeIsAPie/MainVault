@@ -1140,3 +1140,7 @@
 - Updated `index.md`, the Telegram X shares log, and `log.md`; all three raw body SHA-256 values verified.
 =======
 >>>>>>> FETCH_HEAD
+
+- 2026-09-15: Ingested Brainstorm Team CRM vs canon discrepancy dump → raw/documents/2026-09-15-brainstorm-crm-canon-discrepancies.md (+ CRM Iteration Inbox note).
+
+- 2026-09-15: Appended floor-advance frontend/accounting shape to brainstorm CRM discrepancy raw note.

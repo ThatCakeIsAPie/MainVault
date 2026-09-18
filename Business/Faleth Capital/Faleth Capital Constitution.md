@@ -51,7 +51,7 @@ Different mechanics, one destination: ownership, freedom, and wealth that outlas
 
 ## 2.1 — The Office
 
-Faleth Capital is the parent entity. It owns the subsidiaries, holds the shared liquidity pool, manages the share system, collects fees, distributes profit share and dividends, and governs the portfolio.
+Faleth Capital is the parent entity. It owns the subsidiaries, holds the shared liquidity pool, manages the share system, collects fees, distributes gain share and dividends, and governs the portfolio.
 
 It is deliberately thin. The office is a governing body over a pool of capital, not an operating business. Its income is the fee its subsidiaries pay, and its expenses should stay negligible against the portfolio's revenue. Nothing about it is designed to grow into a headquarters.
 
@@ -67,15 +67,15 @@ As a subsidiary outgrows a single team, it divides into **cells** — small, sel
 
 No wages. No salaries. No time clock.
 
-Work is broken into processes, each carrying a point value the team itself sets. People earn from a pool funded by the gross margin of the work they touched, in proportion to the points they earned on it. Beneath that sits a guaranteed floor, so nobody operates from survival anxiety. Above it sits quarterly profit sharing, tying a growing share of income to the long-term health of the business rather than to this week's output.
+Work is broken into processes, each carrying a point value the team itself sets. People earn from a pool funded by the gross margin of the work they touched, in proportion to the points they earned on it. Beneath that sits a guaranteed floor, so nobody operates from survival anxiety. Above it sits quarterly gain sharing, tying a growing share of income to the long-term health of the business rather than to this week's output.
 
 The full mechanics — the point system, the floor, the layers, and how a team calibrates its own parameters — are in [[The Contribution Framework]].
 
 ## 2.4 — Ownership and Money
 
-Two share classes and one account structure carry ownership. **Class A** is governance without financial ownership: the vote at the office, held by members who earned it. **Class B** is financial ownership without governance: dividends, no vote, minted only from earned profit share. A **Managed Capital Account** is neither — outside capital placed with the office for a return, with no claim on the firm itself.
+Two share classes and one account structure carry ownership. **Class A** is governance without financial ownership: the vote at the office, held by members who earned it. **Class B** is financial ownership without governance: dividends, no vote, minted only from earned gain share. A **Managed Capital Account** is neither — outside capital placed with the office for a return, with no claim on the firm itself.
 
-Everything prices at Faleth book value, always, in every direction — assets minus liabilities minus unrealized gains, so profit share and performance follow realized economics rather than appraisals. The full equity mechanics are in [[The Equity Framework]], and how money moves through the system is in [[The Financial Framework]].
+Everything prices at Faleth book value, always, in every direction — assets minus liabilities minus unrealized gains, so gain share and performance follow realized economics rather than appraisals. The full equity mechanics are in [[The Equity Framework]], and how money moves through the system is in [[The Financial Framework]].
 
 ---
 
@@ -125,13 +125,13 @@ Leadership is elected and removable, never appointed. Nobody holds standing to o
 
 Radical transparency isn't a value we admire, it's an operating requirement. Open to every participant across every subsidiary, quarterly: the office's consolidated balance sheet, the dilution factor and dividend per share, the total Class B share count and book value per share, and each subsidiary's margin performance in aggregate — plus this constitution, always.
 
-The balance sheet is the single source of truth for what a share is worth. Its accuracy is a structural commitment to every person who converted earned profit share into equity. Whoever's numbers are wrong is responsible for them — a cell's to its Leads, a subsidiary's to its executive team. Clean books are non-negotiable.
+The balance sheet is the single source of truth for what a share is worth. Its accuracy is a structural commitment to every person who converted earned gain share into equity. Whoever's numbers are wrong is responsible for them — a cell's to its Leads, a subsidiary's to its executive team. Clean books are non-negotiable.
 
 ## 4.4 — The Quarterly Earnings Call
 
 Every quarter, the office holds a call open to every participant. It covers consolidated performance, fee collections and the office's own P&L, the allocation of what the pool gained, book value per share and the dilution factor, subsidiary summaries, what's in the pipeline, and open questions to Class A members.
 
-It happens alongside the distribution of profit share and dividends, which is deliberate. The day people are paid is the day they should also be told exactly how the number was reached.
+It happens alongside the distribution of gain share and dividends, which is deliberate. The day people are paid is the day they should also be told exactly how the number was reached.
 
 ---
 
@@ -149,7 +149,7 @@ This is also what makes Article IV mean anything. Elections and votes are the or
 
 **No trapping.** No participant, team, or member may be forced to remain in any part of this system. If someone wants to leave, let them leave. If someone wants to stay, let them stay. Neither requires anyone else's permission.
 
-**Book value, in every direction.** All separations use Faleth book value — assets minus liabilities minus unrealized gains. No subjective multiples, no negotiated market price, no punitive discounts, and no paper appreciation from appraisals or mark-to-market until a gain is realized against basis. The same number that prices shares, acquisitions, dividends, pool growth, and profit share prices separations. One method, applied everywhere, in both directions ([[The Equity Framework]], [[The Financial Framework]]).
+**Book value, in every direction.** All separations use Faleth book value — assets minus liabilities minus unrealized gains. No subjective multiples, no negotiated market price, no punitive discounts, and no paper appreciation from appraisals or mark-to-market until a gain is realized against basis. The same number that prices shares, acquisitions, dividends, pool growth, and gain share prices separations. One method, applied everywhere, in both directions ([[The Equity Framework]], [[The Financial Framework]]).
 
 
 **Earned stakes travel.** Class B shares go with the person who earned them, whichever side of a fork they choose. This cannot be altered by any fork agreement.
@@ -193,11 +193,13 @@ This constitution may be amended by a two-thirds majority of active Class A memb
 Some things cannot be amended at all:
 
 - The prohibition on wages and salaries inside subsidiaries.
-- That Class B shares can only be acquired through earned profit share.
+- That Class B shares can only be acquired through earned gain share. They cannot be minted through dividends.
 - The transparency requirements in Article IV.
 - The mint-and-burn mechanism, and the right of any Class B holder to cash out at book value at any time.
 - The liquidity reserve policy — liquid capital held equivalent to the combined book value of the operating subsidiaries.
 - The principles of separation in Article V: no trapping, book value in every direction, earned stakes traveling with the person who earned them, preserving value over destroying it, and the exit door as the ultimate accountability.
+- The 20% performance fee on Managed Capital accounts, which funds the office equity and the Class B dividend pool.
+- The anti-speculation mechanics behind buying/selling at book value and subtracting unrealized gains/losses on assets in portfolio valuations.
 
 These aren't policy positions. They are commitments to every person who participates, and they're what a majority vote exists to protect rather than to overturn.
 
@@ -219,7 +221,7 @@ The first comes from the Talmud: divide your wealth into thirds — one in land,
 
 Faleth Capital systematizes that. **The office covers two of the three thirds** — business and liquid capital — by holding liquid reserves equivalent to the book value of its operating subsidiaries. That's the reserve policy from Article VII seen from the other side: not a risk rule, but the office holding up two thirds of somebody else's structure. **The third, land, belongs to the individual.**
 
-Which is where the second philosophy comes in: think of personal finances as two buckets. **Bucket One is the safety net**, untouched and invested in land, real estate, index funds, bonds — the individual's land third, growing quietly so that no decision ever has to be made from fear. **Bucket Two is active income**: contribution pay, profit share, dividends. Because Bucket One is secure and growing, Bucket Two can afford to be aggressive.
+Which is where the second philosophy comes in: think of personal finances as two buckets. **Bucket One is the safety net**, untouched and invested in land, real estate, index funds, bonds — the individual's land third, growing quietly so that no decision ever has to be made from fear. **Bucket Two is active income**: contribution pay, gain share, dividends. Because Bucket One is secure and growing, Bucket Two can afford to be aggressive.
 
 Filling both is a sequence, and it takes years. Here is the shape of it.
 
@@ -245,15 +247,23 @@ Five steps, each begun while the previous one is still underway.
 
 **Three: build the network to full-time**, until what it pays can fund Bucket One on its own. That's the floor under everything else, and once it exists, real risk becomes affordable because the downside is already covered.
 
-**Four: build your own.** With Bucket One secured, propose a subsidiary. The office funds it, a member mentors it, and it runs under the frameworks with full autonomy. Network marketing keeps Bucket One covered while the business finds its footing, and profit share and dividends keep Bucket Two running through the unprofitable early years — which is precisely what makes those years survivable rather than desperate.
+**Four: build your own.** With Bucket One secured, propose a subsidiary. The office funds it, a member mentors it, and it runs under the frameworks with full autonomy. Network marketing keeps Bucket One covered while the business finds its footing, and gain share and dividends keep Bucket Two running through the unprofitable early years — which is precisely what makes those years survivable rather than desperate.
 
 **Five: grow both, indefinitely.** There's no finish line. The network matures and self-replicates, the subsidiary grows until you can step back and start another, and eight consecutive quarters of material profit earns a seat at the office. Accumulated wealth is then managed through that same office, under the same philosophy, by the same people. And you begin mentoring the next person through Step One — paid for it, because this system pays people to make themselves unnecessary.
 
-Not everyone will walk all five, and not everyone needs to. But each step is reachable by someone who finished the one before it, and the barrier at every stage is effort and time rather than capital or connections. That is the entire design.
+Not everyone will walk all five, and not everyone needs to. Each step is designed to make your life substantially better than not having walked it. But each step is reachable by someone who finished the one before it, and the barrier at every stage is effort and time rather than capital or connections. That is the entire design.
 
 ## 8.4 — Why Three Streams
 
 With all of that out of the way, we can finally explain the practical objective we hope to achieve for as many of our participants as possible.
+
+Our objective is not to help people earn more, but change *how* they earn.
+
+Some people want to pursue business and make a lot of money. Some want to spend more time with their families. Others want to travel. Everyone has something they wish they could do if they had the adequate freedom to do so.
+
+We believed if a system could exist to help people achieve that, it would unlock so much more potential for the good of all of humanity.
+
+From our research, there was only one dynamic that could unlock that, and it is what our system was designed to accomplish.
 
 *Our system was first started to help people achieve compounding on compounding interest.*
 
@@ -261,17 +271,19 @@ That isn't a typo, we are talking about X to the power of Y to the power of Z.
 
 Robert Kiyosaki outlines his ideal plan for wealth creation in his book "Rich Dad, Poor Dad":
 
-Active income into assets -> Asset income into other assets -> Live on the interest from the second group of assets.
+Active income into assets -> Asset income into other assets -> Live on the interest from the second class of assets.
 
 The reason is simple. If you have, say, $1M invested into assets, with 10% annual interest, you have an income stream of $100k/yr. If you lived on exactly that, your income would not increase or decrease.
 
-However, if you had a first-asset class feeding its income into your second-asset class, and you lived off of that second-asset class income as discussed above, your income would continue to increase.
+However, if you had a first-asset class feeding its income into your second-asset class, and you lived off of that second-asset class income as discussed above, your income would continue to increase, regardless of your lifestyle.
 
 There are many ways to achieve this, and we believe our system can help achieve it through those other means, however, the way we recommend is as described in our previous sections. If one follows the five-step blueprint, the outcome should be as follows:
 
 *Network Marketing income -> Index Funds/Real Estate -> Bucket One income*
 
-This is what we mean by compounding on compounding. Network Marketing, done right, can become a compounding asset. If one chooses not to live on that income, rather, have that income flood into index funds, real estate, or other capital-intensive streams of income that can compound if all one does is wait, then one can access a compounding on compounding income.
+This is what we mean by compounding on compounding. Network Marketing, done right, can become a compounding asset, as the people you train and develop can train and develop others. Once a large enough threshold is met, the group grows on its own at a compounding rate as people with their own desires build their own businesses inside of your business.
+
+If one chooses not to live on that income, rather, have that income flood into index funds, real estate, or other capital-intensive streams of income that can compound if all one does is wait, then one can access a compounding on compounding income.
 
 Think of it like this: network marketing is a sweat-equity asset while other assets are capital-equity assets. If you have the first going into the second, you achieve what we believe is the ultimate, replicable engine of wealth for anyone.
 
