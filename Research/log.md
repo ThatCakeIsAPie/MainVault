@@ -5,8 +5,6 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
-<<<<<<< HEAD
-=======
 ## [2026-09-03] ingest | Hundreds for team and customers
 - Raw: [[raw/transcripts/lyle-telegram-hundreds-team-and-customers-2026-09-03]]
 - Created: [[queries/hundreds-for-team-and-customers]]
@@ -25,13 +23,10 @@
 - Why: comment chain cargo-cults the Blizzard; one reply extracts insulin spike and swaps the vehicle
 - Shares log + index updated
 
->>>>>>> FETCH_HEAD
 ## [2026-08-30] update | Relocate Faleth session summary out of canonical docs
 - Moved Claude session summary from `Business/Faleth Capital/` (canonical suite) to `Research/External AI Memory/2026-07-09 Faleth Document Review and Sanctioning Architecture.md`
 - Updated source links on `Research/faleth/governance/document-review-sanctioning-architecture-2026-07-09.md`
 
-<<<<<<< HEAD
-=======
 ## [2026-08-30] create | VXE open to-dos (Lyle capture)
 - Created: [[business/vxe/open-todos]]
 - Why: Lyle asked Atlas to save three VXE to-dos: solicitation follow-up procedure, SAR submitted for every SAR objection, pricing (high priority).
@@ -91,7 +86,6 @@
 - Evidence limits: the letter and follow-ups were recovered through X Search with image understanding and are preserved as attributed source text, not independently verified Valve policy.
 - Updated `index.md`, the Telegram X shares log, and `log.md`; all three raw body SHA-256 values verified.
 
->>>>>>> FETCH_HEAD
 ## [2026-08-17] update | Retired Honcho + GBrain from HermesDelta
 - Agent: `hermes memory off`; MCP `gbrain` removed; cron `bab3a87dc850` paused
 - Host: compose `down` (volumes kept); user timer `gbrain-obsidian-sync` disabled
@@ -1105,41 +1099,6 @@
 - Structure created with SCHEMA.md, index.md, log.md
 - Directories: raw/ (articles, papers, transcripts, assets), entities/, concepts/, comparisons/, queries/
 - Tag taxonomy: 6 top-level categories (Technology, Business, People & Orgs, Research, Philosophy, Meta)
-
-<<<<<<< HEAD
-- Source: `https://x.com/CrubTV/status/2091942214087606585?s=20`
-- Lyle refinements:
-  - “Here is the goal, here is where we are, and this is the path towards achieving it.”
-  - Most rejections say “no” without “why not,” leaving a causal vacuum that makes the decision feel personal.
-- Raw transcripts:
-  - `raw/transcripts/2026-08-24-crubtv-valve-rejection-letter.md`
-  - `raw/transcripts/2026-08-24-lyle-goal-current-state-path-principle.md`
-  - `raw/transcripts/2026-08-24-lyle-why-not-rejection-feels-personal.md`
-- Created principles:
-  - `concepts/offshoots/rejection-that-preserves-agency.md`
-  - `concepts/offshoots/goal-current-state-path.md`
-- Core distinctions: reject present fit without sentencing a person's future; every useful improvement loop needs a legible goal, honest current state, and credible path across the gap; a truthful “why not” prevents institutional silence from becoming an identity-level verdict.
-- Evidence limits: the letter and follow-ups were recovered through X Search with image understanding and are preserved as attributed source text, not independently verified Valve policy.
-- Updated `index.md`, the Telegram X shares log, and `log.md`; all three raw body SHA-256 values verified.
-
-## [2026-08-24] ingest | CrubTV / Valve rejection and goal-current-state-path principle
-
-- Source: `https://x.com/CrubTV/status/2091942214087606585?s=20`
-- Lyle refinements:
-  - “Here is the goal, here is where we are, and this is the path towards achieving it.”
-  - Most rejections say “no” without “why not,” leaving a causal vacuum that makes the decision feel personal.
-- Raw transcripts:
-  - `raw/transcripts/2026-08-24-crubtv-valve-rejection-letter.md`
-  - `raw/transcripts/2026-08-24-lyle-goal-current-state-path-principle.md`
-  - `raw/transcripts/2026-08-24-lyle-why-not-rejection-feels-personal.md`
-- Created principles:
-  - `concepts/offshoots/rejection-that-preserves-agency.md`
-  - `concepts/offshoots/goal-current-state-path.md`
-- Core distinctions: reject present fit without sentencing a person's future; every useful improvement loop needs a legible goal, honest current state, and credible path across the gap; a truthful “why not” prevents institutional silence from becoming an identity-level verdict.
-- Evidence limits: the letter and follow-ups were recovered through X Search with image understanding and are preserved as attributed source text, not independently verified Valve policy.
-- Updated `index.md`, the Telegram X shares log, and `log.md`; all three raw body SHA-256 values verified.
-=======
->>>>>>> FETCH_HEAD
 
 - 2026-09-15: Ingested Brainstorm Team CRM vs canon discrepancy dump → raw/documents/2026-09-15-brainstorm-crm-canon-discrepancies.md (+ CRM Iteration Inbox note).
 

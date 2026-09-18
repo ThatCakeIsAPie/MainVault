@@ -1,0 +1,72 @@
+{
+  "batch_id": "03",
+  "status": "complete",
+  "last_completed_line": 15,
+  "lines": [
+    {
+      "slot": 11,
+      "item": "Performance tee forest or charcoal",
+      "vendor": "Vuori",
+      "product_name": "Strato Tech Tee",
+      "url": "https://vuoriclothing.com/products/strato-tech-tee-charcoal-heather",
+      "color": "Charcoal Heather",
+      "listed_price_usd": 58,
+      "price_evidence": "product_page",
+      "size_note": "Size unknown; XXS-3XL",
+      "match_notes": "$58 PDP. Moisture-wicking charcoal tee.",
+      "status": "exact"
+    },
+    {
+      "slot": 12,
+      "item": "Charcoal joggers or training short",
+      "vendor": "Vuori",
+      "product_name": "Sunday Performance Jogger",
+      "url": "https://vuoriclothing.com/products/sunday-performance-jogger-charcoal-heather",
+      "color": "Charcoal Heather",
+      "listed_price_usd": 110,
+      "price_evidence": "product_page",
+      "size_note": "Size unknown; XXS-XXL; Regular/Long",
+      "match_notes": "$110 PDP. Joggers preferred over shorts.",
+      "status": "exact"
+    },
+    {
+      "slot": 13,
+      "item": "Brown felt cowboy hat cattleman",
+      "vendor": "Resistol",
+      "product_name": "6X Kingman - George Strait Cowboy Hat",
+      "url": "https://resistol.com/products/kingman-rfkgmn-524022",
+      "color": "Chocolate",
+      "listed_price_usd": 380,
+      "price_evidence": "product_page",
+      "size_note": "Hat size unknown; 6 3/4-7 3/4. Select Chocolate not Black.",
+      "match_notes": "$380 PDP. 6X felt, 4 1/4 in cattleman, 4 in brim, made in Garland TX.",
+      "status": "exact"
+    },
+    {
+      "slot": 14,
+      "item": "Brown leather belt + statement buckle (one kit)",
+      "vendor": "Boot Barn / Cody James",
+      "product_name": "Cody James Men's Tooled Leather Belt and Buckle",
+      "url": "https://www.bootbarn.com/cody-james-mens-tooled-leather-belt-and-buckle/1202H7.html",
+      "color": "Tan",
+      "listed_price_usd": 62.99,
+      "price_evidence": "product_page",
+      "size_note": "Belt size unknown. Item 1202H7.",
+      "match_notes": "$62.99 PDP. One-kit belt + removable buckle. Tan tooled leather.",
+      "status": "exact"
+    },
+    {
+      "slot": 15,
+      "item": "Gold necktie",
+      "vendor": "SuitShop",
+      "product_name": "Satin Slim Tie",
+      "url": "https://suitshop.com/products/skinny-tie/?color=golden%20yellow",
+      "color": "Golden Yellow",
+      "listed_price_usd": 15,
+      "price_evidence": "collection_listing",
+      "size_note": "One size. 2.5 in width. 100% polyester.",
+      "match_notes": "PDP confirms Color Golden Yellow. $15 from SuitShop ties collection listing of this SKU. Jacket PDP cookie-walled prices.",
+      "status": "exact"
+    }
+  ]
+}

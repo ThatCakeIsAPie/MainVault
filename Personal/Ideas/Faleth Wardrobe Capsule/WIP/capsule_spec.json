@@ -1,0 +1,320 @@
+{
+  "sheets": [
+    {
+      "name": "Capsule",
+      "freeze_panes": "A2",
+      "autofilter": "A1:L17",
+      "column_widths": {
+        "A": 8, "B": 42, "C": 22, "D": 52, "E": 22,
+        "F": 12, "G": 14, "H": 16, "I": 18, "J": 48, "K": 14, "L": 62
+      },
+      "row_heights": {"1": 22},
+      "rows": [
+        [
+          {"value": "Slot", "bold": true, "fill": "1F4E3D", "font_color": "FFFFFF"},
+          {"value": "Item", "bold": true, "fill": "1F4E3D", "font_color": "FFFFFF"},
+          {"value": "Vendor", "bold": true, "fill": "1F4E3D", "font_color": "FFFFFF"},
+          {"value": "Product", "bold": true, "fill": "1F4E3D", "font_color": "FFFFFF"},
+          {"value": "Color", "bold": true, "fill": "1F4E3D", "font_color": "FFFFFF"},
+          {"value": "Price USD", "bold": true, "fill": "1F4E3D", "font_color": "FFFFFF"},
+          {"value": "Price source", "bold": true, "fill": "1F4E3D", "font_color": "FFFFFF"},
+          {"value": "Match", "bold": true, "fill": "1F4E3D", "font_color": "FFFFFF"},
+          {"value": "Size", "bold": true, "fill": "1F4E3D", "font_color": "FFFFFF"},
+          {"value": "Product URL", "bold": true, "fill": "1F4E3D", "font_color": "FFFFFF"},
+          {"value": "Buy status", "bold": true, "fill": "1F4E3D", "font_color": "FFFFFF"},
+          {"value": "Notes", "bold": true, "fill": "1F4E3D", "font_color": "FFFFFF"}
+        ],
+        [
+          1,
+          "Forest green suit jacket",
+          "SuitShop",
+          {"value": "Men's Dark Green Suit Jacket", "hyperlink": "https://suitshop.com/products/mens-dark-green-suit-jacket/"},
+          "Dark Green",
+          {"value": 149, "format": "$#,##0.00"},
+          "matching SKU listing",
+          "exact 3-piece",
+          "unknown — Fit Finder",
+          {"value": "https://suitshop.com/products/mens-dark-green-suit-jacket/", "hyperlink": "https://suitshop.com/products/mens-dark-green-suit-jacket/"},
+          "buy",
+          "Jacket PDP cookie-walled. $149 from matching Complete the Look listings. Collection lists 2-piece Dark Green Suit at $224. Free US returns."
+        ],
+        [
+          2,
+          "Forest green waistcoat / vest",
+          "SuitShop",
+          {"value": "Men's Dark Green Suit Vest", "hyperlink": "https://suitshop.com/products/green-suit-vest/"},
+          "Dark Green",
+          {"value": 49, "format": "$#,##0.00"},
+          "product listing",
+          "exact 3-piece",
+          "unknown — size down w/ Slim jacket",
+          {"value": "https://suitshop.com/products/green-suit-vest/", "hyperlink": "https://suitshop.com/products/green-suit-vest/"},
+          "buy",
+          "Matching SuitShop dark green 3-piece. $49 on vest collection / Complete the Look."
+        ],
+        [
+          3,
+          "Forest green dress trousers",
+          "SuitShop",
+          {"value": "Men's Dark Green Suit Pants", "hyperlink": "https://suitshop.com/products/mens-dark-green-suit-pants/"},
+          "Dark Green",
+          {"value": 75, "format": "$#,##0.00"},
+          "product listing",
+          "exact 3-piece",
+          "unknown — multiple lengths",
+          {"value": "https://suitshop.com/products/mens-dark-green-suit-pants/", "hyperlink": "https://suitshop.com/products/mens-dark-green-suit-pants/"},
+          "buy",
+          "Matching SuitShop dark green 3-piece. $75 on Complete the Look listings."
+        ],
+        [
+          4,
+          "White OCBD / dress shirt",
+          "Brooks Brothers",
+          {"value": "American-Made Oxford Cloth Button-Down", "hyperlink": "https://www.brooksbrothers.com/american-made-oxford-cloth-button-down-dress-shirt/ME04455.html?dwvar_ME04455_Color=WHIT"},
+          "White",
+          {"value": 198, "format": "$#,##0.00"},
+          "product page",
+          "exact",
+          "unknown — neck/sleeve",
+          {"value": "https://www.brooksbrothers.com/american-made-oxford-cloth-button-down-dress-shirt/ME04455.html?dwvar_ME04455_Color=WHIT", "hyperlink": "https://www.brooksbrothers.com/american-made-oxford-cloth-button-down-dress-shirt/ME04455.html?dwvar_ME04455_Color=WHIT"},
+          "buy",
+          "ME04455. Color White $198 on PDP. Some combos Made on Demand (no returns)."
+        ],
+        [
+          5,
+          "Cream or light tan dress shirt",
+          "Charles Tyrwhitt",
+          {"value": "Non-Iron Twill Shirt - Ivory", "hyperlink": "https://www.charlestyrwhitt.com/us/non-iron-twill-shirt---ivory/FON0409VRY.html"},
+          "Ivory",
+          {"value": 129, "format": "$#,##0.00"},
+          "product page",
+          "equivalent (ivory)",
+          "unknown — classic collar",
+          {"value": "https://www.charlestyrwhitt.com/us/non-iron-twill-shirt---ivory/FON0409VRY.html", "hyperlink": "https://www.charlestyrwhitt.com/us/non-iron-twill-shirt---ivory/FON0409VRY.html"},
+          "buy",
+          "FON0409VRY. $129 single; multibuy $74.75 on PDP. Ivory stands in for cream/tan."
+        ],
+        [
+          6,
+          "Dark wash jeans",
+          "Levi's",
+          {"value": "501 Original Men's Jeans", "hyperlink": "https://www.levi.com/US/en_US/clothing/men/jeans/straight/501-original-mens-jeans/p/005010115"},
+          "Rinse - Dark Wash",
+          {"value": 59.99, "format": "$#,##0.00"},
+          "product page",
+          "exact",
+          "unknown — waist/length",
+          {"value": "https://www.levi.com/US/en_US/clothing/men/jeans/straight/501-original-mens-jeans/p/005010115", "hyperlink": "https://www.levi.com/US/en_US/clothing/men/jeans/straight/501-original-mens-jeans/p/005010115"},
+          "buy",
+          "Style 005010115. Sale $59.99 from $84.95. Non-stretch 100% cotton."
+        ],
+        [
+          7,
+          "Khaki / tan chinos",
+          "Dockers",
+          {"value": "Go Airweave Chino, Slim Fit", "hyperlink": "https://us.dockers.com/products/go-airweave-chino-slim-fit-002vw0003"},
+          "Sahara Khaki",
+          {"value": 41.99, "format": "$#,##0.00"},
+          "product page",
+          "exact",
+          "unknown — waist/length",
+          {"value": "https://us.dockers.com/products/go-airweave-chino-slim-fit-002vw0003", "hyperlink": "https://us.dockers.com/products/go-airweave-chino-slim-fit-002vw0003"},
+          "buy",
+          "Sale $41.99 from $80. Slim through hip/thigh, straight leg."
+        ],
+        [
+          {"value": 8, "fill": "FFF3CD"},
+          {"value": "Dark green polo", "fill": "FFF3CD"},
+          {"value": "Vuori", "fill": "FFF3CD"},
+          {"value": "Ace Polo", "hyperlink": "https://vuoriclothing.com/products/ace-polo-ink", "fill": "FFF3CD"},
+          {"value": "Ink", "fill": "FFF3CD"},
+          {"value": 78, "format": "$#,##0.00", "fill": "FFF3CD"},
+          {"value": "product page", "fill": "FFF3CD"},
+          {"value": "equivalent (not forest)", "fill": "FFF3CD"},
+          {"value": "unknown — XXS-3XL", "fill": "FFF3CD"},
+          {"value": "https://vuoriclothing.com/products/ace-polo-ink", "hyperlink": "https://vuoriclothing.com/products/ace-polo-ink", "fill": "FFF3CD"},
+          {"value": "buy", "fill": "FFF3CD"},
+          {"value": "Forest green polo not found this pass. Ink performance polo covers classy-casual. $78 PDP.", "fill": "FFF3CD"}
+        ],
+        [
+          {"value": 9, "fill": "FFF3CD"},
+          {"value": "Cream or forest quarter-zip", "fill": "FFF3CD"},
+          {"value": "Vuori", "fill": "FFF3CD"},
+          {"value": "Sunday Element Half Zip", "hyperlink": "https://vuoriclothing.com/products/sunday-element-half-zip-ink-heather", "fill": "FFF3CD"},
+          {"value": "Ink Heather", "fill": "FFF3CD"},
+          {"value": 128, "format": "$#,##0.00", "fill": "FFF3CD"},
+          {"value": "product page", "fill": "FFF3CD"},
+          {"value": "equivalent (not cream/forest)", "fill": "FFF3CD"},
+          {"value": "unknown — XXS-3XL", "fill": "FFF3CD"},
+          {"value": "https://vuoriclothing.com/products/sunday-element-half-zip-ink-heather", "hyperlink": "https://vuoriclothing.com/products/sunday-element-half-zip-ink-heather", "fill": "FFF3CD"},
+          {"value": "buy", "fill": "FFF3CD"},
+          {"value": "Cream/forest quarter-zip not found. Ink Heather half-zip is the athleisure layer. $128 PDP.", "fill": "FFF3CD"}
+        ],
+        [
+          10,
+          "Western snap or performance western shirt",
+          "Wrangler",
+          {"value": "Cowboy Cut Firm Finish Twill Western Snap", "hyperlink": "https://www.wrangler.com/shop/cowboy-cut-firm-finish-twill-western-snap-work-shirt-MS7.html"},
+          "Khaki",
+          {"value": 44.99, "format": "$#,##0.00"},
+          "product page",
+          "exact",
+          "unknown — S-4X + talls",
+          {"value": "https://www.wrangler.com/shop/cowboy-cut-firm-finish-twill-western-snap-work-shirt-MS7.html", "hyperlink": "https://www.wrangler.com/shop/cowboy-cut-firm-finish-twill-western-snap-work-shirt-MS7.html"},
+          "buy — confirm US cart",
+          "Pearl-snap western work shirt. Product ID MS70319. $44.99. Scrape geo-flagged non-US; confirm US availability."
+        ],
+        [
+          11,
+          "Performance tee (forest or charcoal)",
+          "Vuori",
+          {"value": "Strato Tech Tee", "hyperlink": "https://vuoriclothing.com/products/strato-tech-tee-charcoal-heather"},
+          "Charcoal Heather",
+          {"value": 58, "format": "$#,##0.00"},
+          "product page",
+          "exact",
+          "unknown — XXS-3XL",
+          {"value": "https://vuoriclothing.com/products/strato-tech-tee-charcoal-heather", "hyperlink": "https://vuoriclothing.com/products/strato-tech-tee-charcoal-heather"},
+          "buy",
+          "$58 PDP. Moisture-wicking performance jersey."
+        ],
+        [
+          12,
+          "Charcoal joggers or training short",
+          "Vuori",
+          {"value": "Sunday Performance Jogger", "hyperlink": "https://vuoriclothing.com/products/sunday-performance-jogger-charcoal-heather"},
+          "Charcoal Heather",
+          {"value": 110, "format": "$#,##0.00"},
+          "product page",
+          "exact",
+          "unknown — Regular/Long",
+          {"value": "https://vuoriclothing.com/products/sunday-performance-jogger-charcoal-heather", "hyperlink": "https://vuoriclothing.com/products/sunday-performance-jogger-charcoal-heather"},
+          "buy",
+          "$110 PDP. Joggers preferred over shorts. Free US ship over $75."
+        ],
+        [
+          13,
+          "Brown felt cowboy hat (cattleman)",
+          "Resistol",
+          {"value": "6X Kingman - George Strait Cowboy Hat", "hyperlink": "https://resistol.com/products/kingman-rfkgmn-524022"},
+          "Chocolate",
+          {"value": 380, "format": "$#,##0.00"},
+          "product page",
+          "exact",
+          "unknown — 6 3/4 to 7 3/4",
+          {"value": "https://resistol.com/products/kingman-rfkgmn-524022", "hyperlink": "https://resistol.com/products/kingman-rfkgmn-524022"},
+          "buy",
+          "Select Chocolate not Black. 4 1/4 in cattleman, 4 in brim. Made in Garland TX. $380."
+        ],
+        [
+          14,
+          "Brown leather belt + statement buckle (one kit)",
+          "Boot Barn / Cody James",
+          {"value": "Cody James Men's Tooled Leather Belt and Buckle", "hyperlink": "https://www.bootbarn.com/cody-james-mens-tooled-leather-belt-and-buckle/1202H7.html"},
+          "Tan",
+          {"value": 62.99, "format": "$#,##0.00"},
+          "product page",
+          "exact",
+          "unknown — belt size",
+          {"value": "https://www.bootbarn.com/cody-james-mens-tooled-leather-belt-and-buckle/1202H7.html", "hyperlink": "https://www.bootbarn.com/cody-james-mens-tooled-leather-belt-and-buckle/1202H7.html"},
+          "buy",
+          "Item 1202H7. $62.99. One-kit tooled leather belt + removable buckle."
+        ],
+        [
+          15,
+          "Gold necktie",
+          "SuitShop",
+          {"value": "Satin Slim Tie — Golden Yellow", "hyperlink": "https://suitshop.com/products/skinny-tie/?color=golden%20yellow"},
+          "Golden Yellow",
+          {"value": 15, "format": "$#,##0.00"},
+          "collection listing",
+          "exact",
+          "one size — 2.5 in",
+          {"value": "https://suitshop.com/products/skinny-tie/?color=golden%20yellow", "hyperlink": "https://suitshop.com/products/skinny-tie/?color=golden%20yellow"},
+          "buy",
+          "PDP confirms Color Golden Yellow. $15 from SuitShop ties collection listing of this SKU. Pocket square not bundled."
+        ],
+        [
+          {"value": 16, "fill": "C6EFCE", "bold": true},
+          {"value": "LOCKED boots — Hayw green 12 EE", "fill": "C6EFCE", "bold": true},
+          {"value": "Boot Barn / Cody James Black 1978", "fill": "C6EFCE"},
+          {"value": "The Hayward Exotic Caiman Belly — Broad Square Toe", "hyperlink": "https://www.bootbarn.com/cody-james-black-1978-mens-the-hayward-exotic-caiman-belly-western-boots---broad-square-toe/2000442556.html", "fill": "C6EFCE"},
+          {"value": "Green", "fill": "C6EFCE"},
+          {"value": 599.99, "format": "$#,##0.00", "fill": "C6EFCE"},
+          {"value": "product page", "fill": "C6EFCE"},
+          {"value": "LOCKED — do not substitute", "fill": "C6EFCE"},
+          {"value": "12.0 / EE — in stock", "fill": "C6EFCE"},
+          {"value": "https://www.bootbarn.com/cody-james-black-1978-mens-the-hayward-exotic-caiman-belly-western-boots---broad-square-toe/2000442556.html", "hyperlink": "https://www.bootbarn.com/cody-james-black-1978-mens-the-hayward-exotic-caiman-belly-western-boots---broad-square-toe/2000442556.html", "fill": "C6EFCE"},
+          {"value": "owned/locked", "fill": "C6EFCE", "bold": true},
+          {"value": "LOCKED. Item 2000442556. Style BBXSP26L5-2. Green. 12 EE Wide in stock, ships next business day. $599.99. Do not swap brand/color/toe.", "fill": "C6EFCE"}
+        ]
+      ]
+    },
+    {
+      "name": "Optional add-ons OUTSIDE capsule",
+      "freeze_panes": "A2",
+      "column_widths": {"A": 8, "B": 44, "C": 18, "D": 48, "E": 14, "F": 12, "G": 70},
+      "rows": [
+        [
+          {"value": "THIS SHEET IS OUTSIDE THE 16-ITEM CAPSULE", "bold": true, "fill": "C00000", "font_color": "FFFFFF"}
+        ],
+        [
+          "Do not treat these as core. Buy only after the 16-slot capsule is covered."
+        ],
+        [],
+        [
+          {"value": "#", "bold": true, "fill": "7F7F7F", "font_color": "FFFFFF"},
+          {"value": "Item", "bold": true, "fill": "7F7F7F", "font_color": "FFFFFF"},
+          {"value": "Vendor", "bold": true, "fill": "7F7F7F", "font_color": "FFFFFF"},
+          {"value": "Product / URL", "bold": true, "fill": "7F7F7F", "font_color": "FFFFFF"},
+          {"value": "Color", "bold": true, "fill": "7F7F7F", "font_color": "FFFFFF"},
+          {"value": "Price USD", "bold": true, "fill": "7F7F7F", "font_color": "FFFFFF"},
+          {"value": "Why it is not core", "bold": true, "fill": "7F7F7F", "font_color": "FFFFFF"}
+        ],
+        [
+          "A1",
+          "2-piece Dark Green Suit (jacket+pants bundle)",
+          "SuitShop",
+          {"value": "Men's Dark Green Suit", "hyperlink": "https://suitshop.com/products/mens-dark-green-suit/"},
+          "Dark Green",
+          {"value": 224, "format": "$#,##0.00"},
+          "Bundle of slots 1+3. Collection listing $224. Vest still extra."
+        ],
+        [
+          "A2",
+          "Training short (if joggers skip)",
+          "Vuori",
+          {"value": "Sunday Performance Short 8.5 in charcoal", "hyperlink": "https://vuoriclothing.com/products/sunday-performance-short-8-5-charcoal-heather"},
+          "Charcoal Heather",
+          {"value": 84, "format": "$#,##0.00"},
+          "Related listing on jogger PDP. Capsule already has joggers."
+        ],
+        [
+          "A3",
+          "Hayward brand-site twin (same style)",
+          "Cody James",
+          {"value": "Hayward Exotic Caiman Belly Broad Square Toe", "hyperlink": "https://codyjames.com/products/cody-james-black-1978%C2%AE-mens-the-hayward-exotic-caiman-belly-western-boots-broad-square-toe-2"},
+          "Green",
+          {"value": 599.99, "format": "$#,##0.00"},
+          "Same BBXSP26L5-2. Buy Boot Barn locked SKU first. Brand site had 12 EE sold out earlier."
+        ]
+      ]
+    },
+    {
+      "name": "Notes",
+      "column_widths": {"A": 100},
+      "rows": [
+        [{"value": "Faleth wardrobe capsule — personal shopping list", "bold": true, "font_size": 14}],
+        ["Not VXE. Not GovCon. Consumer retail only."],
+        ["Sourced 2026-08-27/28 from live US storefronts. Prices move; re-check cart before buying."],
+        ["Palette: forest green, cream/tan, dark denim, brown leather, gold."],
+        ["Core sheet is locked at 16 rows. Yellow rows (8, 9) are palette equivalents — forest/cream not found this pass."],
+        ["Green row 16 is LOCKED: Boot Barn Hayward green, style BBXSP26L5-2, size 12 EE. Do not substitute."],
+        ["Sizes unknown except boots 12 EE."],
+        ["Jacket $149 is from matching-piece listings, not the jacket PDP price block (cookie wall). Vest $49 and pants $75 same source class. 2-piece listed $224 on collection."],
+        ["Tie $15 from SuitShop collection listing of the Golden Yellow slim satin SKU; PDP confirms color."],
+        ["Source of truth: Personal/Ideas/Faleth Wardrobe Aesthetic.md"]
+      ]
+    }
+  ]
+}
