@@ -5,7 +5,7 @@ updated: 2026-08-08
 type: principle
 tags: [ai, llm, software, open-source, skills, systems, leverage]
 sources:
-  - raw/x-bookmarks/2026-08-07/2085761587550519420.md
+  - raw/x-bookmarks/26-08-07/2085761587550519420.md
 confidence: medium
 ---
 
@@ -15,7 +15,7 @@ confidence: medium
 
 A long book or PDF should not be flattened into one giant prompt. The more durable pattern is to **compile the source into a navigable skill**: a lean routing file, chapter-level references loaded on demand, and practical retrieval aids such as a glossary or cheatsheet.
 
-Hermes Agent's `/learn` command now incorporates the open-source `book-to-skill` approach. Teknium's August 7 announcement says a user can point `/learn` at a book or PDF and generate a comprehensive technical skill. The [official Hermes skills documentation](https://hermes-agent.nousresearch.com/docs/user-guide/features/skills) describes the corresponding structure: a compact `SKILL.md`, index, and on-demand chapter reference files. [[raw/x-bookmarks/2026-08-07/2085761587550519420]]
+Hermes Agent's `/learn` command now incorporates the open-source `book-to-skill` approach. Teknium's August 7 announcement says a user can point `/learn` at a book or PDF and generate a comprehensive technical skill. The [official Hermes skills documentation](https://hermes-agent.nousresearch.com/docs/user-guide/features/skills) describes the corresponding structure: a compact `SKILL.md`, index, and on-demand chapter reference files. [[raw/x-bookmarks/26-08-07/2085761587550519420]]
 
 ## Why the architecture matters
 

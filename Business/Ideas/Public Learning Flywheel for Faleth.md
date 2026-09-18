@@ -45,6 +45,12 @@ Faleth has multiple real project streams that can produce useful public content:
 
 These are not abstract opinions. They are things being built, tested, refined, and documented.
 
+## Pricing / brand rule (Hormozi)
+
+Related principle: [[Research/concepts/offshoots/if-it-scales-its-free|If It Scales, It's Free]] — give away what scales (books, courses, public frameworks); price what doesn't (scarce 1:1 / operator attention). Brand recipe: charge what others charge for → make it better → make it free → monetize another way.
+
+Source Short: https://youtube.com/shorts/OA_6vQHI9Yc (Alex Hormozi, 2026-09-09).
+
 ## Content Philosophy
 
 KISS version:

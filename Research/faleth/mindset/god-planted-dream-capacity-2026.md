@@ -5,7 +5,7 @@ updated: 2026-07-11
 type: principle
 tags: [philosophy, theology, purpose, vision, personal-development, faith]
 sources:
-  - research/raw/x-bookmarks/2026-07-11/2070642609932910677.md
+  - research/raw/x-bookmarks/26-07-11/2070642609932910677.md
 confidence: medium
 ---
 
@@ -32,7 +32,7 @@ confidence: medium
 ## Provenance
 
 - X bookmark batch 2026-07-11 — [@josbjohnson](https://x.com/josbjohnson/status/2070642609932910677)
-- Raw: [[research/raw/x-bookmarks/2026-07-11/2070642609932910677]]
+- Raw: [[research/raw/x-bookmarks/26-07-11/2070642609932910677]]
 
 ## Related
 

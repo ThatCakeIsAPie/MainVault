@@ -108,6 +108,13 @@ Signature outfits: Ranch Leader, Texas Business, Weekend Legacy
 Boots: classic brown, dark brown, rum suede, black cherry
 Quote: "Stand strong. Think long term. Lead with honor. Build something that lasts."
 
+## Capsule refresh (2026-09-05)
+- Rebuilt shoppable xlsx: `Personal/Ideas/Faleth Wardrobe Capsule/Faleth Wardrobe Capsule.xlsx`
+- Sheets: Capsule (16) · Add-ons Slot5 · Notes
+- Slot 5 interim primary: **Gap Oversized Field Jacket Surplus Green** (#895299) **$70** live M/L/XL — herringbone field (not denim); size down 1–2
+- Slot 5 watchlist: Blakely olive denim trucker (OOS), AllSaints Castleford green denim (ghost), Levi Hedge Green trucker (~$73 twill), Quince Dark Forest waxed ($150, shank hardware caveat), Flint & Tinder Forest waxed (~$298+)
+- Boots still locked owned: Hayw green BBXSP26L5-2 / 12 EE
+
 ## Atlas deliverable (2026-08-27)
 - Personal shopping xlsx (not VXE): [[Faleth Wardrobe Capsule/Faleth Wardrobe Capsule.xlsx]]
 - Path: `Personal/Ideas/Faleth Wardrobe Capsule/Faleth Wardrobe Capsule.xlsx`

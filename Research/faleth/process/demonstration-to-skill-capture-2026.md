@@ -4,7 +4,7 @@ created: 2026-07-22
 updated: 2026-07-22
 type: principle
 tags: [ai, software, operations, systems, skills, leverage]
-sources: [raw/x-bookmarks/2026-07-21/2079595988998554047.md]
+sources: [raw/x-bookmarks/26-07-21/2079595988998554047.md]
 confidence: medium
 ---
 
@@ -49,4 +49,4 @@ The source is Claude's official X account announcing availability for Pro, Max, 
 
 ## Provenance
 
-- [[raw/x-bookmarks/2026-07-21/2079595988998554047]]
+- [[raw/x-bookmarks/26-07-21/2079595988998554047]]

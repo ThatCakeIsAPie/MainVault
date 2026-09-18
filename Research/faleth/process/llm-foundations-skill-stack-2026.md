@@ -6,8 +6,8 @@ type: principle
 tags: [ai, ml, training, personal-development, skills, leverage]
 sources:
   - research/raw/transcripts/lyle-x-share-2074501533362684206
-  - research/raw/x-bookmarks/2026-07-10/2071529847189582018.md
-  - research/raw/x-bookmarks/2026-07-11/2070443242022453760.md
+  - research/raw/x-bookmarks/26-07-10/2071529847189582018.md
+  - research/raw/x-bookmarks/26-07-11/2070443242022453760.md
 confidence: medium
 ---
 
@@ -31,6 +31,6 @@ Viral packaging of **Stanford CS229-style** free lecture as the path to “build
 ## Links
 
 - Raw: [[research/raw/transcripts/lyle-x-share-2074501533362684206]]
-- Bookmark raw: [[research/raw/x-bookmarks/2026-07-10/2071529847189582018]]
-- Karpathy thread raw: [[research/raw/x-bookmarks/2026-07-11/2070443242022453760]]
+- Bookmark raw: [[research/raw/x-bookmarks/26-07-10/2071529847189582018]]
+- Karpathy thread raw: [[research/raw/x-bookmarks/26-07-11/2070443242022453760]]
 - Related: [[research/faleth/process/agentic-loops-design-2026]]

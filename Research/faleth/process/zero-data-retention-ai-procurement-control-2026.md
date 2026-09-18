@@ -5,7 +5,7 @@ updated: 2026-07-14
 type: principle
 tags: [ai, data, infrastructure, governance, strategy]
 sources:
-  - raw/x-bookmarks/2026-07-14/2076692402442846289.md
+  - raw/x-bookmarks/26-07-14/2076692402442846289.md
 confidence: medium
 contested: true
 ---
@@ -43,4 +43,4 @@ Treat ZDR as one column in the routing matrix alongside completed-job quality, c
 ## Provenance
 
 - SpaceXAI post, 2026-07-13; bookmarked 2026-07-14.
-- Raw: [[raw/x-bookmarks/2026-07-14/2076692402442846289]]
+- Raw: [[raw/x-bookmarks/26-07-14/2076692402442846289]]

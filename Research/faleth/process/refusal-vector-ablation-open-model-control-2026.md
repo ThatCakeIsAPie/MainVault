@@ -5,8 +5,8 @@ updated: 2026-07-26
 type: principle
 tags: [ai, ml, llm, alignment, open-source, infrastructure, ethics]
 sources:
-  - raw/x-bookmarks/2026-07-24/2080607945071686030.md
-  - raw/x-bookmarks/2026-07-25/2081134153970688251.md
+  - raw/x-bookmarks/26-07-24/2080607945071686030.md
+  - raw/x-bookmarks/26-07-25/2081134153970688251.md
 confidence: medium
 contested: true
 ---
@@ -15,11 +15,11 @@ contested: true
 
 ## Durable idea
 
-Open weights turn model alignment from a vendor-controlled behavior into an inspectable deployment choice. Tools such as **OBLITERATUS** probe hidden states for refusal-associated directions, then project or steer away from those directions. This is more precise than the bookmarked phrase “identifies the exact weights”: refusal can involve directions and subspaces distributed across layers, and removal quality must be measured rather than presumed. ^[raw/x-bookmarks/2026-07-24/2080607945071686030.md]
+Open weights turn model alignment from a vendor-controlled behavior into an inspectable deployment choice. Tools such as **OBLITERATUS** probe hidden states for refusal-associated directions, then project or steer away from those directions. This is more precise than the bookmarked phrase “identifies the exact weights”: refusal can involve directions and subspaces distributed across layers, and removal quality must be measured rather than presumed. ^[raw/x-bookmarks/26-07-24/2080607945071686030.md]
 
 The project exposes a Gradio interface, CLI, Python API, permanent weight projection, and reversible inference-time steering. Its public README describes checks such as refusal rate, perplexity, coherence, and KL divergence, but those are project claims and mechanisms—not independent proof that broad capabilities remain intact. [Project repository](https://github.com/elder-plinius/OBLITERATUS)
 
-A second bookmark says Hermes packages a native optional skill at `official/mlops/obliteratus`, reducing the operational friction from research code to an agent-accessible workflow. That packaging claim was not installed or exercised during this ingest. ^[raw/x-bookmarks/2026-07-25/2081134153970688251.md]
+A second bookmark says Hermes packages a native optional skill at `official/mlops/obliteratus`, reducing the operational friction from research code to an agent-accessible workflow. That packaging claim was not installed or exercised during this ingest. ^[raw/x-bookmarks/26-07-25/2081134153970688251.md]
 
 ## Why it matters
 
@@ -43,7 +43,7 @@ This is complementary to [[faleth/process/zero-data-retention-ai-procurement-con
 
 ## Sources and links
 
-- [[raw/x-bookmarks/2026-07-24/2080607945071686030]] — OBLITERATUS discovery claim.
-- [[raw/x-bookmarks/2026-07-25/2081134153970688251]] — Hermes optional-skill claim.
+- [[raw/x-bookmarks/26-07-24/2080607945071686030]] — OBLITERATUS discovery claim.
+- [[raw/x-bookmarks/26-07-25/2081134153970688251]] — Hermes optional-skill claim.
 - [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) — public project repository inspected 2026-07-26.
 - Related: [[faleth/process/frontier-model-cost-speed-tradeoff-2026]]

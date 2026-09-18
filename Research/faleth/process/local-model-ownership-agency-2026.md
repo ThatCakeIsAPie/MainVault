@@ -5,11 +5,11 @@ updated: 2026-08-15
 type: principle
 tags: [ai, ml, open-source, leverage, software, infrastructure]
 sources:
-  - research/raw/x-bookmarks/2026-07-10/2070980335157047691.md
-  - raw/x-bookmarks/2026-07-25/2081060081278558271.md
-  - raw/x-bookmarks/2026-07-29/2082463988953367031.md
-  - raw/x-bookmarks/2026-08-04/2084645635815284821.md
-  - raw/x-bookmarks/2026-08-13/2087983106972057602.md
+  - research/raw/x-bookmarks/26-07-10/2070980335157047691.md
+  - raw/x-bookmarks/26-07-25/2081060081278558271.md
+  - raw/x-bookmarks/26-07-29/2082463988953367031.md
+  - raw/x-bookmarks/26-08-04/2084645635815284821.md
+  - raw/x-bookmarks/26-08-13/2087983106972057602.md
 confidence: medium
 ---
 
@@ -33,19 +33,19 @@ Treat these as a practitioner benchmark, not a vendor-independent result: speed 
 
 ## Kimi K3 quantization signal
 
-Unsloth reports shrinking a Kimi K3 artifact from **1.56 TB to 594 GB** with a 1-bit quantization while retaining roughly **78.9% accuracy**, and advertises a local Mac Studio workflow. This is a useful frontier signal for open-weight compression, but not evidence that the entire 594 GB artifact resides in a 128 GB Mac's unified memory: the post does not specify offloading, storage streaming, active experts, runtime, context, throughput, or the benchmark behind “accuracy.” Treat “can run locally” as a deployment claim awaiting a complete memory-and-speed recipe, not as shorthand for practical interactive serving. [[raw/x-bookmarks/2026-07-29/2082463988953367031]]
+Unsloth reports shrinking a Kimi K3 artifact from **1.56 TB to 594 GB** with a 1-bit quantization while retaining roughly **78.9% accuracy**, and advertises a local Mac Studio workflow. This is a useful frontier signal for open-weight compression, but not evidence that the entire 594 GB artifact resides in a 128 GB Mac's unified memory: the post does not specify offloading, storage streaming, active experts, runtime, context, throughput, or the benchmark behind “accuracy.” Treat “can run locally” as a deployment claim awaiting a complete memory-and-speed recipe, not as shorthand for practical interactive serving. [[raw/x-bookmarks/26-07-29/2082463988953367031]]
 
 The procurement lesson matches [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]]: artifact size alone cannot establish operational usability; require the exact hardware, quantization, runtime, residency/offload strategy, context, and measured tokens per second.
 
 ## Harness-native small agent model signal
 
-Liquid AI's August 2026 LFM2.5-2.6B release is notable less for another small local model and more for **training-environment fit**. Liquid AI says it ran agentic reinforcement learning through the Hermes Agent harness—including its tools, system prompts, and interaction patterns—so the model was optimized for the environment in which it is expected to act. The launch post describes on-device planning, tool calls, and multi-step work across phones, laptops, PCs, and robots, with private local execution and near-zero marginal inference cost. [[raw/x-bookmarks/2026-08-04/2084645635815284821]]
+Liquid AI's August 2026 LFM2.5-2.6B release is notable less for another small local model and more for **training-environment fit**. Liquid AI says it ran agentic reinforcement learning through the Hermes Agent harness—including its tools, system prompts, and interaction patterns—so the model was optimized for the environment in which it is expected to act. The launch post describes on-device planning, tool calls, and multi-step work across phones, laptops, PCs, and robots, with private local execution and near-zero marginal inference cost. [[raw/x-bookmarks/26-08-04/2084645635815284821]]
 
 This is a durable deployment lesson: model capability is partly **harness-relative**. A smaller model trained against the actual tool protocol and loop may outperform a nominally stronger generic model on bounded local tasks. It is not yet proof that LFM2.5-2.6B can replace Delta's frontier planner; require task-level Hermes evaluations covering tool selection, argument validity, recovery, completion, latency, and memory use. This complements [[faleth/process/agentic-loops-design-2026]] and [[faleth/process/frontier-model-cost-speed-tradeoff-2026]].
 
 ## Complete local creative stack signal
 
-An August 2026 practitioner report lists a full open-weight loop on one DGX Spark: DeepSeek V4 Flash 0731, Qwen 3 VL 2B, Qwen Image 3, MiniMax H3, LTX 2.5, faster-whisper base, Chatterbox Turbo, MiniMax Music 3. [[raw/x-bookmarks/2026-08-13/2087983106972057602]]
+An August 2026 practitioner report lists a full open-weight loop on one DGX Spark: DeepSeek V4 Flash 0731, Qwen 3 VL 2B, Qwen Image 3, MiniMax H3, LTX 2.5, faster-whisper base, Chatterbox Turbo, MiniMax Music 3. [[raw/x-bookmarks/26-08-13/2087983106972057602]]
 
 The ownership lesson is **coverage**, not co-residency: one owned box can now name a replacement for LLM, vision, image, video, STT, clone, and music APIs. That is the craft-loop expanding. It is not proof the stack is cheaper, faster, or legally cleaner than renting frontier APIs for accepted work. Memory budgeting stays on [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]].
 
@@ -59,11 +59,11 @@ The ownership lesson is **coverage**, not co-residency: one owned box can now na
 ## Provenance
 
 - X bookmark @sudoingX (2026-06-27), batch 2026-07-10.
-- Raw: [[research/raw/x-bookmarks/2026-07-10/2070980335157047691]]
-- Raw benchmark: [[raw/x-bookmarks/2026-07-25/2081060081278558271]]
-- Raw Kimi K3 claim: [[raw/x-bookmarks/2026-07-29/2082463988953367031]]
-- Raw LFM2.5/Hermes claim: [[raw/x-bookmarks/2026-08-04/2084645635815284821]]
-- Raw Spark stack catalog: [[raw/x-bookmarks/2026-08-13/2087983106972057602]]
+- Raw: [[research/raw/x-bookmarks/26-07-10/2070980335157047691]]
+- Raw benchmark: [[raw/x-bookmarks/26-07-25/2081060081278558271]]
+- Raw Kimi K3 claim: [[raw/x-bookmarks/26-07-29/2082463988953367031]]
+- Raw LFM2.5/Hermes claim: [[raw/x-bookmarks/26-08-04/2084645635815284821]]
+- Raw Spark stack catalog: [[raw/x-bookmarks/26-08-13/2087983106972057602]]
 
 ## Related
 

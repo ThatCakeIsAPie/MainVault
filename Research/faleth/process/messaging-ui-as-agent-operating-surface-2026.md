@@ -6,11 +6,11 @@ type: principle
 tags: [ai, software, infrastructure, systems, leverage]
 sources:
   - raw/transcripts/lyle-x-share-2087247083971760207.md
-  - raw/x-bookmarks/2026-08-11/2087252657589412119.md
-  - raw/x-bookmarks/2026-08-12/2087354679718297992.md
-  - raw/x-bookmarks/2026-08-11/2087247083971760207.md
-  - raw/x-bookmarks/2026-08-11/2087234458336604370.md
-  - raw/x-bookmarks/2026-08-13/2088003994904113614.md
+  - raw/x-bookmarks/26-08-11/2087252657589412119.md
+  - raw/x-bookmarks/26-08-12/2087354679718297992.md
+  - raw/x-bookmarks/26-08-11/2087247083971760207.md
+  - raw/x-bookmarks/26-08-11/2087234458336604370.md
+  - raw/x-bookmarks/26-08-13/2088003994904113614.md
   - raw/transcripts/lyle-x-share-2088305236003926468.md
   - raw/transcripts/lyle-x-share-2091893618801885456.md
 confidence: medium
@@ -107,8 +107,8 @@ The market is catching up to a thesis Lyle already built: **messaging is the coc
 
 ## Bookmark provenance
 
-- [[raw/x-bookmarks/2026-08-11/2087252657589412119]] — full “Intro to Grok Bot” article and architecture
-- [[raw/x-bookmarks/2026-08-12/2087354679718297992]] — cloud-VM clarification
-- [[raw/x-bookmarks/2026-08-11/2087247083971760207]] — messaging-teammates workflow endorsement
-- [[raw/x-bookmarks/2026-08-11/2087234458336604370]] — secondary launch description and screenshots
-- [[raw/x-bookmarks/2026-08-13/2088003994904113614]] — Hermes Bot Mode public-beta launch and Desktop screenshots
+- [[raw/x-bookmarks/26-08-11/2087252657589412119]] — full “Intro to Grok Bot” article and architecture
+- [[raw/x-bookmarks/26-08-12/2087354679718297992]] — cloud-VM clarification
+- [[raw/x-bookmarks/26-08-11/2087247083971760207]] — messaging-teammates workflow endorsement
+- [[raw/x-bookmarks/26-08-11/2087234458336604370]] — secondary launch description and screenshots
+- [[raw/x-bookmarks/26-08-13/2088003994904113614]] — Hermes Bot Mode public-beta launch and Desktop screenshots

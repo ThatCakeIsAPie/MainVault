@@ -10,7 +10,7 @@ sources:
   - Business/LTD Amway/Others/2026/1_16_26 FNL Josh and Taylor.md
   - Business/LTD Amway/Info Sessions/2025/04_10_25 Richard Anderson.md
   - Business/LTD Amway/Info Sessions/2026/04_02_26 Chase McIlroy.md
-  - raw/x-bookmarks/2026-07-15/2077258699412812056.md
+  - raw/x-bookmarks/26-07-15/2077258699412812056.md
   - raw/transcripts/lyle-telegram-hundreds-team-and-customers-2026-09-03.md
 confidence: medium
 ---
@@ -35,7 +35,7 @@ This is the practical operating system behind [[offshoots/networking-and-connect
 
 ### Volume Creates Opportunity, Not Guaranteed Ratios
 
-A bookmarked aphorism compresses the idea into “take more shots” across clients, friends, and dating, using illustrative 1-in-100 ratios. The durable business lesson is **increase qualified attempts so one outcome does not control the pipeline**. The ratios are rhetoric, not measured conversion rates; track actual channel-specific numbers and improve targeting, offer quality, and follow-up through [[offshoots/networking-and-connection-skills]]. Human relationships also should not be reduced to interchangeable funnel units. [[raw/x-bookmarks/2026-07-15/2077258699412812056]]
+A bookmarked aphorism compresses the idea into “take more shots” across clients, friends, and dating, using illustrative 1-in-100 ratios. The durable business lesson is **increase qualified attempts so one outcome does not control the pipeline**. The ratios are rhetoric, not measured conversion rates; track actual channel-specific numbers and improve targeting, offer quality, and follow-up through [[offshoots/networking-and-connection-skills]]. Human relationships also should not be reduced to interchangeable funnel units. [[raw/x-bookmarks/26-07-15/2077258699412812056]]
 
 ### The 100s (Lyle, 2026-09-03)
 

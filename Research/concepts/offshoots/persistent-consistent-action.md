@@ -6,7 +6,7 @@ type: principle
 tags: [business, persistence, discipline]
 confidence: high
 sources:
-  - raw/x-bookmarks/2026-08-11/2086987966283694580.md
+  - raw/x-bookmarks/26-08-11/2086987966283694580.md
 ---
 
 Long-term success in this model requires persistent, consistent daily action over an extended period (typically framed as a 2–5 year plan).
@@ -29,7 +29,7 @@ A bookmarked visual compresses the progression into three diagnostic states:
 2. **Educated → execution:** once the map is adequate, more input becomes avoidance; act.
 3. **Executing → consistency:** once action has begun, the bottleneck shifts from knowing or starting to repetition.
 
-This is a useful stage test, not a universal prescription. Education should be sufficient for safe action rather than exhaustive; execution should produce feedback; consistency should continue only while the feedback says the method works. Otherwise “consistency” becomes disciplined repetition of a bad process. For Lyle's current season, GovCon/VXE is mainly in the execution-and-consistency stages—not another-course territory. [[raw/x-bookmarks/2026-08-11/2086987966283694580]]
+This is a useful stage test, not a universal prescription. Education should be sufficient for safe action rather than exhaustive; execution should produce feedback; consistency should continue only while the feedback says the method works. Otherwise “consistency” becomes disciplined repetition of a bad process. For Lyle's current season, GovCon/VXE is mainly in the execution-and-consistency stages—not another-course territory. [[raw/x-bookmarks/26-08-11/2086987966283694580]]
 
 ### Related Principles
 

@@ -6,16 +6,16 @@ type: principle
 tags: [ai, infrastructure, software, systems, leverage]
 sources:
   - research/raw/articles/2026-07-14-xai-grok-voice-agent-builder.md
-  - raw/x-bookmarks/2026-07-26/2081408374315602338.md
+  - raw/x-bookmarks/26-07-26/2081408374315602338.md
   - research/raw/transcripts/lyle-x-share-2082339029375426914.md
-  - raw/x-bookmarks/2026-07-29/2082339029375426914.md
-  - raw/x-bookmarks/2026-07-29/2082509593280688317.md
+  - raw/x-bookmarks/26-07-29/2082339029375426914.md
+  - raw/x-bookmarks/26-07-29/2082509593280688317.md
   - research/raw/transcripts/lyle-x-share-2082864345520722221.md
-  - raw/x-bookmarks/2026-07-29/2082430003460166142.md
-  - raw/x-bookmarks/2026-07-30/2082864166960877718.md
-  - raw/x-bookmarks/2026-07-29/2082570290828304553.md
+  - raw/x-bookmarks/26-07-29/2082430003460166142.md
+  - raw/x-bookmarks/26-07-30/2082864166960877718.md
+  - raw/x-bookmarks/26-07-29/2082570290828304553.md
   - raw/articles/2026-07-31-audio8-tts-preview-readme.md
-  - raw/x-bookmarks/2026-08-03/2084378415818579975.md
+  - raw/x-bookmarks/26-08-03/2084378415818579975.md
 confidence: high
 ---
 
@@ -97,7 +97,7 @@ A thin bridge gives:
 
 Alex Finn's field report adds a separate use case from telephony: **continuous voice access to an always-on headquarters computer** while walking, driving, or moving between places. The durable mechanism is not human-sounding speech. It is converting otherwise awkward, screenless time into project briefing, idea capture, drafting, decomposition, and delegated execution.
 
-For Delta, this supports a broader interface test: the phone line should make useful work possible away from a desk without pretending every task belongs in voice. Voice is strongest for intent capture, review, prioritization, and starting asynchronous jobs; exact code review, dense comparison, and irreversible actions should still return to a screen or explicit confirmation. The post's claim of four voice hours outperforming eight desk hours is an anecdote, not a benchmark. [[raw/x-bookmarks/2026-07-26/2081408374315602338]]
+For Delta, this supports a broader interface test: the phone line should make useful work possible away from a desk without pretending every task belongs in voice. Voice is strongest for intent capture, review, prioritization, and starting asynchronous jobs; exact code review, dense comparison, and irreversible actions should still return to a screen or explicit confirmation. The post's claim of four voice hours outperforming eight desk hours is an anecdote, not a benchmark. [[raw/x-bookmarks/26-07-26/2081408374315602338]]
 
 This complements [[faleth/process/demonstration-to-skill-capture-2026]]: narration can expose intent and tacit judgment, while Hermes converts that input into durable artifacts and verifiable work.
 
@@ -121,13 +121,13 @@ The correct sequence is now: prove native Hermes Desktop voice first; add phone/
 
 ### Full-duplex reasoning without conversational stalls — 2026-08-03
 
-OpenAI's GPT-Live announcement adds a useful architecture signal: the voice stack can continue listening while speaking and keep audio flowing while deeper reasoning and tool use occur. The important pattern is **continuous transport decoupled from variable-latency cognition**. A natural agent should not freeze the audio session merely because a planner or tool call takes longer than one conversational beat. [[raw/x-bookmarks/2026-08-03/2084378415818579975]]
+OpenAI's GPT-Live announcement adds a useful architecture signal: the voice stack can continue listening while speaking and keep audio flowing while deeper reasoning and tool use occur. The important pattern is **continuous transport decoupled from variable-latency cognition**. A natural agent should not freeze the audio session merely because a planner or tool call takes longer than one conversational beat. [[raw/x-bookmarks/26-08-03/2084378415818579975]]
 
 For Delta, this strengthens the case for an event-driven voice edge with concurrent input, output, interruption handling, and asynchronous task state—not a serial `record → transcribe → think → speak` pipeline. It does not establish that OpenAI's proprietary stack should replace [[faleth/process/hermes-cloud-and-x-mcp-2026|Hermes]] or the Grok phone edge; the post supplies an architectural claim, not latency benchmarks, pricing, or integration details. The practical KPI is whether Lyle can interrupt, clarify, or continue talking while Delta's deeper work proceeds without losing conversational state.
 
 ### Local wake-word activation
 
-Hermes now also supports an optional, locally detected wake word that opens a new voice session in the CLI, TUI, or Desktop app. Combined with streaming TTS, this closes two different latency gaps: the wake word removes the manual start action, while streamed speech reduces the delay before Delta begins answering. Detection is off by default, which is the correct boundary for an always-listening interface. [[raw/x-bookmarks/2026-07-29/2082509593280688317]]
+Hermes now also supports an optional, locally detected wake word that opens a new voice session in the CLI, TUI, or Desktop app. Combined with streaming TTS, this closes two different latency gaps: the wake word removes the manual start action, while streamed speech reduces the delay before Delta begins answering. Detection is off by default, which is the correct boundary for an always-listening interface. [[raw/x-bookmarks/26-07-29/2082509593280688317]]
 
 This strengthens the case for testing the native desktop path before building telephony. The immediate experiment is mundane but decisive: enable wake-word activation on one trusted machine, measure false activations and successful hands-free task starts for a week, and keep irreversible actions behind explicit confirmation. A voice interface that awakens elegantly but mishears file deletion is merely Clippy with initiative.
 
@@ -137,7 +137,7 @@ The VPS currently has local faster-whisper `base` for STT, `voice.auto_tts: true
 
 ## Local-first speech edge — Kokoro + faster-whisper (2026-07-30)
 
-Audio8-TTS Preview is technically impressive: 601,159,424 parameters, 11 languages, zero-shot voice cloning, a bundled 44.1 kHz codec, Apache 2.0 licensing, and a reported English Seed-TTS WER of 1.506. Its official README identifies a DualAR architecture, a 2,048-position packed text/audio context, and a recommended CUDA-capable GPU. It is roughly seven times larger than Kokoro-82M. Those extra capabilities do not improve the primary Delta requirement enough to justify becoming the default on the current CPU-only VPS. The benchmark is first-party and the release is explicitly a preview, so production latency and pronunciation still require direct testing. [[raw/x-bookmarks/2026-07-29/2082430003460166142]] [[raw/x-bookmarks/2026-07-30/2082864166960877718]] [[raw/articles/2026-07-31-audio8-tts-preview-readme]]
+Audio8-TTS Preview is technically impressive: 601,159,424 parameters, 11 languages, zero-shot voice cloning, a bundled 44.1 kHz codec, Apache 2.0 licensing, and a reported English Seed-TTS WER of 1.506. Its official README identifies a DualAR architecture, a 2,048-position packed text/audio context, and a recommended CUDA-capable GPU. It is roughly seven times larger than Kokoro-82M. Those extra capabilities do not improve the primary Delta requirement enough to justify becoming the default on the current CPU-only VPS. The benchmark is first-party and the release is explicitly a preview, so production latency and pronunciation still require direct testing. [[raw/x-bookmarks/26-07-29/2082430003460166142]] [[raw/x-bookmarks/26-07-30/2082864166960877718]] [[raw/articles/2026-07-31-audio8-tts-preview-readme]]
 
 Kokoro better matches the actual job:
 
@@ -206,7 +206,7 @@ Success means:
 
 Do **not** start with Raspberry Pi wake words, multi-room audio, outbound callbacks, client-facing agents, or every Hermes tool. First prove the single personal inbound line. Revolutionary notion: test whether Lyle actually enjoys calling his computer before wiring the house like Stark Tower.
 
-A Raspberry Pi + USB microphone + local-model Hermes appliance is a credible later packaging pattern, especially now that Hermes has local wake-word detection, but the bookmarked post is a proposal rather than a measured build report. It does not override the sequence above: validate the voice loop on existing hardware, measure latency and false activations, then move the proven edge onto a dedicated appliance if physical placement or privacy justifies it. [[raw/x-bookmarks/2026-07-29/2082570290828304553]]
+A Raspberry Pi + USB microphone + local-model Hermes appliance is a credible later packaging pattern, especially now that Hermes has local wake-word detection, but the bookmarked post is a proposal rather than a measured build report. It does not override the sequence above: validate the voice loop on existing hardware, measure latency and false activations, then move the proven edge onto a dedicated appliance if physical placement or privacy justifies it. [[raw/x-bookmarks/26-07-29/2082570290828304553]]
 
 ## Cost envelope
 

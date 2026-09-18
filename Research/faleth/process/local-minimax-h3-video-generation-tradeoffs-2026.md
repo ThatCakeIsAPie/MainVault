@@ -4,7 +4,7 @@ created: 2026-08-09
 updated: 2026-08-15
 type: concept
 tags: [ai, ml, hardware, inference]
-sources: [raw/x-bookmarks/2026-08-09/2086253065657790895.md, raw/x-bookmarks/2026-08-08/2086171185134686509.md, raw/x-bookmarks/2026-08-08/2086106500766843287.md, raw/x-bookmarks/2026-08-09/2086521366300512391.md, raw/transcripts/lyle-x-share-2086532726967112049.md, raw/transcripts/lyle-x-share-2086531287754448949.md, raw/x-bookmarks/2026-08-13/2087983106972057602.md, raw/x-bookmarks/2026-08-14/2088152335008571532.md]
+sources: [raw/x-bookmarks/26-08-09/2086253065657790895.md, raw/x-bookmarks/26-08-08/2086171185134686509.md, raw/x-bookmarks/26-08-08/2086106500766843287.md, raw/x-bookmarks/26-08-09/2086521366300512391.md, raw/transcripts/lyle-x-share-2086532726967112049.md, raw/transcripts/lyle-x-share-2086531287754448949.md, raw/x-bookmarks/26-08-13/2087983106972057602.md, raw/x-bookmarks/26-08-14/2088152335008571532.md]
 confidence: medium
 ---
 
@@ -93,7 +93,7 @@ The lesson matches [[faleth/process/frontier-model-cost-speed-tradeoff-2026]]: o
 
 ## DGX Spark catalog signal (2026-08-13)
 
-Steve Darlow lists MiniMax H3 next to LTX 2.5 inside a one-Spark open creative stack (LLM, vision, image, video, STT, voice clone, music). [[raw/x-bookmarks/2026-08-13/2087983106972057602]] That is feasibility-as-menu evidence, not a new H3 benchmark. Keep scoring H3 on accepted clips, retries, and peak memory. Do not infer that H3 plus LTX plus an LLM are simultaneously resident.
+Steve Darlow lists MiniMax H3 next to LTX 2.5 inside a one-Spark open creative stack (LLM, vision, image, video, STT, voice clone, music). [[raw/x-bookmarks/26-08-13/2087983106972057602]] That is feasibility-as-menu evidence, not a new H3 benchmark. Keep scoring H3 on accepted clips, retries, and peak memory. Do not infer that H3 plus LTX plus an LLM are simultaneously resident.
 
 ## Not MAGI-2
 

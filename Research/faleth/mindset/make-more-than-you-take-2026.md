@@ -47,4 +47,4 @@ The shift from a zero-leverage day job to building an automation services bridge
 
 - Lyle shared via Telegram: **2026-06-26** — [X post](https://x.com/i/status/2070172666301141018) (Musk — make more than you take).
 - Raw ingest: [[research/raw/transcripts/lyle-x-share-2070172666301141018]]
-- Re-bookmarked: [[research/raw/x-bookmarks/2026-07-11/2070172666301141018]] (2026-07-11 cron)
+- Re-bookmarked: [[research/raw/x-bookmarks/26-07-11/2070172666301141018]] (2026-07-11 cron)

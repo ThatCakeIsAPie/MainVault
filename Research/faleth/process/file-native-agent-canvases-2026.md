@@ -5,7 +5,7 @@ updated: 2026-07-18
 type: principle
 tags: [ai, software, systems, infrastructure, open-source]
 sources:
-  - raw/x-bookmarks/2026-07-16/2077784657869902121.md
+  - raw/x-bookmarks/26-07-16/2077784657869902121.md
 confidence: medium
 ---
 
@@ -38,7 +38,7 @@ Do not replace markdown source-of-truth documents with drawings merely because b
 ## Provenance
 
 - tldraw X article, “Introducing tldraw offline,” bookmarked 2026-07-16 and ingested 2026-07-18.
-- Raw: [[raw/x-bookmarks/2026-07-16/2077784657869902121]]
+- Raw: [[raw/x-bookmarks/26-07-16/2077784657869902121]]
 
 ## Related
 
