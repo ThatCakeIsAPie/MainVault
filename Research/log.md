@@ -5,6 +5,15 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-09-21] ingest | Tony Robbins / Modern Wisdom — Holy Grail investing (DuRcrbP3kag)
+- Raw: [[raw/transcripts/youtube-DuRcrbP3kag-2026-09-21]]
+- sha256: `600f0448f2fcc7393faecfbe862884314de7123afef3323b8a07fa2016e69992`
+- Updated: [[tony-robbins]]
+- Created: [[offshoots/holy-grail-of-investing]]
+- Why: Central to this source — Dalio “8–12 non-correlated” holy grail, three money buckets, contested SEC/DOL retail access to alternatives; captions = YouTube auto en via yt-dlp
+- Index updated
+- No git commit
+
 ## [2026-09-03] ingest | Hundreds for team and customers
 - Raw: [[raw/transcripts/lyle-telegram-hundreds-team-and-customers-2026-09-03]]
 - Created: [[queries/hundreds-for-team-and-customers]]
