@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-09-03 | Total pages: 152+
+> Last updated: 2026-09-21 | Total pages: 153+
 
 ## Meta / schema
 
@@ -22,7 +22,7 @@
 - [[ltd-amway]] — Leadership-development, mentorship, and network-marketing environment serving as an incubator in Lyle's broader sequencing model.
 - [[lyle-cole]] — 27-year-old entrepreneur building Faleth Capital; faith-centered, systems thinker.
 - [[robert-kiyosaki]] — Financial/business influence marker around cashflow, asset ownership, and escaping linear income.
-- [[tony-robbins]] — Personal-development influence marker around identity, belief, state, and behavioral change.
+- [[tony-robbins]] — Personal-development influence (identity/belief/state) plus later finance teaching (*Holy Grail of Investing* / alternatives access).
 - [[tyler-sheridan]] — LTD Amway speaker emphasizing win-win mentorship, family legacy, leveraged leadership income, endurance, and long-term thinking.
 
 ## Concepts
@@ -47,6 +47,7 @@
 - [[offshoots/faith-anchored-action-and-obedience]] — Faith is treated as action taken before full proof appears, especially when rooted in obedience rather than vague optimism.
 - [[offshoots/family-formation-demographic-flywheel]] — Required loop for fertility at scale: good jobs → early marriage → inexpensive housing → children → community growth → schools/demand → more jobs.
 - [[offshoots/family-legacy-as-mission-multiplier]] — Business is repeatedly framed as a vehicle for family, marriage, legacy, and generational impact.
+- [[offshoots/holy-grail-of-investing]] — Dalio/Robbins frame: 8–12 non-correlated investments + security/growth/dream buckets; contested retail-access claim (SEC/DOL).
 - [[offshoots/honor-edification-and-communication-rhythm]] — Healthy duplication depends on honoring the mentorship chain, edifying the right people, and maintaining clear communication rhythms.
 - [[offshoots/identity-and-belief-drive-behavior]] — Lasting behavioral change comes from identity and belief change, not temporary motivation or surface discipline.
 - [[offshoots/long-term-alignment-through-reinvestment]] — Participants should have incentives to reinvest and act in the long-term interest of the organization.
