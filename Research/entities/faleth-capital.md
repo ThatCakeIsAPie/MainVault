@@ -10,7 +10,7 @@ confidence: high
 
 # Faleth Capital
 
-Faleth Capital is Lyle Cole's family-office / private-index-fund architecture for building businesses that eliminate the wage/salary model and align operators, contributors, customers, and capital around value creation rather than fixed labor cost.
+Faleth Capital is Lyle Cole's evergreen holding company / private-index-fund architecture for building businesses that eliminate the wage/salary model and align operators, contributors, customers, and capital around value creation rather than fixed labor cost.
 
 ## Core Thesis
 

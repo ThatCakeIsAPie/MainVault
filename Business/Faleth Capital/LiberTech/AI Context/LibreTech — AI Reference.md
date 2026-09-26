@@ -15,7 +15,7 @@ LibreTech is a defense company being started by Lyle's brother. It is currently 
 | Brother (Lyle's) | Founder — primary focus and operator |
 | Lyle | Partner via Faleth Capital |
 
-LibreTech is the brother's primary focus while Lyle focuses on Free Range Repair. For context on the broader family office structure both businesses operate within, see [[Faleth Capital Constitution]].
+LibreTech is the brother's primary focus while Lyle focuses on Free Range Repair. For context on the broader evergreen holding company structure both businesses operate within, see [[Faleth Capital Constitution]].
 
 ---
 
@@ -53,14 +53,14 @@ LibreTech is the brother's primary focus while Lyle focuses on Free Range Repair
 
 | Person / Entity | Relationship |
 |---|---|
-| Faleth Capital | Parent / family office partner |
+| Faleth Capital | Parent / evergreen holding company partner |
 | VXE (partner) | Related government contracts business — see [[VXE — AI Reference]] |
 
 ---
 
 ## Wiki links
 
-- [[faleth-capital]] — Parent family office entity.
+- [[faleth-capital]] — Parent evergreen holding company.
 - [[offshoots/contribution-over-wage-compensation]] — Intended comp alignment with Faleth contribution model.
 - [[offshoots/self-governance-by-contributors]] — Operator agency and contributor governance.
 - [[offshoots/earned-equity-through-contribution]] — Equity earned through contribution, not passive buy-in alone.
