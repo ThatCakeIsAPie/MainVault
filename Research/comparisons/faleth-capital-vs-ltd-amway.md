@@ -19,7 +19,7 @@ confidence: high
 | Main problem solved | Wage/salary misalignment and ownership/governance structure | Personal development, mentorship, duplication, team-building |
 | Compensation logic | Contribution, equity, reinvestment, shared upside/downside | Product volume, team growth, bonuses/overrides |
 | Development mechanism | Building and governing real operating companies | Coaching, meetings, events, books, product/customer activity |
-| Time horizon | Multi-decade institution/family office | 2–5+ year leadership and asset-building path |
+| Time horizon | Multi-decade institution/evergreen holding company | 2–5+ year leadership and asset-building path |
 | Risk | Overengineering before cashflow and operators exist | Treating the training environment as the final destination rather than a phase |
 
 ## Synthesis

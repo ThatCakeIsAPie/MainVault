@@ -1,7 +1,7 @@
 # The Constitution of Faleth Capital
 
-*A family office built on ownership, aligned incentives, and human freedom.*
-*Open Document · Version 2.1*
+*An evergreen holding company built on ownership, aligned incentives, and human freedom.*
+*Open Document · Version 2.2*
 
 ---
 
@@ -15,7 +15,7 @@ It also forecloses the way out. Building something of your own on the side means
 
 Faleth Capital exists to prove there's a better way.
 
-It is a family office built on one conviction: that people given total agency — free to work how and when they want, sharing in the upside — will outperform any system built on control, surveillance, and fixed pay. Not because they're made to. Because the structure makes it obvious that their effort matters.
+It is an evergreen holding company built on one conviction: that people given total agency — free to work how and when they want, sharing in the upside — will outperform any system built on control, surveillance, and fixed pay. Not because they're made to. Because the structure makes it obvious that their effort matters.
 
 This document sets out the principles Faleth Capital operates by. It's open. We aren't big on secrets, and anyone — participant, executive, prospective partner, or curious outsider — is welcome to read it, question it, and judge us by whether we live up to it. The mechanics live in the frameworks. This is the spirit of the law, not the letter.
 
@@ -27,7 +27,7 @@ One note on how to read it. What follows builds in order: what we are, how we're
 
 ## 1.1 — What Faleth Capital Is
 
-Faleth Capital is a family office that owns, funds, and mentors operating businesses in any industry — a holding entity, a shared liquidity pool, and a governance body. It is not an employer in the traditional sense. It's an economic ecosystem designed to produce owners rather than employees.
+Faleth Capital is an evergreen holding company that owns, funds, and mentors operating businesses in any industry — a parent holding entity, a shared liquidity pool, and a governance body. It is not an employer in the traditional sense. It's an economic ecosystem designed to produce owners rather than employees.
 
 The name comes from *Fah Leth*, meaning "individual," and it's the root of the model. Faleth begins with the individual contributor: the person whose agency, skill, and judgment should be strengthened by an organization rather than swallowed by it. The goal isn't isolated individualism. It's voluntary alignment — sovereign people choosing to work together because together they can build, protect, and multiply more than they can alone.
 

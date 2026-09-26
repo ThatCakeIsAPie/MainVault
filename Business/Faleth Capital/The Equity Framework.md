@@ -1,7 +1,7 @@
 # The Equity Framework
 
 *How ownership works — three classes, earned rather than bought, and priced at book value.*
-*Faleth Capital · Internal Framework · Version 2.0*
+*Faleth Capital · Internal Framework · Version 2.1*
 *Companion to [[The Financial Framework]], [[The Contribution Framework]], and [[The Governance Framework]]. Office-level governance is in the [[Faleth Capital Constitution]].*
 
 ---
@@ -90,13 +90,15 @@ Nothing here is a promise. The office has no track record yet, and until it does
 
 **This section is a legal flag, not legal advice. Qualified securities counsel must be consulted before an MCA is offered to anyone.**
 
-The SEC evaluates economic substance rather than terminology. Under the Howey test an arrangement is a security if it involves an investment of money, in a common enterprise, with an expectation of profit, derived primarily from the efforts of others — and an MCA meets all four. Describing it as a managed capital relationship doesn't change that, so offering one without registration or a qualifying exemption likely violates federal securities law.
+**MCAs are not offered yet.** They are not marketed, sold, or accepted from anyone today. Until a qualified offering is live under counsel, the Invest door stays closed in practice even though the economic design is written here.
 
-The practical consequence is simple: until the legal structure exists, MCAs are not offered or marketed to anyone. The paths worth evaluating with counsel are the accredited investor exemption under Regulation D — currently $1M in net worth excluding a primary residence, or $200K in annual income, and since 2020 also holders of the Series 7, 65, or 82 — along with Regulation A+ for a streamlined public offering, Regulation Crowdfunding for genuinely public participation under per-person caps, and registering the office as a Registered Investment Advisor, the structure built explicitly for managing money on behalf of clients.
+An MCA is a security in substance. Under the Howey test, an arrangement is a security when it involves an investment of money, in a common enterprise, with an expectation of profit, derived primarily from the efforts of others — and an MCA meets all four. Calling it a managed capital account does not change that. Offering one without registration or a qualifying exemption would likely violate federal securities law.
 
-The eventual aim is to open MCAs to anyone willing to accept the fee structure, and regulation has been drifting that way — the 2020 expansion of the accredited definition to recognize demonstrated financial sophistication rather than wealth alone is evidence of it. That aim needs the infrastructure first.
+**Planned path: Regulation A+ Tier 2.** The intent is to qualify MCAs as a Reg A+ Tier 2 offering so participation can be open to anyone — large or small — not limited to accredited investors. That path exists to make the Invest door widely available. It also fits the rest of the model: gain share, performance fees, and book-value equity already require clean books and honest reporting; Tier 2's audit and ongoing disclosure obligations formalize a discipline Faleth needs anyway. Disclosure itself is the same first principle as the rest of the frameworks — describe what is offered, what is not, and the real risks, without hype.
 
-**Still to be set**, by Class A members with counsel, before any MCA is offered: the legal structure itself; the hurdle rate above which the performance fee applies; the size of the cap on individual holdings, and on total MCA capital relative to the pool; minimum investment thresholds; and the reporting cadence and format for holders.
+Nothing in this section is an offer to sell, a solicitation to buy, or a commitment that a Reg A+ qualification will be obtained on any timeline. Those steps belong to Class A members working with securities counsel.
+
+**Still to be set**, by Class A members with counsel, before any MCA is offered: the Form 1-A / offering circular and related filings; whether subscriptions run continuously or in episodic windows tied to pool capacity; the hurdle rate above which the performance fee applies; caps on individual holdings and on total MCA capital relative to the pool; minimum investment thresholds; how referral credits convert into an MCA if at all; and the exact reporting cadence and format for holders (including any audit rhythm beyond Tier 2's floor).
 
 ---
 

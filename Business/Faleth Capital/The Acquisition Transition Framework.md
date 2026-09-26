@@ -14,7 +14,7 @@ But acquiring isn't founding. A founded subsidiary starts clean — everyone who
 
 Handle that the way we handle everything else — voluntary participation, real transparency, a genuine exit for anyone who doesn't want to be here — and what remains is a team that chose this with open eyes. Handle it carelessly and we get exactly what the traditional model produces: compliance without conviction.
 
-What happens to the seller depends on the deal. Buying from another private equity firm or family office means they're paid and gone. An individual who wants to keep running the business — someone who came looking for help, or for a system they believe will make it better — is paid, typically places the proceeds in a Managed Capital Account, and stays on as the acting executive. Between those sits a range of arrangements, all of them terms of a transaction rather than matters of principle.
+What happens to the seller depends on the deal. Buying from another private equity firm or holding company means they're paid and gone. An individual who wants to keep running the business — someone who came looking for help, or for a system they believe will make it better — is paid, typically places the proceeds in a Managed Capital Account, and stays on as the acting executive. Between those sits a range of arrangements, all of them terms of a transaction rather than matters of principle.
 
 The principles are what follow. Timelines, sequencing, and specific terms flex with the business. How people are treated does not.
 
