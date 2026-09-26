@@ -1,7 +1,7 @@
 # The Equity Framework
 
 *How ownership works — three classes, earned rather than bought, and priced at book value.*
-*Faleth Capital · Internal Framework · Version 2.1*
+*Faleth Capital · Internal Framework · Version 2.2*
 *Companion to [[The Financial Framework]], [[The Contribution Framework]], and [[The Governance Framework]]. Office-level governance is in the [[Faleth Capital Constitution]].*
 
 ---
@@ -84,21 +84,7 @@ Nothing here is a promise. The office has no track record yet, and until it does
 
 **The businesses underneath contract rather than break.** Labor is paid as a share of gross margin, so when revenue falls the largest cost falls with it automatically, with no layoffs and no payroll crisis ([[The Contribution Framework#2. The Three Layers|The Contribution Framework]]). And roughly half the pool sits liquid at all times, so a withdrawal never forces the sale of an operating business — it comes off the liquid side, and the office slows new spending until the balance restores itself.
 
----
-
-## 6. Regulatory Status and Open Parameters
-
-**This section is a legal flag, not legal advice. Qualified securities counsel must be consulted before an MCA is offered to anyone.**
-
-**MCAs are not offered yet.** They are not marketed, sold, or accepted from anyone today. Until a qualified offering is live under counsel, the Invest door stays closed in practice even though the economic design is written here.
-
-An MCA is a security in substance. Under the Howey test, an arrangement is a security when it involves an investment of money, in a common enterprise, with an expectation of profit, derived primarily from the efforts of others — and an MCA meets all four. Calling it a managed capital account does not change that. Offering one without registration or a qualifying exemption would likely violate federal securities law.
-
-**Planned path: Regulation A+ Tier 2.** The intent is to qualify MCAs as a Reg A+ Tier 2 offering so participation can be open to anyone — large or small — not limited to accredited investors. That path exists to make the Invest door widely available. It also fits the rest of the model: gain share, performance fees, and book-value equity already require clean books and honest reporting; Tier 2's audit and ongoing disclosure obligations formalize a discipline Faleth needs anyway. Disclosure itself is the same first principle as the rest of the frameworks — describe what is offered, what is not, and the real risks, without hype.
-
-Nothing in this section is an offer to sell, a solicitation to buy, or a commitment that a Reg A+ qualification will be obtained on any timeline. Those steps belong to Class A members working with securities counsel.
-
-**Still to be set**, by Class A members with counsel, before any MCA is offered: the Form 1-A / offering circular and related filings; whether subscriptions run continuously or in episodic windows tied to pool capacity; the hurdle rate above which the performance fee applies; caps on individual holdings and on total MCA capital relative to the pool; minimum investment thresholds; how referral credits convert into an MCA if at all; and the exact reporting cadence and format for holders (including any audit rhythm beyond Tier 2's floor).
+**MCAs are not offered yet.** An MCA is a security in substance; the planned path is a Regulation A+ Tier 2 offering so anyone — large or small — can participate once counsel has qualified it. Nothing here is an offer to sell or a solicitation to buy. Until that offering is live, MCAs are not marketed, sold, or accepted from anyone.
 
 ---
 
