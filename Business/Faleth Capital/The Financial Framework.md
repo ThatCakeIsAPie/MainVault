@@ -1,7 +1,7 @@
 # The Financial Framework
 
 *How money moves through the Faleth Capital ecosystem.*
-*Faleth Capital · Internal Framework · Version 2.1*
+*Faleth Capital · Internal Framework · Version 2.2*
 *Companion to [[The Contribution Framework]], [[The Cell Framework]], and [[The Equity Framework]]. The philosophy behind the structure is in the [[Faleth Capital Constitution]].*
 
 ---
@@ -71,7 +71,7 @@ Two gain shares pay out each quarter, and they exist to align two different scop
 
 **The office share** is the 20% of total pool growth from the previous section, distributed across every participant in every subsidiary. It gives someone at one subsidiary a real stake in whether the others are run well, since consolidated performance drives part of their own payout. Caring about the whole enterprise is structural here, not aspirational.
 
-Both divide the same way: by your **Layer 2 income for the quarter**, as it appears on your pay. Total what the value share paid you over the quarter, divide by the total across everyone in that scope, and that's your fraction. The floor doesn't count toward it — Layer 1 is security, and gain share is a return on value created ([[The Contribution Framework#2. The Three Layers|The Contribution Framework]]).
+Both divide the same way: by your **Layer 2 income for the quarter**, as it appears on your pay — the value-share earnings only, never an overtime premium. Total what the value share paid you over the quarter (excluding any OT add-on the law may require), divide by the total across everyone in that scope, and that's your fraction. The floor doesn't count toward it — Layer 1 is security, and gain share is a return on value created ([[The Contribution Framework#2. The Three Layers|The Contribution Framework]]). Overtime, where it applies, is a compliance side effect of wage-and-hour law, not part of the contribution scoreboard ([[#7. Hours, Overtime, and Time on Task|§7]]).
 
 In a multi-cell subsidiary the subsidiary share splits in half — half from the cell's own contribution margin, paid to that cell's people, and half from the subsidiary's consolidated profit, paid across every cell. The split arrives when a subsidiary goes from single-celled to multicellular, which is the point at which a cell's own performance becomes something its people can see and move ([[The Cell Framework#4. One Body, One Pool|The Cell Framework]]).
 
@@ -113,6 +113,22 @@ The deepest protection is that the largest expense flexes on its own. Labor is p
 The layers also fail independently. Picture the office deploying hard into new subsidiaries that haven't matured: pool growth goes flat, so the office gain share pays nothing and the dividend pool thins. The operating subsidiaries don't notice. Their weekly pay still comes out of gross margin, their own gain share still calculates off their own operating profit, and participants minting shares are doing it while book value is temporarily suppressed — buying in at a discount that appreciates when those investments come good.
 
 The system doesn't need every layer performing at once. It needs one, and the architecture makes it structurally difficult for all of them to fail together. For that to happen, every subsidiary would need to lose its customers, the office would need to have misallocated badly, and the reserves would have to be empty at the same time — while half the pool sits in liquid capital precisely so that last one isn't true.
+
+---
+
+## 7. Hours, Overtime, and Time on Task
+
+The contribution model pays for value created, not time spent ([[The Contribution Framework]]). Until Faleth obtains a durable FLSA path that matches that design — opinion letter, exemption, or statute — operating subsidiaries that employ non-exempt participants still sit under federal wage-and-hour rules. This section is how we live with that gap without letting it rewrite the incentives.
+
+**Hours are capped.** Soft warnings lead up to the limit; at **40 hours in a workweek**, systems refuse further task reservation until the next fiscal week. The point is cultural and economic: overtime's time-and-a-half premium rewards stretching hours, and Faleth wants the opposite — more value in less time, and room for a life outside work. A hard cap keeps groups from optimizing for duration the way they predictably would if OT were left open as upside.
+
+**Time on Task (TOT)** is automatic: the clock runs from when work is reserved to when it is finished. No manual punch-in. That record exists for compliance and for a personal dashboard figure — rough **average dollars per hour** from Layer 2 over recorded task time — so people can see their own effectiveness. TOT is not the scoreboard. Points, calibration, and gain share are.
+
+**Layer 3 ignores OT.** Both gain shares divide by Layer 2 value-share earnings only ([[#4. The Two Gain Shares|§4]]). Any overtime premium required by law is paid as a side effect of a time-wage regime that is not yet ready for this model; it does not inflate ownership stake or portfolio gain share. Floor (Layer 1) still does not count toward gain share.
+
+**This is temporary posture, not the destination.** Class A members pursue DOL guidance and, longer term, statutory change so contribution-calibrated pay with participant-set hours can run without a time-wage overlay. Until that lands, the cap and TOT are how we comply without installing a management caste to police presence, and without making hustle the winning strategy.
+
+Nothing here is legal advice. Exact classification, what counts as hours worked, and payroll mechanics are set with employment counsel for each subsidiary before offers go out.
 
 ---
 
