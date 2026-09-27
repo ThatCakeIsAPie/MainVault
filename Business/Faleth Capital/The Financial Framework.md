@@ -73,6 +73,8 @@ Two gain shares pay out each quarter, and they exist to align two different scop
 
 Both divide the same way: by your **Layer 2 income for the quarter**, as it appears on your pay. Total what the value share paid you over the quarter, divide by the total across everyone in that scope, and that's your fraction. The floor doesn't count toward it — Layer 1 is security, and gain share is a return on value created ([[The Contribution Framework#2. The Three Layers|The Contribution Framework]]).
 
+In a multi-cell subsidiary the subsidiary share splits in half — half from the cell's own contribution margin, paid to that cell's people, and half from the subsidiary's consolidated profit, paid across every cell. The split arrives when a subsidiary goes from single-celled to multicellular, which is the point at which a cell's own performance becomes something its people can see and move ([[The Cell Framework#4. One Body, One Pool|The Cell Framework]]).
+
 Both shares land in the same distribution, and at each one you choose independently: take it in cash, or mint it into Class B shares. Cash from one and equity from the other is a perfectly ordinary choice. How shares are minted, valued, and burned is in [[The Equity Framework]].
 
 ---
