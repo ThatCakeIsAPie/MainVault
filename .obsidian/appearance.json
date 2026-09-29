@@ -1,9 +1,8 @@
 {
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Omarchy",
   "theme": "obsidian",
+  "accentColor": "#E3C271",
   "enabledCssSnippets": [
-    "vertical lines of list-1",
-    "purple-glow-interface",
-    "zzz-edit-toggle-blue"
+    "vertical lines of list-1"
   ]
 }
