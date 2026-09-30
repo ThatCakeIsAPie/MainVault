@@ -118,7 +118,7 @@ For full process breakdowns and point value examples, see `Comp Plan Examples.xl
 
 ## Wiki links
 
-- [[faleth-capital]] — Parent family office entity.
+- [[faleth-capital]] — Parent evergreen holding company.
 - [[offshoots/contribution-over-wage-compensation]] — FRR compensation aligns with contribution, not wage logic.
 - [[offshoots/factory-over-product-thinking]] — Repair/restoration as repeatable operating system.
 - [[offshoots/self-governance-by-contributors]] — Contributor-facing governance in Faleth portfolio companies.

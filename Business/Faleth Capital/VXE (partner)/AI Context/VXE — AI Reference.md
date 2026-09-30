@@ -55,7 +55,7 @@ VXE operates in the government contracts space.
 | Person / Entity | Relationship |
 |---|---|
 | Leonard | Operator and external business partner |
-| Faleth Capital | Silent partner / family office |
+| Faleth Capital | Silent partner / evergreen holding company |
 | LibreTech | Related defense business — see [[LibreTech — AI Reference]] |
 | Free Range Repair | Lyle's primary focus — see [[Free Range Repair — AI Reference]] |
 
@@ -63,7 +63,7 @@ VXE operates in the government contracts space.
 
 ## Wiki links
 
-- [[faleth-capital]] — Silent partner / family office architecture.
+- [[faleth-capital]] — Silent partner / evergreen holding company architecture.
 - [[offshoots/contribution-over-wage-compensation]] — GovCon operator upside vs wage dependence.
 - [[offshoots/self-governance-by-contributors]] — Partnership structure preserving operator agency.
 - [[research/business/vxe/full-time-transition-research-2026]] — Five-path facility and income transition research.

@@ -52,7 +52,7 @@ That reward has corresponding external and internal fruit. Externally, the custo
 
 ## Economic Architecture
 
-The office functions as a thin family office over operating subsidiaries and a shared pool. Labor flexes with gross margin. Subsidiary and office profit shares align local and portfolio performance. Class B equity mints only from earned profit share or reinvested dividends. Managed Capital Accounts give outside capital exposure to pool performance without buying governance or contributor dividends. Liquidity roughly matches deployed subsidiary book value, and all entry, exit, minting, burning, and separation use book value.
+The office functions as a thin evergreen holding company over operating subsidiaries and a shared pool. Labor flexes with gross margin. Subsidiary and office profit shares align local and portfolio performance. Class B equity mints only from earned profit share or reinvested dividends. Managed Capital Accounts give outside capital exposure to pool performance without buying governance or contributor dividends. Liquidity roughly matches deployed subsidiary book value, and all entry, exit, minting, burning, and separation use book value.
 
 ## Diagnostic Test
 

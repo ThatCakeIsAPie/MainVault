@@ -1,6 +1,6 @@
 **Work context**
 
-Lyle is a 27-year-old entrepreneur building Faleth Capital, a family office structured as a diversified portfolio of subsidiaries functioning as a private index fund, where operators, investors, and customers all participate in upside. He also runs a government contracts business with his brother and a partner experienced in business-to-government contracting, focused on high bid volume with certifications and relationships as long-term competitive moats. He is active in an Amway network marketing business, which he frames primarily as a leadership incubator and foundational on-ramp within the Faleth Capital architecture.
+Lyle is a 27-year-old entrepreneur building Faleth Capital, an evergreen holding company structured as a diversified portfolio of subsidiaries functioning as a private index fund, where operators, investors, and customers all participate in upside. He also runs a government contracts business with his brother and a partner experienced in business-to-government contracting, focused on high bid volume with certifications and relationships as long-term competitive moats. He is active in an Amway network marketing business, which he frames primarily as a leadership incubator and foundational on-ramp within the Faleth Capital architecture.
 
 **Personal context**
 

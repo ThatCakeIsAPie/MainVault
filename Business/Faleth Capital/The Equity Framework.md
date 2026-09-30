@@ -1,7 +1,7 @@
 # The Equity Framework
 
 *How ownership works — three classes, earned rather than bought, and priced at book value.*
-*Faleth Capital · Internal Framework · Version 2.0*
+*Faleth Capital · Internal Framework · Version 2.2*
 *Companion to [[The Financial Framework]], [[The Contribution Framework]], and [[The Governance Framework]]. Office-level governance is in the [[Faleth Capital Constitution]].*
 
 ---
@@ -84,19 +84,7 @@ Nothing here is a promise. The office has no track record yet, and until it does
 
 **The businesses underneath contract rather than break.** Labor is paid as a share of gross margin, so when revenue falls the largest cost falls with it automatically, with no layoffs and no payroll crisis ([[The Contribution Framework#2. The Three Layers|The Contribution Framework]]). And roughly half the pool sits liquid at all times, so a withdrawal never forces the sale of an operating business — it comes off the liquid side, and the office slows new spending until the balance restores itself.
 
----
-
-## 6. Regulatory Status and Open Parameters
-
-**This section is a legal flag, not legal advice. Qualified securities counsel must be consulted before an MCA is offered to anyone.**
-
-The SEC evaluates economic substance rather than terminology. Under the Howey test an arrangement is a security if it involves an investment of money, in a common enterprise, with an expectation of profit, derived primarily from the efforts of others — and an MCA meets all four. Describing it as a managed capital relationship doesn't change that, so offering one without registration or a qualifying exemption likely violates federal securities law.
-
-The practical consequence is simple: until the legal structure exists, MCAs are not offered or marketed to anyone. The paths worth evaluating with counsel are the accredited investor exemption under Regulation D — currently $1M in net worth excluding a primary residence, or $200K in annual income, and since 2020 also holders of the Series 7, 65, or 82 — along with Regulation A+ for a streamlined public offering, Regulation Crowdfunding for genuinely public participation under per-person caps, and registering the office as a Registered Investment Advisor, the structure built explicitly for managing money on behalf of clients.
-
-The eventual aim is to open MCAs to anyone willing to accept the fee structure, and regulation has been drifting that way — the 2020 expansion of the accredited definition to recognize demonstrated financial sophistication rather than wealth alone is evidence of it. That aim needs the infrastructure first.
-
-**Still to be set**, by Class A members with counsel, before any MCA is offered: the legal structure itself; the hurdle rate above which the performance fee applies; the size of the cap on individual holdings, and on total MCA capital relative to the pool; minimum investment thresholds; and the reporting cadence and format for holders.
+**MCAs are not offered yet.** An MCA is a security in substance; the planned path is a Regulation A+ Tier 2 offering so anyone — large or small — can participate once counsel has qualified it. Nothing here is an offer to sell or a solicitation to buy. Until that offering is live, MCAs are not marketed, sold, or accepted from anyone.
 
 ---
 
