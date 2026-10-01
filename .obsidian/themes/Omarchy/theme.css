@@ -1,0 +1,175 @@
+/* Omarchy Theme for Obsidian */
+
+.theme-dark, .theme-light {
+  /* Core colors */
+  --background-primary: #142423;
+  --background-primary-alt: #142423;
+  --background-secondary: #142423;
+  --background-secondary-alt: #142423;
+  --text-normal: #E7DCC6;
+
+  /* Selection colors */
+  --text-selection: #2C4A44;
+
+  /* Border color */
+  --background-modifier-border: #96A39B;
+
+  /* Semantic heading colors */
+  --text-title-h1: #F07850;
+  --text-title-h2: #7EBE70;
+  --text-title-h3: #F1D690;
+  --text-title-h4: #C6A04A;
+  --text-title-h5: #D48868;
+  --text-title-h6: #D48868;
+
+  /* Links and accents */
+  --text-link: #C6A04A;
+  --text-accent: #E3C271;
+  --text-accent-hover: #E3C271;
+  --interactive-accent: #E3C271;
+  --interactive-accent-hover: #E3C271;
+
+  /* Muted text */
+  --text-muted: color-mix(in srgb, #E7DCC6 70%, transparent);
+  --text-faint: color-mix(in srgb, #E7DCC6 55%, transparent);
+
+  /* Code */
+  --code-normal: #E7D5B0;
+
+  /* Errors and success */
+  --text-error: #F07850;
+  --text-error-hover: #F07850;
+  --text-success: #7EBE70;
+
+  /* Tags */
+  --tag-color: #E7D5B0;
+  --tag-background: #96A39B;
+
+  /* Graph */
+  --graph-line: #96A39B;
+  --graph-node: #E3C271;
+  --graph-node-focused: #C6A04A;
+  --graph-node-tag: #E7D5B0;
+  --graph-node-attachment: #7EBE70;
+}
+
+/* Headers */
+.cm-header-1, .markdown-rendered h1 { color: var(--text-title-h1); }
+.cm-header-2, .markdown-rendered h2 { color: var(--text-title-h2); }
+.cm-header-3, .markdown-rendered h3 { color: var(--text-title-h3); }
+.cm-header-4, .markdown-rendered h4 { color: var(--text-title-h4); }
+.cm-header-5, .markdown-rendered h5 { color: var(--text-title-h5); }
+.cm-header-6, .markdown-rendered h6 { color: var(--text-title-h6); }
+
+/* Code blocks */
+.markdown-rendered code {
+  color: #E7D5B0;
+}
+
+/* Syntax highlighting */
+.cm-s-obsidian span.cm-keyword { color: #F07850; }
+.cm-s-obsidian span.cm-string { color: #7EBE70; }
+.cm-s-obsidian span.cm-number { color: #F1D690; }
+.cm-s-obsidian span.cm-comment { color: #96A39B; }
+.cm-s-obsidian span.cm-operator { color: #C6A04A; }
+.cm-s-obsidian span.cm-def { color: #C6A04A; }
+
+/* Links */
+.markdown-rendered a {
+  color: var(--text-link);
+}
+
+/* Blockquotes */
+.markdown-rendered blockquote {
+  border-left-color: #E3C271;
+}
+
+/* Active elements */
+.workspace-leaf.mod-active .workspace-leaf-header-title {
+  color: var(--interactive-accent);
+}
+
+.nav-file-title.is-active {
+  color: var(--interactive-accent);
+}
+
+/* Search results */
+.search-result-file-title {
+  color: var(--interactive-accent);
+}
+
+/* Faleth chrome. Layered forest, limestone text, gold accent. */
+.theme-dark {
+  --background-primary: #142423;
+  --background-primary-alt: #1E3531;
+  --background-secondary: #0E1C1A;
+  --background-secondary-alt: #091211;
+  --background-modifier-border: #2C4A44;
+  --background-modifier-border-hover: #C49868;
+  --background-modifier-hover: rgba(227, 194, 113, 0.10);
+  --background-modifier-active-hover: rgba(227, 194, 113, 0.16);
+  --background-modifier-form-field: #091211;
+  --text-normal: #E7DCC6;
+  --text-muted: #C4B49A;
+  --text-faint: #96A39B;
+  --text-on-accent: #142423;
+  --text-selection: #2C4A44;
+  --interactive-accent: #E3C271;
+  --interactive-accent-hover: #F1D690;
+  --icon-color: #C4B49A;
+  --icon-color-hover: #E3C271;
+  --icon-color-focused: #F6E4B0;
+  --icon-color-active: #E3C271;
+  --titlebar-background: #0E1C1A;
+  --titlebar-background-focused: #0E1C1A;
+  --titlebar-text-color: #E7DCC6;
+  --tab-background-active: #142423;
+  --tab-text-color: #C4B49A;
+  --tab-text-color-active: #E3C271;
+  --tab-text-color-focused: #E3C271;
+  --tab-outline-color: #E3C271;
+  --divider-color: #2C4A44;
+  --ribbon-background: #091211;
+  --status-bar-background: #091211;
+  --status-bar-text-color: #C4B49A;
+  --status-bar-border-color: #2C4A44;
+  --nav-item-color-hover: #E7DCC6;
+  --nav-item-color-active: #E3C271;
+  --nav-item-background-hover: rgba(227, 194, 113, 0.08);
+  --nav-item-background-active: #1E3531;
+  --metadata-label-text-color: #C49868;
+  --tag-background: #2C4A44;
+  --tag-color: #E7D5B0;
+  --tag-border-color: #2C4A44;
+  --blockquote-border-color: #E3C271;
+  --hr-color: #2C4A44;
+  --modal-background: #0E1C1A;
+  --prompt-background: #0E1C1A;
+  --tooltip-background: #091211;
+  --code-background: #091211;
+}
+
+.theme-dark .workspace-ribbon,
+.theme-dark .mod-sidedock,
+.theme-dark .workspace-split.mod-left-split,
+.theme-dark .workspace-split.mod-right-split,
+.theme-dark .titlebar,
+.theme-dark .status-bar,
+.theme-dark .workspace-tab-header-container {
+  background-color: #0E1C1A;
+}
+
+.theme-dark .workspace-leaf.mod-active .workspace-leaf-header {
+  background-color: #142423;
+}
+
+.theme-dark .nav-folder-title,
+.theme-dark .nav-file-title {
+  color: #E7DCC6;
+}
+
+.theme-dark .nav-file-title.is-active,
+.theme-dark .nav-folder-title.is-active {
+  color: #E3C271;
+  background-color: #1E3531;
+}
