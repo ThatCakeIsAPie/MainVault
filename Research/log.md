@@ -1,7 +1,15 @@
 # Wiki Log
 
 > Chronological record of all wiki actions. Append-only.
-> Format: `## [YYYY-MM-DD] action | subject`
+> Format: `## [2026-10-02] ingest | DHH quotes Björk reminder for makers (2105963013937205634)
+- Raw: [[raw/transcripts/lyle-x-share-2105963013937205634]]
+- sha256: `40ff2e5e4bceb5203c9aa52579b864906cb2321284e2942ff811619a71b7d4c3`
+- Media: 3 PNGs → `raw/assets/x/2105963013937205634/` (already pushed earlier as ecfc0b2)
+- Distilled: raw-only (single ambient share; no existing DHH/Björk/maker-audience page)
+- Quotes: @ben_issen / Björk interview macros
+- Shares log updated
+
+## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
