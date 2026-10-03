@@ -189,4 +189,151 @@ We do not promote self consumption
 SSI earners have stronger businesses compared to activated New IBOs.
 They have a 68% renewal rate for $100 earners, unlock sponsoring in just 17 days vs 32 days average, 3x more likely to sponsor 3+ downline IBOs, 86% more customers for first-time earners compared to non-earners, 5x more earnings avg. first 3 months, nearly 4x higher total PV average first 3 months
 Avellum Health: the new business frontier is in the healthspan space. Holistic wellness, lifespan expansion. Nutrilite is already the number one in the space.
-When people use GLPs through a certified pharmacy, 
+When people use GLPs through a certified pharmacy, it isn't just injecting yourself with something, you have to supplement with your lifestyle
+We get more customer loyalty and consistency through the partnership.
+We are working on an Amway membership, a $20 membership, roughly 10PV and 16BV per membership with a $4 retail profit. The benefit to our customers, is separate from the Avellum/Valdura app, is free shipping on orders over $150, monthly discount of $40 per month on that $150 order, and free products. Other benefits will be early drops, bundles with a discount.
+
+## Hunter and Vanessa Lindsay
+They are some of the best at preparing people for business ownership
+If you want to grow a team, you need to learn how to sponsor
+Do enough work to start to recognize patterns
+Sponsoring isnt necessarily like selling. There are tons of people who say the right things but dont want to do the necessary work to get results.
+Learning to sponsor is asking the right questions to discover more about them and their capacity.
+A lot of the time, it feels like you are spinning your wheels
+*Joe said right away to not get obsessed with results, but with learning*
+Nothing beats the QI philosophy
+You need to recognize patterns. Pattern recognition.
+When I hear certain words, I want to uncover it is real.
+An 18 year old may not have a grand scheme for why they want to make extra money.
+If you could change anything about your current financial situation, what would it be?
+From 1-10, what would be your desire for change right now? Ask it, then shut your mouth.
+Timing does play into things
+One leg didn't have capacity, 6 months later, they did and became platinums
+Some people are just looking to fill their time. They weren't doing anything before, that is why they aren't doing anything now.
+There are a lot of sketchy ways to make money out there. You want to ask them about it to uncover if they have concerns or feel unsafe.
+If someone doesn't have capacity, this process will uncover it. They will say one thing, and then do another.
+Taking pressure off, that fear that there will be an unexpected commitment.
+Some people have tons of things they are doing, ask what times during the week they have room for something additional. Sometimes you can say one thing and then have to back it up.
+The goal isn't to serve ourselves, but to serve other people.
+People do not trust one another. These questions are to elevate trust and lower their guard.
+You can fill your calendar to whatever capacity you feel like you can handle.
+Everybody has a different set of circumstances and goals, but we all have the desire to help people.
+Common patterns of those who are not appreciative is people who say one thing and they do another.
+A pattern of showing up late to appointments. We aren't trying to be hall monitors, but if someone is late, you can ask if everything is ok or if this is going to be a pattern.
+When people are rushing off the phone, that is a pattern they are leaning away.
+Some people will say that it makes sense, but ask them an oddball question, it throws them off.
+"Do you feel like your enthusiasm and desire is increasing each time we meet, or lowering?"
+"Can you give me an example of when you received info you didnt want to hear but made a change and adjusted"
+Questions increase trust (as long as you arent taking an interrogator posture) and uncover truth
+5 recommendations:
+- Don't talk to people who don't want to talk to you
+- Don't share your story to people who aren't listening
+- Don't meet with people who don't want to meet with you
+- Don't give solutions to people who don't have problems
+- Don't go platinum without proper structure
+Ditch the Pitch and From Selling to Selecting and The Driver Seat, all audios
+
+## Dom Raniolo and Drew Kemp
+FSI exists to reward consistency
+600PV 80% VCS for a year is how to max out FSI (120PV personal use)
+Dom Raniolo, first year he was 600PV. Now, he just broke his third platinum leg.
+We aren't promising you a timeframe. We teach the core principles of going platinum properly.
+Maybe it takes someone 10 years to go platinum, i cant predict your path.
+You have got to have a core, go-to play.
+Getting people off to a profitable start. Doesn't matter what business you do, customer sales are a separator. Dawgs want to eat and go.
+Your first 90 days determines your first year. What are you doing in that time?
+Dom's team has systematized these processes
+Their mentality is to get people wins as fast as possible, as often as possible.
+SSI is the most important factor.
+Putting good in so good can come out
+Failure is a good thing as long as you are learning
+Simplicity is our advantage. The more complex you make it, you are causing confusion and doubt because they don't hear complexity coming from the most successful leaders.
+Building this business is not always cool and sexy, but consistent action produces results
+We can show examples as to how people are applying it and getting results.
+When we show income and earnings claims, both of those guys are very profitable.
+The attitude of "im going to get better every single day", you should be intentionally working on.
+
+## Stevens Capital Partners
+### 5 Habits of a Well-Run Business
+Most people start a business like a hobby
+Have a business plan:
+- Define the goal
+- Outline the activities
+- Revisit it regularly
+Track your expenses:
+- Record as you go
+	- Log expenses close to when they happen, not months later from memory.
+	- He has a client that saved $50k
+- Keep the receipts
+Keep a budget
+- Plan before you spend
+- Compare plan to actual
+- Adjust with intention
+Find the fat- print out all your statements from the last 6 months, and highlight everything that isn't going to matter 5 years from now. Not necessarily eliminate those, but track them.
+You have money, you just have to know where it is
+Make sure you track and invest rather than just wasting your seed
+Maintain a profit motive:
+- Operate to earn income
+- Put in real, consistent effort
+- Make changes when needed
+Separate business from personal:
+- Open a dedicated account
+- Avoid commingling funds
+- Keep documentation separate
+IRS 9 factors that support a profit motive
+1. Operate in a businesslike manner
+2. Put in meaningful time and effort
+3. Seek meaningful income
+4. Explain the losses
+5. Change course when needed
+6. Develop or obtain expertise
+7. Show prior success
+8. Generate profit in years
+9. ???
+Structure and documentation
+- Entity Concepts
+- Substantiation
+- Record keeping habits
+Three tiers of tax planning
+- Tier 1 - Compliance
+- Tier 2 - Opportunity
+- Tier 3 - Strategy
+Financial and Long-Term Planning
+- Tier 1 Emerging - <$1M Liquid Net Worth
+- Tier 2 Mass Affluent - $1-5M
+- Tier 3 Private Client Services - $5-30M
+- Tier 4 Multi-Family Office - $30M+
+As a commission-based person, you just have to do what is suitable, not in the best interest like a fiduciary
+From Financial Security to Opportunity
+Almost all entrepreneurs focus entirely on their enterprise plan.
+However, it is wisdom to have a traditional plan as well.
+The Cost of Waiting-
+Start today, after 40 years, they will have $4.1 million.
+If you wait 10 years, you will have $1.53 million after 30 years
+A difference of $2.57 million
+If your company is giving you a match on your 401K, take the free money.
+Roth IRA are where your funds grow tax-free
+Before you increase your standard of living, increase your giving. Giving to your church, your savings and investments.
+If you invested $25k, at 5% returns over 25 years, you have over $1M
+Building and leaving a legacy
+Survival -> Stability -> Success -> Legacy
+Get an estate plan
+Diligent hands bring wealth - Proverbs
+
+## XS
+Over 1 of 5 cases of Rocket Blast sold went to the LTD organization
+XS Elite is actually the highest selling to date, over $1M over cran-grape
+XS creatine, LTD is over 25% of the sales, exceeded the forecast in June and July by 140%
+Creatine alone is growing globally at an 18% rate. 30% north americal annual growth rate.
+Creatine fuels performance by helping generate explosive ATP which translates into increased strength during a workout.
+Creatine is found in foods, but you need 2 pounds of meat per day to get 5mg of creatine
+When you take 3 grams of calcium HMB helps limit muscle protein breakdown to help preserve and repair your muscles
+Creatine and calcium HMB is 1 + 1 = 3
+Electrolytes helps provide more water to your cells. You need to increase your water intake with electrolytes.
+XS Creatine just got NSF certified
+Creatine is so versatile and can be mixed in with anything. It doesn't matter when or what, you just need to take it everyday. It builds up stores in your system, and if you dont take it, those stores get depleted.
+There is marginal benefit after a workout, just take it consistently.
+Loading phase is not needed, especially with our other ingredients.
+4-6 weeks of daily use will get you through the same results as the loading phase
+Muscle multiplier delivers complimentary benefits. Creatine provides energy for the workout, muscle multipler provides the building blocks for lean muscle mass.
+New muscle multiplier will be sweetened with stevia and launch december 9th. Everything stays the same but that and is moving back to tubs.
