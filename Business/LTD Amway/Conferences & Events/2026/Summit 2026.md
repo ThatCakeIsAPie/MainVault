@@ -163,4 +163,30 @@ He had plenty of tests early on, he still gets them today, and he wears them lik
 Are you willing to be someone who does the hard work?
 
 # Saturday Morning Session
-## 
+### New IBO Experience
+## Mayank and Sajal Gala
+Take pride in the fact that you started a business of your own
+Your income is correlated directly to the skillset you are building
+He remembers asking his sponsor how to do this without people. His sponsor, his dad said "you are an idiot" lol. It is ok, they are double diamonds now.
+Are you patient enough to build those skills?
+Doing the work and not seeing the result is what it looks like in business sometimes.
+The business will not happen for you, you need to take initiative and apply your skillset. That is where people without a business owner mindset fail.
+The only way to get through this is to take action.
+The beauty of this business is you are in business for yourself, but not by yourself.
+Of all the people that want to start a business, they fantasize about it, but the intimidation factor is capital, lack of experience, fear of failure. You are a minority. You not only wanted to start a business, but you started one. The problem is that it cost you nothing to "get in".
+If you look at "free" as "cheap" or "casual", that is a problem.
+If you look at it like this business is giving you an opportunity, you can learn these skillsets, learn what it takes and from people further ahead, you wont see it as cheap or casual.
+Business ownership is a mindset
+If you own something, you protect it
+You cant be afraid of failure. Many young people think failure is a bad thing.
+***Personal note: A gripe I have with the public school system has to be that if you do not receive a "passing" grade, you are held back, which looks like social rejection because your class moves on without you. It feels like getting left behind, and that alone makes kids fear failure. If there is any larger damage, I do not know, I think that is the most damning thing the school system has done.***
+New customers are automatically set at 20% margin, but you can tweak the margin per customer.
+70% of sales must come from customers, 30% is allowed for personal use, unreported customer sales and inventory
+You get good at selling by have personal experience
+She said she doesn't really market the product as much as she shares her experience with the product
+What happens if you have a month where your personal circle is below that ratio, there is breakage. You get paid on compliant BV, not on non-compliant BV.
+We do not promote self consumption
+SSI earners have stronger businesses compared to activated New IBOs.
+They have a 68% renewal rate for $100 earners, unlock sponsoring in just 17 days vs 32 days average, 3x more likely to sponsor 3+ downline IBOs, 86% more customers for first-time earners compared to non-earners, 5x more earnings avg. first 3 months, nearly 4x higher total PV average first 3 months
+Avellum Health: the new business frontier is in the healthspan space. Holistic wellness, lifespan expansion. Nutrilite is already the number one in the space.
+When people use GLPs through a certified pharmacy, 
