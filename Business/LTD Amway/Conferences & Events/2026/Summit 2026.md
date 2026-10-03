@@ -1,4 +1,5 @@
-# Kevin and Amelia Schweres
+# Friday Night Session
+## Kevin and Amelia Schweres
 "Get Noticed" audio
 Two scales. The first:
 1. Willingness to do and willingness to learn
@@ -17,7 +18,7 @@ Listening to people who are where you want to be in life, can help, and want to 
 Find people who can operate at your level of demanding excellence
 *Thoughts are things. Your thoughts come from your association, what you fill your mind with, input is everything.*
 
-# Derek and Jill Kosek
+## Derek and Jill Kosek
 People get so excited starting things, but then it gets a bit difficult, but if you keep up with it then you will start to get results. That goes for anything in life.
 It was in that time when no one is looking where you can tell if you did or didn't do what you said you were going to do. It is that season, that quiet time, where there is no one encouraging you and applauding you for your progress that you can start to come up into the radar.
 Those seasons where no one is clapping for you, that is where you find out what you are made of.
@@ -44,7 +45,7 @@ When your success shows up, but you have the character to maintain it.
 He remembers walking home at night, it was all dark and quiet, and he would walk in thinking "im the only one walking home right now. kind of quiet. No one sees what im doing." It gave him the perspective to think if he was going to keep going, or to stop.
 If you pay the price, it is worth it.
 
-# Manny and Candice Winston
+## Manny and Candice Winston
 You don't rise to the occasion, you fall to the level of your standards.
 A work ethic cannot be taught. It just looks like doing the work whether it feels like it is working or not.
 Your dreams never work unless you do
@@ -55,7 +56,7 @@ If you want to succeed as bad as you want to breath, you will be unstoppable.
 It is believing before you see it.
 If you want to win, you want greatness, you just need to get that dog in you.
 
-# Pam Winters and Michelle Leininger
+## Pam Winters and Michelle Leininger
 When she started the business, her self image and confidence was low.
 Everybody starts where they start
 It has been 46 years, it was a process, it didn't happen overnight
@@ -90,7 +91,7 @@ What kind of team do you want to have? It is all up to you.
 If you want to, you can be on stage telling your story helping someone else out.
 *Way back when, Larry and Pam designed their future, what they wanted in their life, what they wanted to stand for.*
 
-# Joe and Marybeth Markiewicz
+## Joe and Marybeth Markiewicz
 They were working long enough at their corporate jobs to know that when an acquaintance asked the question, Joe was a certain "yes"
 Is not the type of person you are looking for may not even know how much they need you, but are wiling to sit down with you?
 They didnt realize how much their life would change, but it did.
@@ -124,4 +125,42 @@ His mom had a bad experience with someone at her job, his dad had a similar expe
 He said "you may be right, but will you give me a chance to fail, to figure it out for myself?"
 We live in a world right now where there is so much protection for people, where if something is hard, everyone has to be protected.
 Just about everything in this business is optional, but don't take away the chance to do something risky because it might make something great.
-He has some success, but his A list is g
+He has some success, but his A list is gone. He had to start networking and expanding his influence.
+There are a lot of people who don't want to be spoonfed.
+How bad do you want it? Are you willing to push through?
+He called someone, asked the question, got chewed out, but the guy is a coworker. He was afraid that he would talk to his boss and try and escalate him to HR. He was afraid maybe that he knew something he didn't. 4 days later, he saw him coming, he walked past him and never looked up, he contemplated everything, he took a peak, and his head was straight down, never looked up.
+The coworker could not look him in the eye, a guy who laid into him 2 weeks ago. He now knew something about him that he didn't know.
+What is the lesson? He knew at that point that the average person didn't have or want, and didn't have the guts to do anything about their goals and dreams in life, but he did.
+This is a test. Are you going to pass the test?
+There are a lot of people who are going to listen to the wrong people. Maybe it wont be the form he had, it might be the former who got out because he got "inside this information about what you do".
+There are some things that are non-negotiable.
+We are supposed to tell you everything is optional to take away the pain, but we are looking for people who can take some pain.
+If you want to be successful, you are going to have to divorce some of your bad associations. Success takes guts.
+Yes, it is hard, it is atypical. I want to talk to the guy who says "i dont care if it is hard, if i can do something with my life, i will do it"
+Who is the next generation that is going to fill up a colliseum?
+Who wants to be an influence? To make a difference?
+Do you know there is a wall of granite outside of Amway Headquarters that talks about the founding principles: freedom, family, hope, and reward
+It is not typical, but if you work your ass off, you can have it.
+He is not afraid because he has paid his dues.
+I don't ask permission from average people about whether or not it is ok to succeed, and neither should you.
+"Count it all joy when you face trials, because it produces toughness, perseverance, relentlessness, resolve."
+*This is a mind war.*
+It is you, against you.
+It is you taking on your fears. Was he scared? Yes. But don't take away his opportunity to get tough and to fail.
+You fight for your marriage and family and values.
+The founding fathers started with a dream that was so different than every other nation that ever existed, and it was to create the greatest experiment ever created by mankind.
+They put together the most controversial constitution ever, yet the greatest.
+It was so unheard of.
+This experiment on free enterprise, capitalism, self-determination.
+He has never heard anyone talk about the Canadian or Pakistani or Japanese dream, but he has heard people talk about the American dream.
+There are things worth protecting and preserving.
+Freedom doesn't pass down to the bloodstream, every generation is taxed with passing these principles down, and we are only one generation away from losing it all.
+The monsters we dont kill in our generation are going to take on our children.
+What do you care deeply about?
+When he was overcoming his fears, guess who came to his side? No one. His upline didn't come to save him, it was his choice to step into the unknown that was uncomfortable, that he saw people making it.
+You don't have to be a diamond or double diamond to be someone who can help others overcome their fears and doubts.
+He had plenty of tests early on, he still gets them today, and he wears them like a badge of honor.
+Are you willing to be someone who does the hard work?
+
+# Saturday Morning Session
+## 
