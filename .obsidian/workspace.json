@@ -71,7 +71,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -80,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "470b47d8d5d3f7a8",
@@ -203,7 +207,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e9b0fe4d30c16436",
+  "active": "faf35fcc8a3f7bda",
   "lastOpenFiles": [
     "Personal/Church/2026/2026-09-27.md",
     "Business/LTD Amway/Conferences & Events/2026/Summit 2026.md",
