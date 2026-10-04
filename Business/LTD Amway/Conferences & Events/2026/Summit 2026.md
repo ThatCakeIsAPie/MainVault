@@ -472,3 +472,12 @@ You can be the bible scholar, he is going to have a relationship with Christ.
 All have sinned and fallen short of the Glory of God.
 Do you really want to spin the wheel and roll the dice?
 You cant do enough work to be saved or redeemed.
+There are 8 billion people and there are no duplicates yet? He knew us before we entered our mother's womb.
+He numbered every hair on your head, even the bald people.
+You will do all kinds of stupid things like driving drunk because you don't understand your value.
+Want to know another word for clueless? Lost.
+When you receive Jesus, the old you actually dies.
+He never knew what the meaning of the stories were. Johah spent 3 days and nights in the belly of the big fish, like how Jesus spent 3 days and nights in the pit of hell. He paid the price for me, so I wouldn't have to be in there.
+The same power God used to raise Jesus from the dead, is the same power He used to raise me from the dead.
+The gospel is good news
+He doesn't come to restrict you, but to give you abundant life
