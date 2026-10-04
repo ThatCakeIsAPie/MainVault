@@ -509,4 +509,76 @@ You are surrounded by a bunch of difference makers.
 Choose this day how you should live, so you and your family can succeed.
 He heard a story of how someone was in a foreign country in jail, and their upline came to get them out. His biker friends would never do that.
 
-## Doug and Amy Weir
+## Doug and Amie Weir
+It is not the plan, the planner, or anything else really. It is just intentionality of your time.
+Controlling your calendar isnt about filling every minute, but that everything that matters has a place on the calendar.
+Life goes in 5 year cycles.
+Every month is to have goals.
+Not just business goals, but the rest of your life. What does my family need? What are my community goals? What about rest?
+Your business is part of your life, but it isn't your entire life.
+Anything that comes to mind, just dump it. Once it is out of your head, you can figure out how to start making it happen.
+You can't organize it if it is bouncing around inside your head.
+She likes to set aside 20-30 minutes once a week for this, where she looks at the upcoming week and decides what is already committed, and schedule them.
+Exercise, meal prep, quiet time, sleep, rest, family dinner, bible time.
+If it matters, it gets a place on the calendar.
+John C. Maxwell talks about the 5 daily/weekly habits that must get into the calendar.
+If you don't plan it out, it is easy to watch it just go away.
+After you have read lots of self help books, it is easy to think "how am I going to fit all these things in my life?"
+She isn't thinking about it all week, she is booking it on the calendar and following her calendar.
+"A woman's work is never done" is a true statement lol
+Schedule 20 minutes without your phone
+Rest is not wasted time, it is being able to show up for everything else you are doing
+Sometimes, the biggest wastes of time is checking email every 5 minutes, overplanning by saying yes to everything, etc. Do a time audit.
+For 3-7 days, just write down where your time goes. If it isn't where you want to be spending your time, then now you know.
+Your calendar shouldn't be living in isolation. Work with your spouse to figure out what is on your calendar, and protect that time.
+You are trying to build a business that fits the lifestyle of your family.
+Do the brain dump. Set your monthly goals. Timeblock the important things in your life. Do time audits to make sure you are on track.
+He has a habit of doing nothing, he likes the concept of nothing.
+When it comes to the traits of being successful, it may not necessarily work like that.
+"Wanna do X on Friday?" "I don't know if I will want to on that day."
+He will always do what he is in the habit of doing.
+You will default to whatever is a habit for you. He doesn't have to plan them, he just does what he already does.
+If you can get the money making activities to become a habit, you will do it automatically.
+He brushes his teeth, takes his vitamins, makes coffee, reads his bible. He always does that.
+He may not always want to do it, but it is a habit, so he does it.
+If you can establish the money making activities just like brushing your teeth, you will default to your established habits.
+What kind of goals might you have?
+If I have to think about my health goals, I will always choose poorly. He is bad in the moment at convincing himself of the right thing.
+He doesnt have to make a decision, he chose to do it a long time ago, and he just did it. Now, he is in the habit of doing it no matter what.
+For him, who likes to do absolutely nothing, if he is going to do it, it has to be a habit.
+Good choices become a habit. They should be your only habits.
+What habits do you need to stop?
+"How do you stay motivated?" He never stays motivated. He just stays doing his habits.
+If you like planning, do it. If you don't, make sure you made a routine for yourself so you don't have to think about it.
+
+## Drew and Stephanie Tidwell
+When you are afraid, it is good to seek alternative perspective.
+Ever see a skyscraper from ground level? They feel huge and impossibly large. But when you view them from a plane level, it looks tiny. When you gain perspective from a mentor or life experience, it gives you a new view of the problem.
+A mentor can view what you are going through and go "bah, that is nothing for you, you've got this!"
+Our problems can look like skyscrapers to us, but legos to God
+Having the right perspective doesn't mean you know how everything is going to turn out. You can do everything you know to do and there is no guarantee of an outcome.
+Seeing there are no guarantees but deciding to pursue anyways.
+You are guaranteed nothing in whatever you choose to pursue that is of your own agency. Why go anyway? Because you aren't a wimp. If the dream is big enough, the uncertainty doesn't deter you.
+What is worth pursuing even when no one can promise you the outcome.
+Millions chase the long shot, and we encourage them until we fail.
+Humans are terrible at assessing risk.
+Only one american died to a shark attack, no one died one year in a plane crash, tens of thousands died in car accidents, why fear sharks and flying, but not cars? We are more afraid of the feeling than the actual odds.
+There was a test about mice from a cherry blossom where they took one, it had kids, but they gave the parent a shock treatment to get the smell off. When the kids came out, they had the same anxiety when they encountered the cherry blossoms for the first time.
+Fear can become generational. On his home wall, they have a phrase written on it "Tidwells don't quit."
+How to pursue the long shot? Rewire your brain.
+Tear up your script and write a new one.
+"I'm scared to talk to people." You are just unskilled.
+No one watched his 6 year old daughter dribble a ball off of her foot and say "guess basketball isn't her thing."
+What drew him in was the standards of the team.
+Not because there is no risk, but because the risk is worth it.
+Wimps waste their lives avoiding risk. Champions pursue greatness despite risk.
+We don't need certainty. We need conviction. We don't need it to be easy. We need it to be worth it.
+When you figure it out, and the opportunity presents itself, take the shot.
+
+## Lucas and Madison Jordan
+He was looking for an arena to win in for the rest of his life, then he saw an arena like this.
+When he entered this arena, he had that Eyor the donky from Winnie the Pooh mentality. Everything was out of his comfort zone, he was expecting disappointment and things to not work out. It is your body language, your mentality.
+"If I dont talk to them for 5 years, i can go back to not talking to them for 5 years." That was simple for him. The hard part was getting out of his comfort zone and building a skill set of networking.
+He never felt the need to speak on anything.
+Fear always leads to hesitation. None of it is real. He was assuming the worst as he was building the business.
+Amway is exac
