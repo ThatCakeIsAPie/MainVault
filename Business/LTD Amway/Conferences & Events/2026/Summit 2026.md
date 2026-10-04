@@ -164,7 +164,7 @@ Are you willing to be someone who does the hard work?
 
 # Saturday Morning Session
 ### New IBO Experience
-## Mayank and Sajal Gala
+## Mayank and Sejal Gala
 Take pride in the fact that you started a business of your own
 Your income is correlated directly to the skillset you are building
 He remembers asking his sponsor how to do this without people. His sponsor, his dad said "you are an idiot" lol. It is ok, they are double diamonds now.
@@ -337,3 +337,68 @@ Loading phase is not needed, especially with our other ingredients.
 4-6 weeks of daily use will get you through the same results as the loading phase
 Muscle multiplier delivers complimentary benefits. Creatine provides energy for the workout, muscle multipler provides the building blocks for lean muscle mass.
 New muscle multiplier will be sweetened with stevia and launch december 9th. Everything stays the same but that and is moving back to tubs.
+
+# Saturday Night Session
+## Matt and Alana Grotewold
+When she first entered the business, she felt like a lump of coal, no light within. It was over time, more and more of the darkness went away and light could shine.
+We all have a story we tell ourselves about who we think we are, what we are in. We all have a self image, a story we tell ourselves.
+The business is simple for them because that is the story they tell themselves.
+If you are going to have success in the business, you need to engage in trench warfare, the neural pathways of who you think you are.
+You have to get into another trench if you are going to win the battle.
+How you are behaving is not all there is to you, it is just what you are doing. It is all tied to the narrative you are telling yourself.
+Are you so entrenched in politics right now you dont even know the products you sell?
+He doesnt ask his parents for permission because he is an adult and makes his own choices
+The same things that intimidate you and intimidated him, he just didn't let those control him.
+A narrative is "you are at your lowest point", what does it produce?
+Every thought puts you in a certain mental state, positive or negative.
+Those who have a full calendar have a positive attitude that those who don't, don't
+"I look at myself like I am a messenger of hope" he remembered that when he was making phone calls. The first meeting he booked was with Mark and Ann Elsenpeter
+The work of the business is a privilege, not an obligation
+All of the fear is wrapped up in self consumption
+God inhabits the prayers of His people
+Who is activated by the fears of his people?
+How is the narrative in your mind serving you?
+Until you decide to win, there is no reason for thinking
+When you decide to win, you can think creatively
+"Anything can be achieved with sustained thought. Nothing can be achieved without it." Larry Winters
+They had so many conversations of imagery
+Draw the group you want to have and look at it. Write down the profit you want and look at it.
+For 2 years, they worked with his dad to imagine him being healthy from stage 4 bone cancer, and it worked.
+"Who shall I send? I am here, Lord, send me." Isaiah 4:6?
+
+## Tobi and Mia Ares
+You dont have to wait for a trend, for the market to be ready, you can make the market.
+In these times, we have an opportunity to make changes.
+It is a time to be bullish in your confidence in the time we are in
+These types of things are not going away, they are going to be more widespread
+Micro and macro meetings are getting bigger. Gun shows, run clubs, everything. It is about community.
+Our currency is our community and our culture.
+A comedian sold 2 million tickets to his show. Formula One sold 1.7 million tickets. What do you think is going to happen in our business?
+You are not just going to be a spectator, but a participant
+You cannot do that in those other arenas. Who wants to play?
+Where we are and what we are doing is what we do
+The only way to produce great work is to love what you do
+What helps you realize what you are capable of other than growing your width?
+Challenges make you stronger if you decide to look at it that way
+Serving is love in action
+When you love and serve, you find all kinds of ways to show people you care
+Focus on loving and serving and people will be drawn to you
+This business is powerful because of who you become
+The voices you let around you become the ones you let inside of you
+If you dont have growing relationships, you are out of business
+When you think about what is in your cup, and you get hit with adversity, what spills out?
+It is more important today to keep your peace by protecting your mind
+Vision will lead you to the answers you have questions to
+"Does it make the boat go faster?" The most important question to run every question through.
+Does it make the business better?
+"With all this horse poop, there has to be a pony in here somewhere"
+You are going to have to toss a lot of poop, but when you find those ponies, they will turn into stallions.
+"We should not listen to fear, but we should have power to act, love for the right spirit in action, and control for self-discipline" Paul 1900 years ago
+Are you running? Are you running to win? If you are going to run, give yourself the chance to win.
+
+## Mayank and Sejal Gala
+How did they climb the mountain? One step at a time.
+All you focus on is putting one foot in front of another, no matter the weather or situation.
+Do not worry about how far the summit is.
+Consistency is what they did to climb a mountain, and it is what they did to build their business.
+Building a business has more to do with taking the next step, working on the current problem, over a long period of time.
