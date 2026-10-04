@@ -481,3 +481,32 @@ He never knew what the meaning of the stories were. Johah spent 3 days and night
 The same power God used to raise Jesus from the dead, is the same power He used to raise me from the dead.
 The gospel is good news
 He doesn't come to restrict you, but to give you abundant life
+
+# Sunday Session
+## Jake and Jackie Baker
+It is what you do after surviving.
+When you have a proper perspective, you can walk this planet in a lot more victory. Getting a flat tire or not being able to pay rent is not a struggle. Losing a child is a struggle.
+All you can do is use that pain and do something great with it.
+Healing is not an internal process. It is healed from the outside in, by serving other people and helping other people. Not by talking about your own pain and weighing them down with your baggage. But being able to not be in your own pain and help serve others.
+She learned she could actually move, take new ground, without actually feeling like it.
+She could do things and not like them. When life hits, you have a choice.
+When you learn it, you own it. Emotion follows motion. The more steps she took towards a servant's heart, she could feel peace.
+God is not moved by pity. Human nature is not moved by pity. You are not moved when you are pitiful, you are thumb sucking. That is not moving forward and taking ground. You can choose to move or be pitiful.
+Dealing with what she did, she started to become a warrior like her husband.
+The only way to get that dawg out is through a fight. A fight comes from a challenge, a huge struggle.
+When you leave here, and life hasn't hit you yet, you might hit issues. Those are inconveniences. Those are temporary challenges, it is not a struggle. Don't make it a mountain when it is a mole hill.
+"The Tongue: A Creative Force" Book
+When you start to use the tongue against the enemy and your circumstances, you will learn the power you have.
+"Difference Maker"
+The greatest thing he has learned is his story. It is about learning to be an overcomer.
+You are in a room full of overcomers.
+Overcoming isnt something you achieve one time, it is a continual deal. It is so easy for us to think success is an event. It is a habit, not a result. It is something you do, not something you did.
+Growth Mindset
+It is your relationship with overcoming.
+He got to choose who he would associate with.
+The thing that is of the most value, more than anything else, is the human being. That being, the spirit inside of you that can learn to overcome.
+You are surrounded by a bunch of difference makers.
+Choose this day how you should live, so you and your family can succeed.
+He heard a story of how someone was in a foreign country in jail, and their upline came to get them out. His biker friends would never do that.
+
+## Doug and Amy Weir
