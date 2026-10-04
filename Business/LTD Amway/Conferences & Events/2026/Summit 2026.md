@@ -443,3 +443,32 @@ He would go through another 80 legs that quit to find another Mike Bundy
 Get started, dont quit, get wide, stay steady.
 Dont count the days, if you keep sowing, you will eventually reap.
 Once you get over fear, it is no big deal.
+
+# Sunday Service
+"The time of seed time and harvest time will never cease"
+When you have abundance, you have enough to meet the needs of your family and those around the world who need it. When you are broke, you can't do that.
+She loves mercy because of her past
+She was afraid if people knew her past, people wouldn't get in business with her.
+She was molested and raped by 12. Before, she tried to save the world, after, she wondered if she was loved, why did God allow it to happen?
+She was pregnant out of marriage when she met Larry.
+He had his kidneys fail, and he didn't have 2-3 months, he had 2-3 weeks. He had to start emergency treatment, and that is why he missed my first Summit.
+He believed God, Jesus and the Holy Spirit were real, but he also believed the NFL was real. You can believe something is real and not have a relationship.
+The older he got, the less he had anything put into him that mattered. Started drinking, hanging around the wrong people.
+He didn't know that sin and God cannot co-exist. He didn't know that all have sinned and fallen short of the Glory of God. That includes him and you.
+He didn't know every human born has eternal life. He thought if you were born and didn't receive Christ, you went to hell. He thought the only eternal life you have is in heaven. But no, he didn't realize you always have eternal life, it just determines if you go to heaven or hell.
+He didn't realize the importance of receiving the gift.
+He didnt know that for 25 years, he was spinning a roulette wheel, and one of those numbers was death. Every time he rode a dirt bike, drank and drove, he spun the wheel. If it had ended up on that black triangle, and he had sin in him, he would go to hell and spend eternity there.
+He didn't know Christianity isn't a religion. God doesn't cause trauma and pain, that wasn't Him. Stop blaming Him.
+All good things come from God. All bad things come from satan.
+Satan is the prince of this earth. Satan was in charge of music and instruments, 1/3 of the angels in Heaven.
+God sent satan and the angels that followed him to this ball of mud.
+If you are not in the word of God, then you have no protection from the enemy.
+He didn't know how simple it was to receive Christ.
+He didn't know you can't be too mad, mean, angry, whatever. You can't be too much of anything. He forgets you ever created the sin. He forgives you and forgets you ever sinned.
+No matter how you good you are, you still can't go to heaven without first going through the Son.
+No matter how good you think you are, His word is infallible, correct. If He said it, it is fact, no matter if you believe it or accept it.
+His word says ***ALL***
+You can be the bible scholar, he is going to have a relationship with Christ.
+All have sinned and fallen short of the Glory of God.
+Do you really want to spin the wheel and roll the dice?
+You cant do enough work to be saved or redeemed.
