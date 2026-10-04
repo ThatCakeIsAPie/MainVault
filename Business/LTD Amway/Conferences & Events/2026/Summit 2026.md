@@ -402,3 +402,26 @@ All you focus on is putting one foot in front of another, no matter the weather 
 Do not worry about how far the summit is.
 Consistency is what they did to climb a mountain, and it is what they did to build their business.
 Building a business has more to do with taking the next step, working on the current problem, over a long period of time.
+On the way up, there are times you are taking two steps backwards.
+There are many times you make one step forward and two steps backward.
+The person who is going to the top wants it so bad, you will get there because you want it, not because of the size of the challenge.
+***Personal note: All the size of the problem affects is the time required to solving it***
+The facts don't count if you have a big dream. Now, we are told to "look at the facts and don't get your hopes up"
+Your success in this business is based on the number of people you are willing to help
+They lost their 2 year old when they were emeralds.
+Sharing your accomplishments is inspiring to others. Nowadays, they say it creates unrealistic expectations.
+I dont want to raise my children and tell them they cant accomplish great things
+He was told to replace your wish bone with a back bone. Nowadays, boldness is mistaken as arrogance. You are allowed to have a backbone.
+He was told failing is part of success. Nowadays, you are told it is ok to quit when the going gets tough.
+
+## Larry Winters
+They had to learn how to handle discouragement.
+Do you want this bad enough, passionate enough, to overcome whatever it takes?
+Larry got in as a 24 year old knucklehead. They got in with 19 year old mentality. He was loud, obnoxious.
+It is worth overcoming your fears and doubts. It is not only what you can achieve in material benefits, you will never realize what you can accomplish unless you overcome.
+They are so much further along in the last 40 years, they learned so much about themselves dealing with tens of thousands of people. They decided to win.
+The thing you can achieve, finding out your purpose on this earth, for the short period of time you are on this earth.
+There are so few people who know what they were created for and why they were put on this earth, the number is so small.
+It is valuable knowing why you were created rather than just trading hours for dollars.
+If money is the number one goal, you may want to seek something else.
+If you want to make a decent income and make an impact, he doesn't know of anything better than this.
