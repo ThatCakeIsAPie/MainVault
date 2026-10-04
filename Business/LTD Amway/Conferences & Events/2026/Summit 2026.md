@@ -425,3 +425,21 @@ There are so few people who know what they were created for and why they were pu
 It is valuable knowing why you were created rather than just trading hours for dollars.
 If money is the number one goal, you may want to seek something else.
 If you want to make a decent income and make an impact, he doesn't know of anything better than this.
+We are all here of our own accord, your own decision.
+You are going to have to become a warrior.
+Joe Markiewicz was originally interested, but he was skeptical. He had a fast start because he was coachable, but he asked a bunch of questions in his first few months to a year, because he was curious and had an open mind.
+Everyone up there learned to fight.
+The fight was never exterior, but in your own mind.
+People are either interested or they are not. They might be interested, but not in the way we do it.
+There is no middle row. You are interested or not.
+The fight is not with people, it is in your mind, your strength and mentality. That is why this business is not made for everybody. Not everyone wants to be in control of their emotions. They want convenience more than growth. They want comfort and convenience more than personal growth, personal change.
+We were all weak coming in compared to where we are today. Everyone learns to fight.
+None of us are perfect. If you think you will hold the mic and you are going to be perfect, that is not true. We have all messed up, we are all not perfect.
+This business is not filled with perfect people, but people with honor and integrity.
+If you quit, then come back to your job and look at the integrity and character of those there.
+You gotta be wiling to help and serve people who might be wiser than you. Submission is not a bad word, it does not mean weakness, it means strength. If you are not in submission to someone who is further along in life than you are, you are in rebellion.
+The first six years he had 50 people, 25 IBO-ships.
+He would go through another 80 legs that quit to find another Mike Bundy
+Get started, dont quit, get wide, stay steady.
+Dont count the days, if you keep sowing, you will eventually reap.
+Once you get over fear, it is no big deal.
