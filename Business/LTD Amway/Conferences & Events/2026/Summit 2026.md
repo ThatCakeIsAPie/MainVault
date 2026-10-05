@@ -581,4 +581,32 @@ When he entered this arena, he had that Eyor the donky from Winnie the Pooh ment
 "If I dont talk to them for 5 years, i can go back to not talking to them for 5 years." That was simple for him. The hard part was getting out of his comfort zone and building a skill set of networking.
 He never felt the need to speak on anything.
 Fear always leads to hesitation. None of it is real. He was assuming the worst as he was building the business.
-Amway is exac
+Amway is exactly what you believe it is.
+If you believe only a certain personality can build this, you will be correct. If you believe the products are too expensive, you are right. Whatever you believe it is, that is what it is.
+You need to change your narrative, how you view the opportunity, your words and thoughts, the story you tell yourself.
+He remembers hearing this affirmation and thinking "that's for the weak people". He had a fixed mindset, he was programmed for something other than success. Successful people talk belief over themselves.
+How you view what you do determines how you do what you do.
+*Follow through equals confidence.*
+He wasn't quite motivated by the rewards, but by winning himself over every single day. That was the only thing that kept him going.
+For the millennial generation, 39% of them have anxiety and an existential crisis for their future. For Gen Z, 55% have anxiety or feel negative about their future for the next 5 years.
+People feel how you view what you do far before they understand what you do.
+
+## Adam and Kristen Ladenburger
+Dont let a frog try to explain the ocean to you when they havent seen it. Also, dont try to explain the ocean to a frog.
+You can love them, but not take their advice.
+You cannot win on willpower alone. Willpower is flesh. Flesh will let you down, it takes the path of least resistance.
+Accountability- Activity, not goals.
+Goals are ok to write down.
+When you are speaking goals, speak in present tense, like you project them. Jesus, when He was tempted by the enemy, He spoke.
+When you change your emotion while you are speaking, it changes on the subconscious level.
+You speak it, not by mumbling it, but by putting some passion into it.
+They created activity based goals. If you say "i will get this at some point", it can let you off the hook for a bit.
+Change or remain employed.
+A relationship with an upline. Get naked with an upline (not literally).
+Systems- When desire is in opposition to expectation, expectation wins.
+When they got off work, they didn't go home, because home represented comfort.
+They knew their numbers and tracked their numbers.
+They controlled the input game.
+The one thing God gave us to control, the less we spend time controlling it.
+Shouldn't we use our mind to create, not for wasteful consumption
+There is no such thing as winning pretty, there is only winning ugly.
