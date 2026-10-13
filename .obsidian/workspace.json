@@ -11,14 +11,10 @@
             "id": "faf35fcc8a3f7bda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Church/2026/2026-10-11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-10-11"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -205,10 +201,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e9b0fe4d30c16436",
+  "active": "faf35fcc8a3f7bda",
   "lastOpenFiles": [
-    "Research/raw/x-bookmarks/26-07-13/2075878780611055846.md",
+    "Research/raw/articles/2026-07-31-audio8-tts-preview-readme.md",
     "Personal/Church/2026/2026-10-11.md",
+    "Personal/Church/2025/11_30_25.md",
+    "Research/raw/x-bookmarks/26-07-13/2075878780611055846.md",
     "TEMP.md",
     "Business/LTD Amway/Conferences & Events/2026/Summit 2026.md",
     "Personal/Church/2026/2026-09-27.md",
@@ -236,8 +234,6 @@
     "Business/Faleth Capital/The Cell Framework.md",
     "Business/Faleth Capital/The Marketing and Brand Framework.md",
     "Business/Faleth Capital/The Acquisition Transition Framework.md",
-    "Business/Faleth Capital/The Equity Framework.md",
-    "Business/Faleth Capital/The Contribution Framework.md",
     "Research/External AI Memory/2026-07-09 Faleth Document Review and Sanctioning Architecture.md~HEAD",
     "Research/External AI Memory/2026-07-09 Faleth Document Review and Sanctioning Architecture.md~FETCH_HEAD",
     "Personal/Ideas/Faleth Wardrobe Capsule/Faleth Wardrobe Capsule.xlsx",
