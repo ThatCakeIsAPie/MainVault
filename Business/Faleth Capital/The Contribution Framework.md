@@ -1,7 +1,7 @@
 # The Contribution Framework
 
 *How pay works — a process-based model that replaces wages with value, ownership, and freedom.*
-*Faleth Capital · Internal Framework · Version 2.0*
+*Faleth Capital · Internal Framework · Version 2.1*
 *Companion to [[The Governance Framework]], [[The Cell Framework]], and [[The Financial Framework]]. Ownership and equity rest on the [[Faleth Capital Constitution]] and [[The Equity Framework]].*
 
 ---
@@ -38,7 +38,7 @@ Pay has to do three different jobs at once: keep you steady enough to think past
 
 Layer 2 is calculated per unit of work. Every completed job generates its own small labor pool out of its own gross margin, and each person earns from that job based only on the points they put into it. Your weekly pay is just the sum of those per-job earnings — the specific person paid for the specific value they created on the specific ticket.
 
-The formula is short. A unit's **gross margin** is what the customer paid minus what the materials cost. Multiply that by the **Cost of Fulfillment (COF) rate** — the share of gross margin set aside for labor — and you get the unit's **labor pool**. Your cut of that pool is your points on the job over the total points on the job. That's it, one ticket at a time.
+The formula is short. A unit's **gross margin** is what the customer paid minus what the materials cost. Multiply that by the **Cost of Fulfillment (COF) rate** — the share of gross margin set aside for all the labor on a job, from winning it to delivering it — and you get the unit's **labor pool**. Your cut of that pool is your points on the job over the total points on the job. That's it, one ticket at a time.
 
 Because the pool comes from each unit's own margin, the dollar value of a point floats. A high-margin job makes every point on it worth more; a thin one makes each worth less. Labor cost scales with the value of the work automatically, and the person who grows a ticket — by adding a service, or catching a second problem the customer didn't know they had — earns directly from the larger pool they created.
 
@@ -55,6 +55,8 @@ Nobody here has a job description. We list every process the business needs — 
 Processes come in two kinds. **Direct processes** generate revenue — they take a customer's problem and turn it into completed, paid work: check-in, diagnosis, the repair itself, quality check, check-out. **Indirect processes** protect revenue — the things that keep direct work possible: sourcing parts, managing inventory, handling cash, and the coordination work of the Lead. Both are pointed, because both create value; the difference is only whether the value shows up on the ticket or behind it. Ordinary upkeep — a clean bench, a swept floor, answering the phone like a professional — is more of a standards question than a compensated activity, unless the team decides otherwise.
 
 The Lead is the one real role the system has, and even then it's a set of indirect points rather than a rank. The Lead earns a per-device rate on everything that moves through the shop, whoever does the hands-on work, and it accrues whether or not they're on the floor that day — the same freedom from the clock everyone else has. Those points belong to the elected seat, so they move only by election. Where a team elects more than one Lead, they divide the functions among themselves however fits the work. A Lead can also pick up direct processes and earn direct points like anyone else. How Leads are elected and held accountable is in [[The Governance Framework]].
+
+Winning the work is pointed the same way. There's no sales department and no fulfillment department, just one workflow and one pool, so whoever closes a job has every reason to stay with it until it's delivered. Everything it took to win a job — finding the lead, nurturing it, the proposal, the close — is pointed on that job's ticket, like any direct process. What bringing in a customer is worth is a point value like any other, set at calibration.
 
 Points are earned on completion, not by the hour — finish a restoration in 45 minutes or two hours and it pays the same — and they're logged in the open, so anyone can see the running totals, the margin so far, and what a point is currently worth. The values themselves are set by the team and revisited every quarter, which is the calibration process in [[The Governance Framework#3. Calibration|the Governance Framework]].
 
