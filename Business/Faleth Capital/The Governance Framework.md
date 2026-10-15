@@ -2,7 +2,7 @@
 
 *How Faleth Capital makes decisions, resolves disputes, and keeps leadership accountable.*
 
-*Faleth Capital · Internal Framework · Version 2.1*
+*Faleth Capital · Internal Framework · Version 2.2*
 *Companion to [[The Contribution Framework]], [[The Cell Framework]], and the [[Faleth Capital Constitution]].*
 
 ---
@@ -47,13 +47,13 @@ Multiple Leads split the Lead functions among themselves — by area, by shift, 
 
 The executive is a Lead one notch up. Same job — reduce the friction that slows the work, carry what falls between people, answer for what happens inside — over a subsidiary rather than a cell, and under every constraint already set above. Point values, the floor, and the outcomes of calibration stay with the team; a subsidiary whose executive sets its point values has stopped running this framework. What's added is direction. This is the seat that also faces outward, to the office, lenders, insurers, regulators, anyone who needs a person to deal with rather than a structure.
 
-He's elected the same way too, by the cell Leads rather than by every participant — the same representative logic that seats a Lead, applied one level up. A founder is the exception, holding the seat because there was no team yet to elect anyone. And it scales the same way: one person while one person can carry it, a larger elected team when the job outgrows that, all of them paid from that same share and never from the team pool.
+He's elected the same way too, by the cell Leads rather than by every participant — the same representative logic that seats a Lead, applied one level up. A founder is the exception, holding the seat because there was no team yet to elect anyone. And it scales the same way: one person while one person can carry it, a larger elected team when the job outgrows that, all of them paid for the seat from that same share.
 
-He is paid out of the office's fee, not the margin the team produces ([[The Financial Framework#1. How Money Moves Through a Subsidiary|the Financial Framework]]), so his income and theirs come from different numbers and can never trade against each other.
+The seat is paid out of the office's fee, not the margin the team produces ([[The Financial Framework#1. How Money Moves Through a Subsidiary|the Financial Framework]]), so what he earns for steering and what the team earns come from different numbers and can never trade against each other. Hands-on work is another matter. Especially in a subsidiary's early stages, the executive is on the ground with everyone else, and that work is pointed and paid like anyone's, the same way a Lead can pick up direct processes ([[The Contribution Framework#4. Points and Processes|the Contribution Framework]]). Until he earns Class A, the gain share on those points can be minted into Class B like anyone's; what the seat pays from the office fee can't ([[The Equity Framework#2. Earning and Cashing Out Class B|the Equity Framework]]).
 
 Removal is a confidence vote like any other, carried to the office because that is how far the seat reaches. Below the scale where there are cell Leads to convene one, anyone can fork out instead ([[Faleth Capital Constitution#5.3 — How a Fork Works|Article V of the Constitution]]). He can step down whenever he likes, nothing is retained, and he keeps compounding through a Managed Capital Account.
 
-**The mentor** takes 6% for developing the executive, and that is the whole job: counsel, with no vote, no veto, no standing to direct the work. The team is free to ignore them, and it runs as long as both of them want it.
+**The mentor** takes 6% for developing the executive, which rises and falls with the subsidiary's growth, so a mentor can't coast while a mentee struggles. Developing the executive is the whole job: counsel, with no vote, no veto, no standing to direct the work. The team is free to ignore them, and it runs as long as both of them want it.
 
 ---
 
@@ -67,9 +67,9 @@ Point values come out of that conversation — a negotiation between peers with 
 
 Disagreement here is the market working, not a problem. Most of it resolves in discussion; when it doesn't, a simple majority settles it and the minority gets another shot next cycle. When the same fight returns quarter after quarter, the vote is suppressing the disagreement rather than resolving it — so the team reaches for a better tool: a **parallel trial** (run both values for a quarter and let the results decide) or a **cell split** (give the two factions their own pools and governance; see [[The Cell Framework#6. Scaling Signals|the Cell Framework]]).
 
-The same event covers the other dials: the pay parameters — the COF rate, the floor, and the gain-share percentage, whose mechanics live in [[The Contribution Framework#2. The Three Layers|the Contribution Framework]] — plus the executive's spending threshold, whether any activity should move between pointed work and baseline expectation, whether the Lead count still fits and a re-election is due, and whether recurring disputes point at a structural problem rather than a pricing one. Every call belongs to the team; the Lead runs the conversation but doesn't rule it.
+The same event covers the other dials: the pay parameters — the COF rate and the floor, whose mechanics live in [[The Contribution Framework#2. The Three Layers|the Contribution Framework]] — plus the executive's spending threshold, whether any activity should move between pointed work and baseline expectation, whether the Lead count still fits and a re-election is due, and whether recurring disputes point at a structural problem rather than a pricing one. Every call belongs to the team; the Lead runs the conversation but doesn't rule it.
 
-One thing is deliberately not on this agenda: the executive's seat itself, for the reasons in §2.1. His spending threshold is a dial like any other and belongs here. His status isn't, and doesn't.
+Two things are deliberately not on this agenda. One is the executive's seat itself, for the reasons in §2.1. His spending threshold is a dial like any other and belongs here. His status isn't, and doesn't. The other is the gain share rates, which Class A members set ([[The Financial Framework#4. The Two Gain Shares|the Financial Framework]]).
 
 ---
 
@@ -113,4 +113,4 @@ A decision this heavy is never one person's to make. At the cell level, separati
 
 ---
 
-*This is a living framework. The election threshold and Lead ratio, the recalibration cadence, the executive's spending threshold, and the point values themselves are parameters each team sets and revisits. The principles — scope of impact, bottom-up leadership, trust by default, standards over rules, nobody who leads being paid from the pool the team is paid from, and preserving value over destroying it — are the parts meant to last. For office-level governance, see [[Faleth Capital Constitution#Article IV Governance|Article IV of the Constitution]].*
+*This is a living framework. The election threshold and Lead ratio, the recalibration cadence, the executive's spending threshold, and the point values themselves are parameters each team sets and revisits. The principles — scope of impact, bottom-up leadership, trust by default, standards over rules, and preserving value over destroying it — are the parts meant to last. For office-level governance, see [[Faleth Capital Constitution#Article IV Governance|Article IV of the Constitution]].*

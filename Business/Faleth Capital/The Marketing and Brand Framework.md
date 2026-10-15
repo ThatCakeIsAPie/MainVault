@@ -1,7 +1,7 @@
 # The Marketing and Brand Framework
 
 *How customers become part of the network, and what the brand commits to.*
-*Faleth Capital · Internal Framework · Version 2.0*
+*Faleth Capital · Internal Framework · Version 2.1*
 *Companion to [[The Financial Framework]], [[The Contribution Framework]], and [[The Equity Framework]]. The governing philosophy is in the [[Faleth Capital Constitution]].*
 
 ---
@@ -40,7 +40,7 @@ Credits first, for two reasons. It keeps the office from issuing a tax document 
 
 ## 3. What It Costs
 
-The referral bonus is **cost of acquisition** — the same line that pays an ad platform, a lead service, or a salesman's commission. COA behaves like cost of goods: it belongs to the individual ticket. A referred customer's ticket carries 20%. A ticket that came from advertising carries whatever that advertising cost. A walk-in who found the place on their own carries none.
+The referral bonus is **cost of acquisition**, the same line that pays an ad platform or a lead service. A referred customer's ticket carries 20%, a walk-in who found the place on their own carries none, and advertising is spent and measured by the month.
 
 Credits are expensed as COA when they accrue rather than when they're spent, and the outstanding balance sits as a liability until the customer redeems or converts it. For where COA falls in the rest of the waterfall, see [[The Financial Framework#1. How Money Moves Through a Subsidiary|The Financial Framework]].
 
