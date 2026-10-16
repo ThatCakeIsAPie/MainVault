@@ -86,3 +86,38 @@ Prepare -> Engage -> Grow
 Prepare by getting familiar with the products
 Building a list of people, onboarding some customers, completing a Strong Start Review
 Make profit from customer sales, then teach others to do the same
+The only way it is going to happen for you is if you start
+
+Being busy is just a mental thing. It can be a curse or a blessing. If you aren't careful, you can miss the people around you.
+
+# Training - Tyler Sheridan
+The messaging starting tonight is different than is normally being handled.
+Him and Joe created a customized plan that Joe did last week.
+His messaging is tailored to his local market, the north Dallas metroplex market.
+Fitness isn't our product, but it is the entry point
+What IBOs need to understand about the next 6-18 months:
+- Learn to show the plan yourself
+- Avellum has no PV/BV - the play is the pull-through
+- The membership is how you break pins
+- Valdera app in practice
+- Peptides: wait for category 1
+- The caliber of prospect is changing
+They know they have not been put on this planet to just "eek by", they believe they are going to do something huge, and there will be something, like a shift in the market or economy, and there will be an explosion in our business
+The Amway business is not broken, $300k in 1996 is equivalent to $640k in 2026
+Our avatar is changing. We are still looking for that Gen Z person, but they are fitness minded and want something from home
+Joe Markiewicz and Drew Tidwell are working on a model that is going to be universal
+The play is to pull prospects through Avellum Health, it will help us target people who are going to spend money in this space
+You need people who will want money, but also people who will spend money
+Your target audience is not people who still eat junk food, thinking it is all they can afford.
+Nutrilite and XS round out someone's protocol. If you get on GLPs, you will lose muscle as well as fat. You still need protein and supplements.
+There are a lot of people going into peptides without guidance, you get to be that health consultant
+Luis and Jackie Moreta said to get 25 clients. Johnny and Emily Vasquez have 8 people. With 25 people, times 10PV, that is 2000PV, just on memberships.
+The membership is how you break pins. Sitting down and letting them know what is available.
+Valdera syncs with things like your Aura ring, it is your health data hub.
+Talking to 19-25 year olds is great, but you can take this model to a sharp 40 year old executive, and they will say "let me take a look at that"
+1. Health span and holistic wellness is a $2T+ market heading past $7T - fitness is only the entry point
+2. The model: no start-up cost, no first-year training fee, mentorship built in, and a path to scale beyond your own time
+3. Amways infrastructure plus Avellum Health and the Valdera app make it a personalized, data-driven offer
+4. Income comes from retail margin, performance bonuses, differentials and growth incentives - customers first
+5. IBOs soft launch Oct, customers rollout mid-November with a $20/month membership
+6. It still takes work. Be coachable, follow up with your inviter, and read the disclosures
