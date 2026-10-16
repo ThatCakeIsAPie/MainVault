@@ -1,7 +1,7 @@
 # The Acquisition Transition Framework
 
 *How an existing business joins the portfolio without coercion, surprise, or broken trust.*
-*Faleth Capital · Internal Framework · Version 2.0*
+*Faleth Capital · Internal Framework · Version 2.1*
 *Companion to [[The Contribution Framework]], [[The Governance Framework]], and [[The Financial Framework]]. The acquisition commitment itself is [[Faleth Capital Constitution#Article VI Acquisitions|Article VI of the Constitution]].*
 
 ---

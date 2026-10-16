@@ -2,7 +2,7 @@
 type: note
 title: Lyle Telegram X Shares Log
 created: '2026-06-22T00:00:00+00:00'
-updated: '2026-10-02T00:00:00+00:00'
+updated: '2026-10-10T00:00:00+00:00'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -18,6 +18,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-10-10 | [2108165794467074118](https://x.com/Jayyanginspires/status/2108165794467074118) | ambient share; Jay Yang "Steve Jobs" quote: great people don't compete | [[research/raw/transcripts/lyle-x-share-2108165794467074118]] | — (raw-only) |
 | 2026-10-02 | [2105963013937205634](https://x.com/dhh/status/2105963013937205634) | ambient share; DHH quotes Björk reminder for makers (@ben_issen) | [[research/raw/transcripts/lyle-x-share-2105963013937205634]] | — (raw-only) |
 | 2026-09-29 | [2104930468508356995](https://x.com/nevmed/status/2104930468508356995) | ambient share; protein ROI food visuals (@nevmed / Nicko Dumadaug) | [[research/raw/transcripts/lyle-x-share-2104930468508356995]] | — (raw-only) |
 | 2026-09-01 | [2094723185904365880](https://x.com/RoundtableSpace/status/2094723185904365880) | ambient share | [[research/raw/transcripts/lyle-x-share-2094723185904365880]] | [[research/faleth/process/obsidian-cli-as-semantic-vault-interface-2026]] |

@@ -1,7 +1,12 @@
 # Wiki Log
 
 > Chronological record of all wiki actions. Append-only.
-> Format: `## [2026-10-02] ingest | DHH quotes Björk reminder for makers (2105963013937205634)
+> Format: `## [2026-10-10] ingest | Jay Yang quotes "Steve Jobs" on not competing (2108165794467074118)
+- Raw: [[raw/transcripts/lyle-x-share-2108165794467074118]]
+- sha256: `0c801047d6854ae3a97875f524bdb80fc8e0162458c6ad46006c883d41b8e0bf`
+- Distilled: raw-only (single text share; quote attribution unverified)
+
+## [2026-10-02] ingest | DHH quotes Björk reminder for makers (2105963013937205634)
 - Raw: [[raw/transcripts/lyle-x-share-2105963013937205634]]
 - sha256: `40ff2e5e4bceb5203c9aa52579b864906cb2321284e2942ff811619a71b7d4c3`
 - Media: 3 PNGs → `raw/assets/x/2105963013937205634/` (already pushed earlier as ecfc0b2)

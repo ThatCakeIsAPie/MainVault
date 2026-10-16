@@ -1,7 +1,7 @@
 # The Cell Framework
 
 *How a subsidiary scales past a single team without adding hierarchy.*
-*Faleth Capital · Internal Framework · Version 2.0*
+*Faleth Capital · Internal Framework · Version 2.1*
 *Companion to [[The Contribution Framework]], [[The Governance Framework]], and the [[Faleth Capital Constitution]]. Financial and equity mechanics live in [[The Financial Framework]] and [[The Equity Framework]].*
 
 ---
@@ -52,15 +52,17 @@ Both passes run on the same quarterly rhythm, and the mechanics — how the Lead
 
 Cells divide the work, not the revenue. Money enters when a customer pays for finished output, and it enters the subsidiary as a whole — one legal entity, one bank account, one set of books. That shared fate is what makes a cell functionally independent but not technically separate: it runs its own day-to-day, but it wins or loses with the body.
 
-Costs follow one simple rule: if an expense belongs entirely to one cell, it's the cell's; if it's shared, it stays at the subsidiary level. A cell that is its own shop pays its own rent; cells sharing a floor don't carve the rent between them — it comes off the subsidiary's books. No allocation formulas, no arguing over who used more square footage.
+Costs follow one simple rule: if an expense belongs entirely to one cell, it's the cell's; if it's shared, the cells split it by use. A cell that is its own shop pays its own rent, and cells that share a space lease it from the subsidiary. Other shared costs, like taxes and insurance, divide by each cell's share of the pool, which tracks who uses them most.
 
-When a subsidiary becomes multicellular, the gain share it already pays follows the body down one level. The subsidiary gain share described in [[The Financial Framework]] splits in two: **half from the cell's own contribution margin** — its revenue minus what it consumed, its share of the pool, and its own exclusive costs — paid to the cell's people; and **half from the subsidiary's consolidated profit**, paid to everyone across all cells. Half the reward is local, so a tight, well-run cell feels it directly; half is shared, so every cell keeps a stake in the next. It's the local-and-shared pattern that already runs between subsidiary and office, applied one layer further in.
+A cell is, for all intents and purposes, a subsidiary under a subsidiary. Cells spawn, merge, and close often enough that a bank account for each would mean opening and closing accounts all the time, so a cell keeps a ledger inside the subsidiary's books instead. The ledger is credited the revenue the cell's work earned and debited what the cell spent — materials, its own exclusive costs, the pay it drew — and what the cell buys stays on it as an asset, the way it would for a subsidiary. That gives every cell a book value of its own, and everything that runs between a subsidiary and the office runs between a cell and its subsidiary off that number. One legal entity, one bank account, many ledgers.
 
-A cell has no bank account of its own, but it does have a pool that behaves like one. The pool is credited the revenue the cell's work earned and debited what the cell spent — materials, its own exclusive costs, the pay it drew — so it carries a running balance that rises when the cell performs and can be spent down to nothing. How much that balance grew over the quarter is what sizes the cell's gain share; each person's slice of that is their Layer 2 income, as always. One legal entity, one bank account, many ledgers — and the ledgers exist precisely so nobody has to reconcile three hundred real accounts.
+Anyone in the cell can spend from its ledger. Past a threshold, a purchase needs a Lead to take it onto their own limit or a vote of the cell — the same widening-by-impact logic that governs every other decision here. Nothing needs an approval workflow, because the consequence is already structural: what gets spent shows in the ledger, and the ledger shows in the gain share.
 
-Anyone in the cell can spend from that pool. Past a threshold, a purchase needs a Lead to take it onto their own limit or a vote of the cell — the same widening-by-impact logic that governs every other decision here. Nothing needs an approval workflow, because the consequence is already structural: what gets spent shows in the balance, and the balance shows in the gain share.
+When a subsidiary becomes multicellular, the gain share it already pays follows the body down one level. The subsidiary gain share described in [[The Financial Framework]] splits in two: **half from the growth of the cell's own book value**, paid to the cell's people; and **half from the subsidiary's consolidated growth**, which the subsidiary pays from its own books to everyone across all cells. Each person's slice of either half is their Layer 2 income, as always. Half the reward is local, so a tight, well-run cell feels it directly; half is shared, so every cell keeps a stake in the next. It's the local-and-shared pattern that already runs between subsidiary and office, applied one layer further in.
 
-The subsidiary funds itself the way the office does — by charging a fee off the top, never by reaching into a cell's pool. Cells pay it on the same terms the subsidiary pays the office, and it covers shared costs along with whatever cushion the subsidiary chooses to keep ([[The Financial Framework#1. How Money Moves Through a Subsidiary|The Financial Framework]]). How thick that cushion runs is the Leads' call together, not a number handed down.
+The subsidiary funds itself the way the office does — by charging a fee off the top, never by reaching into a cell's ledger. Cells pay it on the same terms the subsidiary pays the office: one-third of the growth in the cell's book value, calculated side by side with the cell's half of the gain share so neither shrinks the other's base. It's what the subsidiary's own books run on: its part of the office fee, the subsidiary-wide half of the gain share, and whatever cushion it chooses to keep ([[The Financial Framework#1. How Money Moves Through a Subsidiary|The Financial Framework]]). How thick that cushion runs is the Leads' call together, not a number handed down.
+
+The office fee reaches the cells by ownership. The subsidiary holds cash and assets of its own alongside its cells, so the fee on its consolidated growth is paid by whoever owns that growth: the subsidiary's own books for what grew outside the cells, and each cell for what grew inside it ([[The Financial Framework#1. How Money Moves Through a Subsidiary|The Financial Framework]]).
 
 ---
 
@@ -72,7 +74,7 @@ Inside a cell, the cell governs itself exactly as a standalone team does: its ow
 
 At the seam between cells, the Leads who share it settle it — interfaces, handoff standards, and the subsidiary-layer point values are theirs to negotiate together, and a disagreement widens only if it truly can't be settled there. Subsidiary-wide parameters belong to all the Leads together, the executive among them as one voice, not a hand above. The election, dispute, and separation mechanics for all of these live in [[The Governance Framework]]; cells just apply them at one more level.
 
-Above the subsidiary, cells disappear. The office deals with the subsidiary as one entity, and the parent fee, gain share, and equity all run on its consolidated numbers. Cells are how a subsidiary organizes itself within — an internal tool, never a separate legal or financial entity.
+Above the subsidiary, cells disappear. The office deals with the subsidiary as one entity, and the parent fee, gain share, and equity all run on its consolidated numbers. Cells are how a subsidiary organizes itself within — an internal tool, never a separate legal entity.
 
 ---
 
@@ -90,7 +92,7 @@ A cell structure is never finished; it grows, splits, and re-forms as the work c
 
 **A new capability arrives.** A new product, service, or stage may enter cleanest as its own cell, or fold into an existing one. The team decides.
 
-The right answer — split, merge, a fresh election, a recalibration, or just a conversation — is never predetermined, and the mechanics of a split or separation live in [[The Governance Framework]]. Cells split or merge because the people in them want to, never because a headcount crossed a line, and what becomes of an accumulated pool is part of what those people negotiate rather than something a formula decides for them. Where numbers exist to check, test the diagnosis rather than romanticize division: a split that only adds duplicated overhead without improving flow, quality, or legibility hasn't grown a new cell — it's manufactured a smaller silo. Cells serve the work; when the work changes, they change with it.
+The right answer — split, merge, a fresh election, a recalibration, or just a conversation — is never predetermined, and the mechanics of a split or separation live in [[The Governance Framework]]. Cells split or merge because the people in them want to, never because a headcount crossed a line, and what becomes of a cell's ledger is part of what those people negotiate rather than something a formula decides for them. Where numbers exist to check, test the diagnosis rather than romanticize division: a split that only adds duplicated overhead without improving flow, quality, or legibility hasn't grown a new cell — it's manufactured a smaller silo. Cells serve the work; when the work changes, they change with it.
 
 ---
 

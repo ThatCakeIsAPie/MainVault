@@ -443,3 +443,170 @@ He would go through another 80 legs that quit to find another Mike Bundy
 Get started, dont quit, get wide, stay steady.
 Dont count the days, if you keep sowing, you will eventually reap.
 Once you get over fear, it is no big deal.
+
+# Sunday Service
+"The time of seed time and harvest time will never cease"
+When you have abundance, you have enough to meet the needs of your family and those around the world who need it. When you are broke, you can't do that.
+She loves mercy because of her past
+She was afraid if people knew her past, people wouldn't get in business with her.
+She was molested and raped by 12. Before, she tried to save the world, after, she wondered if she was loved, why did God allow it to happen?
+She was pregnant out of marriage when she met Larry.
+He had his kidneys fail, and he didn't have 2-3 months, he had 2-3 weeks. He had to start emergency treatment, and that is why he missed my first Summit.
+He believed God, Jesus and the Holy Spirit were real, but he also believed the NFL was real. You can believe something is real and not have a relationship.
+The older he got, the less he had anything put into him that mattered. Started drinking, hanging around the wrong people.
+He didn't know that sin and God cannot co-exist. He didn't know that all have sinned and fallen short of the Glory of God. That includes him and you.
+He didn't know every human born has eternal life. He thought if you were born and didn't receive Christ, you went to hell. He thought the only eternal life you have is in heaven. But no, he didn't realize you always have eternal life, it just determines if you go to heaven or hell.
+He didn't realize the importance of receiving the gift.
+He didnt know that for 25 years, he was spinning a roulette wheel, and one of those numbers was death. Every time he rode a dirt bike, drank and drove, he spun the wheel. If it had ended up on that black triangle, and he had sin in him, he would go to hell and spend eternity there.
+He didn't know Christianity isn't a religion. God doesn't cause trauma and pain, that wasn't Him. Stop blaming Him.
+All good things come from God. All bad things come from satan.
+Satan is the prince of this earth. Satan was in charge of music and instruments, 1/3 of the angels in Heaven.
+God sent satan and the angels that followed him to this ball of mud.
+If you are not in the word of God, then you have no protection from the enemy.
+He didn't know how simple it was to receive Christ.
+He didn't know you can't be too mad, mean, angry, whatever. You can't be too much of anything. He forgets you ever created the sin. He forgives you and forgets you ever sinned.
+No matter how you good you are, you still can't go to heaven without first going through the Son.
+No matter how good you think you are, His word is infallible, correct. If He said it, it is fact, no matter if you believe it or accept it.
+His word says ***ALL***
+You can be the bible scholar, he is going to have a relationship with Christ.
+All have sinned and fallen short of the Glory of God.
+Do you really want to spin the wheel and roll the dice?
+You cant do enough work to be saved or redeemed.
+There are 8 billion people and there are no duplicates yet? He knew us before we entered our mother's womb.
+He numbered every hair on your head, even the bald people.
+You will do all kinds of stupid things like driving drunk because you don't understand your value.
+Want to know another word for clueless? Lost.
+When you receive Jesus, the old you actually dies.
+He never knew what the meaning of the stories were. Johah spent 3 days and nights in the belly of the big fish, like how Jesus spent 3 days and nights in the pit of hell. He paid the price for me, so I wouldn't have to be in there.
+The same power God used to raise Jesus from the dead, is the same power He used to raise me from the dead.
+The gospel is good news
+He doesn't come to restrict you, but to give you abundant life
+
+# Sunday Session
+## Jake and Jackie Baker
+It is what you do after surviving.
+When you have a proper perspective, you can walk this planet in a lot more victory. Getting a flat tire or not being able to pay rent is not a struggle. Losing a child is a struggle.
+All you can do is use that pain and do something great with it.
+Healing is not an internal process. It is healed from the outside in, by serving other people and helping other people. Not by talking about your own pain and weighing them down with your baggage. But being able to not be in your own pain and help serve others.
+She learned she could actually move, take new ground, without actually feeling like it.
+She could do things and not like them. When life hits, you have a choice.
+When you learn it, you own it. Emotion follows motion. The more steps she took towards a servant's heart, she could feel peace.
+God is not moved by pity. Human nature is not moved by pity. You are not moved when you are pitiful, you are thumb sucking. That is not moving forward and taking ground. You can choose to move or be pitiful.
+Dealing with what she did, she started to become a warrior like her husband.
+The only way to get that dawg out is through a fight. A fight comes from a challenge, a huge struggle.
+When you leave here, and life hasn't hit you yet, you might hit issues. Those are inconveniences. Those are temporary challenges, it is not a struggle. Don't make it a mountain when it is a mole hill.
+"The Tongue: A Creative Force" Book
+When you start to use the tongue against the enemy and your circumstances, you will learn the power you have.
+"Difference Maker"
+The greatest thing he has learned is his story. It is about learning to be an overcomer.
+You are in a room full of overcomers.
+Overcoming isnt something you achieve one time, it is a continual deal. It is so easy for us to think success is an event. It is a habit, not a result. It is something you do, not something you did.
+Growth Mindset
+It is your relationship with overcoming.
+He got to choose who he would associate with.
+The thing that is of the most value, more than anything else, is the human being. That being, the spirit inside of you that can learn to overcome.
+You are surrounded by a bunch of difference makers.
+Choose this day how you should live, so you and your family can succeed.
+He heard a story of how someone was in a foreign country in jail, and their upline came to get them out. His biker friends would never do that.
+
+## Doug and Amie Weir
+It is not the plan, the planner, or anything else really. It is just intentionality of your time.
+Controlling your calendar isnt about filling every minute, but that everything that matters has a place on the calendar.
+Life goes in 5 year cycles.
+Every month is to have goals.
+Not just business goals, but the rest of your life. What does my family need? What are my community goals? What about rest?
+Your business is part of your life, but it isn't your entire life.
+Anything that comes to mind, just dump it. Once it is out of your head, you can figure out how to start making it happen.
+You can't organize it if it is bouncing around inside your head.
+She likes to set aside 20-30 minutes once a week for this, where she looks at the upcoming week and decides what is already committed, and schedule them.
+Exercise, meal prep, quiet time, sleep, rest, family dinner, bible time.
+If it matters, it gets a place on the calendar.
+John C. Maxwell talks about the 5 daily/weekly habits that must get into the calendar.
+If you don't plan it out, it is easy to watch it just go away.
+After you have read lots of self help books, it is easy to think "how am I going to fit all these things in my life?"
+She isn't thinking about it all week, she is booking it on the calendar and following her calendar.
+"A woman's work is never done" is a true statement lol
+Schedule 20 minutes without your phone
+Rest is not wasted time, it is being able to show up for everything else you are doing
+Sometimes, the biggest wastes of time is checking email every 5 minutes, overplanning by saying yes to everything, etc. Do a time audit.
+For 3-7 days, just write down where your time goes. If it isn't where you want to be spending your time, then now you know.
+Your calendar shouldn't be living in isolation. Work with your spouse to figure out what is on your calendar, and protect that time.
+You are trying to build a business that fits the lifestyle of your family.
+Do the brain dump. Set your monthly goals. Timeblock the important things in your life. Do time audits to make sure you are on track.
+He has a habit of doing nothing, he likes the concept of nothing.
+When it comes to the traits of being successful, it may not necessarily work like that.
+"Wanna do X on Friday?" "I don't know if I will want to on that day."
+He will always do what he is in the habit of doing.
+You will default to whatever is a habit for you. He doesn't have to plan them, he just does what he already does.
+If you can get the money making activities to become a habit, you will do it automatically.
+He brushes his teeth, takes his vitamins, makes coffee, reads his bible. He always does that.
+He may not always want to do it, but it is a habit, so he does it.
+If you can establish the money making activities just like brushing your teeth, you will default to your established habits.
+What kind of goals might you have?
+If I have to think about my health goals, I will always choose poorly. He is bad in the moment at convincing himself of the right thing.
+He doesnt have to make a decision, he chose to do it a long time ago, and he just did it. Now, he is in the habit of doing it no matter what.
+For him, who likes to do absolutely nothing, if he is going to do it, it has to be a habit.
+Good choices become a habit. They should be your only habits.
+What habits do you need to stop?
+"How do you stay motivated?" He never stays motivated. He just stays doing his habits.
+If you like planning, do it. If you don't, make sure you made a routine for yourself so you don't have to think about it.
+
+## Drew and Stephanie Tidwell
+When you are afraid, it is good to seek alternative perspective.
+Ever see a skyscraper from ground level? They feel huge and impossibly large. But when you view them from a plane level, it looks tiny. When you gain perspective from a mentor or life experience, it gives you a new view of the problem.
+A mentor can view what you are going through and go "bah, that is nothing for you, you've got this!"
+Our problems can look like skyscrapers to us, but legos to God
+Having the right perspective doesn't mean you know how everything is going to turn out. You can do everything you know to do and there is no guarantee of an outcome.
+Seeing there are no guarantees but deciding to pursue anyways.
+You are guaranteed nothing in whatever you choose to pursue that is of your own agency. Why go anyway? Because you aren't a wimp. If the dream is big enough, the uncertainty doesn't deter you.
+What is worth pursuing even when no one can promise you the outcome.
+Millions chase the long shot, and we encourage them until we fail.
+Humans are terrible at assessing risk.
+Only one american died to a shark attack, no one died one year in a plane crash, tens of thousands died in car accidents, why fear sharks and flying, but not cars? We are more afraid of the feeling than the actual odds.
+There was a test about mice from a cherry blossom where they took one, it had kids, but they gave the parent a shock treatment to get the smell off. When the kids came out, they had the same anxiety when they encountered the cherry blossoms for the first time.
+Fear can become generational. On his home wall, they have a phrase written on it "Tidwells don't quit."
+How to pursue the long shot? Rewire your brain.
+Tear up your script and write a new one.
+"I'm scared to talk to people." You are just unskilled.
+No one watched his 6 year old daughter dribble a ball off of her foot and say "guess basketball isn't her thing."
+What drew him in was the standards of the team.
+Not because there is no risk, but because the risk is worth it.
+Wimps waste their lives avoiding risk. Champions pursue greatness despite risk.
+We don't need certainty. We need conviction. We don't need it to be easy. We need it to be worth it.
+When you figure it out, and the opportunity presents itself, take the shot.
+
+## Lucas and Madison Jordan
+He was looking for an arena to win in for the rest of his life, then he saw an arena like this.
+When he entered this arena, he had that Eyor the donky from Winnie the Pooh mentality. Everything was out of his comfort zone, he was expecting disappointment and things to not work out. It is your body language, your mentality.
+"If I dont talk to them for 5 years, i can go back to not talking to them for 5 years." That was simple for him. The hard part was getting out of his comfort zone and building a skill set of networking.
+He never felt the need to speak on anything.
+Fear always leads to hesitation. None of it is real. He was assuming the worst as he was building the business.
+Amway is exactly what you believe it is.
+If you believe only a certain personality can build this, you will be correct. If you believe the products are too expensive, you are right. Whatever you believe it is, that is what it is.
+You need to change your narrative, how you view the opportunity, your words and thoughts, the story you tell yourself.
+He remembers hearing this affirmation and thinking "that's for the weak people". He had a fixed mindset, he was programmed for something other than success. Successful people talk belief over themselves.
+How you view what you do determines how you do what you do.
+*Follow through equals confidence.*
+He wasn't quite motivated by the rewards, but by winning himself over every single day. That was the only thing that kept him going.
+For the millennial generation, 39% of them have anxiety and an existential crisis for their future. For Gen Z, 55% have anxiety or feel negative about their future for the next 5 years.
+People feel how you view what you do far before they understand what you do.
+
+## Adam and Kristen Ladenburger
+Dont let a frog try to explain the ocean to you when they havent seen it. Also, dont try to explain the ocean to a frog.
+You can love them, but not take their advice.
+You cannot win on willpower alone. Willpower is flesh. Flesh will let you down, it takes the path of least resistance.
+Accountability- Activity, not goals.
+Goals are ok to write down.
+When you are speaking goals, speak in present tense, like you project them. Jesus, when He was tempted by the enemy, He spoke.
+When you change your emotion while you are speaking, it changes on the subconscious level.
+You speak it, not by mumbling it, but by putting some passion into it.
+They created activity based goals. If you say "i will get this at some point", it can let you off the hook for a bit.
+Change or remain employed.
+A relationship with an upline. Get naked with an upline (not literally).
+Systems- When desire is in opposition to expectation, expectation wins.
+When they got off work, they didn't go home, because home represented comfort.
+They knew their numbers and tracked their numbers.
+They controlled the input game.
+The one thing God gave us to control, the less we spend time controlling it.
+Shouldn't we use our mind to create, not for wasteful consumption
+There is no such thing as winning pretty, there is only winning ugly.

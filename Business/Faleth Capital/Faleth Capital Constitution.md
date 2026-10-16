@@ -1,7 +1,7 @@
 # The Constitution of Faleth Capital
 
 *An evergreen holding company built on ownership, aligned incentives, and human freedom.*
-*Open Document · Version 2.2*
+*Open Document · Version 2.3*
 
 ---
 
@@ -53,7 +53,7 @@ Different mechanics, one destination: ownership, freedom, and wealth that outlas
 
 Faleth Capital is the parent entity. It owns the subsidiaries, holds the shared liquidity pool, manages the share system, collects fees, distributes gain share and dividends, and governs the portfolio.
 
-It is deliberately thin. The office is a governing body over a pool of capital, not an operating business. Its income is the fee its subsidiaries pay, and its expenses should stay negligible against the portfolio's revenue. Nothing about it is designed to grow into a headquarters.
+It is deliberately thin. The office is a governing body over a pool of capital, not an operating business. Its income is its share of the fees its subsidiaries pay, plus the performance fee on managed capital, and its expenses should stay negligible against the portfolio's revenue. Nothing about it is designed to grow into a headquarters.
 
 ## 2.2 — Subsidiaries
 
@@ -95,7 +95,7 @@ That threshold is deliberately not a fixed dollar figure. A number that means so
 
 Membership, once earned, is permanent. It recognizes what someone built, and that recognition isn't stripped over disagreement.
 
-It may be revoked only for cause, narrowly defined: material violation of this constitution or its frameworks, sustained and demonstrable harm to the portfolio or its people, or prolonged dereliction of the responsibilities below despite direct engagement from other members. Revocation requires a two-thirds supermajority of active members and may be appealed once at the next annual conference. A member removed for cause loses their seat but keeps their Class B shares and any mentoring relationships on the terms already agreed.
+It may be revoked only for cause, narrowly defined: material violation of this constitution or its frameworks, sustained and demonstrable harm to the portfolio or its people, or prolonged dereliction of the responsibilities below despite direct engagement from other members. Revocation requires a two-thirds supermajority of active members and may be appealed once at the next annual conference. A member removed for cause loses their seat but keeps their Managed Capital Account and any mentoring relationships on the terms already agreed.
 
 For disagreement without cause — a member who no longer trusts the direction, or who finds themselves persistently at odds with how the portfolio is run — the remedy is not removal. It's the fork in Article V. Boards remove people over direction all the time, and that is the power dynamic the rest of this system exists to avoid. Cause-based removal exists to address real harm; the fork exists to give legitimate disagreement a door.
 
@@ -198,7 +198,7 @@ Some things cannot be amended at all:
 - The mint-and-burn mechanism, and the right of any Class B holder to cash out at book value at any time.
 - The liquidity reserve policy — liquid capital held equivalent to the combined book value of the operating subsidiaries.
 - The principles of separation in Article V: no trapping, book value in every direction, earned stakes traveling with the person who earned them, preserving value over destroying it, and the exit door as the ultimate accountability.
-- The 20% performance fee on Managed Capital accounts, which funds the office equity and the Class B dividend pool.
+- The 20% performance fee on Managed Capital accounts, which funds office equity and, through it, the value of every Class B share.
 - The anti-speculation mechanics behind buying/selling at book value and subtracting unrealized gains/losses on assets in portfolio valuations.
 
 These aren't policy positions. They are commitments to every person who participates, and they're what a majority vote exists to protect rather than to overturn.
@@ -247,7 +247,7 @@ Five steps, each begun while the previous one is still underway.
 
 **Three: build the network to full-time**, until what it pays can fund Bucket One on its own. That's the floor under everything else, and once it exists, real risk becomes affordable because the downside is already covered.
 
-**Four: build your own.** With Bucket One secured, propose a subsidiary. The office funds it, a member mentors it, and it runs under the frameworks with full autonomy. Network marketing keeps Bucket One covered while the business finds its footing, and gain share and dividends keep Bucket Two running through the unprofitable early years — which is precisely what makes those years survivable rather than desperate.
+**Four: build your own.** With Bucket One secured, propose a subsidiary. The office funds it, a member mentors it, and it runs under the frameworks with full autonomy. Network marketing keeps Bucket One covered while the business finds its footing, and the points you earn working in it, gain share, and dividends keep Bucket Two running through the unprofitable early years — which is precisely what makes those years survivable rather than desperate.
 
 **Five: grow both, indefinitely.** There's no finish line. The network matures and self-replicates, the subsidiary grows until you can step back and start another, and eight consecutive quarters of material profit earns a seat at the office. Accumulated wealth is then managed through that same office, under the same philosophy, by the same people. And you begin mentoring the next person through Step One — paid for it, because this system pays people to make themselves unnecessary.
 
