@@ -1,7 +1,11 @@
 # Wiki Log
 
 > Chronological record of all wiki actions. Append-only.
-> Format: `## [2026-10-10] ingest | Jay Yang quotes "Steve Jobs" on not competing (2108165794467074118)
+> Format: `## [2026-10-18] create | Eyeglass prescription
+- Page: [[personal/eyeglass-prescription]]
+- Scan: `raw/assets/personal/eyeglass-rx-2026-10-12.jpg`
+
+## [2026-10-10] ingest | Jay Yang quotes "Steve Jobs" on not competing (2108165794467074118)
 - Raw: [[raw/transcripts/lyle-x-share-2108165794467074118]]
 - sha256: `0c801047d6854ae3a97875f524bdb80fc8e0162458c6ad46006c883d41b8e0bf`
 - Distilled: raw-only (single text share; quote attribution unverified)

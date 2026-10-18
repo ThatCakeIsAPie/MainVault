@@ -134,6 +134,7 @@
 
 ## Personal vision
 
+- [[personal/eyeglass-prescription]] — Current eyeglass Rx (exam 2026-10-12, expires 2028-10-12).
 - [[Personal/Dream Compound Vision]] — Long-term sovereign compound: remote businesses, family presence, advanced manufacturing and AI “brain” (dream-building, not church sermon).
 
 ## Comparisons
