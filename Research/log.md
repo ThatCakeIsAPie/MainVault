@@ -5,6 +5,13 @@
 - Page: [[personal/eyeglass-prescription]]
 - Scan: `raw/assets/personal/eyeglass-rx-2026-10-12.jpg`
 
+## [2026-10-21] ingest | Eric Alper shares "executive dysfunction life hack" Tumblr screenshot (2112797285042016733)
+- Raw: [[raw/transcripts/lyle-x-share-2112797285042016733]]
+- sha256: `e23e6e0c7c599e438ff4c05b03c066ecb22db0b34dd8a1651f5e1026bbff685c`
+- Media: 1 JPG → `raw/assets/x/2112797285042016733/`
+- Distilled: raw-only (single ambient share; no existing executive-function/procrastination page)
+- Shares log updated
+
 ## [2026-10-10] ingest | Jay Yang quotes "Steve Jobs" on not competing (2108165794467074118)
 - Raw: [[raw/transcripts/lyle-x-share-2108165794467074118]]
 - sha256: `0c801047d6854ae3a97875f524bdb80fc8e0162458c6ad46006c883d41b8e0bf`
