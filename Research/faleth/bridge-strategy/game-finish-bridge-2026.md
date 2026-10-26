@@ -2,7 +2,7 @@
 type: strategy
 title: Game Finish Bridge Strategy (2026)
 status: active
-updated: '2026-06-28T00:00:00.000Z'
+updated: '2026-10-26T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-06-28T13:49:48.235Z'
 source_kind: 'mcp:put_page'
@@ -52,6 +52,10 @@ Finish and ship the **in-progress game** in parallel with **light-touch GovCon u
 ## Inventory (TODO)
 
 - Game name, repo, engine, remaining milestones, target platform — populate when project is indexed.
+
+## Tooling leads
+
+- **NVIDIA MotionBricks** (open weights, Oct 2026): real-time pose-to-pose motion generation for game characters (SOMA human skeleton) and humanoids; code Apache 2.0, weights under NVIDIA Open Model Agreement (commercial use permitted, subject to terms); demo runtime needs an NVIDIA GPU. Lyle flagged it as possibly useful for the game. Related: [[faleth/process/spring-damper-undulation-procedural-secondary-motion-2026]]. ^[raw/transcripts/lyle-x-share-2114720297584574829.md]
 
 ## Related
 

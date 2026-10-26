@@ -5,6 +5,15 @@
 - Page: [[personal/eyeglass-prescription]]
 - Scan: `raw/assets/personal/eyeglass-rx-2026-10-12.jpg`
 
+## [2026-10-26] ingest | NVIDIA releases MotionBricks weights on Hugging Face, via @alvarobartt (2114720297584574829)
+- Raw: [[raw/transcripts/lyle-x-share-2114720297584574829]]
+- sha256: `ed1dac91b1a4cc5406b8873a189e36ae4b595101ab3425e223612e18c2160e81`
+- Media: 42s video (640×360) + preview frame → `raw/assets/x/2114720297584574829/`
+- Linked: HF model card facts (license, SOMA/G1 families) recorded in raw as a separate section
+- Updated: [[faleth/bridge-strategy/game-finish-bridge-2026]] — added "Tooling leads" line (Lyle: may be useful for his game)
+- Distilled: raw-only (single source; no existing motion-generation page)
+- Shares log updated
+
 ## [2026-10-21] ingest | Eric Alper shares "executive dysfunction life hack" Tumblr screenshot (2112797285042016733)
 - Raw: [[raw/transcripts/lyle-x-share-2112797285042016733]]
 - sha256: `e23e6e0c7c599e438ff4c05b03c066ecb22db0b34dd8a1651f5e1026bbff685c`
