@@ -5,6 +5,13 @@
 - Page: [[personal/eyeglass-prescription]]
 - Scan: `raw/assets/personal/eyeglass-rx-2026-10-12.jpg`
 
+## [2026-10-28] ingest | Jason Fried — "No big deal or the end of the world?" (HEY World)
+- Raw: [[raw/articles/jason-fried-no-big-deal-or-the-end-of-the-world-2026-10-28]]
+- sha256: `84cc5363b0f273b5af82da8297d4c52798deb989f23d98a1b5bce295a86f50b4`
+- Lyle: "Love this!"
+- Updated: [[faleth/process/customer-success-as-post-sale-proof-and-network-curation-2026]] — added two-tokens line with provenance
+- Distilled: no new page (single source; folded into existing customer-success page)
+
 ## [2026-10-26] ingest | NVIDIA releases MotionBricks weights on Hugging Face, via @alvarobartt (2114720297584574829)
 - Raw: [[raw/transcripts/lyle-x-share-2114720297584574829]]
 - sha256: `ed1dac91b1a4cc5406b8873a189e36ae4b595101ab3425e223612e18c2160e81`

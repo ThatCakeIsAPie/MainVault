@@ -20,6 +20,8 @@ Ethical business therefore continues after conversion. The business must inspect
 
 Lyle connects this to a remembered Alex Hormozi framing that post-sale customer service should be understood as customer success: the standard is not merely whether complaints were answered, but whether people actually achieved what the offer promised.
 
+When something goes wrong, the response sets the temperature. Jason Fried (via Jean-Louis Gassée's "two tokens") notes that whichever token you take — "it's no big deal" or "it's the end of the world" — the customer takes the other; acknowledging the grievance generously lets them call it no big deal. ^[raw/articles/jason-fried-no-big-deal-or-the-end-of-the-world-2026-10-28.md]
+
 ## Tracking operationalizes care
 
 Lyle's rule is:

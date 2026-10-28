@@ -1,0 +1,42 @@
+---
+type: article
+source: hey-world
+source_url: https://world.hey.com/jason/no-big-deal-or-the-end-of-the-world-0b0d8619
+title: "No big deal or the end of the world?"
+author: Jason Fried
+date: 2022-01-28
+ingested: 2026-10-28
+sha256: 84cc5363b0f273b5af82da8297d4c52798deb989f23d98a1b5bce295a86f50b4
+lyle_note: "Love this!"
+tags: [raw, article, customer-service, de-escalation, 37signals]
+---
+
+# No big deal or the end of the world?
+
+**Author:** Jason Fried · **Published:** 2022-01-28 · **Source:** HEY World
+
+> Lyle's note on sharing (2026-10-28): "Love this!"
+
+## Full text (verbatim)
+
+Here’s something that should be obvious: People don’t like to have their grievances downplayed or dismissed. When that happens, even the smallest irritations can turn into an obsessive crusade.
+
+Imagine you’re staying at a hotel, and the air conditioning isn’t working right. You call the front desk to mention it, and they say, oh yeah, they know about that, and someone is going to come fix that next week (after you’ve left). In the meantime, could you just open a window (down to that noisy, busy street)? Not a word of apology, no tone of contrition.
+
+Now what was a mild annoyance – that it’s 74F degrees when you like to sleep at 69F – is suddenly the end of the world! You swell with righteous fury, swear you’ll write a letter to management, and savage the hotel in your online review.
+
+Jean-Louis Gassée, who used to run Apple France, describes this situation as the choice of the two tokens. When you deal with people who have trouble, you can either choose to taken the token that says “it’s no big deal” or the token that says “it’s the end of the world”. Whichever token you pick, they’ll take the other.
+
+The hotel staff in the example above clearly took the “it’s no big deal” token, and as a result forced you to take the “it’s the end of the world” token. But they could just as well have made the opposite choice.
+
+Imagine the staff answering something like this: "We’re so sorry. That’s clearly unacceptable! I completely understand how it must be almost impossible to sleep when it’s so hot in your room. If I can’t fix this problem for you tonight, would you like me to refund your stay and help you find a different hotel room nearby? In any case, while we’re figuring out the solution, allow me to send up a bottle of ice water and some ice cream. We’re terribly sorry for this ordeal and we’ll do everything to make it right."
+
+With an answer like that, you're almost forced to pick the "It's no big deal" token. Yeah, sure, some water and ice cream would be great!
+
+Everyone wants to be heard and respected. It usually doesn’t cost much to do either. And it doesn’t really matter all that much whether you ultimately think you’re right and they’re wrong. Arguing with heated feelings will just increase the burn.
+
+Keep that in mind the next time you take a token. Which one are you leaving for the customer?
+
+—
+
+This essay was republished from our book "It Doesn't Have to Be Crazy at Work".
