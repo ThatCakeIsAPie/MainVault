@@ -22,6 +22,8 @@ Lyle connects this to a remembered Alex Hormozi framing that post-sale customer 
 
 When something goes wrong, the response sets the temperature. Jason Fried (via Jean-Louis Gassée's "two tokens") notes that whichever token you take — "it's no big deal" or "it's the end of the world" — the customer takes the other; acknowledging the grievance generously lets them call it no big deal. ^[raw/articles/jason-fried-no-big-deal-or-the-end-of-the-world-2026-10-28.md]
 
+Lyle's take (2026-10-28): this is a general people skill, not only customer service — whenever someone has a problem, take it more seriously than they do, which leaves them the "no big deal" route. He connects it to how [[entities/alex-hormozi|Alex]] and Leila Hormozi describe that only one person can be in the angry boat (Lyle's recollection; no source captured). ^[raw/conversations/lyle-note-2026-10-28-two-tokens.md]
+
 ## Tracking operationalizes care
 
 Lyle's rule is:

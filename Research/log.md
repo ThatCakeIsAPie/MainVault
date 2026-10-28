@@ -1,9 +1,15 @@
 # Wiki Log
 
 > Chronological record of all wiki actions. Append-only.
-> Format: `## [2026-10-18] create | Eyeglass prescription
-- Page: [[personal/eyeglass-prescription]]
-- Scan: `raw/assets/personal/eyeglass-rx-2026-10-12.jpg`
+> Format: `## [YYYY-MM-DD] action | subject`
+> Actions: ingest, update, query, lint, create, archive, delete
+> When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
+
+## [2026-10-28] update | Lyle's take on the two tokens
+- Raw: [[raw/conversations/lyle-note-2026-10-28-two-tokens]]
+- sha256: `c2729e8cf07077c2593ed64f724fcd0d9113cafede031db6c957e2e5f62a59f0`
+- Updated: [[faleth/process/customer-success-as-post-sale-proof-and-network-curation-2026]] — Lyle's take (general people skill; Hormozi "angry boat", Lyle's recollection)
+- Fixed: log header — Oct 18 prescription entry split out of the Format line
 
 ## [2026-10-28] ingest | Jason Fried — "No big deal or the end of the world?" (HEY World)
 - Raw: [[raw/articles/jason-fried-no-big-deal-or-the-end-of-the-world-2026-10-28]]
@@ -28,6 +34,10 @@
 - Distilled: raw-only (single ambient share; no existing executive-function/procrastination page)
 - Shares log updated
 
+## [2026-10-18] create | Eyeglass prescription
+- Page: [[personal/eyeglass-prescription]]
+- Scan: `raw/assets/personal/eyeglass-rx-2026-10-12.jpg`
+
 ## [2026-10-10] ingest | Jay Yang quotes "Steve Jobs" on not competing (2108165794467074118)
 - Raw: [[raw/transcripts/lyle-x-share-2108165794467074118]]
 - sha256: `0c801047d6854ae3a97875f524bdb80fc8e0162458c6ad46006c883d41b8e0bf`
@@ -40,10 +50,6 @@
 - Distilled: raw-only (single ambient share; no existing DHH/Björk/maker-audience page)
 - Quotes: @ben_issen / Björk interview macros
 - Shares log updated
-
-## [YYYY-MM-DD] action | subject`
-> Actions: ingest, update, query, lint, create, archive, delete
-> When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
 ## [2026-09-29] ingest | Neville Medhora (@nevmed) protein ROI food visuals
 - Raw: [[raw/transcripts/lyle-x-share-2104930468508356995]]
