@@ -5,6 +5,13 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-10-28] ingest | Alex Hormozi / Acquisitioncom — "Networking Will Make You Millions... If You Do it Right" (YuQ8ve1Amto)
+- Raw: [[raw/transcripts/youtube-YuQ8ve1Amto-2026-10-28]]
+- sha256: `226bdcb85b88e38dce86eb59f81ef10d84bc3808957666a42151364c5218de88`
+- Lyle: "Starting to see a pattern in what im recognizing"
+- Created: [[offshoots/move-first-and-over-deliver]] (hypothesis; Fried two tokens + Lyle's angry-boat take + this video)
+- Updated: [[offshoots/networking-and-connection-skills]], [[entities/alex-hormozi]]
+
 ## [2026-10-28] update | Lyle's take on the two tokens
 - Raw: [[raw/conversations/lyle-note-2026-10-28-two-tokens]]
 - sha256: `c2729e8cf07077c2593ed64f724fcd0d9113cafede031db6c957e2e5f62a59f0`
