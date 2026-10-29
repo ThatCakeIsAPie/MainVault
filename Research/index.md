@@ -109,6 +109,7 @@
 
 ## VXE / GovCon ops
 
+- [[business/vxe/government-contracting-first-principles]] — DeepSeek primer Lyle saved word for word: the government buys the best *defensible* deal; seven walls; a zero anywhere loses the award.
 - [[business/vxe/open-todos]] — Living VXE working list (pricing, solicitation follow-up, SAR-objection responses).
 - [[business/vxe/piee-solicitation-email-notifications-after-proposal-manager-activation]] — After admin activates Proposal Manager (SOL): confirm Active, SOL POC emails, Outlook routing, acceptance test; no BOT/RPA scrape by default.
 - [[business/vxe/full-time-transition-research-2026]] — Five-path facility and income transition research (June 2026).

@@ -5,6 +5,11 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-10-29] ingest | DeepSeek government contracting primer
+- Raw: [[raw/conversations/deepseek-government-contracting-first-principles-2026-10-29]] (sha256 `e17d22605bc0a1912b1222f9b810a2c0ce46411c8bcafe851131ea3d5a3aee8b`)
+- Created: [[business/vxe/government-contracting-first-principles]] (verbatim, per Lyle)
+- Updated: [[offshoots/marketing-first-principles]] (backlink to companion piece)
+
 ## [2026-10-29] ingest | DeepSeek marketing primer; Spar: DGX Spark side project; Spar: Matthew 5:13 salt
 - Raw: [[raw/conversations/deepseek-marketing-first-principles-2026-10-29]] (sha256 `90c5e99283ecd6a4f3607551e92eb11e4b285b3277f09274dce7fd2e80111622`)
 - Created: [[offshoots/marketing-first-principles]] (verbatim, per Lyle)

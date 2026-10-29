@@ -114,3 +114,4 @@ Positive: you can afford to buy growth. Negative: you're paying to lose money fa
 - [[offshoots/move-first-and-over-deliver]]: why truth and goodwill compound
 - [[faleth/process/mutual-benefit-distinguishes-influence-from-manipulation-2026]]: selection over persuasion
 - [[entities/alex-hormozi]]: offers and value
+- [[business/vxe/government-contracting-first-principles]]: companion piece, same seven-walls frame applied to government buyers
