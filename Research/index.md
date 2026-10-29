@@ -53,6 +53,7 @@
 - [[offshoots/long-term-alignment-through-reinvestment]] — Participants should have incentives to reinvest and act in the long-term interest of the organization.
 - [[offshoots/master-once-then-duplicate]] — True scale comes from mastering a skillset once and then teaching others to do it.
 - [[offshoots/mentorship-compression-through-proven-paths]] — The fastest way to reduce avoidable mistakes is to learn from someone who has already walked the path.
+- [[offshoots/marketing-first-principles]] — DeepSeek primer Lyle saved word for word: seven walls between buyer and seller, value > price + effort + risk.
 - [[offshoots/move-first-and-over-deliver]] — Hypothesis: move first and over-deliver (take their problem more seriously, give before asked) and others mirror the frame.
 - [[offshoots/networking-and-connection-skills]] — Networking and genuine connection are learnable, teachable skills rather than innate talents.
 - [[offshoots/persistent-consistent-action]] — Long-term success requires persistent, consistent daily action over an extended period.

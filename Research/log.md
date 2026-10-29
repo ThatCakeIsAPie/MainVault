@@ -5,6 +5,13 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-10-29] ingest | DeepSeek marketing primer; Spar: DGX Spark side project; Spar: Matthew 5:13 salt
+- Raw: [[raw/conversations/deepseek-marketing-first-principles-2026-10-29]] (sha256 `90c5e99283ecd6a4f3607551e92eb11e4b285b3277f09274dce7fd2e80111622`)
+- Created: [[offshoots/marketing-first-principles]] (verbatim, per Lyle)
+- Raw: [[raw/conversations/spar-2026-10-27-dgx-spark-side-project]] (sha256 `c1ed54bca66f6dd939a9724a8268ad694add5eb87f2c26292cf35a21daf01f8f`)
+- Updated: [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] (side-project idea)
+- Raw: [[raw/conversations/spar-2026-10-28-matthew-5-13-salt]] (sha256 `5e830011e1cdc6a18c0e342210de04bd5c6ab67cb70223e886af87b549bbadd1`); raw-only, no fitting scripture page yet
+
 ## [2026-10-28] ingest | Alex Hormozi / Acquisitioncom — "Networking Will Make You Millions... If You Do it Right" (YuQ8ve1Amto)
 - Raw: [[raw/transcripts/youtube-YuQ8ve1Amto-2026-10-28]]
 - sha256: `226bdcb85b88e38dce86eb59f81ef10d84bc3808957666a42151364c5218de88`

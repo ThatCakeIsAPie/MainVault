@@ -1,7 +1,7 @@
 ---
 title: Unified-Memory Inference Budget — DGX Spark, RTX Spark, and Strix Halo
 created: 2026-07-30
-updated: 2026-08-15
+updated: 2026-10-29
 type: principle
 tags: [ai, llm, inference, hardware, systems]
 sources:
@@ -13,6 +13,7 @@ sources:
   - raw/x-bookmarks/26-08-12/2087493068735819924.md
   - raw/x-bookmarks/26-08-12/2087544650559025190.md
   - raw/x-bookmarks/26-08-13/2087983106972057602.md
+  - raw/conversations/spar-2026-10-27-dgx-spark-side-project.md
 confidence: medium
 ---
 
@@ -150,6 +151,10 @@ The durable correction is still valuable: once decode throughput becomes comfort
 4. Add speculative decoding only after the baseline is stable.
 5. Run the actual Hermes executor workload and compare accepted completed jobs—not synthetic tok/s alone.
 6. Add concurrency last; stop when tail latency or quality becomes operationally worse than cloud overflow.
+
+## Lyle's side-project idea (2026-10-27)
+
+Lyle wants a DGX Spark mostly for fun, not business need. Like John Lennon writing a song to pay for his pool. His idea: build something free and open source with a donate button. At about $20 each, 400 donors would be about $8K, enough to cover a roughly $7K machine after taxes. Still open: what he'd build for fun even with no donations. ^[raw/conversations/spar-2026-10-27-dgx-spark-side-project.md]
 
 ## Related
 
