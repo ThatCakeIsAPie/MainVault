@@ -53,6 +53,19 @@
 - Full cabinet: about $2.39M, or $2.48M with UPS
 - Not included: management switch ($500–$1,500 est.), pumps/piping/install ($5k–$15k est.), barn 3-phase electrical service
 
+### Reference build: Stephen Ronan's solar DGX Stations
+
+Stephen J Ronan MD ([@SJRonanMD](https://x.com/SJRonanMD)) — [lab post](https://x.com/SJRonanMD/status/2109450102683451745), [benchmark post](https://x.com/i/status/2108324629819576561).
+
+- Hardware: 2× NVIDIA DGX Station GB300, each with one added RTX PRO 6000 inside
+- Model: DeepSeek V4.1 Flash, official weights (8-bit with 4-bit expert layers, about 510GB)
+- Split: each Station's 252GB fast memory holds the most-used experts (285 of 384 per layer); the rest run on the added PRO 6000. Stations are not linked — each runs its own full copy
+- Software: open-source GB300 code with speculative decoding (guesses several words ahead)
+- Test: 8K tokens in, 1K out; accuracy 98–99%
+- Results: about 5,800 tok/s total across 64 requests; about 450 tok/s on a single request
+- Power: about 120 solar panels plus a large battery bank
+- Comparison: two plain Stations (no added card) get about 3,400 tok/s across 64 requests ([catid benchmarks](https://github.com/catid/dgx_station_benchmarks))
+
 ## AI Agent Capabilities
 - Always-on home security monitoring and response
 - Visitor verification and delegation to personal security
