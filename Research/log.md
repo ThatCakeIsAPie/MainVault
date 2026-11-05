@@ -1,7 +1,11 @@
 # Wiki Log
 
 > Chronological record of all wiki actions. Append-only.
-> Format: `## [YYYY-MM-DD] action | subject`
+> Format: `## [2026-11-04] ingest | Spar DGX Spark VXE infra
+- Raw: [[raw/conversations/spar-2026-11-04-dgx-spark-vxe-infra]] (sha256 `f8a161d86ebea4cc74c37f6f00866e7cb3a4d14a937501362316bed8c1e99314`)
+- Updated: [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] (Lyle's take: Spark as VXE infra, cost-curve driver)
+
+## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 

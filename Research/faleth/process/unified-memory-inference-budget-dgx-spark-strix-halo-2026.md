@@ -1,7 +1,7 @@
 ---
 title: Unified-Memory Inference Budget — DGX Spark, RTX Spark, and Strix Halo
 created: 2026-07-30
-updated: 2026-10-29
+updated: 2026-11-04
 type: principle
 tags: [ai, llm, inference, hardware, systems]
 sources:
@@ -14,6 +14,7 @@ sources:
   - raw/x-bookmarks/26-08-12/2087544650559025190.md
   - raw/x-bookmarks/26-08-13/2087983106972057602.md
   - raw/conversations/spar-2026-10-27-dgx-spark-side-project.md
+  - raw/conversations/spar-2026-11-04-dgx-spark-vxe-infra.md
 confidence: medium
 ---
 
@@ -155,6 +156,26 @@ The durable correction is still valuable: once decode throughput becomes comfort
 ## Lyle's side-project idea (2026-10-27)
 
 Lyle wants a DGX Spark mostly for fun, not business need. Like John Lennon writing a song to pay for his pool. His idea: build something free and open source with a donate button. At about $20 each, 400 donors would be about $8K, enough to cover a roughly $7K machine after taxes. Still open: what he'd build for fun even with no donations. ^[raw/conversations/spar-2026-10-27-dgx-spark-side-project.md]
+
+## Lyle's take — Spark as VXE infra (2026-11-04)
+These are Lyle's conclusions, not outside facts. ^[raw/conversations/spar-2026-11-04-dgx-spark-vxe-infra.md]
+
+- **From idea to buy plan.** Once VXE gets paid, he may buy 1–2 Sparks to run open-weight models like DeepSeek.
+- **Why: cost, not overnight loops.** Subs run about $300/mo now and are heading to $400–600. At about $600/mo, a Spark pays for itself in 1–2 years.
+- **Target stack.**
+  - Cut subs to about $50/mo ($30 X + $20 Claude).
+  - Opus plans and reviews. DeepSeek on the Sparks does the work.
+  - Hermes is the main workhorse. Grok Bot stays for what it does best.
+  - Sparks may replace Grok Bot's virtual computer, maybe via a VM. ARM, not x86, so check tools.
+- **Workload.** VXE coding and apps that need many changes. A job queue that starts the next job when one ends. About 40 tok/s quantized is "plenty."
+- **Prices seen that day.**
+  - NVIDIA 128GB: $6,950, out of stock (launched at $3,999).
+  - eBay: new about $7,700, used from about $6,750.
+  - 64GB partner models: from $4,999.
+  - Rent: about $0.79/hr.
+- **Open question.** What flips "makes sense" to "do it": a cash amount, or the sub bill crossing a line?
+
+See also [[business/vxe/government-contracting-first-principles]] for the VXE revenue side.
 
 ## Related
 
