@@ -19,10 +19,10 @@
   - Short / medium / long distance mobility covered
 
 ## Central Compute System (The Brain)
-- **Dual-rack architecture**:
-  - **AI Rack**: 8× B200-class GPUs (or future equivalents) for heavy LLM/agent workloads and high-intelligence tasks
-  - **General Compute Rack**: 8× RTX 5090-class GPUs for rendering, simulations, gaming, and general workloads
-- High-speed networking between racks and throughout the property
+- **One 8× RTX PRO 6000 (96GB) rack** that does double duty: run agents and LLMs, or pause the agents and use the cards for local cloud gaming with friends and family. Expand later by adding more racks. This beats the old plan of an 8× B200 AI rack plus an 8× RTX 5090 general rack.
+- Lives in a small workshop barn on the compound — full of machines of all kinds, and also houses the personal compound server. Needs 240V power and a sealed, filtered server corner because of shop dust.
+- Rough build (Nov 4, 2026): about $228k as a dual EPYC 9655 server with 1.5TB RAM, 768GB of GPU memory, and about 6kW draw.
+- High-speed networking throughout the property
 - Permanent RAG/memory system for the AI (not limited by context windows)
 - Can run multiple models or multiple instances of the same model simultaneously
 
