@@ -5,6 +5,11 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-06] ingest | Lyle take on 0xSero value/money mindset
+- Raw: [[raw/conversations/lyle-note-2026-11-06-0xsero-value-money-mindset]] (sha256 `6e79a2be13a49e82bf0b0d44f129a9a40b4971b115c55e70c16103c731175d9e`)
+- Linked from: [[raw/transcripts/lyle-x-share-2118522165238858001]] (Later note appended; original sha256 unchanged)
+- Updated: [[offshoots/networking-and-connection-skills]] (Lyle's take: value framing + money mindset — rooms invite/pay you)
+
 ## [2026-11-06] ingest | 0xSero paid-to-be-in-the-room hotel/CEO post (2118522165238858001)
 - Raw: [[raw/transcripts/lyle-x-share-2118522165238858001]] (sha256 `107eeb5c8de059e56a54e260946f653927eab3a7f120100b4f7805767ffca952`)
 - Media: 1 JPG (Golden Gate dusk) → `raw/assets/x/2118522165238858001/`
