@@ -1,13 +1,20 @@
 # Wiki Log
 
 > Chronological record of all wiki actions. Append-only.
-> Format: `## [2026-11-04] ingest | Spar DGX Spark VXE infra
-- Raw: [[raw/conversations/spar-2026-11-04-dgx-spark-vxe-infra]] (sha256 `f8a161d86ebea4cc74c37f6f00866e7cb3a4d14a937501362316bed8c1e99314`)
-- Updated: [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] (Lyle's take: Spark as VXE infra, cost-curve driver)
-
-## [YYYY-MM-DD] action | subject`
+> Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
+
+## [2026-11-06] ingest | 0xSero paid-to-be-in-the-room hotel/CEO post (2118522165238858001)
+- Raw: [[raw/transcripts/lyle-x-share-2118522165238858001]] (sha256 `107eeb5c8de059e56a54e260946f653927eab3a7f120100b4f7805767ffca952`)
+- Media: 1 JPG (Golden Gate dusk) → `raw/assets/x/2118522165238858001/`
+- Distilled: raw-only (single ambient anecdote; loosely fits value-first networking / move-first, no new mechanism; no Lyle take)
+- Fixed: log header — Nov 4 Spar entry split out of the Format line
+- Shares log updated
+
+## [2026-11-04] ingest | Spar DGX Spark VXE infra
+- Raw: [[raw/conversations/spar-2026-11-04-dgx-spark-vxe-infra]] (sha256 `f8a161d86ebea4cc74c37f6f00866e7cb3a4d14a937501362316bed8c1e99314`)
+- Updated: [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] (Lyle's take: Spark as VXE infra, cost-curve driver)
 
 ## [2026-10-29] ingest | DeepSeek government contracting primer
 - Raw: [[raw/conversations/deepseek-government-contracting-first-principles-2026-10-29]] (sha256 `e17d22605bc0a1912b1222f9b810a2c0ce46411c8bcafe851131ea3d5a3aee8b`)
