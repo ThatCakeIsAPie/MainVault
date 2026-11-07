@@ -1,7 +1,79 @@
 # Wiki Log
 
 > Chronological record of all wiki actions. Append-only.
-> Format: `## [2026-10-10] ingest | Jay Yang quotes "Steve Jobs" on not competing (2108165794467074118)
+> Format: `## [YYYY-MM-DD] action | subject`
+> Actions: ingest, update, query, lint, create, archive, delete
+> When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
+
+## [2026-11-06] ingest | Lyle take on 0xSero value/money mindset
+- Raw: [[raw/conversations/lyle-note-2026-11-06-0xsero-value-money-mindset]] (sha256 `6e79a2be13a49e82bf0b0d44f129a9a40b4971b115c55e70c16103c731175d9e`)
+- Linked from: [[raw/transcripts/lyle-x-share-2118522165238858001]] (Later note appended; original sha256 unchanged)
+- Updated: [[offshoots/networking-and-connection-skills]] (Lyle's take: value framing + money mindset — rooms invite/pay you)
+
+## [2026-11-06] ingest | 0xSero paid-to-be-in-the-room hotel/CEO post (2118522165238858001)
+- Raw: [[raw/transcripts/lyle-x-share-2118522165238858001]] (sha256 `107eeb5c8de059e56a54e260946f653927eab3a7f120100b4f7805767ffca952`)
+- Media: 1 JPG (Golden Gate dusk) → `raw/assets/x/2118522165238858001/`
+- Distilled: raw-only (single ambient anecdote; loosely fits value-first networking / move-first, no new mechanism; no Lyle take)
+- Fixed: log header — Nov 4 Spar entry split out of the Format line
+- Shares log updated
+
+## [2026-11-04] ingest | Spar DGX Spark VXE infra
+- Raw: [[raw/conversations/spar-2026-11-04-dgx-spark-vxe-infra]] (sha256 `f8a161d86ebea4cc74c37f6f00866e7cb3a4d14a937501362316bed8c1e99314`)
+- Updated: [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] (Lyle's take: Spark as VXE infra, cost-curve driver)
+
+## [2026-10-29] ingest | DeepSeek government contracting primer
+- Raw: [[raw/conversations/deepseek-government-contracting-first-principles-2026-10-29]] (sha256 `e17d22605bc0a1912b1222f9b810a2c0ce46411c8bcafe851131ea3d5a3aee8b`)
+- Created: [[business/vxe/government-contracting-first-principles]] (verbatim, per Lyle)
+- Updated: [[offshoots/marketing-first-principles]] (backlink to companion piece)
+
+## [2026-10-29] ingest | DeepSeek marketing primer; Spar: DGX Spark side project; Spar: Matthew 5:13 salt
+- Raw: [[raw/conversations/deepseek-marketing-first-principles-2026-10-29]] (sha256 `90c5e99283ecd6a4f3607551e92eb11e4b285b3277f09274dce7fd2e80111622`)
+- Created: [[offshoots/marketing-first-principles]] (verbatim, per Lyle)
+- Raw: [[raw/conversations/spar-2026-10-27-dgx-spark-side-project]] (sha256 `c1ed54bca66f6dd939a9724a8268ad694add5eb87f2c26292cf35a21daf01f8f`)
+- Updated: [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] (side-project idea)
+- Raw: [[raw/conversations/spar-2026-10-28-matthew-5-13-salt]] (sha256 `5e830011e1cdc6a18c0e342210de04bd5c6ab67cb70223e886af87b549bbadd1`); raw-only, no fitting scripture page yet
+
+## [2026-10-28] ingest | Alex Hormozi / Acquisitioncom — "Networking Will Make You Millions... If You Do it Right" (YuQ8ve1Amto)
+- Raw: [[raw/transcripts/youtube-YuQ8ve1Amto-2026-10-28]]
+- sha256: `226bdcb85b88e38dce86eb59f81ef10d84bc3808957666a42151364c5218de88`
+- Lyle: "Starting to see a pattern in what im recognizing"
+- Created: [[offshoots/move-first-and-over-deliver]] (hypothesis; Fried two tokens + Lyle's angry-boat take + this video)
+- Updated: [[offshoots/networking-and-connection-skills]], [[entities/alex-hormozi]]
+
+## [2026-10-28] update | Lyle's take on the two tokens
+- Raw: [[raw/conversations/lyle-note-2026-10-28-two-tokens]]
+- sha256: `c2729e8cf07077c2593ed64f724fcd0d9113cafede031db6c957e2e5f62a59f0`
+- Updated: [[faleth/process/customer-success-as-post-sale-proof-and-network-curation-2026]] — Lyle's take (general people skill; Hormozi "angry boat", Lyle's recollection)
+- Fixed: log header — Oct 18 prescription entry split out of the Format line
+
+## [2026-10-28] ingest | Jason Fried — "No big deal or the end of the world?" (HEY World)
+- Raw: [[raw/articles/jason-fried-no-big-deal-or-the-end-of-the-world-2026-10-28]]
+- sha256: `84cc5363b0f273b5af82da8297d4c52798deb989f23d98a1b5bce295a86f50b4`
+- Lyle: "Love this!"
+- Updated: [[faleth/process/customer-success-as-post-sale-proof-and-network-curation-2026]] — added two-tokens line with provenance
+- Distilled: no new page (single source; folded into existing customer-success page)
+
+## [2026-10-26] ingest | NVIDIA releases MotionBricks weights on Hugging Face, via @alvarobartt (2114720297584574829)
+- Raw: [[raw/transcripts/lyle-x-share-2114720297584574829]]
+- sha256: `ed1dac91b1a4cc5406b8873a189e36ae4b595101ab3425e223612e18c2160e81`
+- Media: 42s video (640×360) + preview frame → `raw/assets/x/2114720297584574829/`
+- Linked: HF model card facts (license, SOMA/G1 families) recorded in raw as a separate section
+- Updated: [[faleth/bridge-strategy/game-finish-bridge-2026]] — added "Tooling leads" line (Lyle: may be useful for his game)
+- Distilled: raw-only (single source; no existing motion-generation page)
+- Shares log updated
+
+## [2026-10-21] ingest | Eric Alper shares "executive dysfunction life hack" Tumblr screenshot (2112797285042016733)
+- Raw: [[raw/transcripts/lyle-x-share-2112797285042016733]]
+- sha256: `e23e6e0c7c599e438ff4c05b03c066ecb22db0b34dd8a1651f5e1026bbff685c`
+- Media: 1 JPG → `raw/assets/x/2112797285042016733/`
+- Distilled: raw-only (single ambient share; no existing executive-function/procrastination page)
+- Shares log updated
+
+## [2026-10-18] create | Eyeglass prescription
+- Page: [[personal/eyeglass-prescription]]
+- Scan: `raw/assets/personal/eyeglass-rx-2026-10-12.jpg`
+
+## [2026-10-10] ingest | Jay Yang quotes "Steve Jobs" on not competing (2108165794467074118)
 - Raw: [[raw/transcripts/lyle-x-share-2108165794467074118]]
 - sha256: `0c801047d6854ae3a97875f524bdb80fc8e0162458c6ad46006c883d41b8e0bf`
 - Distilled: raw-only (single text share; quote attribution unverified)
@@ -13,10 +85,6 @@
 - Distilled: raw-only (single ambient share; no existing DHH/Björk/maker-audience page)
 - Quotes: @ben_issen / Björk interview macros
 - Shares log updated
-
-## [YYYY-MM-DD] action | subject`
-> Actions: ingest, update, query, lint, create, archive, delete
-> When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
 ## [2026-09-29] ingest | Neville Medhora (@nevmed) protein ROI food visuals
 - Raw: [[raw/transcripts/lyle-x-share-2104930468508356995]]

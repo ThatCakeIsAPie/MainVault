@@ -53,6 +53,8 @@
 - [[offshoots/long-term-alignment-through-reinvestment]] — Participants should have incentives to reinvest and act in the long-term interest of the organization.
 - [[offshoots/master-once-then-duplicate]] — True scale comes from mastering a skillset once and then teaching others to do it.
 - [[offshoots/mentorship-compression-through-proven-paths]] — The fastest way to reduce avoidable mistakes is to learn from someone who has already walked the path.
+- [[offshoots/marketing-first-principles]] — DeepSeek primer Lyle saved word for word: seven walls between buyer and seller, value > price + effort + risk.
+- [[offshoots/move-first-and-over-deliver]] — Hypothesis: move first and over-deliver (take their problem more seriously, give before asked) and others mirror the frame.
 - [[offshoots/networking-and-connection-skills]] — Networking and genuine connection are learnable, teachable skills rather than innate talents.
 - [[offshoots/persistent-consistent-action]] — Long-term success requires persistent, consistent daily action over an extended period.
 - [[offshoots/pipeline-abundance-through-repetition]] — Confidence in people work comes from having enough people in process that no single prospect carries emotional weight.
@@ -107,6 +109,7 @@
 
 ## VXE / GovCon ops
 
+- [[business/vxe/government-contracting-first-principles]] — DeepSeek primer Lyle saved word for word: the government buys the best *defensible* deal; seven walls; a zero anywhere loses the award.
 - [[business/vxe/open-todos]] — Living VXE working list (pricing, solicitation follow-up, SAR-objection responses).
 - [[business/vxe/piee-solicitation-email-notifications-after-proposal-manager-activation]] — After admin activates Proposal Manager (SOL): confirm Active, SOL POC emails, Outlook routing, acceptance test; no BOT/RPA scrape by default.
 - [[business/vxe/full-time-transition-research-2026]] — Five-path facility and income transition research (June 2026).
@@ -134,6 +137,7 @@
 
 ## Personal vision
 
+- [[personal/eyeglass-prescription]] — Current eyeglass Rx (exam 2026-10-12, expires 2028-10-12).
 - [[Personal/Dream Compound Vision]] — Long-term sovereign compound: remote businesses, family presence, advanced manufacturing and AI “brain” (dream-building, not church sermon).
 
 ## Comparisons

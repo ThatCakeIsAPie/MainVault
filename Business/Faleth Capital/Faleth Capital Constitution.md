@@ -1,7 +1,7 @@
 # The Constitution of Faleth Capital
 
 *An evergreen holding company built on ownership, aligned incentives, and human freedom.*
-*Open Document · Version 2.3*
+*Open Document · Version 2.4*
 
 ---
 
@@ -57,7 +57,7 @@ It is deliberately thin. The office is a governing body over a pool of capital, 
 
 ## 2.2 — Subsidiaries
 
-Each subsidiary is owned by Faleth Capital and run by its own people. They operate as though independent — full autonomy over hiring, pricing, strategy, and culture — subject to four requirements: compensate under the Contribution Framework rather than with wages or salaries, pay the office fee, report financials quarterly, and make Class B shares available to everyone who participates.
+Each subsidiary is owned by Faleth Capital and run by its own people. They operate as though independent — full autonomy over hiring, pricing, strategy, and culture — subject to four requirements: compensate under the Contribution Framework rather than with wages or salaries, pay the office fee, report financials quarterly, and make Class B shares available to everyone who participates. A business the office acquires takes these on as it transitions rather than on the day it's bought: they apply department by department and in full once integration is complete ([[#Article VI: Acquisitions|Article VI]]).
 
 Beyond that, each governs itself. The office supplies capital, mentorship, and whatever the collective knowledge of its members is worth, and imposes nothing operational. The people closest to the work know best how to do the work.
 
