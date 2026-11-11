@@ -1,7 +1,7 @@
 ---
 title: How LTD Amway Functions as a Leadership Incubator
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-11-11
 type: query
 tags: [business, leadership, network-marketing, framework]
 sources: [raw/processed-sources.md, Business/LTD Amway/Info Sessions/2026/2026-06-04 Tyler Sheridan.md, Business/LTD Amway/Info Sessions/2026/2026-05-28 Dale Jones.md]
@@ -25,7 +25,7 @@ confidence: high
 
 ## Why It Matters for Lyle
 
-For [[lyle-cole]], LTD Amway is not merely an income vehicle. It is a training arena for the kind of person and operator who can later build [[faleth-capital]] subsidiaries: coachable, persistent, relationship-capable, principled, and able to develop others.
+For [[lyle-cole]], LTD Amway is not merely an income vehicle. It is a training arena for the kind of person and operator who can later build [[faleth-capital]] subsidiaries: coachable, persistent, relationship-capable, principled, and able to develop others. Current Heroes plan: [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]].
 
 ## Watchout
 
@@ -37,3 +37,4 @@ The incubator should not become the whole mission by default. Its value is highe
 - [[tyler-sheridan]]
 - [[dale-jones]]
 - [[foundational/network-marketing-as-leadership-development-system]]
+- [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]]

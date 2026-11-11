@@ -5,6 +5,12 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-11] create | Heroes current plan (Amway/LTD team)
+- Created: [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]] — canonical Heroes brief (path, round-table loop, numbers, Faleth fit)
+- Supersedes: Monday/Thursday weekly OS in [[ltd-amway/playbooks/heroes-weekly-os.pptx]] (pptx left in place)
+- Updated pointers: network-growth OS, five-step sequencing model, ltd-amway, faleth-capital, and lyle-cole entities, Faleth vs LTD comparison, leadership-incubator query, index
+- Sources: Lyle's Nov 10–11 2026 conversation with Claude, plus numbers confirmed in chat Nov 11 2026
+
 ## [2026-11-10] ingest | prd_008 two tweets he thinks about (Collison, Pokrass) + Jobs poke-life reply (2119894036316398055)
 - Raw: [[raw/transcripts/lyle-x-share-2119894036316398055]] (sha256 `04998efa3e44fb66069dc2caedb37f4b5f4497ef06eaf5e6c4bafeccaf9ab1e5`)
 - Media: 2 JPGs (Collison + Pokrass screenshots) + 1 PNG (dermotmcg / Carl Pei Jobs quote) → `raw/assets/x/2119894036316398055/`

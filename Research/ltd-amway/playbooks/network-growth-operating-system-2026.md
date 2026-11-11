@@ -3,7 +3,7 @@ title: Network Growth Operating System (LTD/Amway)
 type: playbook
 status: canonical-synthesis
 created: 2026-08-17
-updated: 2026-09-03
+updated: 2026-11-11
 business: LTD / Amway
 tags: [ltd, amway, network-marketing, recruiting, retention, duplication, rank, systems]
 confidence: high
@@ -12,6 +12,8 @@ confidence: high
 # Network Growth Operating System (LTD/Amway)
 
 Actionable synthesis of best practices for growing a network marketing business, drawn from Lyle's LTD notes, field math models, conference distillates, and Research-layer industry context. Platform = Amway. Leadership environment = LTD. This document is an operating system, not a pep talk.
+
+The Heroes team's weekly loop is now a round table, not the older Monday practice / Thursday system-night rhythm. Current plan: [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]]. The prior weekly OS is preserved in [[ltd-amway/playbooks/heroes-weekly-os.pptx]] and is superseded by that note. The field models below (scoreboard, engines, ratios) still stand as planning heuristics.
 
 ## Current-season guardrail
 
@@ -35,6 +37,7 @@ Links: [[Business/LTD Amway/Platinum 7500PV Activity Math]], [[Business/LTD Amwa
 
 | Domain | Playbook | Job |
 |---|---|---|
+| Heroes current plan | [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]] | Team path, weekly loop, numbers, and Faleth fit (Nov 11, 2026) |
 | Recruiting / pipeline | [[ltd-amway/playbooks/recruiting-and-pipeline-playbook]] | Find hunger; fill the pipe; book and run MG1s |
 | Retention / onboarding | [[ltd-amway/playbooks/retention-and-first-90-days-playbook]] | Keep builders; create early wins and skin in the game |
 | Leadership duplication | [[ltd-amway/playbooks/leadership-duplication-playbook]] | Train yourself out of a job; depth systems |

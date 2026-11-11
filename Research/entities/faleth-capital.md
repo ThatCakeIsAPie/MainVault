@@ -1,7 +1,7 @@
 ---
 title: Faleth Capital
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-11-11
 type: entity
 tags: [company, business, philosophy, governance]
 sources: [raw/transcripts/claude-memory-2026-05-16.md, Business/Faleth Capital/The Contribution Framework.md, Business/Faleth Capital/The Equity Framework.md, Business/Faleth Capital/The Governance Framework.md]
@@ -25,7 +25,7 @@ Faleth treats business as a discipleship and economic-governance vehicle, not me
 
 ## Relationship to Lyle's Sequencing
 
-Faleth is downstream of the current sequencing model. The practical path runs through active-income acceleration, [[ltd-amway]] leadership development, and then subsidiaries that can be plugged into the Faleth structure.
+Faleth is downstream of the current sequencing model. The practical path runs through active-income acceleration, [[ltd-amway]] leadership development, and then subsidiaries that can be plugged into the Faleth structure. Lyle's Amway team, Heroes, is the current dojo for that leadership step; the team goal of 20 people at $5,000 a month ($1.2M ARR) is how it is meant to feed step four, starting a subsidiary. Current plan: [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]].
 
 ## Related
 

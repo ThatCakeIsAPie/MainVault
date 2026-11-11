@@ -1,7 +1,7 @@
 ---
 title: Lyle Cole
 created: 2026-05-16
-updated: 2026-07-30
+updated: 2026-11-11
 type: entity
 tags: [person, founder, business]
 sources:
@@ -37,7 +37,7 @@ Entrepreneur building [[faleth-capital]] — a family-office and holding-company
 
 - **[[faleth-capital]]** — family-office/holding-company philosophy, contribution architecture, and future portfolio system
 - **VXE / government contracts** — current primary operating focus with brother; opportunity selection, sourcing, proposals, vendor coordination, and fulfillment
-- **[[ltd-amway]]** — leadership formation and community; intentionally sequenced beneath VXE in the current season
+- **[[ltd-amway]]** — leadership formation and community; intentionally sequenced beneath VXE in the current season. Team name: Heroes. Current plan: [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]]
 - **Free Range Repair** — historical operating experience from the rebranded mobile/house-call electronics repair business; no longer being pursued (confirmed 2026-07-30)
 - **Delta/Hermes** — personal AI operating system spanning Telegram, voice, GBrain, Honcho, Obsidian, terminal tools, cron, and delegated agents
 

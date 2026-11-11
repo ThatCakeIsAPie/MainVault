@@ -2,7 +2,7 @@
 title: LTD Amway
 type: entity
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-11-11
 tags: [company, business, network-marketing, leadership]
 sources: [Business/LTD Amway/Info Sessions/2026/2026-06-04 Tyler Sheridan.md, raw/processed-sources.md]
 confidence: high
@@ -31,6 +31,10 @@ The most important synthesis so far is [[foundational/network-marketing-as-leade
 ## Relationship to Faleth
 
 For Lyle, LTD Amway currently functions as a leadership incubator and practical character-development arena that can feed the larger [[faleth-capital]] architecture rather than competing with it.
+
+## Heroes
+
+Heroes is the name of Lyle's Amway/LTD team. Current plan: [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]].
 
 ## Governance boundary
 

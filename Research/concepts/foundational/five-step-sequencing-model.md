@@ -1,7 +1,7 @@
 ---
 title: Five-Step Sequencing Model
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-11-11
 type: concept
 tags: [business, strategy, framework, mental-model]
 sources: [raw/transcripts/claude-memory-2026-05-16.md]
@@ -27,6 +27,10 @@ Pursuing all major commitments at once fragments attention too severely. The seq
 ## Relationship to Faleth Capital
 
 The sequencing model is the execution strategy for the [[foundational/faleth-capital-economic-philosophy]]. Each step builds the capital and capability base needed for the next. Network marketing sits in the middle as both income stream and leadership development pipeline — confirmed at Spring Forward 2026 LTD conference as the structural spine of the Faleth model.
+
+## How Heroes fits
+
+Lyle's Amway team, Heroes, is the current dojo for the network-marketing step. The team goal is 20 people each doing $5,000 a month ($1.2M ARR). That is how the dojo is meant to feed step four, starting a Faleth subsidiary. Current plan: [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]].
 
 ## Related
 

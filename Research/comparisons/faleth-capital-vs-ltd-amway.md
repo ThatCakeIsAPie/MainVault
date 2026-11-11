@@ -1,7 +1,7 @@
 ---
 title: Faleth Capital vs LTD Amway
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-11-11
 type: comparison
 tags: [business, comparison, strategy, leadership]
 sources: [raw/transcripts/claude-memory-2026-05-16.md, raw/processed-sources.md, Business/LTD Amway/Info Sessions/2026/2026-06-04 Tyler Sheridan.md]
@@ -30,7 +30,7 @@ Faleth, in turn, gives LTD Amway a broader strategic destination: the leadership
 
 ## Practical Implication
 
-The correct question is not "Which one wins?" but "What job does each system do?" LTD Amway develops the person and team-building muscle. Faleth Capital gives that developed capacity a long-term institutional container.
+The correct question is not "Which one wins?" but "What job does each system do?" LTD Amway develops the person and team-building muscle. Faleth Capital gives that developed capacity a long-term institutional container. Current Heroes plan: [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]].
 
 ## Related
 

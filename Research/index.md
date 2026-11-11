@@ -127,6 +127,7 @@
 
 ## LTD / Amway operating playbooks (2026-08-17)
 
+- [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]] — Current Heroes team plan (path, loop, numbers, Faleth fit). Supersedes the Monday/Thursday weekly OS in [[ltd-amway/playbooks/heroes-weekly-os.pptx]].
 - [[ltd-amway/playbooks/network-growth-operating-system-2026]] — Canonical network-growth OS: engines, ratios, scoreboard, compliance, season guardrail.
 - [[ltd-amway/playbooks/recruiting-and-pipeline-playbook]] — Conversations → opens → MG1s → sponsors; hunger filter; funnel diagnostics.
 - [[ltd-amway/playbooks/retention-and-first-90-days-playbook]] — Onboarding, early proof, skin-in-the-game, customer lifetime value.
