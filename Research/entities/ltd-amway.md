@@ -35,6 +35,7 @@ For Lyle, LTD Amway currently functions as a leadership incubator and practical 
 ## Heroes
 
 Heroes is the name of Lyle's Amway/LTD team. It is a side business with five phases, not a step in Faleth's plan. Current plan: [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]].
+Customer journey (steps I–V): [[ltd-amway/playbooks/heroes-customer-journey-2026-11-11]].
 
 ## Governance boundary
 

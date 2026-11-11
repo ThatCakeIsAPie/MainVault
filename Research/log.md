@@ -5,6 +5,12 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-11] create | Heroes customer journey
+- Created: [[ltd-amway/playbooks/heroes-customer-journey-2026-11-11]] — customer-side steps I–V, three-question frame, rules, CRM fields, and printed-piece status
+- These steps are the customer side of Heroes, separate from Heroes team Phases 1–5 and from Faleth's five steps
+- Linked from: current Heroes plan, ltd-amway entity, index
+- Source: Lyle's Nov 11, 2026 conversation with Claude
+
 ## [2026-11-11] update | Heroes / Faleth relationship and terminology
 - Heroes uses five phases (not steps); Faleth keeps five steps. The two do not line up.
 - Heroes is the side business; Faleth is the primary day job. Class B shares are earned through Faleth work, not as Heroes side work. Starting a subsidiary is Faleth step 4, after Heroes Phase 5 plus significant Class B savings — not Heroes Phase 4.
