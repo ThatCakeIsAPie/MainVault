@@ -55,6 +55,7 @@
 - [[offshoots/mentorship-compression-through-proven-paths]] — The fastest way to reduce avoidable mistakes is to learn from someone who has already walked the path.
 - [[offshoots/marketing-first-principles]] — DeepSeek primer Lyle saved word for word: seven walls between buyer and seller, value > price + effort + risk.
 - [[offshoots/move-first-and-over-deliver]] — Hypothesis: move first and over-deliver (take their problem more seriously, give before asked) and others mirror the frame.
+- [[offshoots/the-made-world-and-the-will-to-ship]] — The world is made by people, shipping is a low-entropy fight, and you can poke life and change it. Lyle loves these quotes.
 - [[offshoots/networking-and-connection-skills]] — Networking and genuine connection are learnable, teachable skills rather than innate talents.
 - [[offshoots/persistent-consistent-action]] — Long-term success requires persistent, consistent daily action over an extended period.
 - [[offshoots/pipeline-abundance-through-repetition]] — Confidence in people work comes from having enough people in process that no single prospect carries emotional weight.

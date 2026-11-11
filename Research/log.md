@@ -5,6 +5,16 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-10] ingest | prd_008 two tweets he thinks about (Collison, Pokrass) + Jobs poke-life reply (2119894036316398055)
+- Raw: [[raw/transcripts/lyle-x-share-2119894036316398055]] (sha256 `04998efa3e44fb66069dc2caedb37f4b5f4497ef06eaf5e6c4bafeccaf9ab1e5`)
+- Media: 2 JPGs (Collison + Pokrass screenshots) + 1 PNG (dermotmcg / Carl Pei Jobs quote) → `raw/assets/x/2119894036316398055/`
+- Lyle's take: he loves these quotes
+- First chronological reply: @LilianDelaveau (2119916857058820586) — not a Jobs quote; captured in the raw file
+- Jobs-quote reply: @dermotmcg (2120021881730564382) screenshot of @getpeid 1725216791323164962
+- Created: [[offshoots/the-made-world-and-the-will-to-ship]]
+- Why: Lyle loves the quotes; two sources in the post (Collison, Pokrass) plus a thematically matching Jobs-attributed line from a reply. No existing quotes/Steve Jobs page; main quotes are not Jobs, so not filed as one.
+- Shares log + index updated
+
 ## [2026-11-06] ingest | Lyle take on 0xSero value/money mindset
 - Raw: [[raw/conversations/lyle-note-2026-11-06-0xsero-value-money-mindset]] (sha256 `6e79a2be13a49e82bf0b0d44f129a9a40b4971b115c55e70c16103c731175d9e`)
 - Linked from: [[raw/transcripts/lyle-x-share-2118522165238858001]] (Later note appended; original sha256 unchanged)
