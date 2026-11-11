@@ -37,7 +37,7 @@ Links: [[Business/LTD Amway/Platinum 7500PV Activity Math]], [[Business/LTD Amwa
 
 | Domain | Playbook | Job |
 |---|---|---|
-| Heroes current plan | [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]] | Team path, weekly loop, numbers, and Faleth fit (Nov 11, 2026) |
+| Heroes current plan | [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]] | Team phases, weekly loop, numbers, and how it relates to Faleth (Nov 11, 2026) |
 | Recruiting / pipeline | [[ltd-amway/playbooks/recruiting-and-pipeline-playbook]] | Find hunger; fill the pipe; book and run MG1s |
 | Retention / onboarding | [[ltd-amway/playbooks/retention-and-first-90-days-playbook]] | Keep builders; create early wins and skin in the game |
 | Leadership duplication | [[ltd-amway/playbooks/leadership-duplication-playbook]] | Train yourself out of a job; depth systems |

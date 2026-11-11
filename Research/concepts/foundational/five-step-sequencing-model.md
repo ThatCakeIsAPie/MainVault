@@ -30,7 +30,7 @@ The sequencing model is the execution strategy for the [[foundational/faleth-cap
 
 ## How Heroes fits
 
-Lyle's Amway team, Heroes, is the current dojo for the network-marketing step. The team goal is 20 people each doing $5,000 a month ($1.2M ARR). That is how the dojo is meant to feed step four, starting a Faleth subsidiary. Current plan: [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]].
+Heroes is Lyle's Amway team. Its five phases are a separate system and do not line up with these five steps. Intended behavior, not a requirement: Heroes stays a side business while someone's primary day job is inside Faleth. By Phase 5, they should also have significant Class B shares saved up from that Faleth work, which is when they could start a subsidiary and move to step 4. The two systems run independently, but internally they are designed to work together. Current plan: [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]].
 
 ## Related
 

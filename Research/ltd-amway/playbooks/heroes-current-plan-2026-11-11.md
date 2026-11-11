@@ -20,21 +20,21 @@ Heroes is Lyle's Amway (LTD system) team. The name comes from the hero's journey
 
 ## Why it exists
 
-Amway is Lyle's leadership dojo and a bridge, not the end goal. The long-term container is [[faleth-capital|Faleth Capital]], an evergreen holding company that produces owners, not employees. Heroes is one step in Faleth's [[concepts/foundational/five-step-sequencing-model|5-step plan]]. The dojo plus Faleth together make people bulletproof for step four, starting their own subsidiary.
+Amway is Lyle's leadership dojo and a bridge, not the end goal. The long-term container is [[faleth-capital|Faleth Capital]], an evergreen holding company that produces owners, not employees.
+
+Heroes is the side business. It is not a step in Faleth's [[concepts/foundational/five-step-sequencing-model|5-step plan]], and these five phases do not line up with Faleth's five steps. The two systems run independently, and anyone can do anything alongside either. Internally, they are designed to work together: from Faleth's view, someone's primary day job is inside Faleth Capital, and Heroes stays on the side. By the time someone hits Phase 5, they should also have a significant amount of Class B shares saved up from that Faleth day job. That's when they could start a subsidiary and move to Faleth step 4.
 
 ## The goal
 
 20 people each doing $5,000 a month in revenue. That's $100,000 a month, or $1.2M a year (over $1M ARR), which is about 23,000 PV, past Ruby. It's a real $1M+ business, not just a pin. At Ruby, personal income is roughly $10,000 a month, which feeds investments. This is a planning number, not an income claim.
 
-## The path (gates are revenue)
+## The phases (gates are revenue)
 
-1. **Begin:** order and use your own products. Read, listen to podcasts, spend time with the team and your mentor. This builds mindset and your own product story. (Field guide gate: your own product story.)
-2. **100 sit-downs,** face to face, before social media. Reps beat head knowledge. (Gate: 10 customers, about $1,000 a month.)
-3. **Social at scale,** once you know what sticks. Route business questions to your mentor. Sponsor people into the team instead of charging them: free for a year, and they only pay product cost. (Gate: $5,000 a month in revenue.)
-4. **Lead and start your own subsidiary.** Run your own meetings. (Gate: 5 people building their own base.)
-5. **Multiply** to about 20 builders. Goal: $100,000 a month as a team.
-
-Throughout, people work on their subsidiary and Faleth Class B share work on their own time.
+1. **Phase 1 — Begin:** order and use your own products. Read, listen to podcasts, spend time with the team and your mentor. This builds mindset and your own product story. (Field guide gate: your own product story.)
+2. **Phase 2 — 100 sit-downs,** face to face, before social media. Reps beat head knowledge. (Gate: 10 customers, about $1,000 a month.)
+3. **Phase 3 — Social at scale,** once you know what sticks. Route business questions to your mentor. Sponsor people into the team instead of charging them: free for a year, and they only pay product cost. (Gate: $5,000 a month in revenue.)
+4. **Phase 4 — Lead:** run your own meetings. (Gate: 5 people building their own base.)
+5. **Phase 5 — Multiply** to about 20 builders. Goal: $100,000 a month as a team.
 
 ## The weekly loop
 
@@ -78,7 +78,8 @@ No income claims, lifestyle hype, fake testimonials or invented results. The $ g
 
 - **Sheepdogs:** a badge for about 1,000 PV in personal customer sales.
 - **Stewards:** Faleth ownership-track people who still run network marketing somewhere, in a separate peer room, with no cross-recruiting of each other's lines (being customers of each other is fine).
-- Faleth stays out of Heroes plan meetings and invite scripts.
+- Keep non-Amway affiliate links separate from Faleth referral credits.
+- Faleth stays out of Heroes plan meetings and invite scripts. Lyle, as Faleth's founder, can still talk about Faleth himself.
 
 ## Tools
 

@@ -5,6 +5,12 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-11] update | Heroes / Faleth relationship and terminology
+- Heroes uses five phases (not steps); Faleth keeps five steps. The two do not line up.
+- Heroes is the side business; Faleth is the primary day job. Class B shares are earned through Faleth work, not as Heroes side work. Starting a subsidiary is Faleth step 4, after Heroes Phase 5 plus significant Class B savings — not Heroes Phase 4.
+- Heroes material does not call itself a Faleth step. Faleth material treats Heroes as intended behavior, not a requirement. The systems can run independently; internally they are designed to work together.
+- Updated: [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]], five-step sequencing model, faleth-capital, ltd-amway, lyle-cole, Faleth vs LTD comparison, index
+
 ## [2026-11-11] create | Heroes current plan (Amway/LTD team)
 - Created: [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]] — canonical Heroes brief (path, round-table loop, numbers, Faleth fit)
 - Supersedes: Monday/Thursday weekly OS in [[ltd-amway/playbooks/heroes-weekly-os.pptx]] (pptx left in place)

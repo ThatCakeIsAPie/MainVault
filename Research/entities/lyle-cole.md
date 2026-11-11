@@ -69,7 +69,7 @@ Entrepreneur building [[faleth-capital]] — a family-office and holding-company
 
 ## Sequencing Framework
 
-Currently executing the active-income/GovCon stage of the [[foundational/five-step-sequencing-model|Five-Step Sequencing Model]]. Earlier attempts to pursue all major ventures simultaneously fragmented attention; current strategy protects a primary seasonal focus while retaining other systems as prepared options.
+Currently executing the active-income/GovCon step of the [[foundational/five-step-sequencing-model|Five-Step Sequencing Model]]. Earlier attempts to pursue all major ventures simultaneously fragmented attention; current strategy protects a primary seasonal focus while retaining other systems as prepared options.
 
 ## Historical / Shelved / Secondary Projects
 

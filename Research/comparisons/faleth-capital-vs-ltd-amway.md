@@ -30,7 +30,7 @@ Faleth, in turn, gives LTD Amway a broader strategic destination: the leadership
 
 ## Practical Implication
 
-The correct question is not "Which one wins?" but "What job does each system do?" LTD Amway develops the person and team-building muscle. Faleth Capital gives that developed capacity a long-term institutional container. Current Heroes plan: [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]].
+The correct question is not "Which one wins?" but "What job does each system do?" LTD Amway develops the person and team-building muscle. Faleth Capital gives that developed capacity a long-term institutional container. Heroes and Faleth run independently; internally they are designed to work together, with Heroes as an intended side business, not a required Faleth step. Current Heroes plan: [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]].
 
 ## Related
 
