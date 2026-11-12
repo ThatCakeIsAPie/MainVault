@@ -129,6 +129,7 @@
 
 - [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]] — Current Heroes team plan (phases, loop, numbers, and how it relates to Faleth). Supersedes the Monday/Thursday weekly OS in [[ltd-amway/playbooks/heroes-weekly-os.pptx]].
 - [[ltd-amway/playbooks/heroes-customer-journey-2026-11-11]] — Heroes customer journey (steps I–V), separate from team phases and Faleth steps.
+- Heroes-side read on Faleth first subsidiary notes: [[ltd-amway/playbooks/heroes-side-read-faleth-first-subsidiary-2026-11-11]]
 - [[ltd-amway/playbooks/network-growth-operating-system-2026]] — Canonical network-growth OS: engines, ratios, scoreboard, compliance, season guardrail.
 - [[ltd-amway/playbooks/recruiting-and-pipeline-playbook]] — Conversations → opens → MG1s → sponsors; hunger filter; funnel diagnostics.
 - [[ltd-amway/playbooks/retention-and-first-90-days-playbook]] — Onboarding, early proof, skin-in-the-game, customer lifetime value.

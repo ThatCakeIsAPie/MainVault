@@ -1229,3 +1229,6 @@
 - 2026-09-15: Ingested Brainstorm Team CRM vs canon discrepancy dump → raw/documents/2026-09-15-brainstorm-crm-canon-discrepancies.md (+ CRM Iteration Inbox note).
 
 - 2026-09-15: Appended floor-advance frontend/accounting shape to brainstorm CRM discrepancy raw note.
+
+## [2026-11-11] Heroes-side read of Faleth first subsidiary notes
+- Added ltd-amway/playbooks/heroes-side-read-faleth-first-subsidiary-2026-11-11.md, linked to faleth/heroes-faleth-first-subsidiary-and-model-case-2026-11-11.md (not edited).
