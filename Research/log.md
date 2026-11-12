@@ -5,6 +5,15 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-12] ingest | travisk practical principles to counter a coup/psyop/struggle session (2119869150143091175)
+- Raw: [[raw/transcripts/lyle-x-share-2119869150143091175]] (sha256 `077cdf5269a6ff279ef63143b3bfdb8e5b7309c26efe00c0ddd9694302c95726`)
+- Media: none
+- Lyle's take: actually useful information for those situations; unfortunate when it happens, but there will always be people who want to take you down, so this is legitimately decent advice
+- Author follow-ups: Telegram vs Signal replies only (2119886845425369244, 2119887363484848456, 2119891561979035767); captured in the raw file
+- Created: [[offshoots/countering-a-coordinated-takedown]]
+- Why: Lyle called the advice central and useful; no existing struggle-session / coordinated-takedown page
+- Shares log + index updated
+
 ## [2026-11-11] create | Heroes customer journey
 - Created: [[ltd-amway/playbooks/heroes-customer-journey-2026-11-11]] — customer-side steps I–V, three-question frame, rules, CRM fields, and printed-piece status
 - These steps are the customer side of Heroes, separate from Heroes team Phases 1–5 and from Faleth's five steps

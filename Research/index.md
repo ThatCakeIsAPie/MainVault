@@ -41,6 +41,7 @@
 - [[offshoots/calendar-as-proof-of-priorities]] — A person's calendar reveals their real priorities more reliably than their stated intentions.
 - [[offshoots/character-assessment-through-fruit-inspection]] — Evaluate potential partners, mentors, and team members by observable fruit: results, character, lifestyle, and consistency.
 - [[offshoots/contribution-over-wage-compensation]] — Traditional wages and salaries break the direct connection between value created and reward received; better systems pay for contribution.
+- [[offshoots/countering-a-coordinated-takedown]] — Kalanick's twelve principles for a public pile-on or coordinated attempt to take you down. Lyle called it legitimately decent advice.
 - [[offshoots/earned-equity-through-contribution]] — Equity should be earned through contribution and reinvestment, not purchased with outside capital alone.
 - [[offshoots/environment-design-and-standards]] — Environment shapes behavior; deliberately choose people and culture that lift standards rather than lower them.
 - [[offshoots/factory-over-product-thinking]] — The highest-leverage builders focus less on the visible product and more on the factory that repeatedly produces products, teams, leaders, and capacity.
