@@ -176,6 +176,7 @@
 - [[faleth/process/llm-foundations-skill-stack-2026]] — CS229 foundations as future curriculum
 - [[faleth/process/agentic-loops-design-2026]] — Anthropic four loop types (prior + re-indexed)
 - [[faleth/process/hermes-cloud-and-x-mcp-2026]] — Hermes Cloud + hosted X MCP agent surface
+- [[faleth/process/listeningkit-log-hermes-social-inbox-2026]] — ListeningKit log as a maybe-fit Hermes social inbox plugin (Windows catalog entry; cookie/unofficial-API caveats)
 - [[faleth/process/local-model-ownership-agency-2026]] — Ownership agency of local weights vs API rental
 - [[faleth/process/refusal-vector-ablation-open-model-control-2026]] — Refusal-subspace intervention makes open-weight alignment inspectable and changeable, with capability, safety, and evaluation tradeoffs.
 - [[faleth/process/ai-as-sparring-partner-house-method-2026]] — Treat AI as fallible bounce partner (House method)

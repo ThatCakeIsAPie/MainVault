@@ -5,6 +5,16 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-12] ingest | matthewsoldit ListeningKit log + Hermes plugin (2120940613726265419)
+- Raw: [[raw/transcripts/lyle-x-share-2120940613726265419]] (sha256 `e79d47cebc6f7c1ebfe46801b494f7afa0598c7f5ade7f2c4dc5a8248c7e1a5a`)
+- Media: parent announcement video thumb + 3 promo frames + GitHub link card → `raw/assets/x/2120940613726265419/` (MP4 inspected, not stored)
+- Lyle's take: this looks very interesting; curious if it is useful for the Hermes setup
+- Parent announcement: 2120938715820474690; quotes Nous hackathon-close 2120715518243987685
+- Created: [[faleth/process/listeningkit-log-hermes-social-inbox-2026]]
+- Updated: [[faleth/process/hermes-cloud-and-x-mcp-2026]] (short pointer + maybe-fit)
+- Why: Lyle asked whether the tool fits the Hermes setup; a Windows catalog plugin already exists
+- Shares log + index updated
+
 ## [2026-11-12] ingest | travisk practical principles to counter a coup/psyop/struggle session (2119869150143091175)
 - Raw: [[raw/transcripts/lyle-x-share-2119869150143091175]] (sha256 `077cdf5269a6ff279ef63143b3bfdb8e5b7309c26efe00c0ddd9694302c95726`)
 - Media: none
