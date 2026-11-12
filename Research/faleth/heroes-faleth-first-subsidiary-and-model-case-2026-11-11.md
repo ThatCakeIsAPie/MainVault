@@ -81,10 +81,6 @@ Design choices:
 - Unfilled work pricing itself is quarterly calibration doing its job.
 - The override's clock matches the new-participant clock in the Acquisition Transition Framework.
 
-**Open questions (the canon doesn't answer these yet)**
-- **Seed money.** The Constitution says the office funds and owns a subsidiary. It doesn't say how a founder's own cash gets into the office. "Same terms as any investor" would mean an MCA, and MCAs aren't offered yet.
-- **Mentor.** Step 4 says an existing Class A member mentors the founder. The first subsidiary has nobody to do that.
-- **Floor as a draw.** Beyond the Wage calls the floor a credited soft advance, which matches. The Contribution Framework only says "guaranteed weekly minimum". "Only a new participant's floor is a grant" isn't written anywhere yet.
-- **Override gaming.** Someone could farm overrides on easy processes. Default expiry and the calibration vote cover most of this. Deciding whether one trainer can hold several overrides on the same process could close it.
-- **Referral program.** Contract manufacturing is B2B, so per the Marketing and Brand Framework the referral program doesn't apply to the first subsidiary.
-- **Hours.** The 40-hour cap in Financial Framework §7 applies from day one.
+**Also applies**
+- Contract manufacturing is B2B, so the referral program doesn't apply (Marketing and Brand Framework).
+- The 40-hour cap in Financial Framework §7 applies from day one.
