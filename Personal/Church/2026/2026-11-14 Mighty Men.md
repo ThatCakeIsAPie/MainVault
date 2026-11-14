@@ -72,6 +72,16 @@ When you know who God is, you know who you are. When you live with truth, you do
 When you know who you are, you develop conviction. When your faith is stronger than your circumstances, you are unshakable.
 God is saying to you "trust me"
 Just say "God, im going to trust you"
+God didn't call us to be fans or followers, He called us to be disciples.
+Jesus said "you will do greater things than I did"
+What we don't need is more people who just come here to fill a seat. This isn't a call-out, it is to spark a conviction.
+It isn't other people's jobs to develop people. It is so you can walk out God's purpose for you on the earth.
+The second part of your purpose is being a disciple of Christ. You aren't a true disciple until you have discipled other people.
+This is a room for leadership development
+*The number of people in this room is, the amount of people is the byproduct of the quality of the leadership.*
+He knows that if you sit in a small group with him, your life is going to change.
+There are a number of leaders who are still learning how to do this.
+If you are a team leader, how many people's lives were transformed as a result of being in your group? Are they telling a testimony of how God's worked in their life?
 
 James 2:17 is scripture of the week
 Question for your groups:
