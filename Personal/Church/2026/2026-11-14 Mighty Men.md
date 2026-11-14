@@ -51,4 +51,28 @@ If you are constantly bargaining with certainty, it will only get harder
 When you bargain with certainty, you keep diminishing your position as it gets harder, and eventually you are in shackles.
 *The other side is "i don't care if I fail" not to be arrogant, but because you know who God is and who you are.*
 If you aren't willing to go into the fire, you will back down.
-Resiliance is more than the ability to endure suf
+Resilience is more than the ability to endure suffering
+This isn't a SEAL discipleship program, not everyone is willing to pay that price, and it isn't always required either
+If you want to do anything in life, you are going to have to learn how to suffer. Life either gives you pain, or you choose to accept it.
+True resilience is the ability to trust God in the fire
+"Tough guys" without true resilience will get angry and blame you for their downfall
+3. Live your conviction
+You can be successful, but success isn't conviction
+You are successful, but you didn't have faith through the whole thing
+Faith without works is dead. Works without faith is vanity.
+Whatever it is you would like to achieve, and you didn't trust God in it, it will eat you up from the inside out.
+You don't want to get to the end of the road, and watch the trophy turn to ash, because it wasn't how God called you to live.
+True faith produces obedience that is not dependent on the outcome
+Difference between faith and opinion is that faith will cost you something.
+The men in the fire didn't know God would rescue them, but they knew that they would not bow.
+We don't need any more Christians with Jesus preferences. A preference is something you hold until it costs them something. Conviction is something you will hold onto even if it costs you everything.
+We need mighty men with conviction.
+Conviction is not the absence of fear, but conviction and faith in spite of fear
+When you know who God is, you know who you are. When you live with truth, you don't get conviction in 5 minutes, it is a lot of bricks get stacked up for living in truth for a long time.
+When you know who you are, you develop conviction. When your faith is stronger than your circumstances, you are unshakable.
+God is saying to you "trust me"
+Just say "God, im going to trust you"
+
+James 2:17 is scripture of the week
+Question for your groups:
+Where do you need some unshakable faith in your life?
