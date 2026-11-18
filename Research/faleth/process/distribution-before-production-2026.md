@@ -4,7 +4,7 @@ status: active
 date: 2026-07-22
 origin: Lyle Cole
 source: "[[research/raw/transcripts/lyle-telegram-2026-07-22-distribution-before-production]]"
-related: ["[[research/faleth/process/product-focus-parallelism-and-compounding-simplicity-2026]]", "[[research/faleth/process/law-of-convenience-2026]]", "[[research/faleth/process/mutual-benefit-distinguishes-influence-from-manipulation-2026]]", "[[research/faleth/process/product-distribution-as-training-data-flywheel-2026]]", "[[concepts/offshoots/factory-over-product-thinking]]"]
+related: ["[[research/faleth/process/product-focus-parallelism-and-compounding-simplicity-2026]]", "[[research/faleth/process/law-of-convenience-2026]]", "[[research/faleth/process/mutual-benefit-distinguishes-influence-from-manipulation-2026]]", "[[research/faleth/process/product-distribution-as-training-data-flywheel-2026]]", "[[concepts/offshoots/factory-over-product-thinking]]", "[[concepts/offshoots/marketing-first-principles]]"]
 tags: [faleth, business, distribution, supply-demand, product-development, capital-efficiency]
 ---
 

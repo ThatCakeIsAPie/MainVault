@@ -41,6 +41,7 @@
 - [[offshoots/calendar-as-proof-of-priorities]] — A person's calendar reveals their real priorities more reliably than their stated intentions.
 - [[offshoots/character-assessment-through-fruit-inspection]] — Evaluate potential partners, mentors, and team members by observable fruit: results, character, lifestyle, and consistency.
 - [[offshoots/contribution-over-wage-compensation]] — Traditional wages and salaries break the direct connection between value created and reward received; better systems pay for contribution.
+- [[offshoots/countering-a-coordinated-takedown]] — Kalanick's twelve principles for a public pile-on or coordinated attempt to take you down. Lyle called it legitimately decent advice.
 - [[offshoots/earned-equity-through-contribution]] — Equity should be earned through contribution and reinvestment, not purchased with outside capital alone.
 - [[offshoots/environment-design-and-standards]] — Environment shapes behavior; deliberately choose people and culture that lift standards rather than lower them.
 - [[offshoots/factory-over-product-thinking]] — The highest-leverage builders focus less on the visible product and more on the factory that repeatedly produces products, teams, leaders, and capacity.
@@ -53,6 +54,9 @@
 - [[offshoots/long-term-alignment-through-reinvestment]] — Participants should have incentives to reinvest and act in the long-term interest of the organization.
 - [[offshoots/master-once-then-duplicate]] — True scale comes from mastering a skillset once and then teaching others to do it.
 - [[offshoots/mentorship-compression-through-proven-paths]] — The fastest way to reduce avoidable mistakes is to learn from someone who has already walked the path.
+- [[offshoots/marketing-first-principles]] — DeepSeek primer Lyle saved word for word: seven walls between buyer and seller, value > price + effort + risk.
+- [[offshoots/move-first-and-over-deliver]] — Hypothesis: move first and over-deliver (take their problem more seriously, give before asked) and others mirror the frame.
+- [[offshoots/the-made-world-and-the-will-to-ship]] — The world is made by people, shipping is a low-entropy fight, and you can poke life and change it. Lyle loves these quotes.
 - [[offshoots/networking-and-connection-skills]] — Networking and genuine connection are learnable, teachable skills rather than innate talents.
 - [[offshoots/persistent-consistent-action]] — Long-term success requires persistent, consistent daily action over an extended period.
 - [[offshoots/pipeline-abundance-through-repetition]] — Confidence in people work comes from having enough people in process that no single prospect carries emotional weight.
@@ -107,6 +111,7 @@
 
 ## VXE / GovCon ops
 
+- [[business/vxe/government-contracting-first-principles]] — DeepSeek primer Lyle saved word for word: the government buys the best *defensible* deal; seven walls; a zero anywhere loses the award.
 - [[business/vxe/open-todos]] — Living VXE working list (pricing, solicitation follow-up, SAR-objection responses).
 - [[business/vxe/piee-solicitation-email-notifications-after-proposal-manager-activation]] — After admin activates Proposal Manager (SOL): confirm Active, SOL POC emails, Outlook routing, acceptance test; no BOT/RPA scrape by default.
 - [[business/vxe/full-time-transition-research-2026]] — Five-path facility and income transition research (June 2026).
@@ -123,6 +128,9 @@
 
 ## LTD / Amway operating playbooks (2026-08-17)
 
+- [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]] — Current Heroes team plan (phases, loop, numbers, and how it relates to Faleth). Supersedes the Monday/Thursday weekly OS in [[ltd-amway/playbooks/heroes-weekly-os.pptx]].
+- [[ltd-amway/playbooks/heroes-customer-journey-2026-11-11]] — Heroes customer journey (steps I–V), separate from team phases and Faleth steps.
+- Heroes-side read on Faleth first subsidiary notes: [[ltd-amway/playbooks/heroes-side-read-faleth-first-subsidiary-2026-11-11]]
 - [[ltd-amway/playbooks/network-growth-operating-system-2026]] — Canonical network-growth OS: engines, ratios, scoreboard, compliance, season guardrail.
 - [[ltd-amway/playbooks/recruiting-and-pipeline-playbook]] — Conversations → opens → MG1s → sponsors; hunger filter; funnel diagnostics.
 - [[ltd-amway/playbooks/retention-and-first-90-days-playbook]] — Onboarding, early proof, skin-in-the-game, customer lifetime value.
@@ -134,6 +142,7 @@
 
 ## Personal vision
 
+- [[personal/eyeglass-prescription]] — Current eyeglass Rx (exam 2026-10-12, expires 2028-10-12).
 - [[Personal/Dream Compound Vision]] — Long-term sovereign compound: remote businesses, family presence, advanced manufacturing and AI “brain” (dream-building, not church sermon).
 
 ## Comparisons
@@ -167,6 +176,7 @@
 - [[faleth/process/llm-foundations-skill-stack-2026]] — CS229 foundations as future curriculum
 - [[faleth/process/agentic-loops-design-2026]] — Anthropic four loop types (prior + re-indexed)
 - [[faleth/process/hermes-cloud-and-x-mcp-2026]] — Hermes Cloud + hosted X MCP agent surface
+- [[faleth/process/listeningkit-log-hermes-social-inbox-2026]] — ListeningKit log as a maybe-fit Hermes social inbox plugin (Windows catalog entry; cookie/unofficial-API caveats)
 - [[faleth/process/local-model-ownership-agency-2026]] — Ownership agency of local weights vs API rental
 - [[faleth/process/refusal-vector-ablation-open-model-control-2026]] — Refusal-subspace intervention makes open-weight alignment inspectable and changeable, with capability, safety, and evaluation tradeoffs.
 - [[faleth/process/ai-as-sparring-partner-house-method-2026]] — Treat AI as fallible bounce partner (House method)

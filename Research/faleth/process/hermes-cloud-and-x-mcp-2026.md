@@ -1,7 +1,7 @@
 ---
 title: Hermes Cloud + Hosted X MCP (agent stack, 2026)
 created: 2026-07-10
-updated: 2026-08-24
+updated: 2026-11-12
 type: principle
 tags: [ai, software, infrastructure, open-source, leverage, systems]
 sources:
@@ -15,6 +15,7 @@ sources:
   - raw/articles/2026-07-31-hermes-flightplan-2-always-on-cloud.md
   - raw/transcripts/lyle-nous-cloud-vs-hetzner-2026-08-17.md
   - raw/transcripts/lyle-x-share-2091893618801885456.md
+  - raw/transcripts/lyle-x-share-2120940613726265419.md
 confidence: medium
 ---
 
@@ -55,6 +56,13 @@ Hermes Desktop's visible subagent activity is likewise more than UI polish. Show
 - **Steering is the useful primitive:** keep long jobs alive while correcting direction at tool boundaries. The smartwatch is merely one interface; the durable value is cheap, non-destructive operator intervention.
 - Map to loop design: hosted product simplifies **time-based / proactive** loops; verification still local to Lyle’s SOUL rules ([[faleth/process/agentic-loops-design-2026]]).
 
+
+## ListeningKit log (Nov 2026)
+
+Lyle flagged a launch post from matt. (@matthewsoldit) for the Hermes setup: **log**, a local CLI/MCP that reads and sends from the user's own social accounts, plus a community Hermes plugin (`listeningkit-log`) now in the official catalog (v0.1.0, Windows, Hermes `>=0.23.1`). Fit verdict is **maybe**. It could add X DMs and X Chat, and other unofficial inboxes, under Hermes approval. It should not replace official X MCP or official messaging gateways, and it uses session cookies plus reverse-engineered APIs, which goes against the OAuth preference above. Full writeup: [[faleth/process/listeningkit-log-hermes-social-inbox-2026]]. ^[raw/transcripts/lyle-x-share-2120940613726265419.md]
+
+Lyle's take: "This looks very interesting. Curious if it is useful for our Hermes setup"
+
 ## Open questions
 
 - Exact current HermesDelta invoice vs EU CX33 / US CPX after the June 2026 Hetzner hike.
@@ -72,3 +80,4 @@ Hermes Desktop's visible subagent activity is likewise more than UI polish. Show
 - [[faleth/process/hermes-agent-long-horizon-codebases-2026]]
 - [[faleth/content/hermes-grok-x-content-machine-2026]]
 - [[faleth/process/agentic-loops-design-2026]]
+- [[faleth/process/listeningkit-log-hermes-social-inbox-2026]]

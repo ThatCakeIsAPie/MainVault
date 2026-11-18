@@ -2,7 +2,7 @@
 type: note
 title: Lyle Telegram X Shares Log
 created: '2026-06-22T00:00:00+00:00'
-updated: '2026-10-10T00:00:00+00:00'
+updated: '2026-11-12T00:00:00+00:00'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -18,6 +18,12 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-11-12 | [2120940613726265419](https://x.com/matthewsoldit/status/2120940613726265419) | This looks very interesting. Curious if it is useful for our Hermes setup | [[research/raw/transcripts/lyle-x-share-2120940613726265419]] | [[research/faleth/process/listeningkit-log-hermes-social-inbox-2026]] |
+| 2026-11-12 | [2119869150143091175](https://x.com/travisk/status/2119869150143091175) | Actually useful information regarding those types of situations. Unfortunate when stuff like that happens, but there are always going to be people who want to take you down, so this is legitimately decent advice. | [[research/raw/transcripts/lyle-x-share-2119869150143091175]] | [[research/concepts/offshoots/countering-a-coordinated-takedown]] |
+| 2026-11-10 | [2119894036316398055](https://x.com/prd_008/status/2119894036316398055) | ambient share; Lyle loves the quotes (Collison museum of passion projects; Pokrass universe does not want you to ship); first reply is @LilianDelaveau; Jobs poke-life quote is in a later @dermotmcg reply | [[research/raw/transcripts/lyle-x-share-2119894036316398055]] | [[research/concepts/offshoots/the-made-world-and-the-will-to-ship]] |
+| 2026-11-06 | [2118522165238858001](https://x.com/0xSero/status/2118522165238858001) | ambient share; 0xSero: hotel/CEOs, paid $0 and was paid to be there; Lyle take: value + money mindset | [[research/raw/transcripts/lyle-x-share-2118522165238858001]] | [[research/concepts/offshoots/networking-and-connection-skills]] |
+| 2026-10-26 | [2114720297584574829](https://x.com/alvarobartt/status/2114720297584574829) | via Chief of Staff; NVIDIA MotionBricks weights on Hugging Face (real-time motion for game characters/humanoids) — may be useful for Lyle's game | [[research/raw/transcripts/lyle-x-share-2114720297584574829]] | [[faleth/bridge-strategy/game-finish-bridge-2026]] (tooling lead; raw-only) |
+| 2026-10-21 | [2112797285042016733](https://x.com/ThatEricAlper/status/2112797285042016733) | ambient share; Eric Alper reposts Tumblr "executive dysfunction life hack" (ask "when will I be ready?" not "I should") | [[research/raw/transcripts/lyle-x-share-2112797285042016733]] | — (raw-only) |
 | 2026-10-10 | [2108165794467074118](https://x.com/Jayyanginspires/status/2108165794467074118) | ambient share; Jay Yang "Steve Jobs" quote: great people don't compete | [[research/raw/transcripts/lyle-x-share-2108165794467074118]] | — (raw-only) |
 | 2026-10-02 | [2105963013937205634](https://x.com/dhh/status/2105963013937205634) | ambient share; DHH quotes Björk reminder for makers (@ben_issen) | [[research/raw/transcripts/lyle-x-share-2105963013937205634]] | — (raw-only) |
 | 2026-09-29 | [2104930468508356995](https://x.com/nevmed/status/2104930468508356995) | ambient share; protein ROI food visuals (@nevmed / Nicko Dumadaug) | [[research/raw/transcripts/lyle-x-share-2104930468508356995]] | — (raw-only) |

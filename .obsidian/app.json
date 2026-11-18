@@ -1,3 +1,4 @@
 {
-  "attachmentFolderPath": "/home/lylecole4/Recordings-Raw"
+  "attachmentFolderPath": "/home/lylecole4/Recordings-Raw",
+  "mobilePullAction": "obsidian-git:push"
 }

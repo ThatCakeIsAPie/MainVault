@@ -19,12 +19,52 @@
   - Short / medium / long distance mobility covered
 
 ## Central Compute System (The Brain)
-- **Dual-rack architecture**:
-  - **AI Rack**: 8× B200-class GPUs (or future equivalents) for heavy LLM/agent workloads and high-intelligence tasks
-  - **General Compute Rack**: 8× RTX 5090-class GPUs for rendering, simulations, gaming, and general workloads
-- High-speed networking between racks and throughout the property
+- **One 8× RTX PRO 6000 (96GB) rack** that does double duty: run agents and LLMs, or pause the agents and use the cards for local cloud gaming with friends and family. Expand later by adding more racks. This beats the old plan of an 8× B200 AI rack plus an 8× RTX 5090 general rack.
+- Lives in a small workshop barn on the compound — full of machines of all kinds, and also houses the personal compound server. Needs 240V power and a sealed, filtered server corner because of shop dust.
+- High-speed networking throughout the property
 - Permanent RAG/memory system for the AI (not limited by context windows)
 - Can run multiple models or multiple instances of the same model simultaneously
+
+### Full Cabinet Build (prices Nov 4, 2026)
+
+**One server** — Supermicro AS-4125GS-TNRT (4U), $228,266.69
+- CPUs: 2× AMD EPYC 9655 (192 cores / 384 threads)
+- RAM: 1.5TB DDR5 (24× 64GB)
+- GPUs: 8× RTX PRO 6000 96GB = 768GB GPU memory (Server Edition for rack fit, $16,566 each)
+- Storage: 2TB NVMe + 24 open 2.5in bays
+- Network: 2× 10Gb built-in + 2× 400G ConnectX-7
+- Power: about 6kW
+
+**Full cabinet** — 10 servers in one 42U rack
+- 1,920 cores / 3,840 threads, 15TB RAM
+- 80 GPUs, 7,680GB GPU memory
+- About 60kW
+- Rack is full: 40U of servers + 2U of switches
+
+**Cabinet gear** — about $107k
+- Rack: APC NetShelter SX 42U AR3340, $2,612
+- Power: 4× Vertiv Geist 34.5kW 3-phase PDUs, $12,312
+- Network: NVIDIA SN4700 400G switch $34,895; 20× ConnectX-7 400G cards $31,980; 20× 400G cables about $3,180
+- Cooling: Motivair 60kW rear-door cooler, about $8,500 (est.); 20-ton air-cooled chiller (480V), $13,500
+- Optional UPS: Eaton 93PM 60kW, $91,553 (too tight at full load)
+
+**Totals**
+- Servers: $2.28M
+- Full cabinet: about $2.39M, or $2.48M with UPS
+- Not included: management switch ($500–$1,500 est.), pumps/piping/install ($5k–$15k est.), barn 3-phase electrical service
+
+### Reference build: Stephen Ronan's solar DGX Stations
+
+Stephen J Ronan MD ([@SJRonanMD](https://x.com/SJRonanMD)) — [lab post](https://x.com/SJRonanMD/status/2109450102683451745), [benchmark post](https://x.com/i/status/2108324629819576561).
+
+- Hardware: 2× NVIDIA DGX Station GB300, each with one added RTX PRO 6000 inside
+- Model: DeepSeek V4.1 Flash, official weights (8-bit with 4-bit expert layers, about 510GB)
+- Split: each Station's 252GB fast memory holds the most-used experts (285 of 384 per layer); the rest run on the added PRO 6000. Stations are not linked — each runs its own full copy
+- Software: open-source GB300 code with speculative decoding (guesses several words ahead)
+- Test: 8K tokens in, 1K out; accuracy 98–99%
+- Results: about 5,800 tok/s total across 64 requests; about 450 tok/s on a single request
+- Power: about 120 solar panels plus a large battery bank
+- Comparison: two plain Stations (no added card) get about 3,400 tok/s across 64 requests ([catid benchmarks](https://github.com/catid/dgx_station_benchmarks))
 
 ## AI Agent Capabilities
 - Always-on home security monitoring and response

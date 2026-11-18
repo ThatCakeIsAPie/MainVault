@@ -1,7 +1,126 @@
 # Wiki Log
 
 > Chronological record of all wiki actions. Append-only.
-> Format: `## [2026-10-10] ingest | Jay Yang quotes "Steve Jobs" on not competing (2108165794467074118)
+> Format: `## [YYYY-MM-DD] action | subject`
+> Actions: ingest, update, query, lint, create, archive, delete
+> When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
+
+## [2026-11-12] ingest | matthewsoldit ListeningKit log + Hermes plugin (2120940613726265419)
+- Raw: [[raw/transcripts/lyle-x-share-2120940613726265419]] (sha256 `e79d47cebc6f7c1ebfe46801b494f7afa0598c7f5ade7f2c4dc5a8248c7e1a5a`)
+- Media: parent announcement video thumb + 3 promo frames + GitHub link card → `raw/assets/x/2120940613726265419/` (MP4 inspected, not stored)
+- Lyle's take: this looks very interesting; curious if it is useful for the Hermes setup
+- Parent announcement: 2120938715820474690; quotes Nous hackathon-close 2120715518243987685
+- Created: [[faleth/process/listeningkit-log-hermes-social-inbox-2026]]
+- Updated: [[faleth/process/hermes-cloud-and-x-mcp-2026]] (short pointer + maybe-fit)
+- Why: Lyle asked whether the tool fits the Hermes setup; a Windows catalog plugin already exists
+- Shares log + index updated
+
+## [2026-11-12] ingest | travisk practical principles to counter a coup/psyop/struggle session (2119869150143091175)
+- Raw: [[raw/transcripts/lyle-x-share-2119869150143091175]] (sha256 `077cdf5269a6ff279ef63143b3bfdb8e5b7309c26efe00c0ddd9694302c95726`)
+- Media: none
+- Lyle's take: actually useful information for those situations; unfortunate when it happens, but there will always be people who want to take you down, so this is legitimately decent advice
+- Author follow-ups: Telegram vs Signal replies only (2119886845425369244, 2119887363484848456, 2119891561979035767); captured in the raw file
+- Created: [[offshoots/countering-a-coordinated-takedown]]
+- Why: Lyle called the advice central and useful; no existing struggle-session / coordinated-takedown page
+- Shares log + index updated
+
+## [2026-11-11] create | Heroes customer journey
+- Created: [[ltd-amway/playbooks/heroes-customer-journey-2026-11-11]] — customer-side steps I–V, three-question frame, rules, CRM fields, and printed-piece status
+- These steps are the customer side of Heroes, separate from Heroes team Phases 1–5 and from Faleth's five steps
+- Linked from: current Heroes plan, ltd-amway entity, index
+- Source: Lyle's Nov 11, 2026 conversation with Claude
+
+## [2026-11-11] update | Heroes / Faleth relationship and terminology
+- Heroes uses five phases (not steps); Faleth keeps five steps. The two do not line up.
+- Heroes is the side business; Faleth is the primary day job. Class B shares are earned through Faleth work, not as Heroes side work. Starting a subsidiary is Faleth step 4, after Heroes Phase 5 plus significant Class B savings — not Heroes Phase 4.
+- Heroes material does not call itself a Faleth step. Faleth material treats Heroes as intended behavior, not a requirement. The systems can run independently; internally they are designed to work together.
+- Updated: [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]], five-step sequencing model, faleth-capital, ltd-amway, lyle-cole, Faleth vs LTD comparison, index
+
+## [2026-11-11] create | Heroes current plan (Amway/LTD team)
+- Created: [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]] — canonical Heroes brief (path, round-table loop, numbers, Faleth fit)
+- Supersedes: Monday/Thursday weekly OS in [[ltd-amway/playbooks/heroes-weekly-os.pptx]] (pptx left in place)
+- Updated pointers: network-growth OS, five-step sequencing model, ltd-amway, faleth-capital, and lyle-cole entities, Faleth vs LTD comparison, leadership-incubator query, index
+- Sources: Lyle's Nov 10–11 2026 conversation with Claude, plus numbers confirmed in chat Nov 11 2026
+
+## [2026-11-10] ingest | prd_008 two tweets he thinks about (Collison, Pokrass) + Jobs poke-life reply (2119894036316398055)
+- Raw: [[raw/transcripts/lyle-x-share-2119894036316398055]] (sha256 `04998efa3e44fb66069dc2caedb37f4b5f4497ef06eaf5e6c4bafeccaf9ab1e5`)
+- Media: 2 JPGs (Collison + Pokrass screenshots) + 1 PNG (dermotmcg / Carl Pei Jobs quote) → `raw/assets/x/2119894036316398055/`
+- Lyle's take: he loves these quotes
+- First chronological reply: @LilianDelaveau (2119916857058820586) — not a Jobs quote; captured in the raw file
+- Jobs-quote reply: @dermotmcg (2120021881730564382) screenshot of @getpeid 1725216791323164962
+- Created: [[offshoots/the-made-world-and-the-will-to-ship]]
+- Why: Lyle loves the quotes; two sources in the post (Collison, Pokrass) plus a thematically matching Jobs-attributed line from a reply. No existing quotes/Steve Jobs page; main quotes are not Jobs, so not filed as one.
+- Shares log + index updated
+
+## [2026-11-06] ingest | Lyle take on 0xSero value/money mindset
+- Raw: [[raw/conversations/lyle-note-2026-11-06-0xsero-value-money-mindset]] (sha256 `6e79a2be13a49e82bf0b0d44f129a9a40b4971b115c55e70c16103c731175d9e`)
+- Linked from: [[raw/transcripts/lyle-x-share-2118522165238858001]] (Later note appended; original sha256 unchanged)
+- Updated: [[offshoots/networking-and-connection-skills]] (Lyle's take: value framing + money mindset — rooms invite/pay you)
+
+## [2026-11-06] ingest | 0xSero paid-to-be-in-the-room hotel/CEO post (2118522165238858001)
+- Raw: [[raw/transcripts/lyle-x-share-2118522165238858001]] (sha256 `107eeb5c8de059e56a54e260946f653927eab3a7f120100b4f7805767ffca952`)
+- Media: 1 JPG (Golden Gate dusk) → `raw/assets/x/2118522165238858001/`
+- Distilled: raw-only (single ambient anecdote; loosely fits value-first networking / move-first, no new mechanism; no Lyle take)
+- Fixed: log header — Nov 4 Spar entry split out of the Format line
+- Shares log updated
+
+## [2026-11-04] ingest | Spar DGX Spark VXE infra
+- Raw: [[raw/conversations/spar-2026-11-04-dgx-spark-vxe-infra]] (sha256 `f8a161d86ebea4cc74c37f6f00866e7cb3a4d14a937501362316bed8c1e99314`)
+- Updated: [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] (Lyle's take: Spark as VXE infra, cost-curve driver)
+
+## [2026-10-29] ingest | DeepSeek government contracting primer
+- Raw: [[raw/conversations/deepseek-government-contracting-first-principles-2026-10-29]] (sha256 `e17d22605bc0a1912b1222f9b810a2c0ce46411c8bcafe851131ea3d5a3aee8b`)
+- Created: [[business/vxe/government-contracting-first-principles]] (verbatim, per Lyle)
+- Updated: [[offshoots/marketing-first-principles]] (backlink to companion piece)
+
+## [2026-10-29] ingest | DeepSeek marketing primer; Spar: DGX Spark side project; Spar: Matthew 5:13 salt
+- Raw: [[raw/conversations/deepseek-marketing-first-principles-2026-10-29]] (sha256 `90c5e99283ecd6a4f3607551e92eb11e4b285b3277f09274dce7fd2e80111622`)
+- Created: [[offshoots/marketing-first-principles]] (verbatim, per Lyle)
+- Raw: [[raw/conversations/spar-2026-10-27-dgx-spark-side-project]] (sha256 `c1ed54bca66f6dd939a9724a8268ad694add5eb87f2c26292cf35a21daf01f8f`)
+- Updated: [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] (side-project idea)
+- Raw: [[raw/conversations/spar-2026-10-28-matthew-5-13-salt]] (sha256 `5e830011e1cdc6a18c0e342210de04bd5c6ab67cb70223e886af87b549bbadd1`); raw-only, no fitting scripture page yet
+
+## [2026-10-28] ingest | Alex Hormozi / Acquisitioncom — "Networking Will Make You Millions... If You Do it Right" (YuQ8ve1Amto)
+- Raw: [[raw/transcripts/youtube-YuQ8ve1Amto-2026-10-28]]
+- sha256: `226bdcb85b88e38dce86eb59f81ef10d84bc3808957666a42151364c5218de88`
+- Lyle: "Starting to see a pattern in what im recognizing"
+- Created: [[offshoots/move-first-and-over-deliver]] (hypothesis; Fried two tokens + Lyle's angry-boat take + this video)
+- Updated: [[offshoots/networking-and-connection-skills]], [[entities/alex-hormozi]]
+
+## [2026-10-28] update | Lyle's take on the two tokens
+- Raw: [[raw/conversations/lyle-note-2026-10-28-two-tokens]]
+- sha256: `c2729e8cf07077c2593ed64f724fcd0d9113cafede031db6c957e2e5f62a59f0`
+- Updated: [[faleth/process/customer-success-as-post-sale-proof-and-network-curation-2026]] — Lyle's take (general people skill; Hormozi "angry boat", Lyle's recollection)
+- Fixed: log header — Oct 18 prescription entry split out of the Format line
+
+## [2026-10-28] ingest | Jason Fried — "No big deal or the end of the world?" (HEY World)
+- Raw: [[raw/articles/jason-fried-no-big-deal-or-the-end-of-the-world-2026-10-28]]
+- sha256: `84cc5363b0f273b5af82da8297d4c52798deb989f23d98a1b5bce295a86f50b4`
+- Lyle: "Love this!"
+- Updated: [[faleth/process/customer-success-as-post-sale-proof-and-network-curation-2026]] — added two-tokens line with provenance
+- Distilled: no new page (single source; folded into existing customer-success page)
+
+## [2026-10-26] ingest | NVIDIA releases MotionBricks weights on Hugging Face, via @alvarobartt (2114720297584574829)
+- Raw: [[raw/transcripts/lyle-x-share-2114720297584574829]]
+- sha256: `ed1dac91b1a4cc5406b8873a189e36ae4b595101ab3425e223612e18c2160e81`
+- Media: 42s video (640×360) + preview frame → `raw/assets/x/2114720297584574829/`
+- Linked: HF model card facts (license, SOMA/G1 families) recorded in raw as a separate section
+- Updated: [[faleth/bridge-strategy/game-finish-bridge-2026]] — added "Tooling leads" line (Lyle: may be useful for his game)
+- Distilled: raw-only (single source; no existing motion-generation page)
+- Shares log updated
+
+## [2026-10-21] ingest | Eric Alper shares "executive dysfunction life hack" Tumblr screenshot (2112797285042016733)
+- Raw: [[raw/transcripts/lyle-x-share-2112797285042016733]]
+- sha256: `e23e6e0c7c599e438ff4c05b03c066ecb22db0b34dd8a1651f5e1026bbff685c`
+- Media: 1 JPG → `raw/assets/x/2112797285042016733/`
+- Distilled: raw-only (single ambient share; no existing executive-function/procrastination page)
+- Shares log updated
+
+## [2026-10-18] create | Eyeglass prescription
+- Page: [[personal/eyeglass-prescription]]
+- Scan: `raw/assets/personal/eyeglass-rx-2026-10-12.jpg`
+
+## [2026-10-10] ingest | Jay Yang quotes "Steve Jobs" on not competing (2108165794467074118)
 - Raw: [[raw/transcripts/lyle-x-share-2108165794467074118]]
 - sha256: `0c801047d6854ae3a97875f524bdb80fc8e0162458c6ad46006c883d41b8e0bf`
 - Distilled: raw-only (single text share; quote attribution unverified)
@@ -13,10 +132,6 @@
 - Distilled: raw-only (single ambient share; no existing DHH/Björk/maker-audience page)
 - Quotes: @ben_issen / Björk interview macros
 - Shares log updated
-
-## [YYYY-MM-DD] action | subject`
-> Actions: ingest, update, query, lint, create, archive, delete
-> When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
 ## [2026-09-29] ingest | Neville Medhora (@nevmed) protein ROI food visuals
 - Raw: [[raw/transcripts/lyle-x-share-2104930468508356995]]
@@ -1133,3 +1248,6 @@
 - 2026-09-15: Ingested Brainstorm Team CRM vs canon discrepancy dump → raw/documents/2026-09-15-brainstorm-crm-canon-discrepancies.md (+ CRM Iteration Inbox note).
 
 - 2026-09-15: Appended floor-advance frontend/accounting shape to brainstorm CRM discrepancy raw note.
+
+## [2026-11-11] Heroes-side read of Faleth first subsidiary notes
+- Added ltd-amway/playbooks/heroes-side-read-faleth-first-subsidiary-2026-11-11.md, linked to faleth/heroes-faleth-first-subsidiary-and-model-case-2026-11-11.md (not edited).
