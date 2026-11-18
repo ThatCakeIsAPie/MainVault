@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56cd6d3413fc6131",
+        "id": "022f624b4be1d9bd",
         "type": "tabs",
         "children": [
           {
-            "id": "69b13b19520e28e7",
+            "id": "3fad844c962d180a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -199,8 +199,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "69b13b19520e28e7",
+  "active": "4585259b51f91c45",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Business/Faleth Capital/The Cell Framework.md",
     "Personal/Church/2026/2026-11-13 Marketplace Leadership.md",
     "Personal/Church/2026/2026-11-08.md",
@@ -230,7 +231,6 @@
     "Business/LTD Amway/Info Sessions/2026/2026-09-17 Adrian Perez.md",
     "Business/LTD Amway/Info Sessions/2026/2026-09-10 Shaylon Robbins.md",
     "Research/raw/documents/2026-09-15-brainstorm-crm-canon-discrepancies.md",
-    "Personal/Church/2026/2026-09-13.md",
     "Research/ltd-amway/playbooks",
     "Research/raw/memory-layers-2026-08-17",
     "Research/raw/x-bookmarks/2026-08-15",
