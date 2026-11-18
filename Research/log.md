@@ -5,6 +5,31 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-12] ingest | matthewsoldit ListeningKit log + Hermes plugin (2120940613726265419)
+- Raw: [[raw/transcripts/lyle-x-share-2120940613726265419]] (sha256 `e79d47cebc6f7c1ebfe46801b494f7afa0598c7f5ade7f2c4dc5a8248c7e1a5a`)
+- Media: parent announcement video thumb + 3 promo frames + GitHub link card → `raw/assets/x/2120940613726265419/` (MP4 inspected, not stored)
+- Lyle's take: this looks very interesting; curious if it is useful for the Hermes setup
+- Parent announcement: 2120938715820474690; quotes Nous hackathon-close 2120715518243987685
+- Created: [[faleth/process/listeningkit-log-hermes-social-inbox-2026]]
+- Updated: [[faleth/process/hermes-cloud-and-x-mcp-2026]] (short pointer + maybe-fit)
+- Why: Lyle asked whether the tool fits the Hermes setup; a Windows catalog plugin already exists
+- Shares log + index updated
+
+## [2026-11-12] ingest | travisk practical principles to counter a coup/psyop/struggle session (2119869150143091175)
+- Raw: [[raw/transcripts/lyle-x-share-2119869150143091175]] (sha256 `077cdf5269a6ff279ef63143b3bfdb8e5b7309c26efe00c0ddd9694302c95726`)
+- Media: none
+- Lyle's take: actually useful information for those situations; unfortunate when it happens, but there will always be people who want to take you down, so this is legitimately decent advice
+- Author follow-ups: Telegram vs Signal replies only (2119886845425369244, 2119887363484848456, 2119891561979035767); captured in the raw file
+- Created: [[offshoots/countering-a-coordinated-takedown]]
+- Why: Lyle called the advice central and useful; no existing struggle-session / coordinated-takedown page
+- Shares log + index updated
+
+## [2026-11-11] create | Heroes customer journey
+- Created: [[ltd-amway/playbooks/heroes-customer-journey-2026-11-11]] — customer-side steps I–V, three-question frame, rules, CRM fields, and printed-piece status
+- These steps are the customer side of Heroes, separate from Heroes team Phases 1–5 and from Faleth's five steps
+- Linked from: current Heroes plan, ltd-amway entity, index
+- Source: Lyle's Nov 11, 2026 conversation with Claude
+
 ## [2026-11-11] update | Heroes / Faleth relationship and terminology
 - Heroes uses five phases (not steps); Faleth keeps five steps. The two do not line up.
 - Heroes is the side business; Faleth is the primary day job. Class B shares are earned through Faleth work, not as Heroes side work. Starting a subsidiary is Faleth step 4, after Heroes Phase 5 plus significant Class B savings — not Heroes Phase 4.
@@ -1223,3 +1248,6 @@
 - 2026-09-15: Ingested Brainstorm Team CRM vs canon discrepancy dump → raw/documents/2026-09-15-brainstorm-crm-canon-discrepancies.md (+ CRM Iteration Inbox note).
 
 - 2026-09-15: Appended floor-advance frontend/accounting shape to brainstorm CRM discrepancy raw note.
+
+## [2026-11-11] Heroes-side read of Faleth first subsidiary notes
+- Added ltd-amway/playbooks/heroes-side-read-faleth-first-subsidiary-2026-11-11.md, linked to faleth/heroes-faleth-first-subsidiary-and-model-case-2026-11-11.md (not edited).

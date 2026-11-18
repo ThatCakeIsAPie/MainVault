@@ -4,5 +4,6 @@
   "accentColor": "#E3C271",
   "enabledCssSnippets": [
     "vertical lines of list-1"
-  ]
+  ],
+  "showRibbon": true
 }

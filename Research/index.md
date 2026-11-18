@@ -41,6 +41,7 @@
 - [[offshoots/calendar-as-proof-of-priorities]] — A person's calendar reveals their real priorities more reliably than their stated intentions.
 - [[offshoots/character-assessment-through-fruit-inspection]] — Evaluate potential partners, mentors, and team members by observable fruit: results, character, lifestyle, and consistency.
 - [[offshoots/contribution-over-wage-compensation]] — Traditional wages and salaries break the direct connection between value created and reward received; better systems pay for contribution.
+- [[offshoots/countering-a-coordinated-takedown]] — Kalanick's twelve principles for a public pile-on or coordinated attempt to take you down. Lyle called it legitimately decent advice.
 - [[offshoots/earned-equity-through-contribution]] — Equity should be earned through contribution and reinvestment, not purchased with outside capital alone.
 - [[offshoots/environment-design-and-standards]] — Environment shapes behavior; deliberately choose people and culture that lift standards rather than lower them.
 - [[offshoots/factory-over-product-thinking]] — The highest-leverage builders focus less on the visible product and more on the factory that repeatedly produces products, teams, leaders, and capacity.
@@ -128,6 +129,8 @@
 ## LTD / Amway operating playbooks (2026-08-17)
 
 - [[ltd-amway/playbooks/heroes-current-plan-2026-11-11]] — Current Heroes team plan (phases, loop, numbers, and how it relates to Faleth). Supersedes the Monday/Thursday weekly OS in [[ltd-amway/playbooks/heroes-weekly-os.pptx]].
+- [[ltd-amway/playbooks/heroes-customer-journey-2026-11-11]] — Heroes customer journey (steps I–V), separate from team phases and Faleth steps.
+- Heroes-side read on Faleth first subsidiary notes: [[ltd-amway/playbooks/heroes-side-read-faleth-first-subsidiary-2026-11-11]]
 - [[ltd-amway/playbooks/network-growth-operating-system-2026]] — Canonical network-growth OS: engines, ratios, scoreboard, compliance, season guardrail.
 - [[ltd-amway/playbooks/recruiting-and-pipeline-playbook]] — Conversations → opens → MG1s → sponsors; hunger filter; funnel diagnostics.
 - [[ltd-amway/playbooks/retention-and-first-90-days-playbook]] — Onboarding, early proof, skin-in-the-game, customer lifetime value.
@@ -173,6 +176,7 @@
 - [[faleth/process/llm-foundations-skill-stack-2026]] — CS229 foundations as future curriculum
 - [[faleth/process/agentic-loops-design-2026]] — Anthropic four loop types (prior + re-indexed)
 - [[faleth/process/hermes-cloud-and-x-mcp-2026]] — Hermes Cloud + hosted X MCP agent surface
+- [[faleth/process/listeningkit-log-hermes-social-inbox-2026]] — ListeningKit log as a maybe-fit Hermes social inbox plugin (Windows catalog entry; cookie/unofficial-API caveats)
 - [[faleth/process/local-model-ownership-agency-2026]] — Ownership agency of local weights vs API rental
 - [[faleth/process/refusal-vector-ablation-open-model-control-2026]] — Refusal-subspace intervention makes open-weight alignment inspectable and changeable, with capability, safety, and evaluation tradeoffs.
 - [[faleth/process/ai-as-sparring-partner-house-method-2026]] — Treat AI as fallible bounce partner (House method)

@@ -66,6 +66,8 @@ Amway's IBO contract changes take effect Nov 13, 2026. They remove the non-compe
 
 Public content and product/affiliate links, then registered customer, then Amway Plus subscriber, then Valdura / Avellum Health. The business conversation comes only if they ask, always privately. Access tiers: content for everyone, messages for customers, deep one-on-one time for team.
 
+Customer journey (steps I–V): [[ltd-amway/playbooks/heroes-customer-journey-2026-11-11]].
+
 ## Who we're looking for
 
 People who want agency and ownership, are coachable, have a mentor posture and could become future operators. Not pin-chasers, hype buyers, or anyone who needs guaranteed / passive / investment framing.
