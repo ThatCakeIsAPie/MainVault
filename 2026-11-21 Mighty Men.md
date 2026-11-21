@@ -57,4 +57,36 @@ Most mighty principle:
 Matthew 6:33 But seek first the Kingdom of God and His Righteousness, and all these things shall be added to you.
 "Whatever force that has first place in your life, will drive every decision and shape your future."
 He didn't know that he needed a man to communicate something to him. His mom, he loves her, but he needed a father.
-"If a person get"
+"If a person gets his attitude toward money straight, it will help straighten out almost every other area of his life" -Billy Graham
+A principle is a foundational, truth that guides how you think.... be... do everything (life).
+Don't call Jesus your Lord if you don't put Him first financially. You know Him without honoring.
+Less than 3% of americans read books every year. Less than 3% retire financially.
+You will not be broke under our watch.
+You don't find a good man anywhere. But you find a man and challenge him to be a good man.
+The hardest thing on the path is this:
+The thing is not about the thing... but every thing is about everything
+It is not tithing that is the hardest part, but putting the Kingdom first is.
+"The most important thing you will ever do is also the most difficult thing you will ever do and that is to lead yourself well."
+If you want to be more than just another weak, low level husband and theoretical leader, then you need to deselect. If you ever want more than that, put God first in every area of your life especially with your money.
+Men, you are not mighty if you do not put first the Kingdom of God.
+All the reason you aren't putting God first for are the very things that God will add unto you. Matthew 6:33
+"If He is not Lord of all, He is not Lord at all."
+Quit letting muslim men be more radical for their false god than you are for the Father
+The people who love him tell him the state of the flock
+One man was checked on completing the path because of tithing, before he was checked, he said his leader had failed him.
+What are you not willing to take an L for your Father
+Mentally strong people don't do nice things for people who don't respect them. They always ask themselves "does it fit?" Does my behavior fit my goals for my life?
+He decided he is a man and wanted to be strong. At 66 years old, for 51 years, he has never stopped. At 66, he is in the best shape of his life, until he checked himself. What it looked like wasn't good enough for him. You can think you are doing good until your leader checked you. That is when it shows if you are a quitter or not.
+Get rid of your excuses for why it didn't happen. He thought he was doing good until he had an MRI and found visceral fat. All over his vital organs is fat. He isn't ok with looking good, he doesn't take L's spiritually, emotionally, financially, because it is his body, but His temple.
+It doesn't matter how good you think you look or are, if your behavior doesn't line up with your goals, you will think at 66 "I don't know why i haven't figured some stuff out yet."
+They check you on the mighty men path because you might find something is wrong.
+He thought he was doing good, but when they looked at his insides, it wasn't true. Mighty Men let's you look inside and find out.
+You can still look pretty good and have the doctor say "you've had a heart attack, right? It is probably because of the visceral fat that unleashes toxicity, there has never been one heart attack in someone who didn't have visceral fat."
+He, on his own, paid a heavy price to find out his MRI results. After he saw this, his wife said "are you going to be on this journey with me?" he said yes. You only have one life. Until you look on the inside of you, you have a chance. It is going to cost you, your time, your money, your ego, your one star life, but you have a chance.
+He isn't up there to tell you you suck, but for you to say you suck.
+His visceral fat is pushing up against his lungs, pushing them up, against his organs
+Leadership will rub your normal and you have a chance to be great.
+We have a standard in mighty men, because we can tell ourselves we are accountable, but the numbers don't lie
+What people see about you doesn't matter. It is what is on the inside that matters.
+Starting now, im going to live by the most mighty principle, and that is seeking first the kingdom of God.
+Abraham Lincoln said at a number of churches that he went to, but he was disappointed because there was no challenge.
