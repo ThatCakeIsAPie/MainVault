@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-09-21 | Total pages: 153+
+> Last updated: 2026-11-21 | Total pages: 153+
 
 ## Meta / schema
 
@@ -21,6 +21,7 @@
 - [[faleth-capital]] — Lyle's family-office / private-index-fund architecture for contribution-based compensation, earned equity, and contributor governance.
 - [[ltd-amway]] — Leadership-development, mentorship, and network-marketing environment serving as an incubator in Lyle's broader sequencing model.
 - [[lyle-cole]] — 27-year-old entrepreneur building Faleth Capital; faith-centered, systems thinker.
+- [[mighty-men]] — Men's gathering Lyle attends; this page catalogs the group's published notes, kept separate from his own.
 - [[robert-kiyosaki]] — Financial/business influence marker around cashflow, asset ownership, and escaping linear income.
 - [[tony-robbins]] — Personal-development influence (identity/belief/state) plus later finance teaching (*Holy Grail of Investing* / alternatives access).
 - [[tyler-sheridan]] — LTD Amway speaker emphasizing win-win mentorship, family legacy, leveraged leadership income, endurance, and long-term thinking.

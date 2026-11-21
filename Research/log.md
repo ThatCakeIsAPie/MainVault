@@ -5,6 +5,14 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-21] ingest | Mighty Men published notes (Keith A. Craft, Most Mighty Principle)
+- Raw: [[raw/documents/mighty-men-2026-11-21-published-notes]] (sha256 `92ff040c5f806a059b8085715defd3fce65207082936dcb19752e848ed455a49`)
+- Asset: `raw/assets/mighty-men/2026-11-21-published-notes.pdf` (sha256 `a07b907db6fa32d591a5fd3ad6120393790979a687e0c99ba3a5192c2269bb95`)
+- Created: [[mighty-men]] (dated entry for the 2026-11-21 published handout)
+- Why: Lyle asked to file the group's published notes, kept separate from his own; no Mighty Men entity existed
+- Lyle's own notes for this date are not in the vault yet; existing personal Mighty Men notes are linked from the entity page
+- Index updated
+
 ## [2026-11-12] ingest | matthewsoldit ListeningKit log + Hermes plugin (2120940613726265419)
 - Raw: [[raw/transcripts/lyle-x-share-2120940613726265419]] (sha256 `e79d47cebc6f7c1ebfe46801b494f7afa0598c7f5ade7f2c4dc5a8248c7e1a5a`)
 - Media: parent announcement video thumb + 3 promo frames + GitHub link card → `raw/assets/x/2120940613726265419/` (MP4 inspected, not stored)
