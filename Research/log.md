@@ -5,6 +5,14 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-22] ingest | ryangrowthh MrBeast purple-cow virality clip (2124459878408433851)
+- Raw: [[raw/transcripts/lyle-x-share-2124459878408433851]] (sha256 `898b24273a82b4dee9eb11b96dcab4cb62bdf11bf64850f47565070635c7e1a4`)
+- Media: 1 video (~99.6s, inspected, not stored) + preview JPG → `raw/assets/x/2124459878408433851/`
+- Machine transcript of the clip is in the raw file (not official captions). Author follow-ups confirm the clip is from DOAC and references Seth Godin's Purple Cow.
+- Lyle's take: none (ambient share; pasted the link with no note)
+- Distilled: raw-only — no existing purple-cow / MrBeast / remarkable-content page to update; a single 100-second clip restating that idea does not by itself earn a new page
+- Shares log updated
+
 ## [2026-11-21] ingest | muvaff utilization-rate economics of $200 AI plans (2124211995016851831)
 - Raw: [[raw/transcripts/lyle-x-share-2124211995016851831]] (sha256 `8abf89566d0f2dae415885704d552a82014dc421eed52406fa2840e9fc832779`)
 - Media: 1 JPG (Vlad usage screenshot, quoted post) → `raw/assets/x/2124211995016851831/`
