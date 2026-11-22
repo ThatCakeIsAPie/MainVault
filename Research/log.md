@@ -5,6 +5,16 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-21] ingest | muvaff utilization-rate economics of $200 AI plans (2124211995016851831)
+- Raw: [[raw/transcripts/lyle-x-share-2124211995016851831]] (sha256 `8abf89566d0f2dae415885704d552a82014dc421eed52406fa2840e9fc832779`)
+- Media: 1 JPG (Vlad usage screenshot, quoted post) → `raw/assets/x/2124211995016851831/`
+- Quoted: @vlad_mihalcea 2123753559191617993 (full text in the same raw file; no note_tweet)
+- Full muvaf text from X API `note_tweet`; matches Lyle's screenshot (typography only). No @muvaff follow-up in the thread.
+- Lyle's take: a fascinating look at the business model behind $200/month plans; ties to free-first — if it scales, make it free and charge for what doesn't
+- Updated: [[offshoots/if-it-scales-its-free]] (existing page; also added to index — it had been missing)
+- Why: Lyle asked (via Chief of Staff) to ingest it against his free-first idea
+- Shares log + index updated
+
 ## [2026-11-21] ingest | Mighty Men published notes (Keith A. Craft, Most Mighty Principle)
 - Raw: [[raw/documents/mighty-men-2026-11-21-published-notes]] (sha256 `92ff040c5f806a059b8085715defd3fce65207082936dcb19752e848ed455a49`)
 - Asset: `raw/assets/mighty-men/2026-11-21-published-notes.pdf` (sha256 `a07b907db6fa32d591a5fd3ad6120393790979a687e0c99ba3a5192c2269bb95`)

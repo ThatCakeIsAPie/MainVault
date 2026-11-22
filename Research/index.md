@@ -52,6 +52,7 @@
 - [[offshoots/holy-grail-of-investing]] — Dalio/Robbins frame: 8–12 non-correlated investments + security/growth/dream buckets; contested retail-access claim (SEC/DOL).
 - [[offshoots/honor-edification-and-communication-rhythm]] — Healthy duplication depends on honoring the mentorship chain, edifying the right people, and maintaining clear communication rhythms.
 - [[offshoots/identity-and-belief-drive-behavior]] — Lasting behavioral change comes from identity and belief change, not temporary motivation or surface discipline.
+- [[offshoots/if-it-scales-its-free]] — Hormozi split: what scales is free; what doesn't gets a price. Lyle also ties this to the business model behind flat-rate AI plans.
 - [[offshoots/long-term-alignment-through-reinvestment]] — Participants should have incentives to reinvest and act in the long-term interest of the organization.
 - [[offshoots/master-once-then-duplicate]] — True scale comes from mastering a skillset once and then teaching others to do it.
 - [[offshoots/mentorship-compression-through-proven-paths]] — The fastest way to reduce avoidable mistakes is to learn from someone who has already walked the path.
