@@ -5,6 +5,15 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-22] create | purple cow as a business and brand principle
+- Created: [[offshoots/purple-cow]]
+- Source: [[raw/transcripts/lyle-x-share-2124459878408433851]] (already ingested; was raw-only until Lyle's take)
+- Lyle's take: not just content; a general approach to business and brand — go after the really hard things; for marketing, do something so wild people can't help but look ("a massive, massive thing")
+- Why: Lyle asked for an actual principle page
+- Linked: [[offshoots/marketing-first-principles]], [[offshoots/if-it-scales-its-free]] (linked only; that page was not edited)
+- No raw files edited
+- Index updated
+
 ## [2026-11-22] ingest | ryangrowthh MrBeast purple-cow virality clip (2124459878408433851)
 - Raw: [[raw/transcripts/lyle-x-share-2124459878408433851]] (sha256 `898b24273a82b4dee9eb11b96dcab4cb62bdf11bf64850f47565070635c7e1a4`)
 - Media: 1 video (~99.6s, inspected, not stored) + preview JPG → `raw/assets/x/2124459878408433851/`

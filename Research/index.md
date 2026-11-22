@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-11-21 | Total pages: 153+
+> Last updated: 2026-11-22 | Total pages: 153+
 
 ## Meta / schema
 
@@ -64,6 +64,7 @@
 - [[offshoots/pipeline-abundance-through-repetition]] — Confidence in people work comes from having enough people in process that no single prospect carries emotional weight.
 - [[offshoots/principles-permanent-parameters-adaptive]] — Protect durable commitments while continuously recalibrating context-sensitive operating dials.
 - [[offshoots/purpose-and-vision-as-focusing-mechanisms]] — Clear vision and purpose simplify decisions, priorities, reading lists, and relationships.
+- [[offshoots/purple-cow]] — Go after the hard, never-done-before thing; the ordinary gets scrolled past. Lyle treats this as a business and brand principle, not just a content tip.
 - [[offshoots/rejection-that-preserves-agency]] — A truthful rejection can preserve standards and equip future growth by making the present gap and route back legible.
 - [[offshoots/rejection-that-preserves-agency]] — A truthful rejection can preserve standards and equip future growth by making the present gap and route back legible.
 - [[offshoots/self-governance-by-contributors]] — People doing the work and bearing the consequences should govern the conditions under which they work.
