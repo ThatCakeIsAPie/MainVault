@@ -5,6 +5,10 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-23] update | VXE partnership and pay, in Lyle's words
+- Source: Lyle via Spar, 2026-11-23: partner not owner; owner won't do Layer 2 but is OK with something like profit share; VXE is where Lyle learns traditional business, and its main output for him is money for elsewhere
+- Updated: `Business/Faleth Capital/VXE (partner)/AI Context/VXE — AI Reference.md` (Partnership Structure, Compensation & Equity; actual terms still to be documented)
+
 ## [2026-11-23] update | Free Range Repair no longer run by Lyle
 - Source: Lyle's correction via Spar, 2026-11-23: he pivoted away from Free Range Repair when VXE started picking back up. Closed vs paused not stated.
 - Updated: `Business/Faleth Capital/VXE (partner)/AI Context/VXE — AI Reference.md` (Overview line and Key Relationships row)

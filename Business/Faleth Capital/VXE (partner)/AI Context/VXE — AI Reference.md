@@ -34,13 +34,23 @@ VXE operates in the government contracts space.
 
 ## Partnership Structure
 
-> **To be documented.** Add equity splits, profit sharing terms, and any formal partnership agreement details here.
+Lyle's view, 2026-11-23:
+- Lyle is a partner at VXE, not the owner.
+- He uses VXE to learn how a traditional business runs.
+- For him, VXE's main output is money he can use elsewhere (Faleth).
+
+> **Still to be documented:** equity splits, profit sharing terms, and any formal partnership agreement.
 
 ---
 
 ## Compensation & Equity
 
-> **To be documented.** Add any internal compensation structure or equity terms.
+Lyle's view, 2026-11-23:
+- The owner does not want to use Layer 2, the pay design all of Faleth is built on.
+- The owner is OK with something like a profit share.
+- So VXE is not run on Faleth's compensation model.
+
+> **Still to be documented:** the actual compensation and equity terms.
 
 ---
 
