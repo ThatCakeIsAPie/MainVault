@@ -4,7 +4,7 @@ created: 2026-11-23
 updated: 2026-11-23
 type: summary
 tags: [business, finance, strategy, operations, framework]
-sources: [raw/conversations/spar-2026-11-23-dfw-build-cost-explorer-home-construction.md, raw/conversations/spar-2026-11-23-one-billion-homes-compensation-drip.md, raw/conversations/spar-2026-11-23-one-billion-homes-how-it-starts.md, raw/conversations/spar-2026-11-23-habitat-for-humanity-contacts.md, raw/documents/dfw-build-cost-explorer-2026-11-23.html]
+sources: [raw/conversations/spar-2026-11-23-dfw-build-cost-explorer-home-construction.md, raw/conversations/spar-2026-11-23-one-billion-homes-compensation-drip.md, raw/conversations/spar-2026-11-23-one-billion-homes-how-it-starts.md, raw/conversations/spar-2026-11-23-habitat-for-humanity-contacts.md, raw/conversations/spar-2026-11-23-time-per-home-compounding-math.md, raw/documents/dfw-build-cost-explorer-2026-11-23.html]
 confidence: medium
 ---
 
@@ -116,12 +116,28 @@ He called these numbers a hypothetical example, not settled parameters. ^[raw/co
 - This matches [[One_Billion_Homes]] §1 (sell at market; prices fall through supply). §7 already names Habitat affiliates as buyers from the Component Plant.
 - **His ask to them:** he's starting a home construction company and building the team that will build the homes. Do they know people in the industry worth sitting down with?
 - **Funding line:** VXE money can be his own down payment against any capital he raises.
-- **What he'd stress:** the goal is cutting time per home, using the compounding math behind it.
+- **What he'd stress:** the goal is cutting time per home, using the compounding math below.
+
+## Time per home compounds (Lyle's example, 2026-11-23)
+^[raw/conversations/spar-2026-11-23-time-per-home-compounding-math.md]
+An illustration, not a forecast. It puts numbers on the speed principle in [[One_Billion_Homes]] §6.
+
+In his words: "If you put in $500k and get out $600k, and it takes you 12 months, that is 20% APR. If you can do the same, but in 1 month, that is the same math, but in 1 month instead, and compounds 12 times in the same time span as prior."
+
+$500k, 20% per build, everything reinvested:
+
+| Builds per year | After one year |
+| --- | --- |
+| 1 | $600k |
+| 2 | $720k |
+| 4 | about $1.04M |
+| 12 | about $4.46M |
+
+Same margin, same price. Only the time per home changes.
 
 ## Open questions
 - Lyle's own: he worries that hands-on industry "experience" could teach him the wrong lesson, the "industry standard" habits he wants to improve on. He isn't sure that's a valid concern.
 - Does a leader need to know how to do the work, or at least understand it? He lacks the experience and doesn't want to lead without it, but questions how much it matters.
-- The worked compounding math for time per home. [[One_Billion_Homes]] §6 states the principle (a crew that halves its time earns the same pool twice as often), but no numbers are in the vault yet. Waiting on Lyle's math.
 - Networking and team-gathering vs getting hands-on himself. He leaned toward networking but didn't close it.
 - Unit prices need supplier quotes before the model is trusted.
 - What the unexplained slice of the roughly $400k cost gap actually is.

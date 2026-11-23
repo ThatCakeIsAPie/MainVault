@@ -5,6 +5,11 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-23] ingest | Spar: Lyle's time-per-home compounding math
+- Raw: [[raw/conversations/spar-2026-11-23-time-per-home-compounding-math]] (sha256 `d58955791f612642c64ca3b9f57db6c294a4a90311a4974a84dd45788e0bc6f3`)
+- Updated: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (new "Time per home compounds" section; closes the open question on missing math). Arithmetic re-checked: 1.2^12 ≈ 8.92.
+- Canon `One_Billion_Homes.md` §6 not edited
+
 ## [2026-11-23] update | Habitat ask, VXE down payment, time-per-home pitch
 - Appended a second dated "Later note" to [[raw/conversations/spar-2026-11-23-habitat-for-humanity-contacts]]
 - Updated: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (his ask to Habitat contacts, VXE money as down payment, time-per-home emphasis; open question: compounding math not yet in vault — not written from a guess)
