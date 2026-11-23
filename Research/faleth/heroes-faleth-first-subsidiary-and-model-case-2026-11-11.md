@@ -23,6 +23,7 @@ Lyle's notes, Nov 11, 2026. Canon is the nine docs in `Business/Faleth Capital/`
 ## First subsidiary plan
 - I build the first subsidiary myself and earn Class A the same way anyone would: eight straight profitable quarters. Then people I developed build the next ones and I become their mentor, not their CEO.
 - Seed money comes from the defense business my brother and I are partners in. That business is not part of Faleth.
+- **Superseded 2026-11-23:** Lyle now wants One Billion Homes (home construction) as the first subsidiary instead. See [[faleth/one-billion-homes-dfw-build-cost-model-2026]].
 - First business: a small electronics contract manufacturer. About $100k for used equipment, leased space, and setup, plus about $100k for parts and early pay. Roughly $250k to start, my own money, no loan.
 - Why it's the right test bed: every manufacturing step is already verifiable. A barcode or QR scan at each step ties the point system directly to the tracking the shop needs anyway.
 - Claude's suggestions (not yet decided):

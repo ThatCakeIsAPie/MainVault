@@ -4,7 +4,7 @@ created: 2026-11-23
 updated: 2026-11-23
 type: summary
 tags: [business, finance, strategy, operations, framework]
-sources: [raw/conversations/spar-2026-11-23-dfw-build-cost-explorer-home-construction.md, raw/conversations/spar-2026-11-23-one-billion-homes-compensation-drip.md, raw/documents/dfw-build-cost-explorer-2026-11-23.html]
+sources: [raw/conversations/spar-2026-11-23-dfw-build-cost-explorer-home-construction.md, raw/conversations/spar-2026-11-23-one-billion-homes-compensation-drip.md, raw/conversations/spar-2026-11-23-one-billion-homes-how-it-starts.md, raw/documents/dfw-build-cost-explorer-2026-11-23.html]
 confidence: medium
 ---
 
@@ -62,8 +62,8 @@ confidence: medium
 - VXE is in a slow season. His daily work fell from about 4 hours to about 30 minutes thanks to the automations. He wants to use the time.
 - Procurement deals are falling out of favor: tight margins, "tons of middlemen" in the same slice.
 - An automation-consulting offshoot is off the table, short and long term. See [[faleth/bridge-strategy/automation-services-2026]].
-- Faleth Capital is where he wants to go. Good VXE income helps fund it.
-- **The first subsidiary he wants is home construction under One Billion Homes.**
+- Faleth Capital is where he wants to go. Good VXE income helps fund it. He has no equity in VXE: his LLC is a contractor paid by commission. If VXE made $1M+ instead of $100k+, he sees that as genuinely useful long term.
+- **The first subsidiary he wants is home construction under One Billion Homes.** It replaces the electronics contract manufacturer named on 2026-11-11 ([[faleth/heroes-faleth-first-subsidiary-and-model-case-2026-11-11]]).
 - He is open to raising money but doesn't think they need to.
 - This season: reconnect with Habitat for Humanity contacts and get on job sites. He is also weighing a project manager role at another builder for a contract or season, to get paid to learn and "feel the pain more."
 - Constraint: no car until his first VXE paycheck, after the warehouse move.
@@ -95,8 +95,21 @@ He called these numbers a hypothetical example, not settled parameters. ^[raw/co
 - Everyone gets gain share and chooses to take it or mint it. Most start by taking. Around people who mint, they see they could build equity, and they switch.
 - Touches [[The Equity Framework]] §2 and [[The Contribution Framework]].
 
+## How it starts (2026-11-23, his words via Spar)
+^[raw/conversations/spar-2026-11-23-one-billion-homes-how-it-starts.md]
+- **One cell first**, not a whole home.
+- **One Billion Homes replaces the electronics manufacturer** he had planned with about $100-200k. He doesn't want to keep jumping between intermediary businesses.
+- His frame: "what has to happen from here to there."
+- Likely path: start as a **subcontractor** for a general contractor. Then use VXE resources and experience in the bottleneck to become the **general contractor**.
+
+**His role, as he concluded it**
+- He doesn't have to build the whole business himself. His job is to gather the team, secure the funding, and set the compensation plan.
+- So the highest-leverage work may be networking: finding people, possible subs, and companies that could help raise money. Someone may know where the first tasks can start.
+- One option: hire or partner with an experienced project manager who shares his vision.
+
 ## Open questions
-- Lyle's own: he worries about picking up the "industry standard" habits he wants to improve on, and isn't sure that's a valid concern.
-- On 2026-11-11 he named a small electronics contract manufacturer as the first business ([[faleth/heroes-faleth-first-subsidiary-and-model-case-2026-11-11]]). On 2026-11-23 he named home construction. Not yet confirmed which one is current, or whether both stand.
+- Lyle's own: he worries that hands-on industry "experience" could teach him the wrong lesson, the "industry standard" habits he wants to improve on. He isn't sure that's a valid concern.
+- Does a leader need to know how to do the work, or at least understand it? He lacks the experience and doesn't want to lead without it, but questions how much it matters.
+- Networking and team-gathering vs getting hands-on himself. He leaned toward networking but didn't close it.
 - Unit prices need supplier quotes before the model is trusted.
 - What the unexplained slice of the roughly $400k cost gap actually is.

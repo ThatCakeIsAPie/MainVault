@@ -5,6 +5,13 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-23] ingest | Spar: One Billion Homes — how it starts, and Lyle's role
+- Raw: [[raw/conversations/spar-2026-11-23-one-billion-homes-how-it-starts]] (sha256 `6f2436b4fe38d415e6aec510d2755b8543e74816081b18f86f036115f705d419`)
+- Updated: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (new "How it starts" section; open questions updated)
+- Updated: [[faleth/heroes-faleth-first-subsidiary-and-model-case-2026-11-11]] (dated note: electronics manufacturer superseded by One Billion Homes). Resolves the conflict flagged earlier today.
+- Updated: `Business/Faleth Capital/VXE (partner)/AI Context/VXE — AI Reference.md` (Lyle: no equity; his LLC is a contractor paid by commission — corrects the earlier "partner" wording)
+- Canon `One_Billion_Homes.md` not edited
+
 ## [2026-11-23] update | VXE partnership and pay, in Lyle's words
 - Source: Lyle via Spar, 2026-11-23: partner not owner; owner won't do Layer 2 but is OK with something like profit share; VXE is where Lyle learns traditional business, and its main output for him is money for elsewhere
 - Updated: `Business/Faleth Capital/VXE (partner)/AI Context/VXE — AI Reference.md` (Partnership Structure, Compensation & Equity; actual terms still to be documented)
