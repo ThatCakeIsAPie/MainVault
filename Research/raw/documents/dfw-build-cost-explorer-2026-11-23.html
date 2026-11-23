@@ -1,0 +1,1534 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<meta name="claude:viewport-fit-sides" content="cover">
+<title>DFW Build Cost Explorer</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Sans+Condensed:wght@500;600&display=swap">
+<style>
+/* Layout: a takeoff sheet you drill into. A title block on top, a trail showing where you are,
+   then one ruled sheet per level: the published figure, how the model splits it, and the rows beneath it. */
+:root{
+  --paper:#f5f7f9; --wash:#e9edf1;
+  --ink:#0f1720; --ink2:#414d59; --ink3:#5f6a76;
+  --rule:#d9dfe6; --rule2:#b9c2cc;
+  --m:#2a78d6; --l:#eb6834; --o:#1baf7a; --f:#eda100; --g:#9da7b2;
+  --on-m:#fff; --on-l:#fff; --on-o:#fff; --on-f:#0b0b0b; --on-g:#0f1720;
+  --edit:#6250d6;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --cond:"IBM Plex Sans Condensed","Roboto Condensed","Arial Narrow",system-ui,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#11151a; --wash:#1c232b;
+    --ink:#edf0f3; --ink2:#b7c0ca; --ink3:#8e99a5;
+    --rule:#262e37; --rule2:#3a4550;
+    --m:#3987e5; --l:#d95926; --o:#199e70; --f:#c98500; --g:#4d5966;
+    --on-m:#fff; --on-l:#fff; --on-o:#fff; --on-f:#fff; --on-g:#edf0f3;
+    --edit:#9085e9;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#11151a; --wash:#1c232b;
+  --ink:#edf0f3; --ink2:#b7c0ca; --ink3:#8e99a5;
+  --rule:#262e37; --rule2:#3a4550;
+  --m:#3987e5; --l:#d95926; --o:#199e70; --f:#c98500; --g:#4d5966;
+  --on-m:#fff; --on-l:#fff; --on-o:#fff; --on-f:#fff; --on-g:#edf0f3;
+  --edit:#9085e9;
+  color-scheme:dark;
+}
+*,*::before,*::after{box-sizing:border-box}
+[hidden]{display:none!important}
+.vh{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--paper);color:var(--ink);font:400 15px/1.55 var(--sans);-webkit-font-smoothing:antialiased}
+.wrap{max-width:58rem;margin-inline:auto;padding-block:1rem 3rem;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+a{color:inherit;text-underline-offset:2px}
+h1,h2,h3{font-family:var(--cond);font-weight:600;line-height:1.15;margin:0;text-wrap:balance}
+p{margin:0}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
+#view:focus{outline:none}
+
+/* title bar */
+.top{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.1rem 1.5rem;border-bottom:2px solid var(--ink)}
+.brand{font:600 1.05rem/1 var(--cond);letter-spacing:.09em;text-transform:uppercase;text-decoration:none;padding:.6rem 0}
+.tabs{display:flex;gap:1.25rem;font-size:14px}
+.tabs a{text-decoration:none;color:var(--ink2);padding:.6rem 0 .5rem;border-bottom:3px solid transparent;margin-bottom:-2px}
+.tabs a:hover{color:var(--ink)}
+.tabs a[aria-current="page"]{color:var(--ink);border-bottom-color:var(--ink);font-weight:500}
+
+/* trail */
+.crumbs{font-size:13px;color:var(--ink3);margin:1rem 0 0;display:flex;flex-wrap:wrap;gap:.1rem .45rem;align-items:center;list-style:none;padding:0}
+.crumbs a{color:var(--ink2)}
+.crumbs li+li::before{content:"›";margin-right:.45rem;color:var(--rule2)}
+.crumbs [aria-current]{color:var(--ink)}
+
+/* level header */
+.lv{padding:1rem 0 .4rem}
+.eyebrow{font:500 11.5px/1.3 var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--ink3);margin:0 0 .4rem}
+.lv h1{font-size:clamp(1.7rem,5vw,2.3rem)}
+.lv h1 .code{font:500 .55em var(--mono);color:var(--ink3);margin-right:.5rem;vertical-align:.18em;letter-spacing:0}
+.hero{display:flex;flex-wrap:wrap;align-items:baseline;gap:.25rem .9rem;margin:.55rem 0 0}
+.fig{font:600 clamp(3rem,10vw,3.6rem)/1 var(--sans);letter-spacing:-.025em}
+.figsub{color:var(--ink2);font-size:14px}
+.thesis{margin-top:.9rem;max-width:62ch;font-size:1.02rem}
+.edited{display:inline-flex;align-items:center;gap:.3rem;font:500 11.5px/1 var(--sans);color:var(--ink2);white-space:nowrap}
+.edited::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--edit)}
+
+.tblock{display:grid;grid-template-columns:repeat(auto-fit,minmax(10rem,1fr));gap:1px;background:var(--rule2);border:1px solid var(--rule2);margin:1.3rem 0 0}
+.tblock div{background:var(--paper);padding:.5rem .7rem .55rem}
+.tblock dt{font:500 10.5px/1.3 var(--sans);letter-spacing:.09em;text-transform:uppercase;color:var(--ink3)}
+.tblock dd{margin:.15rem 0 0;font-size:13.5px;line-height:1.35}
+dl{margin:0}
+
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(9.5rem,1fr));margin:1.1rem 0 0;border-top:1px solid var(--rule2);border-bottom:1px solid var(--rule)}
+.stats div{padding:.6rem .75rem .7rem 0}
+.stats dt{font-size:12.5px;color:var(--ink3)}
+.stats dd{margin:.1rem 0 0;font:600 1.2rem/1.25 var(--sans)}
+.stats dd small{display:block;font:400 12.5px/1.35 var(--sans);color:var(--ink2);margin-top:.1rem}
+
+/* bars */
+.bar{display:flex;gap:2px;height:10px;position:relative;min-width:3px}
+.seg{flex:0 1 0;min-width:0;height:100%}
+.seg.m{background:var(--m)}.seg.l{background:var(--l)}.seg.o{background:var(--o)}.seg.f{background:var(--f)}.seg.g{background:var(--g)}.seg.k{background:var(--ink)}
+.bar>.seg:last-of-type{border-radius:0 4px 4px 0}
+.bar.tall{height:28px}
+.bar.tall>.seg{border-radius:4px;display:flex;align-items:center}
+.bar.tall>.seg b{font:600 12px/1 var(--sans);padding-left:7px;white-space:nowrap}
+.seg.m b{color:var(--on-m)}.seg.l b{color:var(--on-l)}.seg.o b{color:var(--on-o)}.seg.f b{color:var(--on-f)}.seg.g b{color:var(--on-g)}
+.tick{position:absolute;top:-4px;bottom:-4px;width:2px;margin-left:-1px;background:var(--ink)}
+.comp{margin-top:1.2rem}
+.sw{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:.5rem}
+.sw.m{background:var(--m)}.sw.l{background:var(--l)}.sw.o{background:var(--o)}.sw.f{background:var(--f)}.sw.g{background:var(--g)}
+.sw.t{width:2px;height:12px;border-radius:0;background:var(--ink);margin:0 .75rem 0 4px;vertical-align:-2px}
+.legend{width:100%;max-width:34rem;border-collapse:collapse;margin-top:.7rem;font-size:14px}
+.legend th{font-weight:400;text-align:left;padding:.26rem 0}
+.legend td{text-align:right;font-variant-numeric:tabular-nums;padding:.26rem 0 .26rem 1rem;white-space:nowrap}
+.legend td.p{color:var(--ink3);width:4.6rem}
+.legend tr.tot th,.legend tr.tot td{border-top:1px solid var(--rule2);font-weight:600}
+.legend tr.tot td.p{font-weight:400}
+
+/* sections and rows */
+.sec{margin-top:2.1rem}
+.sec>h2{font-size:1.3rem}
+.lead{color:var(--ink2);margin:.35rem 0 0;max-width:66ch}
+.key{display:flex;flex-wrap:wrap;gap:.3rem 1rem;font-size:12.5px;color:var(--ink2);margin:.7rem 0 0;padding:0;list-style:none}
+.key li{display:flex;align-items:center}
+.rows{list-style:none;margin:.7rem 0 0;padding:0;border-top:1px solid var(--rule2)}
+.rows>li{border-bottom:1px solid var(--rule)}
+.row{display:grid;grid-template-columns:auto minmax(0,1fr) auto .9rem;column-gap:.65rem;row-gap:.4rem;align-items:baseline;padding:.85rem .2rem .9rem;text-decoration:none}
+a.row:hover{background:var(--wash)}
+a.row:focus-visible{outline-offset:-2px}
+.row .code{font:500 12px/1 var(--mono);color:var(--ink3);min-width:1.5rem}
+.row .nm{font:600 1.08rem/1.25 var(--cond);letter-spacing:.005em}
+.row .amt{font-weight:600;font-variant-numeric:tabular-nums;white-space:nowrap}
+.row .chev{color:var(--ink3);font-size:1.1rem;line-height:1;justify-self:end}
+.row .track{grid-column:2 / 4;display:block}
+.row .cap{grid-column:2 / 3;font-size:12.5px;line-height:1.35;color:var(--ink2);display:flex;flex-wrap:wrap;gap:.1rem .6rem;align-items:center}
+.row .share{grid-column:3 / 4;font-size:12.5px;color:var(--ink3);text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.row.nocode{grid-template-columns:minmax(0,1fr) auto .9rem}
+.row.nocode .track{grid-column:1 / 3}
+.row.nocode .cap{grid-column:1 / 2}
+.row.nocode .share{grid-column:2 / 3}
+
+/* takeoff tables */
+.tk{width:100%;border-collapse:collapse;font-size:14px;margin-top:.7rem}
+.tk th{font:500 11px/1.3 var(--sans);letter-spacing:.07em;text-transform:uppercase;color:var(--ink3);text-align:left;padding:.4rem .6rem .4rem 0;border-bottom:1px solid var(--rule2)}
+.tk th.num{text-align:right;padding-right:0}
+.tk td{padding:.6rem .6rem .6rem 0;border-bottom:1px solid var(--rule);vertical-align:top}
+.tk td.cost{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap;font-weight:500;padding-right:0;padding-top:.85rem}
+.tk td.it{min-width:0}
+.tk .it b{font-weight:500;display:block;line-height:1.35}
+.tk .it small{color:var(--ink2);font-size:12.5px;display:block;line-height:1.35;margin-top:.1rem}
+.tk td.src{font-size:12.5px;color:var(--ink2);width:13rem;padding:.85rem 0 .6rem 1.6rem}
+.tk th:last-child{padding-left:1.6rem;padding-right:0}
+.tk tfoot td{font-weight:600;border-bottom:0;border-top:1px solid var(--rule2);padding-top:.55rem}
+.qp{display:flex;align-items:center;gap:.35rem;white-space:nowrap}
+.qp .u,.qp .x{color:var(--ink2);font-size:13px}
+.pf{display:inline-flex;align-items:center;gap:.15rem;color:var(--ink2)}
+input.n{font:400 14px/1.2 var(--sans);font-variant-numeric:tabular-nums;width:5.3em;padding:.38rem .45rem;border:1px solid var(--rule2);border-radius:4px;background:transparent;color:var(--ink);text-align:right;-moz-appearance:textfield;appearance:textfield}
+input.n::-webkit-outer-spin-button,input.n::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
+input.n:hover{border-color:var(--ink3)}
+input.n.ed{border-color:var(--edit);box-shadow:inset 0 0 0 1px var(--edit)}
+.cf{display:inline-flex;align-items:center;gap:.35rem;white-space:nowrap}
+.dots{display:inline-flex;gap:2px}
+.dots i{width:6px;height:6px;border-radius:50%;border:1px solid var(--ink3)}
+.dots i.on{background:var(--ink3)}
+.src .sl{display:block;margin-top:.15rem}
+.tkwrap{margin-top:1.6rem}
+.tkwrap h3{font-size:1.08rem}
+.basis{margin-top:.7rem;padding:.7rem .85rem;border-left:3px solid var(--rule2);background:var(--wash);max-width:70ch;font-size:14px}
+.basis b{font-weight:500}
+.tools{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem 1rem;margin-top:1rem;font-size:13px;color:var(--ink2)}
+.btn{border:1px solid var(--rule2);background:transparent;border-radius:4px;padding:.5rem .85rem;cursor:pointer;font-size:14px;line-height:1.2}
+.btn:hover{background:var(--wash)}
+.btn[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.seg-ctl{display:flex;flex-wrap:wrap;gap:.45rem;margin-top:.9rem}
+
+.note{border-top:1px solid var(--rule);padding:.85rem 0;max-width:70ch}
+.note:first-of-type{margin-top:.7rem}
+.note h3{font-size:1.02rem;margin-bottom:.25rem}
+.note p{color:var(--ink2)}
+.note .more{font-size:13px;margin-top:.3rem}
+.pager{display:flex;justify-content:space-between;gap:1rem;margin-top:2rem;padding-top:.9rem;border-top:1px solid var(--rule2);font-size:14px}
+.pager a{text-decoration:none;max-width:48%}
+.pager a:hover{text-decoration:underline}
+.pager .nx{margin-left:auto;text-align:right}
+.pager small{display:block;color:var(--ink3);font-size:12px}
+
+/* rankings */
+.rank{list-style:none;margin:.9rem 0 0;padding:0;border-top:1px solid var(--rule2);counter-reset:r}
+.rank>li{border-bottom:1px solid var(--rule)}
+.rank a{display:grid;grid-template-columns:1.9rem minmax(0,1fr) auto;column-gap:.5rem;row-gap:.3rem;align-items:baseline;padding:.6rem .2rem .65rem;text-decoration:none}
+.rank a:hover{background:var(--wash)}
+.rank a:focus-visible{outline-offset:-2px}
+.rank .no{font:500 12px var(--mono);color:var(--ink3)}
+.rank .nm{font:600 1rem/1.25 var(--cond)}
+.rank .nm small{font:400 12.5px var(--sans);color:var(--ink3);margin-left:.4rem;white-space:nowrap}
+.rank .v{font-weight:600;font-variant-numeric:tabular-nums;white-space:nowrap}
+.rank .track{grid-column:2 / 4}
+.rank .bar{height:8px}
+
+/* plain tables in notes */
+.pt{width:100%;border-collapse:collapse;font-size:14px;margin-top:.7rem}
+.pt th,.pt td{text-align:left;padding:.5rem .8rem .5rem 0;border-bottom:1px solid var(--rule);vertical-align:top}
+.pt thead th{font:500 11px/1.3 var(--sans);letter-spacing:.07em;text-transform:uppercase;color:var(--ink3);border-bottom-color:var(--rule2)}
+.pt tbody th{font-weight:500;width:11rem}
+.pt td.num,.pt th.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.scroll{overflow-x:auto}
+.plain{margin:.6rem 0 0;padding-left:1.15rem;max-width:70ch;color:var(--ink2)}
+.plain li{margin:.35rem 0}
+.plain b{font-weight:500;color:var(--ink)}
+.srcs{list-style:none;margin:.7rem 0 0;padding:0;font-size:13.5px}
+.srcs li{padding:.45rem 0;border-bottom:1px solid var(--rule);color:var(--ink2);overflow-wrap:anywhere}
+.srcs b{font-weight:500;color:var(--ink)}
+.foot{margin-top:3rem;padding-top:.9rem;border-top:1px solid var(--rule2);font-size:12.5px;color:var(--ink3);max-width:76ch}
+#tip{position:fixed;left:0;top:0;z-index:20;pointer-events:none;background:var(--ink);color:var(--paper);font-size:12.5px;line-height:1.3;padding:.35rem .55rem;border-radius:4px;white-space:nowrap}
+
+@media (max-width:640px){
+  .tabs{gap:1.1rem;width:100%}
+  .brand{padding-bottom:.1rem}
+  .tk thead{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}
+  .tk,.tk tbody,.tk tfoot,.tk td{display:block}
+  .tk tbody tr{display:grid;grid-template-columns:minmax(0,1fr) auto;grid-template-areas:"it cost" "qp qp" "src src";gap:.45rem .8rem;padding:.8rem 0;border-bottom:1px solid var(--rule)}
+  .tk td{padding:0;border:0}
+  .tk td.it{grid-area:it}.tk td.cost{grid-area:cost;padding:0}.tk td.qpc{grid-area:qp}.tk td.src{grid-area:src;width:auto;padding:0;display:flex;flex-wrap:wrap;gap:.1rem .7rem;align-items:center}
+  .src .sl{margin:0}
+  .tk tfoot tr{display:flex;justify-content:space-between;gap:1rem;padding:.6rem 0 0}
+  .tk tfoot td{border:0;padding:0}
+  .tk tfoot td.fill{display:none}
+  input.n{font-size:16px;width:5.6em;padding:.4rem .45rem}
+  .pt tbody th{width:auto}
+  .pt.stack,.pt.stack tbody,.pt.stack tr,.pt.stack th,.pt.stack td{display:block}
+  .pt.stack thead{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}
+  .pt.stack tr{padding:.6rem 0;border-bottom:1px solid var(--rule)}
+  .pt.stack th,.pt.stack td{border:0;padding:.1rem 0}
+  .pt.stack td[data-l]::before{content:attr(data-l) ": ";color:var(--ink3);font-size:12.5px}
+}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <a class="brand" href="#price">DFW Build Cost Explorer</a>
+    <nav class="tabs" aria-label="Sections">
+      <a href="#price" data-tab="b">Breakdown</a>
+      <a href="#opportunities" data-tab="o">Opportunities</a>
+      <a href="#notes" data-tab="n">Model notes</a>
+    </nav>
+  </header>
+  <main id="view" tabindex="-1"></main>
+  <footer class="foot">The survey figures are NAHB's published averages for a 2,647 sq ft home. Materials, labor and overhead are a bottom-up model of one reference home in Dallas–Fort Worth, and many unit prices are estimates. Replace them with supplier quotes before you rely on them.</footer>
+</div>
+<div id="tip" role="tooltip" hidden></div>
+
+<script>
+/* Cost model for one reference home. NAHB figures are published survey averages.
+   Rows are a bottom-up estimate: quantity × unit price, each with a source and a confidence. */
+var MODEL = (function () {
+  // material / overhead / fee row: name, spec, qty, unit, unit price, source, confidence
+  function R(n, s, q, u, p, src, c) { return { n: n, s: s, q: q, u: u, p: p, src: src, c: c }; }
+  // labor row: task, crew, qty, unit, rate, hours (null = not itemized; for "hr" rows hours = qty), source, confidence
+  function L(n, s, q, u, p, h, src, c) { return { n: n, s: s, q: q, u: u, p: p, h: h, src: src, c: c }; }
+
+  var SRC = {
+    "NAHB24": { t: "NAHB", d: "Cost of Constructing a Home, 2024 survey (published January 2025)", u: ["https://www.nahb.org/-/media/AB4EFC742624475A97A0A62189986FF8.ashx"] },
+    "NAHB-LUM": { t: "NAHB lumber prices", d: "Framing lumber prices, reading of November 9, 2026", u: ["https://www.nahb.org/news-and-economics/housing-economics/national-statistics/framing-lumber-prices"] },
+    "HD-STUD8": { t: "Home Depot", d: "2×4×92-5/8 in #2 stud: $3.98 each, $3.58 for 50 or more", u: ["https://www.homedepot.com/p/2-in-x-4-in-x-92-5-8-in-2-Premium-Grade-Whitewood-Stud-569062/202093349"] },
+    "HD-STUD9": { t: "Home Depot", d: "2×4×104-5/8 in prime stud: $4.72 each, $4.25 for 50 or more", u: ["https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Studs/Stainable/2x4/N-5yc1vZc562Z1z0n5mhZ1z0ywxv"] },
+    "FC-LUM": { t: "Framing-calculator", d: "2026 lumber price matrix: 2×4×16 ft $7.95, 2×10×16 ft $21.95", u: ["https://framing-calculator.com/framing-lumber-prices"] },
+    "HD-OSB": { t: "Home Depot", d: "7/16 in OSB: $11.68 a sheet, $11.10 for 68 or more", u: ["https://www.homedepot.com/b/Lumber-Composites-Plywood/7-16/N-5yc1vZbqm7Z1z0mcpw"] },
+    "HD-DW": { t: "Home Depot", d: "1/2 in 4×12 UltraLight drywall: $19.48 a sheet, $14.61 for 34 or more", u: ["https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Sheets/1-2-in/N-5yc1vZbb52Z1z0ppqd"] },
+    "HD-DWX": { t: "Home Depot", d: "5/8 in Firecode X 4×8: $17.78 a sheet, $15.11 for 26 or more", u: ["https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Sheets/USG-Sheetrock-Brand/4x8/N-5yc1vZbb52ZomdZ1z18jbl"] },
+    "HD-WIRE": { t: "Home Depot", d: "Romex 250 ft coils: 14/2 $124, 12/2 $179; 1,000 ft of 12/2 $599", u: ["https://www.homedepot.com/b/Electrical-Wire/250-ft/N-5yc1vZbm7vZ1z1ugzt"] },
+    "HD-123": { t: "Home Depot", d: "12/3 NM-B, 250 ft: $266.01", u: ["https://www.homedepot.com/p/Southwire-250-ft-12-3-Solid-Romex-SIMpull-CU-NM-B-W-G-Wire-63947655/202316276"] },
+    "HD-PNL": { t: "Home Depot", d: "Square D Homeline 200A 40-space panel: $237.23", u: ["https://www.homedepot.com/p/Square-D-Homeline-200-Amp-40-Space-80-Circuit-Indoor-Main-Breaker-Qwik-Grip-Plug-On-Neutral-Load-Center-with-Cover-HOM4080M200PQC/301280380"] },
+    "HD-BKR": { t: "Home Depot", d: "Square D breakers: standard 20A $7.26, arc-fault $59.71, dual-function $66.80", u: ["https://www.homedepot.com/b/Square-D/N-5yc1vZal2"] },
+    "HD-BOX": { t: "Home Depot", d: "Carlon 1-gang new-work box: $0.92", u: ["https://homedepot.com/p/Carlon-1-Gang-18-cu-in-Blue-PVC-New-Work-Electrical-Switch-and-Outlet-Box-B118A-B118A/202546986"] },
+    "HD-PEX": { t: "Home Depot", d: "Apollo 1/2 in PEX-B, 300 ft: $85.52", u: ["https://www.homedepot.com/b/Plumbing-Pipe-Fittings-Pipe-PEX-Pipe/B/N-5yc1vZ1z18i33Z1z1b3ed"] },
+    "HD-PVC3": { t: "Home Depot", d: "3 in × 10 ft Schedule 40 PVC: $18.24, $14.59 for 8 or more", u: ["https://www.homedepot.com/b/Plumbing-Pipe-Fittings-Pipe-PVC-Pipe/10-ft/Schedule-40/N-5yc1vZ1z18i41Z1z116t7Z1z1b3uq"] },
+    "HD-PVC2": { t: "Home Depot", d: "2 in × 10 ft foam-core drain pipe: $12.98", u: ["https://www.homedepot.com/b/Plumbing-Pipe-Fittings-Pipe-PVC-Pipe/DWV/Schedule-40/N-5yc1vZ1z18i41Z1z1b3uqZ1z1bd5r"] },
+    "HD-WH": { t: "Home Depot", d: "Rheem 50-gallon gas water heater: $712.74", u: ["https://homedepot.com/p/Rheem-Performance-50-Gal-Short-6-Year-40-000-BTU-Natural-Gas-Tank-Water-Heater-XG50S06EC40U1/326590347"] },
+    "HD-SHG": { t: "Home Depot", d: "GAF Timberline HDZ shingles: $43.47 a bundle, $39.12 for 39 or more", u: ["https://www.homedepot.com/p/GAF-Timberline-HDZ-Charcoal-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-21-Pieces-0489180/313140616"] },
+    "HD-FLEX": { t: "Home Depot", d: "Flex duct 8 in × 25 ft: R6 $60.99–76.98, R8 $115", u: ["https://www.homedepot.com/b/Heating-Venting-Cooling-Ducting-Venting-Flexible-Ductwork/N-5yc1vZc4nk"] },
+    "ACD": { t: "ACDirect", d: "Goodman 4-ton 15.2 SEER2 air conditioner with 80,000 BTU gas furnace: $5,269.83", u: ["https://www.acdirect.com/goodman-furnace-and-air-conditioner-4-ton-15-2-seer2-ac-with-80000-btu-80-afue-multi-speed-ecm-gas-furnace-system-upflow-r32.html"] },
+    "RMC-DFW": { t: "DFW ready-mix guides", d: "Ready-mix per cu yd: Constructly Tools DFW $119–141; ContractorCounter Dallas $110–145; AceCalc Dallas $181.91", u: ["https://constructlytools.com/cost-estimators/location-guides/concrete-slab-cost-dallas/", "https://www.contractorcounter.com/concrete-prices", "https://acecalc.com/concrete-prices/texas"] },
+    "PT": { t: "Post-tension cost guides", d: "ConcreteSlabCost: cables $0.40–0.80 per sq ft; Terrapin: 0.5 in strand $0.95–1.45 per lf", u: ["https://concreteslabcost.com/post-tensioned-slab-cost/", "https://terrapincg.com/news/post-tensioned-slab-cost-per-square-foot-2026"] },
+    "DFW-FDN": { t: "FinHome DFW guide", d: "Post-tensioned slab in DFW: $12–20 per sq ft", u: ["https://finhomecontracting.com/blog/home-building/dfw-home-building-cost-guide-2026/"] },
+    "CU": { t: "MetalCharts", d: "COMEX copper $6.06 per lb (November 14, 2026)", u: ["https://metalcharts.org/scrap-copper-prices"] },
+    "BLS-DFW": { t: "BLS wages, DFW", d: "BLS OEWS May 2025 mean hourly wages for DFW, as compiled by SimplyWise, × 1.45 for payroll burden", u: ["https://www.simplywise.com/blog/contractor-labor-rates-by-city/"] },
+    "FR-LAB": { t: "Framing labor guides", d: "DigitalEstimating: DFW framing $8.50–12 per sq ft and rising; Framing-calculator: Texas metros $3.20 per sq ft", u: ["https://digitalestimating.com/dfws-growth-boom-driving-framing-and-drywall-material-costs/", "https://framing-calculator.com/framing-labor-cost-calculator"] },
+    "BRICK": { t: "Dallas masonry guides", d: "Corrêa Masonry Dallas: brick materials $4–10 and labor $5–8 per sq ft; HomeGuide brick veneer costs", u: ["https://correamasonryllc.com/brick-veneer-installation-cost-dallas-tx/", "https://homeguide.com/costs/brick-veneer-cost"] },
+    "EL-RATE": { t: "HomeAdvisor", d: "New-construction wiring $3–5 per sq ft; rough-in $2–4", u: ["https://www.homeadvisor.com/cost/electrical/install-electrical-wiring-or-panel/"] },
+    "PL-RATE": { t: "HomeGuide", d: "Rough-in plumbing $8,000–12,000 or $4.50 per sq ft; $450–1,800 per fixture", u: ["https://homeguide.com/costs/install-new-house-plumbing-pipes-cost"] },
+    "HV-RATE": { t: "Chill Brothers Dallas", d: "Installed 4-ton system in Dallas: $11,000–14,500", u: ["https://thechillbrothers.com/new-hvac-system-cost-dallas/"] },
+    "CENSUS-T": { t: "NAHB Eye on Housing", d: "Single-family build times for 2025 completions, from Census data (September 2026)", u: ["https://eyeonhousing.org/2026/09/single-family-home-construction-time-declines-in-2025/"] },
+    "SUB20": { t: "NAHB special study", d: "The average new home uses 24 subcontractors (December 2020)", u: ["https://www.nahb.org/-/media/NAHB/news-and-economics/docs/housing-economics-plus/special-studies/2020/special-study-average-new-home-uses-24-different-subcontractors.pdf?rev=1d760fe4ec7942ec9273f00719e5f9fb"] },
+    "SUB15": { t: "NAHB Eye on Housing", d: "It takes 22 subcontractors to build the average home (September 2015)", u: ["https://eyeonhousing.org/2015/09/it-takes-22-subcontractors-to-build-the-average-home/"] },
+    "CP": { t: "Construction Physics", d: "What Makes Housing So Expensive?", u: ["https://www.construction-physics.com/p/what-makes-housing-so-expensive"] },
+    "HOMES": { t: "Homes.com", d: "Analysis of new-home cost: about 60% goods, 40% services", u: ["https://www.homes.com/news/analysis-the-price-of-building-new-homes-has-been-increasing-especially-for-labor/806710476/"] },
+    "SBCA": { t: "SBCA", d: "Framing the American Dream: component framing versus stick framing", u: ["https://www.sbcacomponents.com/fad"] },
+    "CLEM": { t: "Clemson time study", d: "Holt et al., Stick Built vs. Panelized, The Professional Constructor", u: ["https://open.clemson.edu/aic-journal/vol46/iss2/4/"] },
+    "HUD-PNL": { t: "HUD Cityscape", d: "Ghosh, Bigelow and Patel, Cityscape 23(3): panelization among Oklahoma City and DFW builders", u: ["https://www.huduser.gov/portal/periodicals/cityscpe/vol23num3/ch15.pdf"] },
+    "DOE-AF": { t: "US Department of Energy", d: "Building America Top Innovations: advanced framing", u: ["https://www1.eere.energy.gov/buildings/publications/pdfs/building_america/ba_innovations_1-1-2_advanced_framing.pdf"] },
+    "RCIQ": { t: "RealCostIQ", d: "Summary of the NAHB 2024 survey (41 usable responses)", u: ["https://realcostiq.com/blog/cost-to-build-a-house-per-square-foot/"] },
+    "EST": { t: "My estimate", d: "No published source found. This is my own estimate.", u: [] }
+  };
+
+  var FEE_NOTE = { h: "What to replace", t: "This is NAHB's national average. I did not check DFW amounts, and every city sets its own schedule, so put in the fee for the city you plan to build in." };
+
+  var stages = [
+    {
+      id: "s1", n: 1, name: "Site work", pub: 32719,
+      note: "Three of the five lines are government and utility fees that pass straight through with nothing to mark up.",
+      lines: [
+        { id: "1a", name: "Building permit fees", nahb: 7640,
+          f: [R("Building permit fees", "NAHB national average", 1, "lump", 7640, "NAHB24", "H")],
+          notes: [{ h: "Why there is no markup", t: "A fee has no materials and no labor. It is the same dollar whoever builds the house." }, FEE_NOTE] },
+        { id: "1b", name: "Impact fee", nahb: 6367,
+          f: [R("Impact fee", "NAHB national average", 1, "lump", 6367, "NAHB24", "H")],
+          notes: [FEE_NOTE] },
+        { id: "1c", name: "Water and sewer fees, inspections", nahb: 6260,
+          f: [R("Water and sewer fees, inspections", "NAHB national average", 1, "lump", 6260, "NAHB24", "H")],
+          notes: [FEE_NOTE] },
+        { id: "1d", name: "Architecture, engineering", nahb: 6480,
+          l: [
+            L("Production plan set, amortized", "One plan reused across many homes", 1, "lump", 1500, null, "EST", "L"),
+            L("Post-tension slab engineering", "", 1, "lump", 500, null, "EST", "L"),
+            L("Energy code compliance", "", 1, "lump", 500, null, "EST", "L")
+          ],
+          notes: [{ h: "Why the gap", t: "A production builder spreads one plan over many starts, so design costs little per home. The remainder reflects custom design work in NAHB's sample, which leans toward custom builders." }] },
+        { id: "1e", name: "Other site work", nahb: 5972,
+          m: [
+            R("Silt fence", "36 in, with stakes", 250, "lf", 0.50, "EST", "L"),
+            R("Construction entrance rock", "2–3 in crushed", 20, "ton", 30, "EST", "L")
+          ],
+          l: [
+            L("Clear and rough-grade the pad", "Operator and laborer, skid steer included", 1, "lump", 800, 16, "EST", "L"),
+            L("Install silt fence", "2 laborers", 8, "hr", 30.52, null, "BLS-DFW", "M"),
+            L("Survey staking", "Surveyor", 1, "lump", 400, null, "EST", "L")
+          ],
+          o: [R("Overhead and markup allowance", "", 1, "lump", 300, "EST", "L")] }
+      ]
+    },
+    {
+      id: "s2", n: 2, name: "Foundations", pub: 44748,
+      note: "A post-tensioned slab on grade, the standard DFW foundation. The bottom-up figure sits inside the published local range.",
+      lines: [
+        { id: "2a", name: "Excavation, foundation, concrete, backfill", nahb: 43002,
+          basis: "Concrete: the slab is 2,200 sq ft × 4.5 in = 30.6 cu yd. Grade beams are 510 lf × 12 in × 24 in = 37.8 cu yd. That is 68.4 cu yd, or about 72 with 5% waste.",
+          m: [
+            R("Ready-mix concrete", "3,000 psi, delivered, fees included", 72, "cu yd", 145, "RMC-DFW", "M"),
+            R("Post-tension tendons and anchors", "0.5 in unbonded mono-strand, priced per sq ft of slab", 2200, "sq ft", 0.70, "PT", "M"),
+            R("Rebar", "#4 in the grade beams: 4 bars × 510 lf plus 10% laps, in 20 ft bars", 113, "bar", 11, "EST", "L"),
+            R("Chairs, stirrups, tie wire", "", 1, "lot", 300, "EST", "L"),
+            R("Vapor retarder", "6–10 mil poly", 3, "roll", 120, "EST", "L"),
+            R("Select fill pad", "2,400 sq ft × 1 ft", 89, "cu yd", 25, "EST", "L"),
+            R("Forms", "Reusable 2×12, amortized", 1, "lot", 500, "EST", "L"),
+            R("Pump truck", "Service, 2-hour minimum", 1, "ea", 900, "EST", "L")
+          ],
+          l: [
+            L("Beam trenching", "Operator and laborer, equipment included", 1, "lump", 1200, 16, "EST", "L"),
+            L("Spread, moisture-condition and compact the pad", "Operator and laborer", 1, "lump", 1500, 16, "EST", "L"),
+            L("Forms, steel, tendon layout", "Crew of 6", 120, "hr", 30.52, null, "BLS-DFW", "M"),
+            L("Pour and finish", "Crew of 8", 80, "hr", 30.52, null, "BLS-DFW", "M"),
+            L("Stress tendons, strip forms", "Crew of 2", 16, "hr", 30.52, null, "BLS-DFW", "M")
+          ],
+          o: [R("Sub overhead and profit", "20% of materials and labor", 1, "lump", 5360, "EST", "L")],
+          notes: [
+            { h: "Cross-check", t: "The bottom-up total works out to about $14.60 per sq ft of slab. A published DFW range for post-tensioned slabs is $12–20 per sq ft, so this lands inside it.", src: "DFW-FDN" },
+            { h: "Why the gap", t: "NAHB's figure is a national mix that includes basements, crawlspaces, retaining walls and drilled piers. A flat DFW slab needs none of them." },
+            { h: "Raw material value", t: "DFW ready-mix sells for about $119–145 per cu yd. The cement (about 470 lb per cu yd) and aggregate in it are probably worth $55–65. That part is my estimate. Batching, trucking and plant margin roughly double it." }
+          ] },
+        { id: "2b", name: "Other foundation costs", nahb: 1747,
+          m: [R("Termite pretreat chemical", "", 1, "lot", 250, "EST", "L")],
+          l: [L("Form survey, pretreat labor, post-tension inspection", "", 1, "lump", 600, null, "EST", "L")],
+          o: [R("Third-party testing", "", 1, "lump", 300, "EST", "L")] }
+      ]
+    },
+    {
+      id: "s3", n: 3, name: "Framing", pub: 70982,
+      note: "Holds the widest single gap in the house: the framing line costs more than six times its lumber.",
+      lines: [
+        { id: "3a", name: "Framing, including roof", nahb: 49763,
+          basis: "Wall length: first-floor exterior 160 lf, garage 66 lf, first-floor interior 220 lf, second-floor exterior 146 lf, second-floor interior 200 lf. That is 792 lf. Studs come to about one per linear foot: 0.75 at 16 in on center, plus corners, T-intersections, kings, jacks and cripples. Plates are three times the wall length: one pressure-treated bottom plate on the slab and a double top plate.",
+          m: [
+            R("Studs, first floor", "2×4×104-5/8 in precut, for 9 ft plates", 446, "ea", 4.25, "HD-STUD9", "H"),
+            R("Studs, second floor", "2×4×92-5/8 in precut, for 8 ft plates", 346, "ea", 3.58, "HD-STUD8", "H"),
+            R("Pressure-treated bottom plate", "2×4×16 ft, ground contact", 28, "ea", 12.00, "EST", "L"),
+            R("Top plates, first floor", "2×4×16 ft SPF", 56, "ea", 7.95, "FC-LUM", "M"),
+            R("Plates, second floor", "2×4×16 ft SPF, 1,038 lf", 65, "ea", 7.95, "FC-LUM", "M"),
+            R("Headers", "2-ply 2×10, about 240 lf, in 16 ft lengths", 15, "ea", 21.95, "FC-LUM", "M"),
+            R("Garage door header and spacers", "LVL 3.5 × 11-7/8 in × 18 ft, plus OSB", 1, "lot", 370, "EST", "L"),
+            R("Beams and LVLs at second-floor bearing", "Allowance", 1, "lot", 1200, "EST", "L"),
+            R("Blocking, backing, bracing", "About 10% of the stick lumber", 1, "lot", 500, "EST", "L"),
+            R("Nails and fasteners", "Collated framing nails", 1, "lot", 400, "EST", "L"),
+            R("Sill seal", "Foam gasket", 450, "lf", 0.20, "EST", "L"),
+            R("Subfascia and roof overframing", "2×6, about 400 lf, plus miscellaneous", 1, "lot", 475, "EST", "L")
+          ],
+          l: [
+            L("Layout, plates, first-floor walls, stand and brace", "4–5 carpenters", 140, "hr", 35.03, null, "BLS-DFW", "M"),
+            L("Set floor trusses, deck the subfloor", "4–5 carpenters", 60, "hr", 35.03, null, "BLS-DFW", "M"),
+            L("Second-floor walls", "4–5 carpenters", 110, "hr", 35.03, null, "BLS-DFW", "M"),
+            L("Set roof trusses, hip sets, overframing, fascia", "4–5 carpenters", 80, "hr", 35.03, null, "BLS-DFW", "M"),
+            L("Punch, blocking, backing", "2 carpenters", 26, "hr", 35.03, null, "BLS-DFW", "M")
+          ],
+          o: [
+            R("Framer's overhead and profit", "", 1, "lump", 2200, "EST", "L"),
+            R("Lumberyard delivery and waste", "", 1, "lump", 780, "EST", "L")
+          ],
+          notes: [
+            { h: "Labor cross-check", t: "416 crew hours comes to about $5.50 per sq ft. The two published DFW figures disagree: one gives Texas metros about $3.20 per sq ft, the other gives DFW $8.50–12 and rising. The hour count is close to the 375.5 man-hours SBCA measured for a stick-framed house.", src: ["FR-LAB", "SBCA"] },
+            { h: "Why the gap", t: "Three likely reasons. NAHB weights every builder equally and had only 41 usable responses, which overweights custom builders. Many surveyed homes have raised floors, basements or stick-built roofs; the average new home uses about 15,000 board feet of framing lumber, against 7,000–7,500 in this line. And framers price by the square foot at the market rate, not by their hours." },
+            { h: "Raw material value", t: "Madison's lumber index stood at $449.05 per 1,000 board feet on November 6, 2026. A 92-5/8 in stud is 5.33 board feet, so $3.58 at retail equals $672 per 1,000 board feet, about 1.5 times the mill price. The wall package is about 7,000 board feet, or about $3,150 at the mill price. Against that base, NAHB's framing line is about 16 times the wood.", src: "NAHB-LUM" },
+            { h: "Ways to cut it", t: "Wall panels and trusses built in a plant. SBCA measured 152.1 man-hours for a component-framed house against 375.5 for stick framing, with stick framing using 25% more wood. A Clemson time study recorded 150.5 hours against 79.5, a 47% improvement. One catch from a HUD study of Oklahoma City and DFW builders: framers charged the same per square foot either way, so the saving only reaches you if you own the crew or the panel line.", src: ["SBCA", "CLEM", "HUD-PNL"] },
+            { h: "Fewer studs", t: "Advanced framing (24 in on center, single top plates, two-stud corners, right-sized headers) can cut wall studs by up to a third, according to the Department of Energy, with reported savings above $1,000 per home.", src: "DOE-AF" }
+          ] },
+        { id: "3b", name: "Trusses", nahb: 12903,
+          basis: "Roof trusses are priced per sq ft of plan area, about 2,400 sq ft. Floor trusses are priced per linear foot: about 600 lf of 14 in open-web trusses at 24 in on center.",
+          m: [
+            R("Roof truss package", "Hip set, about 55 trusses plus girders, delivered", 2400, "sq ft", 3.00, "EST", "L"),
+            R("Floor trusses", "14 in open-web, 24 in on center", 600, "lf", 8.00, "EST", "L")
+          ],
+          l: [L("Crane and operator for the roof set", "", 1, "lump", 600, 4, "EST", "L")],
+          notes: [
+            { h: "Raw material value", t: "The lumber in these trusses is about 5,000 board feet, or about $2,250 at $0.45 a board foot, plus about $500 of steel connector plates. The truss plant sells that for about 4.4 times its raw inputs, with design, cutting, pressing and delivery included. A builder that owns a truss and panel plant keeps that spread. This is my estimate, at low confidence." }
+          ] },
+        { id: "3c", name: "Sheathing", nahb: 6513,
+          basis: "Walls: 3,100 sq ft net ÷ 32 sq ft a sheet, plus 5% = 102 sheets. Roof: 2,876 sq ft ÷ 32, plus 9% = 98 sheets. Subfloor: 1,150 sq ft ÷ 32, plus 6% = 38 sheets.",
+          m: [
+            R("Wall OSB", "7/16 in, 4×8", 102, "sheet", 11.10, "HD-OSB", "H"),
+            R("Roof OSB", "7/16 in, radiant barrier", 98, "sheet", 15.00, "EST", "L"),
+            R("Subfloor", "23/32 in tongue-and-groove OSB", 38, "sheet", 28.00, "EST", "L"),
+            R("Adhesive, H-clips, nails", "", 1, "lot", 250, "EST", "L")
+          ],
+          l: [L("Hang wall, roof and floor sheathing", "Framing crew, about 7,400 sq ft", 7400, "sq ft", 0.40, 85, "EST", "L")] },
+        { id: "3d", name: "General metal, steel", nahb: 1718,
+          m: [R("Hurricane ties, straps, hold-downs, joist hangers, anchor bolts", "", 1, "lot", 900, "EST", "L")],
+          l: [L("Install connectors", "Framing crew", 1, "lump", 400, 11, "EST", "L")] },
+        { id: "3e", name: "Other framing costs", nahb: 85,
+          m: [R("Miscellaneous material", "", 1, "lot", 85, "EST", "L")] }
+      ]
+    },
+    {
+      id: "s4", n: 4, name: "Exterior finishes", pub: 57510,
+      note: "Brick, siding, roof, windows and doors. This DFW specification comes in close to NAHB's figure.",
+      lines: [
+        { id: "4a", name: "Exterior wall finish", nahb: 24450,
+          basis: "Brick: 1,680 sq ft × 4.6 king-size bricks per sq ft × 1.05 for waste ≈ 8,115 bricks. Siding: 1,240 sq ft × 1.10 ÷ 7 sq ft per 12 ft plank ≈ 195 planks.",
+          m: [
+            R("Face brick", "King size, from a DFW plant", 8115, "ea", 0.60, "BRICK", "L"),
+            R("Mortar", "Type N, 70 lb bags", 50, "bag", 14, "EST", "L"),
+            R("Masonry sand", "", 6, "ton", 40, "EST", "L"),
+            R("Ties, weeps, flashing, lintels", "", 1, "lot", 400, "EST", "L"),
+            R("Fiber-cement lap siding", "8.25 in × 12 ft, primed", 195, "plank", 13, "EST", "L"),
+            R("Fiber-cement trim", "4/4", 600, "lf", 1.60, "EST", "L"),
+            R("Housewrap", "9 × 150 ft rolls", 4, "roll", 135, "EST", "L"),
+            R("Siding nails and caulk", "", 1, "lot", 400, "EST", "L"),
+            R("Soffit and fascia", "Fiber cement, about 300 lf", 1, "lot", 2000, "EST", "L")
+          ],
+          l: [
+            L("Lay brick", "2 masons and 2 tenders, priced per sq ft", 1680, "sq ft", 4.00, 170, "BRICK", "L"),
+            L("Hang lap siding", "Crew of 3, priced per sq ft", 1240, "sq ft", 3.00, 106, "EST", "L"),
+            L("Trim", "Crew of 2", 1, "lump", 1000, 29, "EST", "L"),
+            L("Soffit and fascia", "Crew of 2", 1, "lump", 1500, 43, "EST", "L")
+          ],
+          o: [R("Sub overhead and profit", "15% of materials and labor", 1, "lump", 3840, "EST", "L")],
+          notes: [
+            { h: "Why the model runs higher", t: "This DFW specification puts brick on the whole first floor, which costs more than the national mix NAHB surveyed. A published Dallas range puts brick labor at $5–8 per sq ft; I assumed $4 for a production builder.", src: "BRICK" },
+            { h: "Ways to cut it", t: "Switching the first-floor brick to fiber cement would save roughly $5,000–7,000 a home under these assumptions." }
+          ] },
+        { id: "4b", name: "Roofing", nahb: 16732,
+          basis: "Roof surface is 2,876 sq ft, or 28.8 squares. With about 10% waste for hips and ridges that is 32 squares. At 3 bundles a square, 96 bundles.",
+          m: [
+            R("Architectural shingles", "GAF Timberline HDZ", 96, "bundle", 39.12, "HD-SHG", "H"),
+            R("Synthetic underlayment", "10-square rolls", 3, "roll", 120, "EST", "L"),
+            R("Starter strip", "About 330 lf of eave", 4, "bundle", 60, "EST", "L"),
+            R("Hip and ridge cap", "About 220 lf", 9, "bundle", 75, "EST", "L"),
+            R("Drip edge", "10 ft pieces", 33, "ea", 10, "EST", "L"),
+            R("Ice and water shield", "Valleys and penetrations", 2, "roll", 90, "EST", "L"),
+            R("Ventilation", "Ridge and box vents", 1, "lot", 180, "EST", "L"),
+            R("Pipe boots, step flashing", "", 1, "lot", 175, "EST", "L"),
+            R("Coil nails", "", 6, "box", 50, "EST", "L"),
+            R("Gutters", "5 in seamless aluminum, partial", 200, "lf", 4.00, "EST", "L"),
+            R("Dumpster and delivery", "Service", 1, "lot", 300, "EST", "L")
+          ],
+          l: [
+            L("Dry-in and shingle", "6 roofers for 1.5 days, priced per square", 32, "sq", 90, 90, "EST", "L"),
+            L("Hang gutters", "Crew of 2, priced per linear foot", 200, "lf", 6, 20, "EST", "L")
+          ],
+          o: [R("Sub overhead and profit", "25% of materials and labor", 1, "lump", 2840, "EST", "L")],
+          notes: [
+            { h: "Raw material value", t: "Shingles are mostly asphalt, glass mat and granules. At $1.17 per sq ft at the bulk price, the shingles are only about 22% of NAHB's roofing line." }
+          ] },
+        { id: "4c", name: "Windows and doors, including garage door", nahb: 15990,
+          basis: "18 windows, four exterior doors and one 16 × 7 ft garage door.",
+          m: [
+            R("Vinyl single-hung windows, low-E", "About 3 × 5 ft", 16, "ea", 230, "EST", "L"),
+            R("Large vinyl units", "Picture or twin", 2, "ea", 450, "EST", "L"),
+            R("Front entry door", "Fiberglass with glass", 1, "ea", 900, "EST", "L"),
+            R("Patio slider", "6 ft vinyl", 1, "ea", 900, "EST", "L"),
+            R("Garage service door and 20-minute fire door", "Steel, prehung", 2, "ea", 250, "EST", "L"),
+            R("Garage door", "16 × 7 ft insulated steel", 1, "ea", 1300, "EST", "L"),
+            R("Garage door opener", "Belt drive", 1, "ea", 350, "EST", "L"),
+            R("Exterior locksets and handleset", "", 1, "lot", 300, "EST", "L"),
+            R("Flashing tape and sill pans", "", 1, "lot", 250, "EST", "L")
+          ],
+          l: [
+            L("Set and flash windows and exterior doors", "2 carpenters", 20, "hr", 35.03, null, "BLS-DFW", "M"),
+            L("Install garage door and opener", "Dealer crew of 2", 6, "hr", 35.03, null, "BLS-DFW", "M")
+          ],
+          o: [R("Dealer overhead", "", 1, "lump", 2010, "EST", "L")],
+          notes: [
+            { h: "Where the savings are", t: "Windows and doors are factory-made goods that take little labor to set. The lever here is what you pay for them, so it comes down to buying at volume." }
+          ] },
+        { id: "4d", name: "Other exterior costs", nahb: 338,
+          m: [R("Exterior sealants", "", 1, "lot", 200, "EST", "L")],
+          l: [L("Apply sealants", "", 1, "lump", 138, null, "EST", "L")] }
+      ]
+    },
+    {
+      id: "s5", n: 5, name: "Major systems rough-ins", pub: 82319,
+      note: "Plumbing, electrical and HVAC. Piping and wiring are mostly labor and contract pricing. HVAC is mostly equipment.",
+      lines: [
+        { id: "5a", name: "Plumbing, except fixtures", nahb: 27180,
+          basis: "About 18 fixture points: 4 toilets, 5 lavatories, 4 tubs or showers, kitchen sink, dishwasher, ice maker, washer and 2 hose bibbs. Gas runs to the water heater, two furnaces, the cooktop and the fireplace.",
+          m: [
+            R("PEX supply pipe, 1/2 in", "PEX-B, 300 ft coils", 3, "coil", 85.52, "HD-PEX", "H"),
+            R("PEX trunk, 3/4 in", "200 ft", 1, "lot", 120, "EST", "L"),
+            R("PEX fittings, rings, stub-outs", "", 1, "lot", 400, "EST", "L"),
+            R("Stop valves, main ball valve, pressure regulator", "", 1, "lot", 212, "EST", "L"),
+            R("Drain pipe, 3 in", "Schedule 40 PVC, 10 ft", 15, "stick", 14.59, "HD-PVC3", "H"),
+            R("Drain pipe, 2 in", "Foam-core PVC, 10 ft", 20, "stick", 12.98, "HD-PVC2", "H"),
+            R("Drain pipe, 1.5 in", "PVC, 10 ft", 10, "stick", 9.00, "EST", "L"),
+            R("Building drain, 4 in", "PVC, 10 ft", 6, "stick", 30, "EST", "L"),
+            R("Drain fittings, primer, cement", "About 150 fittings", 1, "lot", 660, "EST", "L"),
+            R("Tub and shower valve bodies", "Pressure-balance", 4, "ea", 90, "EST", "L"),
+            R("Water heater", "Rheem 50-gallon gas", 1, "ea", 712.74, "HD-WH", "H"),
+            R("Water heater flue, pan, expansion tank", "", 1, "lot", 250, "EST", "L"),
+            R("Gas piping", "CSST or black iron, about 120 ft", 1, "lot", 600, "EST", "L"),
+            R("Yard sewer and water lines", "4 in and 1 in, about 60 ft each", 1, "lot", 300, "EST", "L"),
+            R("Shower pan liner, nail plates, boxes, hose bibbs", "", 1, "lot", 340, "EST", "L")
+          ],
+          l: [
+            L("Under-slab rough, before the pour", "Plumber and helper", 30, "hr", 43.41, null, "BLS-DFW", "M"),
+            L("Top-out: supply, drains, vents", "Plumber and helper", 60, "hr", 43.41, null, "BLS-DFW", "M"),
+            L("Gas piping and test", "1 plumber", 12, "hr", 43.41, null, "BLS-DFW", "M"),
+            L("Set water heater", "1 plumber", 4, "hr", 43.41, null, "BLS-DFW", "M"),
+            L("Yard lines and tie-ins", "Crew of 2", 16, "hr", 43.41, null, "BLS-DFW", "M"),
+            L("Pressure tests and inspections", "1 plumber", 6, "hr", 43.41, null, "BLS-DFW", "M")
+          ],
+          o: [R("Sub overhead and profit", "25% of materials and labor", 1, "lump", 2630, "EST", "L")],
+          notes: [
+            { h: "Cross-check", t: "The bottom-up total is about $730 per fixture point. Published figures put rough-in plumbing at $8,000–12,000 a house and $450–1,800 a fixture, so this fits.", src: "PL-RATE" },
+            { h: "Why the gap", t: "The pipe, fittings and water heater are worth less than a fifth of NAHB's figure. The rest is licensed labor and how plumbing contracts are priced." },
+            { h: "Ways to cut it", t: "Pre-built plumbing assemblies and manifold PEX systems go after the 128 hours. I found no published dollar savings for either, so that part is unproven." }
+          ] },
+        { id: "5b", name: "Electrical, except fixtures", nahb: 27383,
+          basis: "200-amp service and about 30 circuits. 130 single-gang boxes plus multi-gang, ceiling and fan boxes. 85 receptacles, 8 GFCI receptacles, 45 switches and 4 dimmers.",
+          m: [
+            R("Panel", "Square D Homeline 200A, 40-space", 1, "ea", 237.23, "HD-PNL", "H"),
+            R("Arc-fault and dual-function breakers", "20A, plug-on neutral", 16, "ea", 62.00, "HD-BKR", "H"),
+            R("Standard breakers", "20A single-pole", 8, "ea", 7.26, "HD-BKR", "H"),
+            R("2-pole breakers", "30A and 40A", 2, "ea", 15, "EST", "L"),
+            R("Meter base, service cable, grounding", "", 1, "lot", 410, "EST", "L"),
+            R("14/2 cable", "NM-B, 250 ft coils", 6, "coil", 124, "HD-WIRE", "H"),
+            R("12/2 cable", "NM-B, one 1,000 ft reel plus two 250 ft coils", 1, "lot", 957, "HD-WIRE", "H"),
+            R("12/3 cable", "NM-B, 250 ft coil", 1, "coil", 266.01, "HD-123", "H"),
+            R("10/2 and 10/3 cable", "For the air conditioners and dryer, about 100 ft", 1, "lot", 220, "EST", "L"),
+            R("Low-voltage cable", "Cat6 and RG6", 1, "lot", 170, "EST", "L"),
+            R("Smoke and CO alarm wire", "14/3", 1, "lot", 200, "EST", "L"),
+            R("Single-gang boxes", "Carlon new-work", 130, "ea", 0.92, "HD-BOX", "H"),
+            R("Multi-gang, ceiling and fan boxes", "", 1, "lot", 255, "EST", "L"),
+            R("Devices and plates", "Receptacles, GFCIs, switches, dimmers, 130 plates", 1, "lot", 514, "EST", "L"),
+            R("Smoke and CO alarms", "Interconnected", 10, "ea", 30, "EST", "L"),
+            R("Staples, wire nuts, doorbell, miscellaneous", "", 1, "lot", 300, "EST", "L")
+          ],
+          l: [
+            L("Rough-in: boxes, drilling, wire pulls", "Electrician and helper", 80, "hr", 41.80, null, "BLS-DFW", "M"),
+            L("Service and panel make-up", "1 electrician", 12, "hr", 41.80, null, "BLS-DFW", "M"),
+            L("Low-voltage pre-wire", "1 electrician", 12, "hr", 41.80, null, "BLS-DFW", "M"),
+            L("Trim-out: devices and plates", "Crew of 2", 40, "hr", 41.80, null, "BLS-DFW", "M")
+          ],
+          o: [R("Sub overhead and profit", "25% of materials and labor", 1, "lump", 2950, "EST", "L")],
+          notes: [
+            { h: "Cross-check", t: "The bottom-up total is $5.57 per sq ft. A published range for new-construction wiring is $3–5 per sq ft, so this is slightly above it.", src: "EL-RATE" },
+            { h: "Raw material value", t: "The cable in this home holds about 175 lb of copper, worth about $1,060 at $6.06 a pound. A 250 ft coil of 12/2 holds about $90 of copper and sells for $179. Copper is under 4% of NAHB's electrical line.", src: "CU" },
+            { h: "Why the gap", t: "The cost sits in labor hours per box and in how electrical contracts are priced, not in the wire." },
+            { h: "Ways to cut it", t: "Pre-wired harnesses or plug-together wiring go after the 144 hours. I found no published savings figures, so that part is unproven." }
+          ] },
+        { id: "5c", name: "HVAC", nahb: 26938,
+          basis: "Two split systems, 3-ton downstairs and 2-ton upstairs, with gas furnaces and flex duct in the attic. The equipment price is scaled down from a published $5,269.83 for a 4-ton system.",
+          m: [
+            R("Split systems with gas furnace and coil", "15.2 SEER2, one 3-ton and one 2-ton", 2, "system", 4350, "ACD", "M"),
+            R("Flex duct", "8 in × 25 ft, R8 and R6 mix, about 440 ft", 18, "box", 95, "HD-FLEX", "M"),
+            R("Plenums and duct board", "", 1, "lot", 600, "EST", "L"),
+            R("Boots, registers, return grilles", "", 1, "lot", 524, "EST", "L"),
+            R("Line sets", "", 2, "ea", 250, "EST", "L"),
+            R("Mastic, straps, condensate, pads, disconnects", "", 1, "lot", 600, "EST", "L"),
+            R("Thermostats", "", 2, "ea", 100, "EST", "L"),
+            R("Flues, bath fans, dryer and hood vents, fresh air", "", 1, "lot", 806, "EST", "L")
+          ],
+          l: [
+            L("Duct rough-in", "Crew of 2", 50, "hr", 43.05, null, "BLS-DFW", "M"),
+            L("Set equipment and line sets", "Crew of 2", 20, "hr", 43.05, null, "BLS-DFW", "M"),
+            L("Trim, charge, start-up", "Crew of 2", 12, "hr", 43.05, null, "BLS-DFW", "M")
+          ],
+          o: [R("Sub overhead and profit", "20% of materials and labor", 1, "lump", 3430, "EST", "L")],
+          notes: [
+            { h: "Cross-check", t: "The bottom-up total is about $20,600 for two systems. A Dallas installer quotes $11,000–14,500 for one installed 4-ton system at retail, which is consistent.", src: "HV-RATE" },
+            { h: "Where the savings are", t: "HVAC has the lowest markup of the three trades because most of the cost is factory-made equipment. The lever is the equipment price." }
+          ] },
+        { id: "5d", name: "Other rough-in costs", nahb: 817,
+          m: [R("Structured-wiring panel and cable", "", 1, "lot", 300, "EST", "L")],
+          l: [L("Low-voltage pre-wire", "", 1, "lump", 300, null, "EST", "L")],
+          o: [R("Sub overhead", "", 1, "lump", 100, "EST", "L")] }
+      ]
+    },
+    {
+      id: "s6", n: 6, name: "Interior finishes", pub: 103391,
+      note: "Eleven finish lines. Most reconcile with NAHB, and most of the materials are manufactured goods.",
+      lines: [
+        { id: "6a", name: "Insulation", nahb: 6992,
+          basis: "R-13 batts on 2,650 sq ft of wall. R-38 blown fiberglass over 1,500 sq ft of attic.",
+          m: [
+            R("R-13 batts, walls", "", 2650, "sq ft", 0.55, "EST", "L"),
+            R("R-38 blown fiberglass, attic", "", 1500, "sq ft", 0.85, "EST", "L"),
+            R("Air-sealing foam and caulk", "", 1, "lot", 300, "EST", "L")
+          ],
+          l: [L("Install batts, blow the attic", "2 installers", 24, "hr", 26, null, "EST", "L")],
+          o: [R("Sub overhead and profit", "30% of materials and labor", 1, "lump", 1100, "EST", "L")],
+          notes: [{ h: "Why the gap", t: "The remainder probably reflects spray foam in the higher-end homes in NAHB's sample." }] },
+        { id: "6b", name: "Drywall", nahb: 13962,
+          basis: "Exterior walls 2,450 sq ft, partitions 7,140, garage 1,078 and ceilings 2,650 make 13,318 sq ft. With 10% waste that is 14,650 sq ft.",
+          m: [
+            R("1/2 in lightweight drywall", "4×12 sheets", 280, "sheet", 16.00, "HD-DW", "M"),
+            R("Moisture-resistant upcharge", "Bathrooms", 20, "sheet", 4.00, "EST", "L"),
+            R("5/8 in Type X", "Garage, 4×8 sheets", 37, "sheet", 15.11, "HD-DWX", "H"),
+            R("Joint compound", "4.5-gallon pails, about 500 sq ft each", 29, "pail", 20, "EST", "L"),
+            R("Paper tape", "250 ft rolls", 40, "roll", 5, "EST", "L"),
+            R("Corner bead", "8 ft pieces", 70, "ea", 3.50, "EST", "L"),
+            R("Screws", "", 60, "lb", 5, "EST", "L"),
+            R("Texture", "Knockdown or orange peel", 15, "bag", 18, "EST", "L")
+          ],
+          l: [
+            L("Hang", "Crew of 4", 80, "hr", 26, null, "EST", "L"),
+            L("Tape and float, three coats", "Crew of 3", 108, "hr", 26, null, "EST", "L"),
+            L("Texture", "Crew of 2", 20, "hr", 26, null, "EST", "L")
+          ],
+          o: [R("Sub overhead and profit", "15% of materials and labor", 1, "lump", 1820, "EST", "L")],
+          notes: [
+            { h: "Cross-check", t: "This line reconciles with NAHB almost to the dollar." },
+            { h: "Raw material value", t: "A 4×12 sheet holds roughly $1 of gypsum rock. That figure is my estimate. Most of the panel price is the energy to calcine and dry it, the paper, freight and margin." }
+          ] },
+        { id: "6c", name: "Interior trim, doors, mirrors", nahb: 12920,
+          m: [
+            R("Interior prehung doors", "2-panel hollow core", 22, "ea", 110, "EST", "L"),
+            R("Door hardware", "Passage and privacy sets", 20, "ea", 15, "EST", "L"),
+            R("Baseboard", "MDF", 1100, "lf", 1.00, "EST", "L"),
+            R("Casing and window sills", "", 750, "lf", 0.80, "EST", "L"),
+            R("Stair parts", "Treads, rail, balusters", 1, "lot", 1500, "EST", "L"),
+            R("Closet shelving", "", 120, "lf", 5, "EST", "L"),
+            R("Mirrors and bath accessories", "", 1, "lot", 400, "EST", "L"),
+            R("Caulk, nails, filler", "", 1, "lot", 200, "EST", "L")
+          ],
+          l: [L("Hang doors, run base and casing, build stairs, shelve closets", "Trim carpenters", 106, "hr", 35.03, null, "BLS-DFW", "M")],
+          o: [R("Sub overhead and profit", "20% of materials and labor", 1, "lump", 2170, "EST", "L")] },
+        { id: "6d", name: "Painting", nahb: 11150,
+          basis: "About 13,300 sq ft of interior surface plus about 2,000 sq ft outside.",
+          m: [
+            R("Primer", "", 44, "gal", 15, "EST", "L"),
+            R("Wall paint", "", 57, "gal", 25, "EST", "L"),
+            R("Ceiling paint", "", 7, "gal", 18, "EST", "L"),
+            R("Trim enamel", "", 10, "gal", 40, "EST", "L"),
+            R("Exterior paint", "", 14, "gal", 40, "EST", "L"),
+            R("Caulk and sundries", "", 1, "lot", 600, "EST", "L")
+          ],
+          l: [L("Interior and exterior painting", "Painters", 190, "hr", 30, null, "EST", "L")],
+          o: [R("Sub overhead and profit", "", 1, "lump", 1420, "EST", "L")],
+          notes: [{ h: "Where the cost is", t: "Painting is the most labor-heavy finish line. The paint is about a third of the cost." }] },
+        { id: "6e", name: "Lighting", nahb: 5392,
+          m: [
+            R("LED wafer lights", "", 30, "ea", 12, "EST", "L"),
+            R("Ceiling fans", "", 5, "ea", 100, "EST", "L"),
+            R("Flush-mount fixtures", "", 15, "ea", 25, "EST", "L"),
+            R("Vanity lights", "", 5, "ea", 50, "EST", "L"),
+            R("Chandelier and 3 pendants", "", 1, "lot", 330, "EST", "L"),
+            R("Exterior and garage fixtures", "", 1, "lot", 220, "EST", "L"),
+            R("Bulbs", "", 1, "lot", 150, "EST", "L")
+          ],
+          l: [L("Hang fixtures and fans", "Electrician", 24, "hr", 41.80, null, "BLS-DFW", "M")],
+          o: [R("Sub overhead", "", 1, "lump", 800, "EST", "L")] },
+        { id: "6f", name: "Cabinets, countertops", nahb: 19056,
+          m: [
+            R("Kitchen base cabinets, including island", "Builder stock", 26, "lf", 160, "EST", "L"),
+            R("Kitchen wall cabinets", "Builder stock", 16, "lf", 120, "EST", "L"),
+            R("Bath vanities", "", 14.5, "lf", 150, "EST", "L"),
+            R("Laundry uppers and pulls", "", 1, "lot", 580, "EST", "L"),
+            R("Countertop slab", "Level-1 granite or quartz", 100, "sq ft", 22, "EST", "L"),
+            R("Fabrication consumables", "", 1, "lot", 300, "EST", "L")
+          ],
+          l: [
+            L("Template, fabricate and install countertops", "Fabricator, priced per sq ft", 100, "sq ft", 18, null, "EST", "L"),
+            L("Set cabinets", "Installers", 40, "hr", 35, null, "EST", "L")
+          ],
+          o: [R("Dealer and fabricator overhead", "", 1, "lump", 2900, "EST", "L")],
+          notes: [{ h: "Raw material value", t: "Stone is the hidden markup in this line. Raw slab runs about $22 per sq ft, while installed tops typically run $40–50. Both figures are my estimates." }] },
+        { id: "6g", name: "Appliances", nahb: 7499,
+          m: [R("Cooktop, oven-microwave combo, dishwasher, hood, disposal", "Builder pricing, about 15% under retail", 1, "lot", 3400, "EST", "L")],
+          l: [L("Delivery and hookup", "", 1, "lump", 410, null, "EST", "L")],
+          o: [R("Dealer overhead", "", 1, "lump", 380, "EST", "L")],
+          notes: [{ h: "Why the gap", t: "The remainder probably reflects refrigerators, laundry pairs and premium brands in NAHB's sample." }] },
+        { id: "6h", name: "Flooring", nahb: 15388,
+          basis: "Vinyl plank on 1,100 sq ft plus 10%. Floor tile on 350 sq ft plus 12%. Wall tile on 280 sq ft of showers and tub surrounds. Carpet on 1,330 sq ft, which is 148 sq yd.",
+          m: [
+            R("Luxury vinyl plank", "12 mil wear layer", 1210, "sq ft", 2.50, "EST", "L"),
+            R("Transitions", "", 1, "lot", 200, "EST", "L"),
+            R("Porcelain floor tile", "12 × 24 in", 392, "sq ft", 1.90, "EST", "L"),
+            R("Wall tile", "Showers and tub surrounds", 280, "sq ft", 2.00, "EST", "L"),
+            R("Thinset and grout", "", 1, "lot", 520, "EST", "L"),
+            R("Cement board and waterproofing", "", 1, "lot", 578, "EST", "L"),
+            R("Carpet and pad", "", 148, "sq yd", 14, "EST", "L"),
+            R("Tack strip", "", 1, "lot", 100, "EST", "L")
+          ],
+          l: [
+            L("Lay vinyl plank", "Crew of 2, priced per sq ft", 1100, "sq ft", 1.25, 40, "EST", "L"),
+            L("Set floor tile", "Crew of 2, priced per sq ft", 350, "sq ft", 4, 45, "EST", "L"),
+            L("Set wall tile", "Crew of 2, priced per sq ft", 280, "sq ft", 6, 55, "EST", "L"),
+            L("Lay carpet", "Crew of 2, priced per sq ft", 1330, "sq ft", 0.75, 20, "EST", "L")
+          ],
+          o: [R("Sub overhead and profit", "", 1, "lump", 2650, "EST", "L")] },
+        { id: "6i", name: "Plumbing fixtures", nahb: 7922,
+          m: [
+            R("Toilets", "", 4, "ea", 180, "EST", "L"),
+            R("Kitchen sink and faucet", "", 1, "lot", 430, "EST", "L"),
+            R("Lavatory sinks and faucets", "", 5, "ea", 120, "EST", "L"),
+            R("Tub and shower trim", "", 4, "ea", 120, "EST", "L"),
+            R("Tubs", "", 3, "ea", 400, "EST", "L"),
+            R("Primary shower glass", "", 1, "ea", 900, "EST", "L"),
+            R("Supply lines and stops", "", 1, "lot", 140, "EST", "L")
+          ],
+          l: [L("Set fixtures and trim out", "Plumber", 27, "hr", 43.41, null, "BLS-DFW", "M")],
+          o: [R("Sub overhead and profit", "", 1, "lump", 1400, "EST", "L")] },
+        { id: "6j", name: "Fireplace", nahb: 2378,
+          m: [R("Direct-vent gas fireplace, vent kit, surround", "", 1, "lot", 1700, "EST", "L")],
+          l: [L("Install", "", 1, "lump", 400, null, "EST", "L")],
+          o: [R("Sub overhead", "", 1, "lump", 300, "EST", "L")] },
+        { id: "6k", name: "Other interior costs", nahb: 732,
+          m: [R("Attic stair and miscellaneous hardware", "", 1, "lot", 400, "EST", "L")],
+          l: [L("Install", "", 1, "lump", 150, null, "EST", "L")] }
+      ]
+    },
+    {
+      id: "s7", n: 7, name: "Final steps", pub: 27710,
+      note: "Landscaping, fence, driveway and cleanup.",
+      lines: [
+        { id: "7a", name: "Landscaping", nahb: 9269,
+          m: [
+            R("Sod", "", 4100, "sq ft", 0.50, "EST", "L"),
+            R("Topsoil", "", 1, "lot", 350, "EST", "L"),
+            R("15 shrubs and 2 trees", "", 1, "lot", 775, "EST", "L"),
+            R("Mulch and edging", "", 1, "lot", 325, "EST", "L"),
+            R("Irrigation", "6 zones, backflow preventer, controller", 1, "lot", 1125, "EST", "L")
+          ],
+          l: [L("Grade, sod, plant, install irrigation", "Landscape crew", 98, "hr", 26, null, "EST", "L")],
+          o: [R("Sub overhead and profit", "", 1, "lump", 1080, "EST", "L")] },
+        { id: "7b", name: "Outdoor structures", nahb: 4722,
+          basis: "The porch and patio slabs are already in the foundation line, so this covers 160 lf of fence and the porch column wraps.",
+          m: [
+            R("Cedar fence on steel posts", "6 ft tall", 160, "lf", 14, "EST", "L"),
+            R("Column wraps", "", 1, "lot", 300, "EST", "L")
+          ],
+          l: [
+            L("Build fence", "Priced per linear foot", 160, "lf", 10, null, "EST", "L"),
+            L("Wrap columns", "", 1, "lump", 300, null, "EST", "L")
+          ],
+          o: [R("Sub overhead and profit", "", 1, "lump", 670, "EST", "L")] },
+        { id: "7c", name: "Driveway", nahb: 9635,
+          basis: "A 450 sq ft driveway at 5 in thick plus 240 sq ft of walks at 4 in is 267 cu ft, or 10.4 cu yd with waste.",
+          m: [
+            R("Ready-mix concrete", "3,000 psi", 10.4, "cu yd", 145, "RMC-DFW", "M"),
+            R("#3 rebar", "18 in on center each way, 20 ft bars", 47, "bar", 7, "EST", "L"),
+            R("Joints, chairs, sealant", "", 1, "lot", 150, "EST", "L"),
+            R("Base and forms", "", 1, "lot", 300, "EST", "L")
+          ],
+          l: [
+            L("Form, place and finish flatwork", "Crew of 4–5", 80, "hr", 30.52, null, "BLS-DFW", "M"),
+            L("Equipment", "", 1, "lump", 300, null, "EST", "L")
+          ],
+          o: [R("Sub overhead and profit", "", 1, "lump", 1000, "EST", "L")],
+          notes: [{ h: "Ways to cut it", t: "The concrete is about $1,500 of a $9,600 line. If you already run slab crews, flatwork is a clear candidate to do yourself." }] },
+        { id: "7d", name: "Clean up", nahb: 3183,
+          l: [L("Rough cleans, final clean, windows", "", 1, "lump", 1278, null, "EST", "L")],
+          o: [R("Dumpster pulls", "30-yard", 4, "pull", 450, "EST", "L")] },
+        { id: "7e", name: "Other final costs", nahb: 902,
+          m: [R("Address plaque, mailbox, punch-list materials", "", 1, "lot", 200, "EST", "L")],
+          l: [L("Punch-list labor", "", 1, "lump", 300, null, "EST", "L")] }
+      ]
+    },
+    {
+      id: "s8", n: 8, name: "Other", pub: 8835,
+      note: "NAHB reports this stage as one number. I modeled it as the builder's own job costs that the other lines leave out.",
+      lines: [
+        { id: "8a", name: "Builder's general conditions", nahb: 8835,
+          o: [
+            R("Portable toilet", "8 months", 8, "month", 150, "EST", "L"),
+            R("Temporary power and water", "", 1, "lump", 1000, "EST", "L"),
+            R("Energy rater, duct and blower-door testing", "", 1, "lump", 600, "EST", "L"),
+            R("Builder's-risk insurance", "", 1, "lump", 1200, "EST", "L"),
+            R("Structural warranty enrollment", "", 1, "lump", 1000, "EST", "L")
+          ] }
+      ]
+    }
+  ];
+
+  return {
+    salePrice: 665298,
+    sqft: 2647,
+    sale: [
+      { id: "construction", name: "Construction cost", v: 428215, drill: true },
+      { id: "lot", name: "Finished lot", v: 91057, cap: "Includes the cost of financing the lot" },
+      { id: "profit", name: "Profit", v: 72971, cap: "Before taxes" },
+      { id: "overhead", name: "Overhead and general expenses", v: 38248 },
+      { id: "commission", name: "Sales commission", v: 18955 },
+      { id: "financing", name: "Financing", v: 10220 },
+      { id: "marketing", name: "Marketing", v: 5633 }
+    ],
+    src: SRC,
+    stages: stages,
+    home: [
+      ["Finished area", "2,650 sq ft, to match NAHB's 2,647 sq ft average. First floor 50 × 30 ft = 1,500 sq ft. Second floor 50 × 23 ft = 1,150 sq ft."],
+      ["Stories and walls", "Two stories. 9 ft plates downstairs (104-5/8 in precut studs) and 8 ft upstairs (92-5/8 in)."],
+      ["Bedrooms and baths", "4 bedrooms with the primary downstairs. 3 full baths and 1 half bath."],
+      ["Garage and porches", "Attached 2-car garage, 22 × 22 ft = 484 sq ft. A 60 sq ft front porch and a 150 sq ft covered rear patio, both under the main roof."],
+      ["Foundation", "Post-tensioned slab on grade, 2,200 sq ft across house, garage and porches. 4.5 in slab. About 510 lf of grade beams, 12 in wide and 24 in below the slab. About 1 ft of select fill."],
+      ["Framing", "2×4 at 16 in on center, about 792 lf of wall. Engineered roof trusses and 14 in open-web floor trusses. 7/16 in OSB on walls, radiant-barrier OSB on the roof, 23/32 in tongue-and-groove subfloor."],
+      ["Roof", "Hip roof at 6/12 pitch (slope factor 1.118). About 2,572 sq ft in plan, 2,876 sq ft of surface, 32 squares with waste. Architectural shingles."],
+      ["Exterior", "King-size brick on the first floor and garage, about 1,680 sq ft net. Fiber-cement lap siding on the second floor, about 1,240 sq ft net. Gross wall about 3,384 sq ft with about 460 sq ft of openings."],
+      ["Openings", "18 vinyl low-E windows (16 standard, 2 large). Fiberglass front door, 6 ft patio slider, garage service door, 20-minute door from house to garage, 16 × 7 ft insulated garage door. 22 interior prehung doors."],
+      ["Plumbing, electrical, HVAC", "200-amp service with about 30 circuits. PEX supply and PVC drains to about 18 fixture points. 50-gallon gas water heater. Two split systems, 3-ton down and 2-ton up, with gas furnaces and R-8 flex duct in the attic."],
+      ["Finishes", "Vinyl plank on 1,100 sq ft, porcelain tile on 350 sq ft of floor and 280 sq ft of wall, carpet on 1,330 sq ft. Level-1 granite or quartz, about 100 sq ft. Builder-stock cabinets. Prefab gas fireplace."],
+      ["Site", "Lot about 55 × 125 ft. About 690 sq ft of driveway and walks. Full sod and irrigation. 160 lf of cedar fence."]
+    ],
+    wages: [
+      ["Carpenters", 24.16, 35.03],
+      ["Electricians", 28.83, 41.80],
+      ["Plumbers", 29.94, 43.41],
+      ["HVAC mechanics", 29.69, 43.05],
+      ["Construction laborers", 21.05, 30.52]
+    ],
+    schedule: [
+      ["Pad and site prep", "1"],
+      ["Post-tensioned slab", "2–3"],
+      ["Framing", "3–4"],
+      ["Roof, windows, brick and siding (overlapping)", "2–3"],
+      ["Plumbing, electrical and HVAC rough-ins", "2–3"],
+      ["Insulation", "1"],
+      ["Drywall", "2–3"],
+      ["Trim, cabinets, paint, countertops", "3–4"],
+      ["Flooring and fixtures", "2"],
+      ["Flatwork, landscaping, final", "2"]
+    ]
+  };
+})();
+if (typeof module !== "undefined" && module.exports) { module.exports = MODEL; }
+
+</script>
+<script>
+(function () {
+  "use strict";
+  var M = MODEL, D = document, W = window;
+  var view = D.getElementById("view"), tip = D.getElementById("tip");
+  var GK = ["m", "l", "o", "f"];
+  var GNAME = { m: "Materials", l: "On-site labor", o: "Sub overhead and other", f: "Fees", g: "Not explained by the model" };
+  var GSHORT = { m: "Materials", l: "Labor", o: "Sub overhead", f: "Fees", g: "Unexplained" };
+  var TABLE = { m: ["Materials", "Material"], l: ["Labor and services", "Task"], o: ["Sub overhead and other", "Item"], f: ["Fees", "Fee"] };
+  var CONF = { H: [3, "Published"], M: [2, "Published range"], L: [1, "Estimate"] };
+  var UNIT = { lot: "allowance", lump: "lump sum" };
+
+  /* ---------- index the model ---------- */
+  var LINES = [], LINE = {}, STAGE = {};
+  function slug(s) { return String(s).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""); }
+  M.stages.forEach(function (s) {
+    STAGE[s.id] = s;
+    s.lines.forEach(function (ln) {
+      ln.stage = s; LINES.push(ln); LINE[ln.id] = ln; ln.rows = {};
+      GK.forEach(function (g) {
+        ln[g] = ln[g] || [];
+        ln[g].forEach(function (r) { r.g = g; r.key = g + "_" + slug(r.n); ln.rows[r.key] = r; });
+      });
+    });
+  });
+
+  /* ---------- the viewer's changes: kept in the browser, and in their own private store when one is available ---------- */
+  var LS_KEY = "dfw-build-cost.edits.v1";
+  var SAVE_TEXT = {
+    account: "Changes you make are saved to your account for this page.",
+    local: "Changes you make are saved in this browser.",
+    none: "Changes you make last until you close this page."
+  };
+  var edits = {}, editsAt = 0, saveState = "none";
+  var remoteRef = null, saving = false, dirty = false, saveTimer = 0, retried = false;
+
+  function sanitize(o) {
+    var out = {};
+    if (!o || typeof o !== "object") return out;
+    Object.keys(o).forEach(function (id) {
+      var ln = LINE[id], src = o[id];
+      if (!ln || !src || typeof src !== "object") return;
+      Object.keys(src).forEach(function (k) {
+        var r = ln.rows[k], e = src[k], v = {}, any = false;
+        if (!r || !e || typeof e !== "object") return;
+        ["q", "p"].forEach(function (f) {
+          var n = e[f];
+          if (typeof n === "number" && isFinite(n) && n >= 0 && n !== r[f]) { v[f] = n; any = true; }
+        });
+        if (any) { (out[id] = out[id] || {})[k] = v; }
+      });
+    });
+    return out;
+  }
+  function countEdits() {
+    var n = 0;
+    Object.keys(edits).forEach(function (id) {
+      Object.keys(edits[id]).forEach(function (k) { var e = edits[id][k]; if (e.q != null) n++; if (e.p != null) n++; });
+    });
+    return n;
+  }
+  function loadLocal() {
+    try {
+      var raw = W.localStorage.getItem(LS_KEY);
+      saveState = "local";
+      if (raw) {
+        var o = JSON.parse(raw);
+        if (o && typeof o === "object") { edits = sanitize(o.edits); editsAt = +o.at || 0; }
+      }
+    } catch (e) { saveState = "none"; }
+  }
+  function saveLocal() {
+    try { W.localStorage.setItem(LS_KEY, JSON.stringify({ at: editsAt, edits: edits })); return true; } catch (e) { return false; }
+  }
+  function setSaveState(s) {
+    saveState = s;
+    var els = D.querySelectorAll("[data-save]");
+    for (var i = 0; i < els.length; i++) els[i].textContent = SAVE_TEXT[s];
+  }
+  function persist() {
+    var ok = saveLocal();
+    if (remoteRef) queueRemote(); else setSaveState(ok ? "local" : "none");
+  }
+  function queueRemote() {
+    dirty = true;
+    W.clearTimeout(saveTimer);
+    saveTimer = W.setTimeout(flushRemote, 1200);
+  }
+  function flushRemote() {
+    if (saving || !dirty || !remoteRef) return;
+    saving = true; dirty = false;
+    var body = { v: 1, at: editsAt, edits: JSON.parse(JSON.stringify(edits)) };
+    remoteRef.set(body).then(function () {
+      retried = false; setSaveState("account");
+    }, function (err) {
+      if (err && err.code === "unavailable" && !retried) { retried = true; dirty = true; }
+      else { remoteRef = null; setSaveState(saveLocal() ? "local" : "none"); }
+    }).then(function () {
+      saving = false;
+      if (dirty && remoteRef) {
+        W.clearTimeout(saveTimer);
+        saveTimer = W.setTimeout(flushRemote, retried ? 2500 + Math.random() * 2000 : 1200);
+      }
+    });
+  }
+  function editing() {
+    var a = D.activeElement;
+    return !!(a && a.classList && a.classList.contains("n"));
+  }
+  function initRemote() {
+    var c = W.claude;
+    if (!c || typeof c.use !== "function") return;
+    Promise.all([c.use("db"), c.use("user")]).then(function (caps) {
+      var db = caps[0], user = caps[1];
+      if (!db || !user) return null;
+      return user.id().then(function (id) {
+        if (!id) return null;
+        var ref = db.collection("data/users/" + id).doc("edits");
+        return ref.get().then(function (snap) {
+          var d = snap && snap.exists ? snap.data() : null;
+          var at = d ? (+d.at || 0) : 0;
+          remoteRef = ref;
+          if (d && at > editsAt) {
+            edits = sanitize(JSON.parse(JSON.stringify(d.edits || {})));
+            editsAt = at;
+            saveLocal();
+            if (!editing()) rerender();
+          } else if (editsAt > at) {
+            queueRemote();
+          }
+          setSaveState("account");
+        });
+      });
+    }).catch(function () { /* no private store in this view: browser storage carries on */ });
+  }
+
+  /* ---------- arithmetic ---------- */
+  function ov(ln, r) { var e = edits[ln.id]; return e ? e[r.key] : null; }
+  function val(ln, r, f) { var e = ov(ln, r); return e && typeof e[f] === "number" ? e[f] : r[f]; }
+  function isEd(ln, r, f) { var e = ov(ln, r); return !!(e && typeof e[f] === "number"); }
+  function setEdit(ln, r, f, n) {
+    var le = edits[ln.id] || (edits[ln.id] = {}), e = le[r.key] || (le[r.key] = {});
+    if (n == null || n === r[f]) delete e[f]; else e[f] = n;
+    if (e.q == null && e.p == null) delete le[r.key];
+    if (!Object.keys(le).length) delete edits[ln.id];
+    editsAt = Date.now();
+    persist();
+  }
+  function fin(t) { t.bu = t.m + t.l + t.o + t.f; t.gap = t.nahb - t.bu; return t; }
+  function groupSum(ln, g) {
+    var s = 0;
+    ln[g].forEach(function (r) { s += val(ln, r, "q") * val(ln, r, "p"); });
+    return s;
+  }
+  function lineT(ln) {
+    var t = { m: 0, l: 0, o: 0, f: 0, h: 0, nahb: ln.nahb, ed: !!edits[ln.id], n: 1 };
+    GK.forEach(function (g) { t[g] = groupSum(ln, g); });
+    ln.l.forEach(function (r) { t.h += r.u === "hr" ? val(ln, r, "q") : (r.h || 0); });
+    return fin(t);
+  }
+  function sumT(lines) {
+    var t = { m: 0, l: 0, o: 0, f: 0, h: 0, nahb: 0, ed: false, n: lines.length };
+    lines.forEach(function (ln) {
+      var a = lineT(ln);
+      GK.forEach(function (g) { t[g] += a[g]; });
+      t.h += a.h; t.nahb += a.nahb; t.ed = t.ed || a.ed;
+    });
+    return fin(t);
+  }
+  /* survey figure ÷ materials; not meaningful with no materials or where fees dominate */
+  function idiot(t) { return (t.m < 1 || t.f > 0.5 * t.nahb) ? null : t.nahb / t.m; }
+  function span(t) { return Math.max(t.nahb, t.bu); }
+
+  /* ---------- formatting ---------- */
+  function grp(n, d) { return n.toLocaleString("en-US", { minimumFractionDigits: d || 0, maximumFractionDigits: d || 0 }); }
+  function money(n) { var r = Math.round(n); return (r < 0 ? "−" : "") + "$" + grp(Math.abs(r)); }
+  function num(n) { return n.toLocaleString("en-US", { maximumFractionDigits: 2 }); }
+  function pct(x) { return (x * 100).toFixed(1) + "%"; }
+  function pct0(x) { return Math.round(x * 100) + "%"; }
+  function times(x) { return x == null ? "n/a" : x.toFixed(1) + "×"; }
+  function compact(n) { var a = Math.abs(n); return a >= 10000 ? (n < 0 ? "−" : "") + "$" + (a / 1000).toFixed(1) + "K" : money(n); }
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; });
+  }
+
+  /* ---------- shared pieces ---------- */
+  function segList(t) {
+    var a = [];
+    GK.forEach(function (g) { if (t[g] > 0.5) a.push([g, t[g]]); });
+    if (t.gap > 0.5) a.push(["g", t.gap]);
+    return a;
+  }
+  function barHTML(t, max, tall) {
+    var tot = span(t), h = "";
+    segList(t).forEach(function (s) {
+      var share = s[1] / tot;
+      if (share < 0.004) return;
+      h += '<span class="seg ' + s[0] + '" style="flex-grow:' + (share * 1000).toFixed(1) + '" data-tip="' +
+        esc(GNAME[s[0]] + " · " + money(s[1]) + " · " + pct(s[1] / t.nahb) + " of the survey figure") + '">' +
+        (tall ? "<b>" + pct0(s[1] / t.nahb) + "</b>" : "") + "</span>";
+    });
+    if (t.gap < -0.5) {
+      h += '<i class="tick" style="left:' + (t.nahb / tot * 100).toFixed(2) + '%" data-tip="' + esc("NAHB survey average · " + money(t.nahb)) + '"></i>';
+    }
+    return '<span class="bar' + (tall ? " tall" : "") + '" style="width:' + (max ? Math.max(tot / max * 100, 0.6).toFixed(2) : "100") + '%">' + h + "</span>";
+  }
+  function plainBar(v, max, cls) {
+    return '<span class="bar" style="width:' + Math.max(v / max * 100, 0.6).toFixed(2) + '%"><span class="seg ' + cls + '" style="flex-grow:1"></span></span>';
+  }
+  function compLabel(t) {
+    var a = segList(t).map(function (s) { return GNAME[s[0]] + " " + money(s[1]) + ", " + pct(s[1] / t.nahb); });
+    return "Split of the survey figure. " + a.join(". ") + ".";
+  }
+  function legendHTML(t) {
+    var h = '<table class="legend"><caption class="vh">How the survey figure splits</caption><tbody>';
+    segList(t).forEach(function (s) {
+      h += '<tr><th scope="row"><i class="sw ' + s[0] + '"></i>' + GNAME[s[0]] + "</th><td>" + money(s[1]) + '</td><td class="p">' + pct(s[1] / t.nahb) + "</td></tr>";
+    });
+    if (t.gap < -0.5) {
+      h += '<tr class="tot"><th scope="row">Bottom-up model</th><td>' + money(t.bu) + '</td><td class="p">' + pct(t.bu / t.nahb) + "</td></tr>";
+      h += '<tr><th scope="row"><i class="sw t"></i>NAHB survey average</th><td>' + money(t.nahb) + '</td><td class="p">100%</td></tr>';
+    } else {
+      h += '<tr class="tot"><th scope="row">NAHB survey average</th><td>' + money(t.nahb) + '</td><td class="p">100%</td></tr>';
+    }
+    return h + "</tbody></table>";
+  }
+  function stat(label, value, sub) {
+    return "<div><dt>" + label + "</dt><dd>" + value + (sub ? "<small>" + sub + "</small>" : "") + "</dd></div>";
+  }
+  function summaryHTML(t, perSqFt) {
+    var ii = idiot(t), h = '<dl class="stats">';
+    h += stat("Bottom-up model", money(t.bu), perSqFt ? money(t.bu / M.sqft) + " per sq ft" : pct(t.bu / t.nahb) + " of the survey figure");
+    h += stat("Materials", money(t.m), t.m > 0.5 ? pct(t.m / t.nahb) + " of the survey figure" : "None in the model");
+    h += stat("On-site labor", money(t.l), t.h > 0 ? num(Math.round(t.h)) + " itemized crew hours" : (t.l > 0.5 ? "Priced as lump sums" : "None in the model"));
+    h += stat("Idiot index", times(ii), ii == null ? (t.m < 1 ? "No materials to compare" : "Mostly pass-through fees") : "Survey figure ÷ materials");
+    h += "</dl>";
+    h += '<div class="comp" role="img" aria-label="' + esc(compLabel(t)) + '">' + barHTML(t, 0, true) + "</div>";
+    return h + legendHTML(t);
+  }
+  function keyHTML(ts) {
+    var has = {};
+    ts.forEach(function (t) { segList(t).forEach(function (s) { has[s[0]] = 1; }); if (t.gap < -0.5) has.t = 1; });
+    var h = '<ul class="key" aria-label="Bar colors">';
+    ["m", "l", "o", "f", "g"].forEach(function (k) { if (has[k]) h += '<li><i class="sw ' + k + '"></i>' + GSHORT[k] + "</li>"; });
+    if (has.t) h += '<li><i class="sw t"></i>Survey figure, where the model runs higher</li>';
+    return h + "</ul>";
+  }
+  function capFor(t) {
+    var parts = [];
+    if (t.f > 0.5 * t.nahb) parts.push(t.n > 1 ? "Mostly pass-through fees" : "Pass-through fee");
+    else if (t.m < 1) parts.push("No materials in the model");
+    else parts.push("Materials " + money(t.m) + " · idiot index " + times(idiot(t)));
+    if (t.gap < -0.5) parts.push("Model runs " + money(-t.gap) + " higher");
+    var h = "<span>" + parts.join("</span><span>") + "</span>";
+    if (t.ed) h += '<span class="edited">Edited</span>';
+    return h;
+  }
+  function rowHTML(o) {
+    var tag = o.href ? "a" : "div", nocode = o.code == null;
+    var h = "<li><" + tag + ' class="row' + (nocode ? " nocode" : "") + '"' + (o.href ? ' href="' + o.href + '"' : "") + ">";
+    if (!nocode) h += '<span class="code">' + esc(o.code) + "</span>";
+    h += '<span class="nm">' + esc(o.name) + "</span>";
+    h += '<span class="amt">' + money(o.amt) + "</span>";
+    h += '<span class="chev" aria-hidden="true">' + (o.href ? "›" : "") + "</span>";
+    h += '<span class="track">' + o.bar + "</span>";
+    h += '<span class="cap">' + (o.cap || "") + "</span>";
+    h += '<span class="share">' + o.share + "</span>";
+    return h + "</" + tag + "></li>";
+  }
+  function crumbs(items) {
+    var h = '<nav aria-label="You are here"><ol class="crumbs">';
+    items.forEach(function (it) {
+      h += "<li>" + (it[1] ? '<a href="' + it[1] + '">' + esc(it[0]) + "</a>" : '<span aria-current="page">' + esc(it[0]) + "</span>") + "</li>";
+    });
+    return h + "</ol></nav>";
+  }
+  function pager(prev, next) {
+    if (!prev && !next) return "";
+    var h = '<nav class="pager" aria-label="Previous and next">';
+    if (prev) h += '<a class="pv" href="' + prev[1] + '"><small>Previous</small>‹ ' + esc(prev[0]) + "</a>";
+    if (next) h += '<a class="nx" href="' + next[1] + '"><small>Next</small>' + esc(next[0]) + " ›</a>";
+    return h + "</nav>";
+  }
+  function srcLinks(codes) {
+    var a = [];
+    (Array.isArray(codes) ? codes : [codes]).forEach(function (c) {
+      var s = M.src[c];
+      if (s && s.u.length) a.push('<a href="' + esc(s.u[0]) + '" target="_blank" rel="noopener">' + esc(s.t) + "</a>");
+    });
+    return a.join(", ");
+  }
+  function noteHTML(n) {
+    var links = n.src ? srcLinks(n.src) : "";
+    return '<div class="note"><h3>' + esc(n.h) + "</h3><p>" + esc(n.t) + "</p>" +
+      (links ? '<p class="more">Source: ' + links + "</p>" : "") +
+      (n.go ? '<p class="more"><a href="' + n.go[1] + '">' + esc(n.go[0]) + " ›</a></p>" : "") + "</div>";
+  }
+
+  /* ---------- views ---------- */
+  function viewPrice() {
+    var all = sumT(LINES), sp = M.salePrice, max = M.sale[0].v;
+    function tb(k, v) { return "<div><dt>" + k + "</dt><dd>" + v + "</dd></div>"; }
+    var h = '<header class="lv"><p class="eyebrow">NAHB 2024 survey · average new single-family home</p><h1>Sale price</h1>' +
+      '<div class="hero"><span class="fig">' + money(sp) + '</span><span class="figsub">' + num(M.sqft) + " sq ft finished · " + money(sp / M.sqft) + " per sq ft</span></div>" +
+      '<p class="thesis">Construction is ' + pct(M.sale[0].v / sp) + " of the price. The materials inside it come to about " + money(all.m) + ", which is " + pct(all.m / sp) + " of what the buyer pays.</p>" +
+      '<dl class="tblock">' + tb("Reference home", "2,650 sq ft, two-story, slab on grade") + tb("Market", "Dallas–Fort Worth") +
+      tb("Survey basis", "NAHB Cost of Constructing a Home, 2024") + tb("Prices as of", "November 2026") + "</dl></header>";
+    h += '<section class="sec"><h2>Where the sale price goes</h2><p class="lead">Open construction to see its eight stages, then any line item down to the studs and the crew hours.</p><ol class="rows">';
+    M.sale.forEach(function (r) {
+      var cap = r.drill
+        ? "<span>8 stages · " + (LINES.length - 1) + " survey line items</span>" + (all.ed ? '<span class="edited">Edited</span>' : "")
+        : (r.cap ? "<span>" + esc(r.cap) + "</span>" : "");
+      h += rowHTML({ href: r.drill ? "#construction" : null, name: r.name, amt: r.v, bar: plainBar(r.v, max, r.drill ? "k" : "g"), cap: cap, share: pct(r.v / sp) });
+    });
+    return h + "</ol></section>";
+  }
+
+  function viewConstruction() {
+    var t = sumT(LINES), sts = M.stages.map(function (s) { return sumT(s.lines); });
+    var max = Math.max.apply(null, sts.map(span));
+    var h = crumbs([["Sale price", "#price"], ["Construction", null]]);
+    h += '<header class="lv"><p class="eyebrow">' + pct(t.nahb / M.salePrice) + " of the sale price</p><h1>Construction cost</h1>" +
+      '<div class="hero"><span class="fig">' + money(t.nahb) + '</span><span class="figsub">NAHB survey average · ' + money(t.nahb / M.sqft) + " per sq ft</span></div>" +
+      '<div id="sum">' + summaryHTML(t, true) + "</div></header>";
+    h += '<section class="sec"><h2>Eight stages</h2><p class="lead">Each bar splits a stage’s survey figure into what the model accounts for and what it cannot. Bar length is the stage’s cost.</p>' + keyHTML(sts) + '<ol class="rows">';
+    M.stages.forEach(function (s, i) {
+      h += rowHTML({ href: "#" + s.id, code: String(s.n), name: s.name, amt: sts[i].nahb, bar: barHTML(sts[i], max), cap: capFor(sts[i]), share: pct(sts[i].nahb / t.nahb) });
+    });
+    return h + "</ol></section>";
+  }
+
+  function viewStage(s) {
+    var t = sumT(s.lines), lts = s.lines.map(lineT), all = sumT(LINES), i = M.stages.indexOf(s);
+    var max = Math.max.apply(null, lts.map(span));
+    var pub = t.nahb !== s.pub ? " · NAHB prints this stage as " + money(s.pub) + "; its lines add to " + money(t.nahb) + ", a rounding difference in the survey" : "";
+    var h = crumbs([["Sale price", "#price"], ["Construction", "#construction"], [s.name, null]]);
+    h += '<header class="lv"><p class="eyebrow">Stage ' + s.n + " of 8 · " + pct(t.nahb / all.nahb) + " of construction</p><h1>" + esc(s.name) + "</h1>" +
+      '<div class="hero"><span class="fig">' + money(t.nahb) + '</span><span class="figsub">NAHB survey average' + pub + "</span></div>" +
+      (s.note ? '<p class="thesis">' + esc(s.note) + "</p>" : "") +
+      '<div id="sum">' + summaryHTML(t) + "</div></header>";
+    h += '<section class="sec"><h2>' + (s.lines.length === 1 ? "One line item" : s.lines.length + " line items") + "</h2>" + keyHTML(lts) + '<ol class="rows">';
+    s.lines.forEach(function (ln, j) {
+      h += rowHTML({ href: "#l" + ln.id, code: ln.id, name: ln.name, amt: ln.nahb, bar: barHTML(lts[j], max), cap: capFor(lts[j]), share: pct(ln.nahb / t.nahb) });
+    });
+    h += "</ol></section>";
+    var pv = M.stages[i - 1], nx = M.stages[i + 1];
+    return h + pager(pv ? [pv.name, "#" + pv.id] : null, nx ? [nx.name, "#" + nx.id] : null);
+  }
+
+  function dots(n) {
+    var h = '<span class="dots" aria-hidden="true">';
+    for (var i = 1; i <= 3; i++) h += "<i" + (i <= n ? ' class="on"' : "") + "></i>";
+    return h + "</span>";
+  }
+  function srcHTML(r) {
+    var s = M.src[r.src] || M.src.EST, c = CONF[r.c] || CONF.L;
+    var h = '<span class="cf">' + dots(c[0]) + c[1] + "</span>";
+    if (s.u.length) h += '<span class="sl"><a href="' + esc(s.u[0]) + '" target="_blank" rel="noopener" title="' + esc(s.d) + '">' + esc(s.t) + "</a></span>";
+    return h;
+  }
+  /* what a field shows: prices to the cent when they have cents, quantities as counted */
+  function inVal(n, f) {
+    if (f === "p" && n !== Math.round(n) && Math.abs(n * 100 - Math.round(n * 100)) < 1e-6) return n.toFixed(2);
+    return String(n);
+  }
+  function inputHTML(ln, r, f, label) {
+    return '<input class="n' + (isEd(ln, r, f) ? " ed" : "") + '" type="number" inputmode="decimal" step="any" min="0" id="' + f + "-" + ln.id + "-" + r.key +
+      '" data-line="' + ln.id + '" data-key="' + r.key + '" data-f="' + f + '" value="' + inVal(val(ln, r, f), f) + '" placeholder="' + inVal(r[f], f) + '" aria-label="' + esc(label + ", " + r.n) + '">';
+  }
+  function trHTML(ln, r) {
+    var lump = r.u === "lump" || r.u === "lot", spec = r.s || "";
+    if (r.g === "l" && r.u !== "hr" && r.h) spec += (spec ? " · " : "") + "about " + r.h + " crew hours";
+    var qp = lump
+      ? '<span class="pf">$' + inputHTML(ln, r, "p", "Amount") + '</span><span class="u">' + UNIT[r.u] + "</span>"
+      : inputHTML(ln, r, "q", "Quantity") + '<span class="u">' + esc(r.u) + '</span><span class="x">×</span><span class="pf">$' + inputHTML(ln, r, "p", "Unit price") + "</span>";
+    return '<tr><td class="it"><b>' + esc(r.n) + "</b>" + (spec ? "<small>" + esc(spec) + "</small>" : "") + '</td><td class="qpc"><div class="qp">' + qp +
+      '</div></td><td class="cost" id="c-' + ln.id + "-" + r.key + '">' + money(val(ln, r, "q") * val(ln, r, "p")) + '</td><td class="src">' + srcHTML(r) + "</td></tr>";
+  }
+  function tableHTML(ln, g) {
+    var rows = ln[g];
+    if (!rows.length) return "";
+    var tt = TABLE[g];
+    var h = '<div class="tkwrap"><h3><i class="sw ' + g + '"></i>' + tt[0] + '</h3><table class="tk"><thead><tr><th scope="col">' + tt[1] +
+      '</th><th scope="col">Quantity × unit price</th><th scope="col" class="num">Cost</th><th scope="col">Confidence, source</th></tr></thead><tbody>';
+    rows.forEach(function (r) { h += trHTML(ln, r); });
+    return h + "</tbody><tfoot><tr><td>" + tt[0] + ' subtotal</td><td class="fill"></td><td class="cost" id="gt-' + ln.id + "-" + g + '">' + money(groupSum(ln, g)) + '</td><td class="fill"></td></tr></tfoot></table></div>';
+  }
+
+  function viewLine(ln) {
+    var s = ln.stage, t = lineT(ln), st = sumT(s.lines), i = LINES.indexOf(ln);
+    var h = crumbs([["Sale price", "#price"], ["Construction", "#construction"], [s.name, "#" + s.id], [ln.name, null]]);
+    h += '<header class="lv"><p class="eyebrow">Line ' + ln.id + " · " + pct(ln.nahb / st.nahb) + " of its stage</p><h1>" + esc(ln.name) + "</h1>" +
+      '<div class="hero"><span class="fig">' + money(ln.nahb) + '</span><span class="figsub">NAHB survey average</span></div>' +
+      '<div id="sum">' + summaryHTML(t) + "</div></header>";
+    if (ln.basis) h += '<section class="sec"><h2>How the quantities were counted</h2><p class="basis">' + esc(ln.basis) + "</p></section>";
+    h += '<section class="sec"><h2>The takeoff</h2><p class="lead">Every row is a quantity times a unit price. Change either one to try a supplier quote or a bid, and every level above recalculates.</p>';
+    GK.forEach(function (g) { h += tableHTML(ln, g); });
+    h += '<div class="tools"><span data-save>' + SAVE_TEXT[saveState] + '</span><button class="btn" type="button" data-act="reset-line" data-line="' + ln.id + '" id="reset-line"' + (t.ed ? "" : " hidden") + ">Reset this line</button></div></section>";
+    if (ln.notes && ln.notes.length) {
+      h += '<section class="sec"><h2>Reading this line</h2>';
+      ln.notes.forEach(function (n) { h += noteHTML(n); });
+      h += "</section>";
+    }
+    var pv = LINES[i - 1], nx = LINES[i + 1];
+    return h + pager(pv ? [pv.id + " " + pv.name, "#l" + pv.id] : null, nx ? [nx.id + " " + nx.name, "#l" + nx.id] : null);
+  }
+
+  var SORTS = [
+    ["nahb", "Total cost", "The survey figure for each line.", "k"],
+    ["l", "Labor", "On-site labor in the model.", "l"],
+    ["ii", "Idiot index", "The survey figure divided by the cost of materials. Lines with under $1,000 of materials, or made up mostly of fees, are left out.", "k"],
+    ["gap", "Unexplained", "What the survey figure holds beyond the model’s materials, labor, overhead and fees.", "g"]
+  ];
+  var sortKey = "nahb", showAll = false, TOP = 10;
+
+  function viewOpps() {
+    var all = sumT(LINES), k = sortKey, sdef = SORTS.filter(function (s) { return s[0] === k; })[0];
+    var T = {}; LINES.forEach(function (ln) { T[ln.id] = lineT(ln); });
+    var list = LINES.map(function (ln) {
+      var t = T[ln.id];
+      return { ln: ln, nahb: t.nahb, l: t.l, gap: t.gap, ii: t.m >= 1000 ? idiot(t) : null };
+    }).filter(function (d) { return d[k] != null && d[k] > 0.5; }).sort(function (a, b) { return b[k] - a[k]; });
+    var max = list.length ? list[0][k] : 1, shown = showAll ? list : list.slice(0, TOP);
+    var lowII = ["5c", "4c", "6f", "3b"].map(function (id) { return idiot(T[id]); }).filter(function (x) { return x != null; });
+    var hard = all.m + all.l + all.o;
+
+    var h = '<header class="lv"><p class="eyebrow">All ' + LINES.length + ' line items</p><h1>Biggest opportunities</h1>' +
+      '<p class="thesis">The largest lines are not always the best targets. A line is worth attacking when it is large, heavy on labor, or priced far above its materials.</p></header>';
+
+    h += '<section class="sec"><h2>Five findings</h2>';
+    [
+      { h: "Materials are " + pct0(all.m / all.nahb) + " of the survey cost", t: "About " + compact(all.m) + " of materials becomes " + compact(all.nahb) + " installed, " + times(all.nahb / all.m) + " the materials. Inside the bottom-up model, materials are " + pct0(all.m / hard) + " and labor plus sub overhead are " + pct0((all.l + all.o) / hard) + ".", go: ["Open construction", "#construction"] },
+      { h: "Framing is the largest prize", t: "The framing line costs " + times(idiot(T["3a"])) + " its lumber and leaves " + compact(T["3a"].gap) + " that the model cannot explain. The wood itself is only about $3,150 at the mill price.", go: ["Open the framing line", "#l3a"] },
+      { h: "Plumbing and electrical are labor and contract pricing", t: "Their rough-ins cost " + times(idiot(T["5a"])) + " and " + times(idiot(T["5b"])) + " their materials. Copper is under 4% of the electrical line.", go: ["Open the rough-ins", "#s5"] },
+      { h: "Equipment and factory-made goods carry little markup", t: "HVAC, windows, cabinets and trusses run " + times(Math.min.apply(null, lowII)) + " to " + times(Math.max.apply(null, lowII)) + " their materials. Savings there come from buying at scale." },
+      { h: "Time savings go to whoever owns the crew", t: "Panels and trusses cut framing labor 47–60% in published studies, but DFW framers kept charging the same per square foot. A builder keeps that saving only by owning the framing crew or the panel plant.", src: ["SBCA", "CLEM", "HUD-PNL"] }
+    ].forEach(function (n) { h += noteHTML(n); });
+    h += "</section>";
+
+    h += '<section class="sec"><h2>Rank the line items</h2><div class="seg-ctl" role="group" aria-label="Rank by">';
+    SORTS.forEach(function (s) {
+      h += '<button type="button" class="btn" data-act="sort" data-k="' + s[0] + '" aria-pressed="' + (s[0] === k) + '">' + s[1] + "</button>";
+    });
+    h += '</div><p class="lead">' + sdef[2] + '</p><ol class="rank">';
+    shown.forEach(function (d, i) {
+      h += '<li><a href="#l' + d.ln.id + '"><span class="no">' + (i + 1) + '</span><span class="nm">' + esc(d.ln.name) + "<small>" + esc(d.ln.stage.name) + "</small></span>" +
+        '<span class="v">' + (k === "ii" ? times(d.ii) : money(d[k])) + '</span><span class="track">' + plainBar(d[k], max, sdef[3]) + "</span></a></li>";
+    });
+    h += "</ol>";
+    if (list.length > TOP) h += '<div class="tools"><button class="btn" type="button" data-act="more">' + (showAll ? "Show the top " + TOP : "Show all " + list.length) + "</button></div>";
+    h += "</section>";
+
+    h += '<section class="sec"><h2>Ways to cut the biggest lines</h2>';
+    [
+      { h: "Build walls and trusses in a plant", t: "SBCA measured 152.1 man-hours to frame a house from components against 375.5 for stick framing. A Clemson time study recorded 150.5 hours against 79.5. In a HUD study of Oklahoma City and DFW builders, framers charged the same per square foot either way, so the saving reaches you only if you own the crew or the panel line.", src: ["SBCA", "CLEM", "HUD-PNL"], go: ["Framing, including roof", "#l3a"] },
+      { h: "Frame with fewer studs", t: "Advanced framing (24 in on center, single top plates, two-stud corners, right-sized headers) can cut wall studs by up to a third, with reported savings above $1,000 a home.", src: "DOE-AF", go: ["Framing, including roof", "#l3a"] },
+      { h: "Own the truss and panel plant", t: "The lumber and steel plates in the truss package are worth about $2,750. The plant sells the package for about $12,000, roughly 4.4 times its raw inputs. That spread is my estimate, at low confidence.", go: ["Trusses", "#l3b"] },
+      { h: "Pre-build plumbing and wiring", t: "Plumbing assemblies, manifold PEX and pre-wired harnesses go after the " + num(Math.round(T["5a"].h)) + " plumbing hours and " + num(Math.round(T["5b"].h)) + " electrical hours. I found no published savings figures for them, so this one is unproven.", go: ["Major systems rough-ins", "#s5"] },
+      { h: "Pour your own flatwork", t: "The concrete is about $1,500 of a $9,600 driveway line. A builder that already runs slab crews can do this work itself.", go: ["Driveway", "#l7c"] },
+      { h: "Fiber cement in place of first-floor brick", t: "It would save roughly $5,000–7,000 a home under this model’s assumptions.", go: ["Exterior wall finish", "#l4a"] }
+    ].forEach(function (n) { h += noteHTML(n); });
+    return h + "</section>";
+  }
+
+  function viewNotes() {
+    var all = sumT(LINES), hard = all.m + all.l + all.o, n = countEdits();
+    function row(a, b) { return '<tr><th scope="row">' + a + "</th><td>" + b + "</td></tr>"; }
+    var h = '<header class="lv"><p class="eyebrow">Assumptions, definitions, sources</p><h1>Model notes</h1>' +
+      '<p class="thesis">Every survey figure is published by NAHB. Everything under it is a bottom-up model of one reference home, counted from its dimensions and priced in November 2026.</p></header>';
+
+    h += '<section class="sec"><h2>Your changes</h2><p class="lead">' +
+      (n ? "You have changed " + n + (n === 1 ? " value. " : " values. ") : "You have not changed any values. ") + "<span data-save>" + SAVE_TEXT[saveState] + "</span></p>" +
+      (n ? '<div class="tools"><button class="btn" type="button" data-act="reset-all">Reset everything to the model</button></div>' : "") + "</section>";
+
+    h += '<section class="sec"><h2>The reference home</h2><p class="lead">Every quantity is counted from this house, a typical DFW production plan sized to match the survey average.</p><table class="pt"><tbody>';
+    M.home.forEach(function (r) { h += row(esc(r[0]), esc(r[1])); });
+    h += "</tbody></table></section>";
+
+    h += '<section class="sec"><h2>How to read the numbers</h2><table class="pt"><tbody>' +
+      row("NAHB survey average", "The published average for each line from NAHB’s 2024 builder survey. Every level starts from this figure.") +
+      row('<i class="sw m"></i>Materials', "What goes into the house, counted from the reference home and priced at retail bulk tiers. A few services, such as the concrete pump, sit here too.") +
+      row('<i class="sw l"></i>On-site labor', "Crew hours at a loaded hourly rate, or a published unit rate for the trade.") +
+      row('<i class="sw o"></i>Sub overhead and other', "The subcontractor’s overhead and profit, plus equipment and services.") +
+      row('<i class="sw f"></i>Fees', "Government and utility fees that pass straight through.") +
+      row('<i class="sw g"></i>Not explained by the model', "The survey figure minus everything above. Much of it is the survey’s sample, which leans toward custom builders and richer specifications. Some of it is how trades price their contracts.") +
+      row("Idiot index", "The survey figure divided by the cost of materials. A high number means most of the price is something other than the materials.") +
+      row(dots(3) + " Published", "A published price or statistic for this exact item.") +
+      row(dots(2) + " Published range", "A published range or a close substitute.") +
+      row(dots(1) + " Estimate", "My own estimate. Replace these first.") +
+      "</tbody></table></section>";
+
+    h += '<section class="sec"><h2>Labor rates</h2><p class="lead">A loaded rate is the BLS mean hourly wage for Dallas–Fort Worth in May 2025, times 1.45 for payroll taxes, workers’ compensation, liability insurance and benefits. The 1.45 is my assumption. Masons, roofers, painters, drywall finishers and landscapers use my own estimated rates.</p>' +
+      '<div class="scroll"><table class="pt"><thead><tr><th scope="col">Trade</th><th scope="col" class="num">Mean wage</th><th scope="col" class="num">Loaded rate</th></tr></thead><tbody>';
+    M.wages.forEach(function (w) { h += '<tr><th scope="row">' + esc(w[0]) + '</th><td class="num">$' + grp(w[1], 2) + '</td><td class="num">$' + grp(w[2], 2) + "</td></tr>"; });
+    h += '</tbody></table></div><p class="lead">Source: ' + srcLinks("BLS-DFW") + ".</p></section>";
+
+    h += '<section class="sec"><h2>Material prices</h2><p class="lead">Home Depot bulk-tier prices where they exist, such as the price for 50 or more studs. A volume builder buying from a lumberyard or distributor probably pays 5–15% less. That discount is my estimate and is not applied, so material costs here sit on the high side.</p></section>';
+
+    h += '<section class="sec"><h2>Against published benchmarks</h2><table class="pt stack"><thead><tr><th scope="col">Measure</th><th scope="col">This model</th><th scope="col">Published</th></tr></thead><tbody>';
+    [
+      ["Split of the modeled cost", pct0(all.m / hard) + " materials, " + pct0(all.l / hard) + " labor, " + pct0(all.o / hard) + " sub overhead", "Construction Physics, working from Craftsman estimating data, finds hard costs split about half labor and half materials.", "CP"],
+      ["Goods versus services", pct0(all.m / hard) + " goods, " + pct0((all.l + all.o) / hard) + " services", "A Homes.com analysis puts new-home cost at about 60% goods and 40% services.", "HOMES"],
+      ["Materials as a share of the survey cost", pct0(all.m / all.nahb), "NAHB’s average home carries more labor, markup and specification than a DFW production home.", "NAHB24"],
+      ["Share subcontracted", "Every trade line", "NAHB’s 2020 study: builders subcontract 84% of construction cost on average, to about 24 subcontractors. Builders with 100 or more starts subcontract 92%. In 2015 it was 77% and 22 subcontractors.", ["SUB20", "SUB15"]],
+      ["Cost per sq ft", money(all.bu / M.sqft) + " bottom-up", money(all.nahb / M.sqft) + " in the survey, which had 41 usable responses and weights every builder equally.", "RCIQ"]
+    ].forEach(function (r) {
+      h += '<tr><th scope="row">' + r[0] + '</th><td data-l="This model">' + r[1] + '</td><td data-l="Published">' + r[2] + " " + srcLinks(r[3]) + "</td></tr>";
+    });
+    h += "</tbody></table></section>";
+
+    h += '<section class="sec"><h2>Build time</h2><p class="lead">Census data for homes completed in 2025 puts the average at 8.8 months from permit to completion: 1.4 months from permit to start and 7.4 months of construction. Homes built for sale were fastest at 7.4 months. Contractor-built homes took 11.7 and owner-built homes 14.3. The average is still about 1.6 months longer than in 2015. Source: ' + srcLinks("CENSUS-T") + '.</p>' +
+      '<p class="lead">A DFW production schedule for this home runs about 20–24 working weeks. These durations are my estimate.</p>' +
+      '<div class="scroll"><table class="pt"><thead><tr><th scope="col">Phase</th><th scope="col" class="num">Weeks</th></tr></thead><tbody>';
+    M.schedule.forEach(function (r) { h += '<tr><th scope="row" style="width:auto">' + esc(r[0]) + '</th><td class="num">' + esc(r[1]) + "</td></tr>"; });
+    h += '</tbody></table></div><p class="lead">The model itemizes ' + num(Math.round(all.h)) + " crew hours. Counting the tasks priced as lump sums, it comes to about 2,700 hours, roughly one hour per finished square foot, at an average loaded rate near $37 an hour. Framing, brick and siding, drywall, paint, flooring and the three rough-in trades are about two-thirds of it.</p></section>";
+
+    h += '<section class="sec"><h2>Limits of this model</h2><ul class="plain">' +
+      "<li><b>The survey is small.</b> NAHB had 41 usable responses and weights every builder equally, which overweights small custom builders. Its average price of $665,298 is about $150,000 above the Census Bureau’s $514,000 average for 2023. Much of the unexplained remainder is that sample, not hidden waste.</li>" +
+      "<li><b>Many unit prices are my estimates.</b> Brick, siding, trusses, cabinets, flooring and fixtures most of all. Replace them with DFW supplier quotes.</li>" +
+      "<li><b>The two DFW framing labor sources disagree.</b> One says $3.20 per sq ft and the other $8.50–14. The model uses $5.50.</li>" +
+      "<li><b>Lumber moves.</b> The index read $449.05 per 1,000 board feet in early November 2026 and $500.36 in October.</li>" +
+      "<li><b>Fees are national averages.</b> I did not check permit, impact or utility fees for any DFW city.</li>" +
+      "<li><b>One-dollar differences.</b> NAHB prints three stage totals $1 away from the sum of their own lines, and the sale price $1 away from the sum of its parts.</li>" +
+      "</ul></section>";
+
+    h += '<section class="sec"><h2>Sources</h2><ul class="srcs">';
+    Object.keys(M.src).forEach(function (k) {
+      var s = M.src[k];
+      if (!s.u.length) return;
+      h += "<li><b>" + esc(s.t) + ".</b> " + esc(s.d) + ". " + s.u.map(function (u, i) {
+        return '<a href="' + esc(u) + '" target="_blank" rel="noopener">' + (s.u.length > 1 ? "Link " + (i + 1) : "Link") + "</a>";
+      }).join(" · ") + "</li>";
+    });
+    return h + "</ul></section>";
+  }
+
+  /* ---------- routing ---------- */
+  var cur = null, route = null, tabs = D.querySelectorAll(".tabs a");
+  function parse(h) {
+    if (h === "construction") return { v: "construction" };
+    if (STAGE[h]) return { v: "stage", s: STAGE[h] };
+    if (h.charAt(0) === "l" && LINE[h.slice(1)]) return { v: "line", l: LINE[h.slice(1)] };
+    if (h === "opportunities") return { v: "opps" };
+    if (h === "notes") return { v: "notes" };
+    return { v: "price" };
+  }
+  function render() {
+    var r = route;
+    view.innerHTML = r.v === "construction" ? viewConstruction() : r.v === "stage" ? viewStage(r.s) : r.v === "line" ? viewLine(r.l) :
+      r.v === "opps" ? viewOpps() : r.v === "notes" ? viewNotes() : viewPrice();
+    var tab = r.v === "opps" ? "o" : r.v === "notes" ? "n" : "b";
+    for (var i = 0; i < tabs.length; i++) {
+      if (tabs[i].getAttribute("data-tab") === tab) tabs[i].setAttribute("aria-current", "page"); else tabs[i].removeAttribute("aria-current");
+    }
+    tip.hidden = true;
+    fitLabels();
+  }
+  function rerender() { if (route) render(); }
+  function show(h, byUser) {
+    h = (h || "").replace(/^#/, "");
+    if (h === cur) { if (byUser) W.scrollTo(0, 0); return; }
+    cur = h; route = parse(h);
+    render();
+    if (byUser) {
+      W.scrollTo(0, 0);
+      try { view.focus({ preventScroll: true }); } catch (e) { /* focus is a convenience */ }
+    }
+  }
+
+  /* labels inside the tall bar only where they fit */
+  function fitLabels() {
+    var segs = view.querySelectorAll(".bar.tall > .seg");
+    for (var i = 0; i < segs.length; i++) {
+      var b = segs[i].firstElementChild;
+      if (!b) continue;
+      b.hidden = false;
+      if (b.offsetWidth + 7 > segs[i].clientWidth) b.hidden = true;
+    }
+  }
+
+  /* ---------- events ---------- */
+  D.addEventListener("click", function (e) {
+    if (e.defaultPrevented || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    var a = e.target.closest && e.target.closest('a[href^="#"]');
+    if (!a) return;
+    e.preventDefault();
+    var h = a.getAttribute("href").slice(1);
+    try { if (W.location.hash.slice(1) !== h) W.location.hash = h; } catch (err) { /* the view still changes below */ }
+    show(h, true);
+  });
+  W.addEventListener("hashchange", function () {
+    var h = W.location.hash.slice(1);
+    if (h !== cur) show(h, true);
+  });
+
+  function arm(b, fn) {
+    if (b.getAttribute("data-armed")) { fn(); return; }
+    var label = b.textContent;
+    b.setAttribute("data-armed", "1");
+    b.textContent = "Tap again to confirm";
+    W.setTimeout(function () {
+      if (b.isConnected && b.getAttribute("data-armed")) { b.removeAttribute("data-armed"); b.textContent = label; }
+    }, 4000);
+  }
+  view.addEventListener("click", function (e) {
+    var b = e.target.closest && e.target.closest("[data-act]");
+    if (!b) return;
+    var act = b.getAttribute("data-act");
+    if (act === "sort") { sortKey = b.getAttribute("data-k"); render(); }
+    else if (act === "more") { showAll = !showAll; render(); }
+    else if (act === "reset-line") {
+      arm(b, function () { delete edits[b.getAttribute("data-line")]; editsAt = Date.now(); persist(); render(); });
+    } else if (act === "reset-all") {
+      arm(b, function () { edits = {}; editsAt = Date.now(); persist(); render(); });
+    }
+  });
+
+  function patchLine(ln, r) {
+    var t = lineT(ln);
+    var c = D.getElementById("c-" + ln.id + "-" + r.key), gt = D.getElementById("gt-" + ln.id + "-" + r.g);
+    var sum = D.getElementById("sum"), rb = D.getElementById("reset-line");
+    if (c) c.textContent = money(val(ln, r, "q") * val(ln, r, "p"));
+    if (gt) gt.textContent = money(groupSum(ln, r.g));
+    if (sum) sum.innerHTML = summaryHTML(t);
+    if (rb) rb.hidden = !t.ed;
+    fitLabels();
+  }
+  view.addEventListener("input", function (e) {
+    var el = e.target;
+    if (!el.classList || !el.classList.contains("n")) return;
+    var ln = LINE[el.getAttribute("data-line")], r = ln && ln.rows[el.getAttribute("data-key")], f = el.getAttribute("data-f");
+    if (!r) return;
+    var raw = el.value.trim(), n = raw === "" ? null : parseFloat(raw);
+    if (n != null && (!isFinite(n) || n < 0)) n = null;
+    setEdit(ln, r, f, n);
+    el.classList.toggle("ed", isEd(ln, r, f));
+    patchLine(ln, r);
+  });
+  /* an emptied or invalid field falls back to the model's value */
+  view.addEventListener("change", function (e) {
+    var el = e.target;
+    if (!el.classList || !el.classList.contains("n")) return;
+    var ln = LINE[el.getAttribute("data-line")], r = ln && ln.rows[el.getAttribute("data-key")], f = el.getAttribute("data-f");
+    if (!r) return;
+    var n = parseFloat(el.value);
+    if (!isFinite(n) || n < 0) el.value = inVal(val(ln, r, f), f);
+  });
+
+  /* hover detail for bar segments (mouse only; every value is also in the table under the bar) */
+  function placeTip(e) {
+    var x = e.clientX + 12, y = e.clientY + 16, w = tip.offsetWidth, hh = tip.offsetHeight;
+    if (x + w > W.innerWidth - 8) x = Math.max(8, W.innerWidth - 8 - w);
+    if (y + hh > W.innerHeight - 8) y = e.clientY - hh - 10;
+    tip.style.transform = "translate(" + Math.round(x) + "px," + Math.round(y) + "px)";
+  }
+  D.addEventListener("pointermove", function (e) {
+    if (e.pointerType && e.pointerType !== "mouse") return;
+    var s = e.target.closest && e.target.closest("[data-tip]");
+    if (!s) { if (!tip.hidden) tip.hidden = true; return; }
+    tip.textContent = s.getAttribute("data-tip");
+    tip.hidden = false;
+    placeTip(e);
+  });
+  D.documentElement.addEventListener("mouseleave", function () { tip.hidden = true; });
+  W.addEventListener("scroll", function () { if (!tip.hidden) tip.hidden = true; }, { passive: true });
+
+  var rz = 0;
+  W.addEventListener("resize", function () { W.clearTimeout(rz); rz = W.setTimeout(fitLabels, 120); });
+  if (D.fonts && D.fonts.ready && D.fonts.ready.then) D.fonts.ready.then(fitLabels);
+
+  /* ---------- start ---------- */
+  loadLocal();
+  show(W.location.hash.slice(1), false);
+  initRemote();
+})();
+
+</script>
+
+</body></html>

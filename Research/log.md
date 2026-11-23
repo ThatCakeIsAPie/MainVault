@@ -5,6 +5,14 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-23] ingest | Spar: DFW build cost explorer + home-construction path
+- Raw: [[raw/conversations/spar-2026-11-23-dfw-build-cost-explorer-home-construction]] (sha256 `9990885154bb83daf6e13dc06a555ac0bab83de37eb35bf1e18e0b5d3d461848`)
+- Original HTML kept unchanged: `raw/documents/dfw-build-cost-explorer-2026-11-23.html` (file sha256 `d1b03426e3bdadb25cdd937752c2445c59c2ddb5735b9f2769d70c43b6fe19f0`)
+- Created: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (carries the explorer's own caveat: unit prices are estimates until supplier quotes)
+- Updated: [[faleth/bridge-strategy/automation-services-2026]] (Lyle: automation consulting ruled out short and long term)
+- Flagged: first subsidiary named as home construction (2026-11-23) vs electronics contract manufacturer (2026-11-11); not yet reconciled
+- Index updated
+
 ## [2026-11-23] ingest | miroburn offer stacking on Google AI Ultra (2124854140173955437)
 - Raw: [[raw/transcripts/lyle-x-share-2124854140173955437]] (sha256 `b2cdf26ab14f4e53c39a3210ddc61aab58d7c525597971e07d346b87b2b28101`)
 - Media: 2 PNGs (Google AI Ultra benefits list + Colab help page) → `raw/assets/x/2124854140173955437/`

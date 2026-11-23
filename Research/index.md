@@ -111,7 +111,8 @@
 
 **Bridge & strategy**
 - [[faleth/bridge-strategy/game-finish-bridge-2026]] — Indie game ship as cash-timing bridge alongside GovCon deals.
-- [[faleth/bridge-strategy/automation-services-2026]] — Automation services bridge (on hold unless runway forces linear income).
+- [[faleth/bridge-strategy/automation-services-2026]] — Automation services bridge (ruled out short and long term as of 2026-11-23).
+- [[faleth/one-billion-homes-dfw-build-cost-model-2026]] — DFW build cost explorer (NAHB 2024 home, drill-down to line items) plus Lyle's home-construction plan for One Billion Homes.
 
 ## VXE / GovCon ops
 
