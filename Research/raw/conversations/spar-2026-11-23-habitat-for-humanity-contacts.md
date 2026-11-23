@@ -16,3 +16,11 @@ Spar says this touches `Business/Faleth Capital/One Billion Homes/One_Billion_Ho
 
 ## Later note (2026-11-23, Spar)
 Background fact from Lyle: he got to know the Habitat people by attending their networking events regularly for his old repair business. He once asked if they were hiring and they were not at the time. It has been a couple of years, but he knows his contacts are still there. He did not name the contacts.
+
+## Later note (2026-11-23, Spar, second add)
+Lyle's words:
+- His ask to people at Habitat: he is looking to start a home construction company, he is building the team that can start building homes, and he would like to know if they have any contacts in the industry who would be helpful to know and sit down with.
+- He can use the VXE money as his own down payment against any capital he raises to get it started.
+- He would emphasize that the goal is to reduce the time per home, using "the compounding math I explained in the docs (if they are there)."
+
+Spar's note: the vault has the speed principle (One_Billion_Homes.md section 6: shortening days per home "frees up the people and the capital for the next home sooner", and a crew that halves its time "earns the same pool twice as often") but no worked compounding math with numbers. Spar told Lyle so and will pass the math on if he gives it. Do not write it up from a guess.

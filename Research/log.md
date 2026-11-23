@@ -5,6 +5,10 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-23] update | Habitat ask, VXE down payment, time-per-home pitch
+- Appended a second dated "Later note" to [[raw/conversations/spar-2026-11-23-habitat-for-humanity-contacts]]
+- Updated: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (his ask to Habitat contacts, VXE money as down payment, time-per-home emphasis; open question: compounding math not yet in vault — not written from a guess)
+
 ## [2026-11-23] update | Habitat for Humanity background
 - Appended a dated "Later note" to [[raw/conversations/spar-2026-11-23-habitat-for-humanity-contacts]] (how Lyle knows the Habitat people; contacts not named)
 - Updated: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (one background line in the Habitat subsection)

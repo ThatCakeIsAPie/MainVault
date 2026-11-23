@@ -114,10 +114,14 @@ He called these numbers a hypothetical example, not settled parameters. ^[raw/co
   - Habitat lowers the price of each house it sells, and uses a contract to keep the profit if the owner resells soon after.
   - He keeps the profit up front, sells or rents like a normal general contractor, and builds so many homes that supply pushes housing prices down.
 - This matches [[One_Billion_Homes]] §1 (sell at market; prices fall through supply). §7 already names Habitat affiliates as buyers from the Component Plant.
+- **His ask to them:** he's starting a home construction company and building the team that will build the homes. Do they know people in the industry worth sitting down with?
+- **Funding line:** VXE money can be his own down payment against any capital he raises.
+- **What he'd stress:** the goal is cutting time per home, using the compounding math behind it.
 
 ## Open questions
 - Lyle's own: he worries that hands-on industry "experience" could teach him the wrong lesson, the "industry standard" habits he wants to improve on. He isn't sure that's a valid concern.
 - Does a leader need to know how to do the work, or at least understand it? He lacks the experience and doesn't want to lead without it, but questions how much it matters.
+- The worked compounding math for time per home. [[One_Billion_Homes]] §6 states the principle (a crew that halves its time earns the same pool twice as often), but no numbers are in the vault yet. Waiting on Lyle's math.
 - Networking and team-gathering vs getting hands-on himself. He leaned toward networking but didn't close it.
 - Unit prices need supplier quotes before the model is trusted.
 - What the unexplained slice of the roughly $400k cost gap actually is.
