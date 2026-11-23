@@ -5,6 +5,10 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-23] update | Habitat for Humanity background
+- Appended a dated "Later note" to [[raw/conversations/spar-2026-11-23-habitat-for-humanity-contacts]] (how Lyle knows the Habitat people; contacts not named)
+- Updated: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (one background line in the Habitat subsection)
+
 ## [2026-11-23] ingest | Spar: Habitat for Humanity as a people source
 - Raw: [[raw/conversations/spar-2026-11-23-habitat-for-humanity-contacts]] (sha256 `5ddbb20ae888312929a0ef38d905d5ed3ee6230564284518294912a0b4885df9`)
 - Updated: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (Habitat subsection under "How it starts")

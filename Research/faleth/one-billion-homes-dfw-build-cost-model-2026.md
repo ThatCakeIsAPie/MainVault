@@ -109,6 +109,7 @@ He called these numbers a hypothetical example, not settled parameters. ^[raw/co
 
 **Habitat for Humanity** ^[raw/conversations/spar-2026-11-23-habitat-for-humanity-contacts.md]
 - Reconnecting with Habitat doubles as people-finding: the people he talks to there can get him contacts.
+- Background: he knows them from attending their networking events regularly for his old repair business. He once asked if they were hiring (they weren't then). It's been a couple of years, but his contacts are still there.
 - Same goal, different method, in his words:
   - Habitat lowers the price of each house it sells, and uses a contract to keep the profit if the owner resells soon after.
   - He keeps the profit up front, sells or rents like a normal general contractor, and builds so many homes that supply pushes housing prices down.

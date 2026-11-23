@@ -13,3 +13,6 @@ Source: Spar, short add to the 2026-11-23 conversation with Lyle. His words.
 - His reasoning: Habitat has the same goal he does, approached a different way. Habitat sells houses to people at lower cost by selling the house cheaper, and guards against flipping with a contract where they keep the profits if the owner sells shortly after. His approach is to keep the profits off the bat, sell or rent houses as general contractors normally do, and build so many houses that the price of housing comes down because supply rises so much.
 
 Spar says this touches `Business/Faleth Capital/One Billion Homes/One_Billion_Homes.md` section 1 (selling at market and supply) and section 7 (which already names Habitat affiliates as buyers from the Component Plant).
+
+## Later note (2026-11-23, Spar)
+Background fact from Lyle: he got to know the Habitat people by attending their networking events regularly for his old repair business. He once asked if they were hiring and they were not at the time. It has been a couple of years, but he knows his contacts are still there. He did not name the contacts.
