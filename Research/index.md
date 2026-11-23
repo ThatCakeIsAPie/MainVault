@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-11-22 | Total pages: 153+
+> Last updated: 2026-11-23 | Total pages: 153+
 
 ## Meta / schema
 
@@ -60,6 +60,7 @@
 - [[offshoots/move-first-and-over-deliver]] — Hypothesis: move first and over-deliver (take their problem more seriously, give before asked) and others mirror the frame.
 - [[offshoots/the-made-world-and-the-will-to-ship]] — The world is made by people, shipping is a low-entropy fight, and you can poke life and change it. Lyle loves these quotes.
 - [[offshoots/networking-and-connection-skills]] — Networking and genuine connection are learnable, teachable skills rather than innate talents.
+- [[offshoots/offer-stacking]] — Bundle many cheap-to-serve perks into one subscription so perceived value far exceeds the price. Lyle, on the Google AI Ultra stack: "Actually insane value, wtf."
 - [[offshoots/persistent-consistent-action]] — Long-term success requires persistent, consistent daily action over an extended period.
 - [[offshoots/pipeline-abundance-through-repetition]] — Confidence in people work comes from having enough people in process that no single prospect carries emotional weight.
 - [[offshoots/principles-permanent-parameters-adaptive]] — Protect durable commitments while continuously recalibrating context-sensitive operating dials.

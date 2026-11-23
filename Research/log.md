@@ -5,6 +5,15 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-23] ingest | miroburn offer stacking on Google AI Ultra (2124854140173955437)
+- Raw: [[raw/transcripts/lyle-x-share-2124854140173955437]] (sha256 `b2cdf26ab14f4e53c39a3210ddc61aab58d7c525597971e07d346b87b2b28101`)
+- Media: 2 PNGs (Google AI Ultra benefits list + Colab help page) → `raw/assets/x/2124854140173955437/`
+- Thread: root 2124852908134940977 (full `note_tweet`) + image-only follow-up 2124853600241455570; both in the same raw file, with labeled English translations
+- Lyle's take: "Actually insane value, wtf."
+- Created: [[offshoots/offer-stacking]]
+- Why: named sales pattern (bundle cheap-to-serve perks so perceived value far exceeds price); ties to utilization economics. `if-it-scales-its-free.md` was linked, not edited (pending edit on that page).
+- Shares log + index updated
+
 ## [2026-11-22] create | purple cow as a business and brand principle
 - Created: [[offshoots/purple-cow]]
 - Source: [[raw/transcripts/lyle-x-share-2124459878408433851]] (already ingested; was raw-only until Lyle's take)
