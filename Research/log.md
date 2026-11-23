@@ -5,6 +5,12 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-23] ingest | Spar: One Billion Homes compensation and "the drip"
+- Raw: [[raw/conversations/spar-2026-11-23-one-billion-homes-compensation-drip]] (sha256 `17f53ecc900ffe24670e5de9b1f8694693f3d036f93bffc9cab1f394039c18c4`)
+- Updated: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (new section with Lyle's compensation stack, the drip, drip to Class B; hypothetical numbers)
+- Canon docs in Business/Faleth Capital were not edited; the drip differs from the holdback in One_Billion_Homes §2 and is noted as such
+- No new page, so index unchanged
+
 ## [2026-11-23] ingest | Spar: DFW build cost explorer + home-construction path
 - Raw: [[raw/conversations/spar-2026-11-23-dfw-build-cost-explorer-home-construction]] (sha256 `9990885154bb83daf6e13dc06a555ac0bab83de37eb35bf1e18e0b5d3d461848`)
 - Original HTML kept unchanged: `raw/documents/dfw-build-cost-explorer-2026-11-23.html` (file sha256 `d1b03426e3bdadb25cdd937752c2445c59c2ddb5735b9f2769d70c43b6fe19f0`)

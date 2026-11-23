@@ -4,7 +4,7 @@ created: 2026-11-23
 updated: 2026-11-23
 type: summary
 tags: [business, finance, strategy, operations, framework]
-sources: [raw/conversations/spar-2026-11-23-dfw-build-cost-explorer-home-construction.md, raw/documents/dfw-build-cost-explorer-2026-11-23.html]
+sources: [raw/conversations/spar-2026-11-23-dfw-build-cost-explorer-home-construction.md, raw/conversations/spar-2026-11-23-one-billion-homes-compensation-drip.md, raw/documents/dfw-build-cost-explorer-2026-11-23.html]
 confidence: medium
 ---
 
@@ -68,7 +68,35 @@ confidence: medium
 - This season: reconnect with Habitat for Humanity contacts and get on job sites. He is also weighing a project manager role at another builder for a contract or season, to get paid to learn and "feel the pain more."
 - Constraint: no car until his first VXE paycheck, after the warehouse move.
 
+## Lyle's compensation ideas (2026-11-23, hypothetical)
+He called these numbers a hypothetical example, not settled parameters. ^[raw/conversations/spar-2026-11-23-one-billion-homes-compensation-drip.md]
+
+**What the explorer showed him**
+- Leaving out land and fees, there is about a $400k gap between materials and the sale price. Labor is only about 39% of it.
+- Even that labor figure is high next to what workers actually make per hour.
+- He wants to find out what the slice the model can't explain really is.
+
+**The stack**
+- All work in-house.
+- A floor for everyone, maybe non-credited at first.
+- Work above the bare minimum earns well above the floor.
+- Profit share on top. A project manager he knows says nobody he knows offers it, so it would attract and keep talent.
+- Company trucks and tools.
+
+**The drip (new idea)**
+- About half of what someone earns on a finished home is paid monthly over a year, as long as there are no callbacks. A callback stops it.
+- This is bigger than the current quality holdback in [[One_Billion_Homes]] §2, which holds back "a small share" and releases it at the one-year walkthrough.
+- Who loses it: the crew whose stage failed loses that home's drip. If other departments could have caught a deeper problem, everyone loses it.
+- Example: an apprentice electrician earns $4,000 on a home. $2,000 is paid in Layer 2; $2,000 drips at about $167 a month for a year. At 4 to 5 homes a month the drips stack, and they fade if the person stops working.
+- Purpose, in his words: first quality. Second, it "silently gets people hooked on recurring income," which leads toward Class B dividends, then to building income-producing systems and family wealth.
+- He is not married to the 40-hour weekly cap on Layer 2.
+
+**Drip to Class B**
+- Everyone gets gain share and chooses to take it or mint it. Most start by taking. Around people who mint, they see they could build equity, and they switch.
+- Touches [[The Equity Framework]] §2 and [[The Contribution Framework]].
+
 ## Open questions
 - Lyle's own: he worries about picking up the "industry standard" habits he wants to improve on, and isn't sure that's a valid concern.
 - On 2026-11-11 he named a small electronics contract manufacturer as the first business ([[faleth/heroes-faleth-first-subsidiary-and-model-case-2026-11-11]]). On 2026-11-23 he named home construction. Not yet confirmed which one is current, or whether both stand.
 - Unit prices need supplier quotes before the model is trusted.
+- What the unexplained slice of the roughly $400k cost gap actually is.
