@@ -4,7 +4,7 @@ created: 2026-11-23
 updated: 2026-11-23
 type: summary
 tags: [business, finance, strategy, operations, framework]
-sources: [raw/conversations/spar-2026-11-23-dfw-build-cost-explorer-home-construction.md, raw/conversations/spar-2026-11-23-one-billion-homes-compensation-drip.md, raw/conversations/spar-2026-11-23-one-billion-homes-how-it-starts.md, raw/documents/dfw-build-cost-explorer-2026-11-23.html]
+sources: [raw/conversations/spar-2026-11-23-dfw-build-cost-explorer-home-construction.md, raw/conversations/spar-2026-11-23-one-billion-homes-compensation-drip.md, raw/conversations/spar-2026-11-23-one-billion-homes-how-it-starts.md, raw/conversations/spar-2026-11-23-habitat-for-humanity-contacts.md, raw/documents/dfw-build-cost-explorer-2026-11-23.html]
 confidence: medium
 ---
 
@@ -106,6 +106,13 @@ He called these numbers a hypothetical example, not settled parameters. ^[raw/co
 - He doesn't have to build the whole business himself. His job is to gather the team, secure the funding, and set the compensation plan.
 - So the highest-leverage work may be networking: finding people, possible subs, and companies that could help raise money. Someone may know where the first tasks can start.
 - One option: hire or partner with an experienced project manager who shares his vision.
+
+**Habitat for Humanity** ^[raw/conversations/spar-2026-11-23-habitat-for-humanity-contacts.md]
+- Reconnecting with Habitat doubles as people-finding: the people he talks to there can get him contacts.
+- Same goal, different method, in his words:
+  - Habitat lowers the price of each house it sells, and uses a contract to keep the profit if the owner resells soon after.
+  - He keeps the profit up front, sells or rents like a normal general contractor, and builds so many homes that supply pushes housing prices down.
+- This matches [[One_Billion_Homes]] §1 (sell at market; prices fall through supply). §7 already names Habitat affiliates as buyers from the Component Plant.
 
 ## Open questions
 - Lyle's own: he worries that hands-on industry "experience" could teach him the wrong lesson, the "industry standard" habits he wants to improve on. He isn't sure that's a valid concern.
