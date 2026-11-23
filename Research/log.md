@@ -5,6 +5,12 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-23] update | Free Range Repair no longer run by Lyle
+- Source: Lyle's correction via Spar, 2026-11-23: he pivoted away from Free Range Repair when VXE started picking back up. Closed vs paused not stated.
+- Updated: `Business/Faleth Capital/VXE (partner)/AI Context/VXE — AI Reference.md` (Overview line and Key Relationships row)
+- Updated: `Business/Faleth Capital/Free Range Repair/AI Context/Free Range Repair — AI Reference.md` (status note at top)
+- [[entities/lyle-cole]] already said FRR is no longer pursued; unchanged
+
 ## [2026-11-23] ingest | Spar: One Billion Homes compensation and "the drip"
 - Raw: [[raw/conversations/spar-2026-11-23-one-billion-homes-compensation-drip]] (sha256 `17f53ecc900ffe24670e5de9b1f8694693f3d036f93bffc9cab1f394039c18c4`)
 - Updated: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (new section with Lyle's compensation stack, the drip, drip to Class B; hypothetical numbers)

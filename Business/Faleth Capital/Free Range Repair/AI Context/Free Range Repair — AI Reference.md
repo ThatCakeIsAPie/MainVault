@@ -1,5 +1,7 @@
 # Free Range Repair — AI Reference
 
+> **Status (2026-11-23):** Lyle is no longer running Free Range Repair. He pivoted away from it when VXE started picking back up. Not stated whether it is closed for good or paused. The rest of this file describes the business as it was.
+
 This file is a consolidated reference for AI agents operating in the context of Free Range Repair. All information is sourced from the AI Context folder documents.
 
 ---

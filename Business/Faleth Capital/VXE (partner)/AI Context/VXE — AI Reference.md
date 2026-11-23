@@ -6,7 +6,7 @@ This file is a consolidated reference for AI agents operating in the context of 
 
 ## Overview
 
-VXE is a government contracts business. It is run by Leonard (external business partner), with Lyle and his brother holding a partnership stake. The brother is currently the primary point of contact on the Faleth Capital side for this venture, while Lyle focuses on Free Range Repair.
+VXE is a government contracts business. It is run by Leonard (external business partner), with Lyle and his brother holding a partnership stake. The brother is currently the primary point of contact on the Faleth Capital side for this venture. Lyle is no longer running Free Range Repair; he pivoted away from it when VXE started picking back up (noted 2026-11-23).
 
 ### Ownership & Roles
 
@@ -57,7 +57,7 @@ VXE operates in the government contracts space.
 | Leonard | Operator and external business partner |
 | Faleth Capital | Silent partner / evergreen holding company |
 | LibreTech | Related defense business — see [[LibreTech — AI Reference]] |
-| Free Range Repair | Lyle's primary focus — see [[Free Range Repair — AI Reference]] |
+| Free Range Repair | No longer run by Lyle; he pivoted away when VXE picked back up (2026-11-23) — see [[Free Range Repair — AI Reference]] |
 
 ---
 
