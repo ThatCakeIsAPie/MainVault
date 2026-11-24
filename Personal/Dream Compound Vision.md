@@ -55,7 +55,7 @@
 
 ### Seen in the wild (2026-11-24)
 
-0xSero posted a real **8× RTX Pro 6000 Server Edition** box: 768 GB VRAM, 768 GB RAM, 120 TB NVMe. He says it can run pretty much any model fast, including Kimi with offloading. In a follow-up he says a dentist owns it and is running a large operation on DeepSeek / GLM, after previously having 200 Claude max subs. Those are 0xSero's claims, not checked here. Photos show a Supermicro chassis in a rack, a full front drive bay, eight rear GPU slots, and an AWT 51.2V 314Ah battery module nearby. ^[Research/raw/transcripts/lyle-x-share-2125115025274868054]
+0xSero posted a real **8× RTX Pro 6000 Server Edition** box: 768 GB VRAM, 768 GB RAM, 120 TB NVMe. He says it can run pretty much any model fast, including Kimi with offloading. ^[Research/raw/transcripts/lyle-x-share-2125115025274868054]
 
 Lyle's take: "someone has the 8x rx 6000 pro build we were looking at lol."
 

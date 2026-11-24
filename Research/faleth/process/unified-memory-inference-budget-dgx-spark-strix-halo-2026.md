@@ -131,17 +131,6 @@ This strengthens the procurement rule: specialized model-runtime co-design can m
 
 The bookmark preserves the same 0xSero demonstration already captured through Telegram, so it adds provenance rather than an independent second result. [[raw/x-bookmarks/26-08-12/2087544650559025190]]
 
-## 8× RTX PRO 6000 Server Edition — 0xSero (2026-11-24)
-
-0xSero posted an **8× RTX Pro 6000 Server Edition** machine with **768 GB VRAM**, **768 GB RAM**, and **120 TB NVMe**. He says it can run pretty much any model blazing fast, including Kimi with offloading, and signed off with "Freedom!" Four photos show a Supermicro chassis in a rack, a full front drive bay, eight rear GPU slots, and an AWT 51.2V 314Ah battery module nearby. The post itself does not give tok/s, power, a recipe, or a price. ^[raw/transcripts/lyle-x-share-2125115025274868054]
-
-In a follow-up one second later, he says a dentist owns the box, is running a large operation on DeepSeek / GLM, and previously had 200 Claude max subs. Those are 0xSero's claims, not checked here. He also wrote that the machine can serve hundreds of concurrent users 24/7. ^[raw/transcripts/lyle-x-share-2125115025274868054]
-
-Lyle's take: "someone has the 8x rx 6000 pro build we were looking at lol." The plan he means is in [[Personal/Dream Compound Vision]]: one 8× RTX PRO 6000 Server Edition rack with 768 GB GPU memory (cabinet build dated Nov 4, 2026). 0xSero's box matches the GPU count and VRAM. His RAM (768 GB) is half the 1.5 TB in that plan, and 120 TB NVMe is far larger than the 2 TB listed there. Do not treat the two as the same bill of materials.
-
-This sits next to his earlier **4 × RTX PRO 6000** DS4 throughput report above. Same GPU family, twice the cards; no numbers here to compare speed.
-
-
 ### One-box multimodal stack is not one-model residency (2026-08-13)
 
 Steve Darlow reports a complete open-weight creative loop on **one DGX Spark**: DeepSeek V4 Flash 0731, Qwen 3 VL 2B, Qwen Image 3, MiniMax H3, LTX 2.5, faster-whisper base, Chatterbox Turbo, and MiniMax Music 3. [[raw/x-bookmarks/26-08-13/2087983106972057602]]
@@ -155,6 +144,14 @@ Contrast with [[faleth/process/magi-2-open-moe-video-generation-2026]]: MAGI-2�
 Mia reports backporting six vLLM 0.27 performance patches into a **two-DGX-Spark DeepSeek V4 Flash** deployment and describes a major latency improvement as context grows from **65K to 262K tokens**. The post does not provide the chart's underlying measurements, patch list, runtime configuration, prompt-processing rate, time-to-first-token, inter-token latency, or quality checks, so it is an operator signal rather than a reproducible benchmark. [[raw/x-bookmarks/26-08-12/2087493068735819924]]
 
 The durable correction is still valuable: once decode throughput becomes comfortably interactive, **latency under realistic context** can dominate usability. Commissioning should therefore record time-to-first-token and tail latency at fixed context checkpoints—not merely average tok/s—and test whether runtime patches preserve stability and output quality. This complements [[faleth/process/llm-inference-serving-five-optimization-surfaces-2026]] and the accepted-job framing in [[faleth/process/frontier-model-cost-speed-tradeoff-2026]].
+
+## 8× RTX PRO 6000 Server Edition — 0xSero (2026-11-24)
+
+0xSero posted an **8× RTX Pro 6000 Server Edition** machine with **768 GB VRAM**, **768 GB RAM**, and **120 TB NVMe**. He says it can run pretty much any model blazing fast, including Kimi with offloading. Four photos show a Supermicro chassis in a rack, a full front drive bay, eight rear GPU slots, and an AWT 51.2V 314Ah battery module nearby. The post itself does not give tok/s, power, a recipe, or a price. ^[raw/transcripts/lyle-x-share-2125115025274868054]
+
+In a follow-up one second later, he says a dentist owns the box, is running a large operation on DeepSeek / GLM, and previously had 200 Claude max subs. Those are 0xSero's claims, not checked here. He also wrote that the machine can serve hundreds of concurrent users 24/7. ^[raw/transcripts/lyle-x-share-2125115025274868054]
+
+Lyle's take: "someone has the 8x rx 6000 pro build we were looking at lol." The plan he means is in [[Personal/Dream Compound Vision]]: one 8× RTX PRO 6000 Server Edition rack with 768 GB GPU memory (cabinet build dated Nov 4, 2026). 0xSero's box matches the GPU count and VRAM. His RAM (768 GB) is half the 1.5 TB in that plan, and 120 TB NVMe is far larger than the 2 TB listed there. Do not treat the two as the same bill of materials.
 
 ## First commissioning sequence
 
