@@ -56,7 +56,7 @@ His nutshell brand recipe (from the Short's description):
 
 Lyle flagged a 2026-11-21 quote-tweet by @muvaff (muvaf, lim.run, YC P26) of @vlad_mihalcea, and tied it to the rule on this page. ^[raw/transcripts/lyle-x-share-2124211995016851831]
 
-Vlad's claim: he does not understand Anthropic's business model. His Pro plan "costs $200 per year," yet he used 16B tokens that would cost around $100,000 at the per-use rate. The attached screenshot shows 16.3b total tokens, 15.9b of them labeled cache read, favorite model Opus 5.5. The "$200 per year" wording is his and was not checked here. It is not the same as muvaf's "$200 subs" or Lyle's "$200/month plans."
+Vlad's claim: he does not understand Anthropic's business model. His Pro plan "costs $200 per year," yet he used 16B tokens that would cost around $100,000 at the per-use rate. The attached screenshot shows 16.3b total tokens, 15.9b of them labeled cache read, favorite model Opus 5.5.
 
 muvaf's point, from someone who built clouds: token cost mostly tracks infrastructure *utilization*. Higher utilization, lower cost. At around 80% use, the extra cost per token is near zero — cheap enough to give away — but you are "too close to the sun." A customer's product launch can take the infra down for everyone, and you lose your best customer.
 

@@ -30,8 +30,4 @@ Not just a content rule. A general way to approach business and brand: go after 
 ## Related
 
 - [[offshoots/marketing-first-principles]] — being unignorable is one way through the awareness wall; the "tell your friends" part is word of mouth, close to that primer's memory wall.
-- [[offshoots/if-it-scales-its-free]] — another brand principle in the vault: what scales can be free, and what doesn't gets a price. Different question, same layer (how the brand behaves).
-
-## One-liner to keep
-
-**Ordinary gets ignored. The wild, hard, never-done-before thing is what people can't help but look at.**
+- [[offshoots/if-it-scales-its-free]] — another brand principle in the vault: what scales can be free, and what doesn't gets a price.
