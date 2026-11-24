@@ -5,6 +5,14 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-24] ingest | Elon: intelligence is compression and correlation (2125175732758520056)
+- Raw: [[raw/transcripts/lyle-x-share-2125175732758520056]] (sha256 `2ceea2ad58f6f3596a9e8833a395a5fb4dc6eb786a11c9acdb13e174771fef92`)
+- Elon replied to Andrew Carr (@andrew_n_carr): "Ilya wasn't joking when he said intelligence is compression." Elon's text: "It is compression and correlation"
+- Lyle's take: "Pretty genius way to describe intelligence"
+- Created: [[offshoots/intelligence-as-compression-and-correlation]]
+- Media: Andrew's later "it's the same!" photo (human-motion scaling figure) → `raw/assets/x/2124898773231116712/`
+- Shares log and index updated
+
 ## [2026-11-24] ingest | 0xSero 8× RTX Pro 6000 Server Edition (2125115025274868054)
 - Raw: [[raw/transcripts/lyle-x-share-2125115025274868054]] (sha256 `560bfbf11be62e29d6fe01592d2240808d55fe830d6310868bf09a2aa22e4537`)
 - Media: 4 JPEGs (front rack, rear/PDU, AWT battery, rear GPU slots) → `raw/assets/x/2125115025274868054/`

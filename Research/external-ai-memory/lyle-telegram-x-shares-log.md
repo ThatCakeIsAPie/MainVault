@@ -18,6 +18,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-11-24 | [2125175732758520056](https://x.com/elonmusk/status/2125175732758520056) | Pretty genius way to describe intelligence | [[research/raw/transcripts/lyle-x-share-2125175732758520056]] | [[research/concepts/offshoots/intelligence-as-compression-and-correlation]] |
 | 2026-11-24 | [2125115025274868054](https://x.com/0xSero/status/2125115025274868054) | someone has the 8x rx 6000 pro build we were looking at lol | [[research/raw/transcripts/lyle-x-share-2125115025274868054]] | [[research/faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] · [[Personal/Dream Compound Vision]] |
 | 2026-11-23 | [2124854140173955437](https://x.com/miroburn/status/2124854140173955437) | via Chief of Staff; Actually insane value, wtf. | [[research/raw/transcripts/lyle-x-share-2124854140173955437]] | [[research/concepts/offshoots/offer-stacking]] |
 | 2026-11-22 | [2124459878408433851](https://x.com/ryangrowthh/status/2124459878408433851) | ambient share, then Lyle asked for a principle: business and brand, go after the really hard things; do something so wild people can't help but look | [[research/raw/transcripts/lyle-x-share-2124459878408433851]] | [[research/concepts/offshoots/purple-cow]] |
