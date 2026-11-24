@@ -5,6 +5,16 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-24] ingest | 0xSero 8× RTX Pro 6000 Server Edition (2125115025274868054)
+- Raw: [[raw/transcripts/lyle-x-share-2125115025274868054]] (sha256 `560bfbf11be62e29d6fe01592d2240808d55fe830d6310868bf09a2aa22e4537`)
+- Media: 4 JPEGs (front rack, rear/PDU, AWT battery, rear GPU slots) → `raw/assets/x/2125115025274868054/`
+- Thread: 0xSero follow-up 2125115030966325701 (dentist owner; DeepSeek / GLM; prior 200 Claude max subs) plus other 0xSero replies, in the same raw file
+- Lyle's take: "someone has the 8x rx 6000 pro build we were looking at lol"
+- Updated: [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] (new 8× section)
+- Updated: [[Personal/Dream Compound Vision]] (the earlier 8× RTX PRO 6000 cabinet plan; "Seen in the wild" note). 0xSero's box matches GPU count and 768 GB VRAM; RAM and NVMe do not match that bill of materials.
+- No new page, so index unchanged
+- Shares log updated
+
 ## [2026-11-23] ingest | Spar: Lyle's time-per-home compounding math
 - Raw: [[raw/conversations/spar-2026-11-23-time-per-home-compounding-math]] (sha256 `d58955791f612642c64ca3b9f57db6c294a4a90311a4974a84dd45788e0bc6f3`)
 - Updated: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (new "Time per home compounds" section; closes the open question on missing math). Arithmetic re-checked: 1.2^12 ≈ 8.92.

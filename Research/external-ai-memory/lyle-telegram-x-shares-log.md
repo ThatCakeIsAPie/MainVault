@@ -2,7 +2,7 @@
 type: note
 title: Lyle Telegram X Shares Log
 created: '2026-06-22T00:00:00+00:00'
-updated: '2026-11-23T00:00:00+00:00'
+updated: '2026-11-24T00:00:00+00:00'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -18,6 +18,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-11-24 | [2125115025274868054](https://x.com/0xSero/status/2125115025274868054) | someone has the 8x rx 6000 pro build we were looking at lol | [[research/raw/transcripts/lyle-x-share-2125115025274868054]] | [[research/faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] · [[Personal/Dream Compound Vision]] |
 | 2026-11-23 | [2124854140173955437](https://x.com/miroburn/status/2124854140173955437) | via Chief of Staff; Actually insane value, wtf. | [[research/raw/transcripts/lyle-x-share-2124854140173955437]] | [[research/concepts/offshoots/offer-stacking]] |
 | 2026-11-22 | [2124459878408433851](https://x.com/ryangrowthh/status/2124459878408433851) | ambient share, then Lyle asked for a principle: business and brand, go after the really hard things; do something so wild people can't help but look | [[research/raw/transcripts/lyle-x-share-2124459878408433851]] | [[research/concepts/offshoots/purple-cow]] |
 | 2026-11-21 | [2124211995016851831](https://x.com/muvaff/status/2124211995016851831) | via Chief of Staff; fascinating look at the business model behind $200/month plans; ties to free-first: if it scales, make it free and charge for what doesn't | [[research/raw/transcripts/lyle-x-share-2124211995016851831]] | [[research/concepts/offshoots/if-it-scales-its-free]] |

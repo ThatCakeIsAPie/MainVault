@@ -53,6 +53,16 @@
 - Full cabinet: about $2.39M, or $2.48M with UPS
 - Not included: management switch ($500–$1,500 est.), pumps/piping/install ($5k–$15k est.), barn 3-phase electrical service
 
+### Seen in the wild (2026-11-24)
+
+0xSero posted a real **8× RTX Pro 6000 Server Edition** box: 768 GB VRAM, 768 GB RAM, 120 TB NVMe. He says it can run pretty much any model fast, including Kimi with offloading. In a follow-up he says a dentist owns it and is running a large operation on DeepSeek / GLM, after previously having 200 Claude max subs. Those are 0xSero's claims, not checked here. Photos show a Supermicro chassis in a rack, a full front drive bay, eight rear GPU slots, and an AWT 51.2V 314Ah battery module nearby. ^[Research/raw/transcripts/lyle-x-share-2125115025274868054]
+
+Lyle's take: "someone has the 8x rx 6000 pro build we were looking at lol."
+
+Same GPU count and 768 GB VRAM as the cabinet plan above. His RAM (768 GB) is half of the 1.5 TB in that plan; 120 TB NVMe is far more than the 2 TB listed there. Do not treat them as the same bill of materials.
+
+See also [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]].
+
 ### Reference build: Stephen Ronan's solar DGX Stations
 
 Stephen J Ronan MD ([@SJRonanMD](https://x.com/SJRonanMD)) — [lab post](https://x.com/SJRonanMD/status/2109450102683451745), [benchmark post](https://x.com/i/status/2108324629819576561).
