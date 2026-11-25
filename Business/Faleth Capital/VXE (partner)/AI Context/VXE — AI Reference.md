@@ -6,7 +6,7 @@ This file is a consolidated reference for AI agents operating in the context of 
 
 ## Overview
 
-VXE is a government contracts business. It is run by Leonard (external business partner), with Lyle and his brother holding a partnership stake. The brother is currently the primary point of contact on the Faleth Capital side for this venture, while Lyle focuses on Free Range Repair.
+VXE is a government contracts business. It is run by Leonard (external business partner), with Lyle's brother holding a partnership stake. Lyle has no equity in VXE: his LLC is a contractor for VXE and he earns by commission (Lyle, 2026-11-23). The brother is currently the primary point of contact on the Faleth Capital side for this venture. Lyle is no longer running Free Range Repair; he pivoted away from it when VXE started picking back up (noted 2026-11-23).
 
 ### Ownership & Roles
 
@@ -14,7 +14,7 @@ VXE is a government contracts business. It is run by Leonard (external business 
 |---|---|
 | Leonard | Operator — runs the business day-to-day; **2026-07-05** Lyle reports pipeline picking up (commercial + gov) |
 | Brother (Lyle's) | Partner — primary liaison; **~$60k** contract pending budget pass (with Lyle) |
-| Lyle | Partner — **active on VXE again** post-layoff (~2026-06-27); **~$10k** awarded contract; runway focus ~2 months until pay |
+| Lyle | Contractor through his LLC, paid by commission; no equity (2026-11-23) — **active on VXE again** post-layoff (~2026-06-27); **~$10k** awarded contract; runway focus ~2 months until pay |
 
 ---
 
@@ -34,13 +34,24 @@ VXE operates in the government contracts space.
 
 ## Partnership Structure
 
-> **To be documented.** Add equity splits, profit sharing terms, and any formal partnership agreement details here.
+Lyle's view, 2026-11-23:
+- Lyle has no equity in VXE. His LLC is a contractor for VXE and he earns by commission. (Earlier the same day he had said "partner, not the owner"; this is the precise version.)
+- So much at VXE is outside his control that he is not sure what his best activity is right now.
+- He uses VXE to learn how a traditional business runs.
+- For him, VXE's main output is money he can use elsewhere (Faleth).
+
+> **Still to be documented:** equity splits, profit sharing terms, and any formal partnership agreement.
 
 ---
 
 ## Compensation & Equity
 
-> **To be documented.** Add any internal compensation structure or equity terms.
+Lyle's view, 2026-11-23:
+- The owner does not want to use Layer 2, the pay design all of Faleth is built on.
+- The owner is OK with something like a profit share.
+- So VXE is not run on Faleth's compensation model.
+
+> **Still to be documented:** the actual compensation and equity terms.
 
 ---
 
@@ -57,7 +68,7 @@ VXE operates in the government contracts space.
 | Leonard | Operator and external business partner |
 | Faleth Capital | Silent partner / evergreen holding company |
 | LibreTech | Related defense business — see [[LibreTech — AI Reference]] |
-| Free Range Repair | Lyle's primary focus — see [[Free Range Repair — AI Reference]] |
+| Free Range Repair | No longer run by Lyle; he pivoted away when VXE picked back up (2026-11-23) — see [[Free Range Repair — AI Reference]] |
 
 ---
 

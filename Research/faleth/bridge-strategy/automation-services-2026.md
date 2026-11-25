@@ -2,7 +2,7 @@
 type: strategy
 title: Automation Services Bridge Strategy (2026)
 status: on_hold
-updated: '2026-07-05T00:00:00.000Z'
+updated: '2026-11-23'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T14:02:37.188Z'
 source_kind: 'mcp:put_page'
@@ -17,6 +17,8 @@ tags:
 # Automation Services Bridge Strategy (2026)
 
 **Context**: Lyle built a temporary bridge plan to replace day job income (~$800/week) while government contracts pipeline matured.
+
+**Update 2026-11-23 (Lyle, via Spar):** An automation-consulting offshoot is not something any of them want, short term or long. Focus is moving to Faleth, starting with home construction. See [[faleth/one-billion-homes-dfw-build-cost-model-2026]].
 
 **Update 2026-07-05:** Day job **ended** (layoff ~2026-06-27). **VXE with Leonard** accelerating — **~$10k awarded**, **~$60k** pending budget with brother; unemployment filed (pending). **Primary gap** = **~2 months cash timing**, not lack of deals. Automation services remain **on hold** unless runway math breaks before GovCon pay.
 

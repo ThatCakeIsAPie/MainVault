@@ -5,6 +5,117 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-24] ingest | Elon: intelligence is compression and correlation (2125175732758520056)
+- Raw: [[raw/transcripts/lyle-x-share-2125175732758520056]] (sha256 `2ceea2ad58f6f3596a9e8833a395a5fb4dc6eb786a11c9acdb13e174771fef92`)
+- Elon replied to Andrew Carr (@andrew_n_carr): "Ilya wasn't joking when he said intelligence is compression." Elon's text: "It is compression and correlation"
+- Lyle's take: "Pretty genius way to describe intelligence"
+- Created: [[offshoots/intelligence-as-compression-and-correlation]]
+- Media: Andrew's later "it's the same!" photo (human-motion scaling figure) → `raw/assets/x/2124898773231116712/`
+- Shares log and index updated
+
+## [2026-11-24] ingest | 0xSero 8× RTX Pro 6000 Server Edition (2125115025274868054)
+- Raw: [[raw/transcripts/lyle-x-share-2125115025274868054]] (sha256 `560bfbf11be62e29d6fe01592d2240808d55fe830d6310868bf09a2aa22e4537`)
+- Media: 4 JPEGs (front rack, rear/PDU, AWT battery, rear GPU slots) → `raw/assets/x/2125115025274868054/`
+- Thread: 0xSero follow-up 2125115030966325701 (dentist owner; DeepSeek / GLM; prior 200 Claude max subs) plus other 0xSero replies, in the same raw file
+- Lyle's take: "someone has the 8x rx 6000 pro build we were looking at lol"
+- Updated: [[faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] (new 8× section)
+- Updated: [[Personal/Dream Compound Vision]] (the earlier 8× RTX PRO 6000 cabinet plan; "Seen in the wild" note). 0xSero's box matches GPU count and 768 GB VRAM; RAM and NVMe do not match that bill of materials.
+- No new page, so index unchanged
+- Shares log updated
+
+## [2026-11-23] ingest | Spar: Lyle's time-per-home compounding math
+- Raw: [[raw/conversations/spar-2026-11-23-time-per-home-compounding-math]] (sha256 `d58955791f612642c64ca3b9f57db6c294a4a90311a4974a84dd45788e0bc6f3`)
+- Updated: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (new "Time per home compounds" section; closes the open question on missing math). Arithmetic re-checked: 1.2^12 ≈ 8.92.
+- Canon `One_Billion_Homes.md` §6 not edited
+
+## [2026-11-23] update | Habitat ask, VXE down payment, time-per-home pitch
+- Appended a second dated "Later note" to [[raw/conversations/spar-2026-11-23-habitat-for-humanity-contacts]]
+- Updated: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (his ask to Habitat contacts, VXE money as down payment, time-per-home emphasis; open question: compounding math not yet in vault — not written from a guess)
+
+## [2026-11-23] update | Habitat for Humanity background
+- Appended a dated "Later note" to [[raw/conversations/spar-2026-11-23-habitat-for-humanity-contacts]] (how Lyle knows the Habitat people; contacts not named)
+- Updated: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (one background line in the Habitat subsection)
+
+## [2026-11-23] ingest | Spar: Habitat for Humanity as a people source
+- Raw: [[raw/conversations/spar-2026-11-23-habitat-for-humanity-contacts]] (sha256 `5ddbb20ae888312929a0ef38d905d5ed3ee6230564284518294912a0b4885df9`)
+- Updated: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (Habitat subsection under "How it starts")
+- Canon `One_Billion_Homes.md` not edited
+
+## [2026-11-23] ingest | Spar: One Billion Homes — how it starts, and Lyle's role
+- Raw: [[raw/conversations/spar-2026-11-23-one-billion-homes-how-it-starts]] (sha256 `6f2436b4fe38d415e6aec510d2755b8543e74816081b18f86f036115f705d419`)
+- Updated: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (new "How it starts" section; open questions updated)
+- Updated: [[faleth/heroes-faleth-first-subsidiary-and-model-case-2026-11-11]] (dated note: electronics manufacturer superseded by One Billion Homes). Resolves the conflict flagged earlier today.
+- Updated: `Business/Faleth Capital/VXE (partner)/AI Context/VXE — AI Reference.md` (Lyle: no equity; his LLC is a contractor paid by commission — corrects the earlier "partner" wording)
+- Canon `One_Billion_Homes.md` not edited
+
+## [2026-11-23] update | VXE partnership and pay, in Lyle's words
+- Source: Lyle via Spar, 2026-11-23: partner not owner; owner won't do Layer 2 but is OK with something like profit share; VXE is where Lyle learns traditional business, and its main output for him is money for elsewhere
+- Updated: `Business/Faleth Capital/VXE (partner)/AI Context/VXE — AI Reference.md` (Partnership Structure, Compensation & Equity; actual terms still to be documented)
+
+## [2026-11-23] update | Free Range Repair no longer run by Lyle
+- Source: Lyle's correction via Spar, 2026-11-23: he pivoted away from Free Range Repair when VXE started picking back up. Closed vs paused not stated.
+- Updated: `Business/Faleth Capital/VXE (partner)/AI Context/VXE — AI Reference.md` (Overview line and Key Relationships row)
+- Updated: `Business/Faleth Capital/Free Range Repair/AI Context/Free Range Repair — AI Reference.md` (status note at top)
+- [[entities/lyle-cole]] already said FRR is no longer pursued; unchanged
+
+## [2026-11-23] ingest | Spar: One Billion Homes compensation and "the drip"
+- Raw: [[raw/conversations/spar-2026-11-23-one-billion-homes-compensation-drip]] (sha256 `17f53ecc900ffe24670e5de9b1f8694693f3d036f93bffc9cab1f394039c18c4`)
+- Updated: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (new section with Lyle's compensation stack, the drip, drip to Class B; hypothetical numbers)
+- Canon docs in Business/Faleth Capital were not edited; the drip differs from the holdback in One_Billion_Homes §2 and is noted as such
+- No new page, so index unchanged
+
+## [2026-11-23] ingest | Spar: DFW build cost explorer + home-construction path
+- Raw: [[raw/conversations/spar-2026-11-23-dfw-build-cost-explorer-home-construction]] (sha256 `9990885154bb83daf6e13dc06a555ac0bab83de37eb35bf1e18e0b5d3d461848`)
+- Original HTML kept unchanged: `raw/documents/dfw-build-cost-explorer-2026-11-23.html` (file sha256 `d1b03426e3bdadb25cdd937752c2445c59c2ddb5735b9f2769d70c43b6fe19f0`)
+- Created: [[faleth/one-billion-homes-dfw-build-cost-model-2026]] (carries the explorer's own caveat: unit prices are estimates until supplier quotes)
+- Updated: [[faleth/bridge-strategy/automation-services-2026]] (Lyle: automation consulting ruled out short and long term)
+- Flagged: first subsidiary named as home construction (2026-11-23) vs electronics contract manufacturer (2026-11-11); not yet reconciled
+- Index updated
+
+## [2026-11-23] ingest | miroburn offer stacking on Google AI Ultra (2124854140173955437)
+- Raw: [[raw/transcripts/lyle-x-share-2124854140173955437]] (sha256 `b2cdf26ab14f4e53c39a3210ddc61aab58d7c525597971e07d346b87b2b28101`)
+- Media: 2 PNGs (Google AI Ultra benefits list + Colab help page) → `raw/assets/x/2124854140173955437/`
+- Thread: root 2124852908134940977 (full `note_tweet`) + image-only follow-up 2124853600241455570; both in the same raw file, with labeled English translations
+- Lyle's take: "Actually insane value, wtf."
+- Created: [[offshoots/offer-stacking]]
+- Why: named sales pattern (bundle cheap-to-serve perks so perceived value far exceeds price); ties to utilization economics. `if-it-scales-its-free.md` was linked, not edited (pending edit on that page).
+- Shares log + index updated
+
+## [2026-11-22] create | purple cow as a business and brand principle
+- Created: [[offshoots/purple-cow]]
+- Source: [[raw/transcripts/lyle-x-share-2124459878408433851]] (already ingested; was raw-only until Lyle's take)
+- Lyle's take: not just content; a general approach to business and brand — go after the really hard things; for marketing, do something so wild people can't help but look ("a massive, massive thing")
+- Why: Lyle asked for an actual principle page
+- Linked: [[offshoots/marketing-first-principles]], [[offshoots/if-it-scales-its-free]] (linked only; that page was not edited)
+- No raw files edited
+- Index updated
+
+## [2026-11-22] ingest | ryangrowthh MrBeast purple-cow virality clip (2124459878408433851)
+- Raw: [[raw/transcripts/lyle-x-share-2124459878408433851]] (sha256 `898b24273a82b4dee9eb11b96dcab4cb62bdf11bf64850f47565070635c7e1a4`)
+- Media: 1 video (~99.6s, inspected, not stored) + preview JPG → `raw/assets/x/2124459878408433851/`
+- Machine transcript of the clip is in the raw file (not official captions). Author follow-ups confirm the clip is from DOAC and references Seth Godin's Purple Cow.
+- Lyle's take: none (ambient share; pasted the link with no note)
+- Distilled: raw-only — no existing purple-cow / MrBeast / remarkable-content page to update; a single 100-second clip restating that idea does not by itself earn a new page
+- Shares log updated
+
+## [2026-11-21] ingest | muvaff utilization-rate economics of $200 AI plans (2124211995016851831)
+- Raw: [[raw/transcripts/lyle-x-share-2124211995016851831]] (sha256 `8abf89566d0f2dae415885704d552a82014dc421eed52406fa2840e9fc832779`)
+- Media: 1 JPG (Vlad usage screenshot, quoted post) → `raw/assets/x/2124211995016851831/`
+- Quoted: @vlad_mihalcea 2123753559191617993 (full text in the same raw file; no note_tweet)
+- Full muvaf text from X API `note_tweet`; matches Lyle's screenshot (typography only). No @muvaff follow-up in the thread.
+- Lyle's take: a fascinating look at the business model behind $200/month plans; ties to free-first — if it scales, make it free and charge for what doesn't
+- Updated: [[offshoots/if-it-scales-its-free]] (existing page; also added to index — it had been missing)
+- Why: Lyle asked (via Chief of Staff) to ingest it against his free-first idea
+- Shares log + index updated
+
+## [2026-11-21] ingest | Mighty Men published notes (Keith A. Craft, Most Mighty Principle)
+- Raw: [[raw/documents/mighty-men-2026-11-21-published-notes]] (sha256 `92ff040c5f806a059b8085715defd3fce65207082936dcb19752e848ed455a49`)
+- Asset: `raw/assets/mighty-men/2026-11-21-published-notes.pdf` (sha256 `a07b907db6fa32d591a5fd3ad6120393790979a687e0c99ba3a5192c2269bb95`)
+- Created: [[mighty-men]] (dated entry for the 2026-11-21 published handout)
+- Why: Lyle asked to file the group's published notes, kept separate from his own; no Mighty Men entity existed
+- Lyle's own notes for this date are not in the vault yet; existing personal Mighty Men notes are linked from the entity page
+- Index updated
+
 ## [2026-11-12] ingest | matthewsoldit ListeningKit log + Hermes plugin (2120940613726265419)
 - Raw: [[raw/transcripts/lyle-x-share-2120940613726265419]] (sha256 `e79d47cebc6f7c1ebfe46801b494f7afa0598c7f5ade7f2c4dc5a8248c7e1a5a`)
 - Media: parent announcement video thumb + 3 promo frames + GitHub link card → `raw/assets/x/2120940613726265419/` (MP4 inspected, not stored)

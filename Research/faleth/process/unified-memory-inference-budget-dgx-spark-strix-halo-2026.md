@@ -1,7 +1,7 @@
 ---
 title: Unified-Memory Inference Budget — DGX Spark, RTX Spark, and Strix Halo
 created: 2026-07-30
-updated: 2026-11-04
+updated: 2026-11-24
 type: principle
 tags: [ai, llm, inference, hardware, systems]
 sources:
@@ -15,6 +15,7 @@ sources:
   - raw/x-bookmarks/26-08-13/2087983106972057602.md
   - raw/conversations/spar-2026-10-27-dgx-spark-side-project.md
   - raw/conversations/spar-2026-11-04-dgx-spark-vxe-infra.md
+  - raw/transcripts/lyle-x-share-2125115025274868054.md
 confidence: medium
 ---
 
@@ -144,6 +145,14 @@ Mia reports backporting six vLLM 0.27 performance patches into a **two-DGX-Spark
 
 The durable correction is still valuable: once decode throughput becomes comfortably interactive, **latency under realistic context** can dominate usability. Commissioning should therefore record time-to-first-token and tail latency at fixed context checkpoints—not merely average tok/s—and test whether runtime patches preserve stability and output quality. This complements [[faleth/process/llm-inference-serving-five-optimization-surfaces-2026]] and the accepted-job framing in [[faleth/process/frontier-model-cost-speed-tradeoff-2026]].
 
+## 8× RTX PRO 6000 Server Edition — 0xSero (2026-11-24)
+
+0xSero posted an **8× RTX Pro 6000 Server Edition** machine with **768 GB VRAM**, **768 GB RAM**, and **120 TB NVMe**. He says it can run pretty much any model blazing fast, including Kimi with offloading. Four photos show a Supermicro chassis in a rack, a full front drive bay, eight rear GPU slots, and an AWT 51.2V 314Ah battery module nearby. The post itself does not give tok/s, power, a recipe, or a price. ^[raw/transcripts/lyle-x-share-2125115025274868054]
+
+In a follow-up one second later, he says a dentist owns the box, is running a large operation on DeepSeek / GLM, and previously had 200 Claude max subs. Those are 0xSero's claims, not checked here. He also wrote that the machine can serve hundreds of concurrent users 24/7. ^[raw/transcripts/lyle-x-share-2125115025274868054]
+
+Lyle's take: "someone has the 8x rx 6000 pro build we were looking at lol." The plan he means is in [[Personal/Dream Compound Vision]]: one 8× RTX PRO 6000 Server Edition rack with 768 GB GPU memory (cabinet build dated Nov 4, 2026). 0xSero's box matches the GPU count and VRAM. His RAM (768 GB) is half the 1.5 TB in that plan, and 120 TB NVMe is far larger than the 2 TB listed there. Do not treat the two as the same bill of materials.
+
 ## First commissioning sequence
 
 1. Install and validate one conservative model below the memory ceiling.
@@ -184,6 +193,7 @@ See also [[business/vxe/government-contracting-first-principles]] for the VXE re
 - [[faleth/process/member-gated-compute-mesh-for-sovereign-agents-2026]]
 - [[faleth/process/llm-inference-serving-five-optimization-surfaces-2026]]
 - [[faleth/process/magi-2-open-moe-video-generation-2026]]
+- [[Personal/Dream Compound Vision]]
 
 ## Sources
 

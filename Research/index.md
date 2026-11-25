@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-09-21 | Total pages: 153+
+> Last updated: 2026-11-23 | Total pages: 153+
 
 ## Meta / schema
 
@@ -21,6 +21,7 @@
 - [[faleth-capital]] — Lyle's family-office / private-index-fund architecture for contribution-based compensation, earned equity, and contributor governance.
 - [[ltd-amway]] — Leadership-development, mentorship, and network-marketing environment serving as an incubator in Lyle's broader sequencing model.
 - [[lyle-cole]] — 27-year-old entrepreneur building Faleth Capital; faith-centered, systems thinker.
+- [[mighty-men]] — Men's gathering Lyle attends; this page catalogs the group's published notes, kept separate from his own.
 - [[robert-kiyosaki]] — Financial/business influence marker around cashflow, asset ownership, and escaping linear income.
 - [[tony-robbins]] — Personal-development influence (identity/belief/state) plus later finance teaching (*Holy Grail of Investing* / alternatives access).
 - [[tyler-sheridan]] — LTD Amway speaker emphasizing win-win mentorship, family legacy, leveraged leadership income, endurance, and long-term thinking.
@@ -51,6 +52,8 @@
 - [[offshoots/holy-grail-of-investing]] — Dalio/Robbins frame: 8–12 non-correlated investments + security/growth/dream buckets; contested retail-access claim (SEC/DOL).
 - [[offshoots/honor-edification-and-communication-rhythm]] — Healthy duplication depends on honoring the mentorship chain, edifying the right people, and maintaining clear communication rhythms.
 - [[offshoots/identity-and-belief-drive-behavior]] — Lasting behavioral change comes from identity and belief change, not temporary motivation or surface discipline.
+- [[offshoots/if-it-scales-its-free]] — Hormozi split: what scales is free; what doesn't gets a price. Lyle also ties this to the business model behind flat-rate AI plans.
+- [[offshoots/intelligence-as-compression-and-correlation]] — Elon, replying to Andrew Carr on Ilya's "intelligence is compression" line: "It is compression and correlation." Lyle: "Pretty genius way to describe intelligence."
 - [[offshoots/long-term-alignment-through-reinvestment]] — Participants should have incentives to reinvest and act in the long-term interest of the organization.
 - [[offshoots/master-once-then-duplicate]] — True scale comes from mastering a skillset once and then teaching others to do it.
 - [[offshoots/mentorship-compression-through-proven-paths]] — The fastest way to reduce avoidable mistakes is to learn from someone who has already walked the path.
@@ -58,10 +61,12 @@
 - [[offshoots/move-first-and-over-deliver]] — Hypothesis: move first and over-deliver (take their problem more seriously, give before asked) and others mirror the frame.
 - [[offshoots/the-made-world-and-the-will-to-ship]] — The world is made by people, shipping is a low-entropy fight, and you can poke life and change it. Lyle loves these quotes.
 - [[offshoots/networking-and-connection-skills]] — Networking and genuine connection are learnable, teachable skills rather than innate talents.
+- [[offshoots/offer-stacking]] — Bundle many cheap-to-serve perks into one subscription so perceived value far exceeds the price. Lyle, on the Google AI Ultra stack: "Actually insane value, wtf."
 - [[offshoots/persistent-consistent-action]] — Long-term success requires persistent, consistent daily action over an extended period.
 - [[offshoots/pipeline-abundance-through-repetition]] — Confidence in people work comes from having enough people in process that no single prospect carries emotional weight.
 - [[offshoots/principles-permanent-parameters-adaptive]] — Protect durable commitments while continuously recalibrating context-sensitive operating dials.
 - [[offshoots/purpose-and-vision-as-focusing-mechanisms]] — Clear vision and purpose simplify decisions, priorities, reading lists, and relationships.
+- [[offshoots/purple-cow]] — Go after the hard, never-done-before thing; the ordinary gets scrolled past. Lyle treats this as a business and brand principle, not just a content tip.
 - [[offshoots/rejection-that-preserves-agency]] — A truthful rejection can preserve standards and equip future growth by making the present gap and route back legible.
 - [[offshoots/rejection-that-preserves-agency]] — A truthful rejection can preserve standards and equip future growth by making the present gap and route back legible.
 - [[offshoots/self-governance-by-contributors]] — People doing the work and bearing the consequences should govern the conditions under which they work.
@@ -107,7 +112,8 @@
 
 **Bridge & strategy**
 - [[faleth/bridge-strategy/game-finish-bridge-2026]] — Indie game ship as cash-timing bridge alongside GovCon deals.
-- [[faleth/bridge-strategy/automation-services-2026]] — Automation services bridge (on hold unless runway forces linear income).
+- [[faleth/bridge-strategy/automation-services-2026]] — Automation services bridge (ruled out short and long term as of 2026-11-23).
+- [[faleth/one-billion-homes-dfw-build-cost-model-2026]] — DFW build cost explorer (NAHB 2024 home, drill-down to line items) plus Lyle's home-construction plan for One Billion Homes.
 
 ## VXE / GovCon ops
 

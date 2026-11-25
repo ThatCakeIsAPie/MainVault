@@ -2,7 +2,7 @@
 type: note
 title: Lyle Telegram X Shares Log
 created: '2026-06-22T00:00:00+00:00'
-updated: '2026-11-12T00:00:00+00:00'
+updated: '2026-11-24T00:00:00+00:00'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -18,6 +18,11 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-11-24 | [2125175732758520056](https://x.com/elonmusk/status/2125175732758520056) | Pretty genius way to describe intelligence | [[research/raw/transcripts/lyle-x-share-2125175732758520056]] | [[research/concepts/offshoots/intelligence-as-compression-and-correlation]] |
+| 2026-11-24 | [2125115025274868054](https://x.com/0xSero/status/2125115025274868054) | someone has the 8x rx 6000 pro build we were looking at lol | [[research/raw/transcripts/lyle-x-share-2125115025274868054]] | [[research/faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] · [[Personal/Dream Compound Vision]] |
+| 2026-11-23 | [2124854140173955437](https://x.com/miroburn/status/2124854140173955437) | via Chief of Staff; Actually insane value, wtf. | [[research/raw/transcripts/lyle-x-share-2124854140173955437]] | [[research/concepts/offshoots/offer-stacking]] |
+| 2026-11-22 | [2124459878408433851](https://x.com/ryangrowthh/status/2124459878408433851) | ambient share, then Lyle asked for a principle: business and brand, go after the really hard things; do something so wild people can't help but look | [[research/raw/transcripts/lyle-x-share-2124459878408433851]] | [[research/concepts/offshoots/purple-cow]] |
+| 2026-11-21 | [2124211995016851831](https://x.com/muvaff/status/2124211995016851831) | via Chief of Staff; fascinating look at the business model behind $200/month plans; ties to free-first: if it scales, make it free and charge for what doesn't | [[research/raw/transcripts/lyle-x-share-2124211995016851831]] | [[research/concepts/offshoots/if-it-scales-its-free]] |
 | 2026-11-12 | [2120940613726265419](https://x.com/matthewsoldit/status/2120940613726265419) | This looks very interesting. Curious if it is useful for our Hermes setup | [[research/raw/transcripts/lyle-x-share-2120940613726265419]] | [[research/faleth/process/listeningkit-log-hermes-social-inbox-2026]] |
 | 2026-11-12 | [2119869150143091175](https://x.com/travisk/status/2119869150143091175) | Actually useful information regarding those types of situations. Unfortunate when stuff like that happens, but there are always going to be people who want to take you down, so this is legitimately decent advice. | [[research/raw/transcripts/lyle-x-share-2119869150143091175]] | [[research/concepts/offshoots/countering-a-coordinated-takedown]] |
 | 2026-11-10 | [2119894036316398055](https://x.com/prd_008/status/2119894036316398055) | ambient share; Lyle loves the quotes (Collison museum of passion projects; Pokrass universe does not want you to ship); first reply is @LilianDelaveau; Jobs poke-life quote is in a later @dermotmcg reply | [[research/raw/transcripts/lyle-x-share-2119894036316398055]] | [[research/concepts/offshoots/the-made-world-and-the-will-to-ship]] |
