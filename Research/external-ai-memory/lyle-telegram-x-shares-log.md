@@ -2,7 +2,7 @@
 type: note
 title: Lyle Telegram X Shares Log
 created: '2026-06-22T00:00:00+00:00'
-updated: '2026-11-24T00:00:00+00:00'
+updated: '2026-11-27T00:00:00+00:00'
 effective_date: '2026-07-05T00:00:00.000Z'
 ingested_via: 'mcp:put_page'
 ingested_at: '2026-07-05T13:54:55.046Z'
@@ -18,6 +18,7 @@ Index of X posts Lyle forwarded via Telegram. Each row links to raw ingest under
 
 | Telegram date | Status ID | Lyle note | Raw ingest | Distilled / related |
 |---------------|-----------|-----------|------------|---------------------|
+| 2026-11-27 | [2126087729758847276](https://x.com/harrygestetner1/status/2126087729758847276) | via Chief of Staff; been curious about Eight Sleep for a while; likes that Orion may offer something similar without a subscription | [[research/raw/transcripts/lyle-x-share-2126087729758847276]] | — |
 | 2026-11-24 | [2125175732758520056](https://x.com/elonmusk/status/2125175732758520056) | Pretty genius way to describe intelligence | [[research/raw/transcripts/lyle-x-share-2125175732758520056]] | [[research/concepts/offshoots/intelligence-as-compression-and-correlation]] |
 | 2026-11-24 | [2125115025274868054](https://x.com/0xSero/status/2125115025274868054) | someone has the 8x rx 6000 pro build we were looking at lol | [[research/raw/transcripts/lyle-x-share-2125115025274868054]] | [[research/faleth/process/unified-memory-inference-budget-dgx-spark-strix-halo-2026]] · [[Personal/Dream Compound Vision]] |
 | 2026-11-23 | [2124854140173955437](https://x.com/miroburn/status/2124854140173955437) | via Chief of Staff; Actually insane value, wtf. | [[research/raw/transcripts/lyle-x-share-2124854140173955437]] | [[research/concepts/offshoots/offer-stacking]] |

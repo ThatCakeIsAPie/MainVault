@@ -5,6 +5,13 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-11-27] ingest | Harry Gestetner Orion vs Eight Sleep offer (2126087729758847276)
+- Raw: [[raw/transcripts/lyle-x-share-2126087729758847276]] (sha256 `74d6139c2a679b31a1d53f44d9c95ca5d42b6820616b881e387efd2c00b47810`)
+- Harry Gestetner (@harrygestetner1), founder of Orion, quoted Drew Fallon (@drewfallon12) asking "Orion or 8 sleep?" on Black Friday. Harry offered to buy Drew an Eight Sleep and send a free Orion; if Drew prefers Eight Sleep, Harry would pay for a 2-year subscription and donate $1,000 to a charity of Drew's choice.
+- Relayed Lyle context (via Chief of Staff, not a verbatim quote): been curious about Eight Sleep for a while; likes that Orion may offer something similar without a subscription. The posts do not state Orion's pricing; not checked here.
+- Raw-only: no existing Eight Sleep / Orion / sleep-hardware page, and this single offer does not meet the 2+ sources or "central" threshold for a new distilled page.
+- No media. Shares log updated; index unchanged.
+
 ## [2026-11-24] ingest | Elon: intelligence is compression and correlation (2125175732758520056)
 - Raw: [[raw/transcripts/lyle-x-share-2125175732758520056]] (sha256 `2ceea2ad58f6f3596a9e8833a395a5fb4dc6eb786a11c9acdb13e174771fef92`)
 - Elon replied to Andrew Carr (@andrew_n_carr): "Ilya wasn't joking when he said intelligence is compression." Elon's text: "It is compression and correlation"
